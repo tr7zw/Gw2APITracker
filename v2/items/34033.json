@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Aureate Staff of Earth",
+  "type": "Weapon",
+  "level": 53,
+  "rarity": "Rare",
+  "vendor_value": 212,
+  "default_skin": 5027,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34033,
+  "chat_link": "[\u0026AgHxhAAA]",
+  "icon": "https://render.guildwars2.com/file/D4E855D925AEB21D5A0F66E40C6A343D580E0F49/64330.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 537,
+    "max_power": 605,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 338.544,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 118
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 85
+        }
+      ]
+    },
+    "suffix_item_id": 24559
+  }
+}

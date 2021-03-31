@@ -1,0 +1,43 @@
+{
+  "name": "Graffiti-covered Stone",
+  "description": "\u003cc\u003d@flavor\u003e\"If you want to keep a piece, it\u0027s all yours.\"\u003cbr\u003e—Crusader Brice\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 54,
+  "rarity": "Masterwork",
+  "vendor_value": 118,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23458,
+  "chat_link": "[\u0026AgGiWwAA]",
+  "icon": "https://render.guildwars2.com/file/0A402568104F5BE5BC644665653302005F6266CF/66800.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 99.9175,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 25
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 35
+        }
+      ]
+    }
+  }
+}

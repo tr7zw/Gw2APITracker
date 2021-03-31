@@ -1,0 +1,39 @@
+{
+  "name": "Black Haven Ring",
+  "description": "",
+  "type": "Trinket",
+  "level": 22,
+  "rarity": "Masterwork",
+  "vendor_value": 75,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23756,
+  "chat_link": "[\u0026AgHMXAAA]",
+  "icon": "https://render.guildwars2.com/file/02776ECC5702B415A0F65D474B14245D1F17209F/63593.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [],
+    "attribute_adjustment": 38.658,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 14
+        }
+      ]
+    }
+  }
+}

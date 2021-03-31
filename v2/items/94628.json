@@ -1,0 +1,54 @@
+{
+  "name": "Diviner\u0027s Refitted Aureate Longbow",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 198,
+  "default_skin": 9833,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94628,
+  "chat_link": "[\u0026AgGkcQEA]",
+  "icon": "https://render.guildwars2.com/file/AB739E97362780132EC758F89770C23C6FA94DF4/2393729.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 758,
+    "max_power": 889,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 559.912,
+    "infix_upgrade": {
+      "id": 1556,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 168
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 92
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 92
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 168
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1817,
+  "name": "Labyrinth Runner",
+  "description": "Story Instance: Into the Labyrinth",
+  "requirement": "Complete \"Into the Labyrinth\" instance within 20 minutes.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    1822
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 43772,
+      "count": 5
+    }
+  ]
+}

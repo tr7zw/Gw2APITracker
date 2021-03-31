@@ -1,0 +1,49 @@
+{
+  "name": "Dire Seer Mantle",
+  "description": "",
+  "type": "Armor",
+  "level": 75,
+  "rarity": "Exotic",
+  "vendor_value": 273,
+  "default_skin": 45,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 64580,
+  "chat_link": "[\u0026AgFE/AAA]",
+  "icon": "https://render.guildwars2.com/file/0F6E6E6F4D0802BD4FBB9425BDBDD476B704D9C8/61092.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 67,
+    "infusion_slots": [],
+    "attribute_adjustment": 116.7,
+    "infix_upgrade": {
+      "id": 754,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 29
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 29
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 41
+        }
+      ]
+    }
+  }
+}

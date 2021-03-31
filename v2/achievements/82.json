@@ -1,0 +1,24 @@
+{
+  "id": 82,
+  "name": "The Cost of Victory",
+  "description": "You faced your worst fear and emerged triumphant.",
+  "requirement": "Complete the personal story step \"A Sad Duty,\" \"Delivering Justice,\" or \"Liberating Apatia.\"",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tyria",
+      "id": 259
+    }
+  ]
+}

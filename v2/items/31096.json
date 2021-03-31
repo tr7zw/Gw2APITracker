@@ -1,0 +1,50 @@
+{
+  "name": "Mystic Pistol",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 5328,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 31096,
+  "chat_link": "[\u0026AgF4eQAA]",
+  "icon": "https://render.guildwars2.com/file/7548CF44440124C9B527B4425BB2274FAEF13AA9/534333.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 876,
+    "max_power": 1029,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 120
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 85
+        }
+      ]
+    },
+    "suffix_item_id": 24572
+  }
+}

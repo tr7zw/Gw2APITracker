@@ -1,0 +1,53 @@
+{
+  "name": "Stentor Focus",
+  "description": "\u003cc\u003d@flavor\u003e\"This contains a special power matrix embedded in what should appear to be a normal surface.\"\u003cbr\u003e—Explorer Trebb\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 72,
+  "rarity": "Masterwork",
+  "vendor_value": 120,
+  "default_skin": 5178,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30246,
+  "chat_link": "[\u0026AgEmdgAA]",
+  "icon": "https://render.guildwars2.com/file/2344244016425D02CE90BC950B366B7FC0183C37/62837.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 598,
+    "max_power": 635,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 240.108,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 60
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 60
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 84
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

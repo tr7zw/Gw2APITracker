@@ -1,0 +1,47 @@
+{
+  "name": "Backstab",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 130
+    },
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 1
+    },
+    {
+      "text": "Front Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 1.2
+    },
+    {
+      "text": "Back damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 2.4
+    }
+  ],
+  "description": "Stealth Attack. Attack your foe from the shadows, striking for double damage if you hit from behind.",
+  "icon": "https://render.guildwars2.com/file/96EFE0C268C5A70654BBA8B491E1FACC1C180CF3/103616.png",
+  "type": "Weapon",
+  "weapon_type": "Dagger",
+  "professions": [
+    "Thief"
+  ],
+  "slot": "Weapon_1",
+  "flags": [
+    "NoUnderwater"
+  ],
+  "id": 13005,
+  "chat_link": "[\u0026Bs0yAAA\u003d]",
+  "categories": [
+    "StealthAttack"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Hearty Steam Speargun of Water",
+  "description": "",
+  "type": "Weapon",
+  "level": 40,
+  "rarity": "Masterwork",
+  "vendor_value": 114,
+  "default_skin": 5091,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28299,
+  "chat_link": "[\u0026AgGLbgAA]",
+  "icon": "https://render.guildwars2.com/file/935CD7A5037BB9F3C46E0D770D2DD9730ED74A18/62495.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 349,
+    "max_power": 386,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 214.336,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 54
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 75
+        }
+      ]
+    },
+    "suffix_item_id": 24549
+  }
+}

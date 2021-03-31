@@ -1,0 +1,39 @@
+{
+  "name": "Broken Shackle",
+  "description": "\u003cc\u003d@flavor\u003e\"Fortunately, they\u0027re poorly constructed.\"\u003cbr\u003e—Coydd\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 22,
+  "rarity": "Fine",
+  "vendor_value": 32,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23922,
+  "chat_link": "[\u0026AgFyXQAA]",
+  "icon": "https://render.guildwars2.com/file/D901FDEB6501DB1BD9C7F19113BA2DCF91E00E0A/455972.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 29,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 10
+        }
+      ]
+    }
+  }
+}

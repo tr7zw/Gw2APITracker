@@ -1,0 +1,36 @@
+{
+  "name": "Malign Worn Chain Helm",
+  "description": "",
+  "type": "Armor",
+  "level": 14,
+  "rarity": "Fine",
+  "vendor_value": 24,
+  "default_skin": 96,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 1661,
+  "chat_link": "[\u0026AgF9BgAA]",
+  "icon": "https://render.guildwars2.com/file/05E401FDB31A4CC9A16AAB6F1AB01E5014D1435A/61062.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 17,
+    "infusion_slots": [],
+    "attribute_adjustment": 15.008,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 5
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Settler\u0027s Rogue Pants of Hoelbrak",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 370,
+  "default_skin": 57,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 42445,
+  "chat_link": "[\u0026AgHNpQAA]",
+  "icon": "https://render.guildwars2.com/file/7FD55648CD1BD8D8C532D06B07A55FBB6467EE9A/61254.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Medium",
+    "defense": 218,
+    "infusion_slots": [],
+    "attribute_adjustment": 256.08,
+    "infix_upgrade": {
+      "id": 693,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 90
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 64
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 64
+        }
+      ]
+    },
+    "suffix_item_id": 24729
+  }
+}

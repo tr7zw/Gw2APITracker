@@ -1,0 +1,51 @@
+{
+  "name": "Legion Spaulders",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "rarity": "Basic",
+  "id": 335,
+  "icon": "https://render.guildwars2.com/file/F40441C82A429B55D97592FAD7307D31E1606049/779819.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        null
+      ],
+      "overrides": {
+        "SylvariMale": [
+          null,
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          }
+        ]
+      }
+    }
+  }
+}

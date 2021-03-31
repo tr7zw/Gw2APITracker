@@ -1,0 +1,48 @@
+{
+  "name": "Apothecary\u0027s Krait Shooter",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 297,
+  "default_skin": 4116,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 36812,
+  "chat_link": "[\u0026AgHMjwAA]",
+  "icon": "https://render.guildwars2.com/file/1C7B17710EF7E9E5C41856275CAFCD1B46F01293/574979.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 873,
+    "max_power": 1067,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 603.648,
+    "infix_upgrade": {
+      "id": 605,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 151
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 211
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 151
+        }
+      ]
+    }
+  }
+}

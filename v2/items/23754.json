@@ -1,0 +1,38 @@
+{
+  "name": "Mona\u0027s Ring",
+  "description": "\u003cc\u003d@flavor\u003e\"Quit talking and buy something.\"\u003cbr\u003e—Mona\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 5,
+  "rarity": "Fine",
+  "vendor_value": 15,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23754,
+  "chat_link": "[\u0026AgHKXAAA]",
+  "icon": "https://render.guildwars2.com/file/04FA35B4422E02E2683FFD711EA935413BFA0BC6/66812.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [],
+    "attribute_adjustment": 11.808,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

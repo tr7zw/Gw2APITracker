@@ -1,0 +1,40 @@
+{
+  "name": "Strong Chainmail Leggings",
+  "description": "",
+  "type": "Armor",
+  "level": 24,
+  "rarity": "Basic",
+  "vendor_value": 19,
+  "default_skin": 1,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 2907,
+  "chat_link": "[\u0026AgFbCwAA]",
+  "icon": "https://render.guildwars2.com/file/9321FD09DF90E8D10D80B5C41D722F357FE5970A/61104.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Heavy",
+    "defense": 37,
+    "infusion_slots": [],
+    "attribute_adjustment": 29.562,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 10
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 7
+        }
+      ]
+    }
+  }
+}

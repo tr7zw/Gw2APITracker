@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Legionnaire Bayonet of Rage",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 5069,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32298,
+  "chat_link": "[\u0026AgEqfgAA]",
+  "icon": "https://render.guildwars2.com/file/0C26440D74AFBEA29F087FB2F2CF40E13F543561/63057.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 986,
+    "max_power": 1205,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 171
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 171
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 239
+        }
+      ]
+    },
+    "suffix_item_id": 24561
+  }
+}

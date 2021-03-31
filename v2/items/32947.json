@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Flame Dagger of Water",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 156,
+  "default_skin": 5224,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32947,
+  "chat_link": "[\u0026AgGzgAAA]",
+  "icon": "https://render.guildwars2.com/file/2E706E005EE5CD39D0A23198EBB9780CFC0CE2EF/67835.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 576,
+    "max_power": 611,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 200.88,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 50
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 50
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 70
+        }
+      ]
+    },
+    "suffix_item_id": 24550
+  }
+}

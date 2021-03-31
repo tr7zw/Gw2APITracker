@@ -1,0 +1,51 @@
+{
+  "name": "Soldier\u0027s Bandit Musket",
+  "description": "",
+  "type": "Weapon",
+  "level": 65,
+  "rarity": "Masterwork",
+  "vendor_value": 1148,
+  "default_skin": 4096,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 35435,
+  "chat_link": "[\u0026AgFrigAA]",
+  "icon": "https://render.guildwars2.com/file/1ABCE2FD2BB41590BC1A6654624305A39CBC1626/66739.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 622,
+    "max_power": 761,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 413.984,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 145
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 103
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 103
+        }
+      ]
+    }
+  }
+}

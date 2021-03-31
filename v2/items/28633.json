@@ -1,0 +1,45 @@
+{
+  "name": "Hearty Black Earth Trident of the Hydromancer",
+  "description": "",
+  "type": "Weapon",
+  "level": 52,
+  "rarity": "Masterwork",
+  "vendor_value": 138,
+  "default_skin": 4712,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28633,
+  "chat_link": "[\u0026AgHZbwAA]",
+  "icon": "https://render.guildwars2.com/file/B8F4F953BC20F7A7FE9FF7459FD5534F0608730F/574969.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 448,
+    "max_power": 495,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 304.096,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 76
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 106
+        }
+      ]
+    },
+    "suffix_item_id": 24595
+  }
+}

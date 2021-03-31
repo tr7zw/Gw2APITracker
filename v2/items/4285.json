@@ -1,0 +1,46 @@
+{
+  "name": "Devourer Handler\u0027s Gloves",
+  "description": "\u003cc\u003d@flavor\u003e\"These help you move the eggs safely.\"\u003cbr\u003e—Braxa Scalehunter\u003c/c\u003e",
+  "type": "Armor",
+  "level": 54,
+  "rarity": "Fine",
+  "vendor_value": 43,
+  "default_skin": 945,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4285,
+  "chat_link": "[\u0026AgG9EAAA]",
+  "icon": "https://render.guildwars2.com/file/B406BAD3FFCC40D8F24DD5ACE1D9720CE95F9312/61447.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 70,
+    "infusion_slots": [],
+    "attribute_adjustment": 55.032,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 14
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 19
+        }
+      ]
+    }
+  }
+}

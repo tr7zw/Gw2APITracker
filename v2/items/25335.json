@@ -1,0 +1,45 @@
+{
+  "name": "Shaman\u0027s Shiverpeak Arquebus",
+  "type": "Weapon",
+  "level": 76,
+  "rarity": "Fine",
+  "vendor_value": 95,
+  "default_skin": 5175,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 25335,
+  "chat_link": "[\u0026AgH3YgAA]",
+  "icon": "https://render.guildwars2.com/file/1D625FA71BF2717F6AD5055DA5C40804221BC6A1/534285.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 702,
+    "max_power": 858,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 478.592,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 168
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 120
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 120
+        }
+      ]
+    }
+  }
+}

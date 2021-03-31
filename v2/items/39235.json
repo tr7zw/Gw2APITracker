@@ -1,0 +1,61 @@
+{
+  "name": "Matriarch\u0027s Quill",
+  "description": "\u003cc\u003d@flavor\u003eSome of the savage power of the harpy that once wore this feather still resides in it.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 413,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 39235,
+  "chat_link": "[\u0026AgFDmQAA]",
+  "icon": "https://render.guildwars2.com/file/9E02F6AFAA63F5BA41E943F545B7AC074A995E58/543882.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 224.07,
+    "infix_upgrade": {
+      "id": 581,
+      "buff": {
+        "skill_id": 15741,
+        "description": "+32 Condition Damage\n+18 Precision\n+18 Toughness"
+      },
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 18
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 74
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 110
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 4771,
+  "name": "Vision II: Farsight",
+  "description": "Can you see past the void?\n\nNote: Only Mastery Insights in Living World Season 4 are required for this achievement.",
+  "requirement": "Kneel and contemplate your mastery of the veil at Insights across Tyria.",
+  "locked_text": "Complete the Vision I: Awakening achievement to unlock this achievement.",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 20,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 91035,
+      "count": 1
+    }
+  ]
+}

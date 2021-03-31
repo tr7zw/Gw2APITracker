@@ -1,0 +1,53 @@
+{
+  "name": "Whisper\u0027s Secret Rifle",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 6900,
+  "default_skin": 4909,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 31137,
+  "chat_link": "[\u0026AgGheQAA]",
+  "icon": "https://render.guildwars2.com/file/4BC10759BF216B98F90F996B77336A2456D7C429/67907.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 873,
+    "max_power": 1067,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 603.648,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 151
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 151
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 211
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

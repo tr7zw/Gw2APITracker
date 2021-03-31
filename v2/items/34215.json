@@ -1,0 +1,37 @@
+{
+  "name": "Malign Glyphic Maul",
+  "type": "Weapon",
+  "level": 6,
+  "rarity": "Fine",
+  "vendor_value": 17,
+  "default_skin": 5222,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 34215,
+  "chat_link": "[\u0026AgGnhQAA]",
+  "icon": "https://render.guildwars2.com/file/C5B365D6105F76470106A61F4AB96F3E39D10E18/60991.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 163,
+    "max_power": 184,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 33.024,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

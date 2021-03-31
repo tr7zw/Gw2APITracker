@@ -1,0 +1,70 @@
+{
+  "id": 3420,
+  "name": "People Watching",
+  "description": "You have to get the perfect angle.",
+  "requirement": "Plant scanners for the Whispers agent.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Find the missing golem and learn the password."
+    },
+    {
+      "type": "Text",
+      "text": "Find the Whispers agent, give him the password, and obtain the scanners."
+    },
+    {
+      "type": "Text",
+      "text": "This scanner should overlook the mercenary base."
+    },
+    {
+      "type": "Text",
+      "text": "This scanner should be atop a high tree."
+    },
+    {
+      "type": "Text",
+      "text": "This scanner should overlook the Inquest camp."
+    },
+    {
+      "type": "Text",
+      "text": "This scanner should watch Tennon and Tinderbough."
+    },
+    {
+      "type": "Text",
+      "text": "This scanner should overlook the mercenary submarine."
+    },
+    {
+      "type": "Text",
+      "text": "This scanner should watch the spiders from a stalactite."
+    },
+    {
+      "type": "Text",
+      "text": "This scanner should watch the mercenary leader."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 9,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 301
+    }
+  ]
+}

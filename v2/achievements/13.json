@@ -1,0 +1,33 @@
+{
+  "id": 13,
+  "name": "Thirst Slayer",
+  "description": "Continuing a valiant battle against dehydration.",
+  "requirement": "Consume  drinks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 500,
+      "points": 1
+    },
+    {
+      "count": 3000,
+      "points": 5
+    },
+    {
+      "count": 15000,
+      "points": 10
+    },
+    {
+      "count": 50000,
+      "points": 10
+    },
+    {
+      "count": 100000,
+      "points": 10
+    }
+  ]
+}

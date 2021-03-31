@@ -1,0 +1,64 @@
+{
+  "name": "Nightmare Court Faceguard",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 701,
+  "icon": "https://render.guildwars2.com/file/CC4368E21B3005A4291640C4B007A2D0482470EE/493122.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        null
+      ],
+      "overrides": {
+        "SylvariFemale": [
+          null,
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          }
+        ],
+        "SylvariMale": [
+          null,
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          }
+        ]
+      }
+    }
+  }
+}

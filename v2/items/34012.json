@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Aureate Mace of Earth",
+  "type": "Weapon",
+  "level": 53,
+  "rarity": "Rare",
+  "vendor_value": 141,
+  "default_skin": 5016,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34012,
+  "chat_link": "[\u0026AgHchAAA]",
+  "icon": "https://render.guildwars2.com/file/C066CE6947F236AFE5D93E1407042157F3AEAF30/67065.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 488,
+    "max_power": 550,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 169.272,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 59
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 42
+        }
+      ]
+    },
+    "suffix_item_id": 24559
+  }
+}

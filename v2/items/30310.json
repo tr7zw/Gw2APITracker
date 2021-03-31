@@ -1,0 +1,53 @@
+{
+  "name": "Murmur Pistol",
+  "description": "\u003cc\u003d@flavor\u003e\"Those Inquest won\u0027t hear you coming, and if they do—well, this should quiet things down quickly enough.\"\u003cbr\u003e—Slayer Feldera\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Masterwork",
+  "vendor_value": 122,
+  "default_skin": 5095,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30310,
+  "chat_link": "[\u0026AgFmdgAA]",
+  "icon": "https://render.guildwars2.com/file/05C3631739167BDC0867BECE80C0BE39C0B8B63B/62986.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 652,
+    "max_power": 765,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 249.56,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 62
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 62
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 87
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

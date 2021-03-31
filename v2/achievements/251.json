@@ -1,0 +1,65 @@
+{
+  "id": 251,
+  "name": "Marauder",
+  "description": "Enemies pause when they see you coming.",
+  "requirement": "Obtain  rank points.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 293500,
+      "points": 10
+    },
+    {
+      "count": 313500,
+      "points": 10
+    },
+    {
+      "count": 333500,
+      "points": 10
+    },
+    {
+      "count": 353500,
+      "points": 10
+    },
+    {
+      "count": 373500,
+      "points": 10
+    },
+    {
+      "count": 393500,
+      "points": 10
+    },
+    {
+      "count": 413500,
+      "points": 10
+    },
+    {
+      "count": 433500,
+      "points": 10
+    },
+    {
+      "count": 453500,
+      "points": 10
+    },
+    {
+      "count": 473500,
+      "points": 10
+    }
+  ],
+  "prerequisites": [
+    250
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 121
+    }
+  ]
+}

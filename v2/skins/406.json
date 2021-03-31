@@ -1,0 +1,35 @@
+{
+  "name": "Aristocrat\u0027s Coat",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [
+    "Human"
+  ],
+  "rarity": "Basic",
+  "id": 406,
+  "icon": "https://render.guildwars2.com/file/0FC41E9C9AF8E25BBB0E09E99E5EC653AD9ED391/61206.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

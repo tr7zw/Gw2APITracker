@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Great Steamblade of Smoldering",
+  "type": "Weapon",
+  "level": 44,
+  "rarity": "Masterwork",
+  "vendor_value": 120,
+  "default_skin": 5218,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32747,
+  "chat_link": "[\u0026AgHrfwAA]",
+  "icon": "https://render.guildwars2.com/file/D8325BBDF9DDCA3F422531492B0CEC7BA34C9ACB/66762.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 416,
+    "max_power": 460,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 242.352,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 61
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 85
+        }
+      ]
+    },
+    "suffix_item_id": 24622
+  }
+}

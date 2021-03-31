@@ -1,0 +1,71 @@
+{
+  "name": "Ruby Orb",
+  "description": "Double-click to apply to an item with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 198,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24508,
+  "chat_link": "[\u0026AgG8XwAA]",
+  "icon": "https://render.guildwars2.com/file/7702E49901413CC14B2F5B7BFD059522333210E6/220947.png",
+  "details": {
+    "type": "Gem",
+    "flags": [
+      "ShortBow",
+      "HeavyArmor",
+      "LightArmor",
+      "Dagger",
+      "MediumArmor",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Trinket",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 406,
+      "buff": {
+        "skill_id": 154,
+        "description": "+20 Power\n+14 Ferocity\n+14 Precision"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 20
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 14
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 14
+        }
+      ]
+    },
+    "suffix": "of Ruby"
+  }
+}

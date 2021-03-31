@@ -1,0 +1,48 @@
+{
+  "name": "Apothecary\u0027s Primordus Focus",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 3877,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 36859,
+  "chat_link": "[\u0026AgH7jwAA]",
+  "icon": "https://render.guildwars2.com/file/DC7065E80ECC04A9CACF6B249655C1449F4B14DB/534125.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 832,
+    "max_power": 883,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 605,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 85
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 120
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 85
+        }
+      ]
+    }
+  }
+}

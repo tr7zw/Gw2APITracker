@@ -1,0 +1,48 @@
+{
+  "name": "Soldier\u0027s Eagle Greaves",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 1000,
+  "default_skin": 467,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Norn"
+  ],
+  "id": 3571,
+  "chat_link": "[\u0026AgHzDQAA]",
+  "icon": "https://render.guildwars2.com/file/2FA55C52026AEF20139596205BA0F6E4D5F77356/779791.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 108,
+    "infusion_slots": [],
+    "attribute_adjustment": 75.33,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 26
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 19
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 19
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Conquest Garb",
+  "description": "\u003cc\u003d@flavor\u003e\"Protects your insides.\"\u003cbr\u003e—Marksman Kamekeck\u003c/c\u003e",
+  "type": "Armor",
+  "level": 74,
+  "rarity": "Masterwork",
+  "vendor_value": 183,
+  "default_skin": 898,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4465,
+  "chat_link": "[\u0026AgFxEQAA]",
+  "icon": "https://render.guildwars2.com/file/335BFBF46A5D046169E2600218FAE2252C279BD5/61274.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 230,
+    "infusion_slots": [],
+    "attribute_adjustment": 280.755,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 70
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 70
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 98
+        }
+      ]
+    },
+    "suffix_item_id": 24685
+  }
+}

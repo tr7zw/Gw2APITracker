@@ -1,0 +1,52 @@
+{
+  "name": "Balance Harpoon",
+  "description": "\u003cc\u003d@flavor\u003e\"This is but a tool of a greater machine.\"\u003cbr\u003e—Guardian Infinite Mind\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 73,
+  "rarity": "Fine",
+  "vendor_value": 92,
+  "default_skin": 4156,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29548,
+  "chat_link": "[\u0026AgFscwAA]",
+  "icon": "https://render.guildwars2.com/file/DCAD6461D629BBB5417CD8B6170E7CE27EB4DEF8/65195.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 612,
+    "max_power": 677,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 451.968,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 113
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 113
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 158
+        }
+      ]
+    }
+  }
+}

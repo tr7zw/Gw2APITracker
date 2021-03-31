@@ -1,0 +1,83 @@
+{
+  "id": 3520,
+  "icon": "https://render.guildwars2.com/file/1B3B7103E5FFFEB4B94137CFEF6AC5A528AE1BA8/1730771.png",
+  "name": "Storyteller: Abaddon",
+  "description": "",
+  "requirement": "Find all the pages of the Parable of Abaddon.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 81800
+    },
+    {
+      "type": "Item",
+      "id": 81828
+    },
+    {
+      "type": "Item",
+      "id": 82048
+    },
+    {
+      "type": "Item",
+      "id": 81970
+    },
+    {
+      "type": "Item",
+      "id": 81999
+    },
+    {
+      "type": "Item",
+      "id": 81680
+    },
+    {
+      "type": "Item",
+      "id": 81846
+    },
+    {
+      "type": "Item",
+      "id": 81665
+    },
+    {
+      "type": "Item",
+      "id": 81625
+    },
+    {
+      "type": "Item",
+      "id": 81913
+    },
+    {
+      "type": "Item",
+      "id": 81629
+    },
+    {
+      "type": "Item",
+      "id": 81622
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 12,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    3487
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 278
+    }
+  ]
+}

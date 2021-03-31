@@ -1,0 +1,94 @@
+{
+  "id": 2476,
+  "name": "Dark Harvest",
+  "description": "",
+  "requirement": "Collect these  items and skins to receive the reaper\u0027s greatsword, Dark Harvest.",
+  "locked_text": "Begin training the necromancer\u0027s reaper elite specialization.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 6313
+    },
+    {
+      "type": "Item",
+      "id": 77253
+    },
+    {
+      "type": "Item",
+      "id": 71067
+    },
+    {
+      "type": "Skin",
+      "id": 5348
+    },
+    {
+      "type": "Item",
+      "id": 75807
+    },
+    {
+      "type": "Item",
+      "id": 72982
+    },
+    {
+      "type": "Item",
+      "id": 75933
+    },
+    {
+      "type": "Item",
+      "id": 74527
+    },
+    {
+      "type": "Item",
+      "id": 70429
+    },
+    {
+      "type": "Item",
+      "id": 71214
+    },
+    {
+      "type": "Item",
+      "id": 70636
+    },
+    {
+      "type": "Skin",
+      "id": 6418
+    },
+    {
+      "type": "Item",
+      "id": 70479
+    },
+    {
+      "type": "Skin",
+      "id": 6346
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    },
+    {
+      "count": 14,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 69893,
+      "count": 1
+    }
+  ]
+}

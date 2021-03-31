@@ -1,0 +1,66 @@
+{
+  "name": "Dryad Epaulets",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [
+    "Sylvari"
+  ],
+  "rarity": "Basic",
+  "id": 518,
+  "icon": "https://render.guildwars2.com/file/5029B84BC251A204E12A19204DA690D99FB9C49F/61187.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        null
+      ],
+      "overrides": {
+        "SylvariFemale": [
+          null,
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          }
+        ],
+        "SylvariMale": [
+          null,
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": 252,
+  "name": "Ravager",
+  "description": "You strike fear into the hearts of your enemies.",
+  "requirement": "Obtain  rank points.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 493500,
+      "points": 10
+    },
+    {
+      "count": 513500,
+      "points": 10
+    },
+    {
+      "count": 533500,
+      "points": 10
+    },
+    {
+      "count": 553500,
+      "points": 10
+    },
+    {
+      "count": 573500,
+      "points": 10
+    },
+    {
+      "count": 593500,
+      "points": 10
+    },
+    {
+      "count": 613500,
+      "points": 10
+    },
+    {
+      "count": 633500,
+      "points": 10
+    },
+    {
+      "count": 653500,
+      "points": 10
+    },
+    {
+      "count": 673500,
+      "points": 10
+    }
+  ],
+  "prerequisites": [
+    251
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 122
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Hearty Iron Sword of Grawl Slaying",
+  "description": "",
+  "type": "Weapon",
+  "level": 55,
+  "rarity": "Rare",
+  "vendor_value": 144,
+  "default_skin": 4062,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26481,
+  "chat_link": "[\u0026AgFxZwAA]",
+  "icon": "https://render.guildwars2.com/file/D10679012504F6AD5829D1DF9F36303FE2EB46B4/64343.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 513,
+    "max_power": 567,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 177.984,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 44
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 62
+        }
+      ]
+    },
+    "suffix_item_id": 24647
+  }
+}

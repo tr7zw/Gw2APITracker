@@ -1,0 +1,56 @@
+{
+  "name": "Ebonmane\u0027s Razor",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of the ancient centaur weaponsmith, Grif Ebonmane.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 10000,
+  "default_skin": 4243,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 46893,
+  "chat_link": "[\u0026AgEttwAA]",
+  "icon": "https://render.guildwars2.com/file/93EEC907DF91C0915F48D95F35749934FB9025EB/632192.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 970,
+    "max_power": 1030,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "infix_upgrade": {
+      "id": 605,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 90
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 125
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 90
+        }
+      ]
+    }
+  }
+}

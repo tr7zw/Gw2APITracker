@@ -1,0 +1,42 @@
+{
+  "name": "Hearty Iron Pistol",
+  "description": "",
+  "type": "Weapon",
+  "level": 63,
+  "rarity": "Fine",
+  "vendor_value": 54,
+  "default_skin": 3875,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 26796,
+  "chat_link": "[\u0026AgGsaAAA]",
+  "icon": "https://render.guildwars2.com/file/C43656C1551C9A5A1A931EAC2901BD0FBA3BE3E1/62830.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 494,
+    "max_power": 580,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 182.592,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 46
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 64
+        }
+      ]
+    }
+  }
+}

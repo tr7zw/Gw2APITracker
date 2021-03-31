@@ -1,0 +1,56 @@
+{
+  "id": 3798,
+  "icon": "https://render.guildwars2.com/file/3FB1AE472DF109D022146F26B0F420140BFC26FE/1824200.png",
+  "name": "Exaltation of the Guardians",
+  "description": "\u003cc\u003d@Flavor\u003eStatues of fabled guardian beasts would be created by talented sculptors, to protect the kingdom in a monarch\u0027s absence.\u003c/c\u003e",
+  "requirement": "Recover  lost Guardian statues.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 82733
+    },
+    {
+      "type": "Item",
+      "id": 84239
+    },
+    {
+      "type": "Item",
+      "id": 82137
+    },
+    {
+      "type": "Item",
+      "id": 83561
+    },
+    {
+      "type": "Item",
+      "id": 84710
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 2
+    }
+  ],
+  "prerequisites": [
+    3753
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 83216,
+      "count": 1
+    }
+  ]
+}

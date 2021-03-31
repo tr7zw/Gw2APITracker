@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Norn Scepter of Corruption",
+  "type": "Weapon",
+  "level": 67,
+  "rarity": "Rare",
+  "vendor_value": 168,
+  "default_skin": 5174,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25393,
+  "chat_link": "[\u0026AgExYwAA]",
+  "icon": "https://render.guildwars2.com/file/0BEC26E2F211461437476BAD1611F827FDE22F9E/575177.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 634,
+    "max_power": 715,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 234.216,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 82
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 59
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 59
+        }
+      ]
+    },
+    "suffix_item_id": 24577
+  }
+}

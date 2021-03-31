@@ -1,0 +1,45 @@
+{
+  "name": "Woodsman\u0027s Axe",
+  "description": "\u003cc\u003d@flavor\u003e\"Great for clearing paths of brush and bandits.\"\u003cbr\u003e—Rhea\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 23,
+  "rarity": "Masterwork",
+  "vendor_value": 52,
+  "default_skin": 3865,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30596,
+  "chat_link": "[\u0026AgGEdwAA]",
+  "icon": "https://render.guildwars2.com/file/F0386CA4B7B424B01B54D7724D12A3DF09203E6D/66151.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 226,
+    "max_power": 276,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 53.856,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 19
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

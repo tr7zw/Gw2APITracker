@@ -1,0 +1,57 @@
+{
+  "name": "Seal Area",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 3
+    },
+    {
+      "text": "Unblockable",
+      "type": "Unblockable",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": true
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 240
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 20
+    },
+    {
+      "text": "Duration",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "duration": 8
+    }
+  ],
+  "description": "Create an area that blocks projectiles and prevents enemies from entering or leaving.",
+  "icon": "https://render.guildwars2.com/file/6173996EA5E244D82C40B99B49F7BEEE482D446B/2175065.png",
+  "type": "Utility",
+  "weapon_type": "None",
+  "professions": [
+    "Thief"
+  ],
+  "slot": "Utility",
+  "flags": [
+    "NoUnderwater"
+  ],
+  "id": 13099,
+  "chat_link": "[\u0026BiszAAA\u003d]",
+  "traited_facts": [
+    {
+      "text": "Triggered Thief Duration",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "duration": 8,
+      "requires_trait": 396
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1831,
+  "name": "Aggressive Infiltration",
+  "description": "Story Instance: Meeting the Asura",
+  "requirement": "Complete \"Meeting the Asura\" without dying, and sound every room\u0027s alarm.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    }
+  ],
+  "prerequisites": [
+    1826
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 9333,
+      "count": 10
+    }
+  ]
+}

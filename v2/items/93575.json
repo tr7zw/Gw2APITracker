@@ -1,0 +1,46 @@
+{
+  "name": "Bear Ceremonial Garb",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 297,
+  "default_skin": 9369,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 93575,
+  "chat_link": "[\u0026AgGHbQEA]",
+  "icon": "https://render.guildwars2.com/file/4919604033E340C23A7A94F1DA5423A742A0ADF5/2293320.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 321,
+    "infusion_slots": [],
+    "attribute_adjustment": 339.552,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 119
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 85
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 85
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Deserter\u0027s Architeuthis",
+  "type": "Weapon",
+  "level": 36,
+  "rarity": "Rare",
+  "vendor_value": 167,
+  "default_skin": 5082,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 54405,
+  "chat_link": "[\u0026AgGF1AAA]",
+  "icon": "https://render.guildwars2.com/file/39555C252BCD3E17C227AECB74C1FAE246FCF2A7/779956.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 407,
+    "max_power": 450,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 226.944,
+    "infix_upgrade": {
+      "id": 1014,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 57
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 79
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 4529,
+  "name": "Chasing Tales: Shattering Storm",
+  "description": "There\u0027s no stage quite like a conquered battlefield.",
+  "requirement": "Defeat 50 Branded opponents with a greatsword in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Kobbel the Poetic."
+    },
+    {
+      "type": "Text",
+      "text": "Defeated 50 Branded with a greatsword in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89976,
+      "count": 1
+    }
+  ]
+}

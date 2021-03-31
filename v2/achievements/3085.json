@@ -1,0 +1,29 @@
+{
+  "id": 3085,
+  "name": "Surf and Turf",
+  "description": "Sea or Shore? Who will prevail?",
+  "requirement": "Earn your sea legs by completing these achievements.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 245
+    },
+    {
+      "type": "Coins",
+      "count": 50000
+    }
+  ]
+}

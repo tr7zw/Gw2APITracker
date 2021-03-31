@@ -1,0 +1,32 @@
+{
+  "name": "Glide-r-Tron",
+  "description": "This will unlock the glider skin in your account wardrobe.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 79010,
+  "chat_link": "[\u0026AgGiNAEA]",
+  "icon": "https://render.guildwars2.com/file/980F9BCF7918F9152768D53CA929F246512903E6/1459281.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "GliderSkin"
+  }
+}

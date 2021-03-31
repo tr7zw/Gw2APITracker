@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Steam Shield of Bloodlust",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Masterwork",
+  "vendor_value": 122,
+  "default_skin": 5102,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32856,
+  "chat_link": "[\u0026AgFYgAAA]",
+  "icon": "https://render.guildwars2.com/file/FADA685852160FA4D0EBEDC346663CE4439B45AB/67285.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 600,
+    "max_power": 676,
+    "defense": 45,
+    "infusion_slots": [],
+    "attribute_adjustment": 249.56,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 62
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 62
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 87
+        }
+      ]
+    },
+    "suffix_item_id": 24573
+  }
+}

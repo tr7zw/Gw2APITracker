@@ -1,0 +1,37 @@
+{
+  "name": "Iron Sword",
+  "description": "",
+  "type": "Weapon",
+  "level": 25,
+  "rarity": "Fine",
+  "vendor_value": 27,
+  "default_skin": 4062,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 15044,
+  "chat_link": "[\u0026AgHEOgAA]",
+  "icon": "https://render.guildwars2.com/file/D10679012504F6AD5829D1DF9F36303FE2EB46B4/64343.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 229,
+    "max_power": 253,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 52.8,
+    "stat_choices": [
+      161,
+      154,
+      158
+    ]
+  }
+}

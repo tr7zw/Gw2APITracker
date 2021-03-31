@@ -1,0 +1,48 @@
+{
+  "name": "Forgeman Mantle",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 291,
+  "default_skin": 672,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 35981,
+  "chat_link": "[\u0026AgGNjAAA]",
+  "icon": "https://render.guildwars2.com/file/1CD771E26EF70E493D00E20CA4D6D694AC630267/61489.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 73,
+    "infusion_slots": [],
+    "attribute_adjustment": 128.04,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 32
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 32
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 45
+        }
+      ]
+    },
+    "suffix_item_id": 24851
+  }
+}

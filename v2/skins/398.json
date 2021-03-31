@@ -1,0 +1,60 @@
+{
+  "name": "Falconer\u0027s Leggings",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [
+    "Human"
+  ],
+  "rarity": "Basic",
+  "id": 398,
+  "icon": "https://render.guildwars2.com/file/93267A75E04303D7F2DCAECFB30527A01192DE2B/61192.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Medium",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        null,
+        null,
+        null
+      ],
+      "overrides": {
+        "SylvariFemale": [
+          null,
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          }
+        ],
+        "SylvariMale": [
+          null,
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Ogre Gruel Spoon",
+  "description": "\u003cc\u003d@flavor\u003e\"A symbol of ogre friendship.\"\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 59,
+  "rarity": "Masterwork",
+  "vendor_value": 128,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23553,
+  "chat_link": "[\u0026AgEBXAAA]",
+  "icon": "https://render.guildwars2.com/file/6F2215EB6E98B707DA6214AABF510667A6CE6609/66821.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 113.177,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 40
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 28
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 28
+        }
+      ]
+    }
+  }
+}

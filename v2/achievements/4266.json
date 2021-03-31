@@ -1,0 +1,28 @@
+{
+  "id": 4266,
+  "name": "[FTT 201] Intermediate Dynamics—Direct Damage Level 2",
+  "description": "",
+  "requirement": "Built / Direct Damage Level 1 Turrets",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 10,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    4216
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 88103,
+      "count": 1
+    }
+  ]
+}

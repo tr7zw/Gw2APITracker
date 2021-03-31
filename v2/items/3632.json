@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Snapdragon Leggings",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 750,
+  "default_skin": 484,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Sylvari"
+  ],
+  "id": 3632,
+  "chat_link": "[\u0026AgEwDgAA]",
+  "icon": "https://render.guildwars2.com/file/EABA0E9696AC21DD30A41D00F6AD0615C2F65F60/433403.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Light",
+    "defense": 63,
+    "infusion_slots": [],
+    "attribute_adjustment": 73.926,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 18
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 26
+        }
+      ]
+    }
+  }
+}

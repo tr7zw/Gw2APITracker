@@ -1,0 +1,44 @@
+{
+  "name": "Strong Bandit Spear",
+  "description": "",
+  "type": "Weapon",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 153,
+  "default_skin": 4018,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 15754,
+  "chat_link": "[\u0026AgGKPQAA]",
+  "icon": "https://render.guildwars2.com/file/1F4AE44A43DDE0AD93903E6DBC9EB75C677B0AA7/779899.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 339,
+    "max_power": 375,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 197.136,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 69
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 49
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": 8,
+  "name": "Gliding",
+  "requirement": "Journey to the Heart of Maguuma and complete the story step \"Torn from the Sky\" to unlock access to the Gliding Mastery track.",
+  "order": 0,
+  "background": "https://render.guildwars2.com/file/68A54A21C030C5BA742603D3BF0305F344746F95/1228722.png",
+  "region": "Maguuma",
+  "levels": [
+    {
+      "name": "Glider Basics",
+      "description": "Gain access to a glider so that you can glide across the highest points of the Heart of Maguuma as well as Central Tyrian open-world maps.",
+      "instruction": "To glide, jump from a high place, and then press the jump key again while falling.",
+      "icon": "https://render.guildwars2.com/file/A13A40AC0D4F0507780039C24B19D6E9C0D2FE1F/962098.png",
+      "point_cost": 1,
+      "exp_cost": 508000
+    },
+    {
+      "name": "Updraft Use",
+      "description": "Improved design to your glider handles and wing slits lets you confidently fly into updrafts, allowing you to gain altitude and travel to previously unreachable locations.",
+      "instruction": "Updrafts are pillars of swirling wind found around the Maguuma Jungle. To use updrafts, simply glide into them and receive an elevation boost.",
+      "icon": "https://render.guildwars2.com/file/27C9EDD3F2516E486299ABF50929E759F5BCC4E8/962097.png",
+      "point_cost": 2,
+      "exp_cost": 1016000
+    },
+    {
+      "name": "Lean Techniques",
+      "description": "Learn the gliding technique of leaning forward to increase your gliding speed and leaning back to brake midair at the cost of endurance. Your improved technique also increases your total endurance pool when gliding.",
+      "instruction": "To lean in, press forward while gliding and get a speed boost. To lean back, press back while gliding to brake.",
+      "icon": "https://render.guildwars2.com/file/4D1CAE2F963C7C205BB06C0572040AD33B5BEBD8/962096.png",
+      "point_cost": 3,
+      "exp_cost": 1778000
+    },
+    {
+      "name": "Stealth Gliding",
+      "description": "Learn to glide silently and undetected through the air for short periods by dodging while gliding.",
+      "instruction": "To activate stealth, perform a dodge by double-tapping in any direction while gliding.",
+      "icon": "https://render.guildwars2.com/file/610A10527F20E26DBF5402FD4131F1EDAAE6D960/962095.png",
+      "point_cost": 5,
+      "exp_cost": 2540000
+    },
+    {
+      "name": "Advanced Gliding",
+      "description": "Learn to glide with such efficiency that you no longer use endurance to stay up in the air, only to perform lean techniques.",
+      "instruction": "You can now glide indefinitely without using endurance. Leaning still drains endurance.",
+      "icon": "https://render.guildwars2.com/file/FFD8BC49B85A794B729ABBE8DB1102F7D328D86A/962093.png",
+      "point_cost": 8,
+      "exp_cost": 3302000
+    },
+    {
+      "name": "Ley Line Gliding",
+      "description": "Learn to enter ley-line energy flows while gliding to be moved along with the flow, gaining access to otherwise inaccessible places.",
+      "instruction": "Ley lines are flows of magical energy that can be seen around the Maguuma Jungle. To use ley lines, simply glide into them and allow the energy flow to move you along.",
+      "icon": "https://render.guildwars2.com/file/A003F17064F5300F0C0705E8DB76D4B3EF51CFD3/962094.png",
+      "point_cost": 12,
+      "exp_cost": 4318000
+    }
+  ]
+}

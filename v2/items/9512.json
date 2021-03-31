@@ -1,0 +1,28 @@
+{
+  "name": "Recipe: Torch",
+  "description": "A recipe to make a Torch",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 18,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9512,
+  "chat_link": "[\u0026AgEoJQAA]",
+  "icon": "https://render.guildwars2.com/file/F193AF957CC6B93A1593AEE7C17298DB4BF4D55C/849363.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 4499
+  }
+}

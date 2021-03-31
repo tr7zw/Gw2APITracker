@@ -1,0 +1,29 @@
+{
+  "id": 3673,
+  "name": "Enemy of My Enemy",
+  "description": "Journal: Enemy of My Enemy Completed",
+  "requirement": "Turn one enemy against another.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 83871,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 374
+    }
+  ]
+}

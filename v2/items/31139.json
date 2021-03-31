@@ -1,0 +1,53 @@
+{
+  "name": "Whisper\u0027s Secret Shield",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 4500,
+  "default_skin": 4966,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 31139,
+  "chat_link": "[\u0026AgGjeQAA]",
+  "icon": "https://render.guildwars2.com/file/54ABA9C0E566619922E9CCDB0FD001654D0D7210/67908.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 714,
+    "max_power": 805,
+    "defense": 54,
+    "infusion_slots": [],
+    "attribute_adjustment": 301.824,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 75
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 75
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 106
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

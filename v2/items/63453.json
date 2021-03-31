@@ -1,0 +1,40 @@
+{
+  "name": "Invoker\u0027s Coat",
+  "type": "Armor",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 1000,
+  "default_skin": 337,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "id": 63453,
+  "chat_link": "[\u0026AgHd9wAA]",
+  "icon": "https://render.guildwars2.com/file/67960A2063D9F19FCAD1ABFA6D5ED4A2E3B012AC/455475.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 59,
+    "infusion_slots": [],
+    "attribute_adjustment": 52.8615,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 19
+        }
+      ]
+    }
+  }
+}

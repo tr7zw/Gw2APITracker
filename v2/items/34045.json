@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Aureate Warhorn of Earth",
+  "type": "Weapon",
+  "level": 53,
+  "rarity": "Rare",
+  "vendor_value": 141,
+  "default_skin": 5009,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34045,
+  "chat_link": "[\u0026AgH9hAAA]",
+  "icon": "https://render.guildwars2.com/file/755006E5DEE95B7D42BAE536215505640CE978FE/67687.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 444,
+    "max_power": 490,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 169.272,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 59
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 42
+        }
+      ]
+    },
+    "suffix_item_id": 24559
+  }
+}

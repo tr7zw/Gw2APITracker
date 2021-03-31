@@ -1,0 +1,53 @@
+{
+  "id": 4598,
+  "name": "Chasing Tales: Haliver the Seeker",
+  "description": "",
+  "requirement": "Acquire a Dragonsblood torch and perform tasks to re-create Haliver\u0027s legend.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Acquire the tome entry Chasing Tales: Haliver the Seeker."
+    },
+    {
+      "type": "Text",
+      "text": "Acquire the heroic spirit of Haliver: deed #1."
+    },
+    {
+      "type": "Text",
+      "text": "Acquire the heroic spirit of Haliver: deed #2."
+    },
+    {
+      "type": "Text",
+      "text": "Acquire the heroic spirit of Haliver: deed #3."
+    },
+    {
+      "type": "Text",
+      "text": "Meet with the spirit of Haliver at a heroic font."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 322
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Strong Iron Mace of Accuracy",
+  "description": "",
+  "type": "Weapon",
+  "level": 59,
+  "rarity": "Masterwork",
+  "vendor_value": 102,
+  "default_skin": 3964,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26081,
+  "chat_link": "[\u0026AgHhZQAA]",
+  "icon": "https://render.guildwars2.com/file/415D42C379B3AE75721E59D76E5F170926C416C1/65228.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 508,
+    "max_power": 573,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 181.084,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 63
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 45
+        }
+      ]
+    },
+    "suffix_item_id": 24616
+  }
+}

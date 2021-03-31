@@ -1,0 +1,44 @@
+{
+  "name": "Mending Shiverpeak Beacon of the Hydromancer",
+  "type": "Weapon",
+  "level": 56,
+  "rarity": "Masterwork",
+  "vendor_value": 98,
+  "default_skin": 5098,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25624,
+  "chat_link": "[\u0026AgEYZAAA]",
+  "icon": "https://render.guildwars2.com/file/42643504C0CA50B40C939FF6E63409FE9BBF6ADB/534291.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 422,
+    "max_power": 495,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 168.096,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 42
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 59
+        }
+      ]
+    },
+    "suffix_item_id": 24595
+  }
+}

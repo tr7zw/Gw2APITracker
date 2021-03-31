@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Norn Rifle of Air",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 297,
+  "default_skin": 5115,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25355,
+  "chat_link": "[\u0026AgELYwAA]",
+  "icon": "https://render.guildwars2.com/file/CF1ECC0F6A475EAA2D6B5E5A4C416608C30CF709/575176.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 873,
+    "max_power": 1067,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 603.648,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 211
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 151
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 151
+        }
+      ]
+    },
+    "suffix_item_id": 24553
+  }
+}

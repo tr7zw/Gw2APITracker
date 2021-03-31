@@ -1,0 +1,42 @@
+{
+  "name": "Honed Seasoned Wood Staff",
+  "description": "",
+  "type": "Weapon",
+  "level": 45,
+  "rarity": "Fine",
+  "vendor_value": 62,
+  "default_skin": 5688,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 13768,
+  "chat_link": "[\u0026AgHINQAA]",
+  "icon": "https://render.guildwars2.com/file/04BE267A42B12DB00F0162639702BDEFC90F4A5D/62880.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 388,
+    "max_power": 437,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 228.096,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 80
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 57
+        }
+      ]
+    }
+  }
+}

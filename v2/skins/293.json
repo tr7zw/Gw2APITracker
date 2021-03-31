@@ -1,0 +1,51 @@
+{
+  "name": "Electroplated Gloves",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [
+    "Asura"
+  ],
+  "rarity": "Basic",
+  "id": 293,
+  "icon": "https://render.guildwars2.com/file/B0DA76724A21077F03130B5F437C12E7215939B0/61159.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        null
+      ],
+      "overrides": {
+        "SylvariMale": [
+          null,
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 965,
+  "tier": 2,
+  "order": 1,
+  "name": "Spirited Arrival",
+  "description": "Grant boons to nearby allies when swapping pets.\u003cbr\u003e\u003cc\u003d@reminder\u003eSoulbeasts can trigger this trait by entering or leaving beastmode.\u003c/c\u003e",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+      "duration": 8,
+      "status": "Vigor",
+      "description": "Endurance regeneration increased by 50%; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+      "duration": 8,
+      "status": "Fury",
+      "description": "Critical Chance increased by 20%; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 300
+    },
+    {
+      "text": "Combat Only",
+      "type": "NoData",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png"
+    }
+  ],
+  "specialization": 25,
+  "icon": "https://render.guildwars2.com/file/5599287FC8FCB4ECB31B73625605072B7234269A/1012634.png"
+}

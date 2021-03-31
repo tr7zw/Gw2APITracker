@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Aureate Trident of Battle",
+  "type": "Weapon",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 167,
+  "default_skin": 4999,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34040,
+  "chat_link": "[\u0026AgH4hAAA]",
+  "icon": "https://render.guildwars2.com/file/A594AC5CABCC62507550463225DE52AE52F1D57C/779868.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 370,
+    "max_power": 409,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 226.944,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 79
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 57
+        }
+      ]
+    },
+    "suffix_item_id": 24602
+  }
+}

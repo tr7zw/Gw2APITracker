@@ -1,0 +1,33 @@
+{
+  "name": "Reinforced Scale Helm",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 101,
+  "icon": "https://render.guildwars2.com/file/6F30FEDA2B1405EEB10426E1200522E29D7C3ECB/61064.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

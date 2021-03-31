@@ -1,0 +1,50 @@
+{
+  "name": "Medium Orsippus Aquabreather",
+  "description": "\u003cc\u003d@flavor\u003e\"Quaggan wouldn\u0027t know what to do if quaggan couldn\u0027t breathe underwater.\"\u003cbr\u003e—Qualdup\u003c/c\u003e",
+  "type": "Armor",
+  "level": 77,
+  "rarity": "Fine",
+  "vendor_value": 79,
+  "default_skin": 859,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4142,
+  "chat_link": "[\u0026AgEuEAAA]",
+  "icon": "https://render.guildwars2.com/file/40B4D696039F9E06A11BF913FF66FDFB3DD57CEA/61253.png",
+  "details": {
+    "type": "HelmAquatic",
+    "weight_class": "Medium",
+    "defense": 70,
+    "infusion_slots": [],
+    "attribute_adjustment": 122.08,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 31
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 31
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 43
+        }
+      ]
+    }
+  }
+}

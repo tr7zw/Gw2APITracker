@@ -1,0 +1,41 @@
+{
+  "name": "Peridot Gold Ring",
+  "description": "",
+  "type": "Trinket",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 135,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 13332,
+  "chat_link": "[\u0026AgEUNAAA]",
+  "icon": "https://render.guildwars2.com/file/3F5237329C18757BA8BA455550330EFC0D55AE0C/340148.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [],
+    "attribute_adjustment": 108.171,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 38
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 27
+        }
+      ]
+    },
+    "suffix_item_id": 24482
+  }
+}

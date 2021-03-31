@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Verdant Greatsword of Ogre Slaying",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Rare",
+  "vendor_value": 189,
+  "default_skin": 5083,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34759,
+  "chat_link": "[\u0026AgHHhwAA]",
+  "icon": "https://render.guildwars2.com/file/4BC52199DBDEEF5D4D90736B582DDA0F092B0DE4/434780.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 470,
+    "max_power": 519,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 280.512,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 70
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 98
+        }
+      ]
+    },
+    "suffix_item_id": 24656
+  }
+}

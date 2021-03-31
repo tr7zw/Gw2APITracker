@@ -1,0 +1,52 @@
+{
+  "name": "Amduat Focus",
+  "description": "\u003cc\u003d@flavor\u003e\"The Flame Legion was doomed from the start. We are just the instruments of their fate.\"\u003cbr\u003e—Sava Quicksnarl\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 69,
+  "rarity": "Fine",
+  "vendor_value": 58,
+  "default_skin": 5202,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30174,
+  "chat_link": "[\u0026AgHedQAA]",
+  "icon": "https://render.guildwars2.com/file/12F6B21033F0962C25A76AAC31EB2757149CFBA3/68137.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 524,
+    "max_power": 556,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 208.192,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 52
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 52
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 73
+        }
+      ]
+    }
+  }
+}

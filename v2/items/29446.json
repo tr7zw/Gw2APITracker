@@ -1,0 +1,53 @@
+{
+  "name": "Mountain Sword",
+  "description": "\u003cc\u003d@flavor\u003e\"These are forged from heavy steel. Takes an edge like nothing else.\"\u003cbr\u003e—Vigil Crusader Rugan\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 57,
+  "rarity": "Masterwork",
+  "vendor_value": 98,
+  "default_skin": 4062,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29446,
+  "chat_link": "[\u0026AgEGcwAA]",
+  "icon": "https://render.guildwars2.com/file/D10679012504F6AD5829D1DF9F36303FE2EB46B4/64343.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 494,
+    "max_power": 546,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 172.448,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 43
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 43
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 60
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

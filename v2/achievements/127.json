@@ -1,0 +1,34 @@
+{
+  "id": 127,
+  "name": "Salvage Master",
+  "description": "More interested in what\u0027s inside...or just in seeing it fall apart.",
+  "requirement": "Salvage  items.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 10,
+      "points": 1
+    },
+    {
+      "count": 50,
+      "points": 5
+    },
+    {
+      "count": 150,
+      "points": 5
+    },
+    {
+      "count": 300,
+      "points": 5
+    },
+    {
+      "count": 500,
+      "points": 5
+    }
+  ]
+}

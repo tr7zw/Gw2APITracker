@@ -1,0 +1,33 @@
+{
+  "id": 2777,
+  "name": "Frozen Claw",
+  "description": "Even dragon lieutenants get cranky around the holidays.",
+  "requirement": "Defeat the Claw of Jormag  times during Wintersday.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 77631,
+      "count": 1
+    }
+  ]
+}

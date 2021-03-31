@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Glyphic Pistol of Agony",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Masterwork",
+  "vendor_value": 106,
+  "default_skin": 5095,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34705,
+  "chat_link": "[\u0026AgGRhwAA]",
+  "icon": "https://render.guildwars2.com/file/05C3631739167BDC0867BECE80C0BE39C0B8B63B/62986.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 525,
+    "max_power": 616,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 194.004,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 49
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 49
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 68
+        }
+      ]
+    },
+    "suffix_item_id": 24610
+  }
+}

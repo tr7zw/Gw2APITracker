@@ -1,0 +1,44 @@
+{
+  "name": "Mending Norn Warhorn of Earth",
+  "type": "Weapon",
+  "level": 53,
+  "rarity": "Rare",
+  "vendor_value": 141,
+  "default_skin": 5078,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25711,
+  "chat_link": "[\u0026AgFvZAAA]",
+  "icon": "https://render.guildwars2.com/file/9280CB67345DF242A7ECA59D7E27D690157F0FEA/575183.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 444,
+    "max_power": 490,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 169.272,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 42
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 59
+        }
+      ]
+    },
+    "suffix_item_id": 24559
+  }
+}

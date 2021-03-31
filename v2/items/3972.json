@@ -1,0 +1,50 @@
+{
+  "name": "Mountainous Pauldrons",
+  "description": "\u003cc\u003d@flavor\u003e\"These may be a little heavier than normal, but that can come in handy.\"\u003cbr\u003e—Crusader Rugan\u003c/c\u003e",
+  "type": "Armor",
+  "level": 57,
+  "rarity": "Fine",
+  "vendor_value": 54,
+  "default_skin": 884,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 3972,
+  "chat_link": "[\u0026AgGEDwAA]",
+  "icon": "https://render.guildwars2.com/file/AF5294595CE2FC00C835BEC0B4F739CE35E0D6B0/61561.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "defense": 58,
+    "infusion_slots": [],
+    "attribute_adjustment": 59.328,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 21
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 15
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 15
+        }
+      ]
+    }
+  }
+}

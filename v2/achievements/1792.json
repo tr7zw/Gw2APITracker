@@ -1,0 +1,27 @@
+{
+  "id": 1792,
+  "name": "Better Red Than Dead",
+  "description": "Story Instance: Hidden Arcana",
+  "requirement": "Defeat the facet of light without using blue or green attunements.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 15
+    }
+  ],
+  "prerequisites": [
+    1783
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 36178,
+      "count": 1
+    }
+  ]
+}

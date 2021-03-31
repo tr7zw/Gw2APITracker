@@ -1,0 +1,53 @@
+{
+  "name": "Shifting Trident",
+  "description": "\u003cc\u003d@flavor\u003e\"Always flow like the current in order to crash like a wave.\"\u003cbr\u003e—Shifting Waves\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 198,
+  "default_skin": 4712,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29559,
+  "chat_link": "[\u0026AgF3cwAA]",
+  "icon": "https://render.guildwars2.com/file/B8F4F953BC20F7A7FE9FF7459FD5534F0608730F/574969.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 745,
+    "max_power": 823,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 559.912,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 140
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 140
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 196
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

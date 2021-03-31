@@ -1,0 +1,49 @@
+{
+  "name": "Pact Shotgun",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 297,
+  "default_skin": 4960,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 31157,
+  "chat_link": "[\u0026AgG1eQAA]",
+  "icon": "https://render.guildwars2.com/file/0B2606C40E79D392DE94911F416DD15E49E4611C/456071.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 873,
+    "max_power": 1067,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 603.648,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 151
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 151
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 211
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

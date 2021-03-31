@@ -1,0 +1,27 @@
+{
+  "id": 1647,
+  "name": "Opportune Moment",
+  "description": "Story Instance: Cornered",
+  "requirement": "Find a way to sneak up on your enemy during the chase.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    1641
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 66604,
+      "count": 1
+    }
+  ]
+}

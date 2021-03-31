@@ -1,0 +1,47 @@
+{
+  "name": "Nentor Heavy Leggings",
+  "description": "\u003cc\u003d@flavor\u003e\"If you\u0027re going into caves, at least keep your legs covered. One bad accident can put you out of commission.\"\u003cbr\u003e—Kelgg\u003c/c\u003e",
+  "type": "Armor",
+  "level": 28,
+  "rarity": "Masterwork",
+  "vendor_value": 82,
+  "default_skin": 877,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4053,
+  "chat_link": "[\u0026AgHVDwAA]",
+  "icon": "https://render.guildwars2.com/file/F60B4A0B17A40DCC0797E8241B6DA0061B2D777E/61259.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Heavy",
+    "defense": 58,
+    "infusion_slots": [],
+    "attribute_adjustment": 50.949,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 13
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 18
+        }
+      ]
+    },
+    "suffix_item_id": 24727
+  }
+}

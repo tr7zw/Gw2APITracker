@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Prototype Coat",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 37500,
+  "default_skin": 308,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Asura"
+  ],
+  "id": 3617,
+  "chat_link": "[\u0026AgEhDgAA]",
+  "icon": "https://render.guildwars2.com/file/973577D2AC7F692FDAA5B86C6D74C40C120E6BFB/779797.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 299,
+    "infusion_slots": [],
+    "attribute_adjustment": 339.552,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 85
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 85
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 119
+        }
+      ]
+    }
+  }
+}

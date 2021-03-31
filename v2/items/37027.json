@@ -1,0 +1,64 @@
+{
+  "name": "Prototype Fractal Capacitor",
+  "description": "",
+  "type": "Back",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 330,
+  "default_skin": 2377,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 37027,
+  "chat_link": "[\u0026AgGjkAAA]",
+  "icon": "https://render.guildwars2.com/file/DC1D512B917D1C01B34BC5279ED12571730F7635/511805.png",
+  "details": {
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 89.628,
+    "infix_upgrade": {
+      "id": 583,
+      "buff": {
+        "skill_id": 15743,
+        "description": "+32 Toughness\n+18 Power\n+18 Ferocity"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 40
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 63
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 40
+        }
+      ]
+    }
+  },
+  "upgrades_into": [
+    {
+      "upgrade": "Infusion",
+      "item_id": 49377
+    }
+  ]
+}

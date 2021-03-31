@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Legionnaire Short Bow of Rage",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 5068,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32310,
+  "chat_link": "[\u0026AgE2fgAA]",
+  "icon": "https://render.guildwars2.com/file/F64F7A05FDA259A1AC342F03083908FD4EC9B779/62423.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 905,
+    "max_power": 1000,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 171
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 171
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 239
+        }
+      ]
+    },
+    "suffix_item_id": 24561
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "name": "Warlord\u0027s Crown",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 9225,
+  "icon": "https://render.guildwars2.com/file/2AD9C2C7F70DBCA45C0B657922541C75A531AE20/2261482.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        null,
+        {
+          "color_id": -1,
+          "material": "cloth"
+        }
+      ],
+      "overrides": {
+        "HumanFemale": [
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          null,
+          {
+            "color_id": -1,
+            "material": "metal"
+          }
+        ],
+        "NornFemale": [
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          null,
+          {
+            "color_id": -1,
+            "material": "metal"
+          }
+        ],
+        "SylvariFemale": [
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          null,
+          {
+            "color_id": -1,
+            "material": "metal"
+          }
+        ]
+      }
+    }
+  }
+}

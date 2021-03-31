@@ -1,0 +1,25 @@
+{
+  "id": 5332,
+  "name": "Special Mission: Feed the Troops",
+  "description": "",
+  "requirement": "Bring food to  exhausted sentries in allied bases around the Drizzlewood Coast.",
+  "locked_text": "Unlock by using Blood Legion Special Mission Documents.",
+  "type": "Default",
+  "flags": [
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 6,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 93625,
+      "count": 250
+    }
+  ]
+}

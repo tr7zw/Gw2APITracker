@@ -1,0 +1,52 @@
+{
+  "name": "Vigil\u0027s Honor Torch of Force",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 4500,
+  "default_skin": 4957,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 31179,
+  "chat_link": "[\u0026AgHLeQAA]",
+  "icon": "https://render.guildwars2.com/file/6445A701F237B4B9460F77B0C3BB76B89D08C291/780655.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 699,
+    "max_power": 820,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 301.824,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 106
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 75
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 75
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

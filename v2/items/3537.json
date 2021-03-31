@@ -1,0 +1,44 @@
+{
+  "name": "Honed Warband Spaulders",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 500,
+  "default_skin": 318,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "id": 3537,
+  "chat_link": "[\u0026AgHRDQAA]",
+  "icon": "https://render.guildwars2.com/file/AFB1F169EFE6BB63DCCECB0C13029A73EF0EB1E3/455472.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "defense": 39,
+    "infusion_slots": [],
+    "attribute_adjustment": 36.963,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 13
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

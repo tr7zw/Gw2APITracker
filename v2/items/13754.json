@@ -1,0 +1,40 @@
+{
+  "name": "Resilient Green Wood Trident",
+  "description": "",
+  "type": "Weapon",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 72,
+  "default_skin": 3889,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 13754,
+  "chat_link": "[\u0026AgG6NQAA]",
+  "icon": "https://render.guildwars2.com/file/195C62FCE31ECE47100E4020CE6C909AB69FEA9C/562000.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 224,
+    "max_power": 248,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 93.976,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 33
+        }
+      ]
+    }
+  }
+}

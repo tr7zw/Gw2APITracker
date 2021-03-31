@@ -1,0 +1,53 @@
+{
+  "name": "Warden Scepter",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 9000,
+  "default_skin": 4258,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29883,
+  "chat_link": "[\u0026AgG7dAAA]",
+  "icon": "https://render.guildwars2.com/file/482C9CCF0F2504DF99ED52B29219F1B1B42251FE/67877.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 793,
+    "max_power": 894,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 301.824,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 106
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 75
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 75
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

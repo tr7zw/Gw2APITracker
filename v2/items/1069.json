@@ -1,0 +1,36 @@
+{
+  "name": "Precise Worn Chain Coat",
+  "description": "",
+  "type": "Armor",
+  "level": 12,
+  "rarity": "Fine",
+  "vendor_value": 26,
+  "default_skin": 21,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 1069,
+  "chat_link": "[\u0026AgEtBAAA]",
+  "icon": "https://render.guildwars2.com/file/41DE30110F45F035CEB206050CEC3F0A320AAA26/61043.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 48,
+    "infusion_slots": [],
+    "attribute_adjustment": 29.808,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 10
+        }
+      ]
+    }
+  }
+}

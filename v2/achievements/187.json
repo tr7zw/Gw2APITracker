@@ -1,0 +1,51 @@
+{
+  "id": 187,
+  "name": "Master of Arah",
+  "description": "Favorite hangout of Giganticus Lupicus.",
+  "requirement": "Explored Ruined City of Arah.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Story Mode"
+    },
+    {
+      "type": "Text",
+      "text": "Explorable Mode—Jotun Path"
+    },
+    {
+      "type": "Text",
+      "text": "Explorable Mode—Mursaat Path"
+    },
+    {
+      "type": "Text",
+      "text": "Explorable Mode—Forgotten Path"
+    },
+    {
+      "type": "Text",
+      "text": "Explorable Mode—Seer Path"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 2,
+      "points": 5
+    },
+    {
+      "count": 3,
+      "points": 5
+    },
+    {
+      "count": 4,
+      "points": 5
+    },
+    {
+      "count": 5,
+      "points": 5
+    }
+  ]
+}

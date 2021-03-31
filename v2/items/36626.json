@@ -1,0 +1,40 @@
+{
+  "name": "Bandit Spineguard",
+  "type": "Back",
+  "level": 45,
+  "rarity": "Rare",
+  "vendor_value": 123,
+  "default_skin": 2329,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 36626,
+  "chat_link": "[\u0026AgESjwAA]",
+  "icon": "https://render.guildwars2.com/file/03B65C435B15EB2C10E04F3454B03718AAF3AE90/61004.png",
+  "details": {
+    "infusion_slots": [],
+    "attribute_adjustment": 34.038,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 9
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 12
+        }
+      ]
+    },
+    "suffix_item_id": 24905
+  }
+}

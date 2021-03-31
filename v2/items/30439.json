@@ -1,0 +1,49 @@
+{
+  "name": "Vigil Shield",
+  "description": "\u003cc\u003d@flavor\u003e\"Stand your ground against the enemy by using this.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 51,
+  "rarity": "Masterwork",
+  "vendor_value": 90,
+  "default_skin": 4012,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30439,
+  "chat_link": "[\u0026AgHndgAA]",
+  "icon": "https://render.guildwars2.com/file/222F72EDEC31ACB7BC439499F4DD4AA4A94A6C48/65373.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 391,
+    "max_power": 441,
+    "defense": 28,
+    "infusion_slots": [],
+    "attribute_adjustment": 148.104,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 37
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 52
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Aetherized Mantle",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 300,
+  "default_skin": 888,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 43560,
+  "chat_link": "[\u0026AgEoqgAA]",
+  "icon": "https://render.guildwars2.com/file/76C75441B9FF20EB323AE15407ED97DDDC789330/61234.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 73,
+    "infusion_slots": [],
+    "attribute_adjustment": 128.04,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 32
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 32
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 45
+        }
+      ]
+    },
+    "suffix_item_id": 24765
+  }
+}

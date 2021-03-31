@@ -1,0 +1,62 @@
+{
+  "id": 2609,
+  "name": "Machined Sword",
+  "description": "",
+  "requirement": "Collect all  items to forge your Machined Sword.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 6486
+    },
+    {
+      "type": "Item",
+      "id": 72110
+    },
+    {
+      "type": "Item",
+      "id": 76673
+    },
+    {
+      "type": "Item",
+      "id": 72514
+    },
+    {
+      "type": "Item",
+      "id": 72394
+    },
+    {
+      "type": "Item",
+      "id": 73760
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 75917,
+      "count": 1
+    }
+  ]
+}

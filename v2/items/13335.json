@@ -1,0 +1,41 @@
+{
+  "name": "Topaz Gold Ring",
+  "description": "",
+  "type": "Trinket",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 135,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 13335,
+  "chat_link": "[\u0026AgEXNAAA]",
+  "icon": "https://render.guildwars2.com/file/EA50C6D81DB452079E98617CB72107A11DD01F7E/340150.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [],
+    "attribute_adjustment": 108.171,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 27
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 38
+        }
+      ]
+    },
+    "suffix_item_id": 24490
+  }
+}

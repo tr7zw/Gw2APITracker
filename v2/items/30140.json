@@ -1,0 +1,52 @@
+{
+  "name": "Cistern Trident",
+  "description": "\u003cc\u003d@flavor\u003e\"We had to completely re-engineer the insides of these weapons to not get gummed up.\"\u003cbr\u003e—Engineer Verutum\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 61,
+  "rarity": "Fine",
+  "vendor_value": 78,
+  "default_skin": 5144,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30140,
+  "chat_link": "[\u0026AgG8dQAA]",
+  "icon": "https://render.guildwars2.com/file/55EE23F7C04B5823F2B2CC5DBB2C636E5F68A6A0/68163.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 492,
+    "max_power": 544,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 348.928,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 87
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 87
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 122
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Blade of the Iron Imperator",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 9386,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 93638,
+  "chat_link": "[\u0026AgHGbQEA]",
+  "icon": "https://render.guildwars2.com/file/60A6C0630160ADAEF0BD2B5537D478A8B70BABA1/2292737.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 924,
+    "max_power": 981,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 753,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 85
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 120
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 85
+        }
+      ]
+    },
+    "suffix_item_id": 24678
+  }
+}

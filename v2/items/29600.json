@@ -1,0 +1,48 @@
+{
+  "name": "Ebon Vanguard Rifle",
+  "type": "Weapon",
+  "level": 40,
+  "rarity": "Rare",
+  "vendor_value": 1400,
+  "default_skin": 4610,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29600,
+  "chat_link": "[\u0026AgGgcwAA]",
+  "icon": "https://render.guildwars2.com/file/779F3C011A6C1C7DC7DCAE9A49AD0E3610E1C2D0/61751.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 411,
+    "max_power": 503,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 234.288,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 82
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 59
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

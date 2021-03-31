@@ -1,0 +1,43 @@
+{
+  "name": "Disarmed Mortar Shell",
+  "description": "\u003cc\u003d@flavor\u003e\"Just to remind the world what the Iron Legion is best at.\"\u003cbr\u003e—Centurion Truthbringer\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 53,
+  "rarity": "Fine",
+  "vendor_value": 59,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23527,
+  "chat_link": "[\u0026AgHnWwAA]",
+  "icon": "https://render.guildwars2.com/file/80CC5AAC2E1C0EF93A0624EC0CF0E7535EB30A37/62196.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 89.44,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 22
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 31
+        }
+      ]
+    }
+  }
+}

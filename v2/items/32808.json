@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Steamcaller of Debility",
+  "type": "Weapon",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 90,
+  "default_skin": 5149,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32808,
+  "chat_link": "[\u0026AgEogAAA]",
+  "icon": "https://render.guildwars2.com/file/E40BED1EC22C9F5C5BAC0F432724A5CDE416A109/68175.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 387,
+    "max_power": 428,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 144.228,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 36
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 50
+        }
+      ]
+    },
+    "suffix_item_id": 24634
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Ornate Coral Jewel",
+  "description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 90,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24879,
+  "chat_link": "[\u0026AgEvYQAA]",
+  "icon": "https://render.guildwars2.com/file/B85A98BA20D9D9BA9AF26EA9526A39F315F236A6/221180.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "Trinket"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 502,
+      "buff": {
+        "skill_id": 293,
+        "description": "+14 Precision\n+9 Condition Damage\n+9 Power"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 9
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 14
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 9
+        }
+      ]
+    },
+    "suffix": "of Coral"
+  }
+}

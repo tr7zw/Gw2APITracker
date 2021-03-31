@@ -1,0 +1,64 @@
+{
+  "name": "Symon\u0027s History of Ascalon",
+  "description": "\u003cc\u003d@flavor\u003eFirst edition. This book appears to be written in the author\u0027s own hand.\u003c/c\u003e",
+  "type": "Back",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 330,
+  "default_skin": 2318,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 37005,
+  "chat_link": "[\u0026AgGNkAAA]",
+  "icon": "https://render.guildwars2.com/file/E341B6DDF3EC255B066947E2D04731D2A0139629/223715.png",
+  "details": {
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 89.628,
+    "infix_upgrade": {
+      "id": 583,
+      "buff": {
+        "skill_id": 15743,
+        "description": "+32 Toughness\n+18 Power\n+18 Ferocity"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 40
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 63
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 40
+        }
+      ]
+    }
+  },
+  "upgrades_into": [
+    {
+      "upgrade": "Infusion",
+      "item_id": 49366
+    }
+  ]
+}

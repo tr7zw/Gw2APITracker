@@ -1,0 +1,49 @@
+{
+  "name": "Lionguard Greatsword",
+  "description": "",
+  "type": "Weapon",
+  "level": 40,
+  "rarity": "Rare",
+  "vendor_value": 1400,
+  "default_skin": 4609,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29781,
+  "chat_link": "[\u0026AgFVdAAA]",
+  "icon": "https://render.guildwars2.com/file/A99B9FD0D678F971EA05274974623B9DA70C4198/779949.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 415,
+    "max_power": 459,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 234.288,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 82
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 59
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

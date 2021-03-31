@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Legionnaire Speargun of Accuracy",
+  "type": "Weapon",
+  "level": 78,
+  "rarity": "Exotic",
+  "vendor_value": 384,
+  "default_skin": 5160,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32313,
+  "chat_link": "[\u0026AgE5fgAA]",
+  "icon": "https://render.guildwars2.com/file/3116637747A8AAC9613427343B671575482F2F49/780318.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 876,
+    "max_power": 969,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 658.72,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 165
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 165
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 231
+        }
+      ]
+    },
+    "suffix_item_id": 24618
+  }
+}

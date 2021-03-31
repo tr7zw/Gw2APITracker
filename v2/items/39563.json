@@ -1,0 +1,57 @@
+{
+  "name": "Big Mama\u0027s Tooth",
+  "description": "\u003cc\u003d@flavor\u003eLegends speak of \"Big Mama,\" the largest drake broodmother that ever lived. If she still does, it seems she\u0027s short at least one tooth.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 413,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 39563,
+  "chat_link": "[\u0026AgGLmgAA]",
+  "icon": "https://render.guildwars2.com/file/6332FDCADCFBADE54BFE71B8C5057FF280C5A9CC/543900.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 224.07,
+    "infix_upgrade": {
+      "id": 660,
+      "buff": {
+        "skill_id": 17072,
+        "description": "+32 Precision\n+18 Toughness\n+18 Power"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 74
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 110
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 74
+        }
+      ]
+    }
+  }
+}

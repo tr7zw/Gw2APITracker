@@ -1,0 +1,44 @@
+{
+  "name": "Vigorous Wolfborn Leggings",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 750,
+  "default_skin": 432,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Norn"
+  ],
+  "id": 3569,
+  "chat_link": "[\u0026AgHxDQAA]",
+  "icon": "https://render.guildwars2.com/file/4944AAAF435E0D92ACCB67F2150534CF344804C0/414930.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Medium",
+    "defense": 70,
+    "infusion_slots": [],
+    "attribute_adjustment": 73.926,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 26
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 18
+        }
+      ]
+    }
+  }
+}

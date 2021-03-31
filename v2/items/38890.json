@@ -1,0 +1,47 @@
+{
+  "name": "Cavalier\u0027s Glyphic Icon",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 132,
+  "default_skin": 5178,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 38890,
+  "chat_link": "[\u0026AgHqlwAA]",
+  "icon": "https://render.guildwars2.com/file/2344244016425D02CE90BC950B366B7FC0183C37/62837.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 685,
+    "max_power": 727,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 279.956,
+    "infix_upgrade": {
+      "id": 616,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 70
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 98
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 70
+        }
+      ]
+    }
+  }
+}

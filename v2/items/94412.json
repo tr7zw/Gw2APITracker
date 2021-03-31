@@ -1,0 +1,50 @@
+{
+  "name": "Giver\u0027s Wintergreen Rifle of Chilling",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 9777,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94412,
+  "chat_link": "[\u0026AgHMcAEA]",
+  "icon": "https://render.guildwars2.com/file/B199EAF265504DC0D8D673F39D534841D16FF4EF/2377340.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 986,
+    "max_power": 1205,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 628,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 239
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 171
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 171
+        }
+      ]
+    },
+    "suffix_item_id": 24630
+  }
+}

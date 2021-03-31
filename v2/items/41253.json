@@ -1,0 +1,42 @@
+{
+  "name": "Stately Garb",
+  "description": "",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 0,
+  "default_skin": 866,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 41253,
+  "chat_link": "[\u0026AgEloQAA]",
+  "icon": "https://render.guildwars2.com/file/13B530319E9A2D0151670C590B37C69A20DB1B98/61230.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 29,
+    "infusion_slots": [],
+    "attribute_adjustment": 14.229,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 5
+        }
+      ]
+    }
+  }
+}

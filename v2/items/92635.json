@@ -1,0 +1,55 @@
+{
+  "name": "Diviner\u0027s Shining Aureate Rinblade of Luck",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 9119,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92635,
+  "chat_link": "[\u0026AgHbaQEA]",
+  "icon": "https://render.guildwars2.com/file/280DA21B42F1AF040F1A9D0C3CAE551DD0BDE3A9/2242650.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 905,
+    "max_power": 1000,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1556,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 102
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 56
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 102
+        }
+      ]
+    },
+    "suffix_item_id": 24591
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Lionguard Cannon",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 9000,
+  "default_skin": 4636,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29829,
+  "chat_link": "[\u0026AgGFdAAA]",
+  "icon": "https://render.guildwars2.com/file/D2027480F60D08E89E4D1A56800B23FEE9C1C421/779971.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 802,
+    "max_power": 886,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 603.648,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 151
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 211
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 151
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

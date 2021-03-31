@@ -1,0 +1,39 @@
+{
+  "id": 4508,
+  "name": "Chasing Tales: Wanderer\u0027s Way",
+  "description": "Elegos traveled far and wide to outrun his own infamy.",
+  "requirement": "Complete 5 events in Thunderhead Peaks while wielding a staff.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Elegos the Harmless."
+    },
+    {
+      "type": "Text",
+      "text": "Completed 5 events in Thunderhead Peaks while wielding a staff."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89792,
+      "count": 1
+    }
+  ]
+}

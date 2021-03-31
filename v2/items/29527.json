@@ -1,0 +1,49 @@
+{
+  "name": "Black Earth Harpoon",
+  "description": "\u003cc\u003d@flavor\u003e\"The Priory sent us this shipment of underwater weapons. Must have been a mix-up somewhere.\"\u003cbr\u003e—Magister Roslin\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 48,
+  "rarity": "Masterwork",
+  "vendor_value": 129,
+  "default_skin": 4156,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29527,
+  "chat_link": "[\u0026AgFXcwAA]",
+  "icon": "https://render.guildwars2.com/file/DCAD6461D629BBB5417CD8B6170E7CE27EB4DEF8/65195.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 412,
+    "max_power": 456,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 272.816,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 68
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 95
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

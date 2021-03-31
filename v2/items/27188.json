@@ -1,0 +1,45 @@
+{
+  "name": "Hearty Soft Wood Focus of the Geomancer",
+  "description": "",
+  "type": "Weapon",
+  "level": 40,
+  "rarity": "Masterwork",
+  "vendor_value": 76,
+  "default_skin": 3887,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27188,
+  "chat_link": "[\u0026AgE0agAA]",
+  "icon": "https://render.guildwars2.com/file/EF62B7FE5B45A1181C362E635301E1BAA8FDCC44/65104.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 321,
+    "max_power": 341,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 107.168,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 27
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 38
+        }
+      ]
+    },
+    "suffix_item_id": 24603
+  }
+}

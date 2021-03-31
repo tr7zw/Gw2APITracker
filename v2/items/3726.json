@@ -1,0 +1,44 @@
+{
+  "name": "Honed Invoker\u0027s Shoulders",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 500,
+  "default_skin": 321,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "id": 3726,
+  "chat_link": "[\u0026AgGODgAA]",
+  "icon": "https://render.guildwars2.com/file/C1391FC73C26967159F624F45D3A37C51FFAAD20/455479.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 24,
+    "infusion_slots": [],
+    "attribute_adjustment": 36.963,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 13
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Electromagnetic Leggings",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 31250,
+  "default_skin": 311,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Asura"
+  ],
+  "id": 3626,
+  "chat_link": "[\u0026AgEqDgAA]",
+  "icon": "https://render.guildwars2.com/file/1732FBB753A2D5433E61E9293BD14909641538FE/511735.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Heavy",
+    "defense": 214,
+    "infusion_slots": [],
+    "attribute_adjustment": 226.368,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 57
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 57
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 79
+        }
+      ]
+    }
+  }
+}

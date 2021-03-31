@@ -1,0 +1,54 @@
+{
+  "name": "Diviner\u0027s Refitted Aureate Targe",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 132,
+  "default_skin": 9844,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94660,
+  "chat_link": "[\u0026AgHEcQEA]",
+  "icon": "https://render.guildwars2.com/file/F6214877D05076313DBE7057C91F4E3A3C02A365/2393773.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 664,
+    "max_power": 748,
+    "defense": 50,
+    "infusion_slots": [],
+    "attribute_adjustment": 279.956,
+    "infix_upgrade": {
+      "id": 1556,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 84
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 46
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 46
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 84
+        }
+      ]
+    }
+  }
+}

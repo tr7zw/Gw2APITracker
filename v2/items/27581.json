@@ -1,0 +1,45 @@
+{
+  "name": "Hearty Iron Greatsword of Ice",
+  "description": "",
+  "type": "Weapon",
+  "level": 55,
+  "rarity": "Rare",
+  "vendor_value": 216,
+  "default_skin": 4015,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27581,
+  "chat_link": "[\u0026AgG9awAA]",
+  "icon": "https://render.guildwars2.com/file/1EA00FDAAD23FD1B1B9C4BD6E36EB30A43E21D06/64138.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 564,
+    "max_power": 623,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 355.968,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 89
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 125
+        }
+      ]
+    },
+    "suffix_item_id": 24556
+  }
+}

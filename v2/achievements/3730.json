@@ -1,0 +1,29 @@
+{
+  "id": 3730,
+  "name": "Night of Fires",
+  "description": "Journal: Night of Fires Completed",
+  "requirement": "Search for Balthazar.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 83871,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 348
+    }
+  ]
+}

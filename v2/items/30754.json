@@ -1,0 +1,48 @@
+{
+  "name": "Berserker\u0027s Short Bow",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Basic",
+  "vendor_value": 50,
+  "default_skin": 3860,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 30754,
+  "chat_link": "[\u0026AgEieAAA]",
+  "icon": "https://render.guildwars2.com/file/32AE4DE8B03E026B54E1726C6EFBD5FAF4C09DD9/67395.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 551,
+    "max_power": 609,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 412.464,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 144
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 103
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 103
+        }
+      ]
+    }
+  }
+}

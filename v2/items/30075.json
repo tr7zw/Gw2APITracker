@@ -1,0 +1,49 @@
+{
+  "name": "Devourer Handler\u0027s Longbow",
+  "description": "\u003cc\u003d@flavor\u003e\"Have to protect the little ones.\"\u003cbr\u003e—Braxa Scalehunter\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 54,
+  "rarity": "Masterwork",
+  "vendor_value": 141,
+  "default_skin": 5209,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30075,
+  "chat_link": "[\u0026AgF7dQAA]",
+  "icon": "https://render.guildwars2.com/file/4A2CA99C5A19F33695FF36EF3FC9C3F10E0CDA03/68153.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 473,
+    "max_power": 556,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 319.736,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 112
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 80
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

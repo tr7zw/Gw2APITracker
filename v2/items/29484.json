@@ -1,0 +1,49 @@
+{
+  "name": "Horned Focus",
+  "description": "\u003cc\u003d@flavor\u003e\"Keep an eye on those ice imps.They are always up to no good.\"\u003cbr\u003e—Suki\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 34,
+  "rarity": "Masterwork",
+  "vendor_value": 66,
+  "default_skin": 5150,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29484,
+  "chat_link": "[\u0026AgEscwAA]",
+  "icon": "https://render.guildwars2.com/file/EBB491E406230AE7C8B908B1F7646D51DC370E6B/534280.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 282,
+    "max_power": 299,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 86.496,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 30
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 22
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

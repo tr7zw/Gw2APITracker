@@ -1,0 +1,37 @@
+{
+  "name": "Malign Steam Gizmo",
+  "type": "Weapon",
+  "level": 1,
+  "rarity": "Fine",
+  "vendor_value": 6,
+  "default_skin": 5202,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 32343,
+  "chat_link": "[\u0026AgFXfgAA]",
+  "icon": "https://render.guildwars2.com/file/12F6B21033F0962C25A76AAC31EB2757149CFBA3/68137.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 128,
+    "max_power": 135,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 12.672,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

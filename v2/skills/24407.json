@@ -1,0 +1,69 @@
+{
+  "name": "Renewal of Fire",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 90
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/3D61BEC4D7F15D070666D7DF355EDC07E4D023A8/1424232.png",
+      "duration": 15,
+      "status": "Renewal of Fire",
+      "description": "Will revive when downed.",
+      "apply_count": 1
+    },
+    {
+      "text": "Revive Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 1
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 240
+    }
+  ],
+  "description": "Glyph. Revive an ally; you\u0027re revived the next time you\u0027re downed.",
+  "icon": "https://render.guildwars2.com/file/E32109BA04DE3CE0F2A8E30324D235910B739BFC/103354.png",
+  "type": "Utility",
+  "weapon_type": "None",
+  "attunement": "Fire",
+  "professions": [
+    "Elementalist"
+  ],
+  "slot": "Utility",
+  "flags": [],
+  "id": 24407,
+  "chat_link": "[\u0026BldfAAA\u003d]",
+  "categories": [
+    "Glyph"
+  ],
+  "traited_facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+      "duration": 20,
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
+      "apply_count": 1,
+      "requires_trait": 229
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+      "duration": 6,
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
+      "apply_count": 3,
+      "requires_trait": 229
+    }
+  ]
+}

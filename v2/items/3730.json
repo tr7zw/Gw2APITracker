@@ -1,0 +1,48 @@
+{
+  "name": "Berserker\u0027s Wrangler Helm",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 1250,
+  "default_skin": 331,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "id": 3730,
+  "chat_link": "[\u0026AgGSDgAA]",
+  "icon": "https://render.guildwars2.com/file/D10F453A31F797C83B357AC9960EF0B447E415F1/779812.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 58,
+    "infusion_slots": [],
+    "attribute_adjustment": 100.44,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 35
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 25
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 25
+        }
+      ]
+    }
+  }
+}

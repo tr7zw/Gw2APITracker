@@ -1,0 +1,39 @@
+{
+  "id": 4519,
+  "name": "Chasing Tales: Preemptive Strike",
+  "description": "Baverne could wipe entire squads without being detected.",
+  "requirement": "Defeat 10 enemies with a rifle in Thunderhead Peaks without taking damage.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Baverne the Hunter."
+    },
+    {
+      "type": "Text",
+      "text": "Defeated 10 enemies with a rifle without taking damage in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89987,
+      "count": 1
+    }
+  ]
+}

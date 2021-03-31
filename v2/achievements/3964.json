@@ -1,0 +1,94 @@
+{
+  "id": 3964,
+  "name": "Astral Purification",
+  "description": "You think you can purify Kralkatite through a confluence of astral energy if focused correctly.",
+  "requirement": "",
+  "locked_text": "Craft an astral weapon.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 85895
+    },
+    {
+      "type": "Item",
+      "id": 85868
+    },
+    {
+      "type": "Item",
+      "id": 85812
+    },
+    {
+      "type": "Item",
+      "id": 86318
+    },
+    {
+      "type": "Item",
+      "id": 86306
+    },
+    {
+      "type": "Item",
+      "id": 86169
+    },
+    {
+      "type": "Item",
+      "id": 86059
+    },
+    {
+      "type": "Item",
+      "id": 86207
+    },
+    {
+      "type": "Item",
+      "id": 86299
+    },
+    {
+      "type": "Item",
+      "id": 85910
+    },
+    {
+      "type": "Item",
+      "id": 85898
+    },
+    {
+      "type": "Item",
+      "id": 86322
+    },
+    {
+      "type": "Item",
+      "id": 85864
+    },
+    {
+      "type": "Item",
+      "id": 86280
+    },
+    {
+      "type": "Item",
+      "id": 86199
+    }
+  ],
+  "tiers": [
+    {
+      "count": 8,
+      "points": 3
+    },
+    {
+      "count": 15,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 85947,
+      "count": 1
+    }
+  ]
+}

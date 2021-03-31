@@ -1,0 +1,47 @@
+{
+  "name": "Survivor\u0027s Disputation",
+  "type": "Weapon",
+  "level": 44,
+  "rarity": "Rare",
+  "vendor_value": 126,
+  "default_skin": 5013,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 54336,
+  "chat_link": "[\u0026AgFA1AAA]",
+  "icon": "https://render.guildwars2.com/file/FC26BFB3280B24576762056838F7BDCF6243E1BD/61644.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 414,
+    "max_power": 505,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 144.432,
+    "infix_upgrade": {
+      "id": 1013,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 36
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 51
+        }
+      ]
+    }
+  }
+}

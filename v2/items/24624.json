@@ -1,0 +1,54 @@
+{
+  "name": "Superior Sigil of Smoldering",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eEnhancement\u003cbr\u003eDouble-click to apply to a weapon.",
+  "type": "UpgradeComponent",
+  "level": 60,
+  "rarity": "Exotic",
+  "vendor_value": 216,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24624,
+  "chat_link": "[\u0026AgEwYAAA]",
+  "icon": "https://render.guildwars2.com/file/60AAB7109E5D679901E00DC066774EE5FB3E6052/220659.png",
+  "details": {
+    "type": "Sigil",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 270,
+      "buff": {
+        "skill_id": 9314,
+        "description": "Increase Inflicted Burning Duration: 20%"
+      },
+      "attributes": []
+    },
+    "suffix": "of Smoldering"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Verdant Bow of Corruption",
+  "type": "Weapon",
+  "level": 67,
+  "rarity": "Rare",
+  "vendor_value": 252,
+  "default_skin": 5072,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34831,
+  "chat_link": "[\u0026AgEPiAAA]",
+  "icon": "https://render.guildwars2.com/file/09C42BFA3EE10824DB4FBFD5529D073D7E7CAE2B/434893.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 652,
+    "max_power": 765,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 468.432,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 117
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 117
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 164
+        }
+      ]
+    },
+    "suffix_item_id": 24577
+  }
+}

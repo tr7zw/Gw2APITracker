@@ -1,0 +1,48 @@
+{
+  "name": "Soldier\u0027s Predatory Mask",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 1250,
+  "default_skin": 447,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Norn"
+  ],
+  "id": 3781,
+  "chat_link": "[\u0026AgHFDgAA]",
+  "icon": "https://render.guildwars2.com/file/5BF2FEB5BBD66D34D6486E46911914053E6BF094/780932.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 58,
+    "infusion_slots": [],
+    "attribute_adjustment": 100.44,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 35
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 25
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 25
+        }
+      ]
+    }
+  }
+}

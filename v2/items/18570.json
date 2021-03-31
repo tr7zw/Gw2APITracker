@@ -1,0 +1,52 @@
+{
+  "name": "Nightmare Speargun",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 4428,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 18570,
+  "chat_link": "[\u0026AgGKSAAA]",
+  "icon": "https://render.guildwars2.com/file/0F75F8BA5E042257B6261641943C6970D14ADB5C/455737.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 905,
+    "max_power": 1000,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 171
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 239
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 171
+        }
+      ]
+    },
+    "suffix_item_id": 24681
+  }
+}

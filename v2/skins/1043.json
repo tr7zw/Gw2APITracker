@@ -1,0 +1,68 @@
+{
+  "type": "Armor",
+  "flags": [],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 1043,
+  "icon": "https://render.guildwars2.com/file/A146C05DE3F7D9067204BD7EC80F5906B4212AE1/66608.png",
+  "name": "",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Clothing",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        null
+      ],
+      "overrides": {
+        "NornFemale": [
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          }
+        ],
+        "NornMale": [
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          }
+        ]
+      }
+    }
+  }
+}

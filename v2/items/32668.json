@@ -1,0 +1,40 @@
+{
+  "name": "Malign Steam Spear of Agony",
+  "type": "Weapon",
+  "level": 14,
+  "rarity": "Masterwork",
+  "vendor_value": 57,
+  "default_skin": 5185,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32668,
+  "chat_link": "[\u0026AgGcfwAA]",
+  "icon": "https://render.guildwars2.com/file/3008C27A70967620BBEE6467F5E2F7966EAB6AE5/780621.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 196,
+    "max_power": 216,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 67.456,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 24
+        }
+      ]
+    },
+    "suffix_item_id": 24610
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Recipe: Sweptweave Rifle",
+  "description": "A recipe to make a Sweptweave Rifle",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 18,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9611,
+  "chat_link": "[\u0026AgGLJQAA]",
+  "icon": "https://render.guildwars2.com/file/CAC5CE6CC2BA01A5AC0874089D064CA0FB11790C/849375.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 5113
+  }
+}

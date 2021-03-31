@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Glyphic Short Bow of the Hydromancer",
+  "type": "Weapon",
+  "level": 56,
+  "rarity": "Masterwork",
+  "vendor_value": 147,
+  "default_skin": 5151,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34648,
+  "chat_link": "[\u0026AgFYhwAA]",
+  "icon": "https://render.guildwars2.com/file/2B28FAFF803391B3F9F3A323AF0CB45B0A3A052D/64965.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 484,
+    "max_power": 535,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 336.192,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 84
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 118
+        }
+      ]
+    },
+    "suffix_item_id": 24595
+  }
+}

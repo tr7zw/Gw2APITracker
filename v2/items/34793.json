@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Verdant Staff of Earth",
+  "type": "Weapon",
+  "level": 53,
+  "rarity": "Rare",
+  "vendor_value": 212,
+  "default_skin": 5094,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34793,
+  "chat_link": "[\u0026AgHphwAA]",
+  "icon": "https://render.guildwars2.com/file/B5C1D65B9BFC0E1A019535FD06E69DA966AF4F1A/434880.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 537,
+    "max_power": 605,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 338.544,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 118
+        }
+      ]
+    },
+    "suffix_item_id": 24559
+  }
+}

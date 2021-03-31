@@ -1,0 +1,49 @@
+{
+  "name": "Cleric\u0027s Iron Sword of Fire",
+  "description": "",
+  "type": "Weapon",
+  "level": 75,
+  "rarity": "Exotic",
+  "vendor_value": 248,
+  "default_skin": 4062,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26238,
+  "chat_link": "[\u0026AgF+ZgAA]",
+  "icon": "https://render.guildwars2.com/file/D10679012504F6AD5829D1DF9F36303FE2EB46B4/64343.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 834,
+    "max_power": 921,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 311.2,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 78
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 78
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 109
+        }
+      ]
+    },
+    "suffix_item_id": 24548
+  }
+}

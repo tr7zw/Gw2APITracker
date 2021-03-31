@@ -1,0 +1,46 @@
+{
+  "name": "Carrion Draconic Pauldrons",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 240,
+  "default_skin": 138,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 10506,
+  "chat_link": "[\u0026AgEKKQAA]",
+  "icon": "https://render.guildwars2.com/file/9A1A03AA6818EACB1E63B43F06150925484B200D/61567.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "defense": 121,
+    "infusion_slots": [],
+    "attribute_adjustment": 128.04,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 32
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 32
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 45
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Can of Steak and Asparagus Dinner",
+  "type": "Consumable",
+  "level": 70,
+  "rarity": "Fine",
+  "vendor_value": 31,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 78612,
+  "chat_link": "[\u0026AgEUMwEA]",
+  "icon": "https://render.guildwars2.com/file/A56CD502C6FD040D5C0C1D0DBC7536432AE8C5B5/1423821.png",
+  "details": {
+    "type": "Food",
+    "duration_ms": 1800000,
+    "apply_count": 1,
+    "name": "Nourishment",
+    "icon": "https://render.guildwars2.com/file/779D3F0ABE5B46C09CFC57374DA8CC3A495F291C/436367.png",
+    "description": "+160 Power for 30 Seconds on Kill\n+60 Ferocity"
+  }
+}

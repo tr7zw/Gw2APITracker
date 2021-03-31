@@ -1,0 +1,51 @@
+{
+  "name": "Kodan Short Bow",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 4369,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 18059,
+  "chat_link": "[\u0026AgGLRgAA]",
+  "icon": "https://render.guildwars2.com/file/3D1FEA0D54271348633AD906BC74E538FB954A58/455693.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 905,
+    "max_power": 1000,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 171
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 171
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 239
+        }
+      ]
+    },
+    "suffix_item_id": 24667
+  }
+}

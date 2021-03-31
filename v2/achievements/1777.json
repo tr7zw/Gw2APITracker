@@ -1,0 +1,115 @@
+{
+  "id": 1777,
+  "icon": "https://render.guildwars2.com/file/CC9E0FB5F06B6D466BEBCA68649DAB929EA9A19E/1862652.png",
+  "name": "Tricks and Treats",
+  "description": "\u003cc\u003d@flavor\u003e\"Trick or treat!\"\u003c/c\u003e\n—Your Inner Child",
+  "requirement": "Collect and use  traditional Tyrian Halloween tricks and treats.",
+  "locked_text": "Use an Old Pillowcase, found in Trick-or-Treat Bags.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 36032
+    },
+    {
+      "type": "Item",
+      "id": 36031
+    },
+    {
+      "type": "Item",
+      "id": 36073
+    },
+    {
+      "type": "Item",
+      "id": 36074
+    },
+    {
+      "type": "Item",
+      "id": 36075
+    },
+    {
+      "type": "Item",
+      "id": 36076
+    },
+    {
+      "type": "Item",
+      "id": 36078
+    },
+    {
+      "type": "Item",
+      "id": 36077
+    },
+    {
+      "type": "Item",
+      "id": 36080
+    },
+    {
+      "type": "Item",
+      "id": 36079
+    },
+    {
+      "type": "Item",
+      "id": 36082
+    },
+    {
+      "type": "Item",
+      "id": 36081
+    },
+    {
+      "type": "Item",
+      "id": 36083
+    },
+    {
+      "type": "Item",
+      "id": 36084
+    },
+    {
+      "type": "Item",
+      "id": 67379
+    },
+    {
+      "type": "Item",
+      "id": 67367
+    },
+    {
+      "type": "Item",
+      "id": 67377
+    },
+    {
+      "type": "Item",
+      "id": 67368
+    },
+    {
+      "type": "Item",
+      "id": 67371
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 1
+    },
+    {
+      "count": 19,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 67384,
+      "count": 1
+    }
+  ]
+}

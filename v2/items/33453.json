@@ -1,0 +1,37 @@
+{
+  "name": "Resilient Krytan Greatsword",
+  "type": "Weapon",
+  "level": 16,
+  "rarity": "Fine",
+  "vendor_value": 30,
+  "default_skin": 4995,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 33453,
+  "chat_link": "[\u0026AgGtggAA]",
+  "icon": "https://render.guildwars2.com/file/CC31BBF5C565BB000AF150407329610572C20C3D/61671.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 207,
+    "max_power": 229,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 67.072,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 23
+        }
+      ]
+    }
+  }
+}

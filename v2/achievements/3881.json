@@ -1,0 +1,80 @@
+{
+  "id": 3881,
+  "icon": "https://render.guildwars2.com/file/3FB1AE472DF109D022146F26B0F420140BFC26FE/1824200.png",
+  "name": "Recitation of the Litany of Deeds",
+  "description": "\u003cc\u003d@Flavor\u003eIt was customary for heralds and traveling performers to gather and compete over who could tell the most impressive tales to assembled guests and foreign dignitaries.\u003c/c\u003e",
+  "requirement": "Bring  tales of your adventures to the Elisa, the traveler.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 83266
+    },
+    {
+      "type": "Item",
+      "id": 82319
+    },
+    {
+      "type": "Item",
+      "id": 84650
+    },
+    {
+      "type": "Item",
+      "id": 82958
+    },
+    {
+      "type": "Item",
+      "id": 83403
+    },
+    {
+      "type": "Item",
+      "id": 84056
+    },
+    {
+      "type": "Item",
+      "id": 83268
+    },
+    {
+      "type": "Item",
+      "id": 84457
+    },
+    {
+      "type": "Item",
+      "id": 82935
+    },
+    {
+      "type": "Item",
+      "id": 84701
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    3753
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 82972,
+      "count": 1
+    }
+  ]
+}

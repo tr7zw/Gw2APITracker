@@ -1,0 +1,43 @@
+{
+  "name": "Potent Reinforced Scale Legs",
+  "type": "Armor",
+  "level": 45,
+  "rarity": "Rare",
+  "vendor_value": 173,
+  "default_skin": 41,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 18240,
+  "chat_link": "[\u0026AgFARwAA]",
+  "icon": "https://render.guildwars2.com/file/CE2E65CBB56F1CC37E6FC2F094612DF60E76E915/61070.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Heavy",
+    "defense": 101,
+    "infusion_slots": [],
+    "attribute_adjustment": 102.114,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 36
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 26
+        }
+      ]
+    }
+  }
+}

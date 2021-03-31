@@ -1,0 +1,48 @@
+{
+  "name": "Assassin\u0027s Tengu Echo Rifle",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 9422,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 93419,
+  "chat_link": "[\u0026AgHrbAEA]",
+  "icon": "https://render.guildwars2.com/file/F9C84F6AB776237F1873A95ABB0B5409CB42BB46/2293092.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 986,
+    "max_power": 1205,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 753,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 171
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 239
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 171
+        }
+      ]
+    }
+  }
+}

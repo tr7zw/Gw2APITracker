@@ -1,0 +1,37 @@
+{
+  "id": 3249,
+  "name": "Disassembly",
+  "description": "Don\u0027t they ever test this stuff?",
+  "requirement": "Defeat misbehaving Wintersday toys while helping Tixx run the workshop or exploring Tyria.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 15,
+      "points": 1
+    },
+    {
+      "count": 40,
+      "points": 2
+    },
+    {
+      "count": 70,
+      "points": 2
+    },
+    {
+      "count": 100,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 77666,
+      "count": 5
+    }
+  ]
+}

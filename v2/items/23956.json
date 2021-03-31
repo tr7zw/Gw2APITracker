@@ -1,0 +1,38 @@
+{
+  "name": "Hardened Destroyer Core",
+  "description": "\u003cc\u003d@flavor\u003eThis trinket grows hotter when in proximity to destroyers.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 9,
+  "rarity": "Fine",
+  "vendor_value": 18,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23956,
+  "chat_link": "[\u0026AgGUXQAA]",
+  "icon": "https://render.guildwars2.com/file/45ACC107537E9D70776C9F24EDA1DCC26C4AFAB1/63345.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 13.24,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 5
+        }
+      ]
+    }
+  }
+}

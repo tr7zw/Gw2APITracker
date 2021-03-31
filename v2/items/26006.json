@@ -1,0 +1,38 @@
+{
+  "name": "Mighty Iron Mace",
+  "description": "",
+  "type": "Weapon",
+  "level": 9,
+  "rarity": "Fine",
+  "vendor_value": 14,
+  "default_skin": 3964,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 26006,
+  "chat_link": "[\u0026AgGWZQAA]",
+  "icon": "https://render.guildwars2.com/file/415D42C379B3AE75721E59D76E5F170926C416C1/65228.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 160,
+    "max_power": 180,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 21.184,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 7
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Brackwater Village Focus",
+  "description": "\u003cc\u003d@flavor\u003e\"You act with the honor of Wardens. Thank you for your help.\" \u003cbr\u003e—Quennida\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 63,
+  "rarity": "Fine",
+  "vendor_value": 54,
+  "default_skin": 5178,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30607,
+  "chat_link": "[\u0026AgGPdwAA]",
+  "icon": "https://render.guildwars2.com/file/2344244016425D02CE90BC950B366B7FC0183C37/62837.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 469,
+    "max_power": 498,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 182.592,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 46
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 46
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 64
+        }
+      ]
+    }
+  }
+}

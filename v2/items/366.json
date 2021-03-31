@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Magician Coat of the Lich",
+  "description": "",
+  "type": "Armor",
+  "level": 27,
+  "rarity": "Masterwork",
+  "vendor_value": 84,
+  "default_skin": 37,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 366,
+  "chat_link": "[\u0026AgFuAQAA]",
+  "icon": "https://render.guildwars2.com/file/D1BBAB94232E2AD1F1253D573D45C4DCECDF0E02/61018.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 73,
+    "infusion_slots": [],
+    "attribute_adjustment": 72.981,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 18
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 26
+        }
+      ]
+    },
+    "suffix_item_id": 24689
+  }
+}

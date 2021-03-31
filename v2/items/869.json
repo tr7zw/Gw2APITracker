@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Magician Boots of Vampirism",
+  "description": "",
+  "type": "Armor",
+  "level": 33,
+  "rarity": "Masterwork",
+  "vendor_value": 66,
+  "default_skin": 69,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 869,
+  "chat_link": "[\u0026AgFlAwAA]",
+  "icon": "https://render.guildwars2.com/file/561D59C81D1BAC16DA6AC470C256A7C53566DF5D/61032.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 38,
+    "infusion_slots": [],
+    "attribute_adjustment": 31.2885,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 8
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 11
+        }
+      ]
+    },
+    "suffix_item_id": 24709
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Pit Fighter\u0027s Helm",
+  "description": "\u003cc\u003d@flavor\u003eHead protection for savage battles.\u003c/c\u003e",
+  "type": "Armor",
+  "level": 31,
+  "rarity": "Fine",
+  "vendor_value": 39,
+  "default_skin": 905,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4343,
+  "chat_link": "[\u0026AgH3EAAA]",
+  "icon": "https://render.guildwars2.com/file/0ABC6BB856952944E212107A019FA948B325F3D2/61266.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 30,
+    "infusion_slots": [],
+    "attribute_adjustment": 34.88,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 9
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

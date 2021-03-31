@@ -1,0 +1,61 @@
+{
+  "name": "Zojja\u0027s Greatbow",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of the renowned asuran genius, Zojja.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 10000,
+  "default_skin": 4198,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 46765,
+  "chat_link": "[\u0026AgGttgAA]",
+  "icon": "https://render.guildwars2.com/file/773EB91B749EB947CBB277D3219090CC1BDCCAC4/631592.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 966,
+    "max_power": 1134,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      },
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 717.024,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 251
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 179
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 179
+        }
+      ]
+    }
+  }
+}

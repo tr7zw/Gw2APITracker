@@ -1,0 +1,53 @@
+{
+  "name": "Commander\u0027s Dragon Slayer Pistol",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 9704,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94253,
+  "chat_link": "[\u0026AgEtcAEA]",
+  "icon": "https://render.guildwars2.com/file/DF140E0D9BB7FBB509D0CB7DE35E301117FF2D74/2351683.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 876,
+    "max_power": 1029,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1131,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 102
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 102
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 56
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 56
+        }
+      ]
+    }
+  }
+}

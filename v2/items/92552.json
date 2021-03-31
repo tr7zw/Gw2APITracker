@@ -1,0 +1,51 @@
+{
+  "name": "Bringer\u0027s Rimed Verdant Shield of Ice",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 9052,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92552,
+  "chat_link": "[\u0026AgGIaQEA]",
+  "icon": "https://render.guildwars2.com/file/58BC593A15600450E5D1B67D9A23C10A91C1AA9B/2236572.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 806,
+    "max_power": 909,
+    "defense": 61,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1032,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 85
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 120
+        }
+      ]
+    },
+    "suffix_item_id": 24555
+  }
+}

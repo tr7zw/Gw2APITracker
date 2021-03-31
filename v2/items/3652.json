@@ -1,0 +1,48 @@
+{
+  "name": "Rabid Nightshade Leggings",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 1875,
+  "default_skin": 503,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Sylvari"
+  ],
+  "id": 3652,
+  "chat_link": "[\u0026AgFEDgAA]",
+  "icon": "https://render.guildwars2.com/file/7F989F0413565A7046BACFE22C5BE62A9C1A7EA0/414945.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Medium",
+    "defense": 130,
+    "infusion_slots": [],
+    "attribute_adjustment": 150.66,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 38
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 38
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 53
+        }
+      ]
+    }
+  }
+}

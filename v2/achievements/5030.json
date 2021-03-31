@@ -1,0 +1,33 @@
+{
+  "id": 5030,
+  "name": "Bjora Marches Historian",
+  "description": "",
+  "requirement": "Find and collect all the lore books in East Bjora Marches.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 92243
+    },
+    {
+      "type": "Item",
+      "id": 92253
+    },
+    {
+      "type": "Item",
+      "id": 92383
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 5
+    }
+  ]
+}

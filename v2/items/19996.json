@@ -1,0 +1,32 @@
+{
+  "name": "Revive Orb",
+  "description": "Rally from defeat at your current location.\n\nThis item cannot be used in raids, PvP, or WvW.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 4,
+  "game_types": [
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 19996,
+  "chat_link": "[\u0026AgEcTgAA]",
+  "icon": "https://render.guildwars2.com/file/3E166833A79AD380A33D1DBA2F26DD277F535FDC/66590.png",
+  "details": {
+    "type": "Generic",
+    "duration_ms": 10000,
+    "apply_count": 1,
+    "name": "Revive Sickness",
+    "icon": "https://render.guildwars2.com/file/C92B80B345050F94DE11453F014E1709372CA75B/1494356.png",
+    "description": "You remain in combat until sickness wears off."
+  }
+}

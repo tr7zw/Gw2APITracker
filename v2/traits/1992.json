@@ -1,0 +1,27 @@
+{
+  "id": 1992,
+  "tier": 3,
+  "order": 0,
+  "name": "Natural Mender",
+  "description": "Increase outgoing healing to other allies whenever you heal an ally besides yourself.",
+  "slot": "Minor",
+  "facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/ECB17C0FAE20B0F77EE9043BE449546A6FB41ABE/1128541.png",
+      "duration": 8,
+      "status": "Natural Mender",
+      "description": "Healing to other allies is increased.",
+      "apply_count": 1
+    },
+    {
+      "text": "Maximum Stacks",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 10
+    }
+  ],
+  "specialization": 5,
+  "icon": "https://render.guildwars2.com/file/ECB17C0FAE20B0F77EE9043BE449546A6FB41ABE/1128541.png"
+}

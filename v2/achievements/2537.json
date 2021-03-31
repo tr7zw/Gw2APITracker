@@ -1,0 +1,27 @@
+{
+  "id": 2537,
+  "name": "Avoid Traps",
+  "description": "Story Instance: \"Strange Observations\"",
+  "requirement": "Find Taimi without stepping on any Mordrem traps.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    2501
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 71130,
+      "count": 1
+    }
+  ]
+}

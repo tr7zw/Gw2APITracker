@@ -1,0 +1,42 @@
+{
+  "id": 17,
+  "name": "Springer Mount",
+  "requirement": "Complete the Highjump Ranch task region in Desert Highlands to unlock the Springer Mastery Track.",
+  "order": 2,
+  "background": "https://render.guildwars2.com/file/D46208E42E1B53790D485D05473F2A081145806B/1770239.png",
+  "region": "Desert",
+  "levels": [
+    {
+      "name": "Fortified Descent",
+      "description": "Learn to fortify your landing when falling from great heights, greatly increasing your tolerance for taking fall damage on the springer.",
+      "instruction": "The springer will now have a greater tolerance to taking fall damage, allowing you to safely fall from higher locations.",
+      "icon": "https://render.guildwars2.com/file/E7536A4F22F60F640FCAC3C4B7B84AD909573245/1770189.png",
+      "point_cost": 2,
+      "exp_cost": 381000
+    },
+    {
+      "name": "Forceful Impact",
+      "description": "Learn to create a more forceful impact when using Cannonball, knocking down foes.",
+      "instruction": "Cannonball will now knock down foes, leaving them disabled as you engage them.",
+      "icon": "https://render.guildwars2.com/file/D57F504CD5F3B19D7A25381433160047F512FA9B/1770190.png",
+      "point_cost": 3,
+      "exp_cost": 457200
+    },
+    {
+      "name": "High Vault",
+      "description": "Learn to jump up much higher with the springer\u0027s movement ability, allowing you to reach new and previously unexplorable areas.",
+      "instruction": "The springer\u0027s charged jump movement ability will now be able to jump much higher distances.",
+      "icon": "https://render.guildwars2.com/file/50EFB2B1309230BCDC4E1FFCF44223BF1E1FE077/1770191.png",
+      "point_cost": 4,
+      "exp_cost": 558800
+    },
+    {
+      "name": "Masterful Descent",
+      "description": "Master the springer mount and learn to share the bonus from Fortified Descent to all other mounts.",
+      "instruction": "All mounts now receive the bonus from Fortified Descent, giving them a greater tolerance to taking fall damage.",
+      "icon": "https://render.guildwars2.com/file/2BE13847756FBBFC06906DF1D7BD68FB961EDE26/1770192.png",
+      "point_cost": 5,
+      "exp_cost": 1222375
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Strong Soft Wood Torch",
+  "description": "",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Fine",
+  "vendor_value": 42,
+  "default_skin": 3890,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 27258,
+  "chat_link": "[\u0026AgF6agAA]",
+  "icon": "https://render.guildwars2.com/file/FA56C5DD5D7494F25D980E432BA129F44209ED0E/63136.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 316,
+    "max_power": 371,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 117.312,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 41
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 29
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Berserker\u0027s Dagger",
+  "description": "",
+  "type": "Weapon",
+  "level": 75,
+  "rarity": "Basic",
+  "vendor_value": 31,
+  "default_skin": 3871,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 30776,
+  "chat_link": "[\u0026AgE4eAAA]",
+  "icon": "https://render.guildwars2.com/file/BDAAF7437FD44F2AA7592F0A1EC5F9EEC690F635/66164.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 517,
+    "max_power": 549,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 187.2,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 66
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 47
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 47
+        }
+      ]
+    }
+  }
+}

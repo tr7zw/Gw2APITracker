@@ -1,0 +1,43 @@
+{
+  "name": "Harathi Hammer",
+  "type": "Weapon",
+  "level": 22,
+  "rarity": "Fine",
+  "vendor_value": 38,
+  "default_skin": 4662,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30399,
+  "chat_link": "[\u0026AgG/dgAA]",
+  "icon": "https://render.guildwars2.com/file/00EA6439A455FBEDA90E20097DFEA22CB829120F/67622.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 235,
+    "max_power": 264,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 92.8,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 32
+        }
+      ]
+    }
+  }
+}

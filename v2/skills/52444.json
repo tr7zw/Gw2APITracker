@@ -1,0 +1,47 @@
+{
+  "name": "Spirit Scream",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 2000
+    },
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 20
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+      "duration": 5,
+      "status": "Torment",
+      "description": "Deals damage every second. Deals additional damage to moving foes. Stacks intensity.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/30307A6E766D74B6EB09EDA12A4A2DE50E4D76F4/102869.png",
+      "duration": 3,
+      "status": "Fear",
+      "description": "Involuntary retreat; unable to act; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Combo Finisher",
+      "type": "ComboFinisher",
+      "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+      "percent": 100,
+      "finisher_type": "Blast"
+    }
+  ],
+  "description": "A terrible cackle reverberates through your soul.",
+  "icon": "https://render.guildwars2.com/file/B8D91A691871E4EA40645E2DE8F0452643263E9E/103181.png",
+  "flags": [],
+  "id": 52444,
+  "chat_link": "[\u0026BtzMAAA\u003d]"
+}

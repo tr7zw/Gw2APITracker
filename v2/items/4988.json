@@ -1,0 +1,51 @@
+{
+  "name": "Firebreak Pauldrons",
+  "description": "\u003cc\u003d@flavor\u003e\"Keeps the soot off.\"\u003cbr\u003e—Vigil Tactician Blazefur\u003c/c\u003e",
+  "type": "Armor",
+  "level": 64,
+  "rarity": "Masterwork",
+  "vendor_value": 119,
+  "default_skin": 884,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4988,
+  "chat_link": "[\u0026AgF8EwAA]",
+  "icon": "https://render.guildwars2.com/file/AF5294595CE2FC00C835BEC0B4F739CE35E0D6B0/61561.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "defense": 73,
+    "infusion_slots": [],
+    "attribute_adjustment": 75.99,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 19
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 19
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 27
+        }
+      ]
+    },
+    "suffix_item_id": 24724
+  }
+}

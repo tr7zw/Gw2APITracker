@@ -1,0 +1,39 @@
+{
+  "name": "Darkvine Gauntlets",
+  "description": "",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 7,
+  "default_skin": 883,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell"
+  ],
+  "restrictions": [],
+  "id": 4907,
+  "chat_link": "[\u0026AgErEwAA]",
+  "icon": "https://render.guildwars2.com/file/F192FC9EF771A87F7EB743686F0B7BDABA59BB19/61240.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 17,
+    "infusion_slots": [],
+    "attribute_adjustment": 5.04,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": 2569,
+  "name": "Machined Axe",
+  "description": "",
+  "requirement": "Collect all  items to forge your Machined Axe.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 6434
+    },
+    {
+      "type": "Item",
+      "id": 73799
+    },
+    {
+      "type": "Item",
+      "id": 70550
+    },
+    {
+      "type": "Item",
+      "id": 74608
+    },
+    {
+      "type": "Item",
+      "id": 76088
+    },
+    {
+      "type": "Item",
+      "id": 75027
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 74999,
+      "count": 1
+    }
+  ]
+}

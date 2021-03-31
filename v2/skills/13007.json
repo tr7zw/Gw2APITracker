@@ -1,0 +1,89 @@
+{
+  "name": "Larcenous Strike",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 130
+    },
+    {
+      "text": "Unblockable",
+      "type": "Unblockable",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": true
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 1.6
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 1.3
+    },
+    {
+      "text": "Boons Stolen",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 2
+    },
+    {
+      "text": "Damage Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 20
+    }
+  ],
+  "description": "Dual Wield. Stab your foe and steal boons from them. Deals increased damage if it hits a foe with no boons.",
+  "icon": "https://render.guildwars2.com/file/01E5F13EA2E13B0A01540BFF9837299FEF20CF2C/575653.png",
+  "type": "Weapon",
+  "weapon_type": "Sword",
+  "professions": [
+    "Thief"
+  ],
+  "slot": "Weapon_3",
+  "dual_wield": "Dagger",
+  "initiative": 2,
+  "flags": [
+    "NoUnderwater"
+  ],
+  "id": 13007,
+  "chat_link": "[\u0026Bs8yAAA\u003d]",
+  "categories": [
+    "DualWield"
+  ],
+  "traited_facts": [
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "requires_trait": 1192,
+      "hit_count": 1,
+      "dmg_multiplier": 1.76,
+      "overrides": 2
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "requires_trait": 1192,
+      "hit_count": 1,
+      "dmg_multiplier": 1.43,
+      "overrides": 3
+    },
+    {
+      "text": "Healing",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "value": 102,
+      "requires_trait": 1238,
+      "target": "Healing"
+    }
+  ]
+}

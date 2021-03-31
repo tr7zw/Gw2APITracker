@@ -1,0 +1,30 @@
+{
+  "name": "Mythic Weapon Choice",
+  "description": "Use this item to select and unlock a Mythic weapon skin of your choice for your account.",
+  "type": "Container",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92545,
+  "chat_link": "[\u0026AgGBaQEA]",
+  "icon": "https://render.guildwars2.com/file/AD789EE8C56C94EC610C202FB25B6CFE593D14BE/2236640.png",
+  "details": {
+    "type": "Default"
+  }
+}

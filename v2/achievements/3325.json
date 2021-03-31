@@ -1,0 +1,29 @@
+{
+  "id": 3325,
+  "name": "Siege Breaker",
+  "description": "Ascalon\u0027s Chosen will not be forgotten.",
+  "requirement": "Earn glory in the Battle of Kyhlo by completing these achievements.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 268
+    },
+    {
+      "type": "Coins",
+      "count": 50000
+    }
+  ]
+}

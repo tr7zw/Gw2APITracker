@@ -1,0 +1,38 @@
+{
+  "name": "Mighty Worn Chain Gauntlets",
+  "description": "",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 5,
+  "default_skin": 50,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NotUpgradeable"
+  ],
+  "restrictions": [],
+  "id": 1321,
+  "chat_link": "[\u0026AgEpBQAA]",
+  "icon": "https://render.guildwars2.com/file/E21E356DE0083C4DBE95C0DD0EA13C47DF55C6BA/61053.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 14,
+    "infusion_slots": [],
+    "attribute_adjustment": 4.329,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 2
+        }
+      ]
+    }
+  }
+}

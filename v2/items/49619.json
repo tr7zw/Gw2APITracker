@@ -1,0 +1,54 @@
+{
+  "name": "Keeper\u0027s Breeches",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of the Forgotten Keeper of Armor.\u003c/c\u003e",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 240,
+  "default_skin": 110,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 49619,
+  "chat_link": "[\u0026AgHTwQAA]",
+  "icon": "https://render.guildwars2.com/file/58F7090A0E429EA35DF1C9F36DBD281552CA12F9/699209.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Light",
+    "defense": 203,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 268.884,
+    "infix_upgrade": {
+      "id": 799,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 94
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 67
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 67
+        }
+      ]
+    }
+  }
+}

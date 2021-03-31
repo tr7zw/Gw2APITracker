@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Etched Trident of Accuracy",
+  "type": "Weapon",
+  "level": 78,
+  "rarity": "Exotic",
+  "vendor_value": 384,
+  "default_skin": 5041,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25638,
+  "chat_link": "[\u0026AgEmZAAA]",
+  "icon": "https://render.guildwars2.com/file/A8A63EA21F9E59A3E07121AF532570E3F90B14B1/779895.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 876,
+    "max_power": 969,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 658.72,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 231
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 165
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 165
+        }
+      ]
+    },
+    "suffix_item_id": 24618
+  }
+}

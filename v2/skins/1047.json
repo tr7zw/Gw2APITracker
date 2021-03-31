@@ -1,0 +1,68 @@
+{
+  "type": "Armor",
+  "flags": [],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 1047,
+  "icon": "https://render.guildwars2.com/file/3E521824FA0218F33BEBD6006F3993F3249C7646/66648.png",
+  "name": "",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Clothing",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        null
+      ],
+      "overrides": {
+        "NornFemale": [
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          }
+        ],
+        "NornMale": [
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          }
+        ]
+      }
+    }
+  }
+}

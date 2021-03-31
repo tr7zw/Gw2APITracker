@@ -1,0 +1,27 @@
+{
+  "id": 4282,
+  "name": "Spectral Hand of the Market",
+  "description": "",
+  "requirement": "Purchase and open mystery bags from Drooburt in the Labyrinthine Cliffs bazaar.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 10,
+      "points": 5
+    }
+  ],
+  "point_cap": 25,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 66224,
+      "count": 5
+    }
+  ]
+}

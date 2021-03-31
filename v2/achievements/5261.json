@@ -1,0 +1,25 @@
+{
+  "id": 5261,
+  "name": "Special Mission: Bolster the Overlook",
+  "description": "",
+  "requirement": "Spend  War Supplies to repair damaged structures or purchase base upgrades at Petraj Overlook in Drizzlewood Coast.",
+  "locked_text": "Unlock using special mission documents.",
+  "type": "Default",
+  "flags": [
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 600,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 93627,
+      "count": 250
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Bounty Hunter\u0027s Cowl",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 7455,
+  "icon": "https://render.guildwars2.com/file/AA0E42959FFBB207D4ACD3296047E6400D4C70F1/1768348.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "dye_slots": {
+      "default": [
+        null,
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        null,
+        null
+      ],
+      "overrides": {
+        "HumanFemale": [
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          null,
+          null,
+          {
+            "color_id": -1,
+            "material": "cloth"
+          }
+        ],
+        "NornFemale": [
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          null,
+          null,
+          {
+            "color_id": -1,
+            "material": "cloth"
+          }
+        ],
+        "SylvariFemale": [
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          null,
+          null,
+          {
+            "color_id": -1,
+            "material": "cloth"
+          }
+        ]
+      }
+    }
+  }
+}

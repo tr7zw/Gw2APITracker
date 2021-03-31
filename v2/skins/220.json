@@ -1,0 +1,30 @@
+{
+  "name": "Outlaw Coat",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 220,
+  "icon": "https://render.guildwars2.com/file/F75CBD4A7903080464AA1775A466F71EA1BBF266/61423.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        null,
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

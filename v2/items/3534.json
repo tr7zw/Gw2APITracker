@@ -1,0 +1,44 @@
+{
+  "name": "Honed Warband Fists",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 425,
+  "default_skin": 324,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "id": 3534,
+  "chat_link": "[\u0026AgHODQAA]",
+  "icon": "https://render.guildwars2.com/file/03E7B59E025374A06974690CABB9653FC6B50E38/455469.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 59,
+    "infusion_slots": [],
+    "attribute_adjustment": 36.963,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 13
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

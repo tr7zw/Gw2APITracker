@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Aureate Warhorn of Battle",
+  "type": "Weapon",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 111,
+  "default_skin": 5009,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34043,
+  "chat_link": "[\u0026AgH7hAAA]",
+  "icon": "https://render.guildwars2.com/file/755006E5DEE95B7D42BAE536215505640CE978FE/67687.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 333,
+    "max_power": 368,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 113.472,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 40
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 28
+        }
+      ]
+    },
+    "suffix_item_id": 24602
+  }
+}

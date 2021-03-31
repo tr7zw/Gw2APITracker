@@ -1,0 +1,29 @@
+{
+  "name": "Recipe: Crude Leather Book",
+  "description": "A recipe to make a simple leather book.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 0,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 78432,
+  "chat_link": "[\u0026AgFgMgEA]",
+  "icon": "https://render.guildwars2.com/file/027D1D382447933D074BE45F405EA1F379471DEB/63127.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 11827
+  }
+}

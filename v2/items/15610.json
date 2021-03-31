@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Dredge Bloodletter",
+  "description": "",
+  "type": "Weapon",
+  "level": 50,
+  "rarity": "Rare",
+  "vendor_value": 135,
+  "default_skin": 4042,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 15610,
+  "chat_link": "[\u0026AgH6PAAA]",
+  "icon": "https://render.guildwars2.com/file/1056097B1E5554A8D523AAC05745B5B6C66F41A9/574999.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 475,
+    "max_power": 504,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 156.816,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 39
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 55
+        }
+      ]
+    }
+  }
+}

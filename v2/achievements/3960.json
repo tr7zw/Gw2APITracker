@@ -1,0 +1,47 @@
+{
+  "id": 3960,
+  "name": "Istan Dives",
+  "description": "",
+  "requirement": "Find  diving goggles in the Domain of Istan.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Find and use the goggles on the captain\u0027s ship in the Corsair Flotilla."
+    },
+    {
+      "type": "Text",
+      "text": "Find and use the goggles in the Modri Caverns."
+    },
+    {
+      "type": "Text",
+      "text": "Find and use the goggles in Champion\u0027s Dawn."
+    },
+    {
+      "type": "Text",
+      "text": "Find and use the goggles above the Ancient Royal Docks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1781,
+  "name": "Luminescent Shoulderguard",
+  "description": "",
+  "requirement": "Collect the  parts required to assemble Luminescent Shoulderguards.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 67815
+    },
+    {
+      "type": "Item",
+      "id": 67817
+    },
+    {
+      "type": "Item",
+      "id": 67816
+    },
+    {
+      "type": "Item",
+      "id": 67814
+    },
+    {
+      "type": "Item",
+      "id": 67808
+    },
+    {
+      "type": "Item",
+      "id": 67809
+    },
+    {
+      "type": "Skin",
+      "id": 5744
+    },
+    {
+      "type": "Skin",
+      "id": 5716
+    },
+    {
+      "type": "Skin",
+      "id": 5745
+    },
+    {
+      "type": "Item",
+      "id": 67896
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 67799,
+      "count": 1
+    }
+  ]
+}

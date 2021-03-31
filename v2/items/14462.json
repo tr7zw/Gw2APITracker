@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Elder Wood Short Bow",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 198,
+  "default_skin": 3969,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 14462,
+  "chat_link": "[\u0026AgF+OAAA]",
+  "icon": "https://render.guildwars2.com/file/0EFDC626FD430DA00CD9240C95EC6DF0500DB45E/67068.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 745,
+    "max_power": 823,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 559.912,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 140
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 140
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 196
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Flash Spark",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 40
+    },
+    {
+      "text": "\u003cc\u003d@abilitytype\u003eHeat Threshold\u003c/c\u003e",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
+      "value": 50
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 240
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+      "duration": 3,
+      "status": "Blinded",
+      "description": "Next outgoing attack misses; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/62405ED2322E80A4A95663BA6C6804DB0962E6B0/867451.png",
+      "duration": 4,
+      "status": "Light Aura",
+      "description": "When struck, you gain retaliation. Incoming condition damage is reduced by 10%. \u003cc\u003d@reminder\u003e(Cooldown: 1s)\u003c/c\u003e",
+      "apply_count": 1
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    }
+  ],
+  "description": "Release a blinding burst of light from your holographic emitter. While above the heat threshold, gain light aura.",
+  "icon": "https://render.guildwars2.com/file/B60A1EE87D721F1DE1A3A293F8407B71DE0B51FB/1770395.png",
+  "type": "Toolbelt",
+  "weapon_type": "None",
+  "slot": "Toolbelt",
+  "professions": [
+    "Engineer"
+  ],
+  "flags": [],
+  "id": 43176,
+  "chat_link": "[\u0026BqioAAA\u003d]"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Guild Warcaller",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 4551,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 42029,
+  "chat_link": "[\u0026AgEtpAAA]",
+  "icon": "https://render.guildwars2.com/file/E29A3F95E0340FEB41E8C8E4F4E1ADF06BDA5714/562081.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 814,
+    "max_power": 900,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 120
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 85
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Wardenlight Emblem",
+  "description": "\u003cc\u003d@flavor\u003e\"When it seems darkest, light your path with action.\"\u003cbr\u003e—Warden Gemai\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 2,
+  "rarity": "Fine",
+  "vendor_value": 10,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23875,
+  "chat_link": "[\u0026AgFDXQAA]",
+  "icon": "https://render.guildwars2.com/file/2BD5FC4332E7236F46282C5BEDCC0F2CE97A905E/65589.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 8.88,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 3
+        }
+      ]
+    }
+  }
+}

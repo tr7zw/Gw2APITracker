@@ -1,0 +1,49 @@
+{
+  "name": "Jeev\u0027s Glossy Scepter",
+  "description": "\u003cc\u003d@flavor\u003e\"The polish on this piece is engineered to keep magical energy in while preventing you from burning your hand.\"\u003cbr\u003e—Jeev\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 29,
+  "rarity": "Masterwork",
+  "vendor_value": 60,
+  "default_skin": 3892,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30474,
+  "chat_link": "[\u0026AgEKdwAA]",
+  "icon": "https://render.guildwars2.com/file/2696C7FBBB99549E700204A9A11F75B0D50CEC2E/65334.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 271,
+    "max_power": 306,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 71.06,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 18
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 25
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

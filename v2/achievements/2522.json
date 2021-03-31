@@ -1,0 +1,71 @@
+{
+  "id": 2522,
+  "name": "Kraitkin II: The Perfected Trident",
+  "description": "Your first attempt at crafting the legendary precursor Venom has been modestly successful but has not yet yielded the weapon you ultimately desire. This journey has only just begun. Find a teacher, research your procedures, and hone your skills before you try a second time.",
+  "requirement": "",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 71111
+    },
+    {
+      "type": "Item",
+      "id": 71883
+    },
+    {
+      "type": "Item",
+      "id": 76462
+    },
+    {
+      "type": "Item",
+      "id": 70885
+    },
+    {
+      "type": "Item",
+      "id": 76616
+    },
+    {
+      "type": "Item",
+      "id": 70455
+    },
+    {
+      "type": "Item",
+      "id": 74727
+    },
+    {
+      "type": "Item",
+      "id": 71373
+    },
+    {
+      "type": "Item",
+      "id": 72629
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 9,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 71788,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Ravaging Gladiator Chestplate",
+  "description": "",
+  "type": "Armor",
+  "level": 50,
+  "rarity": "Rare",
+  "vendor_value": 203,
+  "default_skin": 212,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 10849,
+  "chat_link": "[\u0026AgFhKgAA]",
+  "icon": "https://render.guildwars2.com/file/773CFA0FB70CF76D7624740C45C59807CE05563C/61527.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 172,
+    "infusion_slots": [],
+    "attribute_adjustment": 176.418,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 44
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 62
+        }
+      ]
+    }
+  }
+}

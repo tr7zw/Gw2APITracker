@@ -1,0 +1,27 @@
+{
+  "id": 1832,
+  "name": "Invisible Infiltration",
+  "description": "Story Instance: Meeting the Asura",
+  "requirement": "Complete \"Meeting the Asura\" without being detected after the initial skirmish.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 15
+    }
+  ],
+  "prerequisites": [
+    1826
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 70000,
+      "count": 1
+    }
+  ]
+}

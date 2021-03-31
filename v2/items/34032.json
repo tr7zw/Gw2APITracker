@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Aureate Staff of Ogre Slaying",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Rare",
+  "vendor_value": 189,
+  "default_skin": 5027,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34032,
+  "chat_link": "[\u0026AgHwhAAA]",
+  "icon": "https://render.guildwars2.com/file/D4E855D925AEB21D5A0F66E40C6A343D580E0F49/64330.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 465,
+    "max_power": 524,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 280.512,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 98
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 70
+        }
+      ]
+    },
+    "suffix_item_id": 24656
+  }
+}

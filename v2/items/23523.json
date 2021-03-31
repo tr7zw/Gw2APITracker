@@ -1,0 +1,38 @@
+{
+  "name": "Cow Bell",
+  "description": "\u003cc\u003d@flavor\u003e\"Everyone says we need more of these. I think we\u0027ve got enough.\"\u003cbr\u003e—Mad Mardine\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 60,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23523,
+  "chat_link": "[\u0026AgHjWwAA]",
+  "icon": "https://render.guildwars2.com/file/11039CB8AE67EF94119751A5951CD34FB1B508BA/62053.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 29.3675,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 10
+        }
+      ]
+    }
+  }
+}

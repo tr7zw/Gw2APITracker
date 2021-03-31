@@ -1,0 +1,30 @@
+{
+  "name": "Permanent Guild Shield Finisher",
+  "description": "Display your guild\u0027s emblem when finishing off a foe.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning"
+  ],
+  "restrictions": [],
+  "id": 63873,
+  "chat_link": "[\u0026AgGB+QAA]",
+  "icon": "https://render.guildwars2.com/file/46F648F55157E4CE0906094C3D45A70225E998C1/757323.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "Content"
+  }
+}

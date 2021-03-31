@@ -1,0 +1,50 @@
+{
+  "name": "Priory\u0027s Historical Vestments",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 2350,
+  "default_skin": 1384,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 5303,
+  "chat_link": "[\u0026AgG3FAAA]",
+  "icon": "https://render.guildwars2.com/file/09334777B6639922C006CA5D2AF22346DE2D9DDB/61305.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 278,
+    "infusion_slots": [],
+    "attribute_adjustment": 339.552,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 85
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 119
+        }
+      ]
+    }
+  }
+}

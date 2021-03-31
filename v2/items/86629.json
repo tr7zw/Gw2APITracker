@@ -1,0 +1,54 @@
+{
+  "name": "Giftbringer\u0027s Tassets",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of the charr philanthropist, Claws Giftbringer.\u003c/c\u003e",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 240,
+  "default_skin": 108,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 86629,
+  "chat_link": "[\u0026AgFlUgEA]",
+  "icon": "https://render.guildwars2.com/file/089C3C370428039590EF055CA33AED03E99E7951/699215.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Heavy",
+    "defense": 254,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 268.884,
+    "infix_upgrade": {
+      "id": 1032,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 67
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 67
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 94
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Spinel Gold Ring",
+  "description": "",
+  "type": "Trinket",
+  "level": 50,
+  "rarity": "Rare",
+  "vendor_value": 203,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 13528,
+  "chat_link": "[\u0026AgHYNAAA]",
+  "icon": "https://render.guildwars2.com/file/F6F840468020FD2E0AA4C6FDBDC14F10BAB1E751/455614.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [],
+    "attribute_adjustment": 117.612,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 29
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 41
+        }
+      ]
+    },
+    "suffix_item_id": 24909
+  }
+}

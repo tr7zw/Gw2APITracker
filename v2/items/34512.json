@@ -1,0 +1,45 @@
+{
+  "name": "Carrion Glyphic Trispear",
+  "type": "Weapon",
+  "level": 66,
+  "rarity": "Fine",
+  "vendor_value": 84,
+  "default_skin": 5050,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 34512,
+  "chat_link": "[\u0026AgHQhgAA]",
+  "icon": "https://render.guildwars2.com/file/F670E526546CD1E9E2029B14DD9810ECDBE9001D/434765.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 538,
+    "max_power": 594,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 389.632,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 97
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 97
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 136
+        }
+      ]
+    }
+  }
+}

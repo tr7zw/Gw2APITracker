@@ -1,0 +1,49 @@
+{
+  "name": "Magister\u0027s Staff",
+  "description": "\u003cc\u003d@flavor\u003e\"Careful with this one. The Priory tends to add a little extra enchantment or two for magisters.\"\u003cbr\u003e—Magister Razermane\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 54,
+  "rarity": "Masterwork",
+  "vendor_value": 141,
+  "default_skin": 5238,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30073,
+  "chat_link": "[\u0026AgF5dQAA]",
+  "icon": "https://render.guildwars2.com/file/55EE23F7C04B5823F2B2CC5DBB2C636E5F68A6A0/68163.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 507,
+    "max_power": 571,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 319.736,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 112
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 80
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

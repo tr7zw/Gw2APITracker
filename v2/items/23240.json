@@ -1,0 +1,40 @@
+{
+  "name": "Strong Ring",
+  "description": "",
+  "type": "Trinket",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 167,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23240,
+  "chat_link": "[\u0026AgHIWgAA]",
+  "icon": "https://render.guildwars2.com/file/0A402568104F5BE5BC644665653302005F6266CF/66800.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [],
+    "attribute_adjustment": 85.104,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 30
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 21
+        }
+      ]
+    }
+  }
+}

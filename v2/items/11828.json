@@ -1,0 +1,44 @@
+{
+  "name": "Carrion Prowler Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 70,
+  "rarity": "Fine",
+  "vendor_value": 72,
+  "default_skin": 256,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 11828,
+  "chat_link": "[\u0026AgE0LgAA]",
+  "icon": "https://render.guildwars2.com/file/4EFFC00BAD06A4EE5FDF9BFB07CE447B39560D04/61618.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 99,
+    "infusion_slots": [],
+    "attribute_adjustment": 79.728,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 20
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 20
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 28
+        }
+      ]
+    }
+  }
+}

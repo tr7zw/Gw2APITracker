@@ -1,0 +1,39 @@
+{
+  "id": 3546,
+  "icon": "https://render.guildwars2.com/file/1B3B7103E5FFFEB4B94137CFEF6AC5A528AE1BA8/1730771.png",
+  "name": "The Withered Rose",
+  "description": "It\u0027s all that\u0027s left to remember her by.",
+  "requirement": "Bring the journal back to Dahlia.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Gather her belongings."
+    },
+    {
+      "type": "Text",
+      "text": "Give journal entries to Dahlia."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 307
+    }
+  ]
+}

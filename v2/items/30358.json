@@ -1,0 +1,44 @@
+{
+  "name": "Elmder\u0027s Warhorn",
+  "description": "\u003cc\u003d@flavor\u003e\"We just have to be stronger and faster than the centaurs.\"\u003cbr\u003e—Seraph Elmder\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 9,
+  "rarity": "Fine",
+  "vendor_value": 14,
+  "default_skin": 3907,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30358,
+  "chat_link": "[\u0026AgGWdgAA]",
+  "icon": "https://render.guildwars2.com/file/5A0593B5164DE87591029323F7D90775D716001D/65530.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 146,
+    "max_power": 161,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 21.184,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 7
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Black Lion Industry Contract",
+  "description": "This adds a Black Lion Industry Board to your home instance. The board can be used to collect basic crafting materials of your choice. Each delivery has a small chance of containing surplus goods.\nResource types include the following:\n• Cloth Scraps\n• Leather Sections\n• Metal Ore\n• Wood Logs\n• Jewels",
+  "type": "Consumable",
+  "level": 15,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92427,
+  "chat_link": "[\u0026AgELaQEA]",
+  "icon": "https://render.guildwars2.com/file/3F79F840C7FCD050E96EF2751A7E6CB26E1159BC/1716534.png",
+  "details": {
+    "type": "Generic"
+  }
+}

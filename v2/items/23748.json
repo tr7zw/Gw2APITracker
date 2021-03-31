@@ -1,0 +1,39 @@
+{
+  "name": "Brightheart Orchid",
+  "description": "\u003cc\u003d@flavor\u003e\"We\u0027ve managed to save a handful of these beautiful, rare flowers. Protect it with your life.\"\u003cbr\u003e—Caedmon\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 22,
+  "rarity": "Fine",
+  "vendor_value": 32,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23748,
+  "chat_link": "[\u0026AgHEXAAA]",
+  "icon": "https://render.guildwars2.com/file/FA53FDE67AB9FE0D6632301269ECA119AD4809DF/66782.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 29,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 10
+        }
+      ]
+    }
+  }
+}

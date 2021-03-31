@@ -1,0 +1,71 @@
+{
+  "id": 3256,
+  "name": "Open Letters",
+  "description": "",
+  "requirement": "Investigate posters and secret letters in Kryta to keep up to date on the latest gossip.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Queensdale: Shire of Beetletun"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills: Viathan\u0027s Arm"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Ascalon Settlement"
+    },
+    {
+      "type": "Text",
+      "text": "Harathi Hinterlands: Arca Lake"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: Shaemoor Fields"
+    },
+    {
+      "type": "Text",
+      "text": "Hidden among bandit supplies in Kryta."
+    },
+    {
+      "type": "Text",
+      "text": "Hidden among bandit supplies in Kryta."
+    },
+    {
+      "type": "Text",
+      "text": "Hidden among bandit supplies in Kryta."
+    },
+    {
+      "type": "Text",
+      "text": "Hidden among bandit supplies in Kryta."
+    },
+    {
+      "type": "Text",
+      "text": "Hidden among bandit supplies in Kryta."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    },
+    {
+      "count": 10,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 78884,
+      "count": 1
+    }
+  ]
+}

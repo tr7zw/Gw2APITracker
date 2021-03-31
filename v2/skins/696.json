@@ -1,0 +1,64 @@
+{
+  "name": "Nightmare Court Pauldrons",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 696,
+  "icon": "https://render.guildwars2.com/file/70052D3A33EE7F65C72A5DC3BF6505406F047B6A/218947.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        null
+      ],
+      "overrides": {
+        "SylvariFemale": [
+          null,
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          }
+        ],
+        "SylvariMale": [
+          null,
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          }
+        ]
+      }
+    }
+  }
+}

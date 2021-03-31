@@ -1,0 +1,41 @@
+{
+  "name": "Snowflake Gold Ring",
+  "description": "",
+  "type": "Trinket",
+  "level": 50,
+  "rarity": "Rare",
+  "vendor_value": 203,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 38158,
+  "chat_link": "[\u0026AgEOlQAA]",
+  "icon": "https://render.guildwars2.com/file/F41D553B27592E3556D8DA45926212445C39CCFC/526266.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [],
+    "attribute_adjustment": 117.612,
+    "infix_upgrade": {
+      "id": 626,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 41
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 29
+        }
+      ]
+    },
+    "suffix_item_id": 38140
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": 2146,
+  "tier": 3,
+  "order": 2,
+  "name": "Fire for Effect",
+  "description": "Hitting your marked target with a stolen skill grants boons to allies around your mark and to allies around you.\u003cbr\u003e\u003cc\u003d@reminder\u003eCannot grant boons to the same ally more than once per activation.\u003c/c\u003e",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 0.5
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+      "duration": 12,
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
+      "apply_count": 8
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+      "duration": 12,
+      "status": "Fury",
+      "description": "Critical Chance increased by 20%; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 360
+    },
+    {
+      "text": "Number of Allied Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 10
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+      "duration": 6,
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
+      "apply_count": 8
+    }
+  ],
+  "specialization": 58,
+  "icon": "https://render.guildwars2.com/file/C50DB05A985BE0B8ADB2164DC8D671AC61049C4B/1770008.png"
+}

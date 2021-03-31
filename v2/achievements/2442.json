@@ -1,0 +1,94 @@
+{
+  "id": 2442,
+  "name": "Luminate\u0027s Backplate",
+  "description": "",
+  "requirement": "Collect all  items to forge the ascended backpack, Luminate\u0027s Backplate.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 6279
+    },
+    {
+      "type": "Item",
+      "id": 72018
+    },
+    {
+      "type": "Item",
+      "id": 76434
+    },
+    {
+      "type": "Item",
+      "id": 74501
+    },
+    {
+      "type": "Item",
+      "id": 72178
+    },
+    {
+      "type": "Item",
+      "id": 71235
+    },
+    {
+      "type": "Item",
+      "id": 71043
+    },
+    {
+      "type": "Item",
+      "id": 71802
+    },
+    {
+      "type": "Item",
+      "id": 72181
+    },
+    {
+      "type": "Item",
+      "id": 70615
+    },
+    {
+      "type": "Item",
+      "id": 75756
+    },
+    {
+      "type": "Item",
+      "id": 71482
+    },
+    {
+      "type": "Item",
+      "id": 73028
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    },
+    {
+      "count": 13,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 72145,
+      "count": 1
+    },
+    {
+      "type": "Title",
+      "id": 219
+    }
+  ]
+}

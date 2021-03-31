@@ -1,0 +1,41 @@
+{
+  "name": "Invader\u0027s Ring",
+  "description": "",
+  "type": "Trinket",
+  "level": 51,
+  "rarity": "Exotic",
+  "vendor_value": 312,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 24013,
+  "chat_link": "[\u0026AgHNXQAA]",
+  "icon": "https://render.guildwars2.com/file/0A402568104F5BE5BC644665653302005F6266CF/66800.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [],
+    "attribute_adjustment": 171.18,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 60
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 43
+        }
+      ]
+    }
+  }
+}

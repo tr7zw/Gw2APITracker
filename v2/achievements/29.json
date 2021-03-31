@@ -1,0 +1,29 @@
+{
+  "id": 29,
+  "name": "Ghost Buster",
+  "description": "Send the spirits into the Mists so they can rest in peace.",
+  "requirement": "Kill  ghosts.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 10,
+      "points": 1
+    },
+    {
+      "count": 100,
+      "points": 5
+    },
+    {
+      "count": 500,
+      "points": 5
+    },
+    {
+      "count": 1000,
+      "points": 5
+    }
+  ]
+}

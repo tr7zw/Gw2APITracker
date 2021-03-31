@@ -1,0 +1,52 @@
+{
+  "name": "Nightmare Rifle",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 4496,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 18548,
+  "chat_link": "[\u0026AgF0SAAA]",
+  "icon": "https://render.guildwars2.com/file/0F75F8BA5E042257B6261641943C6970D14ADB5C/455737.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 986,
+    "max_power": 1205,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 171
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 171
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 239
+        }
+      ]
+    },
+    "suffix_item_id": 24681
+  }
+}

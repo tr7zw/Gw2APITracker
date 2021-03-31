@@ -1,0 +1,44 @@
+{
+  "name": "Strong Axe",
+  "description": "",
+  "type": "Weapon",
+  "level": 45,
+  "rarity": "Basic",
+  "vendor_value": 21,
+  "default_skin": 3865,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 30713,
+  "chat_link": "[\u0026AgH5dwAA]",
+  "icon": "https://render.guildwars2.com/file/F0386CA4B7B424B01B54D7724D12A3DF09203E6D/66151.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 269,
+    "max_power": 329,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 89.96,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 31
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 22
+        }
+      ]
+    }
+  }
+}

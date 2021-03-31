@@ -1,0 +1,50 @@
+{
+  "name": "Vigil\u0027s Honor Mantle",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 1700,
+  "default_skin": 1395,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 5325,
+  "chat_link": "[\u0026AgHNFAAA]",
+  "icon": "https://render.guildwars2.com/file/140FFF7F1A3C9C43B7335026AB523A0AE706F7CD/61327.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 65,
+    "infusion_slots": [],
+    "attribute_adjustment": 113.184,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 40
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 28
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 28
+        }
+      ]
+    }
+  }
+}

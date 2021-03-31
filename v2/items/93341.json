@@ -1,0 +1,30 @@
+{
+  "name": "20-Slot Tengu Bag",
+  "description": "20 slots. If possible, containers and consumable items will fill this box before other empty spaces. The contents of this box will not move when inventory is sorted.",
+  "type": "Bag",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 256,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 93341,
+  "chat_link": "[\u0026AgGdbAEA]",
+  "icon": "https://render.guildwars2.com/file/DC04547D0C0FC4146FC830025926BF08C1B9E19B/2292674.png",
+  "details": {
+    "no_sell_or_sort": true,
+    "size": 20
+  }
+}

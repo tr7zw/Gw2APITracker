@@ -1,0 +1,45 @@
+{
+  "name": "Hearty Iron Greatsword of Bloodlust",
+  "description": "",
+  "type": "Weapon",
+  "level": 52,
+  "rarity": "Masterwork",
+  "vendor_value": 138,
+  "default_skin": 4015,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27520,
+  "chat_link": "[\u0026AgGAawAA]",
+  "icon": "https://render.guildwars2.com/file/1EA00FDAAD23FD1B1B9C4BD6E36EB30A43E21D06/64138.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 493,
+    "max_power": 544,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 304.096,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 76
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 106
+        }
+      ]
+    },
+    "suffix_item_id": 24573
+  }
+}

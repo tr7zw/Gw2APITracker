@@ -1,0 +1,45 @@
+{
+  "name": "Vigorous Diviner Mantle",
+  "description": "",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Exotic",
+  "vendor_value": 229,
+  "default_skin": 2263,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6938,
+  "chat_link": "[\u0026AgEaGwAA]",
+  "icon": "https://render.guildwars2.com/file/789FACB8DD1DEA342D7A09D04A073FA1D798F4B2/61372.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 49,
+    "infusion_slots": [],
+    "attribute_adjustment": 85.59,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 30
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 21
+        }
+      ]
+    }
+  }
+}

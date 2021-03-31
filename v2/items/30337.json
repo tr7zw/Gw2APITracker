@@ -1,0 +1,45 @@
+{
+  "name": "Enhanced Miner\u0027s Hammer Mark G",
+  "description": "\u003cc\u003d@flavor\u003e\"My own invention. You probably can\u0027t see all the subtle enhancements I\u0027ve made, but your enemies will certainly feel them.\"\u003cbr\u003e—Gilli\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 18,
+  "rarity": "Masterwork",
+  "vendor_value": 66,
+  "default_skin": 4060,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30337,
+  "chat_link": "[\u0026AgGBdgAA]",
+  "icon": "https://render.guildwars2.com/file/2F4509F15B48B1A9F1579D08539F4109972A31A4/65162.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 233,
+    "max_power": 263,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 84.864,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 30
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

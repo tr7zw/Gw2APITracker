@@ -1,0 +1,49 @@
+{
+  "name": "Embellished Ornate Beryl Jewel",
+  "description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 50,
+  "rarity": "Rare",
+  "vendor_value": 135,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24912,
+  "chat_link": "[\u0026AgFQYQAA]",
+  "icon": "https://render.guildwars2.com/file/9148AE6070A6E715E3E548A1370302517347BAA8/340648.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "Trinket"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 539,
+      "buff": {
+        "skill_id": 328,
+        "description": "+16 Power\n+10 Ferocity\n+10 Vitality"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 16
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 10
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 10
+        }
+      ]
+    },
+    "suffix": "of Beryl"
+  }
+}

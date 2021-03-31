@@ -1,0 +1,47 @@
+{
+  "name": "Deserter\u0027s Geared Maw",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 162,
+  "default_skin": 5102,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 53754,
+  "chat_link": "[\u0026AgH60QAA]",
+  "icon": "https://render.guildwars2.com/file/FADA685852160FA4D0EBEDC346663CE4439B45AB/67285.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 530,
+    "max_power": 597,
+    "defense": 39,
+    "infusion_slots": [],
+    "attribute_adjustment": 214.56,
+    "infix_upgrade": {
+      "id": 1014,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 54
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 75
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Ravaging Steam Short Bow",
+  "type": "Weapon",
+  "level": 41,
+  "rarity": "Fine",
+  "vendor_value": 57,
+  "default_skin": 5139,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 32535,
+  "chat_link": "[\u0026AgEXfwAA]",
+  "icon": "https://render.guildwars2.com/file/05A0E9E8BD7E5144E5FA1D54E0AE4803D536A20D/68162.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 329,
+    "max_power": 363,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 201.728,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 50
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 71
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Legion Visor",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "rarity": "Basic",
+  "id": 336,
+  "icon": "https://render.guildwars2.com/file/F53C7F6EC906531C1DFB9B4E4158FB290B9A6AF0/779817.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        null
+      ],
+      "overrides": {
+        "SylvariMale": [
+          null,
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          }
+        ]
+      }
+    }
+  }
+}

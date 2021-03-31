@@ -1,0 +1,53 @@
+{
+  "name": "Dagger",
+  "description": "",
+  "type": "Weapon",
+  "level": 66,
+  "rarity": "Masterwork",
+  "vendor_value": 112,
+  "default_skin": 4009,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30162,
+  "chat_link": "[\u0026AgHSdQAA]",
+  "icon": "https://render.guildwars2.com/file/3254C66ED1675657E0B7C2FBBC09FBF2FBAA74A6/62762.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 595,
+    "max_power": 632,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 211.684,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 53
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 53
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 74
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

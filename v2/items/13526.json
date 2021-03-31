@@ -1,0 +1,41 @@
+{
+  "name": "Lapis Silver Ring",
+  "description": "",
+  "type": "Trinket",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 153,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 13526,
+  "chat_link": "[\u0026AgHWNAAA]",
+  "icon": "https://render.guildwars2.com/file/58BEE97EC56E04A67E1A2AA271D5EA7355A1F39B/455613.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [],
+    "attribute_adjustment": 73.926,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 18
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 26
+        }
+      ]
+    },
+    "suffix_item_id": 24900
+  }
+}

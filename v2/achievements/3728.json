@@ -1,0 +1,51 @@
+{
+  "id": 3728,
+  "name": "Honoring the Fallen",
+  "description": "",
+  "requirement": "Bow at Sandstrewn Shrine to summon First Spear Dehvad, and collect medals from him for completing his tasks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Pristine Awakened Emblem"
+    },
+    {
+      "type": "Text",
+      "text": "Pristine Skree Harpy Feather"
+    },
+    {
+      "type": "Text",
+      "text": "Pristine Devourer Fang"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 83020,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 359
+    }
+  ]
+}

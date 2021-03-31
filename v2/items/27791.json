@@ -1,0 +1,50 @@
+{
+  "name": "Éibhear Finn",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 4772,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27791,
+  "chat_link": "[\u0026AgGPbAAA]",
+  "icon": "https://render.guildwars2.com/file/38040261FB9E50190E029870EF7795C4BFAD5470/434660.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 905,
+    "max_power": 1000,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 239
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 171
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 171
+        }
+      ]
+    },
+    "suffix_item_id": 24560
+  }
+}

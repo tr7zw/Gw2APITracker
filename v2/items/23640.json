@@ -1,0 +1,42 @@
+{
+  "name": "Old Ascalon Necklace",
+  "description": "",
+  "type": "Trinket",
+  "level": 43,
+  "rarity": "Fine",
+  "vendor_value": 50,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23640,
+  "chat_link": "[\u0026AgFYXAAA]",
+  "icon": "https://render.guildwars2.com/file/03C8FB276B146CB64E201F006D0FC0D2380E956B/220645.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 67.16,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 17
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 24
+        }
+      ]
+    }
+  }
+}

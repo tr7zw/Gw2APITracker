@@ -1,0 +1,48 @@
+{
+  "name": "Ascalonian Warhorn",
+  "description": "\u003cc\u003d@flavor\u003e\"If you wish to see your enemies cower in fear, all you need to do is to give a single blast of this horn.\"\u003cbr\u003e—Kiryn Brant\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 29,
+  "rarity": "Fine",
+  "vendor_value": 30,
+  "default_skin": 5001,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30449,
+  "chat_link": "[\u0026AgHxdgAA]",
+  "icon": "https://render.guildwars2.com/file/5E27306C1273E90D736AB0EEDC4D570BDD62BA4F/68099.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 227,
+    "max_power": 251,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 63.936,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 16
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 22
+        }
+      ]
+    }
+  }
+}

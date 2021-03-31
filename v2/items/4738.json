@@ -1,0 +1,46 @@
+{
+  "name": "Lionguard Vest",
+  "description": "\u003cc\u003d@flavor\u003e\"You\u0027ll need this for fighting those nasty pirates.\"—Joukje\u003c/c\u003e",
+  "type": "Armor",
+  "level": 31,
+  "rarity": "Fine",
+  "vendor_value": 47,
+  "default_skin": 879,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4738,
+  "chat_link": "[\u0026AgGCEgAA]",
+  "icon": "https://render.guildwars2.com/file/0555C8427C0A7FB990C82C62380073ED3E91CFB4/61022.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 82,
+    "infusion_slots": [],
+    "attribute_adjustment": 78.48,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 27
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 20
+        }
+      ]
+    }
+  }
+}

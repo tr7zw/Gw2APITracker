@@ -1,0 +1,42 @@
+{
+  "name": "Cloth Molesmasher Gloves",
+  "description": "\u003cc\u003d@flavor\u003e\"When smashing dredge, always wear protective gloves. Dredge claws are sharp.\"\u003cbr\u003e—Grimarr\u003c/c\u003e",
+  "type": "Armor",
+  "level": 5,
+  "rarity": "Fine",
+  "vendor_value": 9,
+  "default_skin": 891,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 3958,
+  "chat_link": "[\u0026AgF2DwAA]",
+  "icon": "https://render.guildwars2.com/file/6A921C0335490C406B28FBA52C3ECE4862B94F2E/61246.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 14,
+    "infusion_slots": [],
+    "attribute_adjustment": 5.904,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 2
+        }
+      ]
+    }
+  }
+}

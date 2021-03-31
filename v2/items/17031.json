@@ -1,0 +1,43 @@
+{
+  "name": "Penetrating Reinforced Scale Boots",
+  "type": "Armor",
+  "level": 45,
+  "rarity": "Rare",
+  "vendor_value": 123,
+  "default_skin": 74,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 17031,
+  "chat_link": "[\u0026AgGHQgAA]",
+  "icon": "https://render.guildwars2.com/file/17C9516D0F0B2EBA616ED794C00F59411E931702/61014.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 76,
+    "infusion_slots": [],
+    "attribute_adjustment": 51.057,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 18
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 13
+        }
+      ]
+    }
+  }
+}

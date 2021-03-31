@@ -1,0 +1,29 @@
+{
+  "id": 7,
+  "name": "Indiscriminate Slayer",
+  "description": "If small things were meant to live, they\u0027d have bigger teeth or faster feet.",
+  "requirement": "Kill  ambient creatures.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 10,
+      "points": 1
+    },
+    {
+      "count": 100,
+      "points": 5
+    },
+    {
+      "count": 500,
+      "points": 5
+    },
+    {
+      "count": 1000,
+      "points": 5
+    }
+  ]
+}

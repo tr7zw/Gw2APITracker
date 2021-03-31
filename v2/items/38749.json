@@ -1,0 +1,48 @@
+{
+  "name": "Magi\u0027s Ceremonial Focus",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 5067,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 38749,
+  "chat_link": "[\u0026AgFdlwAA]",
+  "icon": "https://render.guildwars2.com/file/CCD92674FA9230936C5CCFAD71DB61094FE4C8A6/534093.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 832,
+    "max_power": 883,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 85
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 120
+        }
+      ]
+    }
+  }
+}

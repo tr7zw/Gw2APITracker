@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Privateer Boots of Lyssa",
+  "description": "",
+  "type": "Armor",
+  "level": 53,
+  "rarity": "Masterwork",
+  "vendor_value": 94,
+  "default_skin": 75,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 1399,
+  "chat_link": "[\u0026AgF3BQAA]",
+  "icon": "https://render.guildwars2.com/file/AE01341F9C5DC77201C50D2E220D52AC96FCEDFF/61041.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 74,
+    "infusion_slots": [],
+    "attribute_adjustment": 58.4715,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 15
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 20
+        }
+      ]
+    },
+    "suffix_item_id": 24774
+  }
+}

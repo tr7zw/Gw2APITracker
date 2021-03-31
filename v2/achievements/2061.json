@@ -1,0 +1,27 @@
+{
+  "id": 2061,
+  "name": "Rock Dodger",
+  "description": "Story Instance: The Mystery Cave",
+  "requirement": "Defeat the cave enemy while avoiding all rocks, thrown or otherwise.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    }
+  ],
+  "prerequisites": [
+    2060
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 67826,
+      "count": 5
+    }
+  ]
+}

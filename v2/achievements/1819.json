@@ -1,0 +1,27 @@
+{
+  "id": 1819,
+  "name": "Dancer in the Dark",
+  "description": "Story Instance: Tracking the Aspect Masters",
+  "requirement": "Complete Tracking the Aspect Masters after speaking with the challenge mote and activating Challenge Mode.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 15
+    }
+  ],
+  "prerequisites": [
+    1822
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 70000,
+      "count": 1
+    }
+  ]
+}

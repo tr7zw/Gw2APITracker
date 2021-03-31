@@ -1,0 +1,51 @@
+{
+  "name": "Bringer\u0027s Rimed Verdant Short Bow of Ice",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 9079,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92594,
+  "chat_link": "[\u0026AgGyaQEA]",
+  "icon": "https://render.guildwars2.com/file/A3DC31643C7FD0B36F05C36348637FA4CAB87EFA/2236540.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 905,
+    "max_power": 1000,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 1032,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 171
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 171
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 239
+        }
+      ]
+    },
+    "suffix_item_id": 24555
+  }
+}

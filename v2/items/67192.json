@@ -1,0 +1,40 @@
+{
+  "name": "Jar of Lost Souls",
+  "description": "\u003cc\u003d@flavor\u003eBased on Ash Legion containment technology. Seems unstable.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 165,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 67192,
+  "chat_link": "[\u0026AgF4BgEA]",
+  "icon": "https://render.guildwars2.com/file/2C49060C264F6843174B279C28A442F15A41C5D4/455965.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 174.973,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 44
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 61
+        }
+      ]
+    }
+  }
+}

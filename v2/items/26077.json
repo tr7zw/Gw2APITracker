@@ -1,0 +1,45 @@
+{
+  "name": "Hearty Iron Mace of Debility",
+  "description": "",
+  "type": "Weapon",
+  "level": 52,
+  "rarity": "Masterwork",
+  "vendor_value": 92,
+  "default_skin": 3964,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26077,
+  "chat_link": "[\u0026AgHdZQAA]",
+  "icon": "https://render.guildwars2.com/file/415D42C379B3AE75721E59D76E5F170926C416C1/65228.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 443,
+    "max_power": 500,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 152.048,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 38
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 53
+        }
+      ]
+    },
+    "suffix_item_id": 24634
+  }
+}

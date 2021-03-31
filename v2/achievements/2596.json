@@ -1,0 +1,83 @@
+{
+  "id": 2596,
+  "name": "Rodgort II: The Perfected Torch",
+  "description": "Your first attempt at crafting the legendary precursor Rodgort\u0027s Flame has been modestly successful but has not yet yielded the weapon you ultimately desire. This journey has only just begun. Find a teacher, research your procedures, and hone your skills before you try a second time.",
+  "requirement": "",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 72599
+    },
+    {
+      "type": "Item",
+      "id": 72620
+    },
+    {
+      "type": "Item",
+      "id": 73144
+    },
+    {
+      "type": "Item",
+      "id": 71126
+    },
+    {
+      "type": "Item",
+      "id": 73244
+    },
+    {
+      "type": "Item",
+      "id": 71141
+    },
+    {
+      "type": "Item",
+      "id": 75239
+    },
+    {
+      "type": "Item",
+      "id": 75475
+    },
+    {
+      "type": "Item",
+      "id": 70704
+    },
+    {
+      "type": "Item",
+      "id": 76695
+    },
+    {
+      "type": "Item",
+      "id": 77016
+    },
+    {
+      "type": "Item",
+      "id": 70566
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 12,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 76239,
+      "count": 1
+    }
+  ]
+}

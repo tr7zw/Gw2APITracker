@@ -1,0 +1,40 @@
+{
+  "name": "Major Rune of the Centaur",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eSkill\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 108,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24787,
+  "chat_link": "[\u0026AgHTYAAA]",
+  "icon": "https://render.guildwars2.com/file/D3B7305A3F7A63FDFAA306F4B1DEDDA3EB0ADEA8/221114.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+15 Power",
+      "+6% Swiftness Duration",
+      "+30 Power",
+      "+9% Swiftness Duration"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Centaur"
+  }
+}

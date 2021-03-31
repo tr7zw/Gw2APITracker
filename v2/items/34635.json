@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Glyphic Rifle of Debility",
+  "type": "Weapon",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 135,
+  "default_skin": 5033,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34635,
+  "chat_link": "[\u0026AgFLhwAA]",
+  "icon": "https://render.guildwars2.com/file/50113CEAABC198949852AE1979C1B9F6E000AA4B/63882.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 469,
+    "max_power": 573,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 288.456,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 72
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 101
+        }
+      ]
+    },
+    "suffix_item_id": 24634
+  }
+}

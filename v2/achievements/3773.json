@@ -1,0 +1,46 @@
+{
+  "id": 3773,
+  "name": "Crystal Oasis Bounty Tour",
+  "description": "",
+  "requirement": "Complete a bounty from each bounty board location.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Amnoon Bounty Boards"
+    },
+    {
+      "type": "Text",
+      "text": "Elona Reach Bounty Boards"
+    },
+    {
+      "type": "Text",
+      "text": "Destiny\u0027s Gorge Bounty Boards"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 2
+    },
+    {
+      "count": 3,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 388
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Vigorous Apprentice Shoulders",
+  "description": "",
+  "type": "Armor",
+  "level": 40,
+  "rarity": "Fine",
+  "vendor_value": 88,
+  "default_skin": 29,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6787,
+  "chat_link": "[\u0026AgGDGgAA]",
+  "icon": "https://render.guildwars2.com/file/6B1D4B0CCA00DA96257F1364C61023A7A1387A29/61350.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 23,
+    "infusion_slots": [],
+    "attribute_adjustment": 36.576,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 13
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

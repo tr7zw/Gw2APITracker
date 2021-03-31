@@ -1,0 +1,39 @@
+{
+  "id": 4599,
+  "name": "Chasing Tales: Immovable Object",
+  "description": "\"Go on. Give it your best shot. I\u0027ll wait.\"",
+  "requirement": "Block, absorb, or reflect 20 attacks while wielding a shield.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Wossaul the Giant."
+    },
+    {
+      "type": "Text",
+      "text": "Blocked, absorbed, or reflected 20 attacks while wielding a shield in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89525,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Cleric\u0027s Iron Spear of Bloodlust",
+  "description": "",
+  "type": "Weapon",
+  "level": 76,
+  "rarity": "Masterwork",
+  "vendor_value": 189,
+  "default_skin": 4000,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28760,
+  "chat_link": "[\u0026AgFYcAAA]",
+  "icon": "https://render.guildwars2.com/file/9AC302D1031B5C31806D0703FBC1944C01D4A240/561998.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 697,
+    "max_power": 770,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 518.84,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 130
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 130
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 182
+        }
+      ]
+    },
+    "suffix_item_id": 24573
+  }
+}

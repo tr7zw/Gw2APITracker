@@ -1,0 +1,51 @@
+{
+  "name": "Rescuer\u0027s Pauldrons",
+  "description": "\u003cc\u003d@flavor\u003e\"These won\u0027t rescue you from the Risen, but they will offer you some extra protection.\"\u003cbr\u003e—Danu\u003c/c\u003e",
+  "type": "Armor",
+  "level": 61,
+  "rarity": "Masterwork",
+  "vendor_value": 115,
+  "default_skin": 884,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4955,
+  "chat_link": "[\u0026AgFbEwAA]",
+  "icon": "https://render.guildwars2.com/file/AF5294595CE2FC00C835BEC0B4F739CE35E0D6B0/61561.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "defense": 68,
+    "infusion_slots": [],
+    "attribute_adjustment": 71.145,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 25
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 18
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 18
+        }
+      ]
+    },
+    "suffix_item_id": 24733
+  }
+}

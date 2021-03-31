@@ -1,0 +1,54 @@
+{
+  "name": "Major Sigil of Corruption",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eEnhancement\u003cbr\u003eDouble-click to apply to a weapon.",
+  "type": "UpgradeComponent",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 108,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24577,
+  "chat_link": "[\u0026AgEBYAAA]",
+  "icon": "https://render.guildwars2.com/file/0267261E50A5D8ACE7CAA9C55D2FAFB84C5C606A/220991.png",
+  "details": {
+    "type": "Sigil",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 220,
+      "buff": {
+        "skill_id": 9378,
+        "description": "Gain a charge of +7 condition damage each time you kill a foe, five charges if you kill an enemy player. \u003cc\u003d@reminder\u003e(Max 25 stacks; ends on down.)\u003c/c\u003e \u003cbr\u003e\u003cc\u003d@reminder\u003e(Only one attribute-stacking sigil can be active at a time.)\u003c/c\u003e"
+      },
+      "attributes": []
+    },
+    "suffix": "of Corruption"
+  }
+}

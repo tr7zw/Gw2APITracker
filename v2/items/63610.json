@@ -1,0 +1,47 @@
+{
+  "name": "Slayers Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 141,
+  "default_skin": 56,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 63610,
+  "chat_link": "[\u0026AgF6+AAA]",
+  "icon": "https://render.guildwars2.com/file/C5E6FBE6C802BC12035D38FE0D3216EA2917D930/61072.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 80,
+    "infusion_slots": [],
+    "attribute_adjustment": 75.33,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 26
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 19
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 19
+        }
+      ]
+    }
+  }
+}

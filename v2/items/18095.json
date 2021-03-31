@@ -1,0 +1,51 @@
+{
+  "name": "Kodan Axe",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 4447,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 18095,
+  "chat_link": "[\u0026AgGvRgAA]",
+  "icon": "https://render.guildwars2.com/file/1CC5C62DFC2AB400137EF600C7723C5FC3EA3629/455677.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 857,
+    "max_power": 1048,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 120
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 85
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 85
+        }
+      ]
+    },
+    "suffix_item_id": 24667
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": 3353,
+  "icon": "https://render.guildwars2.com/file/ACA2511FEFBDCA54DB256CF8F50AE7EA80231FED/1635142.png",
+  "name": "Daily Lake Doric: The Best Defense",
+  "description": "It\u0027s a good offense.",
+  "requirement": "Destroy each of the jade artillery cannons.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Daily"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "New Loamhurst"
+    },
+    {
+      "type": "Text",
+      "text": "Saidra\u0027s Haven"
+    },
+    {
+      "type": "Text",
+      "text": "Doric Lumberyard"
+    },
+    {
+      "type": "Text",
+      "text": "Fort Evennia"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 4,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 80170,
+      "count": 3
+    }
+  ]
+}

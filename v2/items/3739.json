@@ -1,0 +1,48 @@
+{
+  "name": "Berserker\u0027s Legion Spaulders",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 1250,
+  "default_skin": 335,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "id": 3739,
+  "chat_link": "[\u0026AgGbDgAA]",
+  "icon": "https://render.guildwars2.com/file/F40441C82A429B55D97592FAD7307D31E1606049/779819.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "defense": 72,
+    "infusion_slots": [],
+    "attribute_adjustment": 75.33,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 26
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 19
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 19
+        }
+      ]
+    }
+  }
+}

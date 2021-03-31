@@ -1,0 +1,44 @@
+{
+  "name": "Mending Shiverpeak Shield of the Hydromancer",
+  "type": "Weapon",
+  "level": 56,
+  "rarity": "Masterwork",
+  "vendor_value": 98,
+  "default_skin": 5176,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25424,
+  "chat_link": "[\u0026AgFQYwAA]",
+  "icon": "https://render.guildwars2.com/file/455B5191E29A11E8ECBDEB2326E9FDE2D7C6DEAC/68182.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 431,
+    "max_power": 486,
+    "defense": 31,
+    "infusion_slots": [],
+    "attribute_adjustment": 168.096,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 42
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 59
+        }
+      ]
+    },
+    "suffix_item_id": 24595
+  }
+}

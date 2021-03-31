@@ -1,0 +1,51 @@
+{
+  "name": "Fort Cadence Coat",
+  "description": "\u003cc\u003d@flavor\u003e\"This is mostly fireproof. Calculations indicate that you\u0027ll be fine if you aim the flamethrower away from you.\"\u003cbr\u003e—Jezza\u003c/c\u003e",
+  "type": "Armor",
+  "level": 55,
+  "rarity": "Masterwork",
+  "vendor_value": 144,
+  "default_skin": 58,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4948,
+  "chat_link": "[\u0026AgFUEwAA]",
+  "icon": "https://render.guildwars2.com/file/47C4A4150DE66A7BA5F8B6520A34D70928E7A166/61251.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 166,
+    "infusion_slots": [],
+    "attribute_adjustment": 184.289,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 46
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 46
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 65
+        }
+      ]
+    },
+    "suffix_item_id": 24724
+  }
+}

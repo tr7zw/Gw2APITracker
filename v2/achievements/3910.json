@@ -1,0 +1,61 @@
+{
+  "id": 3910,
+  "name": "Master Bounty Hunter",
+  "description": "Songs will be written of your heroic exploits someday.",
+  "requirement": "Complete Legendary bounties in the Crystal Desert region.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Complete the achievement \"Crystal Oasis Legendary Bounties.\""
+    },
+    {
+      "type": "Text",
+      "text": "Complete the achievement \"Desert Highlands Legendary Bounties.\""
+    },
+    {
+      "type": "Text",
+      "text": "Complete the achievement \"Elon Riverlands Legendary Bounties.\""
+    },
+    {
+      "type": "Text",
+      "text": "Complete the achievement \"The Desolation Legendary Bounties.\""
+    },
+    {
+      "type": "Text",
+      "text": "Complete the achievement \"Domain of Vabbi Legendary Bounties.\""
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 295
+    }
+  ]
+}

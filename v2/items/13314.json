@@ -1,0 +1,41 @@
+{
+  "name": "Peridot Silver Earring",
+  "description": "",
+  "type": "Trinket",
+  "level": 35,
+  "rarity": "Masterwork",
+  "vendor_value": 85,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 13314,
+  "chat_link": "[\u0026AgECNAAA]",
+  "icon": "https://render.guildwars2.com/file/75F6EFE257C9A069FBAB7F805DE61FC27746A296/340143.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 56.015,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 20
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 14
+        }
+      ]
+    },
+    "suffix_item_id": 24481
+  }
+}

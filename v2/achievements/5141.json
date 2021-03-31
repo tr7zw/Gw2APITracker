@@ -1,0 +1,24 @@
+{
+  "id": 5141,
+  "name": "Break Drakkar",
+  "description": "The whispers are silenced. For now.",
+  "requirement": "Defeat Drakkar within its lair in Bjora Marches",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tundra",
+      "id": 487
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Norn Speargun of Energy",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Rare",
+  "vendor_value": 275,
+  "default_skin": 5104,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25514,
+  "chat_link": "[\u0026AgGqYwAA]",
+  "icon": "https://render.guildwars2.com/file/2E7E52064061626860C6EC0908FA033B42020FC2/780415.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 725,
+    "max_power": 801,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 538.416,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 188
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 135
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 135
+        }
+      ]
+    },
+    "suffix_item_id": 24606
+  }
+}

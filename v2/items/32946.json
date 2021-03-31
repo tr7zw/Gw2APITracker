@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Flame Cleaver of Air",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 198,
+  "default_skin": 5152,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32946,
+  "chat_link": "[\u0026AgGygAAA]",
+  "icon": "https://render.guildwars2.com/file/DCF12F43C72FDFC44600425DFB6B9F4FC1CA5342/67831.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 759,
+    "max_power": 928,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 301.824,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 75
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 75
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 106
+        }
+      ]
+    },
+    "suffix_item_id": 24553
+  }
+}

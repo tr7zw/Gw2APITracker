@@ -1,0 +1,41 @@
+{
+  "name": "Ravaging Steamcaller",
+  "type": "Weapon",
+  "level": 41,
+  "rarity": "Fine",
+  "vendor_value": 38,
+  "default_skin": 5149,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 32559,
+  "chat_link": "[\u0026AgEvfwAA]",
+  "icon": "https://render.guildwars2.com/file/E40BED1EC22C9F5C5BAC0F432724A5CDE416A109/68175.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 296,
+    "max_power": 327,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 100.864,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 25
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 35
+        }
+      ]
+    }
+  }
+}

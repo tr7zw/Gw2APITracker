@@ -1,0 +1,46 @@
+{
+  "name": "Metal Aquabreather",
+  "description": "\u003cc\u003d@flavor\u003e\"Go for a swim!\"\u003cbr\u003e—Creator Zee\u003c/c\u003e",
+  "type": "Armor",
+  "level": 47,
+  "rarity": "Fine",
+  "vendor_value": 53,
+  "default_skin": 857,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4769,
+  "chat_link": "[\u0026AgGhEgAA]",
+  "icon": "https://render.guildwars2.com/file/E9EEB91BD00673FB2B0DBC04FFAB96A929FF23FB/61559.png",
+  "details": {
+    "type": "HelmAquatic",
+    "weight_class": "Heavy",
+    "defense": 45,
+    "infusion_slots": [],
+    "attribute_adjustment": 60.512,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 15
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 21
+        }
+      ]
+    }
+  }
+}

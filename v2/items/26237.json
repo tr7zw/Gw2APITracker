@@ -1,0 +1,50 @@
+{
+  "name": "Resonator",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 4710,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26237,
+  "chat_link": "[\u0026AgF9ZgAA]",
+  "icon": "https://render.guildwars2.com/file/176B73537CEB38BBA5C4F65C795C80153D05096E/779907.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 905,
+    "max_power": 1000,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 85
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 85
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 120
+        }
+      ]
+    },
+    "suffix_item_id": 24582
+  }
+}

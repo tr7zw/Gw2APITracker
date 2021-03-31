@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Krytan Shield of the Hydromancer",
+  "type": "Weapon",
+  "level": 56,
+  "rarity": "Masterwork",
+  "vendor_value": 98,
+  "default_skin": 5018,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33884,
+  "chat_link": "[\u0026AgFchAAA]",
+  "icon": "https://render.guildwars2.com/file/5DA00DC8E6E6E7BE39B51B7F30D2314ECB33A5CF/61712.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 431,
+    "max_power": 486,
+    "defense": 31,
+    "infusion_slots": [],
+    "attribute_adjustment": 168.096,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 59
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 42
+        }
+      ]
+    },
+    "suffix_item_id": 24595
+  }
+}

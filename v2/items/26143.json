@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Iron Dagger of Debility",
+  "description": "",
+  "type": "Weapon",
+  "level": 65,
+  "rarity": "Exotic",
+  "vendor_value": 220,
+  "default_skin": 4009,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26143,
+  "chat_link": "[\u0026AgEfZgAA]",
+  "icon": "https://render.guildwars2.com/file/3254C66ED1675657E0B7C2FBBC09FBF2FBAA74A6/62762.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 713,
+    "max_power": 758,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 254.64,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 89
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 64
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 64
+        }
+      ]
+    },
+    "suffix_item_id": 24636
+  }
+}

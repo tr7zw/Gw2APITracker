@@ -1,0 +1,48 @@
+{
+  "name": "Slayer\u0027s Boots",
+  "description": "",
+  "type": "Armor",
+  "level": 71,
+  "rarity": "Fine",
+  "vendor_value": 59,
+  "default_skin": 19,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6401,
+  "chat_link": "[\u0026AgEBGQAA]",
+  "icon": "https://render.guildwars2.com/file/E6255C53689406A5E525394273ED04BEB3A0625E/61017.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 101,
+    "infusion_slots": [],
+    "attribute_adjustment": 81.408,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 28
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 20
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 20
+        }
+      ]
+    }
+  }
+}

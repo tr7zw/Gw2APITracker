@@ -1,0 +1,41 @@
+{
+  "name": "Ravaging Glyphic Short Bow",
+  "type": "Weapon",
+  "level": 51,
+  "rarity": "Fine",
+  "vendor_value": 68,
+  "default_skin": 5151,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 34400,
+  "chat_link": "[\u0026AgFghgAA]",
+  "icon": "https://render.guildwars2.com/file/2B28FAFF803391B3F9F3A323AF0CB45B0A3A052D/64965.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 405,
+    "max_power": 447,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 271.488,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 68
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 95
+        }
+      ]
+    }
+  }
+}

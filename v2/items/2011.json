@@ -1,0 +1,38 @@
+{
+  "name": "Mighty Country Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 5,
+  "default_skin": 56,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NotUpgradeable"
+  ],
+  "restrictions": [],
+  "id": 2011,
+  "chat_link": "[\u0026AgHbBwAA]",
+  "icon": "https://render.guildwars2.com/file/C5E6FBE6C802BC12035D38FE0D3216EA2917D930/61072.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 11,
+    "infusion_slots": [],
+    "attribute_adjustment": 4.329,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 2
+        }
+      ]
+    }
+  }
+}

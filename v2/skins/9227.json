@@ -1,0 +1,88 @@
+{
+  "name": "Warlord\u0027s Armguards",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 9227,
+  "icon": "https://render.guildwars2.com/file/5E6095B6A67ED60F279F585355DAC33508474A63/2261481.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "dye_slots": {
+      "default": [
+        null,
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        }
+      ],
+      "overrides": {
+        "HumanFemale": [
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          {
+            "color_id": -1,
+            "material": "metal"
+          }
+        ],
+        "NornFemale": [
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          {
+            "color_id": -1,
+            "material": "metal"
+          }
+        ],
+        "SylvariFemale": [
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          {
+            "color_id": -1,
+            "material": "metal"
+          }
+        ]
+      }
+    }
+  }
+}

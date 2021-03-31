@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Aureate Axe of Earth",
+  "type": "Weapon",
+  "level": 53,
+  "rarity": "Rare",
+  "vendor_value": 141,
+  "default_skin": 5017,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33991,
+  "chat_link": "[\u0026AgHHhAAA]",
+  "icon": "https://render.guildwars2.com/file/FC929DD20B9CF622B72E777D0349A225BE755A46/68531.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 467,
+    "max_power": 571,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 169.272,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 59
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 42
+        }
+      ]
+    },
+    "suffix_item_id": 24559
+  }
+}

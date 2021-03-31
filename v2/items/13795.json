@@ -1,0 +1,42 @@
+{
+  "name": "Hearty Seasoned Wood Trident",
+  "description": "",
+  "type": "Weapon",
+  "level": 45,
+  "rarity": "Fine",
+  "vendor_value": 62,
+  "default_skin": 5679,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 13795,
+  "chat_link": "[\u0026AgHjNQAA]",
+  "icon": "https://render.guildwars2.com/file/195C62FCE31ECE47100E4020CE6C909AB69FEA9C/562000.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 356,
+    "max_power": 394,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 228.096,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 57
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 80
+        }
+      ]
+    }
+  }
+}

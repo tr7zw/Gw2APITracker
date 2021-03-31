@@ -1,0 +1,49 @@
+{
+  "id": 4711,
+  "name": "Skyscale of Growth",
+  "description": "",
+  "requirement": "Infuse your skyscale egg with growth.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 90354
+    },
+    {
+      "type": "Item",
+      "id": 90251
+    },
+    {
+      "type": "Item",
+      "id": 90185
+    },
+    {
+      "type": "Item",
+      "id": 90340
+    },
+    {
+      "type": "Item",
+      "id": 90299
+    }
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 90679,
+      "count": 1
+    }
+  ]
+}

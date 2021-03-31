@@ -1,0 +1,48 @@
+{
+  "name": "Soldier\u0027s Eagle Hounskull",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 1250,
+  "default_skin": 434,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Norn"
+  ],
+  "id": 3574,
+  "chat_link": "[\u0026AgH2DQAA]",
+  "icon": "https://render.guildwars2.com/file/502E0EEE6B443823B7EFA70230195A649EB3D568/779794.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 72,
+    "infusion_slots": [],
+    "attribute_adjustment": 100.44,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 35
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 25
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 25
+        }
+      ]
+    }
+  }
+}

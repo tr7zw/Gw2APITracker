@@ -1,0 +1,48 @@
+{
+  "name": "Ravaging Steam Shield",
+  "type": "Weapon",
+  "level": 40,
+  "rarity": "Rare",
+  "vendor_value": 1400,
+  "default_skin": 5102,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 35584,
+  "chat_link": "[\u0026AgEAiwAA]",
+  "icon": "https://render.guildwars2.com/file/FADA685852160FA4D0EBEDC346663CE4439B45AB/67285.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 336,
+    "max_power": 379,
+    "defense": 23,
+    "infusion_slots": [],
+    "attribute_adjustment": 117.144,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 29
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 41
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

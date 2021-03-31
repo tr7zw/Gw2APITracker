@@ -1,0 +1,46 @@
+{
+  "name": "Valkyrie Elder Wood Torch",
+  "description": "",
+  "type": "Weapon",
+  "level": 70,
+  "rarity": "Fine",
+  "vendor_value": 59,
+  "default_skin": 3957,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 14548,
+  "chat_link": "[\u0026AgHUOAAA]",
+  "icon": "https://render.guildwars2.com/file/FA56C5DD5D7494F25D980E432BA129F44209ED0E/63136.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 506,
+    "max_power": 594,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 212.608,
+    "infix_upgrade": {
+      "id": 157,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 74
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 53
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 53
+        }
+      ]
+    }
+  }
+}

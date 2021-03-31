@@ -1,0 +1,38 @@
+{
+  "name": "Vital Soft Wood Longbow",
+  "description": "",
+  "type": "Weapon",
+  "level": 13,
+  "rarity": "Fine",
+  "vendor_value": 27,
+  "default_skin": 3942,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 28294,
+  "chat_link": "[\u0026AgGGbgAA]",
+  "icon": "https://render.guildwars2.com/file/C6110F52DF5AFE0F00A56F9E143E9732176DDDE9/65015.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 180,
+    "max_power": 211,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 56.448,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 20
+        }
+      ]
+    }
+  }
+}

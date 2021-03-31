@@ -1,0 +1,49 @@
+{
+  "name": "Lionguard Scepter",
+  "description": "\u003cc\u003d@flavor\u003e\"Don\u0027t mind the dings, though my enemies sure minded leaving them.\"\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 45,
+  "rarity": "Masterwork",
+  "vendor_value": 82,
+  "default_skin": 3892,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30419,
+  "chat_link": "[\u0026AgHTdgAA]",
+  "icon": "https://render.guildwars2.com/file/2696C7FBBB99549E700204A9A11F75B0D50CEC2E/65334.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 382,
+    "max_power": 430,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 124.644,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 44
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 31
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": 4805,
+  "icon": "https://render.guildwars2.com/file/B0564CD9E97C6D630EA6C6A593DC6CDCC903F42D/1302678.png",
+  "name": "Coalescence III: Culmination",
+  "description": "Your energy friend is keenly interested in your decisions.",
+  "requirement": "",
+  "locked_text": "Available upon completion of the achievement \"Coalescence II: The Gift.\"",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 91242
+    },
+    {
+      "type": "Item",
+      "id": 91258
+    },
+    {
+      "type": "Item",
+      "id": 91256
+    },
+    {
+      "type": "Item",
+      "id": 91213
+    },
+    {
+      "type": "Item",
+      "id": 91161
+    },
+    {
+      "type": "Item",
+      "id": 91268
+    },
+    {
+      "type": "Item",
+      "id": 91188
+    },
+    {
+      "type": "Item",
+      "id": 91214
+    }
+  ],
+  "tiers": [
+    {
+      "count": 8,
+      "points": 10
+    }
+  ],
+  "prerequisites": [
+    4412
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 91193,
+      "count": 1
+    }
+  ]
+}

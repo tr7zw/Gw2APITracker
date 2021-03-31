@@ -1,0 +1,45 @@
+{
+  "name": "Vigorous Duelist Coat",
+  "description": "",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Fine",
+  "vendor_value": 130,
+  "default_skin": 879,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6834,
+  "chat_link": "[\u0026AgGyGgAA]",
+  "icon": "https://render.guildwars2.com/file/0555C8427C0A7FB990C82C62380073ED3E91CFB4/61022.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 92,
+    "infusion_slots": [],
+    "attribute_adjustment": 91.584,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 32
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 23
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Electromagnetic Helm",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [
+    "Asura"
+  ],
+  "rarity": "Basic",
+  "id": 299,
+  "icon": "https://render.guildwars2.com/file/C50E5FC9D9ABDD1F70967C483FF0BD58C643B952/511734.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        null
+      ],
+      "overrides": {
+        "SylvariFemale": [
+          null,
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          }
+        ],
+        "SylvariMale": [
+          null,
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          }
+        ]
+      }
+    }
+  }
+}

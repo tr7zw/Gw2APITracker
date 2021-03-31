@@ -1,0 +1,53 @@
+{
+  "id": 4998,
+  "icon": "https://render.guildwars2.com/file/CC9E0FB5F06B6D466BEBCA68649DAB929EA9A19E/1862652.png",
+  "name": "Mad Armory: Carapace of Chaos",
+  "description": "The storehouses of the Mad Realm contain many artifacts crafted by the Lunatic Court at their king\u0027s behest. Although tales of the Shell of Insanity have spread, its descendant works have remained forgotten—until now.",
+  "requirement": "Show your allegiance to the Lunatic Court by performing various feats while in a ghostly form from eating certain Halloween foods.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 92138
+    },
+    {
+      "type": "Item",
+      "id": 92113
+    },
+    {
+      "type": "Item",
+      "id": 92141
+    },
+    {
+      "type": "Item",
+      "id": 92144
+    },
+    {
+      "type": "Item",
+      "id": 92148
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 4
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 92175,
+      "count": 1
+    }
+  ]
+}

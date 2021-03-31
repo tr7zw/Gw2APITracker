@@ -1,0 +1,47 @@
+{
+  "name": "Rabid Cabalist Hood",
+  "type": "Armor",
+  "level": 55,
+  "rarity": "Rare",
+  "vendor_value": 180,
+  "default_skin": 103,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 17102,
+  "chat_link": "[\u0026AgHOQgAA]",
+  "icon": "https://render.guildwars2.com/file/16E5686EC33001A0D77FF5D4320EFBCA39130826/61411.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 39,
+    "infusion_slots": [],
+    "attribute_adjustment": 88.992,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 22
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 22
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 31
+        }
+      ]
+    }
+  }
+}

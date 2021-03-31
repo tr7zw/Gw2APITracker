@@ -1,0 +1,39 @@
+{
+  "name": "Glowing Lodestone",
+  "description": "\u003cc\u003d@flavor\u003e\"I\u0027ve been experimenting with these mysterious stones, and I can assure you I\u0027ve mostly gotten them figured out...I think.\"\u003cbr\u003e—Gilli\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 18,
+  "rarity": "Fine",
+  "vendor_value": 28,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23742,
+  "chat_link": "[\u0026AgG+XAAA]",
+  "icon": "https://render.guildwars2.com/file/510AABA4DA240FFD6C0572975B04CDB56D5BD960/65902.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 23.64,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

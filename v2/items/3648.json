@@ -1,0 +1,48 @@
+{
+  "name": "Rabid Orchid Leggings",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 1875,
+  "default_skin": 499,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Sylvari"
+  ],
+  "id": 3648,
+  "chat_link": "[\u0026AgFADgAA]",
+  "icon": "https://render.guildwars2.com/file/19B64605635D4D0ED5E6BE75C65FACB80332AB7A/433413.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Light",
+    "defense": 115,
+    "infusion_slots": [],
+    "attribute_adjustment": 150.66,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 38
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 38
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 53
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Ravaging Glyphic Icon",
+  "type": "Weapon",
+  "level": 41,
+  "rarity": "Fine",
+  "vendor_value": 38,
+  "default_skin": 5178,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 34358,
+  "chat_link": "[\u0026AgE2hgAA]",
+  "icon": "https://render.guildwars2.com/file/2344244016425D02CE90BC950B366B7FC0183C37/62837.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 302,
+    "max_power": 321,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 100.864,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 25
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 35
+        }
+      ]
+    }
+  }
+}

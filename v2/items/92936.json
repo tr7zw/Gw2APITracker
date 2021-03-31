@@ -1,0 +1,42 @@
+{
+  "name": "Homespun Mittens",
+  "description": "An enhanced version of the standard Homespun armor.",
+  "type": "Armor",
+  "level": 5,
+  "rarity": "Fine",
+  "vendor_value": 12,
+  "default_skin": 891,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92936,
+  "chat_link": "[\u0026AgEIawEA]",
+  "icon": "https://render.guildwars2.com/file/6A921C0335490C406B28FBA52C3ECE4862B94F2E/61246.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 15,
+    "infusion_slots": [],
+    "attribute_adjustment": 7.296,
+    "stat_choices": [
+      144,
+      145,
+      152,
+      142,
+      146,
+      149,
+      755
+    ]
+  }
+}

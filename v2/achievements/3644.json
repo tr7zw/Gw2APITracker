@@ -1,0 +1,24 @@
+{
+  "id": 3644,
+  "name": "A Trip Down Memory Lane",
+  "description": "Just like old times! But without the hydras...",
+  "requirement": "Win the memory game hosted by a lonely ghost.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 409
+    }
+  ]
+}

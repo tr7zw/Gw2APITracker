@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Rogue Gloves of the Centaur",
+  "description": "",
+  "type": "Armor",
+  "level": 54,
+  "rarity": "Rare",
+  "vendor_value": 127,
+  "default_skin": 91,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 1984,
+  "chat_link": "[\u0026AgHABwAA]",
+  "icon": "https://render.guildwars2.com/file/5D7809A40C546BCD40420204DFC4A3E6F6B778DD/61252.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 82,
+    "infusion_slots": [],
+    "attribute_adjustment": 65.043,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 16
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 23
+        }
+      ]
+    },
+    "suffix_item_id": 24787
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Mistforged Glorious Hero\u0027s Footgear",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 8492,
+  "icon": "https://render.guildwars2.com/file/D598700309A1D7236DE1F90158904B4A24E6EA0F/2063519.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        }
+      ],
+      "overrides": {
+        "HumanFemale": [
+          {
+            "color_id": -1,
+            "material": "metal"
+          },
+          null,
+          {
+            "color_id": -1,
+            "material": "metal"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          }
+        ],
+        "NornFemale": [
+          {
+            "color_id": -1,
+            "material": "metal"
+          },
+          null,
+          {
+            "color_id": -1,
+            "material": "metal"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          }
+        ],
+        "SylvariFemale": [
+          {
+            "color_id": -1,
+            "material": "metal"
+          },
+          null,
+          {
+            "color_id": -1,
+            "material": "metal"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Berserker\u0027s Volcanic Stormcaller Warhorn",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 9666,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94237,
+  "chat_link": "[\u0026AgEdcAEA]",
+  "icon": "https://render.guildwars2.com/file/7BA258410894ADFFE5382425F5A2049BA353EF75/2351760.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 814,
+    "max_power": 900,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 120
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 85
+        }
+      ]
+    }
+  }
+}

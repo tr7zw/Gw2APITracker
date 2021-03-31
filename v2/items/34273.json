@@ -1,0 +1,37 @@
+{
+  "name": "Malign Glyphic Horn",
+  "type": "Weapon",
+  "level": 16,
+  "rarity": "Fine",
+  "vendor_value": 20,
+  "default_skin": 5135,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 34273,
+  "chat_link": "[\u0026AgHhhQAA]",
+  "icon": "https://render.guildwars2.com/file/C53447B67026644C55327A0C420A16A7A33468CB/62795.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 169,
+    "max_power": 187,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 33.536,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

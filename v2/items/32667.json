@@ -1,0 +1,40 @@
+{
+  "name": "Malign Steam Hammer of Force",
+  "type": "Weapon",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 72,
+  "default_skin": 5206,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32667,
+  "chat_link": "[\u0026AgGbfwAA]",
+  "icon": "https://render.guildwars2.com/file/310EB4F1063C3D03F702AE0A9CD4509617DC183B/60987.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 244,
+    "max_power": 275,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 93.976,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 33
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

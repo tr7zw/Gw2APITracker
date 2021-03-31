@@ -1,0 +1,29 @@
+{
+  "name": "Spooky Skeleton Tonic",
+  "description": "Double-click to transform into a skeleton. You will be unable to fight while transformed.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse",
+    "Tonic"
+  ],
+  "restrictions": [],
+  "id": 36382,
+  "chat_link": "[\u0026AgEejgAA]",
+  "icon": "https://render.guildwars2.com/file/9C2DD2B2CFB2BA4476AD64709D0BEF52F3DFE070/499502.png",
+  "details": {
+    "type": "Generic"
+  }
+}

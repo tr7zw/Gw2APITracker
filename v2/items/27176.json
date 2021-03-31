@@ -1,0 +1,41 @@
+{
+  "name": "Mighty Soft Wood Focus of the Geomancer",
+  "description": "",
+  "type": "Weapon",
+  "level": 14,
+  "rarity": "Masterwork",
+  "vendor_value": 38,
+  "default_skin": 3887,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27176,
+  "chat_link": "[\u0026AgEoagAA]",
+  "icon": "https://render.guildwars2.com/file/EF62B7FE5B45A1181C362E635301E1BAA8FDCC44/65104.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 180,
+    "max_power": 191,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 33.728,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 12
+        }
+      ]
+    },
+    "suffix_item_id": 24603
+  }
+}

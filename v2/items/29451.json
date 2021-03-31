@@ -1,0 +1,51 @@
+{
+  "name": "Expermentor\u0027s Collection Staff",
+  "description": "",
+  "type": "Weapon",
+  "level": 55,
+  "rarity": "Masterwork",
+  "vendor_value": 144,
+  "default_skin": 4067,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29451,
+  "chat_link": "[\u0026AgELcwAA]",
+  "icon": "https://render.guildwars2.com/file/04BE267A42B12DB00F0162639702BDEFC90F4A5D/62880.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 516,
+    "max_power": 582,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 327.624,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 82
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 82
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 115
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Malign Glyphic Rifle of Agony",
+  "type": "Weapon",
+  "level": 14,
+  "rarity": "Masterwork",
+  "vendor_value": 57,
+  "default_skin": 5033,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34539,
+  "chat_link": "[\u0026AgHrhgAA]",
+  "icon": "https://render.guildwars2.com/file/50113CEAABC198949852AE1979C1B9F6E000AA4B/63882.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 213,
+    "max_power": 261,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 67.456,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 24
+        }
+      ]
+    },
+    "suffix_item_id": 24610
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Ravaging Steam Pistol",
+  "type": "Weapon",
+  "level": 56,
+  "rarity": "Fine",
+  "vendor_value": 49,
+  "default_skin": 5168,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 32522,
+  "chat_link": "[\u0026AgEKfwAA]",
+  "icon": "https://render.guildwars2.com/file/07FDD49E68D06DDCA7AD4EB4F72C0ED2C7729D75/67270.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 433,
+    "max_power": 508,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 154.176,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 39
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 54
+        }
+      ]
+    }
+  }
+}

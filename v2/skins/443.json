@@ -1,0 +1,63 @@
+{
+  "name": "Predatory Shoulderpad",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [
+    "Norn"
+  ],
+  "rarity": "Basic",
+  "id": 443,
+  "icon": "https://render.guildwars2.com/file/BB3EE40E5A3169F47255FB06910668BAE5043B4E/779838.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Medium",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        null,
+        null
+      ],
+      "overrides": {
+        "SylvariFemale": [
+          null,
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          }
+        ],
+        "SylvariMale": [
+          null,
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "name": "Warlord\u0027s Shinplates",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 9221,
+  "icon": "https://render.guildwars2.com/file/DB48B051B7F83524EE715A701BF5EA03B5F83338/2261485.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        }
+      ],
+      "overrides": {
+        "HumanFemale": [
+          {
+            "color_id": -1,
+            "material": "metal"
+          },
+          {
+            "color_id": -1,
+            "material": "metal"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          }
+        ],
+        "NornFemale": [
+          {
+            "color_id": -1,
+            "material": "metal"
+          },
+          {
+            "color_id": -1,
+            "material": "metal"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          }
+        ],
+        "SylvariFemale": [
+          {
+            "color_id": -1,
+            "material": "metal"
+          },
+          {
+            "color_id": -1,
+            "material": "metal"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          }
+        ]
+      }
+    }
+  }
+}

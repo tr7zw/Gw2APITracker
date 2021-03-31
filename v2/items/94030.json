@@ -1,0 +1,27 @@
+{
+  "name": "Straw Dye",
+  "description": "Double-click to unlock this dye color for all characters.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "DeleteWarning"
+  ],
+  "restrictions": [],
+  "id": 94030,
+  "chat_link": "[\u0026AgFObwEA]",
+  "icon": "https://render.guildwars2.com/file/0FB9DBA97E5AA076A84F300EB34334E2F7AA6810/2332433.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "Dye",
+    "color_id": -1
+  }
+}

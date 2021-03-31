@@ -1,0 +1,57 @@
+{
+  "name": "Jade Winds",
+  "facts": [
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 1.5
+    },
+    {
+      "text": "Jade Duration",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
+      "duration": 3
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 600
+    }
+  ],
+  "description": "Legendary Assassin. Call upon the Jade Wind to turn nearby enemies into jade, stunning them for a short duration.",
+  "icon": "https://render.guildwars2.com/file/93F6019F04E9F802E658963C79772D979731CE9B/1012987.png",
+  "type": "Elite",
+  "weapon_type": "None",
+  "professions": [
+    "Revenant"
+  ],
+  "slot": "Elite",
+  "cost": 50,
+  "flags": [],
+  "id": 31294,
+  "chat_link": "[\u0026Bj56AAA\u003d]",
+  "categories": [
+    "LegendaryAssassin"
+  ],
+  "traited_facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+      "duration": 10,
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
+      "apply_count": 2,
+      "requires_trait": 1765
+    }
+  ]
+}

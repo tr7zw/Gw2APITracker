@@ -1,0 +1,46 @@
+{
+  "name": "Trooper\u0027s Jerkin",
+  "type": "Armor",
+  "level": 70,
+  "rarity": "Rare",
+  "vendor_value": 266,
+  "default_skin": 653,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 63689,
+  "chat_link": "[\u0026AgHJ+AAA]",
+  "icon": "https://render.guildwars2.com/file/E3053EDDB4FFD6B031CE6B6A043153C7256C031E/61451.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 248,
+    "infusion_slots": [],
+    "attribute_adjustment": 280.341,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 70
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 98
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 70
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Sylvari Short Bow",
+  "description": "\u003cc\u003d@flavor\u003e\"Taking down the enemy just got easier!\"\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 55,
+  "rarity": "Fine",
+  "vendor_value": 72,
+  "default_skin": 3906,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30448,
+  "chat_link": "[\u0026AgHwdgAA]",
+  "icon": "https://render.guildwars2.com/file/0EFDC626FD430DA00CD9240C95EC6DF0500DB45E/67068.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 438,
+    "max_power": 484,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 300.928,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 105
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 75
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 75
+        }
+      ]
+    }
+  }
+}

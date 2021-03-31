@@ -1,0 +1,40 @@
+{
+  "name": "Ravaging Swindler Pauldrons",
+  "description": "",
+  "type": "Armor",
+  "level": 57,
+  "rarity": "Fine",
+  "vendor_value": 54,
+  "default_skin": 60,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 809,
+  "chat_link": "[\u0026AgEpAwAA]",
+  "icon": "https://render.guildwars2.com/file/5051DA550F72BC2EC8E2DF0C990DAC25010E163A/61035.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Medium",
+    "defense": 46,
+    "infusion_slots": [],
+    "attribute_adjustment": 59.328,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 15
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 21
+        }
+      ]
+    }
+  }
+}

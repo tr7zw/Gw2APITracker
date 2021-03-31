@@ -1,0 +1,27 @@
+{
+  "id": 1678,
+  "name": "Don\u0027t Knock Yourself Out",
+  "description": "Story Instance: Foefire Cleansing",
+  "requirement": "Avoid being hit by attacks that cause knockback or knockdown while remaining in the room.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    }
+  ],
+  "prerequisites": [
+    1674
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 66606,
+      "count": 1
+    }
+  ]
+}

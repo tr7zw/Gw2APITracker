@@ -1,0 +1,43 @@
+{
+  "name": "Stout Cabalist Shoulders",
+  "type": "Armor",
+  "level": 45,
+  "rarity": "Rare",
+  "vendor_value": 136,
+  "default_skin": 79,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 18223,
+  "chat_link": "[\u0026AgEvRwAA]",
+  "icon": "https://render.guildwars2.com/file/647347660A570B201E410B97F8970243EEC91628/414916.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 31,
+    "infusion_slots": [],
+    "attribute_adjustment": 51.057,
+    "infix_upgrade": {
+      "id": 148,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 18
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 13
+        }
+      ]
+    }
+  }
+}

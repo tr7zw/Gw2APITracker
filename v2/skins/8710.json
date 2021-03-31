@@ -1,0 +1,91 @@
+{
+  "name": "Blossoming Mist Shard Boots",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 8710,
+  "icon": "https://render.guildwars2.com/file/67700A0FD07D153D4CC4443FC508725AE221DD7A/2140922.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        }
+      ],
+      "overrides": {
+        "HumanFemale": [
+          {
+            "color_id": -1,
+            "material": "metal"
+          },
+          {
+            "color_id": -1,
+            "material": "metal"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          }
+        ],
+        "NornFemale": [
+          {
+            "color_id": -1,
+            "material": "metal"
+          },
+          {
+            "color_id": -1,
+            "material": "metal"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          }
+        ],
+        "SylvariFemale": [
+          {
+            "color_id": -1,
+            "material": "metal"
+          },
+          {
+            "color_id": -1,
+            "material": "metal"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Glyph of Lesser Elementals",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 40
+    },
+    {
+      "text": "Duration",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "duration": 120
+    }
+  ],
+  "description": "Glyph. Summon a lesser earth elemental.",
+  "icon": "https://render.guildwars2.com/file/6A55FE7F31A994FC1923D3A1CBEC15035A5EE837/867444.png",
+  "type": "Utility",
+  "weapon_type": "None",
+  "attunement": "Earth",
+  "professions": [
+    "Elementalist"
+  ],
+  "slot": "Utility",
+  "flags": [
+    "NoUnderwater"
+  ],
+  "id": 25497,
+  "chat_link": "[\u0026BpljAAA\u003d]",
+  "categories": [
+    "Glyph"
+  ],
+  "traited_facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "PrefixedBuff",
+      "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+      "duration": 3,
+      "status": "Protection",
+      "description": "Incoming damage decreased by 33%; stacks duration.",
+      "apply_count": 1,
+      "requires_trait": 229,
+      "prefix": {
+        "text": "Apply Buff/Condition",
+        "icon": "https://render.guildwars2.com/file/4B8056D9BD080DC8E74AE6A57B2B383A2D4265C9/102870.png",
+        "status": "Earth Attunement",
+        "description": "Cast earth spells."
+      }
+    }
+  ]
+}

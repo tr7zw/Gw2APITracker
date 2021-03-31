@@ -1,0 +1,71 @@
+{
+  "name": "Precise WvW Infusion",
+  "description": "Double-click to apply to an unused infusion slot.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 8,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 43255,
+  "chat_link": "[\u0026AgH3qAAA]",
+  "icon": "https://render.guildwars2.com/file/A95E4CE2CF099967CA2CED9329C031D2709F62EB/587076.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "ShortBow",
+      "HeavyArmor",
+      "LightArmor",
+      "Dagger",
+      "MediumArmor",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Trinket",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [
+      "Infusion"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 707,
+      "buff": {
+        "skill_id": 19064,
+        "description": "+5 Precision\n+1% Damage to Guards, Lords, and Supervisors"
+      },
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 5
+        }
+      ]
+    },
+    "suffix": ""
+  }
+}

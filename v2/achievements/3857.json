@@ -1,0 +1,58 @@
+{
+  "id": 3857,
+  "name": "Sulfur Shooter",
+  "description": "",
+  "requirement": "Test Creator Jadi\u0027s experimental sulfur shooter by using it on, and then killing, a variety of sulfur-damaged Forged.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Forged Soldier"
+    },
+    {
+      "type": "Text",
+      "text": "Forged Weaponeer"
+    },
+    {
+      "type": "Text",
+      "text": "Forged Scavenger"
+    },
+    {
+      "type": "Text",
+      "text": "Forged War Mage"
+    },
+    {
+      "type": "Text",
+      "text": "Forged Sharpshooter"
+    },
+    {
+      "type": "Text",
+      "text": "Forged Shieldbearer"
+    },
+    {
+      "type": "Text",
+      "text": "Forged Forerunner"
+    },
+    {
+      "type": "Text",
+      "text": "Forged Hookhead"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 8,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 339
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1193,
+  "name": "Weapons Tester",
+  "description": "Their aim wasn\u0027t so hot.",
+  "requirement": "Destroy the thermal core without being struck by any molten weapon attacks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tyria",
+      "id": 277
+    }
+  ]
+}

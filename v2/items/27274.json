@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Soft Wood Focus of Battle",
+  "description": "",
+  "type": "Weapon",
+  "level": 67,
+  "rarity": "Rare",
+  "vendor_value": 168,
+  "default_skin": 3887,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27274,
+  "chat_link": "[\u0026AgGKagAA]",
+  "icon": "https://render.guildwars2.com/file/EF62B7FE5B45A1181C362E635301E1BAA8FDCC44/65104.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 589,
+    "max_power": 625,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 234.216,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 82
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 59
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 59
+        }
+      ]
+    },
+    "suffix_item_id": 24602
+  }
+}

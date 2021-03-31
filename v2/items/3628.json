@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Snapdragon Boots",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 425,
+  "default_skin": 505,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Sylvari"
+  ],
+  "id": 3628,
+  "chat_link": "[\u0026AgEsDgAA]",
+  "icon": "https://render.guildwars2.com/file/31B995AFAD4C3773801B10E1382407DAC9A108A7/433399.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 43,
+    "infusion_slots": [],
+    "attribute_adjustment": 36.963,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 9
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 13
+        }
+      ]
+    }
+  }
+}

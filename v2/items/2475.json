@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Magician Mask of the Traveler",
+  "description": "",
+  "type": "Armor",
+  "level": 39,
+  "rarity": "Masterwork",
+  "vendor_value": 93,
+  "default_skin": 100,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 2475,
+  "chat_link": "[\u0026AgGrCQAA]",
+  "icon": "https://render.guildwars2.com/file/E06A970CAD5A0FDBA4F49C01B168F5D1D2254419/526097.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 24,
+    "infusion_slots": [],
+    "attribute_adjustment": 51.816,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 13
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 18
+        }
+      ]
+    },
+    "suffix_item_id": 24693
+  }
+}

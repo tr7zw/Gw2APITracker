@@ -1,0 +1,28 @@
+{
+  "id": 4237,
+  "name": "[FTT 402] Advanced Dynamics—Area Damage Level 4",
+  "description": "",
+  "requirement": "Applied / Area Damage Level 3 Upgrades",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 6,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    4225
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 87965,
+      "count": 1
+    }
+  ]
+}

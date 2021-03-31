@@ -1,0 +1,40 @@
+{
+  "name": "Malign Glyphic Brand of Agony",
+  "type": "Weapon",
+  "level": 14,
+  "rarity": "Masterwork",
+  "vendor_value": 38,
+  "default_skin": 5124,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34553,
+  "chat_link": "[\u0026AgH5hgAA]",
+  "icon": "https://render.guildwars2.com/file/A1EBD2A1442009D269D1FF132D5ED342D553411F/62801.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 171,
+    "max_power": 200,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 33.728,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 12
+        }
+      ]
+    },
+    "suffix_item_id": 24610
+  }
+}

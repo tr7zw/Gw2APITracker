@@ -1,0 +1,50 @@
+{
+  "name": "Hearty Caretaker\u0027s Staff",
+  "type": "Weapon",
+  "level": 78,
+  "rarity": "Rare",
+  "vendor_value": 288,
+  "default_skin": 4894,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32256,
+  "chat_link": "[\u0026AgEAfgAA]",
+  "icon": "https://render.guildwars2.com/file/D24E30CBDD4C7FC231DEADB20CE5BB595C7D06DD/415054.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 845,
+    "max_power": 952,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 581.904,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 145
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 145
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 204
+        }
+      ]
+    },
+    "suffix_item_id": 24636
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Honed Iron Pistol of Fire",
+  "description": "",
+  "type": "Weapon",
+  "level": 51,
+  "rarity": "Masterwork",
+  "vendor_value": 90,
+  "default_skin": 3875,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26887,
+  "chat_link": "[\u0026AgEHaQAA]",
+  "icon": "https://render.guildwars2.com/file/C43656C1551C9A5A1A931EAC2901BD0FBA3BE3E1/62830.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 425,
+    "max_power": 499,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 148.104,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 52
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 37
+        }
+      ]
+    },
+    "suffix_item_id": 24547
+  }
+}

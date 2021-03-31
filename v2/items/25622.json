@@ -1,0 +1,44 @@
+{
+  "name": "Mending Shiverpeak Beacon of Smoldering",
+  "type": "Weapon",
+  "level": 44,
+  "rarity": "Masterwork",
+  "vendor_value": 80,
+  "default_skin": 5098,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25622,
+  "chat_link": "[\u0026AgEWZAAA]",
+  "icon": "https://render.guildwars2.com/file/42643504C0CA50B40C939FF6E63409FE9BBF6ADB/534291.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 330,
+    "max_power": 387,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 121.176,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 30
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 42
+        }
+      ]
+    },
+    "suffix_item_id": 24622
+  }
+}

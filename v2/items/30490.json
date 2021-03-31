@@ -1,0 +1,48 @@
+{
+  "name": "Felix\u0027s Rifle",
+  "description": "\u003cc\u003d@flavor\u003e\"In retrospect, I probably picked the wrong time to clean my gun.\"\u003cbr\u003e—Private Felix\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 37,
+  "rarity": "Fine",
+  "vendor_value": 53,
+  "default_skin": 5021,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30490,
+  "chat_link": "[\u0026AgEadwAA]",
+  "icon": "https://render.guildwars2.com/file/5427F16936431923080AE3FD023377CF59CF2312/61700.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 328,
+    "max_power": 401,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 175.232,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 61
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 44
+        }
+      ]
+    }
+  }
+}

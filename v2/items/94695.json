@@ -1,0 +1,54 @@
+{
+  "name": "Diviner\u0027s Refitted Aureate Warhammer",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 198,
+  "default_skin": 9832,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94695,
+  "chat_link": "[\u0026AgHncQEA]",
+  "icon": "https://render.guildwars2.com/file/3AF44144FE047ABFE1C6749FA0A542D7E1F15477/2393749.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 811,
+    "max_power": 914,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 559.912,
+    "infix_upgrade": {
+      "id": 1556,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 168
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 92
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 92
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 168
+        }
+      ]
+    }
+  }
+}

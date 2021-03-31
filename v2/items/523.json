@@ -1,0 +1,47 @@
+{
+  "name": "Shaman\u0027s Conjurer Chest of the Grove",
+  "description": "",
+  "type": "Armor",
+  "level": 70,
+  "rarity": "Rare",
+  "vendor_value": 266,
+  "default_skin": 63,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 523,
+  "chat_link": "[\u0026AgELAgAA]",
+  "icon": "https://render.guildwars2.com/file/76CD08463A05730071D400254141B50E570662D3/61023.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 230,
+    "infusion_slots": [],
+    "attribute_adjustment": 280.341,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 98
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 70
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 70
+        }
+      ]
+    },
+    "suffix_item_id": 24734
+  }
+}

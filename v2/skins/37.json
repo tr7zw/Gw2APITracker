@@ -1,0 +1,33 @@
+{
+  "name": "Magician Coat",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 37,
+  "icon": "https://render.guildwars2.com/file/D1BBAB94232E2AD1F1253D573D45C4DCECDF0E02/61018.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Kodanroar",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 4758,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26874,
+  "chat_link": "[\u0026AgH6aAAA]",
+  "icon": "https://render.guildwars2.com/file/D4E67179F5360252E5161968F6B1389853E290E8/780574.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 814,
+    "max_power": 900,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 120
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 85
+        }
+      ]
+    },
+    "suffix_item_id": 24601
+  }
+}

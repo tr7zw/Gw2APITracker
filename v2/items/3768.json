@@ -1,0 +1,44 @@
+{
+  "name": "Vigorous Dolyak Gauntlets",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 425,
+  "default_skin": 440,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Norn"
+  ],
+  "id": 3768,
+  "chat_link": "[\u0026AgG4DgAA]",
+  "icon": "https://render.guildwars2.com/file/F496EB275D63B1C423B85C2B911291D402E81632/779829.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 59,
+    "infusion_slots": [],
+    "attribute_adjustment": 36.963,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 13
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

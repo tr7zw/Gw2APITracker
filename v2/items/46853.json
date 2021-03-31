@@ -1,0 +1,56 @@
+{
+  "name": "Occam\u0027s Herald",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of the renowned Sylvari smith, Occam.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 10000,
+  "default_skin": 4147,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 46853,
+  "chat_link": "[\u0026AgEFtwAA]",
+  "icon": "https://render.guildwars2.com/file/0CB2D2C940DA26010CE49129BB4615A3DDD19833/632064.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 855,
+    "max_power": 945,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 90
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 90
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 125
+        }
+      ]
+    }
+  }
+}

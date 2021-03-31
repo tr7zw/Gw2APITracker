@@ -1,0 +1,50 @@
+{
+  "name": "Wintersbark",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 4823,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 31075,
+  "chat_link": "[\u0026AgFjeQAA]",
+  "icon": "https://render.guildwars2.com/file/00807D6A22C37AD8EB6153DC561C15375645DFAF/780643.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 905,
+    "max_power": 1000,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 171
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 171
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 239
+        }
+      ]
+    },
+    "suffix_item_id": 24597
+  }
+}

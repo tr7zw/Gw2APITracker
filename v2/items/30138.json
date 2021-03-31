@@ -1,0 +1,52 @@
+{
+  "name": "Cistern Harpoon",
+  "description": "\u003cc\u003d@flavor\u003e\"We had to completely re engineer the insides of these weapons to not get gummed up.\"\u003cbr\u003e—Engineer Verutum\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 61,
+  "rarity": "Fine",
+  "vendor_value": 78,
+  "default_skin": 5185,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30138,
+  "chat_link": "[\u0026AgG6dQAA]",
+  "icon": "https://render.guildwars2.com/file/3008C27A70967620BBEE6467F5E2F7966EAB6AE5/780621.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 492,
+    "max_power": 544,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 348.928,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 122
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 87
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 87
+        }
+      ]
+    }
+  }
+}

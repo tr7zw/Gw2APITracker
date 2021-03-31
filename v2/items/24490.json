@@ -1,0 +1,45 @@
+{
+  "name": "Gilded Topaz Jewel",
+  "description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 35,
+  "rarity": "Masterwork",
+  "vendor_value": 68,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24490,
+  "chat_link": "[\u0026AgGqXwAA]",
+  "icon": "https://render.guildwars2.com/file/63E1F29B45023E250FE9783AB4F8E35D78E40601/220932.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "Trinket"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 167,
+      "buff": {
+        "skill_id": 143,
+        "description": "+9 Condition Damage\n+7 Precision"
+      },
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 7
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 9
+        }
+      ]
+    },
+    "suffix": "of Topaz"
+  }
+}

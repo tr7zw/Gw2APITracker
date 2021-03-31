@@ -1,0 +1,33 @@
+{
+  "name": "Chain Boots",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 225,
+  "icon": "https://render.guildwars2.com/file/C80D5A9E0D3432DBE44A0BCAEF5A411DCF240A6F/63231.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

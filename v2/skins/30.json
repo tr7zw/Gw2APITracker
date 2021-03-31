@@ -1,0 +1,33 @@
+{
+  "name": "Seer Boots",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 30,
+  "icon": "https://render.guildwars2.com/file/F640924D5B38FAFAF55BDF9496D41266A132A83C/61027.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

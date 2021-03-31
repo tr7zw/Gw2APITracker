@@ -1,0 +1,41 @@
+{
+  "name": "Penetrating Krytan Warhorn",
+  "type": "Weapon",
+  "level": 56,
+  "rarity": "Fine",
+  "vendor_value": 49,
+  "default_skin": 5001,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 33665,
+  "chat_link": "[\u0026AgGBgwAA]",
+  "icon": "https://render.guildwars2.com/file/5E27306C1273E90D736AB0EEDC4D570BDD62BA4F/68099.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 402,
+    "max_power": 444,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 154.176,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 54
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 39
+        }
+      ]
+    }
+  }
+}

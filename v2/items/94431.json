@@ -1,0 +1,50 @@
+{
+  "name": "Giver\u0027s Candy Cane Focus of Concentration",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 9758,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94431,
+  "chat_link": "[\u0026AgHfcAEA]",
+  "icon": "https://render.guildwars2.com/file/B707386C054901FC46BAD7F9F713EBFBB07CBB6C/2376863.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 832,
+    "max_power": 883,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 628,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 120
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 85
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 85
+        }
+      ]
+    },
+    "suffix_item_id": 72339
+  }
+}

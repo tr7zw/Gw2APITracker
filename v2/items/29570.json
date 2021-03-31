@@ -1,0 +1,48 @@
+{
+  "name": "Ebon Vanguard Axe",
+  "type": "Weapon",
+  "level": 40,
+  "rarity": "Rare",
+  "vendor_value": 1400,
+  "default_skin": 4598,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29570,
+  "chat_link": "[\u0026AgGCcwAA]",
+  "icon": "https://render.guildwars2.com/file/EF7016AF6A9AA9DEB45A964246F0B8BDD4461A05/67557.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 358,
+    "max_power": 437,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 117.144,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 41
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 29
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

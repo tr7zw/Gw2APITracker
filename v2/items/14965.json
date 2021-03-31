@@ -1,0 +1,40 @@
+{
+  "name": "Precise Bronze Mace",
+  "description": "",
+  "type": "Weapon",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 48,
+  "default_skin": 3945,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 14965,
+  "chat_link": "[\u0026AgF1OgAA]",
+  "icon": "https://render.guildwars2.com/file/415D42C379B3AE75721E59D76E5F170926C416C1/65228.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 222,
+    "max_power": 250,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 46.988,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 16
+        }
+      ]
+    }
+  }
+}

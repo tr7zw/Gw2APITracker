@@ -1,0 +1,42 @@
+{
+  "name": "Strong Staff",
+  "description": "",
+  "type": "Weapon",
+  "level": 32,
+  "rarity": "Basic",
+  "vendor_value": 24,
+  "default_skin": 3872,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 29041,
+  "chat_link": "[\u0026AgFxcQAA]",
+  "icon": "https://render.guildwars2.com/file/FA1C40555C74D2BAAED3729F7B2560F517E2171A/66214.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 234,
+    "max_power": 263,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 113.36,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 40
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 28
+        }
+      ]
+    }
+  }
+}

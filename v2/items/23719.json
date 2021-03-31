@@ -1,0 +1,46 @@
+{
+  "name": "Mariners Compass",
+  "description": "",
+  "type": "Trinket",
+  "level": 73,
+  "rarity": "Masterwork",
+  "vendor_value": 153,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23719,
+  "chat_link": "[\u0026AgGnXAAA]",
+  "icon": "https://render.guildwars2.com/file/B5EECF6C94EE36F30533925C9801073A02D29F97/455956.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 153,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 54
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 38
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 38
+        }
+      ]
+    }
+  }
+}

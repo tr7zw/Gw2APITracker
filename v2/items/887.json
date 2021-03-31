@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Cabalist Boots of Balthazar",
+  "description": "",
+  "type": "Armor",
+  "level": 57,
+  "rarity": "Masterwork",
+  "vendor_value": 98,
+  "default_skin": 78,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 887,
+  "chat_link": "[\u0026AgF3AwAA]",
+  "icon": "https://render.guildwars2.com/file/D83BD57C170413EC3E5C9CF612CEDE22A606ABDE/61036.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 69,
+    "infusion_slots": [],
+    "attribute_adjustment": 64.668,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 16
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 23
+        }
+      ]
+    },
+    "suffix_item_id": 24763
+  }
+}

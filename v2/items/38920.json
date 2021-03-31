@@ -1,0 +1,47 @@
+{
+  "name": "Magi\u0027s Glyphic Speargun",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 198,
+  "default_skin": 5122,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 38920,
+  "chat_link": "[\u0026AgEImAAA]",
+  "icon": "https://render.guildwars2.com/file/0F286F119C53F275016502D17CFAC3E6D7990678/434763.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 745,
+    "max_power": 823,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 559.912,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 140
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 140
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 196
+        }
+      ]
+    }
+  }
+}

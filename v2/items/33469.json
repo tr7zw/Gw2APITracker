@@ -1,0 +1,37 @@
+{
+  "name": "Resilient Krytan Mace",
+  "type": "Weapon",
+  "level": 16,
+  "rarity": "Fine",
+  "vendor_value": 20,
+  "default_skin": 5005,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 33469,
+  "chat_link": "[\u0026AgG9ggAA]",
+  "icon": "https://render.guildwars2.com/file/D81434679966BBCEB97B7B681833BC38E73694F2/61688.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 186,
+    "max_power": 210,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 33.536,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

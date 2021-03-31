@@ -1,0 +1,39 @@
+{
+  "id": 4606,
+  "name": "Chasing Tales: Tried and True",
+  "description": "Lord of sword and board.",
+  "requirement": "Defeat 60 enemies while wielding a sword and a shield in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Wossaul the Giant."
+    },
+    {
+      "type": "Text",
+      "text": "Defeated 60 enemies while equipped with a sword and shield in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89867,
+      "count": 1
+    }
+  ]
+}

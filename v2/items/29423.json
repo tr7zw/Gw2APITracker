@@ -1,0 +1,53 @@
+{
+  "name": "Balanced Crusader\u0027s Hammer",
+  "description": "\u003cc\u003d@flavor\u003e\"Shaved one gram off the pommel to balance everything out.\"\u003cbr\u003e—Crusader Brice\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 56,
+  "rarity": "Masterwork",
+  "vendor_value": 147,
+  "default_skin": 4060,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29423,
+  "chat_link": "[\u0026AgHvcgAA]",
+  "icon": "https://render.guildwars2.com/file/2F4509F15B48B1A9F1579D08539F4109972A31A4/65162.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 527,
+    "max_power": 594,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 336.192,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 118
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 84
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 84
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

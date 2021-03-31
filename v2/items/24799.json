@@ -1,0 +1,40 @@
+{
+  "name": "Major Rune of the Elementalist",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eBrilliance\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 30,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24799,
+  "chat_link": "[\u0026AgHfYAAA]",
+  "icon": "https://render.guildwars2.com/file/50C8C1AC0926099273CEC60E9DF2FE7808FA3CF0/221122.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+15 Power",
+      "+21 Condition Damage",
+      "+30 Power",
+      "+39 Condition Damage"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Elementalist"
+  }
+}

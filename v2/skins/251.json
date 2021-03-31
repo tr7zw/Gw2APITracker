@@ -1,0 +1,30 @@
+{
+  "name": "Outlaw Gloves",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 251,
+  "icon": "https://render.guildwars2.com/file/E20CE44079D7F3CD5C3850302AA1DB5A06F9B391/61424.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        null,
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Baelfire\u0027s Ember",
+  "description": "\u003cc\u003d@flavor\u003e\"You cannot stop me from becoming a god!\" - Imperator Gaheron Baelfire\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 413,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 67299,
+  "chat_link": "[\u0026AgHjBgEA]",
+  "icon": "https://render.guildwars2.com/file/A20FDC0A67B291492BD4043A69FF7999634E3EAC/866834.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 224.07,
+    "infix_upgrade": {
+      "id": 1038,
+      "buff": {
+        "skill_id": 25443,
+        "description": "+32 Condition Damage\n+18 Power\n+18 Vitality"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 74
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 74
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 110
+        }
+      ]
+    }
+  }
+}

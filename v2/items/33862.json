@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Krytan Bow of Smoldering",
+  "type": "Weapon",
+  "level": 44,
+  "rarity": "Masterwork",
+  "vendor_value": 120,
+  "default_skin": 4998,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33862,
+  "chat_link": "[\u0026AgFGhAAA]",
+  "icon": "https://render.guildwars2.com/file/1FA1C0C722B9751C4C378055231E14FCB51517BF/61650.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 385,
+    "max_power": 452,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 242.352,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 61
+        }
+      ]
+    },
+    "suffix_item_id": 24622
+  }
+}

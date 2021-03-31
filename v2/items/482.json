@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Worn Scale Boots of Rage",
+  "description": "",
+  "type": "Armor",
+  "level": 39,
+  "rarity": "Masterwork",
+  "vendor_value": 74,
+  "default_skin": 65,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 482,
+  "chat_link": "[\u0026AgHiAQAA]",
+  "icon": "https://render.guildwars2.com/file/9CD8B8786A6F047FD375A7E5301A52320AD60ACC/61012.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 60,
+    "infusion_slots": [],
+    "attribute_adjustment": 38.862,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 10
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 14
+        }
+      ]
+    },
+    "suffix_item_id": 24715
+  }
+}

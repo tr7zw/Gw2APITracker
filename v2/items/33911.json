@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Krytan Warhorn of Debility",
+  "type": "Weapon",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 90,
+  "default_skin": 5001,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33911,
+  "chat_link": "[\u0026AgF3hAAA]",
+  "icon": "https://render.guildwars2.com/file/5E27306C1273E90D736AB0EEDC4D570BDD62BA4F/68099.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 387,
+    "max_power": 428,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 144.228,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 50
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 36
+        }
+      ]
+    },
+    "suffix_item_id": 24634
+  }
+}

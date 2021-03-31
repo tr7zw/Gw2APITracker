@@ -1,0 +1,38 @@
+{
+  "name": "Shortsword",
+  "description": "",
+  "type": "Weapon",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 3,
+  "default_skin": 4062,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32141,
+  "chat_link": "[\u0026AgGNfQAA]",
+  "icon": "https://render.guildwars2.com/file/D10679012504F6AD5829D1DF9F36303FE2EB46B4/64343.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 109,
+    "max_power": 121,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 9.048,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    }
+  }
+}

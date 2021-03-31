@@ -1,0 +1,48 @@
+{
+  "name": "Soldier\u0027s Wolf Shoulderpad",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 25000,
+  "default_skin": 453,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Norn"
+  ],
+  "id": 3581,
+  "chat_link": "[\u0026AgH9DQAA]",
+  "icon": "https://render.guildwars2.com/file/E97CED440CE46151766D3CC3F13CD1AD96370433/414936.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Medium",
+    "defense": 86,
+    "infusion_slots": [],
+    "attribute_adjustment": 113.184,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 40
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 28
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 28
+        }
+      ]
+    }
+  }
+}

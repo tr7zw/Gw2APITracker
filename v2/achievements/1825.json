@@ -1,0 +1,77 @@
+{
+  "id": 1825,
+  "name": "Luminescent Leggings",
+  "description": "",
+  "requirement": "Collect the  parts required to assemble Luminscent Leggings.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 68057
+    },
+    {
+      "type": "Item",
+      "id": 68041
+    },
+    {
+      "type": "Item",
+      "id": 68055
+    },
+    {
+      "type": "Item",
+      "id": 68042
+    },
+    {
+      "type": "Item",
+      "id": 68043
+    },
+    {
+      "type": "Item",
+      "id": 68053
+    },
+    {
+      "type": "Item",
+      "id": 67905
+    },
+    {
+      "type": "Skin",
+      "id": 5734
+    },
+    {
+      "type": "Skin",
+      "id": 5715
+    },
+    {
+      "type": "Skin",
+      "id": 5726
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 67795,
+      "count": 1
+    }
+  ]
+}

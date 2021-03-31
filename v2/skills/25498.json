@@ -1,0 +1,69 @@
+{
+  "name": "Stomp",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 1200
+    },
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 18
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 240
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+      "duration": 3,
+      "status": "Protection",
+      "description": "Incoming damage decreased by 33%; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+      "duration": 5,
+      "status": "Crippled",
+      "description": "Movement speed decreased by 50%; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+      "duration": 1,
+      "status": "Immobile",
+      "description": "Unable to move; stacks duration.",
+      "apply_count": 1
+    }
+  ],
+  "description": "Command your earth elemental to stomp the ground, granting protection to allies and crippling foes.",
+  "icon": "https://render.guildwars2.com/file/A39EBFA9E241DDBF6EEFBEC515192F32F5F2A620/867445.png",
+  "type": "Elite",
+  "weapon_type": "None",
+  "professions": [
+    "Elementalist"
+  ],
+  "slot": "Elite",
+  "flags": [
+    "NoUnderwater"
+  ],
+  "id": 25498,
+  "chat_link": "[\u0026BppjAAA\u003d]"
+}

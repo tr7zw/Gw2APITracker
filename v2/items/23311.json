@@ -1,0 +1,43 @@
+{
+  "name": "Deldrimor Ring Replica",
+  "description": "\u003cc\u003d@flavor\u003e\"OK, so it\u0027s not really Deldrimor steel, but it\u0027s a good replica.\"\u003cbr\u003e—Bink\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 25,
+  "rarity": "Masterwork",
+  "vendor_value": 81,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23311,
+  "chat_link": "[\u0026AgEPWwAA]",
+  "icon": "https://render.guildwars2.com/file/6B5050A3B959FAAF3D0E5E23CA3FAA6DE9E3CB0D/455905.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [],
+    "attribute_adjustment": 43.809,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 11
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 15
+        }
+      ]
+    }
+  }
+}

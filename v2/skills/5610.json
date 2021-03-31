@@ -1,0 +1,46 @@
+{
+  "name": "Steam Vent",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 15
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+      "duration": 3,
+      "status": "Blinded",
+      "description": "Next outgoing attack misses; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+      "duration": 3,
+      "status": "Burning",
+      "description": "Deals damage every second; stacks intensity.",
+      "apply_count": 1
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 3
+    }
+  ],
+  "description": "Float to the surface on a burst of steam, blinding and burning foes.",
+  "icon": "https://render.guildwars2.com/file/E9C3FC0D934DA6184FDDADBD66B3CD4FD72308A1/103364.png",
+  "type": "Weapon",
+  "weapon_type": "None",
+  "professions": [
+    "Elementalist"
+  ],
+  "slot": "Downed_3",
+  "flags": [],
+  "id": 5610,
+  "chat_link": "[\u0026BuoVAAA\u003d]"
+}

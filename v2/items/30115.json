@@ -1,0 +1,49 @@
+{
+  "name": "Quickshot Short Bow",
+  "description": "\u003cc\u003d@flavor\u003e\"Engineered for maximum stopping power.\"\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 37,
+  "rarity": "Masterwork",
+  "vendor_value": 105,
+  "default_skin": 5139,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30115,
+  "chat_link": "[\u0026AgGjdQAA]",
+  "icon": "https://render.guildwars2.com/file/05A0E9E8BD7E5144E5FA1D54E0AE4803D536A20D/68162.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 328,
+    "max_power": 362,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 193.256,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 48
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 68
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

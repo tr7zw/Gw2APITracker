@@ -1,0 +1,48 @@
+{
+  "name": "Rabid Orchid Coat",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 2500,
+  "default_skin": 502,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Sylvari"
+  ],
+  "id": 3645,
+  "chat_link": "[\u0026AgE9DgAA]",
+  "icon": "https://render.guildwars2.com/file/F7F1FE01DEA404F603DB3E0C5B51075610EDD40F/433410.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 187,
+    "infusion_slots": [],
+    "attribute_adjustment": 225.99,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 56
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 79
+        }
+      ]
+    }
+  }
+}

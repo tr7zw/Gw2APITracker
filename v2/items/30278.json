@@ -1,0 +1,52 @@
+{
+  "name": "Penitent Focus",
+  "description": "\u003cc\u003d@flavor\u003e\"Cooperation brought us to this point. It will see us through.\"\u003cbr\u003e—Tactician Almonia\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Fine",
+  "vendor_value": 66,
+  "default_skin": 5178,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30278,
+  "chat_link": "[\u0026AgFGdgAA]",
+  "icon": "https://render.guildwars2.com/file/2344244016425D02CE90BC950B366B7FC0183C37/62837.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 634,
+    "max_power": 673,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 258.624,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 65
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 65
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 91
+        }
+      ]
+    }
+  }
+}

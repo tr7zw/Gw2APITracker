@@ -1,0 +1,37 @@
+{
+  "name": "Malign Glyphic Short Bow",
+  "type": "Weapon",
+  "level": 6,
+  "rarity": "Fine",
+  "vendor_value": 17,
+  "default_skin": 5151,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 34247,
+  "chat_link": "[\u0026AgHHhQAA]",
+  "icon": "https://render.guildwars2.com/file/2B28FAFF803391B3F9F3A323AF0CB45B0A3A052D/64965.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 150,
+    "max_power": 166,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 33.024,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

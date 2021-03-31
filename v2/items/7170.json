@@ -1,0 +1,49 @@
+{
+  "name": "Soldier\u0027s Duelist Boots",
+  "description": "",
+  "type": "Armor",
+  "level": 65,
+  "rarity": "Masterwork",
+  "vendor_value": 477,
+  "default_skin": 887,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 7170,
+  "chat_link": "[\u0026AgECHAAA]",
+  "icon": "https://render.guildwars2.com/file/9C7E0C5C680DAA0AF4EE73ED5ED3B6C2E49B0250/61033.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 96,
+    "infusion_slots": [],
+    "attribute_adjustment": 77.622,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 27
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 19
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 19
+        }
+      ]
+    }
+  }
+}

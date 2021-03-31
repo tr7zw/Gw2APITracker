@@ -1,0 +1,46 @@
+{
+  "name": "Awakened Greatsword",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 297,
+  "default_skin": 7410,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 84350,
+  "chat_link": "[\u0026AgF+SQEA]",
+  "icon": "https://render.guildwars2.com/file/68BA49C6167CCA6931DA4C20CE22E72FFA36C606/1766632.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Choking",
+    "min_power": 882,
+    "max_power": 975,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 603.648,
+    "infix_upgrade": {
+      "id": 1363,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 211
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 151
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 151
+        }
+      ]
+    }
+  }
+}

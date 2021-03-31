@@ -1,0 +1,39 @@
+{
+  "id": 4540,
+  "name": "Chasing Tales: Sunslayer",
+  "description": "Azra could bring any to yield—even the sun in the sky.",
+  "requirement": "Defeat the Miniature Sun somewhere in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Azra the Sunslayer."
+    },
+    {
+      "type": "Text",
+      "text": "Slay the Miniature Sun somewhere in Thunderhead Peaks while wielding a longbow."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89444,
+      "count": 1
+    }
+  ]
+}

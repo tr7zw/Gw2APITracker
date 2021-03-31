@@ -1,0 +1,27 @@
+{
+  "id": 1691,
+  "name": "Untouched by Maw and Claw",
+  "description": "Story Instance: The World Summit",
+  "requirement": "Complete \"The World Summit\" while avoiding all breath and claw attacks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    }
+  ],
+  "prerequisites": [
+    1700
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 66602,
+      "count": 1
+    }
+  ]
+}

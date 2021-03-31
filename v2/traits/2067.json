@@ -1,0 +1,75 @@
+{
+  "id": 2067,
+  "tier": 2,
+  "order": 1,
+  "name": "Sadistic Searing",
+  "description": "\u003cc\u003d@AbilityType\u003ePunishment\u003c/c\u003e skills gain reduced recharge and cause your next Manifest Sand Shade to inflict burning on foes near it.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Recharge Reduced",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+      "percent": 20
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+      "duration": 4,
+      "status": "Burning",
+      "description": "Deals damage every second; stacks intensity.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+      "duration": 2,
+      "status": "Burning",
+      "description": "Deals damage every second; stacks intensity.",
+      "apply_count": 1
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 180
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/36B6A2055933F4B47B08260DA104FFD1E46F0E1D/1769966.png",
+      "duration": 10,
+      "status": "Sadistic Searing",
+      "description": "Summoning your next sand shade inflicts burning on nearby foes.",
+      "apply_count": 1
+    }
+  ],
+  "traited_facts": [
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 10,
+      "requires_trait": 2112,
+      "overrides": 3
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 300,
+      "requires_trait": 2112,
+      "overrides": 4
+    }
+  ],
+  "specialization": 60,
+  "icon": "https://render.guildwars2.com/file/36B6A2055933F4B47B08260DA104FFD1E46F0E1D/1769966.png"
+}

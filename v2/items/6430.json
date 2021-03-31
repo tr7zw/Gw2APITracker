@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 49,
+  "rarity": "Fine",
+  "vendor_value": 40,
+  "default_skin": 256,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6430,
+  "chat_link": "[\u0026AgEeGQAA]",
+  "icon": "https://render.guildwars2.com/file/4EFFC00BAD06A4EE5FDF9BFB07CE447B39560D04/61618.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 62,
+    "infusion_slots": [],
+    "attribute_adjustment": 48.144,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 17
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

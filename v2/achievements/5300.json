@@ -1,0 +1,25 @@
+{
+  "id": 5300,
+  "name": "Special Mission: Thirsty Work",
+  "description": "",
+  "requirement": "Bring water to  exhausted sentries in allied bases around the Drizzlewood Coast.",
+  "locked_text": "Unlock by using Blood Legion Special Mission Documents.",
+  "type": "Default",
+  "flags": [
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 6,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 93625,
+      "count": 250
+    }
+  ]
+}

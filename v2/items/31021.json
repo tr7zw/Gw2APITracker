@@ -1,0 +1,48 @@
+{
+  "name": "Berserker\u0027s Harpoon",
+  "description": "",
+  "type": "Weapon",
+  "level": 75,
+  "rarity": "Basic",
+  "vendor_value": 47,
+  "default_skin": 3862,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 31021,
+  "chat_link": "[\u0026AgEteQAA]",
+  "icon": "https://render.guildwars2.com/file/4BE704BD20AADC9C3C0FC222DECA2E4D412CFA4A/66240.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 506,
+    "max_power": 559,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 374.4,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 131
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 94
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 94
+        }
+      ]
+    }
+  }
+}

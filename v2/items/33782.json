@@ -1,0 +1,40 @@
+{
+  "name": "Resilient Krytan Scepter of Force",
+  "type": "Weapon",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 48,
+  "default_skin": 4989,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33782,
+  "chat_link": "[\u0026AgH2gwAA]",
+  "icon": "https://render.guildwars2.com/file/0D30D70499EDAC01D6C925470200BF2906E364CB/61706.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 222,
+    "max_power": 250,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 46.988,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 16
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

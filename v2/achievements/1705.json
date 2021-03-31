@@ -1,0 +1,27 @@
+{
+  "id": 1705,
+  "name": "Super Sleuth",
+  "description": "Story Instance: Party Politics",
+  "requirement": "Complete the party investigation using only the twelve necessary conversation steps.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 15
+    }
+  ],
+  "prerequisites": [
+    1700
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 66607,
+      "count": 1
+    }
+  ]
+}

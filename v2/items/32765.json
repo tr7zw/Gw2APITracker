@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Steam Mace of the Hydromancer",
+  "type": "Weapon",
+  "level": 56,
+  "rarity": "Masterwork",
+  "vendor_value": 98,
+  "default_skin": 5199,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32765,
+  "chat_link": "[\u0026AgH9fwAA]",
+  "icon": "https://render.guildwars2.com/file/CFD4DFE0779C3B361DBF7BEDD59C7F5480A1C914/68155.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 479,
+    "max_power": 540,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 168.096,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 42
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 59
+        }
+      ]
+    },
+    "suffix_item_id": 24595
+  }
+}

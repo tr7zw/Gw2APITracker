@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Glyphic Speargun of Accuracy",
+  "type": "Weapon",
+  "level": 26,
+  "rarity": "Masterwork",
+  "vendor_value": 84,
+  "default_skin": 5122,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34585,
+  "chat_link": "[\u0026AgEZhwAA]",
+  "icon": "https://render.guildwars2.com/file/0F286F119C53F275016502D17CFAC3E6D7990678/434763.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 255,
+    "max_power": 282,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 123.488,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 31
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 43
+        }
+      ]
+    },
+    "suffix_item_id": 24616
+  }
+}

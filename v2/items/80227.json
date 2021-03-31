@@ -1,0 +1,58 @@
+{
+  "name": "Thackeray\u0027s Gauntlets",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of the Seraph commander, Logan Thackeray.\u003c/c\u003e",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 240,
+  "default_skin": 116,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 80227,
+  "chat_link": "[\u0026AgFjOQEA]",
+  "icon": "https://render.guildwars2.com/file/BD20599D290345BE7D98BD270FBE502CF5212654/699217.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 191,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 134.442,
+    "infix_upgrade": {
+      "id": 1222,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 40
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 22
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 40
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 22
+        }
+      ]
+    }
+  }
+}

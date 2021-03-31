@@ -1,0 +1,44 @@
+{
+  "name": "Packmaster\u0027s Warhorn",
+  "description": "\u003cc\u003d@flavor\u003e\"The call of the wild is more than just a saying.\"\u003cbr\u003e—Packmaster Danador\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 9,
+  "rarity": "Fine",
+  "vendor_value": 14,
+  "default_skin": 3859,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30682,
+  "chat_link": "[\u0026AgHadwAA]",
+  "icon": "https://render.guildwars2.com/file/F464B3A80B0EFF2105630C0E48BBC6C5CA1CB651/66224.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 146,
+    "max_power": 161,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 21.184,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 7
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Seraph Mace",
+  "description": "\u003cc\u003d@flavor\u003e\"Amazingly well balanced, perfect for cracking skulls.\"\u003cbr\u003e—Aidem\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 21,
+  "rarity": "Fine",
+  "vendor_value": 24,
+  "default_skin": 3861,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30589,
+  "chat_link": "[\u0026AgF9dwAA]",
+  "icon": "https://render.guildwars2.com/file/6E350F079207B60BFBD5A54A9F14E667677E0016/66184.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 209,
+    "max_power": 235,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 44.224,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 15
+        }
+      ]
+    }
+  }
+}

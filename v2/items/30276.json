@@ -1,0 +1,53 @@
+{
+  "name": "Jofast\u0027s Mace",
+  "description": "\u003cc\u003d@flavor\u003e\"We deserve only the finest weapons.\"\u003cbr\u003e—Warmaster Jofast\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 132,
+  "default_skin": 5188,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30276,
+  "chat_link": "[\u0026AgFEdgAA]",
+  "icon": "https://render.guildwars2.com/file/DB447716F108A4EC3BEA5C3995B569D83B6DA327/62417.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 737,
+    "max_power": 831,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 279.956,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 70
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 70
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 98
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

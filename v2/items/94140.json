@@ -1,0 +1,50 @@
+{
+  "name": "Demon-Haunted Pistol",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 9650,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94140,
+  "chat_link": "[\u0026AgG8bwEA]",
+  "icon": "https://render.guildwars2.com/file/4314DA171F50E758FDAF90FAD6270DF7442166CD/2344154.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 876,
+    "max_power": 1029,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1067,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 85
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 120
+        }
+      ]
+    }
+  }
+}

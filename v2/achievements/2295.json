@@ -1,0 +1,90 @@
+{
+  "id": 2295,
+  "name": "Legendary Backpack: Ad Infinitum",
+  "description": "Unlock all 13 fractal tier 4 components to work towards building the legendary fractal backpack.",
+  "requirement": "Collect all  fractal tier 4 components.",
+  "locked_text": "Complete Ad Infinitum III, then talk to Kelvei in the Fractals of the Mists.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 73681
+    },
+    {
+      "type": "Item",
+      "id": 72794
+    },
+    {
+      "type": "Item",
+      "id": 71082
+    },
+    {
+      "type": "Item",
+      "id": 75268
+    },
+    {
+      "type": "Item",
+      "id": 70910
+    },
+    {
+      "type": "Item",
+      "id": 71444
+    },
+    {
+      "type": "Item",
+      "id": 74065
+    },
+    {
+      "type": "Item",
+      "id": 71533
+    },
+    {
+      "type": "Item",
+      "id": 76030
+    },
+    {
+      "type": "Item",
+      "id": 77141
+    },
+    {
+      "type": "Item",
+      "id": 72757
+    },
+    {
+      "type": "Item",
+      "id": 71597
+    },
+    {
+      "type": "Item",
+      "id": 75962
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 2
+    },
+    {
+      "count": 13,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 74377,
+      "count": 1
+    }
+  ]
+}

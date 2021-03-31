@@ -1,0 +1,47 @@
+{
+  "name": "Witch Doctor\u0027s Coat",
+  "description": "\u003cc\u003d@flavor\u003eBones of power lace this coat.\u003c/c\u003e",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Masterwork",
+  "vendor_value": 102,
+  "default_skin": 878,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4308,
+  "chat_link": "[\u0026AgHUEAAA]",
+  "icon": "https://render.guildwars2.com/file/F391B3D9F85529B0E1C82DC55F077D5FB4C4ED0E/61262.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 93,
+    "infusion_slots": [],
+    "attribute_adjustment": 100.827,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 35
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 25
+        }
+      ]
+    },
+    "suffix_item_id": 24739
+  }
+}

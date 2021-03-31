@@ -1,0 +1,43 @@
+{
+  "name": "Charr Harpoon",
+  "description": "",
+  "type": "Weapon",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 72,
+  "default_skin": 5185,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29992,
+  "chat_link": "[\u0026AgEodQAA]",
+  "icon": "https://render.guildwars2.com/file/3008C27A70967620BBEE6467F5E2F7966EAB6AE5/780621.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 224,
+    "max_power": 248,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 93.976,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 33
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

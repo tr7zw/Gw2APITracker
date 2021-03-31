@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Tribal Bow of Vision",
+  "type": "Weapon",
+  "level": 70,
+  "rarity": "Exotic",
+  "vendor_value": 354,
+  "default_skin": 5195,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34147,
+  "chat_link": "[\u0026AgFjhQAA]",
+  "icon": "https://render.guildwars2.com/file/A51ADB360705467301EC46B62D39BECFDEDE4810/67297.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 778,
+    "max_power": 913,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 564.96,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 141
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 141
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 198
+        }
+      ]
+    },
+    "suffix_item_id": 24600
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Ventari\u0027s Greaves",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of the famous centaur pacifist, Ventari.\u003c/c\u003e",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 240,
+  "default_skin": 114,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 66368,
+  "chat_link": "[\u0026AgFAAwEA]",
+  "icon": "https://render.guildwars2.com/file/DBEE7E93AF2FF0FAEC1CE996F52B949EC872D69C/699219.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 191,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 134.442,
+    "infix_upgrade": {
+      "id": 1026,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 47
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 34
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 34
+        }
+      ]
+    }
+  }
+}

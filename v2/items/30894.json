@@ -1,0 +1,48 @@
+{
+  "name": "Berserker\u0027s Scepter",
+  "description": "",
+  "type": "Weapon",
+  "level": 70,
+  "rarity": "Basic",
+  "vendor_value": 30,
+  "default_skin": 3866,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 30894,
+  "chat_link": "[\u0026AgGueAAA]",
+  "icon": "https://render.guildwars2.com/file/40539A620E4FF85EEE0D104BBE234E185142A2CC/66202.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 458,
+    "max_power": 517,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 169.156,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 59
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 42
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 42
+        }
+      ]
+    }
+  }
+}

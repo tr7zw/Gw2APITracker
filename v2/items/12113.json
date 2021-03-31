@@ -1,0 +1,42 @@
+{
+  "name": "Hearty Noble Mask",
+  "description": "",
+  "type": "Armor",
+  "level": 50,
+  "rarity": "Rare",
+  "vendor_value": 169,
+  "default_skin": 262,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 12113,
+  "chat_link": "[\u0026AgFRLwAA]",
+  "icon": "https://render.guildwars2.com/file/E7340208602BBE9FCBADAD2C96FC02F8F2C5501D/61443.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 46,
+    "infusion_slots": [],
+    "attribute_adjustment": 78.408,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 20
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 27
+        }
+      ]
+    }
+  }
+}

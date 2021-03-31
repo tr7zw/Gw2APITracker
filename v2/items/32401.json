@@ -1,0 +1,37 @@
+{
+  "name": "Malign Steam Brand",
+  "type": "Weapon",
+  "level": 11,
+  "rarity": "Fine",
+  "vendor_value": 16,
+  "default_skin": 5141,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 32401,
+  "chat_link": "[\u0026AgGRfgAA]",
+  "icon": "https://render.guildwars2.com/file/B9BCAA2F79C29066BBA81255E31B223B5A735B3A/68169.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 148,
+    "max_power": 173,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 24.704,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

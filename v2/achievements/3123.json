@@ -1,0 +1,42 @@
+{
+  "id": 3123,
+  "name": "\"Rising Flames\" Mastery",
+  "description": "If the volcano doesn\u0027t get you...",
+  "requirement": "Complete all  \"Rising Flames\" achievements.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 1
+    },
+    {
+      "count": 16,
+      "points": 1
+    },
+    {
+      "count": 23,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 79484,
+      "count": 1
+    }
+  ]
+}

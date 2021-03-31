@@ -1,0 +1,44 @@
+{
+  "name": "Berserker\u0027s Rascal Mask",
+  "description": "",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Fine",
+  "vendor_value": 62,
+  "default_skin": 203,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 11936,
+  "chat_link": "[\u0026AgGgLgAA]",
+  "icon": "https://render.guildwars2.com/file/466FC49E5FECC6574127F5AFA2D9B454220E52DD/61457.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 49,
+    "infusion_slots": [],
+    "attribute_adjustment": 85.216,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 30
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 21
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 21
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Gold Guild Challenger Reward",
+  "description": "Contains Gold Guild Challenger Trophy; Potions of PvP Reward; and Guild Challenger Decoration token, coin, and items that help restore your guild arena.",
+  "type": "Container",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 77495,
+  "chat_link": "[\u0026AgG3LgEA]",
+  "icon": "https://render.guildwars2.com/file/E02B120D3B6B3DD311A32DE616A12DDDE93B9DE4/1313331.png",
+  "details": {
+    "type": "Default"
+  }
+}

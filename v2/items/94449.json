@@ -1,0 +1,50 @@
+{
+  "name": "Giver\u0027s Wintergreen Focus of Chilling",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 9729,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94449,
+  "chat_link": "[\u0026AgHxcAEA]",
+  "icon": "https://render.guildwars2.com/file/EBD125052596EFD431E24E6F04D60FF41204025A/2376864.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 832,
+    "max_power": 883,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 628,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 120
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 85
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 85
+        }
+      ]
+    },
+    "suffix_item_id": 24630
+  }
+}

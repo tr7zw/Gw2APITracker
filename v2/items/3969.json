@@ -1,0 +1,46 @@
+{
+  "name": "\"Acquired\" Boots",
+  "description": "\u003cc\u003d@flavor\u003e\"Not stealing. \u0027Acquiring.\u0027\"\u003cbr\u003e—Cakilak\u0027ka\u003c/c\u003e",
+  "type": "Armor",
+  "level": 52,
+  "rarity": "Fine",
+  "vendor_value": 46,
+  "default_skin": 867,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 3969,
+  "chat_link": "[\u0026AgGBDwAA]",
+  "icon": "https://render.guildwars2.com/file/3ADF1F49A3D8EB01576DABE80C62ED51423C4A02/61556.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 77,
+    "infusion_slots": [],
+    "attribute_adjustment": 52.272,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 13
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 18
+        }
+      ]
+    }
+  }
+}

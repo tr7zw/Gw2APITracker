@@ -1,0 +1,49 @@
+{
+  "name": "Reinforced Priory Explorer\u0027s Scepter",
+  "description": "\u003cc\u003d@flavor\u003e\"The extra wrappings are for cold weather.\"\u003cbr\u003e—Scholar Tholin\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 52,
+  "rarity": "Masterwork",
+  "vendor_value": 92,
+  "default_skin": 3892,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29438,
+  "chat_link": "[\u0026AgH+cgAA]",
+  "icon": "https://render.guildwars2.com/file/2696C7FBBB99549E700204A9A11F75B0D50CEC2E/65334.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 443,
+    "max_power": 500,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 152.048,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 53
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 38
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

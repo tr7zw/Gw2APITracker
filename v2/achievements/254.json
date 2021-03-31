@@ -1,0 +1,65 @@
+{
+  "id": 254,
+  "name": "Mist Walker",
+  "description": "Very few match your prowess.",
+  "requirement": "Obtain  rank points.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 893500,
+      "points": 20
+    },
+    {
+      "count": 913500,
+      "points": 20
+    },
+    {
+      "count": 933500,
+      "points": 20
+    },
+    {
+      "count": 953500,
+      "points": 20
+    },
+    {
+      "count": 973500,
+      "points": 20
+    },
+    {
+      "count": 993500,
+      "points": 20
+    },
+    {
+      "count": 1013500,
+      "points": 20
+    },
+    {
+      "count": 1033500,
+      "points": 20
+    },
+    {
+      "count": 1053500,
+      "points": 20
+    },
+    {
+      "count": 1073500,
+      "points": 20
+    }
+  ],
+  "prerequisites": [
+    253
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 124
+    }
+  ]
+}

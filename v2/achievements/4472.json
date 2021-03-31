@@ -1,0 +1,25 @@
+{
+  "id": 4472,
+  "name": "Rolling Racer",
+  "description": "To finish first, you first have to finish.",
+  "requirement": "Complete all the normal-difficulty racing achievements to show your riding skill.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 10,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89293,
+      "count": 1
+    }
+  ]
+}

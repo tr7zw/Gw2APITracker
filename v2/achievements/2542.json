@@ -1,0 +1,66 @@
+{
+  "id": 2542,
+  "name": "Ascended Recycling",
+  "description": "",
+  "requirement": "Collect and consume  powerful items from salvaging ascended gear.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 73116
+    },
+    {
+      "type": "Item",
+      "id": 73257
+    },
+    {
+      "type": "Item",
+      "id": 74844
+    },
+    {
+      "type": "Item",
+      "id": 72946
+    },
+    {
+      "type": "Item",
+      "id": 71563
+    },
+    {
+      "type": "Item",
+      "id": 72659
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 3
+    },
+    {
+      "count": 3,
+      "points": 3
+    },
+    {
+      "count": 6,
+      "points": 4
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 72606,
+      "count": 1
+    },
+    {
+      "type": "Title",
+      "id": 225
+    }
+  ]
+}

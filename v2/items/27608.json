@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Iron Greatsword of Life",
+  "description": "",
+  "type": "Weapon",
+  "level": 77,
+  "rarity": "Rare",
+  "vendor_value": 284,
+  "default_skin": 4015,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27608,
+  "chat_link": "[\u0026AgHYawAA]",
+  "icon": "https://render.guildwars2.com/file/1EA00FDAAD23FD1B1B9C4BD6E36EB30A43E21D06/64138.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 839,
+    "max_power": 928,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 571.104,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 200
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 143
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 143
+        }
+      ]
+    },
+    "suffix_item_id": 24581
+  }
+}

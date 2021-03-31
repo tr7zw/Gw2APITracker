@@ -1,0 +1,47 @@
+{
+  "name": "Priory Explorer\u0027s Medal",
+  "description": "\u003cc\u003d@flavor\u003e\"Takes courage to come out here. Thank you.\"\u003cbr\u003e—Priory Explorer Cyara\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 56,
+  "rarity": "Masterwork",
+  "vendor_value": 123,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23460,
+  "chat_link": "[\u0026AgGkWwAA]",
+  "icon": "https://render.guildwars2.com/file/510AABA4DA240FFD6C0572975B04CDB56D5BD960/65902.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 105.06,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 26
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 26
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 37
+        }
+      ]
+    }
+  }
+}

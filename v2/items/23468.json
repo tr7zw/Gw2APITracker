@@ -1,0 +1,39 @@
+{
+  "name": "Polished Stone",
+  "description": "",
+  "type": "Trinket",
+  "level": 17,
+  "rarity": "Fine",
+  "vendor_value": 27,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23468,
+  "chat_link": "[\u0026AgGsWwAA]",
+  "icon": "https://render.guildwars2.com/file/5F6DF9FE5AC4F16CA95B6D50485896CF56546E0C/455923.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 22.28,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

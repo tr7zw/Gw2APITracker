@@ -1,0 +1,47 @@
+{
+  "name": "Survivor\u0027s Royal Barber",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 243,
+  "default_skin": 4995,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 54389,
+  "chat_link": "[\u0026AgF11AAA]",
+  "icon": "https://render.guildwars2.com/file/CC31BBF5C565BB000AF150407329610572C20C3D/61671.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 654,
+    "max_power": 723,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 429.12,
+    "infix_upgrade": {
+      "id": 1013,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 107
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 150
+        }
+      ]
+    }
+  }
+}

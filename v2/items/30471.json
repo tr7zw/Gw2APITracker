@@ -1,0 +1,49 @@
+{
+  "name": "Ascalonian Short Bow",
+  "description": "\u003cc\u003d@flavor\u003e\"The fine craftsmanship of the Ascalonians, passed down through the ages.\"\u003cbr\u003e—Kiryn Brant\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 29,
+  "rarity": "Masterwork",
+  "vendor_value": 90,
+  "default_skin": 5000,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30471,
+  "chat_link": "[\u0026AgEHdwAA]",
+  "icon": "https://render.guildwars2.com/file/4BCEF9E3C9D95E3F95EF0130F9AFE7DE680D9242/68100.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 274,
+    "max_power": 303,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 142.12,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 36
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 50
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

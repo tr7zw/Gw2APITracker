@@ -1,0 +1,50 @@
+{
+  "name": "Whisper\u0027s Secret Boots",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 1550,
+  "default_skin": 1428,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 5344,
+  "chat_link": "[\u0026AgHgFAAA]",
+  "icon": "https://render.guildwars2.com/file/0CE09136A64C05967B034AA51AF3431611229862/61339.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 139,
+    "infusion_slots": [],
+    "attribute_adjustment": 113.184,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 28
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 28
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 40
+        }
+      ]
+    }
+  }
+}

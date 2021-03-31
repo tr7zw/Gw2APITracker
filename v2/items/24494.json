@@ -1,0 +1,49 @@
+{
+  "name": "Brilliant Ruby Jewel",
+  "description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 65,
+  "rarity": "Masterwork",
+  "vendor_value": 110,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24494,
+  "chat_link": "[\u0026AgGuXwAA]",
+  "icon": "https://render.guildwars2.com/file/6A91E018C00449714D0B2E714C621C04041EBB19/220935.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "Trinket"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 404,
+      "buff": {
+        "skill_id": 150,
+        "description": "+18 Power\n+12 Ferocity\n+12 Precision"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 18
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 12
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 12
+        }
+      ]
+    },
+    "suffix": "of Ruby"
+  }
+}

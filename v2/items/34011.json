@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Aureate Mace of Ogre Slaying",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Rare",
+  "vendor_value": 126,
+  "default_skin": 5016,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34011,
+  "chat_link": "[\u0026AgHbhAAA]",
+  "icon": "https://render.guildwars2.com/file/C066CE6947F236AFE5D93E1407042157F3AEAF30/67065.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 423,
+    "max_power": 477,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 140.256,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 49
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 35
+        }
+      ]
+    },
+    "suffix_item_id": 24656
+  }
+}

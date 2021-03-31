@@ -1,0 +1,61 @@
+{
+  "name": "Keeper\u0027s Trident",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of the Forgotten Keeper of Arms.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 10000,
+  "default_skin": 4134,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 49892,
+  "chat_link": "[\u0026AgHkwgAA]",
+  "icon": "https://render.guildwars2.com/file/434F5946A9020500C2EE2E1F0F38E2CF7F0654BC/631675.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 950,
+    "max_power": 1050,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      },
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 717.024,
+    "infix_upgrade": {
+      "id": 799,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 251
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 179
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 179
+        }
+      ]
+    }
+  }
+}

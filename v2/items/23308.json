@@ -1,0 +1,39 @@
+{
+  "name": "Seraph Outrider Badge",
+  "description": "\u003cc\u003d@flavor\u003e\"Speed is your ally.\"\u003cbr\u003e—Brian\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 24,
+  "rarity": "Fine",
+  "vendor_value": 33,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23308,
+  "chat_link": "[\u0026AgEMWwAA]",
+  "icon": "https://render.guildwars2.com/file/5393A43CA27FBDE60D500102342BB21A5FC45910/455903.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 31.68,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 11
+        }
+      ]
+    }
+  }
+}

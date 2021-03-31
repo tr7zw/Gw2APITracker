@@ -1,0 +1,45 @@
+{
+  "name": "Honed Soft Wood Longbow of Smoldering",
+  "description": "",
+  "type": "Weapon",
+  "level": 57,
+  "rarity": "Masterwork",
+  "vendor_value": 147,
+  "default_skin": 3942,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28456,
+  "chat_link": "[\u0026AgEobwAA]",
+  "icon": "https://render.guildwars2.com/file/C6110F52DF5AFE0F00A56F9E143E9732176DDDE9/65015.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 502,
+    "max_power": 589,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 344.896,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 121
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 86
+        }
+      ]
+    },
+    "suffix_item_id": 24622
+  }
+}

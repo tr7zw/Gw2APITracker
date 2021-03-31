@@ -1,0 +1,28 @@
+{
+  "id": 4848,
+  "name": "Winner\u0027s Circle",
+  "description": "",
+  "requirement": "Pick the winner in the Dragon Bash moa race.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 4
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 43357,
+      "count": 3
+    }
+  ]
+}

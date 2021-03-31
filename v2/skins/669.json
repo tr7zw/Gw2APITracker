@@ -1,0 +1,30 @@
+{
+  "name": "Forgeman Helmet",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 669,
+  "icon": "https://render.guildwars2.com/file/19FA3117A556B1522A7CF9F31C0563A7B2159A04/61535.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        null,
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

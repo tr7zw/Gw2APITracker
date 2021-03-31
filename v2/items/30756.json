@@ -1,0 +1,40 @@
+{
+  "name": "Mighty Dagger",
+  "description": "",
+  "type": "Weapon",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 5,
+  "default_skin": 3871,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 30756,
+  "chat_link": "[\u0026AgEkeAAA]",
+  "icon": "https://render.guildwars2.com/file/BDAAF7437FD44F2AA7592F0A1EC5F9EEC690F635/66164.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 121,
+    "max_power": 128,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 12.168,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

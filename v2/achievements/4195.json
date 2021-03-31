@@ -1,0 +1,39 @@
+{
+  "id": 4195,
+  "icon": "https://render.guildwars2.com/file/4477BAA7620C4C3B0826E70F1843E0D9DDF4214B/1999734.png",
+  "name": "\"Long Live the Lich\" Mastery",
+  "description": "",
+  "requirement": "Complete all  \"Long Live the Lich\" achievements.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "CategoryDisplay",
+    "MoveToTop",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 7
+    },
+    {
+      "count": 10,
+      "points": 7
+    },
+    {
+      "count": 25,
+      "points": 7
+    },
+    {
+      "count": 38,
+      "points": 7
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 87704,
+      "count": 1
+    }
+  ]
+}

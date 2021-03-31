@@ -1,0 +1,44 @@
+{
+  "name": "Mending Norn Greatsword of Battle",
+  "type": "Weapon",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 167,
+  "default_skin": 5194,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25109,
+  "chat_link": "[\u0026AgEVYgAA]",
+  "icon": "https://render.guildwars2.com/file/BE4132C5E23393EFBC9558F8237245127725DF6A/575170.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 407,
+    "max_power": 450,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 226.944,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 57
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 79
+        }
+      ]
+    },
+    "suffix_item_id": 24602
+  }
+}

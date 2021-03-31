@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Glyphic Longblade of Serpent Slaying",
+  "type": "Weapon",
+  "level": 38,
+  "rarity": "Masterwork",
+  "vendor_value": 108,
+  "default_skin": 5217,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34609,
+  "chat_link": "[\u0026AgExhwAA]",
+  "icon": "https://render.guildwars2.com/file/C6283C1F74B308A632ECA2257B6EDEE53E9C03EC/62836.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 368,
+    "max_power": 407,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 200.192,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 50
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 70
+        }
+      ]
+    },
+    "suffix_item_id": 24660
+  }
+}

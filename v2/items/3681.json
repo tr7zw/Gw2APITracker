@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Savant Epaulets",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 25000,
+  "default_skin": 298,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Asura"
+  ],
+  "id": 3681,
+  "chat_link": "[\u0026AgFhDgAA]",
+  "icon": "https://render.guildwars2.com/file/E0D8B46838BFCB01305C024976F75E089F4035E3/414949.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 65,
+    "infusion_slots": [],
+    "attribute_adjustment": 113.184,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 28
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 28
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 40
+        }
+      ]
+    }
+  }
+}

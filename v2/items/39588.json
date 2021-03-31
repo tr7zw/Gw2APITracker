@@ -1,0 +1,57 @@
+{
+  "name": "Luxon Pendant",
+  "description": "\u003cc\u003d@flavor\u003eSmuggled out of Cantha long ago, a relic of the Serpent Clan.\u003cc\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 660,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 39588,
+  "chat_link": "[\u0026AgGkmgAA]",
+  "icon": "https://render.guildwars2.com/file/AD036A32C62576C726F4490DF011C516C12BA84C/543913.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Enrichment"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "infix_upgrade": {
+      "id": 658,
+      "buff": {
+        "skill_id": 17071,
+        "description": "+32 Precision\n+18 Power\n+18 Condition Damage"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 108
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 157
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 108
+        }
+      ]
+    }
+  }
+}

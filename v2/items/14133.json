@@ -1,0 +1,48 @@
+{
+  "name": "Rampager\u0027s Ogre Effigy",
+  "description": "",
+  "type": "Weapon",
+  "level": 65,
+  "rarity": "Rare",
+  "vendor_value": 165,
+  "default_skin": 3941,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 14133,
+  "chat_link": "[\u0026AgE1NwAA]",
+  "icon": "https://render.guildwars2.com/file/7329919C5953E3E894B347620A4190E993EF6022/63484.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 567,
+    "max_power": 602,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 224.136,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 56
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 78
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 56
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Improved Scout\u0027s Mask",
+  "description": "\u003cc\u003d@flavor\u003e\"Trade can never stop.\"\u003cbr\u003e—Lionguard\u003c/c\u003e",
+  "type": "Armor",
+  "level": 16,
+  "rarity": "Masterwork",
+  "vendor_value": 50,
+  "default_skin": 941,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4684,
+  "chat_link": "[\u0026AgFMEgAA]",
+  "icon": "https://render.guildwars2.com/file/40B4D696039F9E06A11BF913FF66FDFB3DD57CEA/61253.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 16,
+    "infusion_slots": [],
+    "attribute_adjustment": 18.938,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 7
+        }
+      ]
+    },
+    "suffix_item_id": 24730
+  }
+}

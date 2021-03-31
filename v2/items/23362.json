@@ -1,0 +1,43 @@
+{
+  "name": "Mining Lantern",
+  "description": "\u003cc\u003d@flavor\u003e\"These help for those really dark caves.\"\u003cbr\u003e—Adgils\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 28,
+  "rarity": "Fine",
+  "vendor_value": 37,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23362,
+  "chat_link": "[\u0026AgFCWwAA]",
+  "icon": "https://render.guildwars2.com/file/C0026CEBC6551C4113B8EFDD350DE5D1CA342341/455901.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 38.16,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 10
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 13
+        }
+      ]
+    }
+  }
+}

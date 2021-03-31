@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Glyphic Axe of Serpent Slaying",
+  "type": "Weapon",
+  "level": 38,
+  "rarity": "Masterwork",
+  "vendor_value": 72,
+  "default_skin": 5192,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34597,
+  "chat_link": "[\u0026AgElhwAA]",
+  "icon": "https://render.guildwars2.com/file/775ED24CE0C0F5749BAD66DD9778BDE4DA37AF4A/62850.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 317,
+    "max_power": 388,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 100.096,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 25
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 35
+        }
+      ]
+    },
+    "suffix_item_id": 24660
+  }
+}

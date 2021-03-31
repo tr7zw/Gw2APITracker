@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Auxiliary Powered Boots",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 1000,
+  "default_skin": 304,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Asura"
+  ],
+  "id": 3607,
+  "chat_link": "[\u0026AgEXDgAA]",
+  "icon": "https://render.guildwars2.com/file/D3E95E6762F12F3193E733A5DD2BAB0204C1B5AF/61167.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 94,
+    "infusion_slots": [],
+    "attribute_adjustment": 75.33,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 19
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 19
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 26
+        }
+      ]
+    }
+  }
+}

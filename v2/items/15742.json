@@ -1,0 +1,44 @@
+{
+  "name": "Hearty Dredge Pulverizer",
+  "description": "",
+  "type": "Weapon",
+  "level": 50,
+  "rarity": "Rare",
+  "vendor_value": 203,
+  "default_skin": 4082,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 15742,
+  "chat_link": "[\u0026AgF+PQAA]",
+  "icon": "https://render.guildwars2.com/file/710B0608D7A6A4AED05B25DA0D2B691DA2B6DCC0/574937.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 506,
+    "max_power": 570,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 313.632,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 78
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 110
+        }
+      ]
+    }
+  }
+}

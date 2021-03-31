@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Reinforced Scale Pauldrons of Infiltration",
+  "description": "",
+  "type": "Armor",
+  "level": 53,
+  "rarity": "Masterwork",
+  "vendor_value": 104,
+  "default_skin": 72,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 2287,
+  "chat_link": "[\u0026AgHvCAAA]",
+  "icon": "https://render.guildwars2.com/file/D964F8E215690405F4389E259BBD027FE6084632/61080.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "defense": 57,
+    "infusion_slots": [],
+    "attribute_adjustment": 58.4715,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 15
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 20
+        }
+      ]
+    },
+    "suffix_item_id": 24705
+  }
+}

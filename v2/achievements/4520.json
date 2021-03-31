@@ -1,0 +1,39 @@
+{
+  "id": 4520,
+  "name": "Chasing Tales: Cruelest Efficiency",
+  "description": "Baverne never hesitated to take an advantage when offered.",
+  "requirement": "Afflict 30 enemies with vulnerability while wielding a rifle.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Baverne the Hunter."
+    },
+    {
+      "type": "Text",
+      "text": "Afflicted 30 enemies with vulnerability while wielding a rifle in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89457,
+      "count": 1
+    }
+  ]
+}

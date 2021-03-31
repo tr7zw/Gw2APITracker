@@ -1,0 +1,50 @@
+{
+  "name": "Giver\u0027s Candy Cane Mace of Concentration",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 9768,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94385,
+  "chat_link": "[\u0026AgGxcAEA]",
+  "icon": "https://render.guildwars2.com/file/CDB9B6CACF3C2DB3D49F0BAF331D3A3411455644/2376886.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 895,
+    "max_power": 1010,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 628,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 120
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 85
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 85
+        }
+      ]
+    },
+    "suffix_item_id": 72339
+  }
+}

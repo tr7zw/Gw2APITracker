@@ -1,0 +1,44 @@
+{
+  "name": "Mending Shiverpeak Speargun of Grawl Slaying",
+  "type": "Weapon",
+  "level": 32,
+  "rarity": "Masterwork",
+  "vendor_value": 96,
+  "default_skin": 5058,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25500,
+  "chat_link": "[\u0026AgGcYwAA]",
+  "icon": "https://render.guildwars2.com/file/B144EAD21C1A0A030A79B6A3D5050BFB34C97BFB/534288.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 294,
+    "max_power": 324,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 160.616,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 40
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 56
+        }
+      ]
+    },
+    "suffix_item_id": 24646
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Cabalist Coat of Strength",
+  "description": "",
+  "type": "Armor",
+  "level": 51,
+  "rarity": "Masterwork",
+  "vendor_value": 135,
+  "default_skin": 51,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 380,
+  "chat_link": "[\u0026AgF8AQAA]",
+  "icon": "https://render.guildwars2.com/file/73CEB0F9515E0627321A15DA1CA4A6F3F51A4CE6/61019.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 141,
+    "infusion_slots": [],
+    "attribute_adjustment": 166.617,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 42
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 58
+        }
+      ]
+    },
+    "suffix_item_id": 24712
+  }
+}

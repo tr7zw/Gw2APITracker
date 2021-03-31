@@ -1,0 +1,42 @@
+{
+  "name": "Half-burned Candle",
+  "description": "\u003cc\u003d@flavor\u003eA spare light when caught in the dark.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 29,
+  "rarity": "Masterwork",
+  "vendor_value": 75,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23820,
+  "chat_link": "[\u0026AgEMXQAA]",
+  "icon": "https://render.guildwars2.com/file/69C93931EC7BD70797021CD93EAD1E2C185BCA3B/455969.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 44.4125,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 11
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 16
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": 2030,
+  "icon": "https://render.guildwars2.com/file/C5CE0723E54B4B2F78A2E6E5496A04B54E7A65E6/602777.png",
+  "name": "For the Children!",
+  "description": "Find the ornaments that the wicked Grawnk stole from the orphans. Completing this grants you a Wintersday Gift Tree in your home instance!",
+  "requirement": "Collect all  missing ornaments from chests throughout Tyria.",
+  "locked_text": "Use a Holiday Display Case, obtained by completing the Grawnk Munch achievement, available during Wintersday.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 68397
+    },
+    {
+      "type": "Item",
+      "id": 68398
+    },
+    {
+      "type": "Item",
+      "id": 68394
+    },
+    {
+      "type": "Item",
+      "id": 68395
+    },
+    {
+      "type": "Item",
+      "id": 68396
+    },
+    {
+      "type": "Item",
+      "id": 68400
+    }
+  ],
+  "tiers": [
+    {
+      "count": 6,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 68392,
+      "count": 1
+    },
+    {
+      "type": "Title",
+      "id": 214
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Ebon Vanguard Longbow",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 5000,
+  "default_skin": 4624,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29951,
+  "chat_link": "[\u0026AgH/dAAA]",
+  "icon": "https://render.guildwars2.com/file/C50C062D3092EE77AB131EBD3B6755080973F3C8/67563.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 573,
+    "max_power": 673,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 401.76,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 141
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 100
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 100
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

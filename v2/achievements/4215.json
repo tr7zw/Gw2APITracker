@@ -1,0 +1,28 @@
+{
+  "id": 4215,
+  "name": "[FTT 305] Proficient Dynamics—Boon Wave Level 3",
+  "description": "",
+  "requirement": "Applied / Boon Wave Level 2 Upgrades",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 8,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    4200
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 87999,
+      "count": 1
+    }
+  ]
+}

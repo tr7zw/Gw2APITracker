@@ -1,0 +1,74 @@
+{
+  "id": 1753,
+  "name": "Dungeoneer",
+  "description": "\u003cc\u003d@flavor\u003e\"The dungeon you fear to enter holds the treasure you seek.\"\u003c/c\u003e",
+  "requirement": "Collect the ascended accessories from each dungeon.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 67301
+    },
+    {
+      "type": "Item",
+      "id": 67299
+    },
+    {
+      "type": "Item",
+      "id": 67307
+    },
+    {
+      "type": "Item",
+      "id": 67306
+    },
+    {
+      "type": "Item",
+      "id": 67298
+    },
+    {
+      "type": "Item",
+      "id": 67302
+    },
+    {
+      "type": "Item",
+      "id": 67294
+    },
+    {
+      "type": "Item",
+      "id": 67295
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 3
+    },
+    {
+      "count": 4,
+      "points": 4
+    },
+    {
+      "count": 8,
+      "points": 8
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 67244,
+      "count": 1
+    },
+    {
+      "type": "Title",
+      "id": 203
+    }
+  ]
+}

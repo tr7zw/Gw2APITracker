@@ -1,0 +1,51 @@
+{
+  "name": "Forsaken Ayala\u0027s Rinblade",
+  "type": "Weapon",
+  "level": 59,
+  "rarity": "Exotic",
+  "vendor_value": 212,
+  "default_skin": 5025,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 51501,
+  "chat_link": "[\u0026AgEtyQAA]",
+  "icon": "https://render.guildwars2.com/file/CA0F9C513DDF68C304F117686B19FDE86F1B6ADA/67066.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 661,
+    "max_power": 730,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 238.4,
+    "infix_upgrade": {
+      "id": 1011,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 83
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 60
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 60
+        }
+      ]
+    }
+  }
+}

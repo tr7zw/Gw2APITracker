@@ -1,0 +1,49 @@
+{
+  "name": "Bronson\u0027s Longbow",
+  "description": "\u003cc\u003d@flavor\u003e\"I managed to salvage quite a few bowstrings from the battlefield. The wood of the bow was taken from a centaur that the Lionguard had downed.\"\u003cbr\u003e—Bronson\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 28,
+  "rarity": "Masterwork",
+  "vendor_value": 87,
+  "default_skin": 3942,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30481,
+  "chat_link": "[\u0026AgERdwAA]",
+  "icon": "https://render.guildwars2.com/file/C6110F52DF5AFE0F00A56F9E143E9732176DDDE9/65015.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 272,
+    "max_power": 320,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 135.864,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 34
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 48
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

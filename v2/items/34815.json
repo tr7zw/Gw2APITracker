@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Verdant Focus of Corruption",
+  "type": "Weapon",
+  "level": 67,
+  "rarity": "Rare",
+  "vendor_value": 168,
+  "default_skin": 5189,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34815,
+  "chat_link": "[\u0026AgH/hwAA]",
+  "icon": "https://render.guildwars2.com/file/EE72F14B09A29AFA0F999E1825BAD801471F0106/434870.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 589,
+    "max_power": 625,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 234.216,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 59
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 59
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 82
+        }
+      ]
+    },
+    "suffix_item_id": 24577
+  }
+}

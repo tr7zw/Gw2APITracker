@@ -1,0 +1,779 @@
+{
+  "id": 101,
+  "name": "Ascalon Explorer",
+  "description": "You\u0027ve explored the ancestral territory of the charr.",
+  "requirement": "Explore all areas in Ascalon.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Plains of Ashford: Cadem Forest"
+    },
+    {
+      "type": "Text",
+      "text": "Plains of Ashford: Abbey Ruins"
+    },
+    {
+      "type": "Text",
+      "text": "Plains of Ashford: Human\u0027s Lament"
+    },
+    {
+      "type": "Text",
+      "text": "Plains of Ashford: Phasmatis Corridor"
+    },
+    {
+      "type": "Text",
+      "text": "Plains of Ashford: Ascalon City Ruins"
+    },
+    {
+      "type": "Text",
+      "text": "Plains of Ashford: Lake Adorea"
+    },
+    {
+      "type": "Text",
+      "text": "Plains of Ashford: Devast District"
+    },
+    {
+      "type": "Text",
+      "text": "Plains of Ashford: Ashford Forum"
+    },
+    {
+      "type": "Text",
+      "text": "Fireheart Rise: Vexa\u0027s Lab"
+    },
+    {
+      "type": "Text",
+      "text": "Plains of Ashford: Old Duke\u0027s Estate"
+    },
+    {
+      "type": "Text",
+      "text": "Plains of Ashford: Tela Range"
+    },
+    {
+      "type": "Text",
+      "text": "Plains of Ashford: Ascalon Basin"
+    },
+    {
+      "type": "Text",
+      "text": "Plains of Ashford: Loreclaw Expanse"
+    },
+    {
+      "type": "Text",
+      "text": "Plains of Ashford: Charr\u0027s Triumph"
+    },
+    {
+      "type": "Text",
+      "text": "Plains of Ashford: Devourer\u0027s Mouth"
+    },
+    {
+      "type": "Text",
+      "text": "Plains of Ashford: Gunbreach Hills"
+    },
+    {
+      "type": "Text",
+      "text": "Plains of Ashford: Lake Feritas"
+    },
+    {
+      "type": "Text",
+      "text": "Plains of Ashford: Village of Smokestead"
+    },
+    {
+      "type": "Text",
+      "text": "Plains of Ashford: Victor\u0027s Presidium"
+    },
+    {
+      "type": "Text",
+      "text": "Plains of Ashford: Decimus Stones"
+    },
+    {
+      "type": "Text",
+      "text": "Plains of Ashford: Windrock Maze"
+    },
+    {
+      "type": "Text",
+      "text": "Plains of Ashford: Facula Castrum"
+    },
+    {
+      "type": "Text",
+      "text": "Plains of Ashford: Agnos Gorge"
+    },
+    {
+      "type": "Text",
+      "text": "Plains of Ashford: Lamia Mire"
+    },
+    {
+      "type": "Text",
+      "text": "Plains of Ashford: The Toppled Wall"
+    },
+    {
+      "type": "Text",
+      "text": "Plains of Ashford: Martyr\u0027s Woods"
+    },
+    {
+      "type": "Text",
+      "text": "Blazeridge Steppes: Tawny Ridge"
+    },
+    {
+      "type": "Text",
+      "text": "Blazeridge Steppes: Steeleye Span"
+    },
+    {
+      "type": "Text",
+      "text": "Blazeridge Steppes: Deserter Flats"
+    },
+    {
+      "type": "Text",
+      "text": "Blazeridge Steppes: Hazmagic Aggregate"
+    },
+    {
+      "type": "Text",
+      "text": "Blazeridge Steppes: Foulblain Expanse"
+    },
+    {
+      "type": "Text",
+      "text": "Blazeridge Steppes: Lowland Burns"
+    },
+    {
+      "type": "Text",
+      "text": "Blazeridge Steppes: Blightwater Basin"
+    },
+    {
+      "type": "Text",
+      "text": "Blazeridge Steppes: Tumok\u0027s Last Stand"
+    },
+    {
+      "type": "Text",
+      "text": "Blazeridge Steppes: Pockmark Roughs"
+    },
+    {
+      "type": "Text",
+      "text": "Blazeridge Steppes: Crater Rim"
+    },
+    {
+      "type": "Text",
+      "text": "Blazeridge Steppes: InGenium Research Facility"
+    },
+    {
+      "type": "Text",
+      "text": "Blazeridge Steppes: Behem Gauntlet"
+    },
+    {
+      "type": "Text",
+      "text": "Blazeridge Steppes: Unbroken Expanse"
+    },
+    {
+      "type": "Text",
+      "text": "Blazeridge Steppes: Gastor Gullet"
+    },
+    {
+      "type": "Text",
+      "text": "Blazeridge Steppes: Degun Shun"
+    },
+    {
+      "type": "Text",
+      "text": "Blazeridge Steppes: Agrak Kraal"
+    },
+    {
+      "type": "Text",
+      "text": "Blazeridge Steppes: Twin Sisters Crossing"
+    },
+    {
+      "type": "Text",
+      "text": "Blazeridge Steppes: Splinter Hills"
+    },
+    {
+      "type": "Text",
+      "text": "Blazeridge Steppes: Soot Road"
+    },
+    {
+      "type": "Text",
+      "text": "Blazeridge Steppes: Tongue Rock"
+    },
+    {
+      "type": "Text",
+      "text": "Blazeridge Steppes: Terra Combusta"
+    },
+    {
+      "type": "Text",
+      "text": "Blazeridge Steppes: Terra Carorunda"
+    },
+    {
+      "type": "Text",
+      "text": "Blazeridge Steppes: Shattered Palisades"
+    },
+    {
+      "type": "Text",
+      "text": "Blazeridge Steppes: Monument Grounds"
+    },
+    {
+      "type": "Text",
+      "text": "Blazeridge Steppes: Heretic Plain"
+    },
+    {
+      "type": "Text",
+      "text": "Blazeridge Steppes: Kindling Bridge"
+    },
+    {
+      "type": "Text",
+      "text": "Blazeridge Steppes: Dragonwatch"
+    },
+    {
+      "type": "Text",
+      "text": "Blazeridge Steppes: Ratcatcher Knoll"
+    },
+    {
+      "type": "Text",
+      "text": "Blazeridge Steppes: Relliatus Canyon"
+    },
+    {
+      "type": "Text",
+      "text": "Black Citadel: Haunted Nolani"
+    },
+    {
+      "type": "Text",
+      "text": "Black Citadel: The Bane"
+    },
+    {
+      "type": "Text",
+      "text": "Black Citadel: Iron Legion Arsenal"
+    },
+    {
+      "type": "Text",
+      "text": ""
+    },
+    {
+      "type": "Text",
+      "text": ""
+    },
+    {
+      "type": "Text",
+      "text": ""
+    },
+    {
+      "type": "Text",
+      "text": "Black Citadel: Ruins of Rin"
+    },
+    {
+      "type": "Text",
+      "text": "Black Citadel: Mustering Ground"
+    },
+    {
+      "type": "Text",
+      "text": "Black Citadel: Canton Factorium"
+    },
+    {
+      "type": "Text",
+      "text": ""
+    },
+    {
+      "type": "Text",
+      "text": "Black Citadel: Great Imperial Smelter"
+    },
+    {
+      "type": "Text",
+      "text": "Black Citadel: Ligacus Aquilo"
+    },
+    {
+      "type": "Text",
+      "text": "Black Citadel: Hero\u0027s Canton (Home)"
+    },
+    {
+      "type": "Text",
+      "text": ""
+    },
+    {
+      "type": "Text",
+      "text": "Black Citadel: Junker\u0027s Scrapyard"
+    },
+    {
+      "type": "Text",
+      "text": "Black Citadel: Ligacus Notos"
+    },
+    {
+      "type": "Text",
+      "text": "Black Citadel: Perimeter Loop"
+    },
+    {
+      "type": "Text",
+      "text": "Black Citadel: War Wagon Prep Deck"
+    },
+    {
+      "type": "Text",
+      "text": "Black Citadel: Memorial Quadrant"
+    },
+    {
+      "type": "Text",
+      "text": ""
+    },
+    {
+      "type": "Text",
+      "text": "Black Citadel: Praetor\u0027s Canton"
+    },
+    {
+      "type": "Text",
+      "text": "Black Citadel: Gladium Canton"
+    },
+    {
+      "type": "Text",
+      "text": "Black Citadel: Imperator\u0027s Core"
+    },
+    {
+      "type": "Text",
+      "text": "Fireheart Rise: Burnt Hollow"
+    },
+    {
+      "type": "Text",
+      "text": "Fireheart Rise: Liberation Dell"
+    },
+    {
+      "type": "Text",
+      "text": "Fireheart Rise: Fuller Cistern"
+    },
+    {
+      "type": "Text",
+      "text": "Fireheart Rise: Forge Plains"
+    },
+    {
+      "type": "Text",
+      "text": "Fireheart Rise: Switchback Canyons"
+    },
+    {
+      "type": "Text",
+      "text": "Fireheart Rise: Havoc Steppes"
+    },
+    {
+      "type": "Text",
+      "text": "Fireheart Rise: Amduat Point"
+    },
+    {
+      "type": "Text",
+      "text": "Fireheart Rise: The Baelfire"
+    },
+    {
+      "type": "Text",
+      "text": "Fireheart Rise: Simurgh Timberland"
+    },
+    {
+      "type": "Text",
+      "text": "Fireheart Rise: Sweltering Canyons"
+    },
+    {
+      "type": "Text",
+      "text": ""
+    },
+    {
+      "type": "Text",
+      "text": "Fireheart Rise: Apostate Wastes"
+    },
+    {
+      "type": "Text",
+      "text": "Fireheart Rise: Keeper\u0027s Sanctum"
+    },
+    {
+      "type": "Text",
+      "text": "Fireheart Rise: Rebel\u0027s Seclusion"
+    },
+    {
+      "type": "Text",
+      "text": "Fireheart Rise: Onager Bivouac"
+    },
+    {
+      "type": "Text",
+      "text": "Fireheart Rise: Buloh Crossing"
+    },
+    {
+      "type": "Text",
+      "text": "Fireheart Rise: The Toughstone"
+    },
+    {
+      "type": "Text",
+      "text": "Fireheart Rise: Cozen Desolation"
+    },
+    {
+      "type": "Text",
+      "text": "Black Citadel: Nolani Academy Ruins"
+    },
+    {
+      "type": "Text",
+      "text": "Fireheart Rise: Sati Passage"
+    },
+    {
+      "type": "Text",
+      "text": "Fireheart Rise: Mangonel Cavern"
+    },
+    {
+      "type": "Text",
+      "text": "Fireheart Rise: Icespear\u0027s Shelf"
+    },
+    {
+      "type": "Text",
+      "text": "Fireheart Rise: Highland Thaw"
+    },
+    {
+      "type": "Text",
+      "text": "Fireheart Rise: Sloven Pitch"
+    },
+    {
+      "type": "Text",
+      "text": "Fireheart Rise: Pig Iron Mine"
+    },
+    {
+      "type": "Text",
+      "text": "Fireheart Rise: Rustbowl"
+    },
+    {
+      "type": "Text",
+      "text": "Iron Marches: Obsidian Run"
+    },
+    {
+      "type": "Text",
+      "text": "Iron Marches: Lake Desolann"
+    },
+    {
+      "type": "Text",
+      "text": "Iron Marches: Crystalwept Groves"
+    },
+    {
+      "type": "Text",
+      "text": "Iron Marches: Southshore Wastes"
+    },
+    {
+      "type": "Text",
+      "text": "Iron Marches: Scorchlands"
+    },
+    {
+      "type": "Text",
+      "text": "Iron Marches: Soldier Mesa"
+    },
+    {
+      "type": "Text",
+      "text": "Iron Marches: The Granite Front"
+    },
+    {
+      "type": "Text",
+      "text": "Iron Marches: Viper\u0027s Run"
+    },
+    {
+      "type": "Text",
+      "text": "Iron Marches: Monger\u0027s Sink"
+    },
+    {
+      "type": "Text",
+      "text": "Iron Marches: Glory\u0027s Steps"
+    },
+    {
+      "type": "Text",
+      "text": "Iron Marches: Harvester\u0027s Glade"
+    },
+    {
+      "type": "Text",
+      "text": "Iron Marches: The Infestation"
+    },
+    {
+      "type": "Text",
+      "text": "Iron Marches: Ebbing Heart Run"
+    },
+    {
+      "type": "Text",
+      "text": "Iron Marches: Gladefall Run"
+    },
+    {
+      "type": "Text",
+      "text": "Iron Marches: Lake Carnifex"
+    },
+    {
+      "type": "Text",
+      "text": "Iron Marches: Victium Moors"
+    },
+    {
+      "type": "Text",
+      "text": "Iron Marches: Stonesheath Overlook"
+    },
+    {
+      "type": "Text",
+      "text": "Iron Marches: Hellion Forest"
+    },
+    {
+      "type": "Text",
+      "text": "Iron Marches: Western Bulwark"
+    },
+    {
+      "type": "Text",
+      "text": "Iron Marches: Echoslab Arches"
+    },
+    {
+      "type": "Text",
+      "text": "Iron Marches: Ironhead Lake"
+    },
+    {
+      "type": "Text",
+      "text": "Iron Marches: Bloodfin Lake"
+    },
+    {
+      "type": "Text",
+      "text": "Iron Marches: Champion\u0027s Shield"
+    },
+    {
+      "type": "Text",
+      "text": "Iron Marches: Sunken Halls of Clarent"
+    },
+    {
+      "type": "Text",
+      "text": "Iron Marches: Lamprey Grottoes"
+    },
+    {
+      "type": "Text",
+      "text": "Iron Marches: Scourgejaw\u0027s Vault"
+    },
+    {
+      "type": "Text",
+      "text": "Fields of Ruin: Bento Canyon"
+    },
+    {
+      "type": "Text",
+      "text": "Fields of Ruin: Tanglerot Hills"
+    },
+    {
+      "type": "Text",
+      "text": "Fields of Ruin: Dragonrot Domains"
+    },
+    {
+      "type": "Text",
+      "text": "Fields of Ruin: Tenaebron Lake"
+    },
+    {
+      "type": "Text",
+      "text": "Fields of Ruin: Belag Crossroads"
+    },
+    {
+      "type": "Text",
+      "text": "Fields of Ruin: Warrior\u0027s Crown"
+    },
+    {
+      "type": "Text",
+      "text": "Fields of Ruin: Hunter\u0027s Gorge"
+    },
+    {
+      "type": "Text",
+      "text": "Fields of Ruin: Halkor Meadows"
+    },
+    {
+      "type": "Text",
+      "text": "Fields of Ruin: Mithric Cliffs"
+    },
+    {
+      "type": "Text",
+      "text": "Fields of Ruin: Stronghold of Ebonhawke"
+    },
+    {
+      "type": "Text",
+      "text": "Fields of Ruin: The Siege Plains"
+    },
+    {
+      "type": "Text",
+      "text": "Fields of Ruin: Secluded Glen"
+    },
+    {
+      "type": "Text",
+      "text": "Fields of Ruin: Flameroot Caverns"
+    },
+    {
+      "type": "Text",
+      "text": "Fields of Ruin: The Ogre Road"
+    },
+    {
+      "type": "Text",
+      "text": "Fields of Ruin: Vulture\u0027s Sweep"
+    },
+    {
+      "type": "Text",
+      "text": "Fields of Ruin: Last Stand Shelter"
+    },
+    {
+      "type": "Text",
+      "text": "Fields of Ruin: Axedrag Cut"
+    },
+    {
+      "type": "Text",
+      "text": "Fields of Ruin: Varim\u0027s Run"
+    },
+    {
+      "type": "Text",
+      "text": "Fields of Ruin: Gillfarn Plains"
+    },
+    {
+      "type": "Text",
+      "text": "Fields of Ruin: Wildlin Narrows"
+    },
+    {
+      "type": "Text",
+      "text": "Fields of Ruin: Blackwing Excavation"
+    },
+    {
+      "type": "Text",
+      "text": "Fields of Ruin: Thunderbreak Hills"
+    },
+    {
+      "type": "Text",
+      "text": "Fields of Ruin: Highden Caves"
+    },
+    {
+      "type": "Text",
+      "text": "Fields of Ruin: Hautclaire Vale"
+    },
+    {
+      "type": "Text",
+      "text": "Fields of Ruin: Grimm Hills"
+    },
+    {
+      "type": "Text",
+      "text": "Fields of Ruin: Sniper\u0027s Woods"
+    },
+    {
+      "type": "Text",
+      "text": ""
+    },
+    {
+      "type": "Text",
+      "text": "Diessa Plateau: The Blasted Moors"
+    },
+    {
+      "type": "Text",
+      "text": "Diessa Plateau: Freewain Pastures"
+    },
+    {
+      "type": "Text",
+      "text": "Diessa Plateau: Rancher\u0027s Wash"
+    },
+    {
+      "type": "Text",
+      "text": "Diessa Plateau: Reaper\u0027s Corridor"
+    },
+    {
+      "type": "Text",
+      "text": "Diessa Plateau: Bulliyak Arsenal"
+    },
+    {
+      "type": "Text",
+      "text": "Diessa Plateau: Oldgate Clearing"
+    },
+    {
+      "type": "Text",
+      "text": "Diessa Plateau: Burrows of Moledavia"
+    },
+    {
+      "type": "Text",
+      "text": "Diessa Plateau: Nemus Groves"
+    },
+    {
+      "type": "Text",
+      "text": "Diessa Plateau: Sanctum Way"
+    },
+    {
+      "type": "Text",
+      "text": "Diessa Plateau: Incendio Templum"
+    },
+    {
+      "type": "Text",
+      "text": "Diessa Plateau: Holystone Caves"
+    },
+    {
+      "type": "Text",
+      "text": "Diessa Plateau: The Wurm\u0027s Gullet"
+    },
+    {
+      "type": "Text",
+      "text": "Diessa Plateau: Town of Nolan"
+    },
+    {
+      "type": "Text",
+      "text": "Diessa Plateau: Blackblade Lake"
+    },
+    {
+      "type": "Text",
+      "text": "Diessa Plateau: Gram Hills"
+    },
+    {
+      "type": "Text",
+      "text": "Diessa Plateau: Village of Butcher\u0027s Block"
+    },
+    {
+      "type": "Text",
+      "text": "Diessa Plateau: Manbane\u0027s Outcrop"
+    },
+    {
+      "type": "Text",
+      "text": "Diessa Plateau: Bloodcliff Quarry"
+    },
+    {
+      "type": "Text",
+      "text": "Diessa Plateau: Breachwater Lake"
+    },
+    {
+      "type": "Text",
+      "text": "Diessa Plateau: Town of Nageling"
+    },
+    {
+      "type": "Text",
+      "text": "Diessa Plateau: Noxin Dells"
+    },
+    {
+      "type": "Text",
+      "text": "Diessa Plateau: Ruins of Oldgate"
+    },
+    {
+      "type": "Text",
+      "text": "Diessa Plateau: Wodron Glens"
+    },
+    {
+      "type": "Text",
+      "text": "Diessa Plateau: The Breached Wall"
+    },
+    {
+      "type": "Text",
+      "text": "Diessa Plateau: Arcovian Foothills"
+    },
+    {
+      "type": "Text",
+      "text": "Diessa Plateau: Halrunting Plains"
+    },
+    {
+      "type": "Text",
+      "text": "Diessa Plateau: Spider Nest Cavern"
+    },
+    {
+      "type": "Text",
+      "text": "Diessa Plateau: Flame Temple Tombs"
+    },
+    {
+      "type": "Text",
+      "text": "Plains of Ashford: Langmar Estate"
+    },
+    {
+      "type": "Text",
+      "text": ""
+    }
+  ],
+  "tiers": [
+    {
+      "count": 50,
+      "points": 5
+    },
+    {
+      "count": 100,
+      "points": 5
+    },
+    {
+      "count": 150,
+      "points": 5
+    },
+    {
+      "count": 177,
+      "points": 10
+    }
+  ]
+}

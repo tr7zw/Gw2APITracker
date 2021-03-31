@@ -1,0 +1,41 @@
+{
+  "name": "Ravaging Glyphic Rifle",
+  "type": "Weapon",
+  "level": 26,
+  "rarity": "Fine",
+  "vendor_value": 42,
+  "default_skin": 5033,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 34311,
+  "chat_link": "[\u0026AgEHhgAA]",
+  "icon": "https://render.guildwars2.com/file/50113CEAABC198949852AE1979C1B9F6E000AA4B/63882.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 255,
+    "max_power": 311,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 109.952,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 27
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 38
+        }
+      ]
+    }
+  }
+}

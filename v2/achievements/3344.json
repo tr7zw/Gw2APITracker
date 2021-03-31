@@ -1,0 +1,24 @@
+{
+  "id": 3344,
+  "name": "A Fly in the Ointment",
+  "description": "Welcome to the party, pal.",
+  "requirement": "Interfere with the White Mantle in Fort Evennia 10 times without fleeing or getting caught.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 180
+    }
+  ]
+}

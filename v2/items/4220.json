@@ -1,0 +1,42 @@
+{
+  "name": "Stonefall Garb",
+  "description": "\u003cc\u003d@flavor\u003e\"Protection against falling rocks. And anything else, for that matter.\"\u003cbr\u003e—Rak Deathmane\u003c/c\u003e",
+  "type": "Armor",
+  "level": 20,
+  "rarity": "Fine",
+  "vendor_value": 36,
+  "default_skin": 863,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4220,
+  "chat_link": "[\u0026AgF8EAAA]",
+  "icon": "https://render.guildwars2.com/file/1EA708F67B9901A55B9F5B3AA36EA00EBAAD50F9/61245.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 54,
+    "infusion_slots": [],
+    "attribute_adjustment": 47.376,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 17
+        }
+      ]
+    }
+  }
+}

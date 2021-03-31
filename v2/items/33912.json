@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Krytan Warhorn of the Hydromancer",
+  "type": "Weapon",
+  "level": 56,
+  "rarity": "Masterwork",
+  "vendor_value": 98,
+  "default_skin": 5001,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33912,
+  "chat_link": "[\u0026AgF4hAAA]",
+  "icon": "https://render.guildwars2.com/file/5E27306C1273E90D736AB0EEDC4D570BDD62BA4F/68099.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 436,
+    "max_power": 482,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 168.096,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 59
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 42
+        }
+      ]
+    },
+    "suffix_item_id": 24595
+  }
+}

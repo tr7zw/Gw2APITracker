@@ -1,0 +1,50 @@
+{
+  "name": "Rally Greaves",
+  "description": "\u003cc\u003d@flavor\u003e\"By the time most soldiers get here, they need a new pair.\"\u003cbr\u003e—Arcanist Repth\u003c/c\u003e",
+  "type": "Armor",
+  "level": 74,
+  "rarity": "Fine",
+  "vendor_value": 61,
+  "default_skin": 912,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4448,
+  "chat_link": "[\u0026AgFgEQAA]",
+  "icon": "https://render.guildwars2.com/file/A9ABC29D5DFBD1FA4E0E2401AFB50DD930099806/61268.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 123,
+    "infusion_slots": [],
+    "attribute_adjustment": 86.4,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 22
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 22
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 30
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Broken Destroyer Trap",
+  "description": "\u003cc\u003d@flavor\u003e\"Destroyers came; we were ready.\"\u003cbr\u003e—Bordekka\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 19,
+  "rarity": "Masterwork",
+  "vendor_value": 58,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23911,
+  "chat_link": "[\u0026AgFnXQAA]",
+  "icon": "https://render.guildwars2.com/file/D9C8AAED4B80010B809E465D90E81634D62EEF16/63137.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 27.965,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 10
+        }
+      ]
+    }
+  }
+}

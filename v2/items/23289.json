@@ -1,0 +1,41 @@
+{
+  "name": "Penetrating ring",
+  "type": "Trinket",
+  "level": 46,
+  "rarity": "Masterwork",
+  "vendor_value": 126,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23289,
+  "chat_link": "[\u0026AgH5WgAA]",
+  "icon": "https://render.guildwars2.com/file/E043C90604B37D68B90319185F1D6F0301913AC3/66795.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [],
+    "attribute_adjustment": 96.441,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 34
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 24
+        }
+      ]
+    },
+    "suffix_item_id": 24877
+  }
+}

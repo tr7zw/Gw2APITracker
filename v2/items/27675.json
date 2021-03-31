@@ -1,0 +1,45 @@
+{
+  "name": "Strong Soft Wood Staff of Agony",
+  "description": "",
+  "type": "Weapon",
+  "level": 44,
+  "rarity": "Masterwork",
+  "vendor_value": 120,
+  "default_skin": 4067,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27675,
+  "chat_link": "[\u0026AgEbbAAA]",
+  "icon": "https://render.guildwars2.com/file/04BE267A42B12DB00F0162639702BDEFC90F4A5D/62880.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 412,
+    "max_power": 464,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 242.352,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 85
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 61
+        }
+      ]
+    },
+    "suffix_item_id": 24610
+  }
+}

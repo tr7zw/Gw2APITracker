@@ -1,0 +1,43 @@
+{
+  "name": "Charr Shield",
+  "description": "",
+  "type": "Weapon",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 48,
+  "default_skin": 5102,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29998,
+  "chat_link": "[\u0026AgEudQAA]",
+  "icon": "https://render.guildwars2.com/file/FADA685852160FA4D0EBEDC346663CE4439B45AB/67285.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 200,
+    "max_power": 225,
+    "defense": 12,
+    "infusion_slots": [],
+    "attribute_adjustment": 46.988,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 16
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

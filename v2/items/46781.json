@@ -1,0 +1,61 @@
+{
+  "name": "Coalforge\u0027s Claymore",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of the ancient weaponsmith Balthor Coalforge.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 10000,
+  "default_skin": 4222,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 46781,
+  "chat_link": "[\u0026AgG9tgAA]",
+  "icon": "https://render.guildwars2.com/file/C0F8D1770E9DAA0D5EFB2B0DCF23CBEFD5EA2E0F/631709.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 1045,
+    "max_power": 1155,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      },
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 717.024,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 179
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 251
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 179
+        }
+      ]
+    }
+  }
+}

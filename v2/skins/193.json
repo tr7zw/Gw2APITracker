@@ -1,0 +1,30 @@
+{
+  "name": "Rascal Boots",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 193,
+  "icon": "https://render.guildwars2.com/file/781B5EFE0F08C9A8BAC0FE3F9ECA9D591C1BD2AC/63241.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        null,
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

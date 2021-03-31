@@ -1,0 +1,66 @@
+{
+  "id": 2585,
+  "name": "Mistward Warfists",
+  "description": "",
+  "requirement": "Collect all  items and skins to forge your Mistward Warfists.",
+  "locked_text": "Complete the Devastation revenant specialization to unlock the Mistward Warfists collection.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 240
+    },
+    {
+      "type": "Skin",
+      "id": 245
+    },
+    {
+      "type": "Skin",
+      "id": 241
+    },
+    {
+      "type": "Skin",
+      "id": 246
+    },
+    {
+      "type": "Item",
+      "id": 71090
+    },
+    {
+      "type": "Item",
+      "id": 73674
+    },
+    {
+      "type": "Item",
+      "id": 76656
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 72220,
+      "count": 1
+    }
+  ]
+}

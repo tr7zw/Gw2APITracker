@@ -1,0 +1,47 @@
+{
+  "name": "Slayer\u0027s Leggings",
+  "description": "",
+  "type": "Armor",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 126,
+  "default_skin": 5,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 63702,
+  "chat_link": "[\u0026AgHW+AAA]",
+  "icon": "https://render.guildwars2.com/file/5AEBD46A0ACC3C3CE1EBB60F0445322D14049171/61348.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Medium",
+    "defense": 96,
+    "infusion_slots": [],
+    "attribute_adjustment": 108.171,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 38
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 27
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 27
+        }
+      ]
+    }
+  }
+}

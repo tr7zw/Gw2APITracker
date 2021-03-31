@@ -1,0 +1,54 @@
+{
+  "name": "Keeper\u0027s Striders",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of the Forgotten Keeper of Armor.\u003c/c\u003e",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 240,
+  "default_skin": 117,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 49617,
+  "chat_link": "[\u0026AgHRwQAA]",
+  "icon": "https://render.guildwars2.com/file/33BC7FAC99DD9F5E68DFEAED70AC3145DBA707B0/699207.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 165,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 134.442,
+    "infix_upgrade": {
+      "id": 799,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 47
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 34
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 34
+        }
+      ]
+    }
+  }
+}

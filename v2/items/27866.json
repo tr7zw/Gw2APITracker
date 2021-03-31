@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Iron Hammer of Hobbling",
+  "description": "",
+  "type": "Weapon",
+  "level": 71,
+  "rarity": "Masterwork",
+  "vendor_value": 177,
+  "default_skin": 4060,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27866,
+  "chat_link": "[\u0026AgHabAAA]",
+  "icon": "https://render.guildwars2.com/file/2F4509F15B48B1A9F1579D08539F4109972A31A4/65162.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 696,
+    "max_power": 784,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 470.696,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 165
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 118
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 118
+        }
+      ]
+    },
+    "suffix_item_id": 24625
+  }
+}

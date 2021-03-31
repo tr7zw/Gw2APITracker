@@ -1,0 +1,43 @@
+{
+  "name": "Strong Reinforced Scale Helm of Scavenging",
+  "description": "",
+  "type": "Armor",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 113,
+  "default_skin": 101,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 1752,
+  "chat_link": "[\u0026AgHYBgAA]",
+  "icon": "https://render.guildwars2.com/file/6F30FEDA2B1405EEB10426E1200522E29D7C3ECB/61064.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 53,
+    "infusion_slots": [],
+    "attribute_adjustment": 72.114,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 25
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 18
+        }
+      ]
+    },
+    "suffix_item_id": 24736
+  }
+}

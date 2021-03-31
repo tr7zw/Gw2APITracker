@@ -1,0 +1,40 @@
+{
+  "name": "Scale Gauntlets",
+  "description": "",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 8,
+  "default_skin": 240,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6284,
+  "chat_link": "[\u0026AgGMGAAA]",
+  "icon": "https://render.guildwars2.com/file/160771D67E2320C267E2C944A92B980C38163A38/63236.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 18,
+    "infusion_slots": [],
+    "attribute_adjustment": 5.328,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 2
+        }
+      ]
+    }
+  }
+}

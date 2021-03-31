@@ -1,0 +1,45 @@
+{
+  "name": "Honed Iron Shield of Energy",
+  "description": "",
+  "type": "Weapon",
+  "level": 40,
+  "rarity": "Rare",
+  "vendor_value": 114,
+  "default_skin": 4012,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26804,
+  "chat_link": "[\u0026AgG0aAAA]",
+  "icon": "https://render.guildwars2.com/file/222F72EDEC31ACB7BC439499F4DD4AA4A94A6C48/65373.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 336,
+    "max_power": 379,
+    "defense": 23,
+    "infusion_slots": [],
+    "attribute_adjustment": 117.144,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 41
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 29
+        }
+      ]
+    },
+    "suffix_item_id": 24606
+  }
+}

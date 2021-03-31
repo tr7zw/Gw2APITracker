@@ -1,0 +1,29 @@
+{
+  "name": "Blood Legion Reward Box",
+  "description": "Double-click to open.\nContains 50 Dragonite Ore, 50 Empyreal Fragments, 2 Mystic Clovers, 8 Obsidian Shards, and a choice of valuable items from the Blood Legion.",
+  "type": "Container",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 93485,
+  "chat_link": "[\u0026AgEtbQEA]",
+  "icon": "https://render.guildwars2.com/file/3172EBBB98687244F06F0BF85DA4D10790E5EC74/2292710.png",
+  "details": {
+    "type": "Default"
+  }
+}

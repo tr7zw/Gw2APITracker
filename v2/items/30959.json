@@ -1,0 +1,44 @@
+{
+  "name": "Strong Warhorn",
+  "description": "",
+  "type": "Weapon",
+  "level": 55,
+  "rarity": "Basic",
+  "vendor_value": 24,
+  "default_skin": 3859,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 30959,
+  "chat_link": "[\u0026AgHveAAA]",
+  "icon": "https://render.guildwars2.com/file/F464B3A80B0EFF2105630C0E48BBC6C5CA1CB651/66224.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 314,
+    "max_power": 348,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 119.236,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 42
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 30
+        }
+      ]
+    }
+  }
+}

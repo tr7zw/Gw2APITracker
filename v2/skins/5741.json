@@ -1,0 +1,89 @@
+{
+  "name": "Carapace Greaves",
+  "description": "Obtained from lost bandit chests in the Silverwastes. Extra pieces can be purchased with bandit crests once a boot requisition order is obtained.",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 5741,
+  "icon": "https://render.guildwars2.com/file/F2A40407A792730E56B6C554034BFFA4089292E4/904646.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "dye_slots": {
+      "default": [
+        null,
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "metal"
+        }
+      ],
+      "overrides": {
+        "HumanFemale": [
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          {
+            "color_id": -1,
+            "material": "metal"
+          },
+          {
+            "color_id": -1,
+            "material": "metal"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          }
+        ],
+        "NornFemale": [
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          {
+            "color_id": -1,
+            "material": "metal"
+          },
+          {
+            "color_id": -1,
+            "material": "metal"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          }
+        ],
+        "SylvariFemale": [
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          {
+            "color_id": -1,
+            "material": "metal"
+          },
+          {
+            "color_id": -1,
+            "material": "metal"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          }
+        ]
+      }
+    }
+  }
+}

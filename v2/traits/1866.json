@@ -1,0 +1,38 @@
+{
+  "id": 1866,
+  "tier": 3,
+  "order": 1,
+  "name": "Illusionary Inspiration",
+  "description": "Summoning an illusion heals all allies around you.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Healing",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "value": 212,
+      "target": "Healing"
+    },
+    {
+      "text": "Healing",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "value": 106,
+      "target": "Healing"
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 300
+    }
+  ],
+  "specialization": 23,
+  "icon": "https://render.guildwars2.com/file/A2B419927562110402010EEF084BF953905D54E5/1012529.png"
+}

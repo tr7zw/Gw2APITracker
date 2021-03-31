@@ -1,0 +1,48 @@
+{
+  "name": "Legionnaire Staff",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Exotic",
+  "vendor_value": 318,
+  "default_skin": 5126,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32315,
+  "chat_link": "[\u0026AgE7fgAA]",
+  "icon": "https://render.guildwars2.com/file/0DD4BB14C17C485F1B4793E8A2EDD740BB06F61C/67675.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 719,
+    "max_power": 811,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 476.8,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 119
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 119
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 167
+        }
+      ]
+    },
+    "suffix_item_id": 24570
+  }
+}

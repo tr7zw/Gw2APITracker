@@ -1,0 +1,43 @@
+{
+  "name": "Harathi Warhorn",
+  "type": "Weapon",
+  "level": 23,
+  "rarity": "Fine",
+  "vendor_value": 26,
+  "default_skin": 4587,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30401,
+  "chat_link": "[\u0026AgHBdgAA]",
+  "icon": "https://render.guildwars2.com/file/30D9AB0EC478A2FD2177E8B2BF4CABD09DB63DCB/67731.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 198,
+    "max_power": 219,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 48.512,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 17
+        }
+      ]
+    }
+  }
+}

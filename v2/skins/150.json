@@ -1,0 +1,33 @@
+{
+  "name": "Feathered Pants",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 150,
+  "icon": "https://render.guildwars2.com/file/2C10104F2A0D2CFB1D9DE7121ABC04729EB50AF7/61470.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Light",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

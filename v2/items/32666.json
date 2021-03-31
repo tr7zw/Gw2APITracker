@@ -1,0 +1,40 @@
+{
+  "name": "Malign Steam Hammer of Agony",
+  "type": "Weapon",
+  "level": 14,
+  "rarity": "Masterwork",
+  "vendor_value": 57,
+  "default_skin": 5206,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32666,
+  "chat_link": "[\u0026AgGafwAA]",
+  "icon": "https://render.guildwars2.com/file/310EB4F1063C3D03F702AE0A9CD4509617DC183B/60987.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 213,
+    "max_power": 240,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 67.456,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 24
+        }
+      ]
+    },
+    "suffix_item_id": 24610
+  }
+}

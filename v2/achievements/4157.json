@@ -1,0 +1,80 @@
+{
+  "id": 4157,
+  "name": "For Ravious",
+  "description": "Part of the family.",
+  "requirement": "Find Ravious\u0027s lost rats around Lion\u0027s Arch.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Find the lost rat in the Farshore Ward."
+    },
+    {
+      "type": "Text",
+      "text": "Find the lost rat in the Bloodcoast Ward."
+    },
+    {
+      "type": "Text",
+      "text": "Find the lost rat in Sanctum Harbor."
+    },
+    {
+      "type": "Text",
+      "text": "Find the lost rat in the Western Ward."
+    },
+    {
+      "type": "Text",
+      "text": "Find the lost rat in Commodore\u0027s Quarter."
+    },
+    {
+      "type": "Text",
+      "text": "Find the lost rat in the Trader\u0027s Forum."
+    },
+    {
+      "type": "Text",
+      "text": "Find the lost rat in the Grand Piazza."
+    },
+    {
+      "type": "Text",
+      "text": "Find the lost rat in the Eastern Ward."
+    },
+    {
+      "type": "Text",
+      "text": "Find the lost rat in the Postern Ward."
+    },
+    {
+      "type": "Text",
+      "text": "Return to Ravious in Hooligan\u0027s Route after finding all of his missing rats."
+    },
+    {
+      "type": "Text",
+      "text": "You spoke to Ravious and accepted his request to find his nine missing rats."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 10,
+      "points": 0
+    },
+    {
+      "count": 11,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 36460,
+      "count": 1
+    }
+  ]
+}

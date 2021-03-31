@@ -1,0 +1,38 @@
+{
+  "name": "Healing Green Wood Warhorn",
+  "description": "",
+  "type": "Weapon",
+  "level": 15,
+  "rarity": "Fine",
+  "vendor_value": 20,
+  "default_skin": 3898,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 14244,
+  "chat_link": "[\u0026AgGkNwAA]",
+  "icon": "https://render.guildwars2.com/file/5A0593B5164DE87591029323F7D90775D716001D/65530.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 166,
+    "max_power": 183,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 31.744,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 11
+        }
+      ]
+    }
+  }
+}

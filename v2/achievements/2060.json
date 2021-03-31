@@ -1,0 +1,30 @@
+{
+  "id": 2060,
+  "name": "Point of No Return",
+  "description": "Journal: \"Point of No Return\" Completed",
+  "requirement": "Survive an enemy assault and race to find Caithe.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "MoveToTop",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 68505,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Tyria",
+      "id": 275
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Orrian Trinket",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 165,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23292,
+  "chat_link": "[\u0026AgH8WgAA]",
+  "icon": "https://render.guildwars2.com/file/7857F64D1D299E6350B0FEB4F67B639A4F13926D/66439.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 174.973,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 61
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 44
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 44
+        }
+      ]
+    }
+  }
+}

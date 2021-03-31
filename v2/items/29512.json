@@ -1,0 +1,48 @@
+{
+  "name": "Dostoev Hammer",
+  "description": "\u003cc\u003d@flavor\u003e\"Though known for their use of sonic weapons, dredge sometimes rely on less sophisticated weaponry.\"\u003cbr\u003e—Priory Field Guide to Dredge\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Fine",
+  "vendor_value": 63,
+  "default_skin": 4060,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29512,
+  "chat_link": "[\u0026AgFIcwAA]",
+  "icon": "https://render.guildwars2.com/file/2F4509F15B48B1A9F1579D08539F4109972A31A4/65162.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 395,
+    "max_power": 445,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 234.624,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 59
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 82
+        }
+      ]
+    }
+  }
+}

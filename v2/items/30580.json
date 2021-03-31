@@ -1,0 +1,45 @@
+{
+  "name": "Terebinth Staff",
+  "description": "\u003cc\u003d@flavor\u003e\"Whack somebody with this, and they\u0027ll remember it...when they wake up\"\u003cbr\u003e—Leigheara\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 17,
+  "rarity": "Masterwork",
+  "vendor_value": 63,
+  "default_skin": 3872,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30580,
+  "chat_link": "[\u0026AgF0dwAA]",
+  "icon": "https://render.guildwars2.com/file/FA1C40555C74D2BAAED3729F7B2560F517E2171A/66214.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 228,
+    "max_power": 257,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 80.376,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 28
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

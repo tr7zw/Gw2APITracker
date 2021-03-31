@@ -1,0 +1,42 @@
+{
+  "name": "Glyph of Overload",
+  "description": "Double-click to apply this to a gathering tool.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92953,
+  "chat_link": "[\u0026AgEZawEA]",
+  "icon": "https://render.guildwars2.com/file/B05A41DEB31164EBC835CA1562366D02512EB1FA/2261377.png",
+  "details": {
+    "type": "Default",
+    "flags": [],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 1603,
+      "buff": {
+        "skill_id": 59516,
+        "description": "Applies the Overload special action skill when fully charged, which grants +100% chance of extra gathering strikes while charges are available. Gather from resource nodes to build charges. Harvesting nodes consume additional charges."
+      },
+      "attributes": []
+    },
+    "suffix": "of Overload"
+  }
+}

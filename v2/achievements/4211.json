@@ -1,0 +1,28 @@
+{
+  "id": 4211,
+  "name": "[FTT 407] Advanced Dynamics—Gravimetric Tunneling Field Oscillator Level 4",
+  "description": "",
+  "requirement": "Applied / Gravimetric Tunneling Field Oscillator Level 3 Upgrades",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 6,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    4257
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 87617,
+      "count": 1
+    }
+  ]
+}

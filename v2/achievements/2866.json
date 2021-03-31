@@ -1,0 +1,43 @@
+{
+  "id": 2866,
+  "icon": "https://render.guildwars2.com/file/B3DA5159BA6318466403EA14A47F0760633C48C5/630734.png",
+  "name": "Study Aids",
+  "description": "",
+  "requirement": "Use each of the power-ups in Super Adventure Box once.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Daily"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Invisibility"
+    },
+    {
+      "type": "Text",
+      "text": "Speed Boost"
+    },
+    {
+      "type": "Text",
+      "text": "Invincibility"
+    },
+    {
+      "type": "Text",
+      "text": "Damage Boost"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 4,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 39752,
+      "count": 16
+    }
+  ]
+}

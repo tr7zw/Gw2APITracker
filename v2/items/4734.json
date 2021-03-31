@@ -1,0 +1,47 @@
+{
+  "name": "Bronson\u0027s Leather Leggings",
+  "description": "\u003cc\u003d@flavor\u003e\"Equipment from Bronson\u0027s hand-picked armory, guaranteed to help in the fight against the centaurs.\"\u003cbr\u003e—Bronson\u003c/c\u003e",
+  "type": "Armor",
+  "level": 28,
+  "rarity": "Masterwork",
+  "vendor_value": 82,
+  "default_skin": 873,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4734,
+  "chat_link": "[\u0026AgF+EgAA]",
+  "icon": "https://render.guildwars2.com/file/CD30B04F5B3E7417BFAD0208B3BED9295A010B59/61050.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Medium",
+    "defense": 53,
+    "infusion_slots": [],
+    "attribute_adjustment": 50.949,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 18
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 13
+        }
+      ]
+    },
+    "suffix_item_id": 24730
+  }
+}

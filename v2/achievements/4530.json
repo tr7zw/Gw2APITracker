@@ -1,0 +1,39 @@
+{
+  "id": 4530,
+  "name": "Chasing Tales: Peerless Archer",
+  "description": "Some believe Azra never missed a single shot.",
+  "requirement": "Defeat 30 enemies while wielding a longbow in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Azra the Sunslayer."
+    },
+    {
+      "type": "Text",
+      "text": "Defeated 30 enemies with a longbow in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89778,
+      "count": 1
+    }
+  ]
+}

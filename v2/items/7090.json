@@ -1,0 +1,49 @@
+{
+  "name": "Soldier\u0027s Chainmail Gauntlets",
+  "description": "",
+  "type": "Armor",
+  "level": 65,
+  "rarity": "Masterwork",
+  "vendor_value": 477,
+  "default_skin": 20,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 7090,
+  "chat_link": "[\u0026AgGyGwAA]",
+  "icon": "https://render.guildwars2.com/file/1E1768B71B5422D87870D76A3BBA185A41AFEF4C/61100.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 111,
+    "infusion_slots": [],
+    "attribute_adjustment": 77.622,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 27
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 19
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 19
+        }
+      ]
+    }
+  }
+}

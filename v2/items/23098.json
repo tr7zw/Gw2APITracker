@@ -1,0 +1,44 @@
+{
+  "name": "Sapphire Pendant",
+  "description": "Wisdom comes with experience, not age.",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 528,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23098,
+  "chat_link": "[\u0026AgE6WgAA]",
+  "icon": "https://render.guildwars2.com/file/2F110FE312A1FB3D094C0DF330211C2654A20EDD/222400.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 120
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 85
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 85
+        }
+      ]
+    }
+  }
+}

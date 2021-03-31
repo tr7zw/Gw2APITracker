@@ -1,0 +1,42 @@
+{
+  "name": "Primeval Pauldrons",
+  "description": "",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "default_skin": 1093,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 20285,
+  "chat_link": "[\u0026AgE9TwAA]",
+  "icon": "https://render.guildwars2.com/file/541E71DE3F54F5341720D4EBF9ADD767F406F3BB/625779.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "defense": 12,
+    "infusion_slots": [],
+    "attribute_adjustment": 5.346,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Aureate Warhammer of Earth",
+  "type": "Weapon",
+  "level": 53,
+  "rarity": "Rare",
+  "vendor_value": 212,
+  "default_skin": 5024,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34003,
+  "chat_link": "[\u0026AgHThAAA]",
+  "icon": "https://render.guildwars2.com/file/D804F663EC0D3E4B95485443106656EA9304E536/67681.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 537,
+    "max_power": 605,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 338.544,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 118
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 85
+        }
+      ]
+    },
+    "suffix_item_id": 24559
+  }
+}

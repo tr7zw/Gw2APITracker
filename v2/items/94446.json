@@ -1,0 +1,50 @@
+{
+  "name": "Bringer\u0027s Sparkling Wrapped Hammer",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 9770,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94446,
+  "chat_link": "[\u0026AgHucAEA]",
+  "icon": "https://render.guildwars2.com/file/080A332D7B3A20F85F12BF08A9B4187A7DF60FC5/2376883.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 985,
+    "max_power": 1111,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 1032,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 171
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 171
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 239
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Centurion\u0027s Tactical Rifle",
+  "description": "\u003cc\u003d@flavor\u003e\"This is what makes us different. We provide long range covering fire, surpressing the enemy so our mortar teams are exponentially more effective.\"\u003cbr\u003e—Centurion Truthbringer\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 53,
+  "rarity": "Masterwork",
+  "vendor_value": 141,
+  "default_skin": 5099,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30067,
+  "chat_link": "[\u0026AgFzdQAA]",
+  "icon": "https://render.guildwars2.com/file/935CD7A5037BB9F3C46E0D770D2DD9730ED74A18/62495.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 498,
+    "max_power": 608,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 311.848,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 78
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 109
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

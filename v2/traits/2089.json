@@ -1,0 +1,301 @@
+{
+  "id": 2089,
+  "tier": 1,
+  "order": 0,
+  "name": "Purity of Word",
+  "description": "Gain knowledge of Elonian lore, igniting a fierce drive to purge corruption and manifesting your \u003cc\u003d@abilitytype\u003eVirtues\u003c/c\u003e as mystic tomes. Gain access to \u003cc\u003d@abilitytype\u003eMantras\u003c/c\u003e.",
+  "slot": "Minor",
+  "skills": [
+    {
+      "name": "Tome of Justice",
+      "facts": [
+        {
+          "text": "Recharge",
+          "type": "Recharge",
+          "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+          "value": 30
+        },
+        {
+          "text": "Pages",
+          "type": "Number",
+          "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+          "value": 5
+        },
+        {
+          "text": "Apply Buff/Condition",
+          "type": "Buff",
+          "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+          "duration": 4,
+          "status": "Burning",
+          "description": "Deals damage every second; stacks intensity.",
+          "apply_count": 1
+        },
+        {
+          "text": "Apply Buff/Condition",
+          "type": "Buff",
+          "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+          "duration": 2,
+          "status": "Burning",
+          "description": "Deals damage every second; stacks intensity.",
+          "apply_count": 1
+        },
+        {
+          "text": "Attacks to Trigger Passive",
+          "type": "Number",
+          "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+          "value": 5
+        }
+      ],
+      "description": "Virtue: Burn foes every few attacks.\nActivate: Pull forth a magical tome on the dangers of the blazing heat in Kourna.\nEach tome skill use consumes a page.",
+      "icon": "https://render.guildwars2.com/file/2710AF269B38A4A365089BC7B3C9389B354DE59D/1770472.png",
+      "flags": [],
+      "id": 44364,
+      "chat_link": "[\u0026BkytAAA\u003d]",
+      "categories": [
+        "Virtue"
+      ],
+      "traited_facts": [
+        {
+          "text": "Pages",
+          "type": "Number",
+          "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+          "value": 8,
+          "requires_trait": 2086,
+          "overrides": 1
+        },
+        {
+          "text": "Apply Buff/Condition",
+          "type": "Buff",
+          "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+          "duration": 5,
+          "status": "Burning",
+          "description": "Deals damage every second; stacks intensity.",
+          "apply_count": 1,
+          "requires_trait": 1686,
+          "overrides": 2
+        },
+        {
+          "text": "Apply Buff/Condition",
+          "type": "Buff",
+          "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+          "duration": 2,
+          "status": "Burning",
+          "description": "Deals damage every second; stacks intensity.",
+          "apply_count": 1,
+          "requires_trait": 1686,
+          "overrides": 3
+        },
+        {
+          "text": "Attacks to Trigger Passive",
+          "type": "Number",
+          "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+          "value": 3,
+          "requires_trait": 622,
+          "overrides": 4
+        },
+        {
+          "text": "Apply Buff/Condition",
+          "type": "Buff",
+          "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+          "duration": 5,
+          "status": "Might",
+          "description": "Increased outgoing damage; stacks intensity.",
+          "apply_count": 3,
+          "requires_trait": 621
+        },
+        {
+          "text": "Apply Buff/Condition",
+          "type": "Buff",
+          "icon": "https://render.guildwars2.com/file/27F233F7D4CE4E9EFE040E3D665B7B0643557B6E/102883.png",
+          "duration": 3,
+          "status": "Retaliation",
+          "description": "Reflect incoming damage back to its source; stacks duration.",
+          "apply_count": 1,
+          "requires_trait": 604
+        },
+        {
+          "text": "Blast Radius",
+          "type": "Number",
+          "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+          "value": 240,
+          "requires_trait": 622
+        }
+      ]
+    },
+    {
+      "name": "Tome of Resolve",
+      "facts": [
+        {
+          "text": "Recharge",
+          "type": "Recharge",
+          "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+          "value": 50
+        },
+        {
+          "text": "Pages",
+          "type": "Number",
+          "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+          "value": 5
+        },
+        {
+          "text": "Apply Buff/Condition",
+          "type": "Buff",
+          "icon": "https://render.guildwars2.com/file/E206770FD62BB63B71F56209F34BF99392BADF9E/1770478.png",
+          "duration": 0,
+          "status": "Tome of Resolve",
+          "description": "Regenerate health.",
+          "apply_count": 1
+        }
+      ],
+      "description": "Virtue: Regenerate health.\nActivate: Draw forth an enchanted tome that recounts the trials undergone by the people of Vabbi.\nEach tome skill use consumes a page.",
+      "icon": "https://render.guildwars2.com/file/E206770FD62BB63B71F56209F34BF99392BADF9E/1770478.png",
+      "flags": [],
+      "id": 41780,
+      "chat_link": "[\u0026BjSjAAA\u003d]",
+      "categories": [
+        "Virtue"
+      ],
+      "traited_facts": [
+        {
+          "text": "Pages",
+          "type": "Number",
+          "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+          "value": 8,
+          "requires_trait": 2086,
+          "overrides": 1
+        },
+        {
+          "text": "Apply Buff/Condition",
+          "type": "Buff",
+          "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+          "duration": 5,
+          "status": "Regeneration",
+          "description": "Gain health every second; stacks duration.",
+          "apply_count": 1,
+          "requires_trait": 621
+        },
+        {
+          "text": "Apply Buff/Condition",
+          "type": "Buff",
+          "icon": "https://render.guildwars2.com/file/27F233F7D4CE4E9EFE040E3D665B7B0643557B6E/102883.png",
+          "duration": 3,
+          "status": "Retaliation",
+          "description": "Reflect incoming damage back to its source; stacks duration.",
+          "apply_count": 1,
+          "requires_trait": 604
+        },
+        {
+          "text": "Conditions Removed",
+          "type": "Number",
+          "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+          "value": 3,
+          "requires_trait": 610
+        },
+        {
+          "text": "Radius",
+          "type": "Distance",
+          "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+          "distance": 600,
+          "requires_trait": 610
+        }
+      ]
+    },
+    {
+      "name": "Tome of Courage",
+      "facts": [
+        {
+          "text": "Recharge",
+          "type": "Recharge",
+          "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+          "value": 75
+        },
+        {
+          "text": "Pages",
+          "type": "Number",
+          "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+          "value": 5
+        },
+        {
+          "text": "Apply Buff/Condition",
+          "type": "Buff",
+          "icon": "https://render.guildwars2.com/file/DFB4D1B50AE4D6A275B349E15B179261EE3EB0AF/102854.png",
+          "duration": 0,
+          "status": "Aegis",
+          "description": "Block the next incoming attack; stacks duration.",
+          "apply_count": 1
+        },
+        {
+          "text": "Time to Trigger Passive",
+          "type": "Time",
+          "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+          "duration": 40
+        }
+      ],
+      "description": "Virtue: Gain aegis periodically. \nActivate:Conjure a mystic tome containing stories about the heroes of Istan.\nEach tome skill use consumes a page.",
+      "icon": "https://render.guildwars2.com/file/49B3D2E829962602205B09619770E1650BF07108/1770466.png",
+      "flags": [],
+      "id": 42259,
+      "chat_link": "[\u0026BhOlAAA\u003d]",
+      "categories": [
+        "Virtue"
+      ],
+      "traited_facts": [
+        {
+          "text": "Pages",
+          "type": "Number",
+          "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+          "value": 8,
+          "requires_trait": 2086,
+          "overrides": 1
+        },
+        {
+          "text": "Time to Trigger Passive",
+          "type": "Time",
+          "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+          "duration": 30,
+          "requires_trait": 612,
+          "overrides": 3
+        },
+        {
+          "text": "Apply Buff/Condition",
+          "type": "Buff",
+          "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+          "duration": 5,
+          "status": "Protection",
+          "description": "Incoming damage decreased by 33%; stacks duration.",
+          "apply_count": 1,
+          "requires_trait": 621
+        },
+        {
+          "text": "Apply Buff/Condition",
+          "type": "Buff",
+          "icon": "https://render.guildwars2.com/file/27F233F7D4CE4E9EFE040E3D665B7B0643557B6E/102883.png",
+          "duration": 3,
+          "status": "Retaliation",
+          "description": "Reflect incoming damage back to its source; stacks duration.",
+          "apply_count": 1,
+          "requires_trait": 604
+        },
+        {
+          "text": "Apply Buff/Condition",
+          "type": "Buff",
+          "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+          "duration": 4,
+          "status": "Stability",
+          "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
+          "apply_count": 3,
+          "requires_trait": 612
+        },
+        {
+          "text": "Radius",
+          "type": "Distance",
+          "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+          "distance": 600,
+          "requires_trait": 612
+        }
+      ]
+    }
+  ],
+  "specialization": 62,
+  "icon": "https://render.guildwars2.com/file/CC360DF028353A0C1AD09D97FA2CDF1D6D0AABA8/1769948.png"
+}

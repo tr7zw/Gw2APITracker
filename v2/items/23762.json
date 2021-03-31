@@ -1,0 +1,43 @@
+{
+  "name": "Frog in a Jar",
+  "description": "\u003cc\u003d@flavor\u003eThe frog contained in the vessel is resting. Holes poked in the top ensure the frog will have plenty of air.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 45,
+  "rarity": "Fine",
+  "vendor_value": 52,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23762,
+  "chat_link": "[\u0026AgHSXAAA]",
+  "icon": "https://render.guildwars2.com/file/0B26F0BB696D5628214C1C72B3C8C4F8E44FC3C0/455960.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 71.28,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 18
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 25
+        }
+      ]
+    }
+  }
+}

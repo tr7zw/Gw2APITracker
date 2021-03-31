@@ -1,0 +1,57 @@
+{
+  "id": 5188,
+  "name": "Minis of Steel",
+  "description": "",
+  "requirement": "Acquire all 5 of the Steel Warband minis.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Minipet",
+      "id": 806
+    },
+    {
+      "type": "Minipet",
+      "id": 809
+    },
+    {
+      "type": "Minipet",
+      "id": 807
+    },
+    {
+      "type": "Minipet",
+      "id": 805
+    },
+    {
+      "type": "Minipet",
+      "id": 808
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    }
+  ]
+}

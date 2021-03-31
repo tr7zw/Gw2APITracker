@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Verdant Dagger of Battle",
+  "type": "Weapon",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 111,
+  "default_skin": 5101,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34752,
+  "chat_link": "[\u0026AgHAhwAA]",
+  "icon": "https://render.guildwars2.com/file/0CCF0C91DAAB7E30D3D31A0A2F3C7EF3BAA74398/434562.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 378,
+    "max_power": 401,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 113.472,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 28
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 40
+        }
+      ]
+    },
+    "suffix_item_id": 24602
+  }
+}

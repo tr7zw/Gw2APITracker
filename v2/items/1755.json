@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Worn Scale Helm of the Pack",
+  "description": "",
+  "type": "Armor",
+  "level": 39,
+  "rarity": "Masterwork",
+  "vendor_value": 93,
+  "default_skin": 99,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 1755,
+  "chat_link": "[\u0026AgHbBgAA]",
+  "icon": "https://render.guildwars2.com/file/D8E21AB5F2F4FEEBC112E95B5C0C9406F725422E/61063.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 40,
+    "infusion_slots": [],
+    "attribute_adjustment": 51.816,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 13
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 18
+        }
+      ]
+    },
+    "suffix_item_id": 24700
+  }
+}

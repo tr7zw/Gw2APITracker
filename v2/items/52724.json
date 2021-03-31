@@ -1,0 +1,47 @@
+{
+  "name": "Deserter\u0027s Serrated Fate",
+  "type": "Weapon",
+  "level": 26,
+  "rarity": "Masterwork",
+  "vendor_value": 60,
+  "default_skin": 5225,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 52724,
+  "chat_link": "[\u0026AgH0zQAA]",
+  "icon": "https://render.guildwars2.com/file/07C80D35A4D00331B203B60D04F390BC09680523/66756.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 280,
+    "max_power": 297,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 71.06,
+    "infix_upgrade": {
+      "id": 1014,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 18
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 25
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Fine Caer Axe",
+  "description": "\u003cc\u003d@flavor\u003e\"We sharpen these blades once we get them for use against the undead.\"\u003cbr\u003e—Priory Explorer Cyara\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 58,
+  "rarity": "Masterwork",
+  "vendor_value": 100,
+  "default_skin": 3962,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29420,
+  "chat_link": "[\u0026AgHscgAA]",
+  "icon": "https://render.guildwars2.com/file/C8EAC643C02F41B918D79031B6060B0CBFE40CAD/64967.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 477,
+    "max_power": 583,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 176.732,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 44
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 44
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 62
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

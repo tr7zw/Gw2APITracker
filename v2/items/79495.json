@@ -1,0 +1,48 @@
+{
+  "name": "Aqueous Amulet",
+  "description": "\u003cc\u003d@flavor\u003eThis amulet appears to have a minor dampening effect on the Destroyers, and it is always strangely cool to the touch.\n—Researcher Twilli\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 396,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 79495,
+  "chat_link": "[\u0026AgGHNgEA]",
+  "icon": "https://render.guildwars2.com/file/C70E60E30C997CF0777E6B49383E5128B5C15817/222392.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 301.824,
+    "infix_upgrade": {
+      "id": 700,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 106
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 75
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 75
+        }
+      ]
+    }
+  }
+}

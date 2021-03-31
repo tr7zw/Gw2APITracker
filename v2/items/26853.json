@@ -1,0 +1,49 @@
+{
+  "name": "Rampager\u0027s Soft Wood Warhorn of Agony",
+  "description": "",
+  "type": "Weapon",
+  "level": 79,
+  "rarity": "Exotic",
+  "vendor_value": 260,
+  "default_skin": 3907,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26853,
+  "chat_link": "[\u0026AgHlaAAA]",
+  "icon": "https://render.guildwars2.com/file/5A0593B5164DE87591029323F7D90775D716001D/65530.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 802,
+    "max_power": 886,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 335.36,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 84
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 117
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 84
+        }
+      ]
+    },
+    "suffix_item_id": 24612
+  }
+}

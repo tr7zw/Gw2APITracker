@@ -1,0 +1,44 @@
+{
+  "name": "Shaman\u0027s Reinforced Scale Helm",
+  "description": "",
+  "type": "Armor",
+  "level": 69,
+  "rarity": "Fine",
+  "vendor_value": 73,
+  "default_skin": 101,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 1711,
+  "chat_link": "[\u0026AgGvBgAA]",
+  "icon": "https://render.guildwars2.com/file/6F30FEDA2B1405EEB10426E1200522E29D7C3ECB/61064.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 74,
+    "infusion_slots": [],
+    "attribute_adjustment": 104.096,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 36
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 26
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 26
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Red Bean Cake",
+  "type": "Consumable",
+  "level": 33,
+  "rarity": "Basic",
+  "vendor_value": 9,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 8575,
+  "chat_link": "[\u0026AgF/IQAA]",
+  "icon": "https://render.guildwars2.com/file/D4F83B2022E963E20E9C98DECBF691172F6A93A8/63079.png",
+  "details": {
+    "type": "Food",
+    "duration_ms": 600000,
+    "apply_count": 1,
+    "name": "Nourishment",
+    "icon": "https://render.guildwars2.com/file/779D3F0ABE5B46C09CFC57374DA8CC3A495F291C/436367.png",
+    "description": "+50 Vitality\n+40 Toughness\n+10% Experience from Kills"
+  }
+}

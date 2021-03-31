@@ -1,0 +1,49 @@
+{
+  "name": "Nightmare Court Gloves",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 238,
+  "default_skin": 689,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 18590,
+  "chat_link": "[\u0026AgGeSAAA]",
+  "icon": "https://render.guildwars2.com/file/34A506B9EB2B1F1E0DB49ECA0368D0A86242C4A0/61474.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 133,
+    "infusion_slots": [],
+    "attribute_adjustment": 128.04,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 32
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 32
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 45
+        }
+      ]
+    },
+    "suffix_item_id": 24848
+  }
+}

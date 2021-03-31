@@ -1,0 +1,33 @@
+{
+  "name": "Gladiator Helm",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 259,
+  "icon": "https://render.guildwars2.com/file/3B50937F62A523EEA40BD876F51BEEFA4811E46A/61529.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

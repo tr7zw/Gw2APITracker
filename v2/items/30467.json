@@ -1,0 +1,49 @@
+{
+  "name": "Gladiator\u0027s Greatsword",
+  "description": "\u003cc\u003d@flavor\u003e\"Vollym himself used to dual wield two of these at a time.\"\u003cbr\u003e—Johan\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 26,
+  "rarity": "Masterwork",
+  "vendor_value": 84,
+  "default_skin": 4015,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30467,
+  "chat_link": "[\u0026AgEDdwAA]",
+  "icon": "https://render.guildwars2.com/file/1EA00FDAAD23FD1B1B9C4BD6E36EB30A43E21D06/64138.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 280,
+    "max_power": 310,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 123.488,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 31
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 43
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

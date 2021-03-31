@@ -1,0 +1,33 @@
+{
+  "id": 5277,
+  "name": "Special Mission: Swatting Mosquitos",
+  "description": "",
+  "requirement": "Destroy  Dominion choppers over the village, lighthouse, fortress, or port locations.",
+  "locked_text": "Unlock by using Flame Legion Special Mission Documents.",
+  "type": "Default",
+  "flags": [
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 10,
+      "points": 0
+    },
+    {
+      "count": 20,
+      "points": 0
+    },
+    {
+      "count": 30,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 93496,
+      "count": 150
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Hatchet",
+  "description": "\u003cc\u003d@flavor\u003e\"It chops wood, meat, and grawl.\"\u003cbr\u003e—Hune\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 27,
+  "rarity": "Masterwork",
+  "vendor_value": 56,
+  "default_skin": 5159,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29473,
+  "chat_link": "[\u0026AgEhcwAA]",
+  "icon": "https://render.guildwars2.com/file/1B9503F466E464B34620340FEC65CFE7BBC69231/534278.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 248,
+    "max_power": 303,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 64.872,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 16
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 23
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

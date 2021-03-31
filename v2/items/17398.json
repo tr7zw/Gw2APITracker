@@ -1,0 +1,51 @@
+{
+  "name": "Dark Asuran Mace",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 4379,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 17398,
+  "chat_link": "[\u0026AgH2QwAA]",
+  "icon": "https://render.guildwars2.com/file/716A0C0413B21707A24B43DFCC3D309162A10CF0/455727.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 895,
+    "max_power": 1010,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 85
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 85
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 120
+        }
+      ]
+    },
+    "suffix_item_id": 24684
+  }
+}

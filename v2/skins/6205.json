@@ -1,0 +1,30 @@
+{
+  "name": "Bladed Boots",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 6205,
+  "icon": "https://render.guildwars2.com/file/A67824637DB343A615E4B8D3EFFCBEEE05AC5076/1223621.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        null,
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

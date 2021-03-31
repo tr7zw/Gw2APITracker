@@ -1,0 +1,47 @@
+{
+  "name": "First Haven Leather Gloves",
+  "description": "\u003cc\u003d@flavor\u003e\"Excellent quality First Haven handwear.\"\u003cbr\u003e—Clerk Ulva\u003c/c\u003e",
+  "type": "Armor",
+  "level": 26,
+  "rarity": "Masterwork",
+  "vendor_value": 51,
+  "default_skin": 908,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4732,
+  "chat_link": "[\u0026AgF8EgAA]",
+  "icon": "https://render.guildwars2.com/file/CC4C6AF2CD591F48C0655460F657EE52CA4A6CBA/61040.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 36,
+    "infusion_slots": [],
+    "attribute_adjustment": 23.154,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 8
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 6
+        }
+      ]
+    },
+    "suffix_item_id": 24730
+  }
+}

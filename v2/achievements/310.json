@@ -1,0 +1,39 @@
+{
+  "id": 310,
+  "name": "Walls Get in the Way",
+  "description": "Supply camps are impenetrable fortresses with you around.",
+  "requirement": "Defend  supply camps.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 60,
+      "points": 5
+    },
+    {
+      "count": 125,
+      "points": 10
+    },
+    {
+      "count": 250,
+      "points": 15
+    },
+    {
+      "count": 500,
+      "points": 25
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 49
+    }
+  ]
+}

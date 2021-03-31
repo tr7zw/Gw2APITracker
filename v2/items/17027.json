@@ -1,0 +1,47 @@
+{
+  "name": "Carrion Privateer Boots",
+  "type": "Armor",
+  "level": 65,
+  "rarity": "Rare",
+  "vendor_value": 165,
+  "default_skin": 75,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 17027,
+  "chat_link": "[\u0026AgGDQgAA]",
+  "icon": "https://render.guildwars2.com/file/AE01341F9C5DC77201C50D2E220D52AC96FCEDFF/61041.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 104,
+    "infusion_slots": [],
+    "attribute_adjustment": 84.051,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 21
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 21
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 29
+        }
+      ]
+    }
+  }
+}

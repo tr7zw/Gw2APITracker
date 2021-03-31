@@ -1,0 +1,45 @@
+{
+  "name": "Hearty Soft Wood Staff of the Geomancer",
+  "description": "",
+  "type": "Weapon",
+  "level": 58,
+  "rarity": "Masterwork",
+  "vendor_value": 150,
+  "default_skin": 4067,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27692,
+  "chat_link": "[\u0026AgEsbAAA]",
+  "icon": "https://render.guildwars2.com/file/04BE267A42B12DB00F0162639702BDEFC90F4A5D/62880.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 548,
+    "max_power": 618,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 353.464,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 88
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 124
+        }
+      ]
+    },
+    "suffix_item_id": 24603
+  }
+}

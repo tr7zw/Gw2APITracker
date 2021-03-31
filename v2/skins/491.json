@@ -1,0 +1,51 @@
+{
+  "name": "Evergreen Gloves",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [
+    "Sylvari"
+  ],
+  "rarity": "Basic",
+  "id": 491,
+  "icon": "https://render.guildwars2.com/file/0BF9B42606AF326F380B9AFBE73109BFAB72D87B/433406.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        null
+      ],
+      "overrides": {
+        "SylvariMale": [
+          null,
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Gemmed Circlet",
+  "description": "",
+  "type": "Armor",
+  "level": 13,
+  "rarity": "Fine",
+  "vendor_value": 23,
+  "default_skin": 171,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6309,
+  "chat_link": "[\u0026AgGlGAAA]",
+  "icon": "https://render.guildwars2.com/file/9A12D620C162AAD56F48C6B52ED902A86EE93C93/61409.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 10,
+    "infusion_slots": [],
+    "attribute_adjustment": 14.112,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 5
+        }
+      ]
+    }
+  }
+}

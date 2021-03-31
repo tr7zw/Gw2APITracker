@@ -1,0 +1,45 @@
+{
+  "name": "Strong Iron Spear of Debility",
+  "description": "",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Rare",
+  "vendor_value": 189,
+  "default_skin": 4000,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28771,
+  "chat_link": "[\u0026AgFjcAAA]",
+  "icon": "https://render.guildwars2.com/file/9AC302D1031B5C31806D0703FBC1944C01D4A240/561998.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 427,
+    "max_power": 472,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 280.512,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 98
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 70
+        }
+      ]
+    },
+    "suffix_item_id": 24635
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": 3577,
+  "icon": "https://render.guildwars2.com/file/3FB1AE472DF109D022146F26B0F420140BFC26FE/1824200.png",
+  "name": "Gate of Good-Byes",
+  "description": "",
+  "requirement": "Collect all of the weapon pieces and then forge them together in the fires of a dwarven furnace.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 84551
+    },
+    {
+      "type": "Item",
+      "id": 84526
+    },
+    {
+      "type": "Item",
+      "id": 82462
+    },
+    {
+      "type": "Item",
+      "id": 82275
+    },
+    {
+      "type": "Item",
+      "id": 83723
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 83761,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Rampager\u0027s Krait Battleaxe",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 198,
+  "default_skin": 4052,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 15427,
+  "chat_link": "[\u0026AgFDPAAA]",
+  "icon": "https://render.guildwars2.com/file/D176C4A464A920E469BB0D5B125F3342746CFB74/574990.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 759,
+    "max_power": 928,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 301.824,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 75
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 106
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 75
+        }
+      ]
+    }
+  }
+}

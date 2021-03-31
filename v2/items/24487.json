@@ -1,0 +1,45 @@
+{
+  "name": "Gilded Lapis Jewel",
+  "description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 35,
+  "rarity": "Masterwork",
+  "vendor_value": 68,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24487,
+  "chat_link": "[\u0026AgGnXwAA]",
+  "icon": "https://render.guildwars2.com/file/06FAC6AF31CF52920CCDE5641AA30DB4D26D087C/220929.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "Trinket"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 388,
+      "buff": {
+        "skill_id": 182,
+        "description": "+9 Vitality\n+7 Toughness"
+      },
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 7
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 9
+        }
+      ]
+    },
+    "suffix": "of Lapis"
+  }
+}

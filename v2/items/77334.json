@@ -1,0 +1,30 @@
+{
+  "name": "Mini Vale Guardian",
+  "description": "Double-click to summon this mini to follow you around. Only one mini may be in use at a time.",
+  "type": "MiniPet",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 50,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 77334,
+  "chat_link": "[\u0026AgEWLgEA]",
+  "icon": "https://render.guildwars2.com/file/1CCB9B3880B062465F9F5834F04739289AF27BBA/1301792.png",
+  "details": {
+    "minipet_id": 368
+  }
+}

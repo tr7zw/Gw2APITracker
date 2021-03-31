@@ -1,0 +1,37 @@
+{
+  "name": "Pearl Copper Amulet",
+  "description": "",
+  "type": "Trinket",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 96,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 13362,
+  "chat_link": "[\u0026AgEyNAAA]",
+  "icon": "https://render.guildwars2.com/file/37CAB869081423B1F04E191F07E54E1CFD0B64AD/340166.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 46.988,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 16
+        }
+      ]
+    },
+    "suffix_item_id": 24536
+  }
+}

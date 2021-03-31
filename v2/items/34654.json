@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Glyphic Staff of Smoldering",
+  "type": "Weapon",
+  "level": 44,
+  "rarity": "Masterwork",
+  "vendor_value": 120,
+  "default_skin": 5237,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34654,
+  "chat_link": "[\u0026AgFehwAA]",
+  "icon": "https://render.guildwars2.com/file/009BF7054DD8F777207999EC76EA747801A4CA56/62802.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 412,
+    "max_power": 464,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 242.352,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 61
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 85
+        }
+      ]
+    },
+    "suffix_item_id": 24622
+  }
+}

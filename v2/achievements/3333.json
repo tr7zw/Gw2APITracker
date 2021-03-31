@@ -1,0 +1,29 @@
+{
+  "id": 3333,
+  "name": "Those Giant Hands",
+  "description": "Is it dead yet? You think it\u0027s going to explode?",
+  "requirement": "Defeat the Harathi High Sage and the massive earth elemental it summons.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 79158,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 185
+    }
+  ]
+}

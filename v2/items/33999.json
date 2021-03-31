@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Aureate Highlander Greatsword of Ogre Slaying",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Rare",
+  "vendor_value": 189,
+  "default_skin": 5006,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33999,
+  "chat_link": "[\u0026AgHPhAAA]",
+  "icon": "https://render.guildwars2.com/file/EEEBC3E05BF5D2FE1B0245A1C0EF07CF0F32506D/67680.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 470,
+    "max_power": 519,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 280.512,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 98
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 70
+        }
+      ]
+    },
+    "suffix_item_id": 24656
+  }
+}

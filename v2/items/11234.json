@@ -1,0 +1,46 @@
+{
+  "name": "Knight\u0027s Feathered Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 80,
+  "default_skin": 174,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 11234,
+  "chat_link": "[\u0026AgHiKwAA]",
+  "icon": "https://render.guildwars2.com/file/A0385E243BCF3EC104BFEB0D9318A2FB08C6E292/61468.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 109,
+    "infusion_slots": [],
+    "attribute_adjustment": 104.983,
+    "infix_upgrade": {
+      "id": 158,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 26
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 26
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 37
+        }
+      ]
+    }
+  }
+}

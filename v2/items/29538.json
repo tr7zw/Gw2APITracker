@@ -1,0 +1,53 @@
+{
+  "name": "Wayward Axe",
+  "description": "\u003cc\u003d@flavor\u003e\"I\u0027ve seen enough battles to know when to use this and when to use diplomacy.\"\u003cbr\u003e—Tactician Sebastian\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 73,
+  "rarity": "Masterwork",
+  "vendor_value": 122,
+  "default_skin": 3962,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29538,
+  "chat_link": "[\u0026AgFicwAA]",
+  "icon": "https://render.guildwars2.com/file/C8EAC643C02F41B918D79031B6060B0CBFE40CAD/64967.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 627,
+    "max_power": 766,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 244.8,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 61
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 61
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 86
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

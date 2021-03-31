@@ -1,0 +1,38 @@
+{
+  "name": "Minor Rune of Lyssa",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eBrilliance\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 16,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24774,
+  "chat_link": "[\u0026AgHGYAAA]",
+  "icon": "https://render.guildwars2.com/file/0AFC0E5BAC23C905C8CB699B2AA9CCC20C12CE17/221105.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+10 Precision",
+      "+2% Condition Duration"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of Lyssa"
+  }
+}

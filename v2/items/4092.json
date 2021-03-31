@@ -1,0 +1,46 @@
+{
+  "name": "Dostoev Heavy Helm",
+  "description": "\u003cc\u003d@flavor\u003e\"Dredge are among the most industrious of all the races of Tyria. Their singular ability to dig is second to none.\"\u003cbr\u003e—Priory Field Guide to Dredge\u003c/c\u003e",
+  "type": "Armor",
+  "level": 46,
+  "rarity": "Fine",
+  "vendor_value": 53,
+  "default_skin": 892,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4092,
+  "chat_link": "[\u0026AgH8DwAA]",
+  "icon": "https://render.guildwars2.com/file/E9EEB91BD00673FB2B0DBC04FFAB96A929FF23FB/61559.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 44,
+    "infusion_slots": [],
+    "attribute_adjustment": 58.656,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 15
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 21
+        }
+      ]
+    }
+  }
+}

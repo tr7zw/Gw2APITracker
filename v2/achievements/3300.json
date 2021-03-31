@@ -1,0 +1,52 @@
+{
+  "id": 3300,
+  "name": "Letters from E",
+  "description": "",
+  "requirement": "Find the letters scattered around Lake Doric from E.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 80292
+    },
+    {
+      "type": "Item",
+      "id": 80396
+    },
+    {
+      "type": "Item",
+      "id": 80175
+    },
+    {
+      "type": "Item",
+      "id": 80210
+    },
+    {
+      "type": "Item",
+      "id": 80457
+    },
+    {
+      "type": "Item",
+      "id": 80529
+    },
+    {
+      "type": "Item",
+      "id": 80570
+    },
+    {
+      "type": "Item",
+      "id": 80480
+    }
+  ],
+  "tiers": [
+    {
+      "count": 8,
+      "points": 5
+    }
+  ]
+}

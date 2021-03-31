@@ -1,0 +1,45 @@
+{
+  "name": "Embellished Intricate Topaz Jewel",
+  "description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 20,
+  "rarity": "Rare",
+  "vendor_value": 72,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24904,
+  "chat_link": "[\u0026AgFIYQAA]",
+  "icon": "https://render.guildwars2.com/file/AAD2F8900D324C11231927C706033CBE44247B68/340640.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "Trinket"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 521,
+      "buff": {
+        "skill_id": 310,
+        "description": "+8 Condition Damage\n+4 Precision"
+      },
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 4
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 8
+        }
+      ]
+    },
+    "suffix": "of Topaz"
+  }
+}

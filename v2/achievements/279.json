@@ -1,0 +1,36 @@
+{
+  "id": 279,
+  "name": "Champion Phantom",
+  "description": "Walking the line between life and death—your life, their death.",
+  "requirement": "Win  rated arena game as a necromancer.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    },
+    {
+      "count": 50,
+      "points": 10
+    },
+    {
+      "count": 100,
+      "points": 10
+    },
+    {
+      "count": 150,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 108
+    }
+  ]
+}

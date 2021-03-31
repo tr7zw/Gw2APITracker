@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Norn Mace of Corruption",
+  "type": "Weapon",
+  "level": 67,
+  "rarity": "Rare",
+  "vendor_value": 168,
+  "default_skin": 5162,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25273,
+  "chat_link": "[\u0026AgG5YgAA]",
+  "icon": "https://render.guildwars2.com/file/10809A71367FA21EA8FE6338C00BBE05AE4C0ECE/575173.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 634,
+    "max_power": 715,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 234.216,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 82
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 59
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 59
+        }
+      ]
+    },
+    "suffix_item_id": 24577
+  }
+}

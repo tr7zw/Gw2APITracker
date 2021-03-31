@@ -1,0 +1,49 @@
+{
+  "name": "Cleric\u0027s Iron Shield of Earth",
+  "description": "",
+  "type": "Weapon",
+  "level": 70,
+  "rarity": "Masterwork",
+  "vendor_value": 118,
+  "default_skin": 4012,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26774,
+  "chat_link": "[\u0026AgGWaAAA]",
+  "icon": "https://render.guildwars2.com/file/222F72EDEC31ACB7BC439499F4DD4AA4A94A6C48/65373.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 559,
+    "max_power": 631,
+    "defense": 41,
+    "infusion_slots": [],
+    "attribute_adjustment": 230.656,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 58
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 58
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 81
+        }
+      ]
+    },
+    "suffix_item_id": 24558
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Ash Legion Shield",
+  "description": "\u003cc\u003d@flavor\u003e\"Destroy with subterfuge.\"\u003cbr\u003e—Ash Legion Motto\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 17,
+  "rarity": "Fine",
+  "vendor_value": 21,
+  "default_skin": 4723,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30008,
+  "chat_link": "[\u0026AgE4dQAA]",
+  "icon": "https://render.guildwars2.com/file/EA12EBFE13169A64BF70EF460C0E37C91035FDAD/68224.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 172,
+    "max_power": 194,
+    "defense": 10,
+    "infusion_slots": [],
+    "attribute_adjustment": 35.648,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

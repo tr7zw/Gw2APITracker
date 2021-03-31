@@ -1,0 +1,45 @@
+{
+  "name": "Embellished Gilded Sunstone Jewel",
+  "description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 102,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24910,
+  "chat_link": "[\u0026AgFOYQAA]",
+  "icon": "https://render.guildwars2.com/file/0B62AEB73DBFE7226679EDD2534E57EB2B27313B/340646.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "Trinket"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 534,
+      "buff": {
+        "skill_id": 323,
+        "description": "+10 Precision\n+8 Power"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 8
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 10
+        }
+      ]
+    },
+    "suffix": "of Sunstone"
+  }
+}

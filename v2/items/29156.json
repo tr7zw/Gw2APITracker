@@ -1,0 +1,46 @@
+{
+  "name": "Berserker\u0027s Hammer",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Basic",
+  "vendor_value": 50,
+  "default_skin": 3869,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 29156,
+  "chat_link": "[\u0026AgHkcQAA]",
+  "icon": "https://render.guildwars2.com/file/993ED9650B92F3589ED0D350F8370170F329F450/66178.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 600,
+    "max_power": 677,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 412.464,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 144
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 103
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 103
+        }
+      ]
+    }
+  }
+}

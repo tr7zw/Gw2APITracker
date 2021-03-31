@@ -1,0 +1,45 @@
+{
+  "name": "Strong Iron Pistol of Bloodlust",
+  "description": "",
+  "type": "Weapon",
+  "level": 38,
+  "rarity": "Masterwork",
+  "vendor_value": 72,
+  "default_skin": 3875,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26875,
+  "chat_link": "[\u0026AgH7aAAA]",
+  "icon": "https://render.guildwars2.com/file/C43656C1551C9A5A1A931EAC2901BD0FBA3BE3E1/62830.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 324,
+    "max_power": 381,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 100.096,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 35
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 25
+        }
+      ]
+    },
+    "suffix_item_id": 24573
+  }
+}

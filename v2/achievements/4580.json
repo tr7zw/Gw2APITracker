@@ -1,0 +1,39 @@
+{
+  "id": 4580,
+  "name": "Chasing Tales: Feed the Beast",
+  "description": "Hunger begets hunger.",
+  "requirement": "Defeat 30 enemies while wielding a dagger in Thunderhead Peak.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Belitrea the Blade of Want."
+    },
+    {
+      "type": "Text",
+      "text": "Defeated 30 enemies with daggers in Thunderhead Peak."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89557,
+      "count": 1
+    }
+  ]
+}

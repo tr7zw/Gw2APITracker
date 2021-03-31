@@ -1,0 +1,38 @@
+{
+  "name": "Minor Rune of the Grove",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eSkill\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 16,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24733,
+  "chat_link": "[\u0026AgGdYAAA]",
+  "icon": "https://render.guildwars2.com/file/C4FC74F5CED7E2617BF077112E486AFB910F7409/221079.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+10 Healing",
+      "+4% Protection Duration"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Grove"
+  }
+}

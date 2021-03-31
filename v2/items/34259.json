@@ -1,0 +1,37 @@
+{
+  "name": "Malign Glyphic Edge",
+  "type": "Weapon",
+  "level": 6,
+  "rarity": "Fine",
+  "vendor_value": 11,
+  "default_skin": 5239,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 34259,
+  "chat_link": "[\u0026AgHThQAA]",
+  "icon": "https://render.guildwars2.com/file/10DEC3A0EB435E9015260E0C2B34EF2DD36ABEEB/434566.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 150,
+    "max_power": 166,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 16.512,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

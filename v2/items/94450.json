@@ -1,0 +1,50 @@
+{
+  "name": "Bringer\u0027s Sparkling Wrapped Longbow",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 9752,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94450,
+  "chat_link": "[\u0026AgHycAEA]",
+  "icon": "https://render.guildwars2.com/file/E70FC7B2DF98254B2A17AA4A19EA97FDBC219473/2376850.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 920,
+    "max_power": 1080,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 1032,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 171
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 171
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 239
+        }
+      ]
+    }
+  }
+}

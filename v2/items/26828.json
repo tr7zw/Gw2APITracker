@@ -1,0 +1,49 @@
+{
+  "name": "Cleric\u0027s Iron Shield of Serpent Slaying",
+  "description": "",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Rare",
+  "vendor_value": 159,
+  "default_skin": 4012,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26828,
+  "chat_link": "[\u0026AgHMaAAA]",
+  "icon": "https://render.guildwars2.com/file/222F72EDEC31ACB7BC439499F4DD4AA4A94A6C48/65373.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 521,
+    "max_power": 587,
+    "defense": 38,
+    "infusion_slots": [],
+    "attribute_adjustment": 210.024,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 53
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 53
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 74
+        }
+      ]
+    },
+    "suffix_item_id": 24659
+  }
+}

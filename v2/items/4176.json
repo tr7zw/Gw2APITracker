@@ -1,0 +1,43 @@
+{
+  "name": "Moledavia Gauntlets",
+  "description": "\u003cc\u003d@flavor\u003e\"Specially made for mining.\"\u003cbr\u003e—Gon Rageshot\u003c/c\u003e",
+  "type": "Armor",
+  "level": 16,
+  "rarity": "Masterwork",
+  "vendor_value": 36,
+  "default_skin": 883,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4176,
+  "chat_link": "[\u0026AgFQEAAA]",
+  "icon": "https://render.guildwars2.com/file/F192FC9EF771A87F7EB743686F0B7BDABA59BB19/61240.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 30,
+    "infusion_slots": [],
+    "attribute_adjustment": 14.2035,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 5
+        }
+      ]
+    },
+    "suffix_item_id": 24739
+  }
+}

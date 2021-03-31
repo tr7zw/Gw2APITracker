@@ -1,0 +1,94 @@
+{
+  "id": 2221,
+  "name": "Yggdrasil",
+  "description": "",
+  "requirement": "Collect these  items and skins to receive the druid\u0027s staff, Yggdrasil.",
+  "locked_text": "Begin training the ranger\u0027s druid elite specialization.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 6250
+    },
+    {
+      "type": "Item",
+      "id": 71896
+    },
+    {
+      "type": "Item",
+      "id": 72310
+    },
+    {
+      "type": "Skin",
+      "id": 5351
+    },
+    {
+      "type": "Item",
+      "id": 73303
+    },
+    {
+      "type": "Item",
+      "id": 74654
+    },
+    {
+      "type": "Item",
+      "id": 76258
+    },
+    {
+      "type": "Item",
+      "id": 71632
+    },
+    {
+      "type": "Item",
+      "id": 76835
+    },
+    {
+      "type": "Item",
+      "id": 76421
+    },
+    {
+      "type": "Item",
+      "id": 74932
+    },
+    {
+      "type": "Skin",
+      "id": 6059
+    },
+    {
+      "type": "Item",
+      "id": 74871
+    },
+    {
+      "type": "Skin",
+      "id": 6475
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    },
+    {
+      "count": 14,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 69974,
+      "count": 1
+    }
+  ]
+}

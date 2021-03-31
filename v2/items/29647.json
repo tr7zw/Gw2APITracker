@@ -1,0 +1,53 @@
+{
+  "name": "Wolfborn Focus",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 9000,
+  "default_skin": 4294,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29647,
+  "chat_link": "[\u0026AgHPcwAA]",
+  "icon": "https://render.guildwars2.com/file/72F3DFE9CC45D12A06AD9FE5A943C29A052C0ED6/67931.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 737,
+    "max_power": 782,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 301.824,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 75
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 106
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 75
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

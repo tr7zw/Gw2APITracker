@@ -1,0 +1,30 @@
+{
+  "name": "Stalker Boots",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 938,
+  "icon": "https://render.guildwars2.com/file/6706BBE37452EDEC7AE29BBE07EF0543A3F46753/61446.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        null,
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Illuminated Boreal Torch",
+  "description": "An Illuminated Boreal weapon, crafted using materials found in Bjora Marches.",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 9169,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92722,
+  "chat_link": "[\u0026AgEyagEA]",
+  "icon": "https://render.guildwars2.com/file/C893D25937DFFF39C55504C6CF121348DCB05C59/2247703.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Choking",
+    "min_power": 789,
+    "max_power": 926,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1539,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 102
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 56
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 102
+        }
+      ]
+    }
+  }
+}

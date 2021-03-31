@@ -1,0 +1,43 @@
+{
+  "name": "Ancient White Mantle Badge",
+  "description": "\u003cc\u003d@flavor\u003eThe mark of the White Mantle is still visible on the badge\u0027s dented face.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 38,
+  "rarity": "Fine",
+  "vendor_value": 45,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23831,
+  "chat_link": "[\u0026AgEXXQAA]",
+  "icon": "https://render.guildwars2.com/file/08A9626A09B2BFA8CC08C117BE1BFB113B452313/455970.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 56.84,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 14
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 20
+        }
+      ]
+    }
+  }
+}

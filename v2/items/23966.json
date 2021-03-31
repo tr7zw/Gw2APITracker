@@ -1,0 +1,47 @@
+{
+  "name": "Giant Troll Tooth",
+  "description": "\u003cc\u003d@flavor\u003e\"There are far to many trolls here. Take a tooth from the big one if you wish.\" -Quennida\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 63,
+  "rarity": "Fine",
+  "vendor_value": 68,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23966,
+  "chat_link": "[\u0026AgGeXQAA]",
+  "icon": "https://render.guildwars2.com/file/4FF5B601B128A15BF1D3BBA215B30AFE0FCA7EAB/223797.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 114.12,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 29
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 29
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 40
+        }
+      ]
+    }
+  }
+}

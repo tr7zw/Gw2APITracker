@@ -1,0 +1,50 @@
+{
+  "name": "Giver\u0027s Candy Cane Staff of Concentration",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 9762,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94415,
+  "chat_link": "[\u0026AgHPcAEA]",
+  "icon": "https://render.guildwars2.com/file/08DCD20F225AEACE3CB65F48D6357C140C41B14D/2377355.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 985,
+    "max_power": 1111,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 628,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 239
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 171
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 171
+        }
+      ]
+    },
+    "suffix_item_id": 72339
+  }
+}

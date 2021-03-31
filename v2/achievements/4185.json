@@ -1,0 +1,28 @@
+{
+  "id": 4185,
+  "name": "[FTT 303] Proficient Dynamics—Healing Aura Level 3",
+  "description": "",
+  "requirement": "Applied / Healing Aura Level 2 Upgrades",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 8,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    4241
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 88091,
+      "count": 1
+    }
+  ]
+}

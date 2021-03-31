@@ -1,0 +1,49 @@
+{
+  "name": "Bladechipped Sword",
+  "description": "\u003cc\u003d@flavor\u003e\"Specially issued to this battalion by the Iron Legion.\"\u003cbr\u003e—Legionnaire Bladechipper\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 52,
+  "rarity": "Masterwork",
+  "vendor_value": 92,
+  "default_skin": 5241,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30063,
+  "chat_link": "[\u0026AgFvdQAA]",
+  "icon": "https://render.guildwars2.com/file/562B6309B40701CE654E9E0C4C56C857B4A4022D/60983.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 448,
+    "max_power": 495,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 152.048,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 53
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 38
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

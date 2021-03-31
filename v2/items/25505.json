@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Shiverpeak Speargun of Agony",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Masterwork",
+  "vendor_value": 159,
+  "default_skin": 5058,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25505,
+  "chat_link": "[\u0026AgGhYwAA]",
+  "icon": "https://render.guildwars2.com/file/B144EAD21C1A0A030A79B6A3D5050BFB34C97BFB/534288.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 542,
+    "max_power": 599,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 388.008,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 136
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 97
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 97
+        }
+      ]
+    },
+    "suffix_item_id": 24610
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": 587,
+  "tier": 2,
+  "order": 2,
+  "name": "Glacial Heart",
+  "description": "Mighty Blow becomes Glacial Blow. Chill and damage foes that you disable.\n\u003cbr\u003e\u003cc\u003d@reminder\u003eDisables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.\u003c/c\u003e",
+  "slot": "Major",
+  "skills": [
+    {
+      "name": "Glacial Heart",
+      "facts": [
+        {
+          "text": "Unblockable",
+          "type": "Unblockable",
+          "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+          "value": true
+        },
+        {
+          "text": "Damage",
+          "type": "Damage",
+          "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+          "hit_count": 1,
+          "dmg_multiplier": 0.5
+        },
+        {
+          "text": "Apply Buff/Condition",
+          "type": "Buff",
+          "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+          "duration": 2,
+          "status": "Chilled",
+          "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
+          "apply_count": 1
+        },
+        {
+          "text": "Cannot Critical Hit",
+          "type": "NoData",
+          "icon": "https://render.guildwars2.com/file/63015872E20761F5E76F803A90666FBE4E262BC9/536051.png"
+        }
+      ],
+      "description": "Unleash a blast of ice that chills foes.",
+      "icon": "https://render.guildwars2.com/file/0C5DAC290C007C490454612A2EAE61047DE6FDC8/104825.png",
+      "flags": [],
+      "id": 21795,
+      "chat_link": "[\u0026BiNVAAA\u003d]"
+    },
+    {
+      "name": "Glacial Blow",
+      "facts": [
+        {
+          "text": "Range",
+          "type": "Range",
+          "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+          "value": 300
+        },
+        {
+          "text": "Recharge",
+          "type": "Recharge",
+          "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+          "value": 6
+        },
+        {
+          "text": "Damage",
+          "type": "Damage",
+          "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+          "hit_count": 1,
+          "dmg_multiplier": 2.4
+        },
+        {
+          "text": "Damage",
+          "type": "Damage",
+          "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+          "hit_count": 1,
+          "dmg_multiplier": 2.08
+        },
+        {
+          "text": "Apply Buff/Condition",
+          "type": "Buff",
+          "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+          "duration": 3,
+          "status": "Chilled",
+          "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
+          "apply_count": 1
+        },
+        {
+          "text": "Radius",
+          "type": "Distance",
+          "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+          "distance": 180
+        },
+        {
+          "text": "Number of Targets",
+          "type": "Number",
+          "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+          "value": 5
+        },
+        {
+          "text": "Combo Finisher",
+          "type": "ComboFinisher",
+          "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+          "percent": 100,
+          "finisher_type": "Blast"
+        }
+      ],
+      "description": "Crush nearby foes with a chilling slam.",
+      "icon": "https://render.guildwars2.com/file/0B54C31BD12FD40F51C068D84A79BB6FCE6D2505/2075996.png",
+      "flags": [],
+      "id": 53482,
+      "chat_link": "[\u0026BurQAAA\u003d]"
+    }
+  ],
+  "specialization": 46,
+  "icon": "https://render.guildwars2.com/file/B6B838104E585313E2FA34481FEDBD9F1B6F07B4/1012443.png"
+}

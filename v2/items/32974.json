@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Flame Mace of Air",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 198,
+  "default_skin": 5143,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32974,
+  "chat_link": "[\u0026AgHOgAAA]",
+  "icon": "https://render.guildwars2.com/file/F59A20F2A633086B067C06ED6F0B53A0973CFCCC/67837.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 793,
+    "max_power": 894,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 301.824,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 75
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 75
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 106
+        }
+      ]
+    },
+    "suffix_item_id": 24553
+  }
+}

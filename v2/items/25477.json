@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Etched Speargun of Vision",
+  "type": "Weapon",
+  "level": 70,
+  "rarity": "Exotic",
+  "vendor_value": 354,
+  "default_skin": 5100,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25477,
+  "chat_link": "[\u0026AgGFYwAA]",
+  "icon": "https://render.guildwars2.com/file/469625010B1926BC6AC1DA0FDF46F0DB78BE09FA/526108.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 765,
+    "max_power": 846,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 564.96,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 198
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 141
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 141
+        }
+      ]
+    },
+    "suffix_item_id": 24600
+  }
+}

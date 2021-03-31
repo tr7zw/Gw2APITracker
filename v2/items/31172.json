@@ -1,0 +1,53 @@
+{
+  "name": "Vigil\u0027s Honor Mace",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 4500,
+  "default_skin": 4967,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 31172,
+  "chat_link": "[\u0026AgHEeQAA]",
+  "icon": "https://render.guildwars2.com/file/75A93C720ADAB514C5587AA0763C7BFD5C53B0B7/780654.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 793,
+    "max_power": 894,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 301.824,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 106
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 75
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 75
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

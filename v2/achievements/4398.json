@@ -1,0 +1,100 @@
+{
+  "id": 4398,
+  "name": "Poster Child",
+  "description": "\"I call it delegation.\" —Spearmarshal Zaeim",
+  "requirement": "Place all of Zaeim\u0027s recruitment posters around Tyria.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Spoke to Zaeim and accepted his request."
+    },
+    {
+      "type": "Text",
+      "text": "Reclaimed Chantry, Jahai Bluffs"
+    },
+    {
+      "type": "Text",
+      "text": "Pact Vanguard, Jahai Bluffs"
+    },
+    {
+      "type": "Text",
+      "text": "Yatendi, Jahai Bluffs"
+    },
+    {
+      "type": "Text",
+      "text": "Confluence of the Elements, Jahai Bluffs"
+    },
+    {
+      "type": "Text",
+      "text": "Almorra\u0027s Stand, Jahai Bluffs"
+    },
+    {
+      "type": "Text",
+      "text": "Amnoon, Crystal Oasis"
+    },
+    {
+      "type": "Text",
+      "text": "Makali Outpost, Desert Highlands"
+    },
+    {
+      "type": "Text",
+      "text": "First Camp, Elon Riverlands"
+    },
+    {
+      "type": "Text",
+      "text": "Village of Purity, The Desolation"
+    },
+    {
+      "type": "Text",
+      "text": "Vehtendi Academy, Domain of Vabbi"
+    },
+    {
+      "type": "Text",
+      "text": "Fort Marriner, Lion\u0027s Arch"
+    },
+    {
+      "type": "Text",
+      "text": "Ebonhawke, Fields of Ruin"
+    },
+    {
+      "type": "Text",
+      "text": "Ossan Quarter, Divinity\u0027s Reach"
+    },
+    {
+      "type": "Text",
+      "text": "Central Plaza, Divinity\u0027s Reach"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 8,
+      "points": 1
+    },
+    {
+      "count": 15,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 88765,
+      "count": 1
+    }
+  ]
+}

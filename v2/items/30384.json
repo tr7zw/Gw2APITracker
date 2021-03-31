@@ -1,0 +1,44 @@
+{
+  "name": "Researcher\u0027s Staff",
+  "description": "\u003cc\u003d@flavor\u003e\"These weapons have been changed by this area. They really creep me out.\"\u003cbr\u003e—Caedmon\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 22,
+  "rarity": "Fine",
+  "vendor_value": 38,
+  "default_skin": 4067,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30384,
+  "chat_link": "[\u0026AgGwdgAA]",
+  "icon": "https://render.guildwars2.com/file/04BE267A42B12DB00F0162639702BDEFC90F4A5D/62880.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 235,
+    "max_power": 264,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 92.8,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 32
+        }
+      ]
+    }
+  }
+}

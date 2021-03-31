@@ -1,0 +1,47 @@
+{
+  "name": "Hune\u0027s Work Gloves",
+  "description": "\u003cc\u003d@flavor\u003e\"When doing hard work, always wear gloves.\"\u003cbr\u003e—Hune\u003c/c\u003e",
+  "type": "Armor",
+  "level": 27,
+  "rarity": "Masterwork",
+  "vendor_value": 51,
+  "default_skin": 918,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4059,
+  "chat_link": "[\u0026AgHbDwAA]",
+  "icon": "https://render.guildwars2.com/file/A94A90E821ED20EA0839D396D36F0E28424D80BE/61263.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 31,
+    "infusion_slots": [],
+    "attribute_adjustment": 24.327,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 6
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 9
+        }
+      ]
+    },
+    "suffix_item_id": 24727
+  }
+}

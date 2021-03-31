@@ -1,0 +1,39 @@
+{
+  "id": 3678,
+  "name": "Highlands Bounty Tour",
+  "description": "",
+  "requirement": "Complete a bounty from each bounty board location.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Makali Outpost Bounties"
+    },
+    {
+      "type": "Text",
+      "text": "Lommuld Kraal Bounties"
+    },
+    {
+      "type": "Text",
+      "text": "Derelict Delve Bounties"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 2
+    },
+    {
+      "count": 3,
+      "points": 3
+    }
+  ]
+}

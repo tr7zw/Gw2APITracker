@@ -1,0 +1,46 @@
+{
+  "name": "Valkyrie Masquerade Boots",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 160,
+  "default_skin": 234,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 11127,
+  "chat_link": "[\u0026AgF3KwAA]",
+  "icon": "https://render.guildwars2.com/file/A22A4903606FC878B701FFE973532BB3669A02B3/61354.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 118,
+    "infusion_slots": [],
+    "attribute_adjustment": 113.184,
+    "infix_upgrade": {
+      "id": 157,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 40
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 28
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 28
+        }
+      ]
+    }
+  }
+}

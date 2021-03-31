@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Flame Cleaver of Corruption",
+  "type": "Weapon",
+  "level": 67,
+  "rarity": "Rare",
+  "vendor_value": 168,
+  "default_skin": 5152,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32944,
+  "chat_link": "[\u0026AgGwgAAA]",
+  "icon": "https://render.guildwars2.com/file/DCF12F43C72FDFC44600425DFB6B9F4FC1CA5342/67831.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 607,
+    "max_power": 742,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 234.216,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 59
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 59
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 82
+        }
+      ]
+    },
+    "suffix_item_id": 24577
+  }
+}

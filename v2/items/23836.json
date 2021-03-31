@@ -1,0 +1,43 @@
+{
+  "name": "Seraph Medal of Honor",
+  "description": "\u003cc\u003d@flavor\u003e\"For service above and beyond the call of duty.\"\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 43,
+  "rarity": "Fine",
+  "vendor_value": 80,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23836,
+  "chat_link": "[\u0026AgEcXQAA]",
+  "icon": "https://render.guildwars2.com/file/B9595BAFC57D70621D0A0C745C6E475FC540707C/66230.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 107.456,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 38
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 27
+        }
+      ]
+    }
+  }
+}

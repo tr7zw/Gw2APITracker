@@ -1,0 +1,83 @@
+{
+  "id": 4395,
+  "name": "Regulars on the Tour",
+  "description": "Not a pawn, but a participant!",
+  "requirement": "Complete all other achievements in the Mythwright Gambit raid instance.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Hard Hats Required Beyond This Point"
+    },
+    {
+      "type": "Text",
+      "text": "Aquatic Assassins"
+    },
+    {
+      "type": "Text",
+      "text": "Let\u0027s Not Do That Again"
+    },
+    {
+      "type": "Text",
+      "text": "Don\u0027t Go in the Water"
+    },
+    {
+      "type": "Text",
+      "text": "A Thunderous Fall"
+    },
+    {
+      "type": "Text",
+      "text": "Some Disassembly Required"
+    },
+    {
+      "type": "Text",
+      "text": "Stacking Swords and Shields"
+    },
+    {
+      "type": "Text",
+      "text": "The Fire Djinn Extinguished"
+    },
+    {
+      "type": "Text",
+      "text": "Heroes of the Forge"
+    },
+    {
+      "type": "Text",
+      "text": "Manipulate the Manipulator"
+    },
+    {
+      "type": "Text",
+      "text": "Taking Turns"
+    },
+    {
+      "type": "Text",
+      "text": "Mythwright Scholar"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 12,
+      "points": 25
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 88507,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 438
+    },
+    {
+      "type": "Title",
+      "id": 318
+    }
+  ]
+}

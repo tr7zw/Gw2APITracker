@@ -1,0 +1,48 @@
+{
+  "name": "Soldier\u0027s Lupine Shoes",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 15000,
+  "default_skin": 477,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Norn"
+  ],
+  "id": 3785,
+  "chat_link": "[\u0026AgHJDgAA]",
+  "icon": "https://render.guildwars2.com/file/09195A9E380AF80DB0E77B70F428080F3A0554B5/779839.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 118,
+    "infusion_slots": [],
+    "attribute_adjustment": 113.184,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 40
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 28
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 28
+        }
+      ]
+    }
+  }
+}

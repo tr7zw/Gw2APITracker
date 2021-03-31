@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Steam Speargun of Water",
+  "description": "",
+  "type": "Weapon",
+  "level": 77,
+  "rarity": "Rare",
+  "vendor_value": 284,
+  "default_skin": 5091,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28408,
+  "chat_link": "[\u0026AgH4bgAA]",
+  "icon": "https://render.guildwars2.com/file/935CD7A5037BB9F3C46E0D770D2DD9730ED74A18/62495.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 763,
+    "max_power": 843,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 571.104,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 200
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 143
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 143
+        }
+      ]
+    },
+    "suffix_item_id": 24550
+  }
+}

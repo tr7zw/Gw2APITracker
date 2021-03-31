@@ -1,0 +1,40 @@
+{
+  "name": "Forest Brace",
+  "type": "Back",
+  "level": 55,
+  "rarity": "Rare",
+  "vendor_value": 144,
+  "default_skin": 2329,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 36662,
+  "chat_link": "[\u0026AgE2jwAA]",
+  "icon": "https://render.guildwars2.com/file/03B65C435B15EB2C10E04F3454B03718AAF3AE90/61004.png",
+  "details": {
+    "infusion_slots": [],
+    "attribute_adjustment": 44.496,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 11
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 16
+        }
+      ]
+    },
+    "suffix_item_id": 24909
+  }
+}

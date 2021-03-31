@@ -1,0 +1,41 @@
+{
+  "name": "Devout Gloves",
+  "type": "Armor",
+  "level": 8,
+  "rarity": "Masterwork",
+  "vendor_value": 24,
+  "default_skin": 891,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 3823,
+  "chat_link": "[\u0026AgHvDgAA]",
+  "icon": "https://render.guildwars2.com/file/6A921C0335490C406B28FBA52C3ECE4862B94F2E/61246.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 17,
+    "infusion_slots": [],
+    "attribute_adjustment": 8.4405,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 3
+        }
+      ]
+    }
+  }
+}

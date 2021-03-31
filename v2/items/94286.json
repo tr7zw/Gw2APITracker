@@ -1,0 +1,28 @@
+{
+  "name": "Prismaticite Home Instance Node",
+  "description": "Activates a prismaticite node in your home instance.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94286,
+  "chat_link": "[\u0026AgFOcAEA]",
+  "icon": "https://render.guildwars2.com/file/569D7F4DD8799C44202F2C383FCE057FC03F7720/2351433.png",
+  "details": {
+    "type": "Immediate"
+  }
+}

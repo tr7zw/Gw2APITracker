@@ -1,0 +1,30 @@
+{
+  "name": "Flame Legion Shoes",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 728,
+  "icon": "https://render.guildwars2.com/file/B34D360D6EE798C1031417C6FF4514ECC9D34A4B/61490.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        null,
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Mending Shiverpeak Staff of the Hydromancer",
+  "type": "Weapon",
+  "level": 56,
+  "rarity": "Masterwork",
+  "vendor_value": 147,
+  "default_skin": 5229,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25544,
+  "chat_link": "[\u0026AgHIYwAA]",
+  "icon": "https://render.guildwars2.com/file/395DF141FC56C9903A7B2EF2B2E1C193AF469923/534289.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 527,
+    "max_power": 594,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 336.192,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 84
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 118
+        }
+      ]
+    },
+    "suffix_item_id": 24595
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Guardian of the Six",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 4702,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26544,
+  "chat_link": "[\u0026AgGwZwAA]",
+  "icon": "https://render.guildwars2.com/file/2877E2600A0338AE05717AC1E0C0F9A9FBC49D16/434000.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 806,
+    "max_power": 909,
+    "defense": 61,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 85
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 85
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 120
+        }
+      ]
+    },
+    "suffix_item_id": 24600
+  }
+}

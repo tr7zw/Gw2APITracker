@@ -1,0 +1,46 @@
+{
+  "name": "Crusader\u0027s Light Helm",
+  "description": "\u003cc\u003d@flavor\u003e\"Always vigilant.\"\u003cbr\u003e—Crusader Brice\u003c/c\u003e",
+  "type": "Armor",
+  "level": 54,
+  "rarity": "Fine",
+  "vendor_value": 59,
+  "default_skin": 894,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 3974,
+  "chat_link": "[\u0026AgGGDwAA]",
+  "icon": "https://render.guildwars2.com/file/194C7741DF019D27A9B0D7680C0D3F2F1409D127/61232.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 32,
+    "infusion_slots": [],
+    "attribute_adjustment": 73.376,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 18
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 26
+        }
+      ]
+    }
+  }
+}

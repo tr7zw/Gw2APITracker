@@ -1,0 +1,46 @@
+{
+  "name": "Carrion Tempered Scale Helm",
+  "description": "",
+  "type": "Armor",
+  "level": 65,
+  "rarity": "Masterwork",
+  "vendor_value": 67,
+  "default_skin": 149,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 10663,
+  "chat_link": "[\u0026AgGnKQAA]",
+  "icon": "https://render.guildwars2.com/file/D6EC020C0C5B41E0D041C9EBC10EF5FF4101E803/61547.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 74,
+    "infusion_slots": [],
+    "attribute_adjustment": 103.496,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 26
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 26
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 36
+        }
+      ]
+    }
+  }
+}

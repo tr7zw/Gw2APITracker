@@ -1,0 +1,80 @@
+{
+  "id": 3884,
+  "name": "Springer Backpacking",
+  "description": "",
+  "requirement": "Take your springer out to help those in need, and gain tasty treats for your springer as a reward.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 82197
+    },
+    {
+      "type": "Item",
+      "id": 83815
+    },
+    {
+      "type": "Item",
+      "id": 84138
+    },
+    {
+      "type": "Item",
+      "id": 83302
+    },
+    {
+      "type": "Item",
+      "id": 84169
+    },
+    {
+      "type": "Item",
+      "id": 82748
+    },
+    {
+      "type": "Item",
+      "id": 82718
+    },
+    {
+      "type": "Item",
+      "id": 82544
+    },
+    {
+      "type": "Item",
+      "id": 82717
+    },
+    {
+      "type": "Item",
+      "id": 84646
+    },
+    {
+      "type": "Item",
+      "id": 84713
+    },
+    {
+      "type": "Item",
+      "id": 83636
+    }
+  ],
+  "tiers": [
+    {
+      "count": 12,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    3567
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 347
+    }
+  ]
+}

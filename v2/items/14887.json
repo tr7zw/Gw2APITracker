@@ -1,0 +1,48 @@
+{
+  "name": "Rabid Beaded Lancea",
+  "description": "",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 234,
+  "default_skin": 3938,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 14887,
+  "chat_link": "[\u0026AgEnOgAA]",
+  "icon": "https://render.guildwars2.com/file/690DC6FCFD0301F45D326D93A8A32FDABC9AF8CE/534153.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 564,
+    "max_power": 623,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 401.76,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 100
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 100
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 141
+        }
+      ]
+    }
+  }
+}

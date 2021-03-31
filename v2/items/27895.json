@@ -1,0 +1,45 @@
+{
+  "name": "Hearty Iron Hammer of Life",
+  "description": "",
+  "type": "Weapon",
+  "level": 55,
+  "rarity": "Rare",
+  "vendor_value": 216,
+  "default_skin": 4060,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27895,
+  "chat_link": "[\u0026AgH3bAAA]",
+  "icon": "https://render.guildwars2.com/file/2F4509F15B48B1A9F1579D08539F4109972A31A4/65162.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 558,
+    "max_power": 629,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 355.968,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 89
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 125
+        }
+      ]
+    },
+    "suffix_item_id": 24581
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Honed Soft Wood Staff of Water",
+  "description": "",
+  "type": "Weapon",
+  "level": 47,
+  "rarity": "Rare",
+  "vendor_value": 189,
+  "default_skin": 4067,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27748,
+  "chat_link": "[\u0026AgFkbAAA]",
+  "icon": "https://render.guildwars2.com/file/04BE267A42B12DB00F0162639702BDEFC90F4A5D/62880.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 475,
+    "max_power": 536,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 288.864,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 101
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 72
+        }
+      ]
+    },
+    "suffix_item_id": 24550
+  }
+}

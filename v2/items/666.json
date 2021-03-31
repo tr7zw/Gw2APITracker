@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Reinforced Scale Boots of Rage",
+  "description": "",
+  "type": "Armor",
+  "level": 40,
+  "rarity": "Rare",
+  "vendor_value": 114,
+  "default_skin": 74,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 666,
+  "chat_link": "[\u0026AgGaAgAA]",
+  "icon": "https://render.guildwars2.com/file/17C9516D0F0B2EBA616ED794C00F59411E931702/61014.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 67,
+    "infusion_slots": [],
+    "attribute_adjustment": 43.929,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 11
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 15
+        }
+      ]
+    },
+    "suffix_item_id": 24716
+  }
+}

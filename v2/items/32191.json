@@ -1,0 +1,50 @@
+{
+  "name": "Sunken Beacon",
+  "type": "Weapon",
+  "level": 76,
+  "rarity": "Masterwork",
+  "vendor_value": 126,
+  "default_skin": 5043,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32191,
+  "chat_link": "[\u0026AgG/fQAA]",
+  "icon": "https://render.guildwars2.com/file/EA4A167CC76ED3BFDC794795D9700F53A2C266A7/779925.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 607,
+    "max_power": 713,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 259.42,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 91
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 65
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 65
+        }
+      ]
+    },
+    "suffix_item_id": 24551
+  }
+}

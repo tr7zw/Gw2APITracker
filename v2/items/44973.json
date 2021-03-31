@@ -1,0 +1,49 @@
+{
+  "name": "Levvi\u0027s Detector",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 4813,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 44973,
+  "chat_link": "[\u0026AgGtrwAA]",
+  "icon": "https://render.guildwars2.com/file/1A9B1052E0AE3278263C0A360CF210EE51653008/619777.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 986,
+    "max_power": 1205,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 700,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 239
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 171
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 171
+        }
+      ]
+    },
+    "suffix_item_id": 24589
+  }
+}

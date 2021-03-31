@@ -1,0 +1,57 @@
+{
+  "name": "Eagle Greaves",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [
+    "Norn"
+  ],
+  "rarity": "Basic",
+  "id": 467,
+  "icon": "https://render.guildwars2.com/file/2FA55C52026AEF20139596205BA0F6E4D5F77356/779791.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "dye_slots": {
+      "default": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "overrides": {
+        "NornFemale": [
+          {
+            "color_id": -1,
+            "material": "metal"
+          },
+          {
+            "color_id": -1,
+            "material": "metal"
+          },
+          null,
+          {
+            "color_id": -1,
+            "material": "metal"
+          }
+        ],
+        "NornMale": [
+          {
+            "color_id": -1,
+            "material": "metal"
+          },
+          {
+            "color_id": -1,
+            "material": "metal"
+          },
+          null,
+          {
+            "color_id": -1,
+            "material": "metal"
+          }
+        ]
+      }
+    }
+  }
+}

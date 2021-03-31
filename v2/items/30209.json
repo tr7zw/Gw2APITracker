@@ -1,0 +1,49 @@
+{
+  "name": "Sneakpaw\u0027s Mace",
+  "description": "\u003cc\u003d@flavor\u003e\"Comes in handy if you get spotted sneaking.\"\u003cbr\u003e—Avarr\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 43,
+  "rarity": "Masterwork",
+  "vendor_value": 80,
+  "default_skin": 3964,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30209,
+  "chat_link": "[\u0026AgEBdgAA]",
+  "icon": "https://render.guildwars2.com/file/415D42C379B3AE75721E59D76E5F170926C416C1/65228.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 367,
+    "max_power": 414,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 117.64,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 29
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 41
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

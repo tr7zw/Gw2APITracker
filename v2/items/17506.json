@@ -1,0 +1,43 @@
+{
+  "name": "Potent Privateer Hat",
+  "type": "Armor",
+  "level": 30,
+  "rarity": "Rare",
+  "vendor_value": 117,
+  "default_skin": 102,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 17506,
+  "chat_link": "[\u0026AgFiRAAA]",
+  "icon": "https://render.guildwars2.com/file/746AA96A7C3E3136087451094F7D4DC403B526E7/61020.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 27,
+    "infusion_slots": [],
+    "attribute_adjustment": 40.896,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 14
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 10
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "ooOoo Trident",
+  "description": "\u003cc\u003d@flavor\u003e\"Quaggan likes this magic stick. Makes lots of bubbles.\"\u003cbr\u003e—Queldip\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 36,
+  "rarity": "Masterwork",
+  "vendor_value": 105,
+  "default_skin": 5106,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29489,
+  "chat_link": "[\u0026AgExcwAA]",
+  "icon": "https://render.guildwars2.com/file/969AD4BBDD1760576A18136702D2D02260097D52/534292.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 320,
+    "max_power": 354,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 186.184,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 47
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 65
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

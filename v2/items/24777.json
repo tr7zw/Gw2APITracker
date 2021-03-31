@@ -1,0 +1,38 @@
+{
+  "name": "Minor Rune of Grenth",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eBrilliance\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 16,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24777,
+  "chat_link": "[\u0026AgHJYAAA]",
+  "icon": "https://render.guildwars2.com/file/72644F90F75A200B24717649960B12A427F820B8/221107.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+10 Condition Damage",
+      "+4% Chill Duration"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of Grenth"
+  }
+}

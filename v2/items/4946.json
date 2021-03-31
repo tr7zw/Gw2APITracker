@@ -1,0 +1,51 @@
+{
+  "name": "Fort Cadence Breastplate",
+  "description": "\u003cc\u003d@flavor\u003e\"This is mostly fireproof. Calculations indicate that you\u0027ll be fine if you aim the flamethrower away from you.\"\u003cbr\u003e—Jezza\u003c/c\u003e",
+  "type": "Armor",
+  "level": 55,
+  "rarity": "Masterwork",
+  "vendor_value": 144,
+  "default_skin": 864,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4946,
+  "chat_link": "[\u0026AgFSEwAA]",
+  "icon": "https://render.guildwars2.com/file/FA402B55E85FF4D9FF3F08B09E137428E0A3A5B2/61557.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 178,
+    "infusion_slots": [],
+    "attribute_adjustment": 184.289,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 65
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 46
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 46
+        }
+      ]
+    },
+    "suffix_item_id": 24724
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": 283,
+  "name": "Realm Avenger",
+  "description": "You see dead people. A lot!",
+  "requirement": "Kill  player.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 1000,
+      "points": 5
+    },
+    {
+      "count": 3000,
+      "points": 5
+    },
+    {
+      "count": 10000,
+      "points": 10
+    },
+    {
+      "count": 50000,
+      "points": 10
+    },
+    {
+      "count": 250000,
+      "points": 20
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 70
+    }
+  ]
+}

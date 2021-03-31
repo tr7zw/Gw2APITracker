@@ -1,0 +1,45 @@
+{
+  "name": "Hearty Iron Mace of Serpent Slaying",
+  "description": "",
+  "type": "Weapon",
+  "level": 40,
+  "rarity": "Masterwork",
+  "vendor_value": 76,
+  "default_skin": 3964,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26067,
+  "chat_link": "[\u0026AgHTZQAA]",
+  "icon": "https://render.guildwars2.com/file/415D42C379B3AE75721E59D76E5F170926C416C1/65228.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 346,
+    "max_power": 390,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 107.168,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 27
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 38
+        }
+      ]
+    },
+    "suffix_item_id": 24660
+  }
+}

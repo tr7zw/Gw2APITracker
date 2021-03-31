@@ -1,0 +1,35 @@
+{
+  "id": 4621,
+  "name": "Junk Debunk",
+  "description": "",
+  "requirement": "Help Tirabikkr look for a big nonexistent shiny at all dig-site locations.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Sewage Dig Site"
+    },
+    {
+      "type": "Text",
+      "text": "Mountain Plateau Dig Site"
+    },
+    {
+      "type": "Text",
+      "text": "Shipwreck Dig Site"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 3
+    }
+  ]
+}

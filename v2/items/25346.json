@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Shiverpeak Arquebus of the Geomancer",
+  "type": "Weapon",
+  "level": 68,
+  "rarity": "Masterwork",
+  "vendor_value": 171,
+  "default_skin": 5175,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25346,
+  "chat_link": "[\u0026AgECYwAA]",
+  "icon": "https://render.guildwars2.com/file/1D625FA71BF2717F6AD5055DA5C40804221BC6A1/534285.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 659,
+    "max_power": 806,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 442.408,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 155
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 111
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 111
+        }
+      ]
+    },
+    "suffix_item_id": 24603
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Darkvine Greatsword",
+  "description": "\u003cc\u003d@flavor\u003e\"The darkvine adds that extra weight and balances out the length of the blade.\"\u003cbr\u003e—Laewyn\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 14,
+  "rarity": "Fine",
+  "vendor_value": 29,
+  "default_skin": 3868,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30559,
+  "chat_link": "[\u0026AgFfdwAA]",
+  "icon": "https://render.guildwars2.com/file/67B2C9A40C0E963567B7B42359A327B19F56195D/66176.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 199,
+    "max_power": 219,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 60.032,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 21
+        }
+      ]
+    }
+  }
+}

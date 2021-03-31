@@ -1,0 +1,44 @@
+{
+  "name": "Strong Scepter",
+  "description": "",
+  "type": "Weapon",
+  "level": 25,
+  "rarity": "Basic",
+  "vendor_value": 14,
+  "default_skin": 3866,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 30885,
+  "chat_link": "[\u0026AgGleAAA]",
+  "icon": "https://render.guildwars2.com/file/40539A620E4FF85EEE0D104BBE234E185142A2CC/66202.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 181,
+    "max_power": 204,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 41.184,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 14
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 10
+        }
+      ]
+    }
+  }
+}

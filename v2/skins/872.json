@@ -1,0 +1,30 @@
+{
+  "name": "Militia Boots",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 872,
+  "icon": "https://render.guildwars2.com/file/DF2D9A0706490510BFA61691E0DE2902E712345A/61238.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        null,
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

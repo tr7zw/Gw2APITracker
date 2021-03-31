@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Verdant Bow of Ogre Slaying",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Rare",
+  "vendor_value": 189,
+  "default_skin": 5072,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34768,
+  "chat_link": "[\u0026AgHQhwAA]",
+  "icon": "https://render.guildwars2.com/file/09C42BFA3EE10824DB4FBFD5529D073D7E7CAE2B/434893.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 434,
+    "max_power": 510,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 280.512,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 70
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 98
+        }
+      ]
+    },
+    "suffix_item_id": 24656
+  }
+}

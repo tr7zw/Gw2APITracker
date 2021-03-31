@@ -1,0 +1,52 @@
+{
+  "name": "Dysphoric Scepter",
+  "description": "\u003cc\u003d@flavor\u003e\"Sometimes new ideas backfire on their creator, and sometimes they start a fire fueled by genius.\"\u003cbr\u003e—Whispers Creator Pixtor\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 65,
+  "rarity": "Fine",
+  "vendor_value": 55,
+  "default_skin": 3892,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30654,
+  "chat_link": "[\u0026AgG+dwAA]",
+  "icon": "https://render.guildwars2.com/file/2696C7FBBB99549E700204A9A11F75B0D50CEC2E/65334.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 523,
+    "max_power": 590,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 190.72,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 48
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 48
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 67
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Superior Rune of the Dragonhunter",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003ePotence\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 60,
+  "rarity": "Legendary",
+  "vendor_value": 0,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse",
+    "DeleteWarning"
+  ],
+  "restrictions": [],
+  "id": 91432,
+  "chat_link": "[\u0026AgEoZQEA]",
+  "icon": "https://render.guildwars2.com/file/3CEECEBACCC4E7D25DBC79C7A4B5B2933AB01DE3/2179567.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+25 Ferocity",
+      "+35 Power",
+      "+50 Ferocity",
+      "+65 Power",
+      "+100 Ferocity",
+      "Apply 5 stacks of might for 8 seconds when you place a trap."
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Dragonhunter"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Snowflake Gold Amulet",
+  "description": "",
+  "type": "Trinket",
+  "level": 50,
+  "rarity": "Rare",
+  "vendor_value": 270,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 38147,
+  "chat_link": "[\u0026AgEDlQAA]",
+  "icon": "https://render.guildwars2.com/file/38179DD9050859D9B9B117F09F46196D2FAF3A69/526255.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 156.816,
+    "infix_upgrade": {
+      "id": 626,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 55
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 39
+        }
+      ]
+    },
+    "suffix_item_id": 38140
+  }
+}

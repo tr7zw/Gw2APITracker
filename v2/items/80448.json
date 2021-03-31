@@ -1,0 +1,58 @@
+{
+  "name": "Thackeray\u0027s Epaulets",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of the Seraph commander, Logan Thackeray.\u003c/c\u003e",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 240,
+  "default_skin": 119,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 80448,
+  "chat_link": "[\u0026AgFAOgEA]",
+  "icon": "https://render.guildwars2.com/file/0C4E1FEED2C75BC8F6F1D3D11C18303EEF573EED/699208.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 77,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 134.442,
+    "infix_upgrade": {
+      "id": 1222,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 40
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 22
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 40
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 22
+        }
+      ]
+    }
+  }
+}

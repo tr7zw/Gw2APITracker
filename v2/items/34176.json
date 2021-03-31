@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Tribal Speargun of Accuracy",
+  "type": "Weapon",
+  "level": 78,
+  "rarity": "Exotic",
+  "vendor_value": 384,
+  "default_skin": 5121,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34176,
+  "chat_link": "[\u0026AgGAhQAA]",
+  "icon": "https://render.guildwars2.com/file/684F914E9404D4D609B24139C201D3B144F153FB/780303.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 876,
+    "max_power": 969,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 658.72,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 165
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 165
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 231
+        }
+      ]
+    },
+    "suffix_item_id": 24618
+  }
+}

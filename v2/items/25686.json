@@ -1,0 +1,41 @@
+{
+  "name": "Mending Shiverpeak Warhorn",
+  "type": "Weapon",
+  "level": 31,
+  "rarity": "Fine",
+  "vendor_value": 31,
+  "default_skin": 5111,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 25686,
+  "chat_link": "[\u0026AgFWZAAA]",
+  "icon": "https://render.guildwars2.com/file/95D5572D06386BA1C510F4A0F0040E9433067D2D/534293.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 238,
+    "max_power": 263,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 69.76,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 17
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 24
+        }
+      ]
+    }
+  }
+}

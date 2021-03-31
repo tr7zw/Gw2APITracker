@@ -1,0 +1,41 @@
+{
+  "name": "Penetrating Krytan Pistol",
+  "type": "Weapon",
+  "level": 51,
+  "rarity": "Fine",
+  "vendor_value": 45,
+  "default_skin": 5008,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 33624,
+  "chat_link": "[\u0026AgFYgwAA]",
+  "icon": "https://render.guildwars2.com/file/12B504B2276E164B08C55CFCA634243DBCCD80B7/61694.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 392,
+    "max_power": 460,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 135.744,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 48
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 34
+        }
+      ]
+    }
+  }
+}

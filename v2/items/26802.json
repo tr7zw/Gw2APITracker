@@ -1,0 +1,45 @@
+{
+  "name": "Strong Iron Shield of Ice",
+  "description": "",
+  "type": "Weapon",
+  "level": 53,
+  "rarity": "Rare",
+  "vendor_value": 141,
+  "default_skin": 4012,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26802,
+  "chat_link": "[\u0026AgGyaAAA]",
+  "icon": "https://render.guildwars2.com/file/222F72EDEC31ACB7BC439499F4DD4AA4A94A6C48/65373.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 439,
+    "max_power": 495,
+    "defense": 31,
+    "infusion_slots": [],
+    "attribute_adjustment": 169.272,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 59
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 42
+        }
+      ]
+    },
+    "suffix_item_id": 24556
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Researcher\u0027s Shoes",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [
+    "Human"
+  ],
+  "rarity": "Basic",
+  "id": 404,
+  "icon": "https://render.guildwars2.com/file/33C4E34BFF3A154B075F08D31C744771B5B6D3A0/61200.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "dye_slots": {
+      "default": [
+        null,
+        null,
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

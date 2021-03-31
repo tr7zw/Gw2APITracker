@@ -1,0 +1,52 @@
+{
+  "name": "Nightmare Longbow",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 4446,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 18539,
+  "chat_link": "[\u0026AgFrSAAA]",
+  "icon": "https://render.guildwars2.com/file/CE3777D0115E2A6D683C570359B758DD28E8E6EF/455680.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 920,
+    "max_power": 1080,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 171
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 171
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 239
+        }
+      ]
+    },
+    "suffix_item_id": 24681
+  }
+}

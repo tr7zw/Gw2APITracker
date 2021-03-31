@@ -1,0 +1,31 @@
+{
+  "name": "Sticky Spit",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 1200
+    },
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 25
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+      "duration": 1,
+      "status": "Immobile",
+      "description": "Unable to move; stacks duration.",
+      "apply_count": 1
+    }
+  ],
+  "description": "A basic projectile attack.",
+  "icon": "https://render.guildwars2.com/file/75106504AAE75F5C09285B70A6600274F47B35BE/103695.png",
+  "flags": [],
+  "id": 16098,
+  "chat_link": "[\u0026BuI+AAA\u003d]"
+}

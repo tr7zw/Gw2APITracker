@@ -1,0 +1,21 @@
+{
+  "id": 139,
+  "name": "Lifetime Survivor",
+  "description": "Only mostly unkillable.",
+  "requirement": "Gain  experience without dying or changing maps.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 200000,
+      "points": 5
+    },
+    {
+      "count": 500000,
+      "points": 5
+    }
+  ]
+}

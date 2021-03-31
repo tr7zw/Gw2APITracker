@@ -1,0 +1,49 @@
+{
+  "name": "Shaman\u0027s Sneakthief Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 65,
+  "rarity": "Exotic",
+  "vendor_value": 198,
+  "default_skin": 43,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 64572,
+  "chat_link": "[\u0026AgE8/AAA]",
+  "icon": "https://render.guildwars2.com/file/3F385C09CDDF9F5509E4C79F66B1733F186D3D6F/561552.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 118,
+    "infusion_slots": [],
+    "attribute_adjustment": 95.49,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 33
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 24
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 24
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Tooth of Frostfang",
+  "description": "\u003cc\u003d@flavor\u003eThis weapon is used to craft the legendary axe Frostfang\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 6509,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "DeleteWarning",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29166,
+  "chat_link": "[\u0026AgHucQAA]",
+  "icon": "https://render.guildwars2.com/file/3D361A4B187B5747FED095C6D5431EB3E65B01FB/1200349.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 857,
+    "max_power": 1048,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 120
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 85
+        }
+      ]
+    },
+    "suffix_item_id": 24561
+  }
+}

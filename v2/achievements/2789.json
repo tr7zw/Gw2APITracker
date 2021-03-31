@@ -1,0 +1,26 @@
+{
+  "id": 2789,
+  "icon": "https://render.guildwars2.com/file/C5CE0723E54B4B2F78A2E6E5496A04B54E7A65E6/602777.png",
+  "name": "Donation Drive",
+  "description": "Doesn\u0027t it feel good to give? Even if not, at least it\u0027s for a good cause.",
+  "requirement": "Get wrapped gifts from the Wintersday vendor and give them to orphans around Divinity\u0027s Reach daily for a karma and experience boost.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Daily"
+  ],
+  "tiers": [
+    {
+      "count": 15,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 77656,
+      "count": 1
+    }
+  ]
+}

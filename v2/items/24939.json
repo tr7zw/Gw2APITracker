@@ -1,0 +1,37 @@
+{
+  "name": "Half Eaten Dagger",
+  "type": "Weapon",
+  "level": 3,
+  "rarity": "Fine",
+  "vendor_value": 8,
+  "default_skin": 4009,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24939,
+  "chat_link": "[\u0026AgFrYQAA]",
+  "icon": "https://render.guildwars2.com/file/3254C66ED1675657E0B7C2FBBC09FBF2FBAA74A6/62762.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 146,
+    "max_power": 155,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 14.208,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 5
+        }
+      ]
+    }
+  }
+}

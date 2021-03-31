@@ -1,0 +1,50 @@
+{
+  "name": "United Arcanist Lab\u0027s Metal Gauntlets",
+  "description": "\u003cc\u003d@flavor\u003e\"Mental note: test associates always ask for gloves when working with the prototype. This may just be a coincidence.\"\u003cbr\u003e—Kamma\u003c/c\u003e",
+  "type": "Armor",
+  "level": 65,
+  "rarity": "Fine",
+  "vendor_value": 50,
+  "default_skin": 896,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4927,
+  "chat_link": "[\u0026AgE/EwAA]",
+  "icon": "https://render.guildwars2.com/file/2D04F4B417D82BD6AB4714010CE23071A9489961/61558.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 102,
+    "infusion_slots": [],
+    "attribute_adjustment": 71.52,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 18
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 18
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 25
+        }
+      ]
+    }
+  }
+}

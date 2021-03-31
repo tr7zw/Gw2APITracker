@@ -1,0 +1,40 @@
+{
+  "name": "Malign Steam Mace of Agony",
+  "type": "Weapon",
+  "level": 14,
+  "rarity": "Masterwork",
+  "vendor_value": 38,
+  "default_skin": 5199,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32672,
+  "chat_link": "[\u0026AgGgfwAA]",
+  "icon": "https://render.guildwars2.com/file/CFD4DFE0779C3B361DBF7BEDD59C7F5480A1C914/68155.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 194,
+    "max_power": 219,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 33.728,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 12
+        }
+      ]
+    },
+    "suffix_item_id": 24610
+  }
+}

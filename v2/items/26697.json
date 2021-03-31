@@ -1,0 +1,50 @@
+{
+  "name": "Master Blaster",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 4757,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26697,
+  "chat_link": "[\u0026AgFJaAAA]",
+  "icon": "https://render.guildwars2.com/file/28D0E6CA9B35589174D009F661B8B5E805F1657B/780569.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 876,
+    "max_power": 1029,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 85
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 85
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 120
+        }
+      ]
+    },
+    "suffix_item_id": 24594
+  }
+}

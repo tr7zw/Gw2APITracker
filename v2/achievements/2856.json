@@ -1,0 +1,43 @@
+{
+  "id": 2856,
+  "icon": "https://render.guildwars2.com/file/B3DA5159BA6318466403EA14A47F0760633C48C5/630734.png",
+  "name": "Color Guard",
+  "description": "",
+  "requirement": "Reach each of the flags in the lobby of Super Adventure Box.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Daily"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Flag 1"
+    },
+    {
+      "type": "Text",
+      "text": "Flag 2"
+    },
+    {
+      "type": "Text",
+      "text": "Flag 3"
+    },
+    {
+      "type": "Text",
+      "text": "Flag 4"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 4,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 39752,
+      "count": 16
+    }
+  ]
+}

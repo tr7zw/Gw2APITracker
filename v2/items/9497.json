@@ -1,0 +1,28 @@
+{
+  "name": "Eda\u0027s Apple Pie Recipe",
+  "description": "The secret to a perfect Apple Pie is...",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 5,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9497,
+  "chat_link": "[\u0026AgEZJQAA]",
+  "icon": "https://render.guildwars2.com/file/B7B167286DD34B254E22682900C6EF2310F6EE0E/849342.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 2903
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Restored Boreal Dagger",
+  "description": "A Restored Boreal weapon, crafted using materials found in Bjora Marches.",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 9011,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92331,
+  "chat_link": "[\u0026AgGraAEA]",
+  "icon": "https://render.guildwars2.com/file/FAE16FCB34BC18567CD5904140FF936DD5ADA20F/2220581.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Choking",
+    "min_power": 924,
+    "max_power": 981,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 120
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 85
+        }
+      ]
+    }
+  }
+}

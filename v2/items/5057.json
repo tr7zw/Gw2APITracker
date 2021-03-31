@@ -1,0 +1,38 @@
+{
+  "name": "Mighty Rawhide Vest",
+  "description": "",
+  "type": "Armor",
+  "level": 15,
+  "rarity": "Basic",
+  "vendor_value": 15,
+  "default_skin": 6,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 5057,
+  "chat_link": "[\u0026AgHBEwAA]",
+  "icon": "https://render.guildwars2.com/file/D39FF60AFE11FF260A3F0B24484CA8BCB909E0B0/61015.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 39,
+    "infusion_slots": [],
+    "attribute_adjustment": 27.4365,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 10
+        }
+      ]
+    }
+  }
+}

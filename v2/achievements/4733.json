@@ -1,0 +1,45 @@
+{
+  "id": 4733,
+  "name": "Skyscale Toys",
+  "description": "",
+  "requirement": "Purchase toys from around Tyria to give to your skyscale.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 90310
+    },
+    {
+      "type": "Item",
+      "id": 90659
+    },
+    {
+      "type": "Item",
+      "id": 90513
+    },
+    {
+      "type": "Item",
+      "id": 90830
+    }
+  ],
+  "tiers": [
+    {
+      "count": 4,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 90811,
+      "count": 1
+    }
+  ]
+}

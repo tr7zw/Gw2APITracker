@@ -1,0 +1,50 @@
+{
+  "id": 4360,
+  "name": "Jahai Bounty Hunter",
+  "description": "Face the mighty nine! (Or, seven? Wait...)",
+  "requirement": "Complete all four bounties in Jahai Bluffs.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Angry Pet Rock"
+    },
+    {
+      "type": "Text",
+      "text": "Wyvern Matriarch, Patriarch, and Young"
+    },
+    {
+      "type": "Text",
+      "text": "Badly Confused Ettin"
+    },
+    {
+      "type": "Text",
+      "text": "Zommoros\u0027s Sword and Shield"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 3
+    },
+    {
+      "count": 4,
+      "points": 4
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 442
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Sentinel\u0027s Scout Hammer",
+  "description": "\u003cc\u003d@flavor\u003e\"Sometimes out here you \u0027scout\u0027 something a little bigger than normal.\"\u003cbr\u003e—Fahrtak Shatterfiend\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 50,
+  "rarity": "Fine",
+  "vendor_value": 68,
+  "default_skin": 4060,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30194,
+  "chat_link": "[\u0026AgHydQAA]",
+  "icon": "https://render.guildwars2.com/file/2F4509F15B48B1A9F1579D08539F4109972A31A4/65162.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 431,
+    "max_power": 486,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 264.064,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 66
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 92
+        }
+      ]
+    }
+  }
+}

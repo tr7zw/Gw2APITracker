@@ -1,0 +1,51 @@
+{
+  "name": "Apostate\u0027s Architeuthis",
+  "type": "Weapon",
+  "level": 65,
+  "rarity": "Exotic",
+  "vendor_value": 342,
+  "default_skin": 5082,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 51685,
+  "chat_link": "[\u0026AgHlyQAA]",
+  "icon": "https://render.guildwars2.com/file/39555C252BCD3E17C227AECB74C1FAE246FCF2A7/779956.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 812,
+    "max_power": 898,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 542.72,
+    "infix_upgrade": {
+      "id": 1012,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 136
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 136
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 190
+        }
+      ]
+    }
+  }
+}

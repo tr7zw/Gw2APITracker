@@ -1,0 +1,30 @@
+{
+  "id": 1783,
+  "name": "Echoes of the Past",
+  "description": "Journal: \"Echoes of the Past\" Completed",
+  "requirement": "Search for information on how to defeat the Mordrem, and uncover a hidden secret.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "MoveToTop",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 67789,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Tyria",
+      "id": 207
+    }
+  ]
+}

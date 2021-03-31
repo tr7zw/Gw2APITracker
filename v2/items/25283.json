@@ -1,0 +1,37 @@
+{
+  "name": "Healing Shiverpeak Handcannon",
+  "type": "Weapon",
+  "level": 16,
+  "rarity": "Fine",
+  "vendor_value": 20,
+  "default_skin": 5148,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 25283,
+  "chat_link": "[\u0026AgHDYgAA]",
+  "icon": "https://render.guildwars2.com/file/360309706ADF99FEFCEB6659F3357AF8B25AA841/534284.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 182,
+    "max_power": 214,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 33.536,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Crippling Shield",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 450
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 0.75
+    },
+    {
+      "text": "Damage Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 100
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "PrefixedBuff",
+      "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+      "duration": 10,
+      "status": "Bleeding",
+      "description": "Deals damage every second; stacks intensity.",
+      "apply_count": 2,
+      "prefix": {
+        "text": "Apply Buff/Condition",
+        "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png"
+      }
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+      "duration": 2,
+      "status": "Crippled",
+      "description": "Movement speed decreased by 50%; stacks duration.",
+      "apply_count": 1
+    }
+  ],
+  "description": "Throw your shield in a line, crippling struck foes. This attack deals bonus damage if you have barrier.",
+  "icon": "https://render.guildwars2.com/file/9BAE0DB6B1F646685CCB08045924590E2CAA72AD/103394.png",
+  "type": "Weapon",
+  "weapon_type": "Sword",
+  "professions": [],
+  "slot": "Weapon_1",
+  "prev_chain": 21646,
+  "flags": [
+    "NoUnderwater"
+  ],
+  "id": 5746,
+  "chat_link": "[\u0026BnIWAAA\u003d]"
+}

@@ -1,0 +1,743 @@
+{
+  "id": 12,
+  "name": "Krytan Explorer",
+  "description": "You\u0027ve explored the war-torn hills of humanity\u0027s home.",
+  "requirement": "Explore all areas in Kryta.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Lion\u0027s Arch: Hooligan\u0027s Route"
+    },
+    {
+      "type": "Text",
+      "text": "Lion\u0027s Arch: Inner Harbor"
+    },
+    {
+      "type": "Text",
+      "text": "Lion\u0027s Arch: Sanctum Harbor"
+    },
+    {
+      "type": "Text",
+      "text": ""
+    },
+    {
+      "type": "Text",
+      "text": "Lion\u0027s Arch: Farshore Ward"
+    },
+    {
+      "type": "Text",
+      "text": "Lion\u0027s Arch: Canal Ward"
+    },
+    {
+      "type": "Text",
+      "text": "Lion\u0027s Arch: Postern Ward"
+    },
+    {
+      "type": "Text",
+      "text": "Lion\u0027s Arch: Bloodcoast Ward"
+    },
+    {
+      "type": "Text",
+      "text": "Lion\u0027s Arch: Fort Marriner"
+    },
+    {
+      "type": "Text",
+      "text": "Lion\u0027s Arch: Trader\u0027s Forum"
+    },
+    {
+      "type": "Text",
+      "text": "Lion\u0027s Arch: Eastern Ward"
+    },
+    {
+      "type": "Text",
+      "text": "Lion\u0027s Arch: Western Ward"
+    },
+    {
+      "type": "Text",
+      "text": "Lion\u0027s Arch: Sharkmaw Caverns"
+    },
+    {
+      "type": "Text",
+      "text": "Lion\u0027s Arch: White Crane Terrace"
+    },
+    {
+      "type": "Text",
+      "text": "Lion\u0027s Arch: Grand Piazza"
+    },
+    {
+      "type": "Text",
+      "text": "Claw Island: Lion\u0027s Mane"
+    },
+    {
+      "type": "Text",
+      "text": "Claw Island: Western Strait"
+    },
+    {
+      "type": "Text",
+      "text": "Claw Island: Sorrow\u0027s Bay"
+    },
+    {
+      "type": "Text",
+      "text": "Claw Island: Fort Stalwart"
+    },
+    {
+      "type": "Text",
+      "text": "Bloodtide Coast: Merchantman\u0027s Strait"
+    },
+    {
+      "type": "Text",
+      "text": "Bloodtide Coast: Mournful Depths"
+    },
+    {
+      "type": "Text",
+      "text": "Bloodtide Coast: Mistarion Beach"
+    },
+    {
+      "type": "Text",
+      "text": "Bloodtide Coast: Challdar Gorges"
+    },
+    {
+      "type": "Text",
+      "text": "Bloodtide Coast: Mole\u0027s Head"
+    },
+    {
+      "type": "Text",
+      "text": "Bloodtide Coast: Wraithwalker Woods"
+    },
+    {
+      "type": "Text",
+      "text": "Bloodtide Coast: Portage Hills"
+    },
+    {
+      "type": "Text",
+      "text": "Bloodtide Coast: Jelako Cliffrise"
+    },
+    {
+      "type": "Text",
+      "text": "Bloodtide Coast: Momoztli Grounds"
+    },
+    {
+      "type": "Text",
+      "text": "Bloodtide Coast: Captain\u0027s Cut"
+    },
+    {
+      "type": "Text",
+      "text": "Bloodtide Coast: Vindar\u0027s Lagoon"
+    },
+    {
+      "type": "Text",
+      "text": "Bloodtide Coast: Stormbluff Isle"
+    },
+    {
+      "type": "Text",
+      "text": "Bloodtide Coast: Dredgehat Isle"
+    },
+    {
+      "type": "Text",
+      "text": "Bloodtide Coast: Mentecki Pass"
+    },
+    {
+      "type": "Text",
+      "text": "Bloodtide Coast: Moriarity\u0027s Hold"
+    },
+    {
+      "type": "Text",
+      "text": ""
+    },
+    {
+      "type": "Text",
+      "text": "Bloodtide Coast: Laughing Gull Island"
+    },
+    {
+      "type": "Text",
+      "text": "Bloodtide Coast: Grand Barrier Isle"
+    },
+    {
+      "type": "Text",
+      "text": "Bloodtide Coast: Archen Foreland"
+    },
+    {
+      "type": "Text",
+      "text": "Bloodtide Coast: Sanguine Bay"
+    },
+    {
+      "type": "Text",
+      "text": "Bloodtide Coast: Firth of Revanion"
+    },
+    {
+      "type": "Text",
+      "text": "Bloodtide Coast: Sorrowful Sound"
+    },
+    {
+      "type": "Text",
+      "text": "Bloodtide Coast: Whisperwill Bogs"
+    },
+    {
+      "type": "Text",
+      "text": "Bloodtide Coast: Risewild Hills"
+    },
+    {
+      "type": "Text",
+      "text": "Bloodtide Coast: Remanda Saltmarsh"
+    },
+    {
+      "type": "Text",
+      "text": "Bloodtide Coast: Flooded Castavall"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: Rurikton"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: The Crown Pavilion"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: Eastern Commons"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: Western Commons"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: The Upper City"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: Ossan Quarter"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: Salma District (Home)"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: Balthazar Low Road"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: Dwayna Low Road"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: Grenth Low Road"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: Kormir Low Road"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: Lyssa Low Road"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: Melandru Low Road"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: Royal Palace"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: Plaza of Balthazar"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: Plaza of Dwayna"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: Plaza of Grenth"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: Plaza of Kormir"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: Plaza of Lyssa"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: Plaza of Melandru"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: District Promenade"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: Balthazar High Road"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: Dwayna High Road"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: Grenth High Road"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: Kormir High Road"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: Lyssa High Road"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: Melandru High Road"
+    },
+    {
+      "type": "Text",
+      "text": "Harathi Hinterlands: Nightguard Beach"
+    },
+    {
+      "type": "Text",
+      "text": "Harathi Hinterlands: Bonerattler Caverns"
+    },
+    {
+      "type": "Text",
+      "text": "Harathi Hinterlands: Cloven Hoof Pass"
+    },
+    {
+      "type": "Text",
+      "text": "Harathi Hinterlands: Diremane Woods"
+    },
+    {
+      "type": "Text",
+      "text": "Harathi Hinterlands: Modniir Gorge"
+    },
+    {
+      "type": "Text",
+      "text": "Harathi Hinterlands: High Timber Claim"
+    },
+    {
+      "type": "Text",
+      "text": "Harathi Hinterlands: Thunder Rock"
+    },
+    {
+      "type": "Text",
+      "text": "Harathi Hinterlands: Stoneman\u0027s Notch"
+    },
+    {
+      "type": "Text",
+      "text": "Harathi Hinterlands: Greenflin Plateau"
+    },
+    {
+      "type": "Text",
+      "text": "Harathi Hinterlands: Guardian Lake"
+    },
+    {
+      "type": "Text",
+      "text": "Harathi Hinterlands: Greystone Rise"
+    },
+    {
+      "type": "Text",
+      "text": "Harathi Hinterlands: Wildspine Hills"
+    },
+    {
+      "type": "Text",
+      "text": "Harathi Hinterlands: Hangman\u0027s Saddle"
+    },
+    {
+      "type": "Text",
+      "text": "Harathi Hinterlands: Shieldbluff Point"
+    },
+    {
+      "type": "Text",
+      "text": "Harathi Hinterlands: Arca Lake"
+    },
+    {
+      "type": "Text",
+      "text": "Harathi Hinterlands: Ruins of Holy Demetra"
+    },
+    {
+      "type": "Text",
+      "text": "Harathi Hinterlands: Wynchona Woods"
+    },
+    {
+      "type": "Text",
+      "text": "Harathi Hinterlands: Hidden Ourobon"
+    },
+    {
+      "type": "Text",
+      "text": "Harathi Hinterlands: Trebuchet Bend"
+    },
+    {
+      "type": "Text",
+      "text": "Harathi Hinterlands: Splintered Teeth"
+    },
+    {
+      "type": "Text",
+      "text": "Harathi Hinterlands: Faun\u0027s Gap"
+    },
+    {
+      "type": "Text",
+      "text": "Harathi Hinterlands: Arcallion Digs"
+    },
+    {
+      "type": "Text",
+      "text": "Harathi Hinterlands: The Feral Dens"
+    },
+    {
+      "type": "Text",
+      "text": "Harathi Hinterlands: Ourobore Caves"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: Bandithaunt Caverns"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: Beggar\u0027s Burrow"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: Shire of Beetletun"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: Beetletun Farms"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: Altar\u0027s Windings"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: Altar Brook Vale"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: Township of Claypool"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: Clayent Falls"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: Salma\u0027s Heath"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: Eastern Divinity Dam"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: Western Divinity Dam"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: Taminn Foothills"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: Queen\u0027s Forest"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: The Heartwoods"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: Krytan Freeholds"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: Lake Delavan"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: Orlaf Escarpments"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: Pinion Trail"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: Scaver Plateau"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: Windloss Delves"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: Demongrub Pits"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: Phinney Ridge"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: Village of Shaemoor"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: Shaemoor Fields"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: Shaemoor Garrison"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: Godslost Swamp"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Shiverspur Front"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Northfields"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Witherflank River"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Lake Gendarr"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Ascalon Settlement"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Provernic Crypt"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Newbeach Bluffs"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Almuten Estates"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Overlook Caverns"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Vigilant Hills"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Lionbridge Expanse"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Provern Shore"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Snowblind Peaks"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: The Bloodfields"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Hezran Outcrops"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Blood Hill Camps"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Guardian\u0027s Pass"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Bitterfrost Peaks"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Icegate Gorge"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Traveler\u0027s Dale"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Brigantine Isles"
+    },
+    {
+      "type": "Text",
+      "text": ""
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Lake Bounty"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: The Lawen Ponds"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Vigil Keep"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Broadhollow Bluffs"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Talajian Piedmont"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Stonebore Vaults"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Nebo Terrace"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Cornucopian Fields"
+    },
+    {
+      "type": "Text",
+      "text": "Bloodtide Coast: Chantry of Secrets"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills: Eukaryan Caves"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills: Earthworks Bluff"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills: Overlord\u0027s Greatcamp"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills: Manefire Hills"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills: Meremoot Hill"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills: Thunder Ridge"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills: Greyhoof Meadows"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills: Draithor\u0027s Demesnes"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills: Earthlord\u0027s Gap"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills: Fort Salma"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills: Triskellion Vale"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills: Viathan\u0027s Arm"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills: Viathan Lake"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills: Delanian Foothills"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills: Blackroot Cut"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills: Cereboth Canyon"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills: Halacon Cataracts"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills: Viath Shore"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills: Sojourner\u0027s Way"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills: Alakess Ledge"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills: Darkwound Defile"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills: Giant\u0027s Passage"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills: Lychcroft Mere"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills: Dominion Killing Zone"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills: Wizard\u0027s Fief"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 50,
+      "points": 5
+    },
+    {
+      "count": 100,
+      "points": 5
+    },
+    {
+      "count": 150,
+      "points": 5
+    },
+    {
+      "count": 175,
+      "points": 10
+    }
+  ]
+}

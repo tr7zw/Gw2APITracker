@@ -1,0 +1,49 @@
+{
+  "name": "Cleric\u0027s Iron Hammer of Air",
+  "description": "",
+  "type": "Weapon",
+  "level": 72,
+  "rarity": "Rare",
+  "vendor_value": 270,
+  "default_skin": 4060,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27933,
+  "chat_link": "[\u0026AgEdbQAA]",
+  "icon": "https://render.guildwars2.com/file/2F4509F15B48B1A9F1579D08539F4109972A31A4/65162.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 763,
+    "max_power": 860,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 518.4,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 130
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 130
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 181
+        }
+      ]
+    },
+    "suffix_item_id": 24553
+  }
+}

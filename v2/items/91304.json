@@ -1,0 +1,56 @@
+{
+  "name": "Holographic Energizer",
+  "description": "\u003cc\u003d@flavor\u003eModeled after a weapon wielded by a great hero.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 8821,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 91304,
+  "chat_link": "[\u0026AgGoZAEA]",
+  "icon": "https://render.guildwars2.com/file/552033CE365856661A3694B95220784311E64619/2163009.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 895,
+    "max_power": 1010,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1131,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 102
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 102
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 56
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 56
+        }
+      ]
+    },
+    "suffix_item_id": 91339
+  }
+}

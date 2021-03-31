@@ -1,0 +1,53 @@
+{
+  "name": "Colonnade Greatsword",
+  "description": "\u003cc\u003d@flavor\u003e\"Light as a feather! No—that\u0027s a lie, this thing is really heavy.\"\u003cbr\u003e—Supply Sergeant Mattimer\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Masterwork",
+  "vendor_value": 183,
+  "default_skin": 5217,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30298,
+  "chat_link": "[\u0026AgFadgAA]",
+  "icon": "https://render.guildwars2.com/file/C6283C1F74B308A632ECA2257B6EDEE53E9C03EC/62836.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 740,
+    "max_power": 818,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 499.12,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 125
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 125
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 175
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

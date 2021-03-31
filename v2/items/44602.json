@@ -1,0 +1,32 @@
+{
+  "name": "Copper-Fed Salvage-o-Matic",
+  "description": "Double-click to salvage crafting materials from an item in your inventory. 10% chance of rarer materials. 20% chance of salvaging upgrades. Requires 3 copper per use.",
+  "type": "Tool",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 44602,
+  "chat_link": "[\u0026AgE6rgAA]",
+  "icon": "https://render.guildwars2.com/file/CC2004000FFDFCEF346AAE296FD0E858C0990548/619581.png",
+  "details": {
+    "type": "Salvage",
+    "charges": 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Soldier\u0027s Bandit Torch",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 746,
+  "default_skin": 3894,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 35493,
+  "chat_link": "[\u0026AgGligAA]",
+  "icon": "https://render.guildwars2.com/file/0DBB98F2690B1A744E49CAD4E5BE940D661299B1/63131.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 649,
+    "max_power": 762,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 279.956,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 98
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 70
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 70
+        }
+      ]
+    }
+  }
+}

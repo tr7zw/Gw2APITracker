@@ -1,0 +1,49 @@
+{
+  "name": "Serenity Focus",
+  "description": "\u003cc\u003d@flavor\u003e\"This stone was infused with old energies, I figured that would have to make this thing more powerful than what the Priory issues us.\"\u003cbr\u003e—Jinell\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 45,
+  "rarity": "Masterwork",
+  "vendor_value": 82,
+  "default_skin": 3887,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30212,
+  "chat_link": "[\u0026AgEEdgAA]",
+  "icon": "https://render.guildwars2.com/file/EF62B7FE5B45A1181C362E635301E1BAA8FDCC44/65104.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 354,
+    "max_power": 376,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 124.644,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 31
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 44
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

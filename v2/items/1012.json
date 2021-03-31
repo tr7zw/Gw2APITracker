@@ -1,0 +1,38 @@
+{
+  "name": "Mighty Worn Chain Coat",
+  "description": "",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 6,
+  "default_skin": 21,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NotUpgradeable"
+  ],
+  "restrictions": [],
+  "id": 1012,
+  "chat_link": "[\u0026AgH0AwAA]",
+  "icon": "https://render.guildwars2.com/file/41DE30110F45F035CEB206050CEC3F0A320AAA26/61043.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 26,
+    "infusion_slots": [],
+    "attribute_adjustment": 11.583,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

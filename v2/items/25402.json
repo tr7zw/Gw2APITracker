@@ -1,0 +1,37 @@
+{
+  "name": "Healing Shiverpeak Shield",
+  "type": "Weapon",
+  "level": 11,
+  "rarity": "Fine",
+  "vendor_value": 16,
+  "default_skin": 5176,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 25402,
+  "chat_link": "[\u0026AgE6YwAA]",
+  "icon": "https://render.guildwars2.com/file/455B5191E29A11E8ECBDEB2326E9FDE2D7C6DEAC/68182.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 151,
+    "max_power": 170,
+    "defense": 8,
+    "infusion_slots": [],
+    "attribute_adjustment": 24.704,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

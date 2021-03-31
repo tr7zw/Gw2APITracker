@@ -1,0 +1,27 @@
+{
+  "id": 1828,
+  "name": "Dodgy Crowd",
+  "description": "Story Instance: No Refuge",
+  "requirement": "Avoid all wind walls and sand pools while remaining in the battlefield against Togonn Windmane.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    }
+  ],
+  "prerequisites": [
+    1826
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 86314,
+      "count": 3
+    }
+  ]
+}

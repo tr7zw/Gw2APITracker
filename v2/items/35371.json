@@ -1,0 +1,51 @@
+{
+  "name": "Soldier\u0027s Bandit Shiv",
+  "description": "",
+  "type": "Weapon",
+  "level": 65,
+  "rarity": "Masterwork",
+  "vendor_value": 885,
+  "default_skin": 4029,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 35371,
+  "chat_link": "[\u0026AgErigAA]",
+  "icon": "https://render.guildwars2.com/file/4C630DEC23FB5D92D60F00F4330B6891FDD5C858/66724.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 583,
+    "max_power": 619,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 206.992,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 72
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 52
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 52
+        }
+      ]
+    }
+  }
+}

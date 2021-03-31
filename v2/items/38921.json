@@ -1,0 +1,47 @@
+{
+  "name": "Magi\u0027s Glyphic Staff",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 198,
+  "default_skin": 5237,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 38921,
+  "chat_link": "[\u0026AgEJmAAA]",
+  "icon": "https://render.guildwars2.com/file/009BF7054DD8F777207999EC76EA747801A4CA56/62802.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 811,
+    "max_power": 914,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 559.912,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 140
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 140
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 196
+        }
+      ]
+    }
+  }
+}

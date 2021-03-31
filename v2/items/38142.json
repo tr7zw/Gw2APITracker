@@ -1,0 +1,49 @@
+{
+  "name": "Brilliant Snowflake",
+  "description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 65,
+  "rarity": "Masterwork",
+  "vendor_value": 110,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 38142,
+  "chat_link": "[\u0026AgH+lAAA]",
+  "icon": "https://render.guildwars2.com/file/D3B0CAF4CAE9D50E33F54B394160B91A45C6E521/526250.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "Trinket"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 622,
+      "buff": {
+        "skill_id": 16518,
+        "description": "+18 Toughness\n+12 Healing Power\n+12 Concentration"
+      },
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 18
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 12
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 12
+        }
+      ]
+    },
+    "suffix": "of Winter"
+  }
+}

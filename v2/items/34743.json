@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Glyphic Trispear of Bloodlust",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Masterwork",
+  "vendor_value": 183,
+  "default_skin": 5050,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34743,
+  "chat_link": "[\u0026AgG3hwAA]",
+  "icon": "https://render.guildwars2.com/file/F670E526546CD1E9E2029B14DD9810ECDBE9001D/434765.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 673,
+    "max_power": 744,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 499.12,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 125
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 125
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 175
+        }
+      ]
+    },
+    "suffix_item_id": 24573
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Viper\u0027s Fiery Dragon Slayer Warhorn of Icebrood Slaying",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 330,
+  "default_skin": 9925,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94785,
+  "chat_link": "[\u0026AgFBcgEA]",
+  "icon": "https://render.guildwars2.com/file/FA9FF83869405B03AEB76922C8055F6342BB5C77/2413009.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 855,
+    "max_power": 945,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "infix_upgrade": {
+      "id": 1130,
+      "buff": {
+        "skill_id": 32391
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 133
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 71
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 133
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 71
+        }
+      ]
+    },
+    "suffix_item_id": 24651
+  }
+}

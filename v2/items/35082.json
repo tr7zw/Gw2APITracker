@@ -1,0 +1,47 @@
+{
+  "name": "Vigorous Bandit Longbow",
+  "description": "",
+  "type": "Weapon",
+  "level": 40,
+  "rarity": "Fine",
+  "vendor_value": 238,
+  "default_skin": 3949,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 35082,
+  "chat_link": "[\u0026AgEKiQAA]",
+  "icon": "https://render.guildwars2.com/file/2060A7375FF7047DEBA8B937E905B541910A71BD/66736.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 327,
+    "max_power": 384,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 195.072,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 68
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 49
+        }
+      ]
+    }
+  }
+}

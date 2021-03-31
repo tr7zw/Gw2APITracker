@@ -1,0 +1,25 @@
+{
+  "id": 1746,
+  "tier": 3,
+  "order": 0,
+  "name": "Elevated Compassion",
+  "description": "Heal allies when you grant them boons.\u003cbr\u003e\u003cc\u003d@reminder\u003eAn ally can only be affected by this skill once per interval.\u003c/c\u003e",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Healing",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "value": 389,
+      "target": "Healing"
+    },
+    {
+      "text": "Interval",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+      "duration": 3
+    }
+  ],
+  "specialization": 52,
+  "icon": "https://render.guildwars2.com/file/07A728FDFD275D406F255B08A26BBDCB37F6EE1F/2029284.png"
+}

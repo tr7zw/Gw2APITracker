@@ -1,0 +1,44 @@
+{
+  "name": "Tamini Axe",
+  "description": "\u003cc\u003d@flavor\u003e\"The centaurs keep their weapons battle ready.\"\u003cbr\u003e—Seraph\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 10,
+  "rarity": "Fine",
+  "vendor_value": 15,
+  "default_skin": 4592,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30360,
+  "chat_link": "[\u0026AgGYdgAA]",
+  "icon": "https://render.guildwars2.com/file/76FB08C4B9F9E72359141EFDA275DCC4AA66CD3F/221418.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 157,
+    "max_power": 191,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 22.976,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Resilient Krytan Spear",
+  "type": "Weapon",
+  "level": 11,
+  "rarity": "Fine",
+  "vendor_value": 24,
+  "default_skin": 5164,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 33460,
+  "chat_link": "[\u0026AgG0ggAA]",
+  "icon": "https://render.guildwars2.com/file/3B43A2B3024DB30DAE3E930176080946B2E23BC1/780562.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 169,
+    "max_power": 187,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 49.408,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 17
+        }
+      ]
+    }
+  }
+}

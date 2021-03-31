@@ -1,0 +1,48 @@
+{
+  "name": "Rabid Oaken Shoulderguards",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 25000,
+  "default_skin": 511,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Sylvari"
+  ],
+  "id": 3678,
+  "chat_link": "[\u0026AgFeDgAA]",
+  "icon": "https://render.guildwars2.com/file/A5FE6AEFBDE597C81845F6DCE3E702097E29A21E/779809.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "defense": 107,
+    "infusion_slots": [],
+    "attribute_adjustment": 113.184,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 28
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 28
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 40
+        }
+      ]
+    }
+  }
+}

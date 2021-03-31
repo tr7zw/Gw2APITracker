@@ -1,0 +1,44 @@
+{
+  "name": "Vigorous Bandit Slicer",
+  "description": "",
+  "type": "Weapon",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 102,
+  "default_skin": 4070,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 15629,
+  "chat_link": "[\u0026AgENPQAA]",
+  "icon": "https://render.guildwars2.com/file/F5250BCB0AA66105730CAA97E21FD62E9E1F1DB4/66744.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 339,
+    "max_power": 375,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 98.568,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 34
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 25
+        }
+      ]
+    }
+  }
+}

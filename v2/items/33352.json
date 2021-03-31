@@ -1,0 +1,36 @@
+{
+  "name": "Crooked Rod",
+  "description": "",
+  "type": "Weapon",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 1,
+  "default_skin": 3866,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoMysticForge"
+  ],
+  "restrictions": [],
+  "id": 33352,
+  "chat_link": "[\u0026AgFIggAA]",
+  "icon": "https://render.guildwars2.com/file/40539A620E4FF85EEE0D104BBE234E185142A2CC/66202.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 104,
+    "max_power": 118,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 7.8,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    }
+  }
+}

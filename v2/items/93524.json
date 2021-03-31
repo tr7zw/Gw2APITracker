@@ -1,0 +1,47 @@
+{
+  "name": "Cleric\u0027s Stormcaller Torch",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 9371,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 93524,
+  "chat_link": "[\u0026AgFUbQEA]",
+  "icon": "https://render.guildwars2.com/file/0EF27A0570EE0C7976233BB614FA1E5040A7740E/2293245.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 789,
+    "max_power": 926,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 85
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 85
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 120
+        }
+      ]
+    }
+  }
+}

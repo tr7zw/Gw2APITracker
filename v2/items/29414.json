@@ -1,0 +1,49 @@
+{
+  "name": "Silenced Dagger",
+  "description": "\u003cc\u003d@flavor\u003e\"This dagger has a special coating making it quieter than others.\"\u003cbr\u003e—Sizza\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 53,
+  "rarity": "Masterwork",
+  "vendor_value": 94,
+  "default_skin": 4009,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29414,
+  "chat_link": "[\u0026AgHmcgAA]",
+  "icon": "https://render.guildwars2.com/file/3254C66ED1675657E0B7C2FBBC09FBF2FBAA74A6/62762.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 466,
+    "max_power": 495,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 155.924,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 39
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 55
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

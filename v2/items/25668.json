@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Shiverpeak Trident of Earth",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 198,
+  "default_skin": 5106,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25668,
+  "chat_link": "[\u0026AgFEZAAA]",
+  "icon": "https://render.guildwars2.com/file/969AD4BBDD1760576A18136702D2D02260097D52/534292.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 745,
+    "max_power": 823,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 559.912,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 196
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 140
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 140
+        }
+      ]
+    },
+    "suffix_item_id": 24558
+  }
+}

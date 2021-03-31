@@ -1,0 +1,41 @@
+{
+  "id": 4662,
+  "name": "Skyscale Reflexes",
+  "description": "",
+  "requirement": "Play catch with your skyscale in Sun\u0027s Refuge.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 90710
+    },
+    {
+      "type": "Item",
+      "id": 90509
+    },
+    {
+      "type": "Item",
+      "id": 90885
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 90919,
+      "count": 1
+    }
+  ]
+}

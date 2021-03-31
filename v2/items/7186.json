@@ -1,0 +1,49 @@
+{
+  "name": "Soldier\u0027s Duelist Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 65,
+  "rarity": "Masterwork",
+  "vendor_value": 477,
+  "default_skin": 908,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 7186,
+  "chat_link": "[\u0026AgESHAAA]",
+  "icon": "https://render.guildwars2.com/file/CC4C6AF2CD591F48C0655460F657EE52CA4A6CBA/61040.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 96,
+    "infusion_slots": [],
+    "attribute_adjustment": 77.622,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 27
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 19
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 19
+        }
+      ]
+    }
+  }
+}

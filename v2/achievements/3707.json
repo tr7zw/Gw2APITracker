@@ -1,0 +1,56 @@
+{
+  "id": 3707,
+  "name": "Skimmer Search",
+  "description": "",
+  "requirement": "Use your newly earned skimmer to help those in need throughout the Elon Riverlands.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 84799
+    },
+    {
+      "type": "Item",
+      "id": 84332
+    },
+    {
+      "type": "Item",
+      "id": 83833
+    },
+    {
+      "type": "Item",
+      "id": 82095
+    },
+    {
+      "type": "Item",
+      "id": 84057
+    },
+    {
+      "type": "Item",
+      "id": 82803
+    }
+  ],
+  "tiers": [
+    {
+      "count": 6,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    3627
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 356
+    }
+  ]
+}

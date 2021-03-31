@@ -1,0 +1,18 @@
+{
+  "id": 307,
+  "name": "Master of Disaster",
+  "description": "You can build a trebuchet in your sleep.",
+  "requirement": "Spend  supply on siege.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 10,
+      "points": 15
+    }
+  ]
+}

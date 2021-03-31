@@ -1,0 +1,41 @@
+{
+  "name": "Penetrating Krytan Speargun",
+  "type": "Weapon",
+  "level": 31,
+  "rarity": "Fine",
+  "vendor_value": 47,
+  "default_skin": 4990,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 33568,
+  "chat_link": "[\u0026AgEggwAA]",
+  "icon": "https://render.guildwars2.com/file/A44FA6A23E80D5519D279012FA0B257135EA75C1/61718.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 264,
+    "max_power": 292,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 139.52,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 49
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 35
+        }
+      ]
+    }
+  }
+}

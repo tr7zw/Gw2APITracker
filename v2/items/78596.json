@@ -1,0 +1,49 @@
+{
+  "name": "Rabid Winged Tunic of the Necromancer",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "default_skin": 158,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 78596,
+  "chat_link": "[\u0026AgEEMwEA]",
+  "icon": "https://render.guildwars2.com/file/462FF624C12F05C350635BE10DA4479E4DC64B61/61509.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 314,
+    "infusion_slots": [],
+    "attribute_adjustment": 384.12,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 96
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 96
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 134
+        }
+      ]
+    },
+    "suffix_item_id": 24806
+  }
+}

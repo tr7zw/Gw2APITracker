@@ -1,0 +1,28 @@
+{
+  "name": "Recipe: Trident",
+  "description": "A recipe to make a Trident",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 22,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9529,
+  "chat_link": "[\u0026AgE5JQAA]",
+  "icon": "https://render.guildwars2.com/file/DE3C760AC231EFBE027293FD93AD5A985CEECFFF/849369.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 3865
+  }
+}

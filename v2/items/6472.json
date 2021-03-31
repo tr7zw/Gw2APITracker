@@ -1,0 +1,38 @@
+{
+  "name": "Leather Vest",
+  "description": "",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 1,
+  "default_skin": 6,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoMysticForge",
+    "NoSalvage",
+    "NotUpgradeable",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6472,
+  "chat_link": "[\u0026AgFIGQAA]",
+  "icon": "https://render.guildwars2.com/file/D39FF60AFE11FF260A3F0B24484CA8BCB909E0B0/61015.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 22,
+    "infusion_slots": [],
+    "attribute_adjustment": 9.477,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    }
+  }
+}

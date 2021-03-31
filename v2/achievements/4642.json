@@ -1,0 +1,28 @@
+{
+  "id": 4642,
+  "name": "Warclaw Companion",
+  "description": "It takes a strong will to master the warclaw.",
+  "requirement": "Complete the following tasks to earn the mighty warclaw mount.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 8,
+      "points": 10
+    }
+  ],
+  "prerequisites": [
+    4634
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 90057,
+      "count": 1
+    }
+  ]
+}

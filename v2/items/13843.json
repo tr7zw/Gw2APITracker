@@ -1,0 +1,38 @@
+{
+  "name": "Malign Green Wood Trident",
+  "description": "",
+  "type": "Weapon",
+  "level": 10,
+  "rarity": "Fine",
+  "vendor_value": 23,
+  "default_skin": 3889,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 13843,
+  "chat_link": "[\u0026AgETNgAA]",
+  "icon": "https://render.guildwars2.com/file/195C62FCE31ECE47100E4020CE6C909AB69FEA9C/562000.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 165,
+    "max_power": 183,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 45.952,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 16
+        }
+      ]
+    }
+  }
+}

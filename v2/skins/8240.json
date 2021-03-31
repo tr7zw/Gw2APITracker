@@ -1,0 +1,34 @@
+{
+  "name": "Luminous Light Crown",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe",
+    "HideIfLocked"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 8240,
+  "icon": "https://render.guildwars2.com/file/E012DE2C72FF44B0D8B4430F35DF76AAA3D4BF72/2022499.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        null,
+        {
+          "color_id": -1,
+          "material": "cloth"
+        }
+      ],
+      "overrides": {}
+    }
+  }
+}

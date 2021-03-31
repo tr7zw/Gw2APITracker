@@ -1,0 +1,51 @@
+{
+  "name": "Forsaken Dreadbell",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Exotic",
+  "vendor_value": 220,
+  "default_skin": 5162,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 51911,
+  "chat_link": "[\u0026AgHHygAA]",
+  "icon": "https://render.guildwars2.com/file/10809A71367FA21EA8FE6338C00BBE05AE4C0ECE/575173.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 691,
+    "max_power": 780,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 254.64,
+    "infix_upgrade": {
+      "id": 1011,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 89
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 64
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 64
+        }
+      ]
+    }
+  }
+}

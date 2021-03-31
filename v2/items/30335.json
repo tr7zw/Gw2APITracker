@@ -1,0 +1,45 @@
+{
+  "name": "Backwoods Dagger",
+  "description": "\u003cc\u003d@flavor\u003e\"Out here, you can\u0027t settle for the run of the mill. These have my own special little modifications.\"\u003cbr\u003e—Waldo\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 15,
+  "rarity": "Masterwork",
+  "vendor_value": 40,
+  "default_skin": 4009,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30335,
+  "chat_link": "[\u0026AgF/dgAA]",
+  "icon": "https://render.guildwars2.com/file/3254C66ED1675657E0B7C2FBBC09FBF2FBAA74A6/62762.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 204,
+    "max_power": 217,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 35.632,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 12
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

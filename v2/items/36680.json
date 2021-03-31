@@ -1,0 +1,44 @@
+{
+  "name": "Charred Back Warmer",
+  "type": "Back",
+  "level": 75,
+  "rarity": "Rare",
+  "vendor_value": 186,
+  "default_skin": 2329,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 36680,
+  "chat_link": "[\u0026AgFIjwAA]",
+  "icon": "https://render.guildwars2.com/file/03B65C435B15EB2C10E04F3454B03718AAF3AE90/61004.png",
+  "details": {
+    "infusion_slots": [],
+    "attribute_adjustment": 68.67,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 17
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 17
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 24
+        }
+      ]
+    },
+    "suffix_item_id": 24921
+  }
+}

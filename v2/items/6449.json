@@ -1,0 +1,45 @@
+{
+  "name": "Mending Chestplate",
+  "description": "",
+  "type": "Armor",
+  "level": 57,
+  "rarity": "Masterwork",
+  "vendor_value": 147,
+  "default_skin": 917,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6449,
+  "chat_link": "[\u0026AgExGQAA]",
+  "icon": "https://render.guildwars2.com/file/B1631025954E439A0B2F4925F3E2AA5DC5A73902/61224.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 187,
+    "infusion_slots": [],
+    "attribute_adjustment": 194.004,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 49
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 68
+        }
+      ]
+    },
+    "suffix_item_id": 24707
+  }
+}

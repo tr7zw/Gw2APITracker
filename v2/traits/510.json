@@ -1,0 +1,57 @@
+{
+  "id": 510,
+  "tier": 3,
+  "order": 0,
+  "name": "Juggernaut",
+  "description": "Gain might and stability while wielding a flamethrower. Might applied to you gains increased duration.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+      "duration": 12,
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+      "duration": 6,
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
+      "apply_count": 1
+    },
+    {
+      "text": "Interval",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+      "duration": 3
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+      "duration": 3,
+      "status": "Stability",
+      "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
+      "apply_count": 1
+    },
+    {
+      "text": "Duration Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "percent": 20
+    },
+    {
+      "text": "Duration Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "percent": 10
+    }
+  ],
+  "specialization": 38,
+  "icon": "https://render.guildwars2.com/file/374A7E3227C94B57047A78A8079F07C090D3CE6E/1012360.png"
+}

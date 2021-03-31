@@ -1,0 +1,43 @@
+{
+  "name": "Sentinel\u0027s Perch Scout Medal",
+  "description": "\u003cc\u003d@flavor\u003eFor service in spotting at Sentinel\u0027s Perch.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 39,
+  "rarity": "Masterwork",
+  "vendor_value": 93,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23585,
+  "chat_link": "[\u0026AgEhXAAA]",
+  "icon": "https://render.guildwars2.com/file/C00439EF2BE3B9E5F86299D9F47E32C0D40AD6C4/63109.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 64.77,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 23
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 16
+        }
+      ]
+    }
+  }
+}

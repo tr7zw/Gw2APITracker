@@ -1,0 +1,64 @@
+{
+  "name": "Sights Be True",
+  "description": "",
+  "type": "Back",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 330,
+  "default_skin": 2341,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 37002,
+  "chat_link": "[\u0026AgGKkAAA]",
+  "icon": "https://render.guildwars2.com/file/E61D97DD6D7B3872DB13A9D237A1CB3D80381E60/61756.png",
+  "details": {
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 89.628,
+    "infix_upgrade": {
+      "id": 583,
+      "buff": {
+        "skill_id": 15743,
+        "description": "+32 Toughness\n+18 Power\n+18 Ferocity"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 40
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 63
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 40
+        }
+      ]
+    }
+  },
+  "upgrades_into": [
+    {
+      "upgrade": "Infusion",
+      "item_id": 49367
+    }
+  ]
+}

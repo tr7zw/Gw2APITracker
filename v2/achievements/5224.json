@@ -1,0 +1,75 @@
+{
+  "id": 5224,
+  "name": "Searching for Inspiration",
+  "description": "",
+  "requirement": "Find a collection of Snargle Goldclaw\u0027s books across Tyria to remind him of his literary genius and free him from his writer\u0027s block.\n\u003cc\u003d@reminder\u003eRequires access to previous Living World episodes to complete.\u003c/c\u003e",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 93219
+    },
+    {
+      "type": "Item",
+      "id": 93018
+    },
+    {
+      "type": "Item",
+      "id": 93135
+    },
+    {
+      "type": "Item",
+      "id": 93005
+    },
+    {
+      "type": "Item",
+      "id": 93110
+    },
+    {
+      "type": "Item",
+      "id": 93006
+    },
+    {
+      "type": "Item",
+      "id": 93272
+    },
+    {
+      "type": "Item",
+      "id": 92979
+    },
+    {
+      "type": "Item",
+      "id": 93278
+    },
+    {
+      "type": "Item",
+      "id": 93256
+    }
+  ],
+  "tiers": [
+    {
+      "count": 10,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    5231
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 93258,
+      "count": 1
+    },
+    {
+      "type": "Title",
+      "id": 357
+    }
+  ]
+}

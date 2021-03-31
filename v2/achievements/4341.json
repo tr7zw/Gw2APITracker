@@ -1,0 +1,94 @@
+{
+  "id": 4341,
+  "name": "Full House",
+  "description": "Sun\u0027s Refuge was once bustling and full of life. It will be so again.",
+  "requirement": "Discover and complete all the collections within Sun\u0027s Refuge.",
+  "locked_text": "Complete Legacy to unlock this achievement.",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Readathon"
+    },
+    {
+      "type": "Text",
+      "text": "Exhibit Aye"
+    },
+    {
+      "type": "Text",
+      "text": "Crystal Attunement"
+    },
+    {
+      "type": "Text",
+      "text": "In a Grain of Sand"
+    },
+    {
+      "type": "Text",
+      "text": "Good, Better, Nest"
+    },
+    {
+      "type": "Text",
+      "text": "Memorabilia"
+    },
+    {
+      "type": "Text",
+      "text": "Poster Child"
+    },
+    {
+      "type": "Text",
+      "text": "The Convergence of Sorrow I: Elegy"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    },
+    {
+      "count": 8,
+      "points": 3
+    }
+  ],
+  "prerequisites": [
+    4392
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 88747,
+      "count": 1
+    },
+    {
+      "type": "Title",
+      "id": 315
+    }
+  ]
+}

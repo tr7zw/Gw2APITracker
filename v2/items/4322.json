@@ -1,0 +1,47 @@
+{
+  "name": "Heavy Diver\u0027s Mask",
+  "description": "\u003cc\u003d@flavor\u003eAllows you to dive deep and keep breathing.\u003c/c\u003e",
+  "type": "Armor",
+  "level": 39,
+  "rarity": "Masterwork",
+  "vendor_value": 93,
+  "default_skin": 854,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4322,
+  "chat_link": "[\u0026AgHiEAAA]",
+  "icon": "https://render.guildwars2.com/file/FA1D042B0845BED8DA3CFA0FAA0837D5EB0207A6/61297.png",
+  "details": {
+    "type": "HelmAquatic",
+    "weight_class": "Heavy",
+    "defense": 40,
+    "infusion_slots": [],
+    "attribute_adjustment": 51.816,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 13
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 18
+        }
+      ]
+    },
+    "suffix_item_id": 24739
+  }
+}

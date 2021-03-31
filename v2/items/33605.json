@@ -1,0 +1,41 @@
+{
+  "name": "Penetrating Krytan Greatsword",
+  "type": "Weapon",
+  "level": 56,
+  "rarity": "Fine",
+  "vendor_value": 74,
+  "default_skin": 4995,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 33605,
+  "chat_link": "[\u0026AgFFgwAA]",
+  "icon": "https://render.guildwars2.com/file/CC31BBF5C565BB000AF150407329610572C20C3D/61671.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 491,
+    "max_power": 543,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 308.352,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 108
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 77
+        }
+      ]
+    }
+  }
+}

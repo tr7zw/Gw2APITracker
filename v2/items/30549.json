@@ -1,0 +1,44 @@
+{
+  "name": "Wardenhurst Mace",
+  "description": "\u003cc\u003d@flavor\u003e\"We reinforce these with our own special techniques.\"\u003cbr\u003e—Warden Gemai\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 2,
+  "rarity": "Fine",
+  "vendor_value": 7,
+  "default_skin": 3861,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30549,
+  "chat_link": "[\u0026AgFVdwAA]",
+  "icon": "https://render.guildwars2.com/file/6E350F079207B60BFBD5A54A9F14E667677E0016/66184.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 140,
+    "max_power": 157,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 13.44,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 5
+        }
+      ]
+    }
+  }
+}

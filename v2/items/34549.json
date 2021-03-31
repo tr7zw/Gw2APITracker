@@ -1,0 +1,40 @@
+{
+  "name": "Malign Glyphic Staff of Agony",
+  "type": "Weapon",
+  "level": 14,
+  "rarity": "Masterwork",
+  "vendor_value": 57,
+  "default_skin": 5237,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34549,
+  "chat_link": "[\u0026AgH1hgAA]",
+  "icon": "https://render.guildwars2.com/file/009BF7054DD8F777207999EC76EA747801A4CA56/62802.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 213,
+    "max_power": 240,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 67.456,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 24
+        }
+      ]
+    },
+    "suffix_item_id": 24610
+  }
+}

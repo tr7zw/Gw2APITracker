@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Legionnaire Maul of Accuracy",
+  "type": "Weapon",
+  "level": 78,
+  "rarity": "Exotic",
+  "vendor_value": 384,
+  "default_skin": 5116,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32277,
+  "chat_link": "[\u0026AgEVfgAA]",
+  "icon": "https://render.guildwars2.com/file/92A275091CD101AF5903E1782201AC61965BFCDF/67670.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 954,
+    "max_power": 1076,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 658.72,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 165
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 165
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 231
+        }
+      ]
+    },
+    "suffix_item_id": 24618
+  }
+}

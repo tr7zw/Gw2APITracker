@@ -1,0 +1,46 @@
+{
+  "id": 4940,
+  "name": "\"Bound by Blood\" Mastery",
+  "description": "",
+  "requirement": "Complete  of the following \"Bound by Blood\" achievement.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 2
+    },
+    {
+      "count": 15,
+      "points": 3
+    },
+    {
+      "count": 30,
+      "points": 4
+    },
+    {
+      "count": 45,
+      "points": 8
+    },
+    {
+      "count": 54,
+      "points": 12
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 91956,
+      "count": 1
+    }
+  ]
+}

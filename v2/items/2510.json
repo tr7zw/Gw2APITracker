@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Cabalist Hood of the Eagle",
+  "description": "",
+  "type": "Armor",
+  "level": 47,
+  "rarity": "Rare",
+  "vendor_value": 158,
+  "default_skin": 103,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 2510,
+  "chat_link": "[\u0026AgHOCQAA]",
+  "icon": "https://render.guildwars2.com/file/16E5686EC33001A0D77FF5D4320EFBCA39130826/61411.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 32,
+    "infusion_slots": [],
+    "attribute_adjustment": 72.216,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 18
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 25
+        }
+      ]
+    },
+    "suffix_item_id": 24722
+  }
+}

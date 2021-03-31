@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Glyphic Rifle of Smoldering",
+  "type": "Weapon",
+  "level": 44,
+  "rarity": "Masterwork",
+  "vendor_value": 120,
+  "default_skin": 5033,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34634,
+  "chat_link": "[\u0026AgFKhwAA]",
+  "icon": "https://render.guildwars2.com/file/50113CEAABC198949852AE1979C1B9F6E000AA4B/63882.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 412,
+    "max_power": 504,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 242.352,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 61
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 85
+        }
+      ]
+    },
+    "suffix_item_id": 24622
+  }
+}

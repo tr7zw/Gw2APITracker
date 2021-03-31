@@ -1,0 +1,44 @@
+{
+  "name": "Mending Norn Dagger of Earth",
+  "type": "Weapon",
+  "level": 53,
+  "rarity": "Rare",
+  "vendor_value": 141,
+  "default_skin": 5228,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25031,
+  "chat_link": "[\u0026AgHHYQAA]",
+  "icon": "https://render.guildwars2.com/file/2F11C70CBD6B7CDFF2D21CD611CC4202DDB8BFED/575168.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 503,
+    "max_power": 534,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 169.272,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 42
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 59
+        }
+      ]
+    },
+    "suffix_item_id": 24559
+  }
+}

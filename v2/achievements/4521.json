@@ -1,0 +1,53 @@
+{
+  "id": 4521,
+  "name": "Chasing Tales: Baverne the Hunter",
+  "description": "",
+  "requirement": "Acquire a Dragonsblood rifle and perform tasks to re-create Baverne\u0027s legend.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Acquire the tome entry Chasing Tales: Baverne the Hunter."
+    },
+    {
+      "type": "Text",
+      "text": "Acquire the heroic spirit of Baverne: deed #1."
+    },
+    {
+      "type": "Text",
+      "text": "Acquire the heroic spirit of Baverne: deed #2."
+    },
+    {
+      "type": "Text",
+      "text": "Acquire the heroic spirit of Baverne: deed #3."
+    },
+    {
+      "type": "Text",
+      "text": "Meet with the spirit of Baverne at a heroic font."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 322
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Worn Scale Gauntlets of the Citadel",
+  "description": "",
+  "type": "Armor",
+  "level": 39,
+  "rarity": "Masterwork",
+  "vendor_value": 67,
+  "default_skin": 68,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 1517,
+  "chat_link": "[\u0026AgHtBQAA]",
+  "icon": "https://render.guildwars2.com/file/A732157105CA6F75FB05107DF90BD9BB072DC3CE/61056.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 60,
+    "infusion_slots": [],
+    "attribute_adjustment": 38.862,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 10
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 14
+        }
+      ]
+    },
+    "suffix_item_id": 24739
+  }
+}

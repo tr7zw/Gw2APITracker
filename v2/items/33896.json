@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Krytan Staff of the Hydromancer",
+  "type": "Weapon",
+  "level": 56,
+  "rarity": "Masterwork",
+  "vendor_value": 147,
+  "default_skin": 5019,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33896,
+  "chat_link": "[\u0026AgFohAAA]",
+  "icon": "https://render.guildwars2.com/file/97DDBDF3D871A7773BF12210205A27057AD253DA/61724.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 527,
+    "max_power": 594,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 336.192,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 118
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 84
+        }
+      ]
+    },
+    "suffix_item_id": 24595
+  }
+}

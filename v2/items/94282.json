@@ -1,0 +1,53 @@
+{
+  "name": "Commander\u0027s Dragon Slayer Torch",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 9690,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94282,
+  "chat_link": "[\u0026AgFKcAEA]",
+  "icon": "https://render.guildwars2.com/file/D66CB80778B707D71C9F0E93F6E2F368F1377D7D/2351825.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 789,
+    "max_power": 926,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1131,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 102
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 102
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 56
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 56
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Runestone Necklace",
+  "description": "",
+  "type": "Trinket",
+  "level": 75,
+  "rarity": "Masterwork",
+  "vendor_value": 248,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23717,
+  "chat_link": "[\u0026AgGlXAAA]",
+  "icon": "https://render.guildwars2.com/file/5029F1056F05432812FCDEB23A06C072F4A7DDFD/455950.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 254.252,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 64
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 64
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 89
+        }
+      ]
+    }
+  }
+}

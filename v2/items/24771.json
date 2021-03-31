@@ -1,0 +1,42 @@
+{
+  "name": "Superior Rune of Melandru",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003ePotence\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 60,
+  "rarity": "Exotic",
+  "vendor_value": 216,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24771,
+  "chat_link": "[\u0026AgHDYAAA]",
+  "icon": "https://render.guildwars2.com/file/66A56E6838D707BBBAD0B8D0091425502F7E3AF4/220714.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+25 Toughness",
+      "+35 Vitality",
+      "+50 Toughness",
+      "-10% Incoming Condition Duration",
+      "+100 Toughness",
+      "-10% Incoming Condition Duration; -20% Incoming Stun Duration"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of Melandru"
+  }
+}

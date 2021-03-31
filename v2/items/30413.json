@@ -1,0 +1,49 @@
+{
+  "name": "Lionguard Hammer",
+  "description": "\u003cc\u003d@flavor\u003e\"While heavy, this hammer will do the trick if wielded properly.\"\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 45,
+  "rarity": "Masterwork",
+  "vendor_value": 123,
+  "default_skin": 4060,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30413,
+  "chat_link": "[\u0026AgHNdgAA]",
+  "icon": "https://render.guildwars2.com/file/2F4509F15B48B1A9F1579D08539F4109972A31A4/65162.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 420,
+    "max_power": 473,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 249.288,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 87
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 62
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

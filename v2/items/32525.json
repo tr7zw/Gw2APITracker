@@ -1,0 +1,41 @@
+{
+  "name": "Ravaging Steam Rifle",
+  "type": "Weapon",
+  "level": 51,
+  "rarity": "Fine",
+  "vendor_value": 68,
+  "default_skin": 5099,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 32525,
+  "chat_link": "[\u0026AgENfwAA]",
+  "icon": "https://render.guildwars2.com/file/935CD7A5037BB9F3C46E0D770D2DD9730ED74A18/62495.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 441,
+    "max_power": 539,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 271.488,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 68
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 95
+        }
+      ]
+    }
+  }
+}

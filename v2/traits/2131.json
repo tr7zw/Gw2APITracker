@@ -1,0 +1,29 @@
+{
+  "id": 2131,
+  "tier": 3,
+  "order": 0,
+  "name": "Elements of Rage",
+  "description": "Gain a damage bonus for a period of time when attuned to a single element. Gain precision based on a percentage of your vitality.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/4269910A34FB0FB861DAE2A13229D594523B0BA0/1769921.png",
+      "duration": 8,
+      "status": "Elements of Rage",
+      "description": "Your damage is increased.",
+      "apply_count": 1
+    },
+    {
+      "text": "Attribute Conversion",
+      "type": "BuffConversion",
+      "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
+      "percent": 13,
+      "source": "Vitality",
+      "target": "Precision"
+    }
+  ],
+  "specialization": 56,
+  "icon": "https://render.guildwars2.com/file/4269910A34FB0FB861DAE2A13229D594523B0BA0/1769921.png"
+}

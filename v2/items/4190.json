@@ -1,0 +1,43 @@
+{
+  "name": "Dunrock Leather Boots",
+  "description": "\u003cc\u003d@flavor\u003e\"It\u0027s important to have the right shoes for the job.\"\u003cbr\u003e—Vasher Shadowsinner\u003c/c\u003e",
+  "type": "Armor",
+  "level": 17,
+  "rarity": "Masterwork",
+  "vendor_value": 42,
+  "default_skin": 890,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4190,
+  "chat_link": "[\u0026AgFeEAAA]",
+  "icon": "https://render.guildwars2.com/file/7F574148CEA5B12EF64A4E42D5F85AFEBD1CFEF3/61250.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 27,
+    "infusion_slots": [],
+    "attribute_adjustment": 15.0705,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 5
+        }
+      ]
+    },
+    "suffix_item_id": 24739
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Carrion Reinforced Scale Coat of Infiltration",
+  "description": "",
+  "type": "Armor",
+  "level": 69,
+  "rarity": "Masterwork",
+  "vendor_value": 174,
+  "default_skin": 42,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 1240,
+  "chat_link": "[\u0026AgHYBAAA]",
+  "icon": "https://render.guildwars2.com/file/19F90C0019AF1F763A972B2C01FF424CA63D049C/61048.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 241,
+    "infusion_slots": [],
+    "attribute_adjustment": 254.133,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 64
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 64
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 89
+        }
+      ]
+    },
+    "suffix_item_id": 24705
+  }
+}

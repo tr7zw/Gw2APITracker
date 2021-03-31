@@ -1,0 +1,48 @@
+{
+  "name": "Valkyrie Corrupted Wartorch",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 4022,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 14936,
+  "chat_link": "[\u0026AgFYOgAA]",
+  "icon": "https://render.guildwars2.com/file/9FCD906274EA0F3B70148073C276B1C5B2FFCC9D/534174.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 789,
+    "max_power": 926,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 157,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 120
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 85
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 85
+        }
+      ]
+    }
+  }
+}

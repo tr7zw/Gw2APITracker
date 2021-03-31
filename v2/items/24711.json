@@ -1,0 +1,42 @@
+{
+  "name": "Superior Rune of Vampirism",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003ePotence\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 60,
+  "rarity": "Exotic",
+  "vendor_value": 216,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24711,
+  "chat_link": "[\u0026AgGHYAAA]",
+  "icon": "https://render.guildwars2.com/file/F13EECC6AED473604A097A5DBB0861E3410702EF/220724.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+25 Power",
+      "+35 Vitality",
+      "+50 Power",
+      "+65 Vitality",
+      "+100 Power",
+      "+10% Maximum Health; restore 10% of your health upon killing a foe."
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of Vampirism"
+  }
+}

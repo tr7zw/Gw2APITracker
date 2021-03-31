@@ -1,0 +1,49 @@
+{
+  "id": 4736,
+  "name": "Skyscale of Fear",
+  "description": "",
+  "requirement": "Infuse your skyscale egg with fear.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 90734
+    },
+    {
+      "type": "Item",
+      "id": 90913
+    },
+    {
+      "type": "Item",
+      "id": 90728
+    },
+    {
+      "type": "Item",
+      "id": 90801
+    },
+    {
+      "type": "Item",
+      "id": 90236
+    }
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 90259,
+      "count": 1
+    }
+  ]
+}

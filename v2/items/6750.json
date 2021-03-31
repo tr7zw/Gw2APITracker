@@ -1,0 +1,41 @@
+{
+  "name": "Mighty Apprentice Coat",
+  "description": "",
+  "type": "Armor",
+  "level": 15,
+  "rarity": "Fine",
+  "vendor_value": 65,
+  "default_skin": 4,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6750,
+  "chat_link": "[\u0026AgFeGgAA]",
+  "icon": "https://render.guildwars2.com/file/DB0264EE5C0079BB3996EC7B0297CEE1BD48EF07/61403.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 45,
+    "infusion_slots": [],
+    "attribute_adjustment": 35.712,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

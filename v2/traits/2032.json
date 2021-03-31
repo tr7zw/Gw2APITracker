@@ -1,0 +1,33 @@
+{
+  "id": 2032,
+  "tier": 2,
+  "order": 1,
+  "name": "Refined Toxins",
+  "description": "While you are above the health threshold, your strikes inflict poison. While your pet\u0027s health is above the health threshold, its strikes inflict poison.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 5
+    },
+    {
+      "text": "Health Threshold",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "percent": 75
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+      "duration": 6,
+      "status": "Poisoned",
+      "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+      "apply_count": 1
+    }
+  ],
+  "specialization": 33,
+  "icon": "https://render.guildwars2.com/file/A5F5CE0A29969CC7074F0DF1EE6F74FEE4FBD676/1012658.png"
+}

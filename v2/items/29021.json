@@ -1,0 +1,38 @@
+{
+  "name": "Mighty Speargun",
+  "description": "",
+  "type": "Weapon",
+  "level": 16,
+  "rarity": "Basic",
+  "vendor_value": 15,
+  "default_skin": 3858,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 29021,
+  "chat_link": "[\u0026AgFdcQAA]",
+  "icon": "https://render.guildwars2.com/file/491298E66504934335705E5091CCCF29C2925B47/66246.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 150,
+    "max_power": 166,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 51.584,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 18
+        }
+      ]
+    }
+  }
+}

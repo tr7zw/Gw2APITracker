@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Steam Speargun of Earth",
+  "description": "",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Exotic",
+  "vendor_value": 318,
+  "default_skin": 5091,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28102,
+  "chat_link": "[\u0026AgHGbQAA]",
+  "icon": "https://render.guildwars2.com/file/935CD7A5037BB9F3C46E0D770D2DD9730ED74A18/62495.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 661,
+    "max_power": 730,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 476.8,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 167
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 119
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 119
+        }
+      ]
+    },
+    "suffix_item_id": 24560
+  }
+}

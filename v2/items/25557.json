@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Etched Blade of Vision",
+  "type": "Weapon",
+  "level": 70,
+  "rarity": "Exotic",
+  "vendor_value": 236,
+  "default_skin": 5037,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25557,
+  "chat_link": "[\u0026AgHVYwAA]",
+  "icon": "https://render.guildwars2.com/file/180F6ADB270A053EAD3B087F794720ADAFA6B455/779896.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 765,
+    "max_power": 846,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 282.48,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 99
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 71
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 71
+        }
+      ]
+    },
+    "suffix_item_id": 24600
+  }
+}

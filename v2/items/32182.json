@@ -1,0 +1,50 @@
+{
+  "name": "Light Pistol",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Masterwork",
+  "vendor_value": 122,
+  "default_skin": 5181,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32182,
+  "chat_link": "[\u0026AgG2fQAA]",
+  "icon": "https://render.guildwars2.com/file/54F1B16B6909C85161CB317CE13A6104220DB655/534099.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 652,
+    "max_power": 765,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 249.56,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 87
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 62
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 62
+        }
+      ]
+    },
+    "suffix_item_id": 24554
+  }
+}

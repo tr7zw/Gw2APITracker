@@ -1,0 +1,29 @@
+{
+  "name": "Piece of Zhaitaffy",
+  "description": "A sugary, delicious, chewy treat.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 2,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "BulkConsume"
+  ],
+  "restrictions": [],
+  "id": 43319,
+  "chat_link": "[\u0026AgE3qQAA]",
+  "icon": "https://render.guildwars2.com/file/1A53C833985AF29F60470C5DEEA61704F6B97E1E/591442.png",
+  "details": {
+    "type": "Generic",
+    "duration_ms": 10000,
+    "apply_count": 1,
+    "name": "Sugar Rush",
+    "icon": "https://render.guildwars2.com/file/6FF5C83F9A13E64D3AFF15B959AC35DAE91DA4DC/500244.png",
+    "description": "Movement speed increased by 10%. Stacks duration. Causes sugar crash."
+  }
+}

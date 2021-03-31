@@ -1,0 +1,49 @@
+{
+  "name": "Cleric\u0027s Iron Rifle of Agony",
+  "description": "",
+  "type": "Weapon",
+  "level": 72,
+  "rarity": "Exotic",
+  "vendor_value": 360,
+  "default_skin": 4092,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27954,
+  "chat_link": "[\u0026AgEybQAA]",
+  "icon": "https://render.guildwars2.com/file/167018D742BBF5120BE4ACE80DE5B049089D20F2/62700.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 863,
+    "max_power": 1054,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 587.2,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 147
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 147
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 206
+        }
+      ]
+    },
+    "suffix_item_id": 24612
+  }
+}

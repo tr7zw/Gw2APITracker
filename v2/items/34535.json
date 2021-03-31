@@ -1,0 +1,40 @@
+{
+  "name": "Malign Glyphic Mace of Agony",
+  "type": "Weapon",
+  "level": 14,
+  "rarity": "Masterwork",
+  "vendor_value": 38,
+  "default_skin": 5188,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34535,
+  "chat_link": "[\u0026AgHnhgAA]",
+  "icon": "https://render.guildwars2.com/file/DB447716F108A4EC3BEA5C3995B569D83B6DA327/62417.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 194,
+    "max_power": 219,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 33.728,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 12
+        }
+      ]
+    },
+    "suffix_item_id": 24610
+  }
+}

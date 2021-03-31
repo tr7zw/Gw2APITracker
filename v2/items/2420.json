@@ -1,0 +1,40 @@
+{
+  "name": "Ravaging Magician Mask",
+  "description": "",
+  "type": "Armor",
+  "level": 37,
+  "rarity": "Fine",
+  "vendor_value": 44,
+  "default_skin": 100,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 2420,
+  "chat_link": "[\u0026AgF0CQAA]",
+  "icon": "https://render.guildwars2.com/file/E06A970CAD5A0FDBA4F49C01B168F5D1D2254419/526097.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 21,
+    "infusion_slots": [],
+    "attribute_adjustment": 43.808,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 11
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 15
+        }
+      ]
+    }
+  }
+}

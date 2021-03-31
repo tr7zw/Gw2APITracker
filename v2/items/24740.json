@@ -1,0 +1,40 @@
+{
+  "name": "Major Rune of the Citadel",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003ePotence\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 108,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24740,
+  "chat_link": "[\u0026AgGkYAAA]",
+  "icon": "https://render.guildwars2.com/file/CD0D015F43E455EA3D341DE27AD9A035A503C408/221084.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+15 Power",
+      "+6% Fury Duration",
+      "+30 Power",
+      "+9% Fury Duration"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Citadel"
+  }
+}

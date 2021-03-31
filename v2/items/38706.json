@@ -1,0 +1,48 @@
+{
+  "name": "Soldier\u0027s Ceremonial Pike",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 5157,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 38706,
+  "chat_link": "[\u0026AgEylwAA]",
+  "icon": "https://render.guildwars2.com/file/7CFDC152AB969A5A1ADA1733F408B535F10AF9E7/534096.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 905,
+    "max_power": 1000,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 239
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 171
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 171
+        }
+      ]
+    }
+  }
+}

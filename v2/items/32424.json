@@ -1,0 +1,41 @@
+{
+  "name": "Ravaging Great Steamblade",
+  "type": "Weapon",
+  "level": 26,
+  "rarity": "Fine",
+  "vendor_value": 42,
+  "default_skin": 5218,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 32424,
+  "chat_link": "[\u0026AgGofgAA]",
+  "icon": "https://render.guildwars2.com/file/D8325BBDF9DDCA3F422531492B0CEC7BA34C9ACB/66762.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 257,
+    "max_power": 284,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 109.952,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 27
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 38
+        }
+      ]
+    }
+  }
+}

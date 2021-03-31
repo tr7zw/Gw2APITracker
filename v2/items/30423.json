@@ -1,0 +1,48 @@
+{
+  "name": "Pirates Pistol",
+  "description": "\u003cc\u003d@flavor\u003e\"Fire at will!\"\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 48,
+  "rarity": "Fine",
+  "vendor_value": 43,
+  "default_skin": 3875,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30423,
+  "chat_link": "[\u0026AgHXdgAA]",
+  "icon": "https://render.guildwars2.com/file/C43656C1551C9A5A1A931EAC2901BD0FBA3BE3E1/62830.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 368,
+    "max_power": 432,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 124.672,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 31
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 44
+        }
+      ]
+    }
+  }
+}

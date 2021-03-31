@@ -1,0 +1,48 @@
+{
+  "name": "Ratatosk Pistol",
+  "description": "\u003cc\u003d@flavor\u003e\"In most cases, skritt weapons are cobbled together from random sources. Operate with caution.\"\u003cbr\u003e—Durmand Priory Field Guide to Skritt\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 45,
+  "rarity": "Fine",
+  "vendor_value": 41,
+  "default_skin": 4647,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29492,
+  "chat_link": "[\u0026AgE0cwAA]",
+  "icon": "https://render.guildwars2.com/file/3B2B56A6C7D7FCDE3B7A15EC689D9BCD1CA27A4B/67624.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 345,
+    "max_power": 405,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 114.048,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 29
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 40
+        }
+      ]
+    }
+  }
+}

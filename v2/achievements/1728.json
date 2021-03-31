@@ -1,0 +1,74 @@
+{
+  "id": 1728,
+  "name": "Fine Wining",
+  "description": "",
+  "requirement": "Consume  wines from around Tyria.",
+  "locked_text": "Purchase a Vintner\u0027s Guide from Gastronome Plikk in Rata Sum.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 8553
+    },
+    {
+      "type": "Item",
+      "id": 8600
+    },
+    {
+      "type": "Item",
+      "id": 8528
+    },
+    {
+      "type": "Item",
+      "id": 8523
+    },
+    {
+      "type": "Item",
+      "id": 8576
+    },
+    {
+      "type": "Item",
+      "id": 8550
+    },
+    {
+      "type": "Item",
+      "id": 8529
+    },
+    {
+      "type": "Item",
+      "id": 8567
+    },
+    {
+      "type": "Skin",
+      "id": 4845
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 9,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 42877,
+      "count": 1
+    }
+  ]
+}

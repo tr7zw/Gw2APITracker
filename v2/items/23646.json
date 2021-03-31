@@ -1,0 +1,47 @@
+{
+  "name": "Mechanical Golem Eye",
+  "description": "\u003cc\u003d@flavor\u003e\"So many shiny things when they blow up on landing.\"\u003cbr\u003e—Explorer Grretergrret\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 74,
+  "rarity": "Fine",
+  "vendor_value": 77,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23646,
+  "chat_link": "[\u0026AgFeXAAA]",
+  "icon": "https://render.guildwars2.com/file/3F6CD0D1A067BA497C550CFBC5DB06F69C143FA1/455944.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 144,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 50
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 36
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 36
+        }
+      ]
+    }
+  }
+}

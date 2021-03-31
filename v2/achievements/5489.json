@@ -1,0 +1,27 @@
+{
+  "id": 5489,
+  "name": "Dragon Response Expert",
+  "description": "",
+  "requirement": "Complete  Dragon Response Mission.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 30,
+      "points": 6
+    }
+  ],
+  "prerequisites": [
+    5483
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tundra",
+      "id": 539
+    }
+  ]
+}

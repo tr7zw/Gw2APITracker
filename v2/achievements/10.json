@@ -1,0 +1,35 @@
+{
+  "id": 10,
+  "name": "Gold Hoarder",
+  "description": "Money is truly no object for you.",
+  "requirement": "Have  coins in the wallet at one time.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 10000,
+      "points": 10
+    },
+    {
+      "count": 100000,
+      "points": 10
+    },
+    {
+      "count": 1000000,
+      "points": 10
+    },
+    {
+      "count": 2000000,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 13
+    }
+  ]
+}

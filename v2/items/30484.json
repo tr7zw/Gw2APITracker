@@ -1,0 +1,49 @@
+{
+  "name": "Lionguard Battle Trident",
+  "description": "\u003cc\u003d@flavor\u003e\"I have yet to see a spell backfire from this particular model.\"\u003cbr\u003e—Mei Shadowwalker\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 32,
+  "rarity": "Masterwork",
+  "vendor_value": 96,
+  "default_skin": 4712,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30484,
+  "chat_link": "[\u0026AgEUdwAA]",
+  "icon": "https://render.guildwars2.com/file/B8F4F953BC20F7A7FE9FF7459FD5534F0608730F/574969.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 294,
+    "max_power": 324,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 160.616,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 56
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 40
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

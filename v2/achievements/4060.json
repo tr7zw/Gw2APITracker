@@ -1,0 +1,27 @@
+{
+  "id": 4060,
+  "name": "Portal Breaker",
+  "description": "",
+  "requirement": "Make an Awakened invasion force retreat from an area.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 3
+    }
+  ],
+  "point_cap": 30,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 84305,
+      "count": 1
+    }
+  ]
+}

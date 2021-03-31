@@ -1,0 +1,44 @@
+{
+  "name": "Honed Invoker\u0027s Helm",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 500,
+  "default_skin": 323,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "id": 3724,
+  "chat_link": "[\u0026AgGMDgAA]",
+  "icon": "https://render.guildwars2.com/file/661D4C287491DD4F6450054DFB42B27B782AEA3F/455477.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 24,
+    "infusion_slots": [],
+    "attribute_adjustment": 49.284,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 17
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

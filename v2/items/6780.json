@@ -1,0 +1,41 @@
+{
+  "name": "Mighty Apprentice Shoulders",
+  "description": "",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 16,
+  "default_skin": 29,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6780,
+  "chat_link": "[\u0026AgF8GgAA]",
+  "icon": "https://render.guildwars2.com/file/6B1D4B0CCA00DA96257F1364C61023A7A1387A29/61350.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 8,
+    "infusion_slots": [],
+    "attribute_adjustment": 5.904,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Verdant Scepter of Earth",
+  "type": "Weapon",
+  "level": 53,
+  "rarity": "Rare",
+  "vendor_value": 141,
+  "default_skin": 3881,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34781,
+  "chat_link": "[\u0026AgHdhwAA]",
+  "icon": "https://render.guildwars2.com/file/A8DD23316F0219FD72BD06DC492BC666EB28C943/433745.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 488,
+    "max_power": 550,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 169.272,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 42
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 59
+        }
+      ]
+    },
+    "suffix_item_id": 24559
+  }
+}

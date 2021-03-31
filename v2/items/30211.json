@@ -1,0 +1,48 @@
+{
+  "name": "Serenity Scepter",
+  "description": "\u003cc\u003d@flavor\u003e\"I don\u0027t know if it changes anything, but I put a little prayer of Dwayna on the side.\"\u003cbr\u003e—Jinell\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 45,
+  "rarity": "Fine",
+  "vendor_value": 41,
+  "default_skin": 3892,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30211,
+  "chat_link": "[\u0026AgEDdgAA]",
+  "icon": "https://render.guildwars2.com/file/2696C7FBBB99549E700204A9A11F75B0D50CEC2E/65334.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 352,
+    "max_power": 397,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 114.048,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 29
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 40
+        }
+      ]
+    }
+  }
+}

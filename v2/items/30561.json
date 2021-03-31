@@ -1,0 +1,44 @@
+{
+  "name": "Hemlocked Sword",
+  "description": "\u003cc\u003d@flavor\u003e\"There\u0027s more than one way to make a blade. These have a touch of the local plants used to fuel our forges.\"\u003cbr\u003e—Tovar\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 9,
+  "rarity": "Fine",
+  "vendor_value": 14,
+  "default_skin": 4618,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30561,
+  "chat_link": "[\u0026AgFhdwAA]",
+  "icon": "https://render.guildwars2.com/file/CEB917DC2A790F4DE406E7E81D6CC89362BF6598/67730.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 162,
+    "max_power": 179,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 21.184,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 7
+        }
+      ]
+    }
+  }
+}

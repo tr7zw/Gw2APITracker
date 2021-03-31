@@ -1,0 +1,48 @@
+{
+  "name": "Ebon Vanguard Dagger",
+  "type": "Weapon",
+  "level": 40,
+  "rarity": "Rare",
+  "vendor_value": 1400,
+  "default_skin": 4615,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29577,
+  "chat_link": "[\u0026AgGJcwAA]",
+  "icon": "https://render.guildwars2.com/file/E6C14BB412766EA7D47B6367084E9DEEBFD32A9E/67569.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 385,
+    "max_power": 409,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 117.144,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 41
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 29
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

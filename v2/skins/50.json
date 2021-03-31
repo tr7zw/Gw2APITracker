@@ -1,0 +1,30 @@
+{
+  "name": "Worn Chain Gauntlets",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 50,
+  "icon": "https://render.guildwars2.com/file/E21E356DE0083C4DBE95C0DD0EA13C47DF55C6BA/61053.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        null,
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

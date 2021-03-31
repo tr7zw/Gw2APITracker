@@ -1,0 +1,45 @@
+{
+  "name": "Hearty Iron Hammer of Peril",
+  "description": "",
+  "type": "Weapon",
+  "level": 40,
+  "rarity": "Masterwork",
+  "vendor_value": 114,
+  "default_skin": 4060,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27812,
+  "chat_link": "[\u0026AgGkbAAA]",
+  "icon": "https://render.guildwars2.com/file/2F4509F15B48B1A9F1579D08539F4109972A31A4/65162.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 380,
+    "max_power": 429,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 214.336,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 54
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 75
+        }
+      ]
+    },
+    "suffix_item_id": 24619
+  }
+}

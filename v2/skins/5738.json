@@ -1,0 +1,30 @@
+{
+  "name": "Luminescent Helmet",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 5738,
+  "icon": "https://render.guildwars2.com/file/0CED28CE7E2AA5B579FB4C4F440BB038FDE49AF7/904661.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "dye_slots": {
+      "default": [
+        null,
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

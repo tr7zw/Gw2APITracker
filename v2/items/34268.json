@@ -1,0 +1,37 @@
+{
+  "name": "Malign Glyphic Trispear",
+  "type": "Weapon",
+  "level": 11,
+  "rarity": "Fine",
+  "vendor_value": 24,
+  "default_skin": 5050,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 34268,
+  "chat_link": "[\u0026AgHchQAA]",
+  "icon": "https://render.guildwars2.com/file/F670E526546CD1E9E2029B14DD9810ECDBE9001D/434765.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 169,
+    "max_power": 187,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 49.408,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 17
+        }
+      ]
+    }
+  }
+}

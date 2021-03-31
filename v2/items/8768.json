@@ -1,0 +1,24 @@
+{
+  "name": "Plank",
+  "description": "Double-click to gain a plank.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 5,
+  "game_types": [
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 8768,
+  "chat_link": "[\u0026AgFAIgAA]",
+  "icon": "https://render.guildwars2.com/file/5903B1BDD6DB016204B11ADFF1CCFE22265CF566/65937.png",
+  "details": {
+    "type": "Generic"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": 5012,
+  "name": "Whisper in the Dark Mastery",
+  "description": "",
+  "requirement": "Complete all  Whisper in the Dark achievements.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 4
+    },
+    {
+      "count": 15,
+      "points": 10
+    },
+    {
+      "count": 20,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 92255,
+      "count": 1
+    }
+  ]
+}

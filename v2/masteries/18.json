@@ -1,0 +1,42 @@
+{
+  "id": 18,
+  "name": "Jackal Mount",
+  "requirement": "Complete the Sand Jackal Run task region in the Desolation to unlock the Jackal Mastery Track.",
+  "order": 4,
+  "background": "https://render.guildwars2.com/file/0343626BF40452A6466C71EBA1539A0204354C01/1770238.png",
+  "region": "Desert",
+  "levels": [
+    {
+      "name": "Enhanced Evasion",
+      "description": "Learn to evade attacks while using the jackal\u0027s movement ability, and use it at opportune times to avoid large attacks.",
+      "instruction": "The jackal\u0027s movement ability now lets you evade all incoming attacks. Press jump or mount ability 1 to activate the ability.",
+      "icon": "https://render.guildwars2.com/file/AF0023D07150070DE849074FB02FC844B3265769/1770185.png",
+      "point_cost": 2,
+      "exp_cost": 381000
+    },
+    {
+      "name": "Bolster Allies",
+      "description": "Learn to use the jackal\u0027s sand to bolster allies when using Pounce, granting nearby allies a strong barrier.",
+      "instruction": "Pounce will now grant nearby allies a strong barrier.",
+      "icon": "https://render.guildwars2.com/file/47F942D39FF16CCBFEF656CDEF0BC038621E6DD5/1770186.png",
+      "point_cost": 3,
+      "exp_cost": 457200
+    },
+    {
+      "name": "Shifting Sands",
+      "description": "Learn to shift through the sand portals found throughout the desert to reach new and hidden locations.",
+      "instruction": "You may now use sand portals to phase to new locations while riding the jackal.",
+      "icon": "https://render.guildwars2.com/file/45EF9D3F40C16D47E679ACE1FF213ED46D33A0D7/1770187.png",
+      "point_cost": 4,
+      "exp_cost": 558800
+    },
+    {
+      "name": "Adroit Evasion",
+      "description": "Master the jackal and learn to share the bonus from Enhanced Evasion with all mounts through their movement abilities.",
+      "instruction": "All mounts now receive the Enhanced Evasion bonus, allowing their movement abilities to evade hostile attacks.",
+      "icon": "https://render.guildwars2.com/file/1FC128CD155E1405F932F7C7DEFC726AB55A3B06/1770188.png",
+      "point_cost": 5,
+      "exp_cost": 1222375
+    }
+  ]
+}

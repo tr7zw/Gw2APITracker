@@ -1,0 +1,41 @@
+{
+  "name": "Wooden Sword",
+  "description": "",
+  "type": "Weapon",
+  "level": 7,
+  "rarity": "Fine",
+  "vendor_value": 12,
+  "default_skin": 4901,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell"
+  ],
+  "restrictions": [],
+  "id": 29407,
+  "chat_link": "[\u0026AgHfcgAA]",
+  "icon": "https://render.guildwars2.com/file/9B0AA9012997E7C5545F1E3E494B9DC79CDB80A0/780599.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 154,
+    "max_power": 170,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 17.664,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

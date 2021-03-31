@@ -1,0 +1,28 @@
+{
+  "name": "Transmutation Stone",
+  "description": "Double-click to consume 3 transmutation stones for 1 transmutation charge.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 29,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 8470,
+  "chat_link": "[\u0026AgEWIQAA]",
+  "icon": "https://render.guildwars2.com/file/A552F853B6D1BB1B015D0850F25FE14B1961E5B5/63055.png",
+  "details": {
+    "type": "Generic"
+  }
+}

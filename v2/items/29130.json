@@ -1,0 +1,46 @@
+{
+  "name": "Berserker\u0027s Staff",
+  "description": "",
+  "type": "Weapon",
+  "level": 72,
+  "rarity": "Basic",
+  "vendor_value": 45,
+  "default_skin": 3872,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 29130,
+  "chat_link": "[\u0026AgHKcQAA]",
+  "icon": "https://render.guildwars2.com/file/FA1C40555C74D2BAAED3729F7B2560F517E2171A/66214.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 523,
+    "max_power": 589,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 352.768,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 123
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 88
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 88
+        }
+      ]
+    }
+  }
+}

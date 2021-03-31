@@ -1,0 +1,47 @@
+{
+  "name": "Survivor\u0027s Oxenblade",
+  "type": "Weapon",
+  "level": 31,
+  "rarity": "Masterwork",
+  "vendor_value": 99,
+  "default_skin": 5193,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 53493,
+  "chat_link": "[\u0026AgH10AAA]",
+  "icon": "https://render.guildwars2.com/file/FB620EAB7AF45A0E3CC6DEFE7807030B1CE80D0F/68181.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 337,
+    "max_power": 373,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 172.992,
+    "infix_upgrade": {
+      "id": 1013,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 43
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 61
+        }
+      ]
+    }
+  }
+}

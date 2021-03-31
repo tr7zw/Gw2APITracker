@@ -1,0 +1,26 @@
+{
+  "id": 1861,
+  "icon": "https://render.guildwars2.com/file/FE01AF14D91F52A1EF2B22FE0A552B9EE2E4C3F6/511340.png",
+  "name": "Daily PvP Player Kills",
+  "description": "Maybe they\u0027ll stay down today.",
+  "requirement": "Kill, or help kill,  enemy player in a PvP match.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Daily"
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 68117,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Strong Soft Wood Warhorn of Fire",
+  "description": "",
+  "type": "Weapon",
+  "level": 53,
+  "rarity": "Rare",
+  "vendor_value": 141,
+  "default_skin": 3907,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27116,
+  "chat_link": "[\u0026AgHsaQAA]",
+  "icon": "https://render.guildwars2.com/file/5A0593B5164DE87591029323F7D90775D716001D/65530.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 444,
+    "max_power": 490,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 169.272,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 59
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 42
+        }
+      ]
+    },
+    "suffix_item_id": 24546
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Mending Norn Bow of Battle",
+  "type": "Weapon",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 167,
+  "default_skin": 5047,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25229,
+  "chat_link": "[\u0026AgGNYgAA]",
+  "icon": "https://render.guildwars2.com/file/B80D335967A4365B4EDB6D39B60E74C96917AD4F/575172.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 376,
+    "max_power": 441,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 226.944,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 57
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 79
+        }
+      ]
+    },
+    "suffix_item_id": 24602
+  }
+}

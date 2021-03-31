@@ -1,0 +1,28 @@
+{
+  "name": "Recipe: Short Bow",
+  "description": "A recipe to make a Short Bow",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 18,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9511,
+  "chat_link": "[\u0026AgEnJQAA]",
+  "icon": "https://render.guildwars2.com/file/D122FEB1ECC6695D02971EEE93C607F5BFC1D8A9/849362.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 4498
+  }
+}

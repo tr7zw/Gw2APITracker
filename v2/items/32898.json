@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Flame Crusher of Battle",
+  "type": "Weapon",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 167,
+  "default_skin": 5219,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32898,
+  "chat_link": "[\u0026AgGCgAAA]",
+  "icon": "https://render.guildwars2.com/file/64EA021DC05A4D024D807A2075F8494A5977CA2A/67278.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 403,
+    "max_power": 454,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 226.944,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 57
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 79
+        }
+      ]
+    },
+    "suffix_item_id": 24602
+  }
+}

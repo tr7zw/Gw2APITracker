@@ -1,0 +1,38 @@
+{
+  "name": "Ancient Scroll",
+  "description": "\u003cc\u003d@flavor\u003eThis scroll describes some practices of the ancient druids.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 24,
+  "rarity": "Fine",
+  "vendor_value": 33,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23950,
+  "chat_link": "[\u0026AgGOXQAA]",
+  "icon": "https://render.guildwars2.com/file/027D1D382447933D074BE45F405EA1F379471DEB/63127.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 31.68,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 11
+        }
+      ]
+    }
+  }
+}

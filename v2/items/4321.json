@@ -1,0 +1,47 @@
+{
+  "name": "Silent Walker\u0027s Gloves",
+  "description": "\u003cc\u003d@flavor\u003eThese gloves were made for stealth.\u003c/c\u003e",
+  "type": "Armor",
+  "level": 40,
+  "rarity": "Masterwork",
+  "vendor_value": 69,
+  "default_skin": 908,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4321,
+  "chat_link": "[\u0026AgHhEAAA]",
+  "icon": "https://render.guildwars2.com/file/CC4C6AF2CD591F48C0655460F657EE52CA4A6CBA/61040.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 54,
+    "infusion_slots": [],
+    "attribute_adjustment": 40.188,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 10
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 14
+        }
+      ]
+    },
+    "suffix_item_id": 24739
+  }
+}

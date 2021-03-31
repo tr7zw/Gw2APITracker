@@ -1,0 +1,39 @@
+{
+  "name": "Mine Pin",
+  "description": "\u003cc\u003d@flavor\u003e\"Yes, mines have pins, too. It helps keep them from blowing up when carrying them.\"\u003cbr\u003e—Tiga\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 15,
+  "rarity": "Fine",
+  "vendor_value": 25,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23465,
+  "chat_link": "[\u0026AgGpWwAA]",
+  "icon": "https://render.guildwars2.com/file/F54C970A597D0B060818B7F51745487106D2F904/66830.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 19.84,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 7
+        }
+      ]
+    }
+  }
+}

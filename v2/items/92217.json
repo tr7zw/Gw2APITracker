@@ -1,0 +1,47 @@
+{
+  "name": "Restored Boreal Torch",
+  "description": "A Restored Boreal weapon, crafted using materials found in Bjora Marches.",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 9040,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92217,
+  "chat_link": "[\u0026AgE5aAEA]",
+  "icon": "https://render.guildwars2.com/file/7E393F702EBD0C4B9B102DB1D83177CAF6D5F009/2220765.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Choking",
+    "min_power": 789,
+    "max_power": 926,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 120
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 85
+        }
+      ]
+    }
+  }
+}

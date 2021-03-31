@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Etched Harbinger of Blood",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Exotic",
+  "vendor_value": 212,
+  "default_skin": 5042,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25676,
+  "chat_link": "[\u0026AgFMZAAA]",
+  "icon": "https://render.guildwars2.com/file/D79AC8B92193AE02EAA5E16DA8A06D5DD6BA973B/779898.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 595,
+    "max_power": 657,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 238.4,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 83
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 60
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 60
+        }
+      ]
+    },
+    "suffix_item_id": 24570
+  }
+}

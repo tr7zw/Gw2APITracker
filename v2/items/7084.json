@@ -1,0 +1,49 @@
+{
+  "name": "Soldier\u0027s Chainmail Chestpiece",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 832,
+  "default_skin": 2,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 7084,
+  "chat_link": "[\u0026AgGsGwAA]",
+  "icon": "https://render.guildwars2.com/file/A2D0D6DA90056E76F1BE244F0C9EF333F95D9746/61098.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 298,
+    "infusion_slots": [],
+    "attribute_adjustment": 314.951,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 110
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 79
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 79
+        }
+      ]
+    }
+  }
+}

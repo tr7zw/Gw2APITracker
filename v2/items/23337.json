@@ -1,0 +1,39 @@
+{
+  "name": "Shiny Grawl Bauble",
+  "description": "\u003cc\u003d@flavor\u003e\"Grawl really like shiny things.\"\u003cbr\u003e—Etta\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 9,
+  "rarity": "Fine",
+  "vendor_value": 18,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23337,
+  "chat_link": "[\u0026AgEpWwAA]",
+  "icon": "https://render.guildwars2.com/file/97F80405ED2C35242BF3750107BAC61276B82E40/63049.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 13.24,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 5
+        }
+      ]
+    }
+  }
+}

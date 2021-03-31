@@ -1,0 +1,48 @@
+{
+  "name": "Pumpkin Crown",
+  "description": "\u003cc\u003d@flavor\u003eUnlike certain other overlords, the Mad King permits, nay, encourages imitation of his noble visage.\u003c/c\u003e",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 330,
+  "default_skin": 8966,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92182,
+  "chat_link": "[\u0026AgEWaAEA]",
+  "icon": "https://render.guildwars2.com/file/C046165FC04939B005B6106D1BF5EE93CDA50A3A/2213258.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 73,
+    "infusion_slots": [],
+    "attribute_adjustment": 170.72,
+    "infix_upgrade": {
+      "id": 1067,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 43
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 43
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 60
+        }
+      ]
+    }
+  }
+}

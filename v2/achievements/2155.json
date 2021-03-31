@@ -1,0 +1,54 @@
+{
+  "id": 2155,
+  "name": "Honorary Rata Novan",
+  "description": "You became the Citizen of Tomorrow, today!",
+  "requirement": "Participate in every stage of building Rata Novus back up.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Gathered Golem Parts"
+    },
+    {
+      "type": "Text",
+      "text": "Protected Zildi"
+    },
+    {
+      "type": "Text",
+      "text": "Powered Sentry L.O.X."
+    },
+    {
+      "type": "Text",
+      "text": "Repelled Invading Chak"
+    },
+    {
+      "type": "Text",
+      "text": "Powered Shields for Zildi"
+    },
+    {
+      "type": "Text",
+      "text": "Protected Zildi"
+    },
+    {
+      "type": "Text",
+      "text": "Killed V.O.X."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 7,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 125
+    }
+  ]
+}

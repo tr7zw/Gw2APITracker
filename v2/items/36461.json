@@ -1,0 +1,31 @@
+{
+  "name": "Keg of Liquid Karma",
+  "description": "Double-click to gain karma.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "BulkConsume",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 36461,
+  "chat_link": "[\u0026AgFtjgAA]",
+  "icon": "https://render.guildwars2.com/file/506D9B916340A2BA94C7672DBDA114C32803A3A2/1431686.png",
+  "details": {
+    "type": "Generic"
+  }
+}

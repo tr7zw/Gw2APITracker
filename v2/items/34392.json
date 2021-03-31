@@ -1,0 +1,41 @@
+{
+  "name": "Ravaging Glyphic Scepter",
+  "type": "Weapon",
+  "level": 51,
+  "rarity": "Fine",
+  "vendor_value": 45,
+  "default_skin": 5061,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 34392,
+  "chat_link": "[\u0026AgFYhgAA]",
+  "icon": "https://render.guildwars2.com/file/B0E409A76215A744756C7E98790F9B06F1489F1F/62814.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 401,
+    "max_power": 452,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 135.744,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 34
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 48
+        }
+      ]
+    }
+  }
+}

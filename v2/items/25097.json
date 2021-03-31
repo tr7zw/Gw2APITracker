@@ -1,0 +1,40 @@
+{
+  "name": "Healing Zweihänder of Agony",
+  "type": "Weapon",
+  "level": 14,
+  "rarity": "Masterwork",
+  "vendor_value": 57,
+  "default_skin": 5193,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25097,
+  "chat_link": "[\u0026AgEJYgAA]",
+  "icon": "https://render.guildwars2.com/file/FB620EAB7AF45A0E3CC6DEFE7807030B1CE80D0F/68181.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 215,
+    "max_power": 238,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 67.456,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 24
+        }
+      ]
+    },
+    "suffix_item_id": 24610
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Hearty Soft Wood Torch of Force",
+  "description": "",
+  "type": "Weapon",
+  "level": 40,
+  "rarity": "Masterwork",
+  "vendor_value": 76,
+  "default_skin": 3890,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27356,
+  "chat_link": "[\u0026AgHcagAA]",
+  "icon": "https://render.guildwars2.com/file/FA56C5DD5D7494F25D980E432BA129F44209ED0E/63136.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 305,
+    "max_power": 357,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 107.168,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 27
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 38
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

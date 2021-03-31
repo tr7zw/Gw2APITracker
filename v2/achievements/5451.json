@@ -1,0 +1,77 @@
+{
+  "id": 5451,
+  "name": "Another Side, Another Story",
+  "description": "",
+  "requirement": "Discover the truth.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 94093
+    },
+    {
+      "type": "Item",
+      "id": 94018
+    },
+    {
+      "type": "Item",
+      "id": 94085
+    },
+    {
+      "type": "Item",
+      "id": 94052
+    },
+    {
+      "type": "Item",
+      "id": 94041
+    },
+    {
+      "type": "Item",
+      "id": 94048
+    },
+    {
+      "type": "Item",
+      "id": 94092
+    },
+    {
+      "type": "Item",
+      "id": 94081
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 2
+    },
+    {
+      "count": 8,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 94049,
+      "count": 1
+    }
+  ]
+}

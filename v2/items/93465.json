@@ -1,0 +1,29 @@
+{
+  "name": "Flame Legion Crafting Box",
+  "description": "Double-click to open.\nContains a choice of Stormcaller weapon recipes (focus, scepter, staff, or torch), crafting material coffers, mission documents, or charr salvage.",
+  "type": "Container",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 93465,
+  "chat_link": "[\u0026AgEZbQEA]",
+  "icon": "https://render.guildwars2.com/file/65AEE33144CC0E692494800D38E1D79A036CCB02/2292729.png",
+  "details": {
+    "type": "Default"
+  }
+}

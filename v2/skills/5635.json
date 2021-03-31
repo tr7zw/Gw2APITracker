@@ -1,0 +1,58 @@
+{
+  "name": "Arcane Power",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 45
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/AD24BD1B231424D2A8F223A6F899AC34D6AAAB26/103356.png",
+      "duration": 30,
+      "status": "Arcane Power",
+      "description": "Attacks do critical damage.",
+      "apply_count": 1
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 240
+    },
+    {
+      "text": "Number of Allied Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    },
+    {
+      "text": "Number of Personal Stacks",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 4
+    },
+    {
+      "text": "Number of Allied Stacks",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 2
+    }
+  ],
+  "description": "Arcane. You and nearby allies do critical damage with your next few attacks. Each stack of Arcane Power grants bonus ferocity.",
+  "icon": "https://render.guildwars2.com/file/AD24BD1B231424D2A8F223A6F899AC34D6AAAB26/103356.png",
+  "type": "Utility",
+  "weapon_type": "None",
+  "professions": [
+    "Elementalist"
+  ],
+  "slot": "Utility",
+  "flags": [],
+  "id": 5635,
+  "chat_link": "[\u0026BgMWAAA\u003d]",
+  "categories": [
+    "Arcane"
+  ]
+}

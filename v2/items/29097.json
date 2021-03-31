@@ -1,0 +1,46 @@
+{
+  "name": "Berserker\u0027s Trident",
+  "description": "",
+  "type": "Weapon",
+  "level": 52,
+  "rarity": "Basic",
+  "vendor_value": 35,
+  "default_skin": 3857,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 29097,
+  "chat_link": "[\u0026AgGpcQAA]",
+  "icon": "https://render.guildwars2.com/file/0C1D90976492C401B61EF1A5272F2B3D593C6592/66274.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 329,
+    "max_power": 364,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 220.584,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 77
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 55
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 55
+        }
+      ]
+    }
+  }
+}

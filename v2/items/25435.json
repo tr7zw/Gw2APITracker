@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Norn Shield of Air",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 198,
+  "default_skin": 5096,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25435,
+  "chat_link": "[\u0026AgFbYwAA]",
+  "icon": "https://render.guildwars2.com/file/9F17F1EBFCCFA5D4C5CE70090F67D961E5F024C8/575178.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 714,
+    "max_power": 805,
+    "defense": 54,
+    "infusion_slots": [],
+    "attribute_adjustment": 301.824,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 106
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 75
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 75
+        }
+      ]
+    },
+    "suffix_item_id": 24553
+  }
+}

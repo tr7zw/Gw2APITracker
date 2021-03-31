@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Norn Trident of Air",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 297,
+  "default_skin": 5108,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25675,
+  "chat_link": "[\u0026AgFLZAAA]",
+  "icon": "https://render.guildwars2.com/file/CCA6E8F6C61EC8671054E280D12C59DA5AA060F3/780416.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 802,
+    "max_power": 886,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 603.648,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 211
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 151
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 151
+        }
+      ]
+    },
+    "suffix_item_id": 24553
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Glyphic Spear of Serpent Slaying",
+  "type": "Weapon",
+  "level": 38,
+  "rarity": "Masterwork",
+  "vendor_value": 108,
+  "default_skin": 5165,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34617,
+  "chat_link": "[\u0026AgE5hwAA]",
+  "icon": "https://render.guildwars2.com/file/D73ABC4D270CCB3016E0B66E0FC9975E19ABC3B9/434762.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 335,
+    "max_power": 370,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 200.192,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 50
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 70
+        }
+      ]
+    },
+    "suffix_item_id": 24660
+  }
+}

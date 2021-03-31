@@ -1,0 +1,45 @@
+{
+  "name": "Vigorous Diviner Leggings",
+  "description": "",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Exotic",
+  "vendor_value": 292,
+  "default_skin": 2261,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6941,
+  "chat_link": "[\u0026AgEdGwAA]",
+  "icon": "https://render.guildwars2.com/file/CCBF100F6C622FC0B6C4E154A16F633461023246/61374.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Light",
+    "defense": 131,
+    "infusion_slots": [],
+    "attribute_adjustment": 171.18,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 60
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 43
+        }
+      ]
+    }
+  }
+}

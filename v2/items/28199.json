@@ -1,0 +1,45 @@
+{
+  "name": "Strong Iron Rifle of Hobbling",
+  "description": "",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Rare",
+  "vendor_value": 189,
+  "default_skin": 4092,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28199,
+  "chat_link": "[\u0026AgEnbgAA]",
+  "icon": "https://render.guildwars2.com/file/167018D742BBF5120BE4ACE80DE5B049089D20F2/62700.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 465,
+    "max_power": 569,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 280.512,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 98
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 70
+        }
+      ]
+    },
+    "suffix_item_id": 24626
+  }
+}

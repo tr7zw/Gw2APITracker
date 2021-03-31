@@ -1,0 +1,48 @@
+{
+  "name": "Rabid Firstborn Boots",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 15000,
+  "default_skin": 531,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Sylvari"
+  ],
+  "id": 3667,
+  "chat_link": "[\u0026AgFTDgAA]",
+  "icon": "https://render.guildwars2.com/file/BCEFF1FC50E9923DD216493AA9019BD67E4B52D7/61183.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 139,
+    "infusion_slots": [],
+    "attribute_adjustment": 113.184,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 28
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 28
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 40
+        }
+      ]
+    }
+  }
+}

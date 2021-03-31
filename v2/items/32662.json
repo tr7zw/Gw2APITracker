@@ -1,0 +1,40 @@
+{
+  "name": "Malign Steam Gizmo of Agony",
+  "type": "Weapon",
+  "level": 14,
+  "rarity": "Masterwork",
+  "vendor_value": 38,
+  "default_skin": 5202,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32662,
+  "chat_link": "[\u0026AgGWfwAA]",
+  "icon": "https://render.guildwars2.com/file/12F6B21033F0962C25A76AAC31EB2757149CFBA3/68137.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 180,
+    "max_power": 191,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 33.728,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 12
+        }
+      ]
+    },
+    "suffix_item_id": 24610
+  }
+}

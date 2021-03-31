@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Norn Torch of Energy",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Rare",
+  "vendor_value": 183,
+  "default_skin": 5103,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25634,
+  "chat_link": "[\u0026AgEiZAAA]",
+  "icon": "https://render.guildwars2.com/file/3A589D3C7DEF91572159A33E324A4E975CCC011D/575182.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 632,
+    "max_power": 741,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 269.208,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 94
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 67
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 67
+        }
+      ]
+    },
+    "suffix_item_id": 24606
+  }
+}

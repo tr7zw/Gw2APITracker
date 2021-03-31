@@ -1,0 +1,81 @@
+{
+  "id": 4336,
+  "name": "Legend Builder",
+  "description": "Combine 2 Lesser Vision Crystals with 3 Vials of Blood, 6 Sapphire Orbs, and 15 Globs of Ectoplasm in the Mystic Forge to create an Ectoplasm-Infused Vision Crystal.",
+  "requirement": "Help Bakkin earn renown and fire the Favor of the Colossus.",
+  "locked_text": "Create and consume an Ectoplasm-Infused Vision Crystal to begin this journey.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 88251
+    },
+    {
+      "type": "Item",
+      "id": 88285
+    },
+    {
+      "type": "Item",
+      "id": 88313
+    },
+    {
+      "type": "Item",
+      "id": 88359
+    },
+    {
+      "type": "Item",
+      "id": 88267
+    },
+    {
+      "type": "Item",
+      "id": 88354
+    },
+    {
+      "type": "Item",
+      "id": 88284
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 88315,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Vigorous Dolyak Chausses",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 750,
+  "default_skin": 442,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Norn"
+  ],
+  "id": 3770,
+  "chat_link": "[\u0026AgG6DgAA]",
+  "icon": "https://render.guildwars2.com/file/EC606725F5359DB0F7BA3542A793C202F7AB45A3/779831.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Heavy",
+    "defense": 78,
+    "infusion_slots": [],
+    "attribute_adjustment": 73.926,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 26
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 18
+        }
+      ]
+    }
+  }
+}

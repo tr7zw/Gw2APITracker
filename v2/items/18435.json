@@ -1,0 +1,49 @@
+{
+  "name": "Flame Legion Coat",
+  "description": "\u003cc\u003d@reminder\u003eThis coat hides shoulder armor.\u003c/c\u003e",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 732,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 18435,
+  "chat_link": "[\u0026AgEDSAAA]",
+  "icon": "https://render.guildwars2.com/file/27555C5B271911561559ECE8F1E8B33012E75A58/61587.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 338,
+    "infusion_slots": [],
+    "attribute_adjustment": 384.12,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 96
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 134
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 96
+        }
+      ]
+    },
+    "suffix_item_id": 24854
+  }
+}

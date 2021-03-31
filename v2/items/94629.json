@@ -1,0 +1,54 @@
+{
+  "name": "Diviner\u0027s Refitted Aureate Dirk",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 132,
+  "default_skin": 9855,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94629,
+  "chat_link": "[\u0026AgGlcQEA]",
+  "icon": "https://render.guildwars2.com/file/4F5016E76CEBFDAD3F122DCA989B14F1993709A9/2393737.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 761,
+    "max_power": 808,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 279.956,
+    "infix_upgrade": {
+      "id": 1556,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 84
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 46
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 46
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 84
+        }
+      ]
+    }
+  }
+}

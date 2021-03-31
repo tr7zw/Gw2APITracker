@@ -1,0 +1,51 @@
+{
+  "name": "Forsaken Short-Tailed Shot",
+  "type": "Weapon",
+  "level": 68,
+  "rarity": "Exotic",
+  "vendor_value": 354,
+  "default_skin": 4865,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 51729,
+  "chat_link": "[\u0026AgERygAA]",
+  "icon": "https://render.guildwars2.com/file/65EC934A0C241E4E31E9CDF7BE19D32DB994BD45/780285.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 792,
+    "max_power": 929,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 576,
+    "infix_upgrade": {
+      "id": 1011,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 202
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 144
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 144
+        }
+      ]
+    }
+  }
+}

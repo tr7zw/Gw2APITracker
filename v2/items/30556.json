@@ -1,0 +1,44 @@
+{
+  "name": "Warden\u0027s Staff",
+  "description": "\u003cc\u003d@flavor\u003e\"Simple and effective.\"\u003cbr\u003e—Warden Brulians\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 5,
+  "rarity": "Fine",
+  "vendor_value": 15,
+  "default_skin": 3872,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30556,
+  "chat_link": "[\u0026AgFcdwAA]",
+  "icon": "https://render.guildwars2.com/file/FA1C40555C74D2BAAED3729F7B2560F517E2171A/66214.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 161,
+    "max_power": 181,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 31.488,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 11
+        }
+      ]
+    }
+  }
+}

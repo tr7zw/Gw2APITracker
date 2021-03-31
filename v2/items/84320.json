@@ -1,0 +1,45 @@
+{
+  "name": "Brandspark Amulet",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 528,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 84320,
+  "chat_link": "[\u0026AgFgSQEA]",
+  "icon": "https://render.guildwars2.com/file/3D00DCCF9339C340945A0111DEBF211BAB6AAEE3/1876161.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1363,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 120
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 85
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 85
+        }
+      ]
+    },
+    "suffix_item_id": 84765
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Minor Rune of the Mesmer",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eBrilliance\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 5,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24801,
+  "chat_link": "[\u0026AgHhYAAA]",
+  "icon": "https://render.guildwars2.com/file/66BDF9379C39466D2B9F4152FC401143C9CB804D/221123.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+10 Power",
+      "+14 Precision"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Mesmer"
+  }
+}

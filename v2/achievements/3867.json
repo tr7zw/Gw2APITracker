@@ -1,0 +1,39 @@
+{
+  "id": 3867,
+  "name": "Open Skies: On Wings and a Prayer",
+  "description": "Come, hero, and reclaim the skies for the Sunspears. For us, reclaim Elona.",
+  "requirement": "Return the Writings of the Last Spearmarshal to the pedestal in the sanctuary.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Collect all 10 volumes of the Writings of the Last Spearmarshal from Kormir\u0027s sanctum."
+    },
+    {
+      "type": "Text",
+      "text": "Place the Writings of the Last Spearmarshal on the pedestal in the Sunspear sanctuary."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 344
+    }
+  ]
+}

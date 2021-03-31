@@ -1,0 +1,39 @@
+{
+  "name": "Stonefall Crest",
+  "description": "",
+  "type": "Trinket",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 60,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23478,
+  "chat_link": "[\u0026AgG2WwAA]",
+  "icon": "https://render.guildwars2.com/file/F4486E0A6651C27F5D720CFF30D8A9CA33A855C7/66808.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 29.3675,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 10
+        }
+      ]
+    }
+  }
+}

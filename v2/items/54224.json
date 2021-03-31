@@ -1,0 +1,47 @@
+{
+  "name": "Deserter\u0027s Tarnished Hewer",
+  "type": "Weapon",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 117,
+  "default_skin": 5192,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 54224,
+  "chat_link": "[\u0026AgHQ0wAA]",
+  "icon": "https://render.guildwars2.com/file/775ED24CE0C0F5749BAD66DD9778BDE4DA37AF4A/62850.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 372,
+    "max_power": 455,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 124.56,
+    "infix_upgrade": {
+      "id": 1014,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 31
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 44
+        }
+      ]
+    }
+  }
+}

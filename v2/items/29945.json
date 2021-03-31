@@ -1,0 +1,53 @@
+{
+  "name": "Peacemaker\u0027s Sword",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 9000,
+  "default_skin": 4350,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29945,
+  "chat_link": "[\u0026AgH5dAAA]",
+  "icon": "https://render.guildwars2.com/file/925CEE08C4B11A6B491B2F0EC83CBE7DB260B2FB/780559.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 802,
+    "max_power": 886,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 301.824,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 75
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 75
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 106
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

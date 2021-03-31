@@ -1,0 +1,51 @@
+{
+  "name": "Heavy Inka Boots",
+  "description": "\u003cc\u003d@flavor\u003e\"These summoning stones have led to great breakthroughs in some of my more boot-related research.\"\u003cbr\u003e—Scholar Inka\u003c/c\u003e",
+  "type": "Armor",
+  "level": 73,
+  "rarity": "Masterwork",
+  "vendor_value": 122,
+  "default_skin": 867,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4125,
+  "chat_link": "[\u0026AgEdEAAA]",
+  "icon": "https://render.guildwars2.com/file/3ADF1F49A3D8EB01576DABE80C62ED51423C4A02/61556.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 131,
+    "infusion_slots": [],
+    "attribute_adjustment": 91.8,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 23
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 23
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 32
+        }
+      ]
+    },
+    "suffix_item_id": 24727
+  }
+}

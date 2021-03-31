@@ -1,0 +1,42 @@
+{
+  "name": "Honed Steam Speargun",
+  "description": "",
+  "type": "Weapon",
+  "level": 22,
+  "rarity": "Fine",
+  "vendor_value": 38,
+  "default_skin": 5091,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 28172,
+  "chat_link": "[\u0026AgEMbgAA]",
+  "icon": "https://render.guildwars2.com/file/935CD7A5037BB9F3C46E0D770D2DD9730ED74A18/62495.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 216,
+    "max_power": 238,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 92.8,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 32
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 23
+        }
+      ]
+    }
+  }
+}

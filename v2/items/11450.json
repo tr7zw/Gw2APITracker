@@ -1,0 +1,42 @@
+{
+  "name": "Ravaging Masquerade Mask",
+  "description": "",
+  "type": "Armor",
+  "level": 50,
+  "rarity": "Rare",
+  "vendor_value": 169,
+  "default_skin": 255,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 11450,
+  "chat_link": "[\u0026AgG6LAAA]",
+  "icon": "https://render.guildwars2.com/file/B9F2C1A5CA3EDA38D7FDE994B4749942630475A1/61359.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 35,
+    "infusion_slots": [],
+    "attribute_adjustment": 78.408,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 20
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 27
+        }
+      ]
+    }
+  }
+}

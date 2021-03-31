@@ -1,0 +1,83 @@
+{
+  "id": 2213,
+  "name": "The Minstrel II: The Perfected Focus",
+  "description": "Your first attempt at crafting the legendary precursor The Bard has been modestly successful but has not yet yielded the weapon you ultimately desire. This journey has only just begun. Find a teacher, research your procedures, and hone your skills before you try a second time.",
+  "requirement": "",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 71882
+    },
+    {
+      "type": "Item",
+      "id": 72033
+    },
+    {
+      "type": "Item",
+      "id": 73418
+    },
+    {
+      "type": "Item",
+      "id": 74462
+    },
+    {
+      "type": "Item",
+      "id": 70560
+    },
+    {
+      "type": "Item",
+      "id": 77142
+    },
+    {
+      "type": "Item",
+      "id": 73384
+    },
+    {
+      "type": "Item",
+      "id": 74502
+    },
+    {
+      "type": "Item",
+      "id": 71804
+    },
+    {
+      "type": "Item",
+      "id": 77070
+    },
+    {
+      "type": "Item",
+      "id": 72668
+    },
+    {
+      "type": "Item",
+      "id": 72167
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 12,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 74415,
+      "count": 1
+    }
+  ]
+}

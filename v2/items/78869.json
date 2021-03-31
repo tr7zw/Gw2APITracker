@@ -1,0 +1,54 @@
+{
+  "name": "Healer\u0027s Keep Construct Torch",
+  "description": "\u003cc\u003d@flavor\u003eBurning with the eerie light of the Keep Construct.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 10000,
+  "default_skin": 6836,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 78869,
+  "chat_link": "[\u0026AgEVNAEA]",
+  "icon": "https://render.guildwars2.com/file/45A1A04304EE782F4E5102AEB2A06D5808421DA3/1451359.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 828,
+    "max_power": 972,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "stat_choices": [
+      605,
+      559,
+      155,
+      628,
+      156,
+      1226,
+      1230,
+      1539,
+      1377,
+      1378,
+      1484
+    ]
+  }
+}

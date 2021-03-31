@@ -1,0 +1,51 @@
+{
+  "name": "Stygian Water Breather",
+  "description": "\u003cc\u003d@flavor\u003e\"Quaggan wants you to stay protected in dark waters.\"\u003cbr\u003e—Recruit Wongoo\u003c/c\u003e",
+  "type": "Armor",
+  "level": 72,
+  "rarity": "Masterwork",
+  "vendor_value": 150,
+  "default_skin": 854,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4437,
+  "chat_link": "[\u0026AgFVEQAA]",
+  "icon": "https://render.guildwars2.com/file/FA1D042B0845BED8DA3CFA0FAA0837D5EB0207A6/61297.png",
+  "details": {
+    "type": "HelmAquatic",
+    "weight_class": "Heavy",
+    "defense": 86,
+    "infusion_slots": [],
+    "attribute_adjustment": 120.054,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 42
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 30
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 30
+        }
+      ]
+    },
+    "suffix_item_id": 24685
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Verdant Rifle of Corruption",
+  "type": "Weapon",
+  "level": 67,
+  "rarity": "Rare",
+  "vendor_value": 252,
+  "default_skin": 5203,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34843,
+  "chat_link": "[\u0026AgEbiAAA]",
+  "icon": "https://render.guildwars2.com/file/58579456F005C2967AEF7566C7530D99BBB45864/434876.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 698,
+    "max_power": 853,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 468.432,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 117
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 117
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 164
+        }
+      ]
+    },
+    "suffix_item_id": 24577
+  }
+}

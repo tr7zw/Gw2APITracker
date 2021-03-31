@@ -1,0 +1,49 @@
+{
+  "id": 4695,
+  "name": "Skyscale of Death",
+  "description": "",
+  "requirement": "Infuse your skyscale egg with death.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 90308
+    },
+    {
+      "type": "Item",
+      "id": 90864
+    },
+    {
+      "type": "Item",
+      "id": 90445
+    },
+    {
+      "type": "Item",
+      "id": 90520
+    },
+    {
+      "type": "Item",
+      "id": 90516
+    }
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 90777,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Aureate Pistol of Ogre Slaying",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Rare",
+  "vendor_value": 126,
+  "default_skin": 5015,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34014,
+  "chat_link": "[\u0026AgHehAAA]",
+  "icon": "https://render.guildwars2.com/file/51EE9324F663CC66F37A69BE06EAFA0A7494B6D0/67685.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 414,
+    "max_power": 486,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 140.256,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 49
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 35
+        }
+      ]
+    },
+    "suffix_item_id": 24656
+  }
+}

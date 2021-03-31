@@ -1,0 +1,50 @@
+{
+  "name": "Priory\u0027s Historical Greaves",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 1550,
+  "default_skin": 1391,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 5296,
+  "chat_link": "[\u0026AgGwFAAA]",
+  "icon": "https://render.guildwars2.com/file/950AE30B0677AEBEEE070E013F00401472D9F999/526099.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 161,
+    "infusion_slots": [],
+    "attribute_adjustment": 113.184,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 28
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 28
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 40
+        }
+      ]
+    }
+  }
+}

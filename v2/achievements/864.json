@@ -1,0 +1,29 @@
+{
+  "id": 864,
+  "name": "Major in Achievement",
+  "description": "Your super adventure genius is unrivaled.",
+  "requirement": "Complete  achievement for World 2.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 13,
+      "points": 15
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 46652,
+      "count": 1
+    },
+    {
+      "type": "Title",
+      "id": 174
+    }
+  ]
+}

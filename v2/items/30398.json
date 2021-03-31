@@ -1,0 +1,42 @@
+{
+  "name": "Match-Grade Standard Rifle",
+  "description": "",
+  "type": "Weapon",
+  "level": 24,
+  "rarity": "Masterwork",
+  "vendor_value": 78,
+  "default_skin": 3867,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30398,
+  "chat_link": "[\u0026AgG+dgAA]",
+  "icon": "https://render.guildwars2.com/file/05909FE40ACD31F0201E02DD7E03C41ABD9CC401/66196.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 265,
+    "max_power": 324,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 112.2,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 39
+        }
+      ]
+    }
+  }
+}

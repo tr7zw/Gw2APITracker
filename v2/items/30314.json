@@ -1,0 +1,53 @@
+{
+  "name": "Hidden Mace",
+  "description": "\u003cc\u003d@flavor\u003e\"The only thing hidden is the true depth of the pain you are going to cause with this.\"\u003cbr\u003e—Nessa\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Masterwork",
+  "vendor_value": 122,
+  "default_skin": 5188,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30314,
+  "chat_link": "[\u0026AgFqdgAA]",
+  "icon": "https://render.guildwars2.com/file/DB447716F108A4EC3BEA5C3995B569D83B6DA327/62417.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 666,
+    "max_power": 751,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 249.56,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 62
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 62
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 87
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

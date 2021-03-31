@@ -1,0 +1,41 @@
+{
+  "name": "Ravaging Steamblade",
+  "type": "Weapon",
+  "level": 56,
+  "rarity": "Fine",
+  "vendor_value": 49,
+  "default_skin": 5241,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 32550,
+  "chat_link": "[\u0026AgEmfwAA]",
+  "icon": "https://render.guildwars2.com/file/562B6309B40701CE654E9E0C4C56C857B4A4022D/60983.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 447,
+    "max_power": 494,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 154.176,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 39
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 54
+        }
+      ]
+    }
+  }
+}

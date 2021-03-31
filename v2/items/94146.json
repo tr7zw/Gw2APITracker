@@ -1,0 +1,50 @@
+{
+  "name": "Demon-Haunted Axe",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 9626,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94146,
+  "chat_link": "[\u0026AgHCbwEA]",
+  "icon": "https://render.guildwars2.com/file/B3C3953977D95498E93B30FA49C4B3DA79153EE1/2343679.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 857,
+    "max_power": 1048,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1067,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 85
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 120
+        }
+      ]
+    }
+  }
+}

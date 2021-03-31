@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Arborist Coat",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 1000,
+  "default_skin": 500,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Sylvari"
+  ],
+  "id": 3639,
+  "chat_link": "[\u0026AgE3DgAA]",
+  "icon": "https://render.guildwars2.com/file/031792DB91C7E76EFBDB9DBF51A99E751CCEFAEF/779802.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 117,
+    "infusion_slots": [],
+    "attribute_adjustment": 110.889,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 28
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 39
+        }
+      ]
+    }
+  }
+}

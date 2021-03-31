@@ -1,0 +1,48 @@
+{
+  "name": "Rabid Beaded Icon",
+  "description": "",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 156,
+  "default_skin": 4011,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 14884,
+  "chat_link": "[\u0026AgEkOgAA]",
+  "icon": "https://render.guildwars2.com/file/2B919D951DCCA07A745B31F1D4EEEBE709BBAFFF/534142.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 518,
+    "max_power": 550,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 200.88,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 50
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 50
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 70
+        }
+      ]
+    }
+  }
+}

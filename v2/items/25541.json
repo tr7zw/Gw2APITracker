@@ -1,0 +1,44 @@
+{
+  "name": "Mending Shiverpeak Staff of Serpent Slaying",
+  "type": "Weapon",
+  "level": 38,
+  "rarity": "Masterwork",
+  "vendor_value": 108,
+  "default_skin": 5229,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25541,
+  "chat_link": "[\u0026AgHFYwAA]",
+  "icon": "https://render.guildwars2.com/file/395DF141FC56C9903A7B2EF2B2E1C193AF469923/534289.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 364,
+    "max_power": 411,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 200.192,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 50
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 70
+        }
+      ]
+    },
+    "suffix_item_id": 24660
+  }
+}

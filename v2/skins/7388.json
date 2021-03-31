@@ -1,0 +1,30 @@
+{
+  "name": "Warbeast Boots",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 7388,
+  "icon": "https://render.guildwars2.com/file/E8E215233BA5E0E8DA51DCC42E4980AE51737E02/1768397.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        null,
+        null,
+        {
+          "color_id": -1,
+          "material": "cloth"
+        }
+      ],
+      "overrides": {}
+    }
+  }
+}

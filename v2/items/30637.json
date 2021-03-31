@@ -1,0 +1,53 @@
+{
+  "name": "Improved Brackwater Scepter",
+  "description": "\u003cc\u003d@flavor\u003e\"These creatures are just fleeing the undead. It\u0027s a shame that they encroach upon the village and have to be dealt with so harshly.\"\u003cbr\u003e—Quennida\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 63,
+  "rarity": "Masterwork",
+  "vendor_value": 108,
+  "default_skin": 5061,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30637,
+  "chat_link": "[\u0026AgGtdwAA]",
+  "icon": "https://render.guildwars2.com/file/B0E409A76215A744756C7E98790F9B06F1489F1F/62814.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 546,
+    "max_power": 616,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 198.356,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 50
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 50
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 69
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

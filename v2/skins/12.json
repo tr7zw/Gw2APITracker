@@ -1,0 +1,33 @@
+{
+  "name": "Sneakthief Coat",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 12,
+  "icon": "https://render.guildwars2.com/file/142DBA7E1144E3A61A02D9C8EC44225F327597F2/561549.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Resilient Krytan Scepter",
+  "type": "Weapon",
+  "level": 16,
+  "rarity": "Fine",
+  "vendor_value": 20,
+  "default_skin": 4989,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 33481,
+  "chat_link": "[\u0026AgHJggAA]",
+  "icon": "https://render.guildwars2.com/file/0D30D70499EDAC01D6C925470200BF2906E364CB/61706.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 186,
+    "max_power": 210,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 33.536,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

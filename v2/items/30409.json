@@ -1,0 +1,43 @@
+{
+  "name": "Harathi Sword",
+  "type": "Weapon",
+  "level": 23,
+  "rarity": "Fine",
+  "vendor_value": 26,
+  "default_skin": 4618,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30409,
+  "chat_link": "[\u0026AgHJdgAA]",
+  "icon": "https://render.guildwars2.com/file/CEB917DC2A790F4DE406E7E81D6CC89362BF6598/67730.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 220,
+    "max_power": 243,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 48.512,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 17
+        }
+      ]
+    }
+  }
+}

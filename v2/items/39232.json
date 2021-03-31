@@ -1,0 +1,57 @@
+{
+  "name": "Magister\u0027s Field Journal",
+  "description": "\u003cc\u003d@flavor\u003eA collection of clever, dreamy notes penned in a flowing hand.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 413,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 39232,
+  "chat_link": "[\u0026AgFAmQAA]",
+  "icon": "https://render.guildwars2.com/file/59943B48509FD07DDD96D1A8674ADCCEEDBF2665/543879.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 224.07,
+    "infix_upgrade": {
+      "id": 584,
+      "buff": {
+        "skill_id": 15742,
+        "description": "+32 Power\n+18 Ferocity\n+18 Precision"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 110
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 74
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 74
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Ancient Emblem",
+  "description": "\u003cc\u003d@flavor\u003e\"Do you think it might be older than the dragons?\"\u003cbr\u003e—Rhea\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 23,
+  "rarity": "Masterwork",
+  "vendor_value": 65,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23935,
+  "chat_link": "[\u0026AgF/XQAA]",
+  "icon": "https://render.guildwars2.com/file/F4486E0A6651C27F5D720CFF30D8A9CA33A855C7/66808.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 33.66,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

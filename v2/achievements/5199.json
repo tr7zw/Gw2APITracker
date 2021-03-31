@@ -1,0 +1,27 @@
+{
+  "id": 5199,
+  "name": "Emblem of Tournament Victory",
+  "description": "",
+  "requirement": "Win  PvP tournament matches.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 20,
+      "points": 5
+    }
+  ],
+  "point_cap": 25,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 93012,
+      "count": 1
+    }
+  ]
+}

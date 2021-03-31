@@ -1,0 +1,47 @@
+{
+  "name": "Waterproof Superior Studded Boots",
+  "description": "\u003cc\u003d@flavor\u003e\"Keeping your feet dry is imperative in a place like this.\"\u003cbr\u003e—Issa\u003c/c\u003e",
+  "type": "Armor",
+  "level": 25,
+  "rarity": "Masterwork",
+  "vendor_value": 54,
+  "default_skin": 48,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4906,
+  "chat_link": "[\u0026AgEqEwAA]",
+  "icon": "https://render.guildwars2.com/file/C05DCA62E84D18EF46D5357C217956C55BC3063E/61013.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 34,
+    "infusion_slots": [],
+    "attribute_adjustment": 21.9045,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 8
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 5
+        }
+      ]
+    },
+    "suffix_item_id": 24724
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Rawhide Shoulders",
+  "description": "",
+  "type": "Armor",
+  "level": 19,
+  "rarity": "Fine",
+  "vendor_value": 26,
+  "default_skin": 36,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6330,
+  "chat_link": "[\u0026AgG6GAAA]",
+  "icon": "https://render.guildwars2.com/file/0D5426EE18FB02513846120FF9F25B4874F74616/218900.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Medium",
+    "defense": 16,
+    "infusion_slots": [],
+    "attribute_adjustment": 14.976,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 5
+        }
+      ]
+    }
+  }
+}

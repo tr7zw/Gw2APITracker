@@ -1,0 +1,24 @@
+{
+  "id": 2256,
+  "name": "Prismatic Plunderer",
+  "description": "Finders keepers.",
+  "requirement": "Pick up a wyvern crystal for the skritt.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 146
+    }
+  ]
+}

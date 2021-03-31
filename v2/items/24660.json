@@ -1,0 +1,54 @@
+{
+  "name": "Minor Sigil of Serpent Slaying",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003ePain\u003cbr\u003eDouble-click to apply to a weapon.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 16,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24660,
+  "chat_link": "[\u0026AgFUYAAA]",
+  "icon": "https://render.guildwars2.com/file/0CC4E50B1C5BFB7021C83E9A91D70E801AA2E0A8/221042.png",
+  "details": {
+    "type": "Sigil",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 304,
+      "buff": {
+        "skill_id": 9349,
+        "description": "+3% Damage vs. Krait\n+1% Damage"
+      },
+      "attributes": []
+    },
+    "suffix": "of Serpent Slaying"
+  }
+}

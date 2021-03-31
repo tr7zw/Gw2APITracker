@@ -1,0 +1,70 @@
+{
+  "name": "Noble Gloves",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 252,
+  "icon": "https://render.guildwars2.com/file/04D6DAB3CCB0CF65A2CEE2F7BAA4CFC44CBA369C/61442.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "dye_slots": {
+      "default": [
+        null,
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        }
+      ],
+      "overrides": {
+        "HumanFemale": [
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          null,
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          null
+        ],
+        "NornFemale": [
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          null,
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          null
+        ],
+        "SylvariFemale": [
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          null,
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          null
+        ]
+      }
+    }
+  }
+}

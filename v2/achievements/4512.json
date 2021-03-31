@@ -1,0 +1,39 @@
+{
+  "id": 4512,
+  "name": "Chasing Tales: Bloodthirst",
+  "description": "Harkon Hakson was known for a sort of joyous brutality.",
+  "requirement": "Use an axe to slay 30 enemies in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Harkon Hakson."
+    },
+    {
+      "type": "Text",
+      "text": "Defeated 30 enemies with an axe in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89437,
+      "count": 1
+    }
+  ]
+}

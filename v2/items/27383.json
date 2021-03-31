@@ -1,0 +1,42 @@
+{
+  "name": "Hearty Iron Greatsword",
+  "description": "",
+  "type": "Weapon",
+  "level": 23,
+  "rarity": "Fine",
+  "vendor_value": 39,
+  "default_skin": 4015,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 27383,
+  "chat_link": "[\u0026AgH3agAA]",
+  "icon": "https://render.guildwars2.com/file/1EA00FDAAD23FD1B1B9C4BD6E36EB30A43E21D06/64138.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 242,
+    "max_power": 268,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 97.024,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 24
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 34
+        }
+      ]
+    }
+  }
+}

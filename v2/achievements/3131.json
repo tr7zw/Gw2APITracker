@@ -1,0 +1,39 @@
+{
+  "id": 3131,
+  "name": "Collecting Coalescence",
+  "description": "Making the coalescent rounds.",
+  "requirement": "Participate in each of the coalescence events around the island.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Lava Flats: To the south of the caldera wall."
+    },
+    {
+      "type": "Text",
+      "text": "Osprey Pillars: On the southeastern coast."
+    },
+    {
+      "type": "Text",
+      "text": "Burning Grotto: On the outer east side of the furnace chamber."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    }
+  ]
+}

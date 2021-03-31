@@ -1,0 +1,74 @@
+{
+  "id": 1876,
+  "tier": 1,
+  "order": 2,
+  "name": "Blood Bond",
+  "description": "Cast Lesser Signet of Vampirism on your foe when you inflict bleeding on them that matches or exceeds the threshold.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Number of Bleeding Stacks",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 4
+    }
+  ],
+  "skills": [
+    {
+      "name": "Lesser Signet of Vampirism",
+      "facts": [
+        {
+          "text": "Range",
+          "type": "Range",
+          "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+          "value": 1200
+        },
+        {
+          "text": "Recharge",
+          "type": "Recharge",
+          "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+          "value": 20
+        },
+        {
+          "text": "Apply Buff/Condition",
+          "type": "Buff",
+          "icon": "https://render.guildwars2.com/file/F62121A2D713A4CD5FDA3E5C734408EF3306BED4/699529.png",
+          "duration": 6,
+          "status": "Vampiric Mark",
+          "description": "Life is siphoned when struck by players.",
+          "apply_count": 5
+        },
+        {
+          "text": "Active Life Siphon Damage",
+          "type": "AttributeAdjust",
+          "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+          "value": 163,
+          "target": "Power"
+        },
+        {
+          "text": "Active Life Siphon Heal",
+          "type": "AttributeAdjust",
+          "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+          "value": 470,
+          "target": "Healing"
+        },
+        {
+          "text": "Active Life Siphon Cooldown",
+          "type": "Time",
+          "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+          "duration": 1
+        }
+      ],
+      "description": "Signet Active: Mark a foe. Allied players will siphon life from that enemy.",
+      "icon": "https://render.guildwars2.com/file/F62121A2D713A4CD5FDA3E5C734408EF3306BED4/699529.png",
+      "flags": [],
+      "id": 29894,
+      "chat_link": "[\u0026BsZ0AAA\u003d]",
+      "categories": [
+        "Signet"
+      ]
+    }
+  ],
+  "specialization": 19,
+  "icon": "https://render.guildwars2.com/file/E44619EFE79BCAE2030E0A3A1CDBAE411A062403/1012536.png"
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Sun-Blessed Zephyrite Shield",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 9540,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 93951,
+  "chat_link": "[\u0026AgH/bgEA]",
+  "icon": "https://render.guildwars2.com/file/F123B6A05618D021C81CA63F37371A91724BCE53/2323951.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 806,
+    "max_power": 909,
+    "defense": 61,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 559,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 56
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 56
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 56
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 56
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 56
+        }
+      ]
+    }
+  }
+}

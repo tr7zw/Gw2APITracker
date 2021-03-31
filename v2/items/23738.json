@@ -1,0 +1,39 @@
+{
+  "name": "Bandit Ring",
+  "description": "\u003cc\u003d@flavor\u003e\"Probably twice-stolen anyhow...\"\u003cbr\u003e—Waldo\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 15,
+  "rarity": "Fine",
+  "vendor_value": 30,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23738,
+  "chat_link": "[\u0026AgG6XAAA]",
+  "icon": "https://render.guildwars2.com/file/0A402568104F5BE5BC644665653302005F6266CF/66800.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [],
+    "attribute_adjustment": 23.808,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

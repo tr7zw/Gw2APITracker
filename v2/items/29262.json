@@ -1,0 +1,40 @@
+{
+  "name": "Norn Rifle",
+  "description": "",
+  "type": "Weapon",
+  "level": 5,
+  "rarity": "Fine",
+  "vendor_value": 15,
+  "default_skin": 5115,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix"
+  ],
+  "restrictions": [],
+  "id": 29262,
+  "chat_link": "[\u0026AgFOcgAA]",
+  "icon": "https://render.guildwars2.com/file/CF1ECC0F6A475EAA2D6B5E5A4C416608C30CF709/575176.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 161,
+    "max_power": 197,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 31.488,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 11
+        }
+      ]
+    }
+  }
+}

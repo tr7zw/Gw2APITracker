@@ -1,0 +1,49 @@
+{
+  "name": "Rampager\u0027s Iron Mace of Earth",
+  "description": "",
+  "type": "Weapon",
+  "level": 69,
+  "rarity": "Masterwork",
+  "vendor_value": 116,
+  "default_skin": 3964,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26089,
+  "chat_link": "[\u0026AgHpZQAA]",
+  "icon": "https://render.guildwars2.com/file/415D42C379B3AE75721E59D76E5F170926C416C1/65228.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 610,
+    "max_power": 688,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 225.896,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 56
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 79
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 56
+        }
+      ]
+    },
+    "suffix_item_id": 24558
+  }
+}

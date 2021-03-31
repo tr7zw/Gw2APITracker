@@ -1,0 +1,32 @@
+{
+  "id": 4740,
+  "name": "Putting Out Fires",
+  "description": "",
+  "requirement": "Complete 10 events for the Order of the Crystal Bloom in the Burning Forest.\nRequired to gain access to the Crystal Bloom quartermaster.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 90332,
+      "count": 1
+    }
+  ]
+}

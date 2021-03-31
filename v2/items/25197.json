@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Etched Greatbow of Vision",
+  "type": "Weapon",
+  "level": 70,
+  "rarity": "Exotic",
+  "vendor_value": 354,
+  "default_skin": 5045,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25197,
+  "chat_link": "[\u0026AgFtYgAA]",
+  "icon": "https://render.guildwars2.com/file/17A1083373357D91350D57644DE7D14CB7FF27A9/779890.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 778,
+    "max_power": 913,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 564.96,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 198
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 141
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 141
+        }
+      ]
+    },
+    "suffix_item_id": 24600
+  }
+}

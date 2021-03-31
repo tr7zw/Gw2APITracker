@@ -1,0 +1,44 @@
+{
+  "name": "Honed Warband Tassets",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 750,
+  "default_skin": 322,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "id": 3536,
+  "chat_link": "[\u0026AgHQDQAA]",
+  "icon": "https://render.guildwars2.com/file/EF027A9DDFB7EC51BFFB66A2F455A2B9085AF2AA/455471.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Heavy",
+    "defense": 78,
+    "infusion_slots": [],
+    "attribute_adjustment": 73.926,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 26
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 18
+        }
+      ]
+    }
+  }
+}

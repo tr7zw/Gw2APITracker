@@ -1,0 +1,33 @@
+{
+  "name": "Chainmail Leggings",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 1,
+  "icon": "https://render.guildwars2.com/file/9321FD09DF90E8D10D80B5C41D722F357FE5970A/61104.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Heavy",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

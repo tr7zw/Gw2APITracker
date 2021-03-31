@@ -1,0 +1,43 @@
+{
+  "name": "Charr Mace",
+  "description": "",
+  "type": "Weapon",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 48,
+  "default_skin": 5199,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29994,
+  "chat_link": "[\u0026AgEqdQAA]",
+  "icon": "https://render.guildwars2.com/file/CFD4DFE0779C3B361DBF7BEDD59C7F5480A1C914/68155.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 222,
+    "max_power": 250,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 46.988,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 16
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

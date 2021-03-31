@@ -1,0 +1,39 @@
+{
+  "id": 4514,
+  "name": "Chasing Tales: Man-at-Arms",
+  "description": "Fully equipped, Mouglon was nigh unstoppable.",
+  "requirement": "Defeat 60 enemies while wielding a mace and a shield in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Mouglon the Watchful."
+    },
+    {
+      "type": "Text",
+      "text": "Defeated 60 enemies while wielding a mace and a shield in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89719,
+      "count": 1
+    }
+  ]
+}

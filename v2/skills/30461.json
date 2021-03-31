@@ -1,0 +1,78 @@
+{
+  "name": "Signet of Courage",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 90
+    },
+    {
+      "text": "Passive Healing",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "value": 202,
+      "target": "Healing"
+    },
+    {
+      "text": "Combat Only",
+      "type": "NoData",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png"
+    },
+    {
+      "text": "Healing Interval",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+      "duration": 3
+    },
+    {
+      "text": "Active Heal",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "percent": 100
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    },
+    {
+      "text": "Passive Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 300
+    },
+    {
+      "text": "Active Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 1200
+    }
+  ],
+  "description": "Signet Passive: Periodically heal allies in an area around you while in combat.\nSignet Active: Fully heal nearby allies.",
+  "icon": "https://render.guildwars2.com/file/59C43DD96D4096AF5DF576182506A20765CAEF07/1012875.png",
+  "type": "Elite",
+  "weapon_type": "None",
+  "professions": [
+    "Guardian"
+  ],
+  "slot": "Elite",
+  "flags": [],
+  "id": 30461,
+  "chat_link": "[\u0026Bv12AAA\u003d]",
+  "categories": [
+    "Signet"
+  ],
+  "traited_facts": [
+    {
+      "text": "Passive Healing",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "value": 240,
+      "requires_trait": 579,
+      "target": "Healing",
+      "overrides": 1
+    }
+  ]
+}

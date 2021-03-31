@@ -1,0 +1,39 @@
+{
+  "name": "Small Troll Stone",
+  "description": "\u003cc\u003d@flavor\u003e\"I find these all over. The trolls seem to really like them.\"\u003cbr\u003e—Rune Hunter\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 11,
+  "rarity": "Fine",
+  "vendor_value": 20,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23761,
+  "chat_link": "[\u0026AgHRXAAA]",
+  "icon": "https://render.guildwars2.com/file/510AABA4DA240FFD6C0572975B04CDB56D5BD960/65902.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 15.44,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 5
+        }
+      ]
+    }
+  }
+}

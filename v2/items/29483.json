@@ -1,0 +1,49 @@
+{
+  "name": "Herding Horn",
+  "description": "\u003cc\u003d@flavor\u003e\"You need a good loud horn when working with dolyaks. Keeps them in line.\"\u003cbr\u003e—Lyot\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 33,
+  "rarity": "Masterwork",
+  "vendor_value": 66,
+  "default_skin": 5111,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29483,
+  "chat_link": "[\u0026AgErcwAA]",
+  "icon": "https://render.guildwars2.com/file/95D5572D06386BA1C510F4A0F0040E9433067D2D/534293.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 270,
+    "max_power": 299,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 83.436,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 29
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 21
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

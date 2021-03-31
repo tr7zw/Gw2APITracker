@@ -1,0 +1,51 @@
+{
+  "name": "Forsaken Verteth Edge",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Exotic",
+  "vendor_value": 330,
+  "default_skin": 5083,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 52197,
+  "chat_link": "[\u0026AgHlywAA]",
+  "icon": "https://render.guildwars2.com/file/4BC52199DBDEEF5D4D90736B582DDA0F092B0DE4/434780.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 769,
+    "max_power": 849,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 509.28,
+    "infix_upgrade": {
+      "id": 1011,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 178
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 127
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 127
+        }
+      ]
+    }
+  }
+}

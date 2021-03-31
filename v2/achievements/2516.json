@@ -1,0 +1,27 @@
+{
+  "id": 2516,
+  "name": "Where Exalted Dare",
+  "description": "",
+  "requirement": "Go to the vinetooth den to find Herta.",
+  "locked_text": "Speak to Sage Laural at Westgate to receive an auric viewer, then scan the tablets in the city for clues to Herta\u0027s location.",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    2373
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 77093,
+      "count": 1
+    }
+  ]
+}

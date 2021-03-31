@@ -1,0 +1,28 @@
+{
+  "id": 4257,
+  "name": "[FTT 307] Proficient Dynamics—Gravimetric Tunneling Field Oscillator Level 3",
+  "description": "",
+  "requirement": "Applied / Gravimetric Tunneling Field Oscillator Level 2 Upgrades",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 8,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    4245
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 87722,
+      "count": 1
+    }
+  ]
+}

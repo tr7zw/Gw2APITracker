@@ -1,0 +1,29 @@
+{
+  "id": 255,
+  "name": "Legendary Champion",
+  "description": "Your battles have become legend.",
+  "requirement": "Obtain  rank points.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1093500,
+      "points": 20
+    }
+  ],
+  "prerequisites": [
+    254
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 125
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Black Earth Trident of Accuracy",
+  "description": "",
+  "type": "Weapon",
+  "level": 77,
+  "rarity": "Masterwork",
+  "vendor_value": 189,
+  "default_skin": 4712,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28669,
+  "chat_link": "[\u0026AgH9bwAA]",
+  "icon": "https://render.guildwars2.com/file/B8F4F953BC20F7A7FE9FF7459FD5534F0608730F/574969.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 709,
+    "max_power": 783,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 529.04,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 185
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 132
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 132
+        }
+      ]
+    },
+    "suffix_item_id": 24616
+  }
+}

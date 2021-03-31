@@ -1,0 +1,48 @@
+{
+  "name": "Council Guard Breastplate",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 647,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 35850,
+  "chat_link": "[\u0026AgEKjAAA]",
+  "icon": "https://render.guildwars2.com/file/D19EBF4E5555E9130B44054F5DC2F574CAF0BCFF/61551.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 363,
+    "infusion_slots": [],
+    "attribute_adjustment": 384.12,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 96
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 96
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 134
+        }
+      ]
+    },
+    "suffix_item_id": 24845
+  }
+}

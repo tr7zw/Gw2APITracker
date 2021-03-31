@@ -1,0 +1,28 @@
+{
+  "name": "Skale Venom",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 2,
+  "game_types": [
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 8696,
+  "chat_link": "[\u0026AgH4IQAA]",
+  "icon": "https://render.guildwars2.com/file/0160D1F436C230733DC4235D4947275840B40822/63161.png",
+  "details": {
+    "type": "Generic",
+    "duration_ms": 600000,
+    "apply_count": 1,
+    "name": "Skale Venom",
+    "icon": "https://render.guildwars2.com/file/A71B05C116B677EF620780B3D5BC58287EBC6D4B/104078.png",
+    "description": "You have a 10% chance to inflict weakness and vulnerability for 5 seconds when you hit a foe."
+  }
+}

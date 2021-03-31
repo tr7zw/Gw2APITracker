@@ -1,0 +1,48 @@
+{
+  "name": "Berserker\u0027s Magus Coat",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 37500,
+  "default_skin": 364,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "id": 3561,
+  "chat_link": "[\u0026AgHpDQAA]",
+  "icon": "https://render.guildwars2.com/file/053E0EE16C203FC2C3F10EC1C2A2580BE92EBA80/61137.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 278,
+    "infusion_slots": [],
+    "attribute_adjustment": 339.552,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 119
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 85
+        }
+      ]
+    }
+  }
+}

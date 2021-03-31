@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Flame Rifle of Earth",
+  "type": "Weapon",
+  "level": 53,
+  "rarity": "Rare",
+  "vendor_value": 212,
+  "default_skin": 5173,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32915,
+  "chat_link": "[\u0026AgGTgAAA]",
+  "icon": "https://render.guildwars2.com/file/4C6B7C3BCAA49D11F8D0D6A5B1025B2ADB7F3800/67264.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 537,
+    "max_power": 656,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 338.544,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 118
+        }
+      ]
+    },
+    "suffix_item_id": 24559
+  }
+}

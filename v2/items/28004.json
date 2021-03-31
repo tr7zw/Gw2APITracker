@@ -1,0 +1,42 @@
+{
+  "name": "Honed Iron Rifle",
+  "description": "",
+  "type": "Weapon",
+  "level": 32,
+  "rarity": "Fine",
+  "vendor_value": 48,
+  "default_skin": 4092,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 28004,
+  "chat_link": "[\u0026AgFkbQAA]",
+  "icon": "https://render.guildwars2.com/file/167018D742BBF5120BE4ACE80DE5B049089D20F2/62700.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 294,
+    "max_power": 360,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 145.408,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 51
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 36
+        }
+      ]
+    }
+  }
+}

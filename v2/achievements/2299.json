@@ -1,0 +1,54 @@
+{
+  "id": 2299,
+  "name": "SCAR Supporter",
+  "description": "Great to have you lead the way, Commander!",
+  "requirement": "Participate in every stage of helping the SCAR team recover from the crash.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Reassembled SCAR Team"
+    },
+    {
+      "type": "Text",
+      "text": "Reinforced SCAR Bivouac"
+    },
+    {
+      "type": "Text",
+      "text": "Tested Resonators"
+    },
+    {
+      "type": "Text",
+      "text": "Gathered Scrap for Terrill"
+    },
+    {
+      "type": "Text",
+      "text": "Killed Enraged Chak"
+    },
+    {
+      "type": "Text",
+      "text": "Protected Cannon"
+    },
+    {
+      "type": "Text",
+      "text": "Stopped Mordrem Migration"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 7,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 65
+    }
+  ]
+}

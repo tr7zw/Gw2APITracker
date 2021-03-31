@@ -1,0 +1,48 @@
+{
+  "name": "Inquest Legguards",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 370,
+  "default_skin": 739,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 17784,
+  "chat_link": "[\u0026AgF4RQAA]",
+  "icon": "https://render.guildwars2.com/file/CF0215E5637107D09875DA0B7222D77468A49E0D/61572.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Heavy",
+    "defense": 242,
+    "infusion_slots": [],
+    "attribute_adjustment": 256.08,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 90
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 64
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 64
+        }
+      ]
+    },
+    "suffix_item_id": 24785
+  }
+}

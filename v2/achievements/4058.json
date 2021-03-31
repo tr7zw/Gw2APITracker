@@ -1,0 +1,27 @@
+{
+  "id": 4058,
+  "name": "The Bells of Wintersday",
+  "description": "Now you\u0027re the maestro.",
+  "requirement": "Complete songs in Bell Choir Ensemble.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 20,
+      "points": 5
+    }
+  ],
+  "point_cap": 25,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 77604,
+      "count": 3
+    }
+  ]
+}

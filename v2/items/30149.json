@@ -1,0 +1,53 @@
+{
+  "name": "Forge Plains Rifle",
+  "description": "\u003cc\u003d@flavor\u003e\"Fight fire with fire. Well in this case, blackpowder, fire, and a projectile.\"\u003cbr\u003e—Corva Sharpclaw\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Masterwork",
+  "vendor_value": 159,
+  "default_skin": 5099,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30149,
+  "chat_link": "[\u0026AgHFdQAA]",
+  "icon": "https://render.guildwars2.com/file/935CD7A5037BB9F3C46E0D770D2DD9730ED74A18/62495.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 591,
+    "max_power": 722,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 388.008,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 97
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 97
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 136
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

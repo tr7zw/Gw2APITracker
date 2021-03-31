@@ -1,0 +1,36 @@
+{
+  "name": "Healing Chain Legs",
+  "description": "",
+  "type": "Armor",
+  "level": 15,
+  "rarity": "Fine",
+  "vendor_value": 28,
+  "default_skin": 207,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 10391,
+  "chat_link": "[\u0026AgGXKAAA]",
+  "icon": "https://render.guildwars2.com/file/EFB916FBEF03AE7C4F6BF9A0B76115AC5D5A8029/63233.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Heavy",
+    "defense": 35,
+    "infusion_slots": [],
+    "attribute_adjustment": 23.808,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

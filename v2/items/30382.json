@@ -1,0 +1,44 @@
+{
+  "name": "Togotl Speargun",
+  "description": "\u003cc\u003d@flavor\u003e\"Sometimes you have to fight to eat.\"\u003cbr\u003e—Matlal\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 22,
+  "rarity": "Fine",
+  "vendor_value": 38,
+  "default_skin": 5091,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30382,
+  "chat_link": "[\u0026AgGudgAA]",
+  "icon": "https://render.guildwars2.com/file/935CD7A5037BB9F3C46E0D770D2DD9730ED74A18/62495.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 216,
+    "max_power": 238,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 92.8,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 32
+        }
+      ]
+    }
+  }
+}

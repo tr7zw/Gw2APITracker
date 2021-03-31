@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Flame Focus of Water",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 156,
+  "default_skin": 5145,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32951,
+  "chat_link": "[\u0026AgG3gAAA]",
+  "icon": "https://render.guildwars2.com/file/AC19E596C62C442553C30D5EBCE96DA1AB07CD63/67836.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 518,
+    "max_power": 550,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 200.88,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 50
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 50
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 70
+        }
+      ]
+    },
+    "suffix_item_id": 24550
+  }
+}

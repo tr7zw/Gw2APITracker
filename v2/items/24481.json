@@ -1,0 +1,45 @@
+{
+  "name": "Intricate Peridot Jewel",
+  "description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 48,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24481,
+  "chat_link": "[\u0026AgGhXwAA]",
+  "icon": "https://render.guildwars2.com/file/0825EB169C552764BBB25F4FD8E7BEF91EDFD1B9/220923.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "Trinket"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 468,
+      "buff": {
+        "skill_id": 257,
+        "description": "+7 Power\n+3 Ferocity"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 7
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 3
+        }
+      ]
+    },
+    "suffix": "of Peridot"
+  }
+}

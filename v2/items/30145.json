@@ -1,0 +1,53 @@
+{
+  "name": "Severed Breach Sword",
+  "description": "\u003cc\u003d@flavor\u003e\"I assume you know which end to use. I\u0027ll be here if you an explanation.\"\u003cbr\u003e—Legionnaire Neverburn\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 61,
+  "rarity": "Masterwork",
+  "vendor_value": 104,
+  "default_skin": 5241,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30145,
+  "chat_link": "[\u0026AgHBdQAA]",
+  "icon": "https://render.guildwars2.com/file/562B6309B40701CE654E9E0C4C56C857B4A4022D/60983.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 533,
+    "max_power": 589,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 189.72,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 47
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 47
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 66
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

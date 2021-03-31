@@ -1,0 +1,47 @@
+{
+  "name": "Inquisitor\u0027s Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 141,
+  "default_skin": 166,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 63611,
+  "chat_link": "[\u0026AgF7+AAA]",
+  "icon": "https://render.guildwars2.com/file/4BF71F67717E459153B6BBEB61B8B93053D998FA/61112.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 80,
+    "infusion_slots": [],
+    "attribute_adjustment": 75.33,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 19
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 26
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 19
+        }
+      ]
+    }
+  }
+}

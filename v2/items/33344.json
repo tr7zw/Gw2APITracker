@@ -1,0 +1,37 @@
+{
+  "name": "Cracked Longbow",
+  "description": "",
+  "type": "Weapon",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 1,
+  "default_skin": 3854,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoMysticForge",
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 33344,
+  "chat_link": "[\u0026AgFAggAA]",
+  "icon": "https://render.guildwars2.com/file/4FA22FDDFD0A2BE9654504E608FB6D5D0295CE0C/66157.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 107,
+    "max_power": 126,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 15.6,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    }
+  }
+}

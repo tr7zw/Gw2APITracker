@@ -1,0 +1,45 @@
+{
+  "name": "Charr Meatoberfest Chalice",
+  "description": "",
+  "type": "Weapon",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 48,
+  "default_skin": 4800,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30010,
+  "chat_link": "[\u0026AgE6dQAA]",
+  "icon": "https://render.guildwars2.com/file/0990FD0B90A1D0A0377204B13E07E7E7AEF417B0/340680.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 206,
+    "max_power": 219,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 46.988,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 16
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

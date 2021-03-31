@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Steamcaller of Grawl Slaying",
+  "type": "Weapon",
+  "level": 32,
+  "rarity": "Masterwork",
+  "vendor_value": 64,
+  "default_skin": 5149,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32733,
+  "chat_link": "[\u0026AgHdfwAA]",
+  "icon": "https://render.guildwars2.com/file/E40BED1EC22C9F5C5BAC0F432724A5CDE416A109/68175.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 264,
+    "max_power": 292,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 80.308,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 20
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 28
+        }
+      ]
+    },
+    "suffix_item_id": 24646
+  }
+}

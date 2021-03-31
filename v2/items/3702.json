@@ -1,0 +1,44 @@
+{
+  "name": "Strong Researcher\u0027s Epaulets",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 500,
+  "default_skin": 374,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Human"
+  ],
+  "id": 3702,
+  "chat_link": "[\u0026AgF2DgAA]",
+  "icon": "https://render.guildwars2.com/file/B3015BB8EE69C1CAD7DA5F430C7BD929FEE70A12/414951.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 24,
+    "infusion_slots": [],
+    "attribute_adjustment": 36.963,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 13
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

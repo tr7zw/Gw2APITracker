@@ -1,0 +1,60 @@
+{
+  "id": 1284,
+  "tier": 1,
+  "order": 2,
+  "name": "Hidden Thief",
+  "description": "Stealing grants you stealth. \u003cc\u003d@abilitytype\u003eDeception\u003c/c\u003e skills gain reduced recharge.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
+      "duration": 2,
+      "status": "Stealth",
+      "description": "Currently invisible. Ends if you deal damage.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
+      "duration": 0,
+      "status": "Stealth",
+      "description": "Currently invisible. Ends if you deal damage.",
+      "apply_count": 1
+    },
+    {
+      "text": "Recharge Reduced",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+      "percent": 20
+    }
+  ],
+  "traited_facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
+      "duration": 3,
+      "status": "Stealth",
+      "description": "Currently invisible. Ends if you deal damage.",
+      "apply_count": 1,
+      "requires_trait": 1136,
+      "overrides": 0
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
+      "duration": 1,
+      "status": "Stealth",
+      "description": "Currently invisible. Ends if you deal damage.",
+      "apply_count": 1,
+      "requires_trait": 1136,
+      "overrides": 1
+    }
+  ],
+  "specialization": 20,
+  "icon": "https://render.guildwars2.com/file/7DFEDA0FEFF2CBCF0F7A6F71B333A758B2B0F90F/1012754.png"
+}

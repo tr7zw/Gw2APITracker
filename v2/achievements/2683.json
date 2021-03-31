@@ -1,0 +1,38 @@
+{
+  "id": 2683,
+  "name": "League Engineer—Elite",
+  "description": "Completing this achievement advances the League Profession—Elite achievement.",
+  "requirement": "Win 10 ranked matches as an engineer.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    2736
+  ]
+}

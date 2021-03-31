@@ -1,0 +1,35 @@
+{
+  "name": "Researcher\u0027s Coat",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [
+    "Human"
+  ],
+  "rarity": "Basic",
+  "id": 387,
+  "icon": "https://render.guildwars2.com/file/623FCF5AF79AC67F39E4BCB207BABD6E00BB7B9D/61201.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

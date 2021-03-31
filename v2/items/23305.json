@@ -1,0 +1,39 @@
+{
+  "name": "Little Norn Figurine",
+  "description": "\u003cc\u003d@flavor\u003eThis hand-carved figurine bears a crude resemblance to a norn.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 22,
+  "rarity": "Fine",
+  "vendor_value": 32,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23305,
+  "chat_link": "[\u0026AgEJWwAA]",
+  "icon": "https://render.guildwars2.com/file/365903EF113AAD5FF6E5F77F1E46CE1072046A3D/63126.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 29,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 10
+        }
+      ]
+    }
+  }
+}

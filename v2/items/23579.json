@@ -1,0 +1,43 @@
+{
+  "name": "Mortar Shell Propeller",
+  "description": "\u003cc\u003d@flavor\u003eAn example of mortar propulsion done right.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 33,
+  "rarity": "Masterwork",
+  "vendor_value": 83,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23579,
+  "chat_link": "[\u0026AgEbXAAA]",
+  "icon": "https://render.guildwars2.com/file/F17E5B7A18B64C715A19D454BC38DA4B19D20637/526363.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 52.1475,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 13
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 18
+        }
+      ]
+    }
+  }
+}

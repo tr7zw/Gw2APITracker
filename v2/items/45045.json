@@ -1,0 +1,29 @@
+{
+  "name": "WXP Booster",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 0,
+  "game_types": [
+    "Wvw"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 45045,
+  "chat_link": "[\u0026AgH1rwAA]",
+  "icon": "https://render.guildwars2.com/file/47924193059EA402C94F3352700A9193CE0A0EFC/591608.png",
+  "details": {
+    "type": "Generic",
+    "duration_ms": 3600000,
+    "apply_count": 1,
+    "name": "50% WvW Experience Bonus",
+    "icon": "https://render.guildwars2.com/file/A010D9405B2A1A4B414FE8A80C526CEDD2B21CB6/603453.png",
+    "description": "Increases WvW Experience gain by 50%."
+  }
+}

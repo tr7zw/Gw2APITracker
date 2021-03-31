@@ -1,0 +1,45 @@
+{
+  "name": "ooOoo Trident",
+  "description": "\u003cc\u003d@flavor\u003e\"OoOoo, sparkly.\"\u003cbr\u003e—Lugung\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 72,
+  "default_skin": 4712,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29370,
+  "chat_link": "[\u0026AgG6cgAA]",
+  "icon": "https://render.guildwars2.com/file/B8F4F953BC20F7A7FE9FF7459FD5534F0608730F/574969.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 224,
+    "max_power": 248,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 93.976,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 33
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

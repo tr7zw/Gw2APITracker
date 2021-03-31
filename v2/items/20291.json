@@ -1,0 +1,42 @@
+{
+  "name": "Profane Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "default_skin": 1155,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 20291,
+  "chat_link": "[\u0026AgFDTwAA]",
+  "icon": "https://render.guildwars2.com/file/ACFFEFBE0E99601B42716AB5434DA11F12601657/625782.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 14,
+    "infusion_slots": [],
+    "attribute_adjustment": 5.346,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 2
+        }
+      ]
+    }
+  }
+}

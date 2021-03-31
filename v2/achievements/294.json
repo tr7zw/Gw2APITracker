@@ -1,0 +1,39 @@
+{
+  "id": 294,
+  "name": "King of the Castle",
+  "description": "This is MY castle!",
+  "requirement": "Capture Stonemist Castle  times.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 25,
+      "points": 5
+    },
+    {
+      "count": 50,
+      "points": 10
+    },
+    {
+      "count": 100,
+      "points": 15
+    },
+    {
+      "count": 200,
+      "points": 25
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 40
+    }
+  ]
+}

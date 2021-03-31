@@ -1,0 +1,61 @@
+{
+  "name": "Soros\u0027s Trident",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of the ancient Shining Blade weaponsmith, Soros.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 10000,
+  "default_skin": 4130,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 47061,
+  "chat_link": "[\u0026AgHVtwAA]",
+  "icon": "https://render.guildwars2.com/file/72356CB62D92DBF765539D0AC26D975870B534AA/631796.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 950,
+    "max_power": 1050,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      },
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 717.024,
+    "infix_upgrade": {
+      "id": 753,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 179
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 251
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 179
+        }
+      ]
+    }
+  }
+}

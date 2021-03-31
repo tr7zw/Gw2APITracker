@@ -1,0 +1,49 @@
+{
+  "name": "Grawl String Bow",
+  "description": "\u003cc\u003d@flavor\u003e\"Grawl sure are odd creatures, but they know how to make a good bowstring.\"\u003cbr\u003e—Cleverblade\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 29,
+  "rarity": "Masterwork",
+  "vendor_value": 90,
+  "default_skin": 5172,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29478,
+  "chat_link": "[\u0026AgEmcwAA]",
+  "icon": "https://render.guildwars2.com/file/4BDBBAFF2A590F1663241BF2C733D208A6E40BF2/534282.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 279,
+    "max_power": 327,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 142.12,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 50
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 36
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

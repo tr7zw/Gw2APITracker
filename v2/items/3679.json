@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Genius Epaulets",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 1250,
+  "default_skin": 282,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Asura"
+  ],
+  "id": 3679,
+  "chat_link": "[\u0026AgFfDgAA]",
+  "icon": "https://render.guildwars2.com/file/246C9008FF130A61D3E5FE1D14BB24C2E5E89841/831714.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 44,
+    "infusion_slots": [],
+    "attribute_adjustment": 75.33,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 19
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 19
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 26
+        }
+      ]
+    }
+  }
+}

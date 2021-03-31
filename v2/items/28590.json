@@ -1,0 +1,49 @@
+{
+  "name": "Cleric\u0027s Iron Spear of Debility",
+  "description": "",
+  "type": "Weapon",
+  "level": 75,
+  "rarity": "Exotic",
+  "vendor_value": 372,
+  "default_skin": 4000,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28590,
+  "chat_link": "[\u0026AgGubwAA]",
+  "icon": "https://render.guildwars2.com/file/9AC302D1031B5C31806D0703FBC1944C01D4A240/561998.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 834,
+    "max_power": 921,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 622.4,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 156
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 156
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 218
+        }
+      ]
+    },
+    "suffix_item_id": 24636
+  }
+}

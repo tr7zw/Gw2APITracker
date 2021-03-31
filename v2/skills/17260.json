@@ -1,0 +1,61 @@
+{
+  "name": "Detonate Flame Blast",
+  "facts": [
+    {
+      "text": "Blast Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 0.75
+    },
+    {
+      "text": "Blast Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 240
+    },
+    {
+      "text": "Combo Finisher",
+      "type": "ComboFinisher",
+      "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+      "percent": 100,
+      "finisher_type": "Blast"
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+      "duration": 3,
+      "status": "Burning",
+      "description": "Deals damage every second; stacks intensity.",
+      "apply_count": 2
+    }
+  ],
+  "description": "Detonate your napalm ball.",
+  "icon": "https://render.guildwars2.com/file/7F05A4CE64E3E309BEC844B0D0FDFDF2ADD3ECAB/544544.png",
+  "type": "Bundle",
+  "weapon_type": "None",
+  "professions": [
+    "Thief",
+    "Mesmer",
+    "Warrior",
+    "Elementalist",
+    "Necromancer",
+    "Guardian",
+    "Ranger",
+    "Engineer",
+    "Revenant"
+  ],
+  "slot": "Weapon_2",
+  "flags": [
+    "NoUnderwater"
+  ],
+  "id": 17260,
+  "chat_link": "[\u0026BmxDAAA\u003d]"
+}

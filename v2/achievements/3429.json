@@ -1,0 +1,86 @@
+{
+  "id": 3429,
+  "name": "Lessons Learned",
+  "description": "Knowledge itself is power.",
+  "requirement": "Find all 14 of the golemancer\u0027s lost recordings in Draconis Mons.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Recover Zinn\u0027s first recording."
+    },
+    {
+      "type": "Text",
+      "text": "Recover Zinn\u0027s second recording."
+    },
+    {
+      "type": "Text",
+      "text": "Recover Zinn\u0027s third recording."
+    },
+    {
+      "type": "Text",
+      "text": "Recover Zinn\u0027s fourth recording."
+    },
+    {
+      "type": "Text",
+      "text": "Recover Zinn\u0027s fifth recording."
+    },
+    {
+      "type": "Text",
+      "text": "Recover Zinn\u0027s sixth recording."
+    },
+    {
+      "type": "Text",
+      "text": "Recover Zinn\u0027s seventh recording."
+    },
+    {
+      "type": "Text",
+      "text": "Recover Zinn\u0027s eighth recording."
+    },
+    {
+      "type": "Text",
+      "text": "Recover Zinn\u0027s ninth recording."
+    },
+    {
+      "type": "Text",
+      "text": "Recover Zinn\u0027s tenth recording."
+    },
+    {
+      "type": "Text",
+      "text": "Recover Zinn\u0027s eleventh recording."
+    },
+    {
+      "type": "Text",
+      "text": "Recover Zinn\u0027s twelfth recording."
+    },
+    {
+      "type": "Text",
+      "text": "Recover Zinn\u0027s thirteenth recording."
+    },
+    {
+      "type": "Text",
+      "text": "Recover Zinn\u0027s fourteenth recording."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 14,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 81120,
+      "count": 1
+    }
+  ]
+}

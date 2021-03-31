@@ -1,0 +1,63 @@
+{
+  "id": 2232,
+  "name": "Frenzy II: The Perfected Harpoon Gun",
+  "description": "Your first attempt at crafting the legendary precursor Rage has been modestly successful but has not yet yielded the weapon you ultimately desire. This journey has only just begun. Find a teacher, research your procedures, and hone your skills before you try a second time.",
+  "requirement": "",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 75070
+    },
+    {
+      "type": "Item",
+      "id": 75863
+    },
+    {
+      "type": "Item",
+      "id": 73371
+    },
+    {
+      "type": "Item",
+      "id": 74405
+    },
+    {
+      "type": "Item",
+      "id": 74870
+    },
+    {
+      "type": "Item",
+      "id": 71465
+    },
+    {
+      "type": "Item",
+      "id": 73087
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 74815,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Minor Rune of the Trooper",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003ePotence\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 5,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24825,
+  "chat_link": "[\u0026AgH5YAAA]",
+  "icon": "https://render.guildwars2.com/file/4AC62C07E3C1722F3EE192E118356AAC68D34551/221137.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+10 Vitality",
+      "+14 Toughness"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Trooper"
+  }
+}

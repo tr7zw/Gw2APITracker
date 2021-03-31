@@ -1,0 +1,29 @@
+{
+  "name": "Bank Tab Expansion",
+  "description": "Double-click to add an extra bank tab to your account.\nEach account can have up to 17 total bank tabs.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 19995,
+  "chat_link": "[\u0026AgEbTgAA]",
+  "icon": "https://render.guildwars2.com/file/5BF86A2433F1BE0575E7B37B22EF6695F83211C5/66589.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "BankTab"
+  }
+}

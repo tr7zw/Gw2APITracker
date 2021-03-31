@@ -1,0 +1,47 @@
+{
+  "name": "Magi\u0027s Cabalist Coat",
+  "type": "Armor",
+  "level": 55,
+  "rarity": "Rare",
+  "vendor_value": 216,
+  "default_skin": 51,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 18515,
+  "chat_link": "[\u0026AgFTSAAA]",
+  "icon": "https://render.guildwars2.com/file/73CEB0F9515E0627321A15DA1CA4A6F3F51A4CE6/61019.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 168,
+    "infusion_slots": [],
+    "attribute_adjustment": 200.232,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 50
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 50
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 70
+        }
+      ]
+    }
+  }
+}

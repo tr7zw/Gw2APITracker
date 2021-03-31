@@ -1,0 +1,52 @@
+{
+  "name": "Raven\u0027s Eye",
+  "description": "A scepter made from glass infused with Raven\u0027s essence.",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 9000,
+  "default_skin": 9014,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92368,
+  "chat_link": "[\u0026AgHQaAEA]",
+  "icon": "https://render.guildwars2.com/file/0CDFB7050FB004062B482D3DA875ACB6F4746ABF/2220733.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 895,
+    "max_power": 1010,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 120
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 85
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 85
+        }
+      ]
+    },
+    "suffix_item_id": 24651
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Firebreak Mantle",
+  "description": "\u003cc\u003d@flavor\u003e\"Keeps the soot off.\"\u003cbr\u003e—Vigil Tactician Blazefur\u003c/c\u003e",
+  "type": "Armor",
+  "level": 64,
+  "rarity": "Masterwork",
+  "vendor_value": 119,
+  "default_skin": 888,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4989,
+  "chat_link": "[\u0026AgF9EwAA]",
+  "icon": "https://render.guildwars2.com/file/76C75441B9FF20EB323AE15407ED97DDDC789330/61234.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 44,
+    "infusion_slots": [],
+    "attribute_adjustment": 75.99,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 19
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 19
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 27
+        }
+      ]
+    },
+    "suffix_item_id": 24724
+  }
+}

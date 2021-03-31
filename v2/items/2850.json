@@ -1,0 +1,40 @@
+{
+  "name": "Strong Chainmail Footgear",
+  "description": "",
+  "type": "Armor",
+  "level": 44,
+  "rarity": "Basic",
+  "vendor_value": 20,
+  "default_skin": 2041,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 2850,
+  "chat_link": "[\u0026AgEiCwAA]",
+  "icon": "https://render.guildwars2.com/file/061CAE3A9244396F68B543089E43A11EC5E933C3/61096.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 50,
+    "infusion_slots": [],
+    "attribute_adjustment": 32.7405,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 11
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

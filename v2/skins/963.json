@@ -1,0 +1,30 @@
+{
+  "name": "Aurora Helm",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 963,
+  "icon": "https://render.guildwars2.com/file/539B75B30C6E4F553A16CF014F3F20087C261102/61295.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        null,
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

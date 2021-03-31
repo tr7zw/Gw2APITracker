@@ -1,0 +1,44 @@
+{
+  "name": "Vigorous Dolyak Mail",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 1000,
+  "default_skin": 445,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Norn"
+  ],
+  "id": 3767,
+  "chat_link": "[\u0026AgG3DgAA]",
+  "icon": "https://render.guildwars2.com/file/02DCDD40060E692B7D25F8176A7630C17358B062/779828.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 117,
+    "infusion_slots": [],
+    "attribute_adjustment": 110.889,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 39
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 28
+        }
+      ]
+    }
+  }
+}

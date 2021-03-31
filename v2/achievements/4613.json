@@ -1,0 +1,39 @@
+{
+  "id": 4613,
+  "name": "Chasing Tales: Deadly Accuracy",
+  "description": "Baverne\u0027s marks never once eluded her.",
+  "requirement": "Defeat 30 enemies while wielding a rifle in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Baverne the Hunter."
+    },
+    {
+      "type": "Text",
+      "text": "Defeated 30 enemies with a rifle in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89551,
+      "count": 1
+    }
+  ]
+}

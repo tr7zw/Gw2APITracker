@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Verdant Blade of Energy",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Rare",
+  "vendor_value": 183,
+  "default_skin": 5134,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34868,
+  "chat_link": "[\u0026AgE0iAAA]",
+  "icon": "https://render.guildwars2.com/file/193911E1A3EDA97375D6A7750025E431533F06D8/434881.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 725,
+    "max_power": 801,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 269.208,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 67
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 67
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 94
+        }
+      ]
+    },
+    "suffix_item_id": 24606
+  }
+}

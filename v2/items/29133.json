@@ -1,0 +1,46 @@
+{
+  "name": "Berserker\u0027s Warhorn",
+  "description": "",
+  "type": "Weapon",
+  "level": 72,
+  "rarity": "Basic",
+  "vendor_value": 30,
+  "default_skin": 3859,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 29133,
+  "chat_link": "[\u0026AgHNcQAA]",
+  "icon": "https://render.guildwars2.com/file/F464B3A80B0EFF2105630C0E48BBC6C5CA1CB651/66224.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 432,
+    "max_power": 478,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 176.384,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 62
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 44
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 44
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Devout Helm",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 875,
+  "icon": "https://render.guildwars2.com/file/B114B716E5FA4CB445CEC13B333C725F9C1D01B1/61247.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        null,
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

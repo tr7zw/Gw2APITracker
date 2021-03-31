@@ -1,0 +1,27 @@
+{
+  "id": 4100,
+  "name": "Magnetic Attraction",
+  "description": "",
+  "requirement": "Collect all eight magneton particles floating in the Magnetics Lab.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 8,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 302
+    }
+  ]
+}

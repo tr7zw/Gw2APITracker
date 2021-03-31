@@ -1,0 +1,57 @@
+{
+  "name": "Speaker\u0027s Dawncord",
+  "description": "\u003cc\u003d@flavor\u003eA hylek speaker\u0027s prized medallion.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 660,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 39307,
+  "chat_link": "[\u0026AgGLmQAA]",
+  "icon": "https://render.guildwars2.com/file/9DE6640EDB6D71EDF4DC5BDC9F94770A081C0468/534264.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Enrichment"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "infix_upgrade": {
+      "id": 585,
+      "buff": {
+        "skill_id": 15741,
+        "description": "+32 Condition Damage\n+18 Precision\n+18 Toughness"
+      },
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 108
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 108
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 157
+        }
+      ]
+    }
+  }
+}

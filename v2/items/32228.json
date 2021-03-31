@@ -1,0 +1,41 @@
+{
+  "name": "Avenger\u0027s Rifle",
+  "type": "Weapon",
+  "level": 8,
+  "rarity": "Fine",
+  "vendor_value": 20,
+  "default_skin": 5029,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32228,
+  "chat_link": "[\u0026AgHkfQAA]",
+  "icon": "https://render.guildwars2.com/file/C940E434A3651816AFAAF60E0E496E4E17015394/67258.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 172,
+    "max_power": 210,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 38.912,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 14
+        }
+      ]
+    }
+  }
+}

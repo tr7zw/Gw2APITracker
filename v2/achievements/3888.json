@@ -1,0 +1,24 @@
+{
+  "id": 3888,
+  "name": "Daily Desert Miner",
+  "description": "Fueling the engines of the economy.",
+  "requirement": "Gather raw materials by mining ore in the following locations: Crystal Oasis, the Desert Highlands, Elon Riverlands, the Desolation, or the Domain of Vabbi.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Daily"
+  ],
+  "tiers": [
+    {
+      "count": 10,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 84149,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Shaman\u0027s Norn Speargun",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 5000,
+  "default_skin": 5104,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 35643,
+  "chat_link": "[\u0026AgE7iwAA]",
+  "icon": "https://render.guildwars2.com/file/2E7E52064061626860C6EC0908FA033B42020FC2/780415.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 564,
+    "max_power": 623,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 401.76,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 141
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 100
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 100
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

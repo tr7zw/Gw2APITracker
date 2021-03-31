@@ -1,0 +1,46 @@
+{
+  "name": "Berserker\u0027s Axe",
+  "description": "",
+  "type": "Weapon",
+  "level": 52,
+  "rarity": "Basic",
+  "vendor_value": 23,
+  "default_skin": 3865,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 28810,
+  "chat_link": "[\u0026AgGKcAAA]",
+  "icon": "https://render.guildwars2.com/file/F0386CA4B7B424B01B54D7724D12A3DF09203E6D/66151.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 312,
+    "max_power": 381,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 110.292,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 39
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 28
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 28
+        }
+      ]
+    }
+  }
+}

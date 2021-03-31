@@ -1,0 +1,29 @@
+{
+  "name": "Dominion Spoils Box",
+  "description": "Double-click to open.\nContains 50 Dragonite Ore, 50 Empyreal Fragments, 2 Mystic Clovers, 8 Obsidian Shards, and a choice of valuable items from the Dominion.",
+  "type": "Container",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 93870,
+  "chat_link": "[\u0026AgGubgEA]",
+  "icon": "https://render.guildwars2.com/file/CF0C260A383410AB6B3969200E2CBCCDAD1354CA/2314068.png",
+  "details": {
+    "type": "Default"
+  }
+}

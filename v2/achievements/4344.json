@@ -1,0 +1,47 @@
+{
+  "id": 4344,
+  "icon": "https://render.guildwars2.com/file/3FB1AE472DF109D022146F26B0F420140BFC26FE/1824200.png",
+  "name": "Requiem: Experiment 1",
+  "description": "\u003cc\u003d@Flavor\u003eIt\u0027s Mist-ifying.\u003c/c\u003e",
+  "requirement": "Untangle this item from the Mists.",
+  "locked_text": "Acquire a Mist-entangled item.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 88628
+    },
+    {
+      "type": "Item",
+      "id": 88523
+    },
+    {
+      "type": "Item",
+      "id": 88956
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 3,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 88684,
+      "count": 1
+    }
+  ]
+}

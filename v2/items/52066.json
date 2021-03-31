@@ -1,0 +1,51 @@
+{
+  "name": "Apostate\u0027s Cherub\u0027s Claw",
+  "type": "Weapon",
+  "level": 68,
+  "rarity": "Exotic",
+  "vendor_value": 236,
+  "default_skin": 5012,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 52066,
+  "chat_link": "[\u0026AgFiywAA]",
+  "icon": "https://render.guildwars2.com/file/24366D15FF0DC9F1F61AE4EE33AA3EE35948A0B3/67679.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 795,
+    "max_power": 844,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 288,
+    "infix_upgrade": {
+      "id": 1012,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 72
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 72
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 101
+        }
+      ]
+    }
+  }
+}

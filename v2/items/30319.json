@@ -1,0 +1,52 @@
+{
+  "name": "Shelter Scepter",
+  "description": "\u003cc\u003d@flavor\u003e\"Many troops don\u0027t know the details of what we\u0027re fighting. I do, and this scepter is part of that knowledge.\"\u003cbr\u003e—Scholar Maroola\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 75,
+  "rarity": "Fine",
+  "vendor_value": 62,
+  "default_skin": 5061,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30319,
+  "chat_link": "[\u0026AgFvdgAA]",
+  "icon": "https://render.guildwars2.com/file/B0E409A76215A744756C7E98790F9B06F1489F1F/62814.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 627,
+    "max_power": 707,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 234.88,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 59
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 59
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 82
+        }
+      ]
+    }
+  }
+}

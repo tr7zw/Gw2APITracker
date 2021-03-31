@@ -1,0 +1,57 @@
+{
+  "name": "The Queen\u0027s Necklace",
+  "description": "\u003cc\u003d@flavor\u003eCommissioned for Queen Jennah by a council member, but found too ornate for her tastes.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 660,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 39587,
+  "chat_link": "[\u0026AgGjmgAA]",
+  "icon": "https://render.guildwars2.com/file/D101C854D77B5EFABCDDB925170DD340B89CB411/543912.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Enrichment"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "infix_upgrade": {
+      "id": 657,
+      "buff": {
+        "skill_id": 17070,
+        "description": "+32 Toughness\n+18 Power\n+18 Precision"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 108
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 108
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 157
+        }
+      ]
+    }
+  }
+}

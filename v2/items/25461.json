@@ -1,0 +1,44 @@
+{
+  "name": "Mending Shiverpeak Short Bow of Serpent Slaying",
+  "type": "Weapon",
+  "level": 38,
+  "rarity": "Masterwork",
+  "vendor_value": 108,
+  "default_skin": 5113,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25461,
+  "chat_link": "[\u0026AgF1YwAA]",
+  "icon": "https://render.guildwars2.com/file/A2662F69D17EECB037A84A62CDF8A0921CDB353F/534287.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 335,
+    "max_power": 370,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 200.192,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 50
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 70
+        }
+      ]
+    },
+    "suffix_item_id": 24660
+  }
+}

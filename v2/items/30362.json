@@ -1,0 +1,44 @@
+{
+  "name": "Longbow",
+  "description": "\u003cc\u003d@flavor\u003e\"Thanks for helping out. Bring back what you kill; it\u0027ll help feed the soldiers.\"\u003cbr\u003e—Hunter Block\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 9,
+  "rarity": "Fine",
+  "vendor_value": 21,
+  "default_skin": 3942,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30362,
+  "chat_link": "[\u0026AgGadgAA]",
+  "icon": "https://render.guildwars2.com/file/C6110F52DF5AFE0F00A56F9E143E9732176DDDE9/65015.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 164,
+    "max_power": 193,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 42.368,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 15
+        }
+      ]
+    }
+  }
+}

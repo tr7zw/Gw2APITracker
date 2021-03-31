@@ -1,0 +1,51 @@
+{
+  "id": 1988,
+  "tier": 3,
+  "order": 1,
+  "name": "Protective Ward",
+  "description": "When you receive damage, nearby foes are weakened and you gain protection.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 15
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+      "duration": 6,
+      "status": "Weakness",
+      "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+      "duration": 4,
+      "status": "Weakness",
+      "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 240
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+      "duration": 4,
+      "status": "Protection",
+      "description": "Incoming damage decreased by 33%; stacks duration.",
+      "apply_count": 1
+    }
+  ],
+  "specialization": 25,
+  "icon": "https://render.guildwars2.com/file/9B7002D2715C18EF2E0E3AD6409B93F223EFDD02/1012637.png"
+}

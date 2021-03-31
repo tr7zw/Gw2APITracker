@@ -1,0 +1,49 @@
+{
+  "name": "Durmand Priory Trident",
+  "description": "\u003cc\u003d@flavor\u003e\"The enemy doesn\u0027t stand a chance now!\"\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 52,
+  "rarity": "Masterwork",
+  "vendor_value": 138,
+  "default_skin": 4712,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30430,
+  "chat_link": "[\u0026AgHedgAA]",
+  "icon": "https://render.guildwars2.com/file/B8F4F953BC20F7A7FE9FF7459FD5534F0608730F/574969.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 448,
+    "max_power": 495,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 304.096,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 76
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 106
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

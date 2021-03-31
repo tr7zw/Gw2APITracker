@@ -1,0 +1,50 @@
+{
+  "name": "Enduring Breastplate",
+  "description": "\u003cc\u003d@flavor\u003e\"Offense and defense. Both are needed to be triumphant.\"\u003cbr\u003e—Enduring Protector\u003c/c\u003e",
+  "type": "Armor",
+  "level": 66,
+  "rarity": "Fine",
+  "vendor_value": 84,
+  "default_skin": 886,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4382,
+  "chat_link": "[\u0026AgEeEQAA]",
+  "icon": "https://render.guildwars2.com/file/50AB9C3C09B21DACA93D205007C666C3BB0D982B/61269.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 208,
+    "infusion_slots": [],
+    "attribute_adjustment": 219.168,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 55
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 55
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 77
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Vloxen Mine Container",
+  "description": "Only provides rewards if Vloxen Mine is held when a supply drop occurs.",
+  "type": "Container",
+  "level": 0,
+  "rarity": "Junk",
+  "vendor_value": 0,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 93447,
+  "chat_link": "[\u0026AgEHbQEA]",
+  "icon": "https://render.guildwars2.com/file/966AE19B5BEA01D2FDE17F17F5624EB05C41076B/2293127.png",
+  "details": {
+    "type": "Immediate"
+  }
+}

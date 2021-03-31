@@ -1,0 +1,48 @@
+{
+  "name": "Rabid Dryad Helm",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 25000,
+  "default_skin": 507,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Sylvari"
+  ],
+  "id": 3665,
+  "chat_link": "[\u0026AgFRDgAA]",
+  "icon": "https://render.guildwars2.com/file/A650362FB31063FC652FC8BA00B0BA05DE5E36EB/61177.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 65,
+    "infusion_slots": [],
+    "attribute_adjustment": 150.912,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 38
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 38
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 53
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2348,
+  "name": "Wild Dragon Chase",
+  "description": "Story Instance: \"Prized Possessions\"",
+  "requirement": "While being pursued by the Mordrem beast, find and retrieve all 23 Echoes of Glint.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    2320
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 73537,
+      "count": 5
+    }
+  ]
+}

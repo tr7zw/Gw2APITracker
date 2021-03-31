@@ -1,0 +1,55 @@
+{
+  "id": 4064,
+  "name": "Zone Defense",
+  "description": "",
+  "requirement": "Successfully fend off the Awakened in each area they invade.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Metrica Province"
+    },
+    {
+      "type": "Text",
+      "text": "Caledon Forest"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields"
+    },
+    {
+      "type": "Text",
+      "text": "Plains of Ashford"
+    },
+    {
+      "type": "Text",
+      "text": "Wayfarer Foothills"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 9
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 36461,
+      "count": 3
+    }
+  ]
+}

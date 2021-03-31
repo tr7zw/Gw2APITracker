@@ -1,0 +1,41 @@
+{
+  "name": "Mighty Masquerade Mask",
+  "description": "",
+  "type": "Armor",
+  "level": 10,
+  "rarity": "Fine",
+  "vendor_value": 36,
+  "default_skin": 255,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6765,
+  "chat_link": "[\u0026AgFtGgAA]",
+  "icon": "https://render.guildwars2.com/file/B9F2C1A5CA3EDA38D7FDE994B4749942630475A1/61359.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 9,
+    "infusion_slots": [],
+    "attribute_adjustment": 11.488,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

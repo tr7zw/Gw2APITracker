@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Tribal Greatsword of Blood",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Exotic",
+  "vendor_value": 318,
+  "default_skin": 5212,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34134,
+  "chat_link": "[\u0026AgFWhQAA]",
+  "icon": "https://render.guildwars2.com/file/D4047596E3E8F837B658E2370BFBADBE0102D805/66446.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 727,
+    "max_power": 803,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 476.8,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 119
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 119
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 167
+        }
+      ]
+    },
+    "suffix_item_id": 24570
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Rabid Firstborn Coat",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 37500,
+  "default_skin": 525,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Sylvari"
+  ],
+  "id": 3668,
+  "chat_link": "[\u0026AgFUDgAA]",
+  "icon": "https://render.guildwars2.com/file/73CD0E4116C1F0A438587537E7E0FB18389BAE62/61179.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 299,
+    "infusion_slots": [],
+    "attribute_adjustment": 339.552,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 85
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 119
+        }
+      ]
+    }
+  }
+}

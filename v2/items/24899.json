@@ -1,0 +1,45 @@
+{
+  "name": "Embellished Intricate Carnelian Jewel",
+  "description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 20,
+  "rarity": "Rare",
+  "vendor_value": 72,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24899,
+  "chat_link": "[\u0026AgFDYQAA]",
+  "icon": "https://render.guildwars2.com/file/B56D1D0A787BD57CE56E443BE64E4D223D1B571B/340635.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "Trinket"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 525,
+      "buff": {
+        "skill_id": 313,
+        "description": "+8 Power\n+4 Precision"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 8
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 4
+        }
+      ]
+    },
+    "suffix": "of Carnelian"
+  }
+}

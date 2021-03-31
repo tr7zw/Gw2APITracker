@@ -1,0 +1,45 @@
+{
+  "name": "Shaman\u0027s Shiverpeak Trident",
+  "type": "Weapon",
+  "level": 61,
+  "rarity": "Fine",
+  "vendor_value": 78,
+  "default_skin": 5106,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 25652,
+  "chat_link": "[\u0026AgE0ZAAA]",
+  "icon": "https://render.guildwars2.com/file/969AD4BBDD1760576A18136702D2D02260097D52/534292.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 492,
+    "max_power": 544,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 348.928,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 122
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 87
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 87
+        }
+      ]
+    }
+  }
+}

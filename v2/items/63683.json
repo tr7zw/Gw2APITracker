@@ -1,0 +1,46 @@
+{
+  "name": "Commando\u0027s Coat",
+  "type": "Armor",
+  "level": 70,
+  "rarity": "Rare",
+  "vendor_value": 266,
+  "default_skin": 141,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 63683,
+  "chat_link": "[\u0026AgHD+AAA]",
+  "icon": "https://render.guildwars2.com/file/2F08692A57925DB1FA11C943FB13ADAC40D50DC2/61406.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 230,
+    "infusion_slots": [],
+    "attribute_adjustment": 280.341,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 70
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 70
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 98
+        }
+      ]
+    }
+  }
+}

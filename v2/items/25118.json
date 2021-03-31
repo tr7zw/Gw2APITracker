@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Etched Sledgehammer of Accuracy",
+  "type": "Weapon",
+  "level": 78,
+  "rarity": "Exotic",
+  "vendor_value": 384,
+  "default_skin": 5036,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25118,
+  "chat_link": "[\u0026AgEeYgAA]",
+  "icon": "https://render.guildwars2.com/file/02DF7D087E3A5768437709303EDE1966BFEC645D/779888.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 954,
+    "max_power": 1076,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 658.72,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 231
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 165
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 165
+        }
+      ]
+    },
+    "suffix_item_id": 24618
+  }
+}

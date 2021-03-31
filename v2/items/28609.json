@@ -1,0 +1,38 @@
+{
+  "name": "Vital Iron Spear",
+  "description": "",
+  "type": "Weapon",
+  "level": 13,
+  "rarity": "Fine",
+  "vendor_value": 27,
+  "default_skin": 4000,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 28609,
+  "chat_link": "[\u0026AgHBbwAA]",
+  "icon": "https://render.guildwars2.com/file/9AC302D1031B5C31806D0703FBC1944C01D4A240/561998.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 177,
+    "max_power": 195,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 56.448,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 20
+        }
+      ]
+    }
+  }
+}

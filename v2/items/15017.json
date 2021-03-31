@@ -1,0 +1,44 @@
+{
+  "name": "Vigorous Iron Spear",
+  "description": "",
+  "type": "Weapon",
+  "level": 35,
+  "rarity": "Masterwork",
+  "vendor_value": 102,
+  "default_skin": 4000,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 15017,
+  "chat_link": "[\u0026AgGpOgAA]",
+  "icon": "https://render.guildwars2.com/file/9AC302D1031B5C31806D0703FBC1944C01D4A240/561998.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 313,
+    "max_power": 346,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 179.248,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 63
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 45
+        }
+      ]
+    }
+  }
+}

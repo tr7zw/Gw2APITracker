@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Flame Staff of Earth",
+  "type": "Weapon",
+  "level": 53,
+  "rarity": "Rare",
+  "vendor_value": 212,
+  "default_skin": 5227,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32930,
+  "chat_link": "[\u0026AgGigAAA]",
+  "icon": "https://render.guildwars2.com/file/00DC9C6326EE2B0AB1A016C060ADBABDC9EE572F/67841.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 537,
+    "max_power": 605,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 338.544,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 118
+        }
+      ]
+    },
+    "suffix_item_id": 24559
+  }
+}

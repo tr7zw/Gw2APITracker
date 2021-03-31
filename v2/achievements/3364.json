@@ -1,0 +1,29 @@
+{
+  "id": 3364,
+  "name": "Free at Last",
+  "description": "\"I\u0027d rather die than remain here any longer.\"",
+  "requirement": "Defeat the demon and liberate the prisoner.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 77869,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 295
+    }
+  ]
+}

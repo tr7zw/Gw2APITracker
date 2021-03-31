@@ -1,0 +1,62 @@
+{
+  "id": 2192,
+  "name": "Machined Shield",
+  "description": "",
+  "requirement": "Collect all  items to forge your Machined Shield.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 6348
+    },
+    {
+      "type": "Item",
+      "id": 71902
+    },
+    {
+      "type": "Item",
+      "id": 71253
+    },
+    {
+      "type": "Item",
+      "id": 71871
+    },
+    {
+      "type": "Item",
+      "id": 76997
+    },
+    {
+      "type": "Item",
+      "id": 71907
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 71808,
+      "count": 1
+    }
+  ]
+}

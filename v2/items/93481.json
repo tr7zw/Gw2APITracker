@@ -1,0 +1,48 @@
+{
+  "name": "Assassin\u0027s Tengu Echo Longbow",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 9392,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 93481,
+  "chat_link": "[\u0026AgEpbQEA]",
+  "icon": "https://render.guildwars2.com/file/7F74070DC51EECDC1333AB6F466CAEE5EAD1673F/2293033.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 920,
+    "max_power": 1080,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 753,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 171
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 239
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 171
+        }
+      ]
+    }
+  }
+}

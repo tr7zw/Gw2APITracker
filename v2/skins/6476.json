@@ -1,0 +1,30 @@
+{
+  "name": "Bladed Gloves",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 6476,
+  "icon": "https://render.guildwars2.com/file/2AD60A376129266FF6ED02D12FFB2A2604DF39E3/1223617.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        null,
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

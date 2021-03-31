@@ -1,0 +1,35 @@
+{
+  "name": "Sorcerer\u0027s Masque",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [
+    "Human"
+  ],
+  "rarity": "Basic",
+  "id": 402,
+  "icon": "https://render.guildwars2.com/file/0A125FA5E5A2804A01B11D0BF79F537F4DBA9A28/61213.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

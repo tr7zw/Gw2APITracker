@@ -1,0 +1,44 @@
+{
+  "name": "Iron Legion Shield",
+  "description": "\u003cc\u003d@flavor\u003e\"We build.\"\u003cbr\u003e—Iron Legion Motto\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 16,
+  "rarity": "Fine",
+  "vendor_value": 20,
+  "default_skin": 4721,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30017,
+  "chat_link": "[\u0026AgFBdQAA]",
+  "icon": "https://render.guildwars2.com/file/9355BA0DD84B67B6280DD538D06FD7EE9F0CB32D/68080.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 168,
+    "max_power": 189,
+    "defense": 9,
+    "infusion_slots": [],
+    "attribute_adjustment": 33.536,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

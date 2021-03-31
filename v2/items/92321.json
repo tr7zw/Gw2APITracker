@@ -1,0 +1,29 @@
+{
+  "name": "Mini Almorra Soulkeeper",
+  "description": "Double-click to summon this mini to follow you around. Only one mini may be in use at a time.",
+  "type": "MiniPet",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 50,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92321,
+  "chat_link": "[\u0026AgGhaAEA]",
+  "icon": "https://render.guildwars2.com/file/DA38B6BED9F1A75D98256F2FCC2D7080649F380E/2221485.png",
+  "details": {
+    "minipet_id": 790
+  }
+}

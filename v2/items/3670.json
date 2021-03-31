@@ -1,0 +1,48 @@
+{
+  "name": "Rabid Firstborn Helm",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 25000,
+  "default_skin": 513,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Sylvari"
+  ],
+  "id": 3670,
+  "chat_link": "[\u0026AgFWDgAA]",
+  "icon": "https://render.guildwars2.com/file/54B568AAF9F8F57139218097FB780E9568730D0C/61181.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 86,
+    "infusion_slots": [],
+    "attribute_adjustment": 150.912,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 38
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 38
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 53
+        }
+      ]
+    }
+  }
+}

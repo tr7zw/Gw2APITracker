@@ -1,0 +1,79 @@
+{
+  "id": 5424,
+  "name": "Ears Wide Open",
+  "description": "Charr have four ears, but it doesn\u0027t hurt to have a few extra.",
+  "requirement": "Plant all of the listening devices at strategic locations throughout Northern Drizzlewood Coast.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Speak with Cato Snapjaw to collect the listening devices."
+    },
+    {
+      "type": "Text",
+      "text": "Strategic Location 1: Behind a tent in the southern Dominion camp."
+    },
+    {
+      "type": "Text",
+      "text": "Strategic Location 2: Tucked under a charr vehicle in the central Dominion camp."
+    },
+    {
+      "type": "Text",
+      "text": "Strategic Location 3: At the foot of a wooden tower behind stacked crates in the northern Dominion camp."
+    },
+    {
+      "type": "Text",
+      "text": "Strategic Location 4: Among some rocks below the northernmost comm tower."
+    },
+    {
+      "type": "Text",
+      "text": "Strategic Location 5: In bushes just below the northeast exit from the cave system."
+    },
+    {
+      "type": "Text",
+      "text": "Strategic Location 6: Near the northern artillery position at Canopy Crag."
+    },
+    {
+      "type": "Text",
+      "text": "Strategic Location 7: Near bushes by the central comm tower."
+    },
+    {
+      "type": "Text",
+      "text": "Strategic Location 8: Next to the northern end of the bridge."
+    },
+    {
+      "type": "Text",
+      "text": "Strategic Location 9: Behind a tree high on a plateau in the southeast, facing the lighthouse."
+    },
+    {
+      "type": "Text",
+      "text": "Strategic Location 10: In some bushes along the main causeway."
+    },
+    {
+      "type": "Text",
+      "text": "Strategic Location 11: On an outcrop of rocks northeast of the southern Dominion camp."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 2
+    },
+    {
+      "count": 8,
+      "points": 3
+    },
+    {
+      "count": 12,
+      "points": 4
+    }
+  ]
+}

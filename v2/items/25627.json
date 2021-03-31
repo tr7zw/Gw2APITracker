@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Shiverpeak Beacon of Bloodlust",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Masterwork",
+  "vendor_value": 122,
+  "default_skin": 5098,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25627,
+  "chat_link": "[\u0026AgEbZAAA]",
+  "icon": "https://render.guildwars2.com/file/42643504C0CA50B40C939FF6E63409FE9BBF6ADB/534291.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 587,
+    "max_power": 689,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 249.56,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 87
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 62
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 62
+        }
+      ]
+    },
+    "suffix_item_id": 24573
+  }
+}

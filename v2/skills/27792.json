@@ -1,0 +1,54 @@
+{
+  "name": "Vengeful Blast",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 10
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 0.5
+    },
+    {
+      "text": "Damage Increase per Pulse",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 0.5
+    },
+    {
+      "text": "Pulses",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 4
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 360
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    }
+  ],
+  "description": "Pull energy towards you from the Mists, damaging nearby foes. The damage is increased as the energy is drawn inwards.",
+  "icon": "https://render.guildwars2.com/file/C70694273AEDFE109B7D3BF624E73138AF11482D/961412.png",
+  "type": "Weapon",
+  "weapon_type": "None",
+  "professions": [
+    "Revenant"
+  ],
+  "slot": "Downed_3",
+  "flags": [],
+  "id": 27792,
+  "chat_link": "[\u0026BpBsAAA\u003d]"
+}

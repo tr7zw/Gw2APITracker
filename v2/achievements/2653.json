@@ -1,0 +1,42 @@
+{
+  "id": 2653,
+  "name": "Undefeated",
+  "description": "",
+  "requirement": "Defeat all bosses in Spirit Vale without any party members dying.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Vale Guardian"
+    },
+    {
+      "type": "Text",
+      "text": "Gorseval"
+    },
+    {
+      "type": "Text",
+      "text": "Sabetha"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 20
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 182
+    },
+    {
+      "type": "Title",
+      "id": 230
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 4659,
+  "name": "Bonus Event: World Boss Rush",
+  "description": "Defeat world bosses around Tyria to earn bonus rewards!",
+  "requirement": "",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    }
+  ],
+  "point_cap": -1,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 91116,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Infuse Light",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 30
+    },
+    {
+      "text": "Healing",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "value": 1853,
+      "target": "Healing"
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/051BD6BDCB2D451AB4E91F45F0DF339ACE12193E/1012990.png",
+      "duration": 3,
+      "status": "Infuse Light",
+      "description": "Inverts all incoming damage to healing.",
+      "apply_count": 1
+    }
+  ],
+  "description": "Legendary Dragon. Consume. Consume Facet of Light to heal yourself and convert all incoming strikes to heals for a short duration.",
+  "icon": "https://render.guildwars2.com/file/051BD6BDCB2D451AB4E91F45F0DF339ACE12193E/1012990.png",
+  "type": "Heal",
+  "weapon_type": "None",
+  "professions": [
+    "Revenant"
+  ],
+  "slot": "Heal",
+  "flags": [],
+  "specialization": 52,
+  "id": 27228,
+  "chat_link": "[\u0026BlxqAAA\u003d]",
+  "traited_facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/1F723B516AC5B614943543EECE6938E13349B90E/1012991.png",
+      "duration": 6,
+      "status": "Facet of Light",
+      "description": "Pulse regeneration to nearby allies every few seconds.",
+      "apply_count": 1,
+      "requires_trait": 1772
+    }
+  ]
+}

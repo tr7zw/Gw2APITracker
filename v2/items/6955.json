@@ -1,0 +1,49 @@
+{
+  "name": "Soldier\u0027s Mist Walker Cap",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 330,
+  "default_skin": 2274,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6955,
+  "chat_link": "[\u0026AgErGwAA]",
+  "icon": "https://render.guildwars2.com/file/30ED187DF2CEFD7C6E116A1D4C197FCB40F52444/61631.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 97,
+    "infusion_slots": [],
+    "attribute_adjustment": 170.72,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 60
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 43
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 43
+        }
+      ]
+    }
+  }
+}

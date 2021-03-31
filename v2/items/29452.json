@@ -1,0 +1,49 @@
+{
+  "name": "Shiny Scratch Rifle",
+  "description": "\u003cc\u003d@flavor\u003e\"Bang, bang!\"\u003cbr\u003e—Cakilak\u0027ka\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 54,
+  "rarity": "Masterwork",
+  "vendor_value": 141,
+  "default_skin": 4092,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29452,
+  "chat_link": "[\u0026AgEMcwAA]",
+  "icon": "https://render.guildwars2.com/file/167018D742BBF5120BE4ACE80DE5B049089D20F2/62700.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 507,
+    "max_power": 620,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 319.736,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 112
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 80
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

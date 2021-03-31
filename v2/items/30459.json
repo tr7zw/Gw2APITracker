@@ -1,0 +1,48 @@
+{
+  "name": "Lionguard Iron Mace",
+  "description": "\u003cc\u003d@flavor\u003e\"We melted pirate cannonballs down to make these. Thick, heavy, deadly. Hitting pirates with their own weapons gives me a great feeling of satisfaction.\"\u003cbr\u003e—Joukje\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 31,
+  "rarity": "Fine",
+  "vendor_value": 31,
+  "default_skin": 5005,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30459,
+  "chat_link": "[\u0026AgH7dgAA]",
+  "icon": "https://render.guildwars2.com/file/D81434679966BBCEB97B7B681833BC38E73694F2/61688.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 261,
+    "max_power": 295,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 69.76,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 24
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 17
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Strong Worn Scale Helm",
+  "description": "",
+  "type": "Armor",
+  "level": 31,
+  "rarity": "Fine",
+  "vendor_value": 39,
+  "default_skin": 99,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 1665,
+  "chat_link": "[\u0026AgGBBgAA]",
+  "icon": "https://render.guildwars2.com/file/D8E21AB5F2F4FEEBC112E95B5C0C9406F725422E/61063.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 30,
+    "infusion_slots": [],
+    "attribute_adjustment": 34.88,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 12
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 4241,
+  "name": "[FTT 203] Intermediate Dynamics—Healing Aura Level 2",
+  "description": "",
+  "requirement": "Built / Healing Aura Level 1 Turrets",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 10,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    4216
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 87817,
+      "count": 1
+    }
+  ]
+}

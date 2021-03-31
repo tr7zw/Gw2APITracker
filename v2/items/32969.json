@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Flame Bow of Energy",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Rare",
+  "vendor_value": 275,
+  "default_skin": 5155,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32969,
+  "chat_link": "[\u0026AgHJgAAA]",
+  "icon": "https://render.guildwars2.com/file/C565D3253F4D6D32E1D89D462CD8B56003B8FABC/67832.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 737,
+    "max_power": 865,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 538.416,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 135
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 135
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 188
+        }
+      ]
+    },
+    "suffix_item_id": 24606
+  }
+}

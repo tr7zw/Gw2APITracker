@@ -1,0 +1,50 @@
+{
+  "name": "Eir\u0027s Short Bow",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 4780,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27802,
+  "chat_link": "[\u0026AgGabAAA]",
+  "icon": "https://render.guildwars2.com/file/FC0A7010DEC899B7BF0CF2B3E1E24E5A090A0CD9/434664.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 905,
+    "max_power": 1000,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 239
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 171
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 171
+        }
+      ]
+    },
+    "suffix_item_id": 24618
+  }
+}

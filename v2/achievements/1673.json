@@ -1,0 +1,27 @@
+{
+  "id": 1673,
+  "name": "Crate Scrapper",
+  "description": "Story Instance: The Waypoint Conundrum",
+  "requirement": "Find the hidden Inquest crate and defeat the chromatic creature within it.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    1674
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 66609,
+      "count": 1
+    }
+  ]
+}

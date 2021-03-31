@@ -1,0 +1,45 @@
+{
+  "name": "Shadowed Researcher\u0027s Focus",
+  "description": "\u003cc\u003d@flavor\u003e\"These weapons have been changed by this area. They really creep me out.\"\u003cbr\u003e—Caedmon\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 22,
+  "rarity": "Masterwork",
+  "vendor_value": 50,
+  "default_skin": 3887,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30352,
+  "chat_link": "[\u0026AgGQdgAA]",
+  "icon": "https://render.guildwars2.com/file/EF62B7FE5B45A1181C362E635301E1BAA8FDCC44/65104.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 215,
+    "max_power": 228,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 51.544,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 18
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

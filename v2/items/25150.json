@@ -1,0 +1,44 @@
+{
+  "name": "Mending Norn Warhammer of Ogre Slaying",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Rare",
+  "vendor_value": 189,
+  "default_skin": 5109,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25150,
+  "chat_link": "[\u0026AgE+YgAA]",
+  "icon": "https://render.guildwars2.com/file/139FE3B79D11DF7EFEE39F7AFC769315B050A233/575171.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 465,
+    "max_power": 524,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 280.512,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 70
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 98
+        }
+      ]
+    },
+    "suffix_item_id": 24656
+  }
+}

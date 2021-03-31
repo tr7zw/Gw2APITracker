@@ -1,0 +1,53 @@
+{
+  "name": "Med Pack Drop",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 50
+    },
+    {
+      "text": "Number of Allied Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    },
+    {
+      "text": "Conditions Removed",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 14
+    },
+    {
+      "text": "Healing",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "value": 1302,
+      "target": "Healing"
+    },
+    {
+      "text": "Number of Impacts",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 6
+    },
+    {
+      "text": "Duration",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "duration": 60
+    }
+  ],
+  "description": "Create a set of med packs around you.",
+  "icon": "https://render.guildwars2.com/file/51DC5A050A99BCAA72FDF51DD6402C18249FB816/1012858.png",
+  "type": "Toolbelt",
+  "weapon_type": "None",
+  "slot": "Toolbelt",
+  "professions": [
+    "Engineer"
+  ],
+  "flags": [],
+  "id": 30588,
+  "chat_link": "[\u0026Bnx3AAA\u003d]"
+}

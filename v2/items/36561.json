@@ -1,0 +1,44 @@
+{
+  "name": "Svanir Talisman",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 264,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 36561,
+  "chat_link": "[\u0026AgHRjgAA]",
+  "icon": "https://render.guildwars2.com/file/18557F10485201B809A97BD35B90681130C44348/455910.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 279.956,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 98
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 70
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 70
+        }
+      ]
+    },
+    "suffix_item_id": 24512
+  }
+}

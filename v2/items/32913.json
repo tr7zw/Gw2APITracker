@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Flame Rifle of Battle",
+  "type": "Weapon",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 167,
+  "default_skin": 5173,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32913,
+  "chat_link": "[\u0026AgGRgAAA]",
+  "icon": "https://render.guildwars2.com/file/4C6B7C3BCAA49D11F8D0D6A5B1025B2ADB7F3800/67264.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 403,
+    "max_power": 492,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 226.944,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 57
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 79
+        }
+      ]
+    },
+    "suffix_item_id": 24602
+  }
+}

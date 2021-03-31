@@ -1,0 +1,30 @@
+{
+  "name": "Stately Gloves",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 902,
+  "icon": "https://render.guildwars2.com/file/FE92E02C05FE05960E345BD85E5EFA042627061B/61231.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "dye_slots": {
+      "default": [
+        null,
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

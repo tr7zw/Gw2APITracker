@@ -1,0 +1,33 @@
+{
+  "name": "Profane Shoes",
+  "description": "Double-click to apply this look to any other light boots.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 20288,
+  "chat_link": "[\u0026AgFATwAA]",
+  "icon": "https://render.guildwars2.com/file/034B20760A77E7E8F8511F35F1E328F5F4966754/455874.png",
+  "details": {
+    "type": "Transmutation",
+    "skins": [
+      1105
+    ]
+  }
+}

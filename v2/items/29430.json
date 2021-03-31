@@ -1,0 +1,52 @@
+{
+  "name": "Hunter\u0027s Harpoon",
+  "description": "\u003cc\u003d@flavor\u003e\"There is no trick to being a good hunter, just practice. The more you\u0027ve eaten, the more you\u0027ve had to practice. I practice a lot.\"\u003cbr\u003e—Ichtaca\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 59,
+  "rarity": "Fine",
+  "vendor_value": 77,
+  "default_skin": 4156,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29430,
+  "chat_link": "[\u0026AgH2cgAA]",
+  "icon": "https://render.guildwars2.com/file/DCAD6461D629BBB5417CD8B6170E7CE27EB4DEF8/65195.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 474,
+    "max_power": 524,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 332.672,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 83
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 83
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 116
+        }
+      ]
+    }
+  }
+}

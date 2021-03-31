@@ -1,0 +1,53 @@
+{
+  "id": 5003,
+  "icon": "https://render.guildwars2.com/file/CC9E0FB5F06B6D466BEBCA68649DAB929EA9A19E/1862652.png",
+  "name": "Mad Armory: Last Rites",
+  "description": "An offhanded whim of Mad King Thorn, made a reality by his zealous court. Executioner\u0027s tool and tombstone in one, this sword was intended for use on the king\u0027s rivals. Then as a loyal adherent of the king, are you not are an appropriate wielder?",
+  "requirement": "Show your allegiance to the Lunatic Court by performing various feats while in a ghostly form from eating certain Halloween foods.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 92196
+    },
+    {
+      "type": "Item",
+      "id": 92126
+    },
+    {
+      "type": "Item",
+      "id": 92145
+    },
+    {
+      "type": "Item",
+      "id": 92174
+    },
+    {
+      "type": "Item",
+      "id": 92173
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 4
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 92169,
+      "count": 1
+    }
+  ]
+}

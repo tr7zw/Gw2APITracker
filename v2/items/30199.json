@@ -1,0 +1,49 @@
+{
+  "name": "Wode\u0027s Staff",
+  "description": "\u003cc\u003d@flavor\u003e\"If Wark tries to claim this as his design, you just ignore that filthy harpy-lover.\"\u003cbr\u003e—Wode\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 47,
+  "rarity": "Masterwork",
+  "vendor_value": 126,
+  "default_skin": 4067,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30199,
+  "chat_link": "[\u0026AgH3dQAA]",
+  "icon": "https://render.guildwars2.com/file/04BE267A42B12DB00F0162639702BDEFC90F4A5D/62880.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 439,
+    "max_power": 495,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 264.928,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 66
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 93
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Honed Drover Helm",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 500,
+  "default_skin": 319,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "id": 3718,
+  "chat_link": "[\u0026AgGGDgAA]",
+  "icon": "https://render.guildwars2.com/file/DB1C0EB01AA02B962AC8D87CDC1FEA28D346A105/218904.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 32,
+    "infusion_slots": [],
+    "attribute_adjustment": 49.284,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 17
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Rampager\u0027s Iron Mace of Grawl Slaying",
+  "description": "",
+  "type": "Weapon",
+  "level": 75,
+  "rarity": "Masterwork",
+  "vendor_value": 124,
+  "default_skin": 3964,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26090,
+  "chat_link": "[\u0026AgHqZQAA]",
+  "icon": "https://render.guildwars2.com/file/415D42C379B3AE75721E59D76E5F170926C416C1/65228.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 677,
+    "max_power": 764,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 254.252,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 64
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 89
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 64
+        }
+      ]
+    },
+    "suffix_item_id": 24646
+  }
+}

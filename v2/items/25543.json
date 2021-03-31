@@ -1,0 +1,44 @@
+{
+  "name": "Mending Shiverpeak Staff of Debility",
+  "type": "Weapon",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 135,
+  "default_skin": 5229,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25543,
+  "chat_link": "[\u0026AgHHYwAA]",
+  "icon": "https://render.guildwars2.com/file/395DF141FC56C9903A7B2EF2B2E1C193AF469923/534289.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 468,
+    "max_power": 528,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 288.456,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 72
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 101
+        }
+      ]
+    },
+    "suffix_item_id": 24634
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": 2637,
+  "name": "Frenzy I: The Experimental Harpoon Gun",
+  "description": "Fishing in Tyria is no pleasant day spent safely on the shore, waiting for a fish to take the bait. It is fought on the fish\u0027s home turf, a battle of fisherman against fish. And the fish fight back. Consider this as you take your first steps in crafting the legendary precursor Rage.",
+  "requirement": "",
+  "locked_text": "Unlock the Mastery ability Revered Antiquarian in the Legendary Crafting Mastery line, and speak to Grandmaster Craftsman Hobbs in Lion\u0027s Arch.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 76895
+    },
+    {
+      "type": "Item",
+      "id": 72321
+    },
+    {
+      "type": "Item",
+      "id": 75657
+    },
+    {
+      "type": "Item",
+      "id": 70776
+    },
+    {
+      "type": "Item",
+      "id": 77158
+    },
+    {
+      "type": "Item",
+      "id": 75059
+    }
+  ],
+  "tiers": [
+    {
+      "count": 6,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 74591,
+      "count": 1
+    }
+  ]
+}

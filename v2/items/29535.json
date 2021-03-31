@@ -1,0 +1,53 @@
+{
+  "name": "Arundon Pistol",
+  "description": "\u003cc\u003d@flavor\u003e\"A good shot is heard louder than a good word.\"\u003cbr\u003e—Explorer Erikk\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 71,
+  "rarity": "Masterwork",
+  "vendor_value": 118,
+  "default_skin": 3875,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29535,
+  "chat_link": "[\u0026AgFfcwAA]",
+  "icon": "https://render.guildwars2.com/file/C43656C1551C9A5A1A931EAC2901BD0FBA3BE3E1/62830.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 619,
+    "max_power": 727,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 235.348,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 59
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 59
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 82
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

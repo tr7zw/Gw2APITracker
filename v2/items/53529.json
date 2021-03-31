@@ -1,0 +1,47 @@
+{
+  "name": "Survivor\u0027s Thunderbluss",
+  "type": "Weapon",
+  "level": 37,
+  "rarity": "Masterwork",
+  "vendor_value": 114,
+  "default_skin": 5175,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 53529,
+  "chat_link": "[\u0026AgEZ0QAA]",
+  "icon": "https://render.guildwars2.com/file/1D625FA71BF2717F6AD5055DA5C40804221BC6A1/534285.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 381,
+    "max_power": 465,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 214.336,
+    "infix_upgrade": {
+      "id": 1013,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 54
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 75
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": 4724,
+  "name": "Skyscale of Spirit",
+  "description": "",
+  "requirement": "Infuse your skyscale egg with spirit.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 90692
+    },
+    {
+      "type": "Item",
+      "id": 90876
+    },
+    {
+      "type": "Item",
+      "id": 90857
+    },
+    {
+      "type": "Item",
+      "id": 90691
+    },
+    {
+      "type": "Item",
+      "id": 90493
+    }
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 90705,
+      "count": 1
+    }
+  ]
+}

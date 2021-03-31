@@ -1,0 +1,42 @@
+{
+  "name": "Archon Shoulders",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "rarity": "Basic",
+  "id": 330,
+  "icon": "https://render.guildwars2.com/file/76440265A46A077749A8AE023E5579E35BD0F80B/414952.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "dye_slots": {
+      "default": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "overrides": {
+        "SylvariMale": [
+          null,
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          }
+        ]
+      }
+    }
+  }
+}

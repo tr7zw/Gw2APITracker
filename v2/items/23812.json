@@ -1,0 +1,43 @@
+{
+  "name": "Broken Centaur Steel Shackles",
+  "description": "\u003cc\u003d@flavor\u003e\"Never again will these shackles be used to enslave another being.\"\u003cbr\u003e—Bronson\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 28,
+  "rarity": "Masterwork",
+  "vendor_value": 73,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23812,
+  "chat_link": "[\u0026AgEEXQAA]",
+  "icon": "https://render.guildwars2.com/file/42F9E4E9540B6E90F00E403E286F61AB34D47553/66846.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 42.4575,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 11
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 15
+        }
+      ]
+    }
+  }
+}

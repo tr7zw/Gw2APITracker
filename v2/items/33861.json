@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Krytan Bow of Serpent Slaying",
+  "type": "Weapon",
+  "level": 38,
+  "rarity": "Masterwork",
+  "vendor_value": 108,
+  "default_skin": 4998,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33861,
+  "chat_link": "[\u0026AgFFhAAA]",
+  "icon": "https://render.guildwars2.com/file/1FA1C0C722B9751C4C378055231E14FCB51517BF/61650.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 340,
+    "max_power": 400,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 200.192,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 70
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 50
+        }
+      ]
+    },
+    "suffix_item_id": 24660
+  }
+}

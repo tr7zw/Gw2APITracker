@@ -1,0 +1,27 @@
+{
+  "name": "Squash Dye",
+  "description": "Double-click to unlock this dye color for all characters.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 5,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell"
+  ],
+  "restrictions": [],
+  "id": 20443,
+  "chat_link": "[\u0026AgHbTwAA]",
+  "icon": "https://render.guildwars2.com/file/06DF4AD10F92FDC3AB0EA1D8411038D44758BD52/66654.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "Dye",
+    "color_id": -1
+  }
+}

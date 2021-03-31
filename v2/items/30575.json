@@ -1,0 +1,44 @@
+{
+  "name": "Shield",
+  "description": "\u003cc\u003d@flavor\u003e\"Does a good job of keeping thorn wolves away.\"\u003cbr\u003e—Nessi\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 17,
+  "rarity": "Fine",
+  "vendor_value": 21,
+  "default_skin": 3855,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30575,
+  "chat_link": "[\u0026AgFvdwAA]",
+  "icon": "https://render.guildwars2.com/file/7DB35F1B7E15540C901650FE08B635FC7F01C852/66208.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 172,
+    "max_power": 194,
+    "defense": 10,
+    "infusion_slots": [],
+    "attribute_adjustment": 35.648,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

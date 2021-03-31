@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Shiverpeak Speargun of Earth",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 198,
+  "default_skin": 5058,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25508,
+  "chat_link": "[\u0026AgGkYwAA]",
+  "icon": "https://render.guildwars2.com/file/B144EAD21C1A0A030A79B6A3D5050BFB34C97BFB/534288.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 745,
+    "max_power": 823,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 559.912,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 196
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 140
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 140
+        }
+      ]
+    },
+    "suffix_item_id": 24558
+  }
+}

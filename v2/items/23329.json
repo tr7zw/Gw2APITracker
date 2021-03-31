@@ -1,0 +1,39 @@
+{
+  "name": "Bear Totem",
+  "description": "\u003cc\u003d@flavor\u003e\"Bear watches over us.\"\u003cbr\u003e—Freygunn\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 3,
+  "rarity": "Fine",
+  "vendor_value": 10,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23329,
+  "chat_link": "[\u0026AgEhWwAA]",
+  "icon": "https://render.guildwars2.com/file/6AE4A0A1A703FD30030D0E66B4B9610907CFFCFE/66813.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 8.88,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 3
+        }
+      ]
+    }
+  }
+}

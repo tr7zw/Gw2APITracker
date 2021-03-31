@@ -1,0 +1,30 @@
+{
+  "name": "Leather Shoulders",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 184,
+  "icon": "https://render.guildwars2.com/file/CF619DE2DFD79ABBFAB6B6FA626D433CA6B03752/61433.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Medium",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        null,
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

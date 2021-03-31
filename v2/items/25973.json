@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Iron Mace of Chilling",
+  "description": "",
+  "type": "Weapon",
+  "level": 70,
+  "rarity": "Exotic",
+  "vendor_value": 236,
+  "default_skin": 3964,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25973,
+  "chat_link": "[\u0026AgF1ZQAA]",
+  "icon": "https://render.guildwars2.com/file/415D42C379B3AE75721E59D76E5F170926C416C1/65228.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 757,
+    "max_power": 854,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 282.48,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 99
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 71
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 71
+        }
+      ]
+    },
+    "suffix_item_id": 24630
+  }
+}

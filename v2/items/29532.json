@@ -1,0 +1,53 @@
+{
+  "name": "Shifting Dagger",
+  "description": "\u003cc\u003d@flavor\u003e\"The smallest fang can cause the deadliest wound.\"\u003cbr\u003e—Shifting Waves\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 132,
+  "default_skin": 4009,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29532,
+  "chat_link": "[\u0026AgFccwAA]",
+  "icon": "https://render.guildwars2.com/file/3254C66ED1675657E0B7C2FBBC09FBF2FBAA74A6/62762.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 761,
+    "max_power": 808,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 279.956,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 70
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 70
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 98
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

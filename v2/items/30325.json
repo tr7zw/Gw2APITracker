@@ -1,0 +1,53 @@
+{
+  "name": "Shelter Focus",
+  "description": "\u003cc\u003d@flavor\u003e\"The arcane matrix is specially calibrated for this area.\"\u003cbr\u003e—Scholar Maroola\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 75,
+  "rarity": "Masterwork",
+  "vendor_value": 124,
+  "default_skin": 5178,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30325,
+  "chat_link": "[\u0026AgF1dgAA]",
+  "icon": "https://render.guildwars2.com/file/2344244016425D02CE90BC950B366B7FC0183C37/62837.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 629,
+    "max_power": 668,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 254.252,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 64
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 64
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 89
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

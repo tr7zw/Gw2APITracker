@@ -1,0 +1,51 @@
+{
+  "name": "Forsaken Razor Shard",
+  "type": "Weapon",
+  "level": 71,
+  "rarity": "Exotic",
+  "vendor_value": 244,
+  "default_skin": 5224,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 51843,
+  "chat_link": "[\u0026AgGDygAA]",
+  "icon": "https://render.guildwars2.com/file/2E706E005EE5CD39D0A23198EBB9780CFC0CE2EF/67835.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 837,
+    "max_power": 888,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 305.2,
+    "infix_upgrade": {
+      "id": 1011,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 107
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 76
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 76
+        }
+      ]
+    }
+  }
+}

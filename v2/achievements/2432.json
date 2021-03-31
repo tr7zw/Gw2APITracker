@@ -1,0 +1,94 @@
+{
+  "id": 2432,
+  "name": "Wild Abandon",
+  "description": "",
+  "requirement": "Collect these  items and skins to receive the berserker\u0027s torch, Wild Abandon.",
+  "locked_text": "Begin training the warrior\u0027s berserker elite specialization.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 6471
+    },
+    {
+      "type": "Item",
+      "id": 70942
+    },
+    {
+      "type": "Item",
+      "id": 76433
+    },
+    {
+      "type": "Skin",
+      "id": 5314
+    },
+    {
+      "type": "Item",
+      "id": 76474
+    },
+    {
+      "type": "Item",
+      "id": 70784
+    },
+    {
+      "type": "Item",
+      "id": 76298
+    },
+    {
+      "type": "Item",
+      "id": 75821
+    },
+    {
+      "type": "Item",
+      "id": 76097
+    },
+    {
+      "type": "Item",
+      "id": 71673
+    },
+    {
+      "type": "Item",
+      "id": 73819
+    },
+    {
+      "type": "Skin",
+      "id": 6360
+    },
+    {
+      "type": "Item",
+      "id": 71333
+    },
+    {
+      "type": "Skin",
+      "id": 6347
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    },
+    {
+      "count": 14,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 74918,
+      "count": 1
+    }
+  ]
+}

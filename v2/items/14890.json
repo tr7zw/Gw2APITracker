@@ -1,0 +1,48 @@
+{
+  "name": "Rabid Beaded Firearm",
+  "description": "",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 156,
+  "default_skin": 4056,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 14890,
+  "chat_link": "[\u0026AgEqOgAA]",
+  "icon": "https://render.guildwars2.com/file/B60656F3557DFBDF50FEF1E9A1250E0715AC3345/534148.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 546,
+    "max_power": 641,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 200.88,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 50
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 50
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 70
+        }
+      ]
+    }
+  }
+}

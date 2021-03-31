@@ -1,0 +1,49 @@
+{
+  "name": "Ornate Sapphire Jewel",
+  "description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 90,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24882,
+  "chat_link": "[\u0026AgEyYQAA]",
+  "icon": "https://render.guildwars2.com/file/53CFD252A2E071FF9C0317B6380610403CD827B6/221183.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "Trinket"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 492,
+      "buff": {
+        "skill_id": 283,
+        "description": "+14 Healing\n+9 Power\n+9 Toughness"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 9
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 9
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 14
+        }
+      ]
+    },
+    "suffix": "of Sapphire"
+  }
+}

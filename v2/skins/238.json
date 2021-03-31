@@ -1,0 +1,30 @@
+{
+  "name": "Noble Boots",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 238,
+  "icon": "https://render.guildwars2.com/file/B57B5B700AF63B1DA0C5739516D6191DFCCE5BF1/61440.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "dye_slots": {
+      "default": [
+        null,
+        null,
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        }
+      ],
+      "overrides": {}
+    }
+  }
+}

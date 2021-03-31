@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Snapdragon Epaulets",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 500,
+  "default_skin": 485,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Sylvari"
+  ],
+  "id": 3682,
+  "chat_link": "[\u0026AgFiDgAA]",
+  "icon": "https://render.guildwars2.com/file/7E0CE4DF5A03D56357E501CBF2C2CE00BE5BE30D/433415.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 24,
+    "infusion_slots": [],
+    "attribute_adjustment": 36.963,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 9
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 13
+        }
+      ]
+    }
+  }
+}

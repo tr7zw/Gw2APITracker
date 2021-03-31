@@ -1,0 +1,44 @@
+{
+  "name": "Mending Norn Torch of Battle",
+  "type": "Weapon",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 111,
+  "default_skin": 5103,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25629,
+  "chat_link": "[\u0026AgEdZAAA]",
+  "icon": "https://render.guildwars2.com/file/3A589D3C7DEF91572159A33E324A4E975CCC011D/575182.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 322,
+    "max_power": 378,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 113.472,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 28
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 40
+        }
+      ]
+    },
+    "suffix_item_id": 24602
+  }
+}

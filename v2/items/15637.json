@@ -1,0 +1,44 @@
+{
+  "name": "Hearty Dredge Edge",
+  "description": "",
+  "type": "Weapon",
+  "level": 50,
+  "rarity": "Rare",
+  "vendor_value": 135,
+  "default_skin": 4085,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 15637,
+  "chat_link": "[\u0026AgEVPQAA]",
+  "icon": "https://render.guildwars2.com/file/66BEDAB963C19DAC09B37CEE2F4211380EE978E1/575000.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 465,
+    "max_power": 514,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 156.816,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 39
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 55
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Rabid Nightshade Gloves",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 1000,
+  "default_skin": 506,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Sylvari"
+  ],
+  "id": 3650,
+  "chat_link": "[\u0026AgFCDgAA]",
+  "icon": "https://render.guildwars2.com/file/A02AFA7E5F91041201C76AB49DD26175E675BFF7/414943.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 94,
+    "infusion_slots": [],
+    "attribute_adjustment": 75.33,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 19
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 19
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 26
+        }
+      ]
+    }
+  }
+}

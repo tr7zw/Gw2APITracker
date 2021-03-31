@@ -1,0 +1,39 @@
+{
+  "name": "Rusty Iron Key",
+  "description": "\u003cc\u003d@flavor\u003e\"There\u0027s more rust than iron left here.\"\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 13,
+  "rarity": "Fine",
+  "vendor_value": 23,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23734,
+  "chat_link": "[\u0026AgG2XAAA]",
+  "icon": "https://render.guildwars2.com/file/9577036D9BF8A120CD02BCF110DDFA416303026A/65712.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 17.64,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

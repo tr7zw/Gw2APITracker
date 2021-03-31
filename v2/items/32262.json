@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Legionnaire Axe of Rage",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 5052,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32262,
+  "chat_link": "[\u0026AgEGfgAA]",
+  "icon": "https://render.guildwars2.com/file/BCFFAF4EBEF20A62745C3F21C9D33502F072C0AD/67668.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 857,
+    "max_power": 1048,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 85
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 85
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 120
+        }
+      ]
+    },
+    "suffix_item_id": 24561
+  }
+}

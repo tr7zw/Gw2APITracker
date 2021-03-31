@@ -1,0 +1,44 @@
+{
+  "name": "Major Rune of the Nightmare",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eSkill\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 108,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 24847,
+  "chat_link": "[\u0026AgEPYQAA]",
+  "icon": "https://render.guildwars2.com/file/9A773955089AD896BD369B40F52ED73D0FEFB4A4/221154.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+15 Condition Damage",
+      "+7% Fear Duration",
+      "+30 Condition Damage",
+      "+6% Condition Duration"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Nightmare"
+  }
+}

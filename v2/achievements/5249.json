@@ -1,0 +1,25 @@
+{
+  "id": 5249,
+  "name": "Special Mission: Clear the Port",
+  "description": "",
+  "requirement": "Defeat  Dominion charr in Port Cascadia in the Drizzlewood Coast.",
+  "locked_text": "Unlock using special mission documents.",
+  "type": "Default",
+  "flags": [
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 100,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 93627,
+      "count": 250
+    }
+  ]
+}

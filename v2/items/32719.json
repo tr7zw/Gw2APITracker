@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Steam Shield of Grawl Slaying",
+  "type": "Weapon",
+  "level": 32,
+  "rarity": "Masterwork",
+  "vendor_value": 64,
+  "default_skin": 5102,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32719,
+  "chat_link": "[\u0026AgHPfwAA]",
+  "icon": "https://render.guildwars2.com/file/FADA685852160FA4D0EBEDC346663CE4439B45AB/67285.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 262,
+    "max_power": 295,
+    "defense": 17,
+    "infusion_slots": [],
+    "attribute_adjustment": 80.308,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 20
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 28
+        }
+      ]
+    },
+    "suffix_item_id": 24646
+  }
+}

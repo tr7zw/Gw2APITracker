@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Privateer Hat of the Afflicted",
+  "description": "",
+  "type": "Armor",
+  "level": 47,
+  "rarity": "Rare",
+  "vendor_value": 158,
+  "default_skin": 102,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 547,
+  "chat_link": "[\u0026AgEjAgAA]",
+  "icon": "https://render.guildwars2.com/file/746AA96A7C3E3136087451094F7D4DC403B526E7/61020.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 43,
+    "infusion_slots": [],
+    "attribute_adjustment": 72.216,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 18
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 25
+        }
+      ]
+    },
+    "suffix_item_id": 24686
+  }
+}

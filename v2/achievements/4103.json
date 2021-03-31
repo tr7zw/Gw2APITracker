@@ -1,0 +1,60 @@
+{
+  "id": 4103,
+  "name": "Repairing IG-6417",
+  "description": "Golems are people too.",
+  "requirement": "Acquire the parts to repair IG-6417.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 86969
+    },
+    {
+      "type": "Item",
+      "id": 86998
+    },
+    {
+      "type": "Item",
+      "id": 87092
+    },
+    {
+      "type": "Item",
+      "id": 87227
+    },
+    {
+      "type": "Item",
+      "id": 87208
+    },
+    {
+      "type": "Item",
+      "id": 87102
+    },
+    {
+      "type": "Item",
+      "id": 87221
+    }
+  ],
+  "tiers": [
+    {
+      "count": 7,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    4091
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 87071,
+      "count": 1
+    }
+  ]
+}

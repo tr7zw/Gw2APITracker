@@ -1,0 +1,49 @@
+{
+  "name": "Cauterize",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 30
+    },
+    {
+      "text": "\u003cc\u003d@abilitytype\u003eHeat Threshold\u003c/c\u003e",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
+      "value": 50
+    },
+    {
+      "text": "Conditions Removed",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 3
+    },
+    {
+      "text": "\u003cc\u003d@abilitytype\u003eAdditional Conditions\u003c/c\u003e",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 3
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+      "duration": 3,
+      "status": "Burning",
+      "description": "Deals damage every second; stacks intensity.",
+      "apply_count": 1
+    }
+  ],
+  "description": "Use a laser to burn off conditions and set yourself on fire for each condition removed. Removes additional conditions if above the heat threshold.",
+  "icon": "https://render.guildwars2.com/file/923048741863452B14360357FDD603A9DA04F7B9/1770394.png",
+  "type": "Toolbelt",
+  "weapon_type": "None",
+  "slot": "Toolbelt",
+  "professions": [
+    "Engineer"
+  ],
+  "flags": [],
+  "id": 43845,
+  "chat_link": "[\u0026BkWrAAA\u003d]"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Resilient Krytan Warhammer",
+  "type": "Weapon",
+  "level": 6,
+  "rarity": "Fine",
+  "vendor_value": 17,
+  "default_skin": 5022,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 33455,
+  "chat_link": "[\u0026AgGvggAA]",
+  "icon": "https://render.guildwars2.com/file/FBE1BC5F0E3C3A4160E2E9B599F3E125030AB405/61677.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 163,
+    "max_power": 184,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 33.024,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Earring",
+  "description": "",
+  "type": "Trinket",
+  "level": 30,
+  "rarity": "Masterwork",
+  "vendor_value": 78,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 13300,
+  "chat_link": "[\u0026AgH0MwAA]",
+  "icon": "https://render.guildwars2.com/file/925878C913992FD4EF01A5FAE5CB96AF050945A5/63598.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 46.325,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 16
+        }
+      ]
+    },
+    "suffix_item_id": 24470
+  }
+}

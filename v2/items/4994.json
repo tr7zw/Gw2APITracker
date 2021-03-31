@@ -1,0 +1,51 @@
+{
+  "name": "Magmatic Helm",
+  "description": "\u003cc\u003d@flavor\u003e\"I hate volcanos. Between the Inquest, explosions, and lava, so much can fall on your head. As you can tell, I like my head.\"\u003cbr\u003e—Krewe Apprentice Blork\u003c/c\u003e",
+  "type": "Armor",
+  "level": 63,
+  "rarity": "Masterwork",
+  "vendor_value": 135,
+  "default_skin": 892,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4994,
+  "chat_link": "[\u0026AgGCEwAA]",
+  "icon": "https://render.guildwars2.com/file/E9EEB91BD00673FB2B0DBC04FFAB96A929FF23FB/61559.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 71,
+    "infusion_slots": [],
+    "attribute_adjustment": 99.178,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 25
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 25
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 35
+        }
+      ]
+    },
+    "suffix_item_id": 24724
+  }
+}

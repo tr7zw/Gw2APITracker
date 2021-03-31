@@ -1,0 +1,37 @@
+{
+  "name": "Healing Shiverpeak Club",
+  "type": "Weapon",
+  "level": 11,
+  "rarity": "Fine",
+  "vendor_value": 16,
+  "default_skin": 5158,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 25242,
+  "chat_link": "[\u0026AgGaYgAA]",
+  "icon": "https://render.guildwars2.com/file/F4C7AFECFA69166C750EBC06C17572F56A78D07B/534283.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 167,
+    "max_power": 189,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 24.704,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

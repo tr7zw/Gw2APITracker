@@ -1,0 +1,38 @@
+{
+  "name": "Precise Iron Mace",
+  "description": "",
+  "type": "Weapon",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 7,
+  "default_skin": 3964,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 25997,
+  "chat_link": "[\u0026AgGNZQAA]",
+  "icon": "https://render.guildwars2.com/file/415D42C379B3AE75721E59D76E5F170926C416C1/65228.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 140,
+    "max_power": 157,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 13.44,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 5
+        }
+      ]
+    }
+  }
+}

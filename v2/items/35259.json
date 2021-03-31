@@ -1,0 +1,47 @@
+{
+  "name": "Vigorous Bandit Focus",
+  "description": "",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 2018,
+  "default_skin": 3903,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 35259,
+  "chat_link": "[\u0026AgG7iQAA]",
+  "icon": "https://render.guildwars2.com/file/920324A8CC464AC205D62208E75C70CF7FE6A492/63483.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 518,
+    "max_power": 550,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 200.88,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 70
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 50
+        }
+      ]
+    }
+  }
+}

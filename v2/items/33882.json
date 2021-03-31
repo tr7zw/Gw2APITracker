@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Krytan Shield of Smoldering",
+  "type": "Weapon",
+  "level": 44,
+  "rarity": "Masterwork",
+  "vendor_value": 80,
+  "default_skin": 5018,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33882,
+  "chat_link": "[\u0026AgFahAAA]",
+  "icon": "https://render.guildwars2.com/file/5DA00DC8E6E6E7BE39B51B7F30D2314ECB33A5CF/61712.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 337,
+    "max_power": 380,
+    "defense": 23,
+    "infusion_slots": [],
+    "attribute_adjustment": 121.176,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 42
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 30
+        }
+      ]
+    },
+    "suffix_item_id": 24622
+  }
+}

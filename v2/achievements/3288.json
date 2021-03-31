@@ -1,0 +1,24 @@
+{
+  "id": 3288,
+  "name": "It\u0027s a Trap",
+  "description": "Your feet can\u0027t repel spikes of that magnitude!",
+  "requirement": "Navigate Noran\u0027s secret trap maze and reach the treasure room.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 161
+    }
+  ]
+}

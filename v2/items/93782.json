@@ -1,0 +1,50 @@
+{
+  "name": "Cleric\u0027s Flame Dominion Torch of Cleansing",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 9479,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 93782,
+  "chat_link": "[\u0026AgFWbgEA]",
+  "icon": "https://render.guildwars2.com/file/C6EB48AC1503F29EA6CC48C2579DA65B1A33B906/2314484.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 789,
+    "max_power": 926,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 85
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 85
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 120
+        }
+      ]
+    },
+    "suffix_item_id": 67340
+  }
+}

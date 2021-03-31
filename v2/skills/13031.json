@@ -1,0 +1,66 @@
+{
+  "name": "Pistol Whip",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 130
+    },
+    {
+      "text": "Initial Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 0.37
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 4,
+      "dmg_multiplier": 0.79
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 4,
+      "dmg_multiplier": 0.6
+    },
+    {
+      "text": "Stun",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
+      "duration": 1
+    }
+  ],
+  "description": "Dual Wield. Pistol-whip your foe, stunning them, then slash repeatedly with your sword.",
+  "icon": "https://render.guildwars2.com/file/4103D22B92E6D29AC1014F11253E263C4E6CFE32/103117.png",
+  "type": "Weapon",
+  "weapon_type": "Sword",
+  "professions": [
+    "Thief"
+  ],
+  "slot": "Weapon_3",
+  "dual_wield": "Pistol",
+  "initiative": 5,
+  "flags": [
+    "NoUnderwater"
+  ],
+  "id": 13031,
+  "chat_link": "[\u0026BucyAAA\u003d]",
+  "categories": [
+    "DualWield"
+  ],
+  "traited_facts": [
+    {
+      "text": "Healing",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "value": 509,
+      "requires_trait": 1238,
+      "target": "Healing"
+    }
+  ]
+}

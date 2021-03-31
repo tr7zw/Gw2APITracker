@@ -1,0 +1,45 @@
+{
+  "name": "Lion\u0027s Claw Model II",
+  "description": "\u003cc\u003d@flavor\u003e\"Trade can never stop.\"\u003cbr\u003e—Lionguard\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 16,
+  "rarity": "Masterwork",
+  "vendor_value": 40,
+  "default_skin": 3875,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30341,
+  "chat_link": "[\u0026AgGFdgAA]",
+  "icon": "https://render.guildwars2.com/file/C43656C1551C9A5A1A931EAC2901BD0FBA3BE3E1/62830.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 198,
+    "max_power": 233,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 37.876,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 13
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

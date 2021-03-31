@@ -1,0 +1,24 @@
+{
+  "id": 3122,
+  "name": "Dragon Duty",
+  "description": "Story Instance: Dragon Vigil",
+  "requirement": "Complete the Dragon Vigil story instance without being defeated.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 198
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Moa Egg Omelet",
+  "type": "Consumable",
+  "level": 13,
+  "rarity": "Basic",
+  "vendor_value": 6,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 8614,
+  "chat_link": "[\u0026AgGmIQAA]",
+  "icon": "https://render.guildwars2.com/file/950558031F21800DC0A7AA395FF0CEAD159A5503/63106.png",
+  "details": {
+    "type": "Food",
+    "duration_ms": 600000,
+    "apply_count": 1,
+    "name": "Nourishment",
+    "icon": "https://render.guildwars2.com/file/779D3F0ABE5B46C09CFC57374DA8CC3A495F291C/436367.png",
+    "description": "-8% Incoming Condition Duration\n+10% Experience from Kills"
+  }
+}

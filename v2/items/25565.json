@@ -1,0 +1,41 @@
+{
+  "name": "Mending Einhänder",
+  "type": "Weapon",
+  "level": 26,
+  "rarity": "Fine",
+  "vendor_value": 28,
+  "default_skin": 5231,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 25565,
+  "chat_link": "[\u0026AgHdYwAA]",
+  "icon": "https://render.guildwars2.com/file/FE00504CABCC01D699800D4E4EC706FA037CF608/534290.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 234,
+    "max_power": 258,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 54.976,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 14
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 19
+        }
+      ]
+    }
+  }
+}

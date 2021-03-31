@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Black Earth Trident of Bloodlust",
+  "description": "",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Masterwork",
+  "vendor_value": 183,
+  "default_skin": 4712,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28645,
+  "chat_link": "[\u0026AgHlbwAA]",
+  "icon": "https://render.guildwars2.com/file/B8F4F953BC20F7A7FE9FF7459FD5534F0608730F/574969.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 673,
+    "max_power": 744,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 499.12,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 175
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 125
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 125
+        }
+      ]
+    },
+    "suffix_item_id": 24573
+  }
+}

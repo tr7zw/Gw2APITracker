@@ -1,0 +1,24 @@
+{
+  "id": 118,
+  "name": "Flameseeker",
+  "description": "You follow the tradition of a long line of heroes.",
+  "requirement": "Earn  points in the Hall of Monuments.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 40,
+      "points": 50
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 8
+    }
+  ]
+}

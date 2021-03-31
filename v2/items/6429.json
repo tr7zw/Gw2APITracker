@@ -1,0 +1,44 @@
+{
+  "name": "Strong Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 49,
+  "rarity": "Fine",
+  "vendor_value": 40,
+  "default_skin": 80,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6429,
+  "chat_link": "[\u0026AgEdGQAA]",
+  "icon": "https://render.guildwars2.com/file/16670E161F58E8F86BE60ED3F83AA1D6C7210945/61045.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 62,
+    "infusion_slots": [],
+    "attribute_adjustment": 48.144,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 17
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

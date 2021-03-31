@@ -1,0 +1,48 @@
+{
+  "name": "Bringer\u0027s Ogre Cleaver",
+  "description": "",
+  "type": "Weapon",
+  "level": 65,
+  "rarity": "Rare",
+  "vendor_value": 165,
+  "default_skin": 4035,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 38317,
+  "chat_link": "[\u0026AgGtlQAA]",
+  "icon": "https://render.guildwars2.com/file/6025F1781331A17BD9CC2EF4EC14A63E6FE551BB/68658.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 585,
+    "max_power": 714,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 224.136,
+    "infix_upgrade": {
+      "id": 1032,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 78
+        }
+      ]
+    }
+  }
+}

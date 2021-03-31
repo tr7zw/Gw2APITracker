@@ -1,0 +1,50 @@
+{
+  "name": "Light Sword",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Masterwork",
+  "vendor_value": 122,
+  "default_skin": 4900,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32185,
+  "chat_link": "[\u0026AgG5fQAA]",
+  "icon": "https://render.guildwars2.com/file/E0DFCE6DC8309449E74A79F2F73541CC3903525B/434628.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 673,
+    "max_power": 744,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 249.56,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 87
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 62
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 62
+        }
+      ]
+    },
+    "suffix_item_id": 24554
+  }
+}

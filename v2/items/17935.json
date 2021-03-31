@@ -1,0 +1,48 @@
+{
+  "name": "Accursed Treads",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 643,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 17935,
+  "chat_link": "[\u0026AgEPRgAA]",
+  "icon": "https://render.guildwars2.com/file/B40A56C29F0647F40276B9283C7DD40267F01805/61604.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 157,
+    "infusion_slots": [],
+    "attribute_adjustment": 128.04,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 32
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 32
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 45
+        }
+      ]
+    },
+    "suffix_item_id": 24860
+  }
+}

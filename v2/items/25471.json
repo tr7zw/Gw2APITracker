@@ -1,0 +1,44 @@
+{
+  "name": "Mending Norn Short Bow of Earth",
+  "type": "Weapon",
+  "level": 53,
+  "rarity": "Rare",
+  "vendor_value": 212,
+  "default_skin": 5117,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25471,
+  "chat_link": "[\u0026AgF/YwAA]",
+  "icon": "https://render.guildwars2.com/file/01BA17EB097060C3A5EAD0F5129D0A32CA59BF47/575179.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 493,
+    "max_power": 545,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 338.544,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 85
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 118
+        }
+      ]
+    },
+    "suffix_item_id": 24559
+  }
+}

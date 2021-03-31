@@ -1,0 +1,29 @@
+{
+  "name": "Mini Cloudseeker",
+  "description": "Double-click to summon this mini to follow you around. Only one mini may be in use at a time.",
+  "type": "MiniPet",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 50,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92734,
+  "chat_link": "[\u0026AgE+agEA]",
+  "icon": "https://render.guildwars2.com/file/60D159072C11B7A36E23405EEAA2FE0553E61226/2247611.png",
+  "details": {
+    "minipet_id": 800
+  }
+}

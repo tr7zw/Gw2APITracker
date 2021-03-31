@@ -1,0 +1,27 @@
+{
+  "name": "Chocolate Banana",
+  "type": "Consumable",
+  "level": 15,
+  "rarity": "Fine",
+  "vendor_value": 1,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell"
+  ],
+  "restrictions": [],
+  "id": 12356,
+  "chat_link": "[\u0026AgFEMAAA]",
+  "icon": "https://render.guildwars2.com/file/BF2AD040E19B015A2B1645E05FAE5E50F1F45AB1/219437.png",
+  "details": {
+    "type": "Food",
+    "duration_ms": 1800000,
+    "apply_count": 1,
+    "name": "Nourishment",
+    "icon": "https://render.guildwars2.com/file/779D3F0ABE5B46C09CFC57374DA8CC3A495F291C/436367.png",
+    "description": "7% Magic Find while Under the Effect of a Boon\n+10% Experience from Kills"
+  }
+}

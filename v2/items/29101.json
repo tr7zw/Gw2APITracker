@@ -1,0 +1,38 @@
+{
+  "name": "Mighty Warhorn",
+  "description": "",
+  "type": "Weapon",
+  "level": 4,
+  "rarity": "Basic",
+  "vendor_value": 5,
+  "default_skin": 3859,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 29101,
+  "chat_link": "[\u0026AgGtcQAA]",
+  "icon": "https://render.guildwars2.com/file/F464B3A80B0EFF2105630C0E48BBC6C5CA1CB651/66224.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 105,
+    "max_power": 116,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 11.544,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

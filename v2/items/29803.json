@@ -1,0 +1,53 @@
+{
+  "name": "Lionguard Bow",
+  "description": "",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 5000,
+  "default_skin": 4614,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29803,
+  "chat_link": "[\u0026AgFrdAAA]",
+  "icon": "https://render.guildwars2.com/file/DD990C941E53B353AFC5AE357E7974F0AE9A5338/779979.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 573,
+    "max_power": 673,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 401.76,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 100
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 141
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 100
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

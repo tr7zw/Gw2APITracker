@@ -1,0 +1,43 @@
+{
+  "name": "Harathi Dagger",
+  "type": "Weapon",
+  "level": 17,
+  "rarity": "Fine",
+  "vendor_value": 21,
+  "default_skin": 4524,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30404,
+  "chat_link": "[\u0026AgHEdgAA]",
+  "icon": "https://render.guildwars2.com/file/0D2D004D3AA702A2E31852417F45E7C8FDC2C34F/67615.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 197,
+    "max_power": 209,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 35.648,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

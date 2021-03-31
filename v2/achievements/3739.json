@@ -1,0 +1,47 @@
+{
+  "id": 3739,
+  "name": "Renowned Adventurer: Desert Highlands",
+  "description": "",
+  "requirement": "Complete all of the renown hearts located in the Desert Highlands.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Help out around Highjump Ranch."
+    },
+    {
+      "type": "Text",
+      "text": "Help the Makali community."
+    },
+    {
+      "type": "Text",
+      "text": "Help the Pricklepatch Hollow choya, or don\u0027t."
+    },
+    {
+      "type": "Text",
+      "text": "Pitch in around Lommuld Kraal."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 3
+    },
+    {
+      "count": 2,
+      "points": 3
+    },
+    {
+      "count": 3,
+      "points": 3
+    },
+    {
+      "count": 4,
+      "points": 3
+    }
+  ]
+}

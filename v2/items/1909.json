@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Privateer Gloves of Vampirism",
+  "description": "",
+  "type": "Armor",
+  "level": 53,
+  "rarity": "Masterwork",
+  "vendor_value": 85,
+  "default_skin": 80,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 1909,
+  "chat_link": "[\u0026AgF1BwAA]",
+  "icon": "https://render.guildwars2.com/file/16670E161F58E8F86BE60ED3F83AA1D6C7210945/61045.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 74,
+    "infusion_slots": [],
+    "attribute_adjustment": 58.4715,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 15
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 20
+        }
+      ]
+    },
+    "suffix_item_id": 24709
+  }
+}

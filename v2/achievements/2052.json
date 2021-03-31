@@ -1,0 +1,77 @@
+{
+  "id": 2052,
+  "name": "Luminescent Coat",
+  "description": "",
+  "requirement": "Collect the  parts required to assemble a Luminescent Coat.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 68503
+    },
+    {
+      "type": "Item",
+      "id": 68528
+    },
+    {
+      "type": "Item",
+      "id": 68515
+    },
+    {
+      "type": "Item",
+      "id": 68521
+    },
+    {
+      "type": "Item",
+      "id": 68510
+    },
+    {
+      "type": "Item",
+      "id": 68513
+    },
+    {
+      "type": "Item",
+      "id": 67894
+    },
+    {
+      "type": "Skin",
+      "id": 5737
+    },
+    {
+      "type": "Skin",
+      "id": 5710
+    },
+    {
+      "type": "Skin",
+      "id": 5743
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 67797,
+      "count": 1
+    }
+  ]
+}

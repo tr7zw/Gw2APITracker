@@ -1,0 +1,44 @@
+{
+  "name": "Lingering Protean Helm",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 500,
+  "default_skin": 265,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Asura"
+  ],
+  "id": 3594,
+  "chat_link": "[\u0026AgEKDgAA]",
+  "icon": "https://render.guildwars2.com/file/C8ECB87295309A5100A6ECEF58B9CBC9E2F24A98/339728.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 32,
+    "infusion_slots": [],
+    "attribute_adjustment": 49.284,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 12
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 17
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Strong Soft Wood Staff of Air",
+  "description": "",
+  "type": "Weapon",
+  "level": 26,
+  "rarity": "Masterwork",
+  "vendor_value": 84,
+  "default_skin": 4067,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27663,
+  "chat_link": "[\u0026AgEPbAAA]",
+  "icon": "https://render.guildwars2.com/file/04BE267A42B12DB00F0162639702BDEFC90F4A5D/62880.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 277,
+    "max_power": 313,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 123.488,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 43
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 31
+        }
+      ]
+    },
+    "suffix_item_id": 24552
+  }
+}

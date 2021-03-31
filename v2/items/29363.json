@@ -1,0 +1,49 @@
+{
+  "name": "Bink Scepter",
+  "description": "\u003cc\u003d@flavor\u003e\"Seek knowledge.\"\u003cbr\u003e—Bink\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 25,
+  "rarity": "Masterwork",
+  "vendor_value": 54,
+  "default_skin": 3892,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29363,
+  "chat_link": "[\u0026AgGzcgAA]",
+  "icon": "https://render.guildwars2.com/file/2696C7FBBB99549E700204A9A11F75B0D50CEC2E/65334.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 246,
+    "max_power": 277,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 58.412,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 15
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 20
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

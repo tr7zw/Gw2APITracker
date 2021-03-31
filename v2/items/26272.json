@@ -1,0 +1,42 @@
+{
+  "name": "Strong Iron Sword",
+  "description": "",
+  "type": "Weapon",
+  "level": 36,
+  "rarity": "Fine",
+  "vendor_value": 35,
+  "default_skin": 4062,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 26272,
+  "chat_link": "[\u0026AgGgZgAA]",
+  "icon": "https://render.guildwars2.com/file/D10679012504F6AD5829D1DF9F36303FE2EB46B4/64343.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 295,
+    "max_power": 326,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 84.352,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 30
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 21
+        }
+      ]
+    }
+  }
+}

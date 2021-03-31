@@ -1,0 +1,51 @@
+{
+  "id": 3985,
+  "name": "Misplaced Loyalty",
+  "description": "They honestly thought they picked the winning side.",
+  "requirement": "Kill each of the six loyalist leaders inside the Temple of Joko.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Lady Faizah"
+    },
+    {
+      "type": "Text",
+      "text": "Lord Azeem"
+    },
+    {
+      "type": "Text",
+      "text": "Dabir, Herald of Joko"
+    },
+    {
+      "type": "Text",
+      "text": "Nura, Herald of Joko"
+    },
+    {
+      "type": "Text",
+      "text": "Master Alchemist Wakati"
+    },
+    {
+      "type": "Text",
+      "text": "Master Alchemist Jamala"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Rabid Aurora Helm of Lyssa",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 6000,
+  "default_skin": 963,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4601,
+  "chat_link": "[\u0026AgH5EQAA]",
+  "icon": "https://render.guildwars2.com/file/539B75B30C6E4F553A16CF014F3F20087C261102/61295.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 73,
+    "infusion_slots": [],
+    "attribute_adjustment": 170.72,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 43
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 43
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 60
+        }
+      ]
+    },
+    "suffix_item_id": 24776
+  }
+}

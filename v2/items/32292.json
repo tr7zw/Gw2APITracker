@@ -1,0 +1,48 @@
+{
+  "name": "Legionnaire Sidearm",
+  "type": "Weapon",
+  "level": 70,
+  "rarity": "Exotic",
+  "vendor_value": 236,
+  "default_skin": 5059,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32292,
+  "chat_link": "[\u0026AgEkfgAA]",
+  "icon": "https://render.guildwars2.com/file/44095552C10BF50B51377FDFBE561A924E73A7FD/67672.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 741,
+    "max_power": 870,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 282.48,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 71
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 71
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 99
+        }
+      ]
+    },
+    "suffix_item_id": 24600
+  }
+}

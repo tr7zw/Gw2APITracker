@@ -1,0 +1,28 @@
+{
+  "id": 5,
+  "name": "Siege Bunker",
+  "description": "Reduces the siege damage you take",
+  "icon": "https://render.guildwars2.com/file/A1B55D6AC11CA15BB6D84E040D7841E741446E7F/544539.png",
+  "ranks": [
+    {
+      "cost": 1,
+      "effect": "2% increased siege defense"
+    },
+    {
+      "cost": 3,
+      "effect": "4% (total) increased siege defense"
+    },
+    {
+      "cost": 6,
+      "effect": "6% (total) increased siege defense"
+    },
+    {
+      "cost": 10,
+      "effect": "8% (total) increased siege defense"
+    },
+    {
+      "cost": 15,
+      "effect": "10% (total) increased siege defense"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Iron Shield of Hobbling",
+  "description": "",
+  "type": "Weapon",
+  "level": 65,
+  "rarity": "Exotic",
+  "vendor_value": 220,
+  "default_skin": 4012,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26545,
+  "chat_link": "[\u0026AgGxZwAA]",
+  "icon": "https://render.guildwars2.com/file/222F72EDEC31ACB7BC439499F4DD4AA4A94A6C48/65373.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 622,
+    "max_power": 702,
+    "defense": 46,
+    "infusion_slots": [],
+    "attribute_adjustment": 254.64,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 89
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 64
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 64
+        }
+      ]
+    },
+    "suffix_item_id": 24627
+  }
+}

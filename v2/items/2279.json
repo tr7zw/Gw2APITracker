@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Reinforced Scale Pauldrons of the Lich",
+  "description": "",
+  "type": "Armor",
+  "level": 57,
+  "rarity": "Masterwork",
+  "vendor_value": 108,
+  "default_skin": 72,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 2279,
+  "chat_link": "[\u0026AgHnCAAA]",
+  "icon": "https://render.guildwars2.com/file/D964F8E215690405F4389E259BBD027FE6084632/61080.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "defense": 63,
+    "infusion_slots": [],
+    "attribute_adjustment": 64.668,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 16
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 23
+        }
+      ]
+    },
+    "suffix_item_id": 24689
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": 2319,
+  "name": "Pact Reformer",
+  "description": "",
+  "requirement": "Unlock the Warmaster\u0027s Pack, Lightbringer\u0027s Pack, and Magister\u0027s Pack skins in your wardrobe.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 6304
+    },
+    {
+      "type": "Skin",
+      "id": 6296
+    },
+    {
+      "type": "Skin",
+      "id": 6398
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 37070,
+      "count": 1
+    },
+    {
+      "type": "Title",
+      "id": 229
+    }
+  ]
+}

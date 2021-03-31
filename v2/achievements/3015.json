@@ -1,0 +1,114 @@
+{
+  "id": 3015,
+  "name": "Informed Politics",
+  "description": "",
+  "requirement": "Investigate posters in Kryta\u0027s towns and villages to stay up to date on public opinion.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: Western Commons"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: Eastern Commons"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: Rurikton"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: Ossan Quarter"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: Lyssa High Road"
+    },
+    {
+      "type": "Text",
+      "text": "Divinity\u0027s Reach: Salma District (Home)"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: Shire of Beetletun"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: Shire of Beetletun"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: Shire of Beetletun"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: Village of Shaemoor"
+    },
+    {
+      "type": "Text",
+      "text": "Queensdale: Township of Claypool"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills: Triskellion Vale"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills: Viathan\u0027s Arm"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills: Wizard\u0027s Fief"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills: Darkwound Defile"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Ascalon Settlement"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Ascalon Settlement"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Nebo Terrace"
+    },
+    {
+      "type": "Text",
+      "text": "Gendarran Fields: Cornucopian Fields"
+    },
+    {
+      "type": "Text",
+      "text": "Harathi Hinterlands: Arca Lake"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 5
+    },
+    {
+      "count": 20,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 78884,
+      "count": 1
+    }
+  ]
+}

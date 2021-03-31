@@ -1,0 +1,47 @@
+{
+  "name": "Inquest Tuning Rod",
+  "description": "\u003cc\u003d@flavor\u003eThe rod vibrates when it encounters magical resonance.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 8059,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 87154,
+  "chat_link": "[\u0026AgFyVAEA]",
+  "icon": "https://render.guildwars2.com/file/D6E10B26EDD0AE0AF79E3A965AB96E7FD119780C/1947295.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Choking",
+    "min_power": 985,
+    "max_power": 1111,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 1363,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 239
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 171
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 171
+        }
+      ]
+    }
+  }
+}

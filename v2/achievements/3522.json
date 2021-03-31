@@ -1,0 +1,57 @@
+{
+  "id": 3522,
+  "name": "Aurora: Awakening",
+  "description": "",
+  "requirement": "Collect all  items to prove your mastery over Living World Season 3.",
+  "locked_text": "Acquire a Sentient Seed by combining the four sentient creations from Season 3. Misplaced items can be obtained from Grandmaster Craftsman Hobbs in Lion\u0027s Arch.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 81781
+    },
+    {
+      "type": "Item",
+      "id": 81932
+    },
+    {
+      "type": "Item",
+      "id": 81806
+    },
+    {
+      "type": "Item",
+      "id": 81635
+    },
+    {
+      "type": "Item",
+      "id": 82029
+    },
+    {
+      "type": "Item",
+      "id": 81896
+    },
+    {
+      "type": "Item",
+      "id": 81656
+    }
+  ],
+  "tiers": [
+    {
+      "count": 7,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 82008,
+      "count": 1
+    }
+  ]
+}

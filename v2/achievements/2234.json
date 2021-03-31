@@ -1,0 +1,90 @@
+{
+  "id": 2234,
+  "name": "Zinn\u0027s Prize Student",
+  "description": "",
+  "requirement": "Collect all  books to compile Zinn\u0027s Study Guide.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 74813
+    },
+    {
+      "type": "Item",
+      "id": 77033
+    },
+    {
+      "type": "Item",
+      "id": 76413
+    },
+    {
+      "type": "Item",
+      "id": 76540
+    },
+    {
+      "type": "Item",
+      "id": 74011
+    },
+    {
+      "type": "Item",
+      "id": 76637
+    },
+    {
+      "type": "Item",
+      "id": 75806
+    },
+    {
+      "type": "Item",
+      "id": 73300
+    },
+    {
+      "type": "Item",
+      "id": 72218
+    },
+    {
+      "type": "Item",
+      "id": 75834
+    },
+    {
+      "type": "Item",
+      "id": 75788
+    },
+    {
+      "type": "Item",
+      "id": 70559
+    },
+    {
+      "type": "Item",
+      "id": 76868
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    },
+    {
+      "count": 13,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 74532,
+      "count": 1
+    }
+  ]
+}

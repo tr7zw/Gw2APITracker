@@ -1,0 +1,47 @@
+{
+  "name": "Deserter\u0027s Slate-Bound Star",
+  "type": "Weapon",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 117,
+  "default_skin": 5188,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 54231,
+  "chat_link": "[\u0026AgHX0wAA]",
+  "icon": "https://render.guildwars2.com/file/DB447716F108A4EC3BEA5C3995B569D83B6DA327/62417.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 389,
+    "max_power": 438,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 124.56,
+    "infix_upgrade": {
+      "id": 1014,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 31
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 44
+        }
+      ]
+    }
+  }
+}

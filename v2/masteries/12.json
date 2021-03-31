@@ -1,0 +1,42 @@
+{
+  "id": 12,
+  "name": "Raids",
+  "requirement": "Enter the Forsaken Thicket in Verdant Brink and defeat a boss to unlock.",
+  "order": 4,
+  "background": "https://render.guildwars2.com/file/64A43D09C00EBC0EF307A7C004EF05A8459F0907/1451827.png",
+  "region": "Maguuma",
+  "levels": [
+    {
+      "name": "Rift Forger",
+      "description": "Learn precise control of the magic released into rifts by powerful enemies, allowing you to repair your armor by manipulating ley energy.",
+      "instruction": "Repair your armor using ley rifts in places where you\u0027ve defeated a powerful enemy.",
+      "icon": "https://render.guildwars2.com/file/FB2D7C981E2E09725139220DCC90E308170AB7FE/1302710.png",
+      "point_cost": 1,
+      "exp_cost": 508000
+    },
+    {
+      "name": "Explosive Launch",
+      "description": "The dwarves may have invented black powder, but you can perfect its use. Learn to safely launch to great heights with an explosive blast, without singeing your socks.",
+      "instruction": "You now take no damage when you or an ally launches you off of an explosive launch platform.",
+      "icon": "https://render.guildwars2.com/file/2D4C0BF20D2A1C0B041DC3D5357C0D67225E7479/1302709.png",
+      "point_cost": 1,
+      "exp_cost": 1016000
+    },
+    {
+      "name": "Forsaken Thicket Waters",
+      "description": "The waters in Forsaken Thicket are known to have cleansing properties that can cure various afflictions. Those who possess this Mastery can wash away their ailments and afflictions when the opportunity presents itself.",
+      "instruction": "You can now bathe in the healing Forsaken Thicket waters and cleanse your afflictions.",
+      "icon": "https://render.guildwars2.com/file/6120204BB9070AD428112705E3C9145EB33203BD/1377784.png",
+      "point_cost": 3,
+      "exp_cost": 1524000
+    },
+    {
+      "name": "Forsaken Magic",
+      "description": "Learn to harness the powerful energy permeating the Forsaken Thicket and gain advantages in battle.",
+      "instruction": "You now understand the magic of the Forsaken Thicket.",
+      "icon": "https://render.guildwars2.com/file/61D637CA3D6F5D355CDC3FAD3CB1DB0DDE34DE67/1451810.png",
+      "point_cost": 3,
+      "exp_cost": 3048000
+    }
+  ]
+}

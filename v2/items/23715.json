@@ -1,0 +1,46 @@
+{
+  "name": "Abaddon Talisman",
+  "description": "",
+  "type": "Trinket",
+  "level": 75,
+  "rarity": "Masterwork",
+  "vendor_value": 155,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23715,
+  "chat_link": "[\u0026AgGjXAAA]",
+  "icon": "https://render.guildwars2.com/file/FDA1D90665A4CABB117E5D59182D0B5D0FA46802/455953.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 158.908,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 40
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 40
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 56
+        }
+      ]
+    }
+  }
+}

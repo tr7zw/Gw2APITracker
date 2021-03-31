@@ -1,0 +1,44 @@
+{
+  "name": "Giver\u0027s Iron Rifle",
+  "description": "",
+  "type": "Weapon",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 135,
+  "default_skin": 4092,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 38377,
+  "chat_link": "[\u0026AgHplQAA]",
+  "icon": "https://render.guildwars2.com/file/167018D742BBF5120BE4ACE80DE5B049089D20F2/62700.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 469,
+    "max_power": 573,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 288.456,
+    "infix_upgrade": {
+      "id": 1030,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 72
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 101
+        }
+      ]
+    }
+  }
+}

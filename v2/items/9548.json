@@ -1,0 +1,28 @@
+{
+  "name": "Recipe: Deldrimor Ring Replica",
+  "description": "Unlock yourself a recipe.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 22,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9548,
+  "chat_link": "[\u0026AgFMJQAA]",
+  "icon": "https://render.guildwars2.com/file/6DBD674A38B6EF75D0C0DD41CC6A69CAD6A0D079/849373.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 3469
+  }
+}

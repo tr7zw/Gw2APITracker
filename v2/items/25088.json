@@ -1,0 +1,41 @@
+{
+  "name": "Mending Zweihänder",
+  "type": "Weapon",
+  "level": 41,
+  "rarity": "Fine",
+  "vendor_value": 57,
+  "default_skin": 5193,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 25088,
+  "chat_link": "[\u0026AgEAYgAA]",
+  "icon": "https://render.guildwars2.com/file/FB620EAB7AF45A0E3CC6DEFE7807030B1CE80D0F/68181.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 362,
+    "max_power": 400,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 201.728,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 50
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 71
+        }
+      ]
+    }
+  }
+}

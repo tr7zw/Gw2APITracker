@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Aureate Charm of Battle",
+  "type": "Weapon",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 111,
+  "default_skin": 5007,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33995,
+  "chat_link": "[\u0026AgHLhAAA]",
+  "icon": "https://render.guildwars2.com/file/DB44A7081F1E387217B3F2B85280EDB72F099E6B/63485.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 340,
+    "max_power": 361,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 113.472,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 40
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 28
+        }
+      ]
+    },
+    "suffix_item_id": 24602
+  }
+}

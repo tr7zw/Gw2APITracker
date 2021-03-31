@@ -1,0 +1,78 @@
+{
+  "id": 4811,
+  "name": "Mini Skyscale Hatchling Collection",
+  "description": "",
+  "requirement": "Unlock all skyscale hatchling minis in your wardrobe.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Minipet",
+      "id": 773
+    },
+    {
+      "type": "Minipet",
+      "id": 772
+    },
+    {
+      "type": "Minipet",
+      "id": 769
+    },
+    {
+      "type": "Minipet",
+      "id": 766
+    },
+    {
+      "type": "Minipet",
+      "id": 776
+    },
+    {
+      "type": "Minipet",
+      "id": 775
+    },
+    {
+      "type": "Minipet",
+      "id": 770
+    },
+    {
+      "type": "Minipet",
+      "id": 767
+    },
+    {
+      "type": "Minipet",
+      "id": 768
+    },
+    {
+      "type": "Minipet",
+      "id": 774
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 3
+    },
+    {
+      "count": 10,
+      "points": 6
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 91370,
+      "count": 1
+    }
+  ]
+}

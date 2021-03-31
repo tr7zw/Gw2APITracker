@@ -1,0 +1,48 @@
+{
+  "name": "Inquisitor\u0027s Shoes",
+  "description": "",
+  "type": "Armor",
+  "level": 71,
+  "rarity": "Fine",
+  "vendor_value": 59,
+  "default_skin": 156,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6399,
+  "chat_link": "[\u0026AgH/GAAA]",
+  "icon": "https://render.guildwars2.com/file/743BB95DCA0904DDBB35656AC0669A7FE9F204DF/61108.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 85,
+    "infusion_slots": [],
+    "attribute_adjustment": 81.408,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 20
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 28
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 20
+        }
+      ]
+    }
+  }
+}

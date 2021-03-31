@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Savant Leggings",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 31250,
+  "default_skin": 300,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Asura"
+  ],
+  "id": 3531,
+  "chat_link": "[\u0026AgHLDQAA]",
+  "icon": "https://render.guildwars2.com/file/7F2E7544E0582165E2F0A503AE95B918CEF6E0CD/414921.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Light",
+    "defense": 171,
+    "infusion_slots": [],
+    "attribute_adjustment": 226.368,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 57
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 57
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 79
+        }
+      ]
+    }
+  }
+}

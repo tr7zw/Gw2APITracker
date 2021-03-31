@@ -1,0 +1,54 @@
+{
+  "name": "Diviner\u0027s Refitted Aureate Staff",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 198,
+  "default_skin": 9882,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94647,
+  "chat_link": "[\u0026AgG3cQEA]",
+  "icon": "https://render.guildwars2.com/file/56213E230F39DA6406BEB62AB89A1540265A66BC/2393777.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 811,
+    "max_power": 914,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 559.912,
+    "infix_upgrade": {
+      "id": 1556,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 168
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 92
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 92
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 168
+        }
+      ]
+    }
+  }
+}

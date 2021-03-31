@@ -1,0 +1,40 @@
+{
+  "name": "Shiverpeak Spear",
+  "type": "Weapon",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 72,
+  "default_skin": 5136,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25178,
+  "chat_link": "[\u0026AgFaYgAA]",
+  "icon": "https://render.guildwars2.com/file/0F9E7EE31AC507E672A5CC340AA74ADEB05EB7C6/534281.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 224,
+    "max_power": 248,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 93.976,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 33
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

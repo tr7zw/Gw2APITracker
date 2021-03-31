@@ -1,0 +1,43 @@
+{
+  "name": "Rejuvenating Privateer Boots",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 102,
+  "default_skin": 75,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 17134,
+  "chat_link": "[\u0026AgHuQgAA]",
+  "icon": "https://render.guildwars2.com/file/AE01341F9C5DC77201C50D2E220D52AC96FCEDFF/61041.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 51,
+    "infusion_slots": [],
+    "attribute_adjustment": 36.963,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 9
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 13
+        }
+      ]
+    }
+  }
+}

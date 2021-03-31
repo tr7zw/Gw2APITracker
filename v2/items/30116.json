@@ -1,0 +1,49 @@
+{
+  "name": "Gear Assisted Longbow",
+  "description": "\u003cc\u003d@flavor\u003e\"High velocity, long range torment coming up.\"\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 37,
+  "rarity": "Masterwork",
+  "vendor_value": 105,
+  "default_skin": 5209,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30116,
+  "chat_link": "[\u0026AgGkdQAA]",
+  "icon": "https://render.guildwars2.com/file/4A2CA99C5A19F33695FF36EF3FC9C3F10E0CDA03/68153.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 333,
+    "max_power": 391,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 193.256,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 48
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 68
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

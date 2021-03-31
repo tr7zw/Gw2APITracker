@@ -1,0 +1,50 @@
+{
+  "name": "Illusion",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 4833,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 31054,
+  "chat_link": "[\u0026AgFOeQAA]",
+  "icon": "https://render.guildwars2.com/file/9CA23CE0A4F76EBED31E5646223AEE6E9DE544EE/534325.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 905,
+    "max_power": 1000,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 171
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 239
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 171
+        }
+      ]
+    },
+    "suffix_item_id": 24621
+  }
+}

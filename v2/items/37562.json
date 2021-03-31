@@ -1,0 +1,46 @@
+{
+  "name": "Rabid Armageddon Helm",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 330,
+  "default_skin": 962,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 37562,
+  "chat_link": "[\u0026AgG6kgAA]",
+  "icon": "https://render.guildwars2.com/file/2074A77B51AE6BEA44944ED7D6A099EFFC0EB702/218957.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 121,
+    "infusion_slots": [],
+    "attribute_adjustment": 170.72,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 43
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 43
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 60
+        }
+      ]
+    }
+  }
+}

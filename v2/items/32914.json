@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Flame Rifle of Ogre Slaying",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Rare",
+  "vendor_value": 189,
+  "default_skin": 5173,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32914,
+  "chat_link": "[\u0026AgGSgAAA]",
+  "icon": "https://render.guildwars2.com/file/4C6B7C3BCAA49D11F8D0D6A5B1025B2ADB7F3800/67264.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 465,
+    "max_power": 569,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 280.512,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 70
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 98
+        }
+      ]
+    },
+    "suffix_item_id": 24656
+  }
+}

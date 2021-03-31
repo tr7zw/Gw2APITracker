@@ -1,0 +1,26 @@
+{
+  "id": 1856,
+  "icon": "https://render.guildwars2.com/file/FE01AF14D91F52A1EF2B22FE0A552B9EE2E4C3F6/511340.png",
+  "name": "Daily PvP Reward Earner",
+  "description": "",
+  "requirement": "Earn  reward from a PvP Reward Track.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Daily"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 68117,
+      "count": 1
+    }
+  ]
+}

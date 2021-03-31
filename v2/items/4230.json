@@ -1,0 +1,40 @@
+{
+  "name": "Devout Shoes",
+  "description": "",
+  "type": "Armor",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 48,
+  "default_skin": 874,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4230,
+  "chat_link": "[\u0026AgGGEAAA]",
+  "icon": "https://render.guildwars2.com/file/BE0AB22E500933489AFCBF2CBBF80641BF0B2916/61244.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 25,
+    "infusion_slots": [],
+    "attribute_adjustment": 17.6205,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

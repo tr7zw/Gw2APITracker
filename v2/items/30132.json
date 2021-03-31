@@ -1,0 +1,52 @@
+{
+  "name": "Iron Legion Command Shield",
+  "description": "\u003cc\u003d@flavor\u003e\"Blast, Build, Battle.\"\u003cbr\u003e—Iron Legion Motto\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Fine",
+  "vendor_value": 52,
+  "default_skin": 5102,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30132,
+  "chat_link": "[\u0026AgG0dQAA]",
+  "icon": "https://render.guildwars2.com/file/FADA685852160FA4D0EBEDC346663CE4439B45AB/67285.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 430,
+    "max_power": 485,
+    "defense": 31,
+    "infusion_slots": [],
+    "attribute_adjustment": 170.432,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 43
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 43
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 60
+        }
+      ]
+    }
+  }
+}

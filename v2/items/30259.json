@@ -1,0 +1,52 @@
+{
+  "name": "Jofast\u0027s Hammer",
+  "description": "\u003cc\u003d@flavor\u003e\"At some point, everything becomes a nail.\"\u003cbr\u003e—Warmaster Jofast\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Fine",
+  "vendor_value": 99,
+  "default_skin": 5222,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30259,
+  "chat_link": "[\u0026AgEzdgAA]",
+  "icon": "https://render.guildwars2.com/file/C5B365D6105F76470106A61F4AB96F3E39D10E18/60991.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 751,
+    "max_power": 847,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 517.248,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 129
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 129
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 181
+        }
+      ]
+    }
+  }
+}

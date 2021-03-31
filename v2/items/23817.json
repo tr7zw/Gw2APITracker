@@ -1,0 +1,43 @@
+{
+  "name": "Rusty Ancient Krytan Dabloon",
+  "description": "\u003cc\u003d@flavor\u003e\"One day I was giving a pirate a lively thrashing. As he turned tail to run, I swung my sword a final time and slit his coin-purse straight down the middle.\"\u003cbr\u003e—Lionguard Mei\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 32,
+  "rarity": "Fine",
+  "vendor_value": 40,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23817,
+  "chat_link": "[\u0026AgEJXQAA]",
+  "icon": "https://render.guildwars2.com/file/AB0317DF5B0E1BA47436A5420248660765154C08/62864.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 45.44,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 11
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 16
+        }
+      ]
+    }
+  }
+}

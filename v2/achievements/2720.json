@@ -1,0 +1,26 @@
+{
+  "id": 2720,
+  "name": "League Veteran",
+  "description": "Completing this achievement awards an item for Path of the Ascension II: Tapestry of Sacrifice.",
+  "requirement": "Complete 2 league tracks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    2690
+  ]
+}

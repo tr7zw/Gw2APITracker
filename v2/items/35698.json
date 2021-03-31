@@ -1,0 +1,52 @@
+{
+  "name": "Carrion Verdant Shield",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 5000,
+  "default_skin": 5110,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 35698,
+  "chat_link": "[\u0026AgFyiwAA]",
+  "icon": "https://render.guildwars2.com/file/022913A4986756B14F6743A0447D51D2AF599620/434878.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 502,
+    "max_power": 566,
+    "defense": 36,
+    "infusion_slots": [],
+    "attribute_adjustment": 200.88,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 50
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 50
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 70
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

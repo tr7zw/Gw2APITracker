@@ -1,0 +1,38 @@
+{
+  "name": "Mighty Worn Chain Legs",
+  "description": "",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 7,
+  "default_skin": 14,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NotUpgradeable"
+  ],
+  "restrictions": [],
+  "id": 1854,
+  "chat_link": "[\u0026AgE+BwAA]",
+  "icon": "https://render.guildwars2.com/file/7BC73DF50048E4AC0C01ED0EEBDB403B637AD23B/61067.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Heavy",
+    "defense": 19,
+    "infusion_slots": [],
+    "attribute_adjustment": 8.658,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 3
+        }
+      ]
+    }
+  }
+}

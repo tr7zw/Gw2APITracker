@@ -1,0 +1,102 @@
+{
+  "id": 4403,
+  "name": "Exhibit Aye",
+  "description": "There\u0027s enough history in Jahai to fill several museums.",
+  "requirement": "Find  artifacts for Roenn around Jahai Bluffs.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 88598
+    },
+    {
+      "type": "Item",
+      "id": 88667
+    },
+    {
+      "type": "Item",
+      "id": 88535
+    },
+    {
+      "type": "Item",
+      "id": 88538
+    },
+    {
+      "type": "Item",
+      "id": 88827
+    },
+    {
+      "type": "Item",
+      "id": 88743
+    },
+    {
+      "type": "Item",
+      "id": 88864
+    },
+    {
+      "type": "Item",
+      "id": 88661
+    },
+    {
+      "type": "Item",
+      "id": 88867
+    },
+    {
+      "type": "Item",
+      "id": 88971
+    },
+    {
+      "type": "Item",
+      "id": 88621
+    },
+    {
+      "type": "Item",
+      "id": 88557
+    },
+    {
+      "type": "Item",
+      "id": 88494
+    },
+    {
+      "type": "Item",
+      "id": 88668
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 8,
+      "points": 1
+    },
+    {
+      "count": 14,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 88955,
+      "count": 5
+    },
+    {
+      "type": "Title",
+      "id": 317
+    }
+  ]
+}

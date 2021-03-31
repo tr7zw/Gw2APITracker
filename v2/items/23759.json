@@ -1,0 +1,39 @@
+{
+  "name": "Sweet Ring",
+  "description": "\u003cc\u003d@flavor\u003e\"This ring is made of rock candy.\"\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 15,
+  "rarity": "Fine",
+  "vendor_value": 30,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23759,
+  "chat_link": "[\u0026AgHPXAAA]",
+  "icon": "https://render.guildwars2.com/file/DB7DE5A24393E53EC84DED20B1C26F57677C3691/455959.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [],
+    "attribute_adjustment": 23.808,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

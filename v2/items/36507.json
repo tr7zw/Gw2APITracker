@@ -1,0 +1,28 @@
+{
+  "name": "Custom Arena Time Token",
+  "description": "Used to add one day of time to a Custom Arena. Used from your Custom Arena management panel or double-click while playing in any Custom Arena to add time to that arena.",
+  "type": "Trophy",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "NotUpgradeable",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 36507,
+  "chat_link": "[\u0026AgGbjgAA]",
+  "icon": "https://render.guildwars2.com/file/62566FF228E11BD4FE3856A5187E36AE4E58B390/575065.png"
+}

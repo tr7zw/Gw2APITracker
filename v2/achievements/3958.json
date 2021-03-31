@@ -1,0 +1,74 @@
+{
+  "id": 3958,
+  "name": "Corsair Keepsakes",
+  "description": "Because even a corsair has a soft spot for trinkets.",
+  "requirement": "Find all of the corsair keepsakes around the flotilla.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Alehound\u0027s Brewer\u0027s Manual"
+    },
+    {
+      "type": "Text",
+      "text": "Asef\u0027s Brandy"
+    },
+    {
+      "type": "Text",
+      "text": "Barud\u0027s Spare Gun"
+    },
+    {
+      "type": "Text",
+      "text": "Communal Lucky Fistwraps"
+    },
+    {
+      "type": "Text",
+      "text": "Halim\u0027s Wooden Parrot"
+    },
+    {
+      "type": "Text",
+      "text": "Kiango\u0027s Spyglass"
+    },
+    {
+      "type": "Text",
+      "text": "Mehdi\u0027s Prized Hops"
+    },
+    {
+      "type": "Text",
+      "text": "Cannonball Stash"
+    },
+    {
+      "type": "Text",
+      "text": "Randa\u0027s Childhood Toy"
+    },
+    {
+      "type": "Text",
+      "text": "Sayida\u0027s Sharpened Blade"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 2
+    },
+    {
+      "count": 10,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 85742,
+      "count": 1
+    }
+  ]
+}

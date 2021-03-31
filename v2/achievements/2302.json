@@ -1,0 +1,66 @@
+{
+  "id": 2302,
+  "name": "Mistward Warboots",
+  "description": "",
+  "requirement": "Collect all  items and skins to forge your Mistward Warboots.",
+  "locked_text": "Complete the Corruption revenant specialization to unlock the Mistward Warboots collection.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 227
+    },
+    {
+      "type": "Skin",
+      "id": 232
+    },
+    {
+      "type": "Skin",
+      "id": 229
+    },
+    {
+      "type": "Skin",
+      "id": 140
+    },
+    {
+      "type": "Item",
+      "id": 71060
+    },
+    {
+      "type": "Item",
+      "id": 75404
+    },
+    {
+      "type": "Item",
+      "id": 74263
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 70964,
+      "count": 1
+    }
+  ]
+}

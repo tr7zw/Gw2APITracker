@@ -1,0 +1,37 @@
+{
+  "name": "Malign Steam Dagger",
+  "type": "Weapon",
+  "level": 11,
+  "rarity": "Fine",
+  "vendor_value": 16,
+  "default_skin": 5225,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 32341,
+  "chat_link": "[\u0026AgFVfgAA]",
+  "icon": "https://render.guildwars2.com/file/07C80D35A4D00331B203B60D04F390BC09680523/66756.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 173,
+    "max_power": 183,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 24.704,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

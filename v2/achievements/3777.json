@@ -1,0 +1,54 @@
+{
+  "id": 3777,
+  "name": "Primeval Historian",
+  "description": "Story Instance: \"Hallowed Ground\"",
+  "requirement": "Speak with each ruler about the history of the Primeval dynasty.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Speak with Queen Nadijeh."
+    },
+    {
+      "type": "Text",
+      "text": "Speak with King Wasi."
+    },
+    {
+      "type": "Text",
+      "text": "Speak with Queen Nahlah."
+    },
+    {
+      "type": "Text",
+      "text": "Speak with Queen Dahlah."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 82953,
+      "count": 1
+    }
+  ]
+}

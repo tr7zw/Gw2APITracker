@@ -1,0 +1,37 @@
+{
+  "name": "Cracked Club",
+  "description": "",
+  "type": "Weapon",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 1,
+  "default_skin": 3861,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoMysticForge",
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 33349,
+  "chat_link": "[\u0026AgFFggAA]",
+  "icon": "https://render.guildwars2.com/file/6E350F079207B60BFBD5A54A9F14E667677E0016/66184.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 104,
+    "max_power": 118,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 7.8,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    }
+  }
+}

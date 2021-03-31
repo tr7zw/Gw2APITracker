@@ -1,0 +1,27 @@
+{
+  "id": 1786,
+  "name": "Strength Without Sacrifice",
+  "description": "Story Instance: Hidden Arcana",
+  "requirement": "Defeat the facet of strength without being stunned or grabbed.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    }
+  ],
+  "prerequisites": [
+    1783
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 70000,
+      "count": 1
+    }
+  ]
+}

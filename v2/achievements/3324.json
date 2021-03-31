@@ -1,0 +1,29 @@
+{
+  "id": 3324,
+  "name": "Skyhammer Technician",
+  "description": "Did I hit anything?",
+  "requirement": "Earn glory in Skyhammer by completing these achievements.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 263
+    },
+    {
+      "type": "Coins",
+      "count": 50000
+    }
+  ]
+}

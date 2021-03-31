@@ -1,0 +1,57 @@
+{
+  "name": "DeLana\u0027s Coinpurse",
+  "description": "\u003cc\u003d@flavor\u003e\"Fools! You\u0027ve let her slip her bonds!\"—Separatist Captain DeLana\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 413,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 67298,
+  "chat_link": "[\u0026AgHiBgEA]",
+  "icon": "https://render.guildwars2.com/file/0E011CD3AA34BB0C327D290830C7F10F0946307B/866837.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 224.07,
+    "infix_upgrade": {
+      "id": 1040,
+      "buff": {
+        "skill_id": 25444,
+        "description": "+32 Precision\n+18 Ferocity\n+18 Power"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 74
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 110
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 74
+        }
+      ]
+    }
+  }
+}

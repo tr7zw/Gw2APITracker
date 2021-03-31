@@ -1,0 +1,51 @@
+{
+  "name": "Sarayi Gauntlets",
+  "description": "\u003cc\u003d@flavor\u003e\"Don\u0027t just go around touching things. I learned that the unpleasant way.\"\u003cbr\u003e—Recruit Tochacatl\u003c/c\u003e",
+  "type": "Armor",
+  "level": 73,
+  "rarity": "Masterwork",
+  "vendor_value": 110,
+  "default_skin": 929,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4445,
+  "chat_link": "[\u0026AgFdEQAA]",
+  "icon": "https://render.guildwars2.com/file/0B32EF80050D29BDA30B0ABD04010B9CF5CC2403/61270.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 131,
+    "infusion_slots": [],
+    "attribute_adjustment": 91.8,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 23
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 23
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 32
+        }
+      ]
+    },
+    "suffix_item_id": 24685
+  }
+}

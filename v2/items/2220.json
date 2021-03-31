@@ -1,0 +1,44 @@
+{
+  "name": "Shaman\u0027s Cabalist Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Fine",
+  "vendor_value": 60,
+  "default_skin": 82,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 2220,
+  "chat_link": "[\u0026AgGsCAAA]",
+  "icon": "https://render.guildwars2.com/file/260B7D54F135DE4B1A05E4F105EF51FDD1F09446/61079.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 101,
+    "infusion_slots": [],
+    "attribute_adjustment": 96.984,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 34
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 24
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 24
+        }
+      ]
+    }
+  }
+}

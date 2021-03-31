@@ -1,0 +1,32 @@
+{
+  "id": 4715,
+  "name": "Cutting Weeds",
+  "description": "",
+  "requirement": "Complete 10 events for the Mist Wardens in Melandru\u0027s Lost Domain.\nRequired to gain access to the Mist Warden quartermaster.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 90884,
+      "count": 1
+    }
+  ]
+}

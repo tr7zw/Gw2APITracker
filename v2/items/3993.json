@@ -1,0 +1,50 @@
+{
+  "name": "Caer Pauldrons",
+  "description": "",
+  "type": "Armor",
+  "level": 56,
+  "rarity": "Masterwork",
+  "vendor_value": 108,
+  "default_skin": 884,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 3993,
+  "chat_link": "[\u0026AgGZDwAA]",
+  "icon": "https://render.guildwars2.com/file/AF5294595CE2FC00C835BEC0B4F739CE35E0D6B0/61561.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "defense": 61,
+    "infusion_slots": [],
+    "attribute_adjustment": 63.036,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 16
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 16
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 22
+        }
+      ]
+    }
+  }
+}

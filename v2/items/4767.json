@@ -1,0 +1,47 @@
+{
+  "name": "Leather Crab Grabbin\u0027 Gloves",
+  "description": "\u003cc\u003d@flavor\u003e\"Crab grabbin\u0027 can be dangerous. Protect those mitts!\"\u003cbr\u003e—Bram Dawnrazer\u003c/c\u003e",
+  "type": "Armor",
+  "level": 46,
+  "rarity": "Masterwork",
+  "vendor_value": 76,
+  "default_skin": 908,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4767,
+  "chat_link": "[\u0026AgGfEgAA]",
+  "icon": "https://render.guildwars2.com/file/CC4C6AF2CD591F48C0655460F657EE52CA4A6CBA/61040.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 62,
+    "infusion_slots": [],
+    "attribute_adjustment": 48.2205,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 12
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 17
+        }
+      ]
+    },
+    "suffix_item_id": 24730
+  }
+}

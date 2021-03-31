@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Magician Gloves of the Pack",
+  "description": "",
+  "type": "Armor",
+  "level": 33,
+  "rarity": "Masterwork",
+  "vendor_value": 60,
+  "default_skin": 73,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 2252,
+  "chat_link": "[\u0026AgHMCAAA]",
+  "icon": "https://render.guildwars2.com/file/74ED02B1E2590EA9311EA7CBCBD7C1B54C5D1314/61075.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 38,
+    "infusion_slots": [],
+    "attribute_adjustment": 31.2885,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 8
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 11
+        }
+      ]
+    },
+    "suffix_item_id": 24700
+  }
+}

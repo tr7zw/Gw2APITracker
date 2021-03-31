@@ -1,0 +1,47 @@
+{
+  "name": "Warhound Boots",
+  "description": "\u003cc\u003d@flavor\u003e\"Never know what you\u0027ll step in around here.\"\u003cbr\u003e— Kennelnaster Warsnout\u003c/c\u003e",
+  "type": "Armor",
+  "level": 51,
+  "rarity": "Masterwork",
+  "vendor_value": 90,
+  "default_skin": 938,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4270,
+  "chat_link": "[\u0026AgGuEAAA]",
+  "icon": "https://render.guildwars2.com/file/6706BBE37452EDEC7AE29BBE07EF0543A3F46753/61446.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 71,
+    "infusion_slots": [],
+    "attribute_adjustment": 55.539,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 14
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 19
+        }
+      ]
+    },
+    "suffix_item_id": 24739
+  }
+}

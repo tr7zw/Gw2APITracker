@@ -1,0 +1,50 @@
+{
+  "name": "Cragstone",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 4855,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 31059,
+  "chat_link": "[\u0026AgFTeQAA]",
+  "icon": "https://render.guildwars2.com/file/27AC12BCC446CC49B50F386C9628916763FB7660/780639.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 806,
+    "max_power": 909,
+    "defense": 61,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 85
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 85
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 120
+        }
+      ]
+    },
+    "suffix_item_id": 24636
+  }
+}

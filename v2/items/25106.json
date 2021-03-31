@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Zweihänder of the Geomancer",
+  "type": "Weapon",
+  "level": 68,
+  "rarity": "Masterwork",
+  "vendor_value": 171,
+  "default_skin": 5193,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25106,
+  "chat_link": "[\u0026AgESYgAA]",
+  "icon": "https://render.guildwars2.com/file/FB620EAB7AF45A0E3CC6DEFE7807030B1CE80D0F/68181.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 666,
+    "max_power": 736,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 442.408,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 155
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 111
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 111
+        }
+      ]
+    },
+    "suffix_item_id": 24603
+  }
+}

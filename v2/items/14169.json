@@ -1,0 +1,38 @@
+{
+  "name": "Resilient Green Wood Short Bow",
+  "description": "",
+  "type": "Weapon",
+  "level": 15,
+  "rarity": "Fine",
+  "vendor_value": 30,
+  "default_skin": 3900,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 14169,
+  "chat_link": "[\u0026AgFZNwAA]",
+  "icon": "https://render.guildwars2.com/file/0EFDC626FD430DA00CD9240C95EC6DF0500DB45E/67068.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 184,
+    "max_power": 204,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 63.488,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 22
+        }
+      ]
+    }
+  }
+}

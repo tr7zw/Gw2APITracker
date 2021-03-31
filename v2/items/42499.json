@@ -1,0 +1,52 @@
+{
+  "name": "Settler\u0027s Iron Sword",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Fine",
+  "vendor_value": 66,
+  "default_skin": 4062,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 42499,
+  "chat_link": "[\u0026AgEDpgAA]",
+  "icon": "https://render.guildwars2.com/file/D10679012504F6AD5829D1DF9F36303FE2EB46B4/64343.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 690,
+    "max_power": 762,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 258.624,
+    "infix_upgrade": {
+      "id": 693,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 91
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 65
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 65
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": 3365,
+  "name": "Holding Back the Tide",
+  "description": "",
+  "requirement": "Defend key areas of Doric\u0027s Landing from White Mantle attackers.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Saidra\u0027s Haven"
+    },
+    {
+      "type": "Text",
+      "text": "New Loamhurst"
+    },
+    {
+      "type": "Text",
+      "text": "Harvest Cascades"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 195
+    }
+  ]
+}

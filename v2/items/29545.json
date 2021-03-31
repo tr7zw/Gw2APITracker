@@ -1,0 +1,53 @@
+{
+  "name": "Valoric Longbow",
+  "description": "\u003cc\u003d@flavor\u003e\"The first arrow I shot was from a bow such as this. Nevermind about that. That was a long time ago.\"\u003cbr\u003e—Pact Crusader D\u0027Stolt",
+  "type": "Weapon",
+  "level": 72,
+  "rarity": "Masterwork",
+  "vendor_value": 180,
+  "default_skin": 3942,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29545,
+  "chat_link": "[\u0026AgFpcwAA]",
+  "icon": "https://render.guildwars2.com/file/C6110F52DF5AFE0F00A56F9E143E9732176DDDE9/65015.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 661,
+    "max_power": 776,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 480.216,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 120
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 120
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 168
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

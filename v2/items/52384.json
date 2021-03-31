@@ -1,0 +1,43 @@
+{
+  "name": "Resilient Handspar",
+  "type": "Weapon",
+  "level": 3,
+  "rarity": "Fine",
+  "vendor_value": 11,
+  "default_skin": 3865,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 52384,
+  "chat_link": "[\u0026AgGgzAAA]",
+  "icon": "https://render.guildwars2.com/file/F0386CA4B7B424B01B54D7724D12A3DF09203E6D/66151.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 142,
+    "max_power": 174,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 16.512,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Truyere Mace",
+  "description": "\u003cc\u003d@flavor\u003e\"Nothing beats a trusty mace.\"\u003cbr\u003e—Legionnaire Kress Rustmaw\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Fine",
+  "vendor_value": 52,
+  "default_skin": 5199,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30134,
+  "chat_link": "[\u0026AgG2dQAA]",
+  "icon": "https://render.guildwars2.com/file/CFD4DFE0779C3B361DBF7BEDD59C7F5480A1C914/68155.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 478,
+    "max_power": 539,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 170.432,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 43
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 43
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 60
+        }
+      ]
+    }
+  }
+}

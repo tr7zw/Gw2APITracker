@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Steam Shield of Debility",
+  "type": "Weapon",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 90,
+  "default_skin": 5102,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32780,
+  "chat_link": "[\u0026AgEMgAAA]",
+  "icon": "https://render.guildwars2.com/file/FADA685852160FA4D0EBEDC346663CE4439B45AB/67285.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 383,
+    "max_power": 432,
+    "defense": 27,
+    "infusion_slots": [],
+    "attribute_adjustment": 144.228,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 36
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 50
+        }
+      ]
+    },
+    "suffix_item_id": 24634
+  }
+}

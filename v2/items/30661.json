@@ -1,0 +1,52 @@
+{
+  "name": "Judgment Trident",
+  "description": "\u003cc\u003d@flavor\u003e\"Great for environmentally friendly sabotage.\"\u003cbr\u003e—Environmental Activist Jenrys\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 69,
+  "rarity": "Fine",
+  "vendor_value": 87,
+  "default_skin": 3899,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30661,
+  "chat_link": "[\u0026AgHFdwAA]",
+  "icon": "https://render.guildwars2.com/file/195C62FCE31ECE47100E4020CE6C909AB69FEA9C/562000.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 570,
+    "max_power": 630,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 416.384,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 146
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 104
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 104
+        }
+      ]
+    }
+  }
+}

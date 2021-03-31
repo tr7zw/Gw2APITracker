@@ -1,0 +1,27 @@
+{
+  "id": 1675,
+  "tier": 3,
+  "order": 2,
+  "name": "Blinding Ashes",
+  "description": "Inflict blindness on foes you burn.\u003cbr\u003e\u003cc\u003d@reminder\u003eThis trait can only affect the same enemy once per interval.\u003c/c\u003e",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+      "duration": 4,
+      "status": "Blinded",
+      "description": "Next outgoing attack misses; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Interval",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+      "duration": 8
+    }
+  ],
+  "specialization": 31,
+  "icon": "https://render.guildwars2.com/file/150B4E2CB4039B33152D496FF04E9B1644E22E0A/1012314.png"
+}

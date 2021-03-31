@@ -1,0 +1,73 @@
+{
+  "name": "Attuned Lonai\u0027s Signet Ring",
+  "description": "This item crackles with the infused energy of the Fractals of the Mists and is attuned to have a bonus agony infusion slot.",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 495,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse",
+    "Attuned"
+  ],
+  "restrictions": [],
+  "id": 87896,
+  "chat_link": "[\u0026AgFYVwEA]",
+  "icon": "https://render.guildwars2.com/file/EE3279E44A4039B7205290A528A2C4DF97FC55CA/1998745.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      },
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 268.884,
+    "infix_upgrade": {
+      "id": 1486,
+      "buff": {
+        "skill_id": 50864
+      },
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 106
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 56
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 106
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 56
+        }
+      ]
+    }
+  },
+  "upgrades_from": [
+    {
+      "upgrade": "Attunement",
+      "item_id": 88026
+    }
+  ]
+}

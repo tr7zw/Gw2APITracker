@@ -1,0 +1,53 @@
+{
+  "name": "Trinity Rifle",
+  "description": "\u003cc\u003d@flavor\u003e\"A weapon for fusing everything together into a single desperate shot into the dark night.\"\u003cbr\u003e—Agent Crandle\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 71,
+  "rarity": "Masterwork",
+  "vendor_value": 177,
+  "default_skin": 5033,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30235,
+  "chat_link": "[\u0026AgEbdgAA]",
+  "icon": "https://render.guildwars2.com/file/50113CEAABC198949852AE1979C1B9F6E000AA4B/63882.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 696,
+    "max_power": 851,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 470.696,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 118
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 118
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 165
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

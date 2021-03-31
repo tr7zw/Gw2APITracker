@@ -1,0 +1,48 @@
+{
+  "name": "Berserker\u0027s Ogre Trident",
+  "description": "",
+  "type": "Weapon",
+  "level": 65,
+  "rarity": "Rare",
+  "vendor_value": 248,
+  "default_skin": 4001,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 14090,
+  "chat_link": "[\u0026AgEKNwAA]",
+  "icon": "https://render.guildwars2.com/file/7C08EF72FE7522476AEB000532CE0308FCE5D3E0/68720.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 617,
+    "max_power": 682,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 448.272,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 157
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 112
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 112
+        }
+      ]
+    }
+  }
+}

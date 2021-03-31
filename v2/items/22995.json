@@ -1,0 +1,28 @@
+{
+  "name": "Iron Mining Pick",
+  "description": "Used to mine Iron Ore, Silver Ore, and all other lesser metals.",
+  "type": "Gathering",
+  "level": 10,
+  "rarity": "Basic",
+  "vendor_value": 7,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 22995,
+  "chat_link": "[\u0026AgHTWQAA]",
+  "icon": "https://render.guildwars2.com/file/3CD995B576C8CB39B02D4826EA04690701755ECB/66254.png",
+  "details": {
+    "type": "Mining"
+  }
+}

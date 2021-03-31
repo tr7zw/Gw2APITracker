@@ -1,0 +1,38 @@
+{
+  "name": "Mighty Soft Wood Longbow",
+  "description": "",
+  "type": "Weapon",
+  "level": 11,
+  "rarity": "Fine",
+  "vendor_value": 24,
+  "default_skin": 3942,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 28282,
+  "chat_link": "[\u0026AgF6bgAA]",
+  "icon": "https://render.guildwars2.com/file/C6110F52DF5AFE0F00A56F9E143E9732176DDDE9/65015.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 172,
+    "max_power": 202,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 49.408,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 17
+        }
+      ]
+    }
+  }
+}

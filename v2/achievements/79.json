@@ -1,0 +1,24 @@
+{
+  "id": 79,
+  "name": "Some Must Fight, That All May Be Free",
+  "description": "You have become a full member of the Vigil.",
+  "requirement": "Complete the story step \"Minister\u0027s Defense\" or \"Quaestor\u0027s Siege.\"",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tyria",
+      "id": 235
+    }
+  ]
+}

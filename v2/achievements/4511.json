@@ -1,0 +1,39 @@
+{
+  "id": 4511,
+  "name": "Chasing Tales: Will to Power",
+  "description": "Elegos suppressed tales of his prowess by any means necessary.",
+  "requirement": "Defeat 30 Branded enemies with a staff in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Elegos the Harmless."
+    },
+    {
+      "type": "Text",
+      "text": "Defeated 30 Branded enemies with a staff in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89783,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Berserker\u0027s Dreadnought Warboots",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 15000,
+  "default_skin": 368,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "id": 3543,
+  "chat_link": "[\u0026AgHXDQAA]",
+  "icon": "https://render.guildwars2.com/file/4EA9C5BB4B0BC4D5536AB327FA25D45DA7C79497/61130.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 161,
+    "infusion_slots": [],
+    "attribute_adjustment": 113.184,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 40
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 28
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 28
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Honed Cabalist Coat",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 153,
+  "default_skin": 51,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 17522,
+  "chat_link": "[\u0026AgFyRAAA]",
+  "icon": "https://render.guildwars2.com/file/73CEB0F9515E0627321A15DA1CA4A6F3F51A4CE6/61019.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 101,
+    "infusion_slots": [],
+    "attribute_adjustment": 110.889,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 39
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 28
+        }
+      ]
+    }
+  }
+}

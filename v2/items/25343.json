@@ -1,0 +1,44 @@
+{
+  "name": "Mending Shiverpeak Arquebus of Debility",
+  "type": "Weapon",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 135,
+  "default_skin": 5175,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25343,
+  "chat_link": "[\u0026AgH/YgAA]",
+  "icon": "https://render.guildwars2.com/file/1D625FA71BF2717F6AD5055DA5C40804221BC6A1/534285.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 469,
+    "max_power": 573,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 288.456,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 72
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 101
+        }
+      ]
+    },
+    "suffix_item_id": 24634
+  }
+}

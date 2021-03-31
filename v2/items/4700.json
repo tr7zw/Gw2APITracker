@@ -1,0 +1,42 @@
+{
+  "name": "Scout\u0027s Boots",
+  "description": "\u003cc\u003d@flavor\u003e\"Trade can never stop.\"\u003cbr\u003e—Lionguard\u003c/c\u003e",
+  "type": "Armor",
+  "level": 20,
+  "rarity": "Fine",
+  "vendor_value": 24,
+  "default_skin": 887,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4700,
+  "chat_link": "[\u0026AgFcEgAA]",
+  "icon": "https://render.guildwars2.com/file/9C7E0C5C680DAA0AF4EE73ED5ED3B6C2E49B0250/61033.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 27,
+    "infusion_slots": [],
+    "attribute_adjustment": 15.792,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

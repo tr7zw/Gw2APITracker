@@ -1,0 +1,51 @@
+{
+  "name": "Settler\u0027s Banded Coat of Lyssa",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 54,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 42430,
+  "chat_link": "[\u0026AgG+pQAA]",
+  "icon": "https://render.guildwars2.com/file/AF109C52710CF3B5640E08B22F28A9D6479453A3/61052.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 363,
+    "infusion_slots": [],
+    "attribute_adjustment": 384.12,
+    "infix_upgrade": {
+      "id": 693,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 134
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 96
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 96
+        }
+      ]
+    },
+    "suffix_item_id": 24776
+  }
+}

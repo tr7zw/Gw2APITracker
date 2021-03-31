@@ -1,0 +1,43 @@
+{
+  "name": "Lionguard\u0027s Battle Commendation",
+  "description": "\u003cc\u003d@flavor\u003eThe Lionguard approve of your efforts in battle.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 28,
+  "rarity": "Masterwork",
+  "vendor_value": 73,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23803,
+  "chat_link": "[\u0026AgH7XAAA]",
+  "icon": "https://render.guildwars2.com/file/C3E99C0522B5057698B021CAFC090E496DA33B25/66001.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 42.4575,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 15
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 11
+        }
+      ]
+    }
+  }
+}

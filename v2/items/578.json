@@ -1,0 +1,47 @@
+{
+  "name": "Carrion Seer Boots of Dwayna",
+  "description": "",
+  "type": "Armor",
+  "level": 63,
+  "rarity": "Exotic",
+  "vendor_value": 216,
+  "default_skin": 30,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 578,
+  "chat_link": "[\u0026AgFCAgAA]",
+  "icon": "https://render.guildwars2.com/file/F640924D5B38FAFAF55BDF9496D41266A132A83C/61027.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 96,
+    "infusion_slots": [],
+    "attribute_adjustment": 91.32,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 23
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 23
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 32
+        }
+      ]
+    },
+    "suffix_item_id": 24768
+  }
+}

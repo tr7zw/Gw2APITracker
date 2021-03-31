@@ -1,0 +1,51 @@
+{
+  "name": "Forsaken Swordshame",
+  "type": "Weapon",
+  "level": 71,
+  "rarity": "Exotic",
+  "vendor_value": 244,
+  "default_skin": 5096,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 52011,
+  "chat_link": "[\u0026AgErywAA]",
+  "icon": "https://render.guildwars2.com/file/9F17F1EBFCCFA5D4C5CE70090F67D961E5F024C8/575178.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 730,
+    "max_power": 823,
+    "defense": 55,
+    "infusion_slots": [],
+    "attribute_adjustment": 305.2,
+    "infix_upgrade": {
+      "id": 1011,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 107
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 76
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 76
+        }
+      ]
+    }
+  }
+}

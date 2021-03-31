@@ -1,0 +1,58 @@
+{
+  "id": 3842,
+  "icon": "https://render.guildwars2.com/file/10C902703E37A7ED22F00CB9249361593C5407B9/1824199.png",
+  "name": "Raise the Banners: Amnoon Arbitrator",
+  "description": "You explored all possible paths for Amnoon to take in its time of crisis.",
+  "requirement": "Collect all  items to unlock this piece of equipment.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 84728
+    },
+    {
+      "type": "Item",
+      "id": 82782
+    },
+    {
+      "type": "Item",
+      "id": 83992
+    },
+    {
+      "type": "Item",
+      "id": 83262
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 83029,
+      "count": 1
+    },
+    {
+      "type": "Title",
+      "id": 288
+    }
+  ]
+}

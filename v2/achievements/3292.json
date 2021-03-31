@@ -1,0 +1,24 @@
+{
+  "id": 3292,
+  "name": "Solitary Confinement",
+  "description": "\"We are not finished with you yet.\"",
+  "requirement": "Defeat the demon without the prisoner\u0027s assistance while the challenge mote is active.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 15
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 80620,
+      "count": 1
+    }
+  ]
+}

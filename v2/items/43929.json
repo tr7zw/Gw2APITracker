@@ -1,0 +1,43 @@
+{
+  "name": "Kite",
+  "type": "Weapon",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 0,
+  "default_skin": 2775,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSell",
+    "NotUpgradeable",
+    "SoulbindOnAcquire",
+    "DeleteWarning",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 43929,
+  "chat_link": "[\u0026AgGZqwAA]",
+  "icon": "https://render.guildwars2.com/file/924F98BEB37F090204D31F0D262CF4C22A57C673/603291.png",
+  "details": {
+    "type": "LargeBundle",
+    "damage_type": "Physical",
+    "min_power": 0,
+    "max_power": 0,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 23.664,
+    "infix_upgrade": {
+      "id": 689,
+      "buff": {
+        "skill_id": 15435
+      },
+      "attributes": []
+    }
+  }
+}

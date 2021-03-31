@@ -1,0 +1,50 @@
+{
+  "name": "Briar Metal Leggings",
+  "description": "\u003cc\u003d@flavor\u003e\"Tending the wall often causes damage to armor. Select a replacment from our stores to keep your defenses strong.\"\u003cbr\u003e—Viner Neit \u003c/c\u003e",
+  "type": "Armor",
+  "level": 64,
+  "rarity": "Fine",
+  "vendor_value": 76,
+  "default_skin": 865,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4929,
+  "chat_link": "[\u0026AgFBEwAA]",
+  "icon": "https://render.guildwars2.com/file/B7716C05AC01EF2F74BABF06EB44E83EAF1D90B8/61560.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Heavy",
+    "defense": 134,
+    "infusion_slots": [],
+    "attribute_adjustment": 140.016,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 35
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 35
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 49
+        }
+      ]
+    }
+  }
+}

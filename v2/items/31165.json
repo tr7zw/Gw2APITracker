@@ -1,0 +1,49 @@
+{
+  "name": "Pact Herald",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 198,
+  "default_skin": 4955,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 31165,
+  "chat_link": "[\u0026AgG9eQAA]",
+  "icon": "https://render.guildwars2.com/file/29293D70427F167CC7312C675CEDA12112666E92/456078.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 722,
+    "max_power": 797,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 301.824,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 75
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 75
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 106
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

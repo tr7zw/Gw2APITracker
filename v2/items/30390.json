@@ -1,0 +1,48 @@
+{
+  "name": "Seraph-Issue Greatsword",
+  "description": "\u003cc\u003d@flavor\u003e\"There\u0027s only one thing better than a sword...\"\u003cbr\u003e—Tripp\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 25,
+  "rarity": "Fine",
+  "vendor_value": 41,
+  "default_skin": 4015,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30390,
+  "chat_link": "[\u0026AgG2dgAA]",
+  "icon": "https://render.guildwars2.com/file/1EA00FDAAD23FD1B1B9C4BD6E36EB30A43E21D06/64138.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 252,
+    "max_power": 279,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 105.6,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 26
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 37
+        }
+      ]
+    }
+  }
+}

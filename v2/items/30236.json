@@ -1,0 +1,52 @@
+{
+  "name": "Rally Mace",
+  "description": "\u003cc\u003d@flavor\u003e\"Sometimes an alliance isn\u0027t so much held together as it is forced into place.\"\u003cbr\u003e—Arcanist Repth\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Fine",
+  "vendor_value": 61,
+  "default_skin": 5188,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30236,
+  "chat_link": "[\u0026AgEcdgAA]",
+  "icon": "https://render.guildwars2.com/file/DB447716F108A4EC3BEA5C3995B569D83B6DA327/62417.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 616,
+    "max_power": 695,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 230.4,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 81
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 58
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 58
+        }
+      ]
+    }
+  }
+}

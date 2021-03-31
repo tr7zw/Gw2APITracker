@@ -1,0 +1,39 @@
+{
+  "id": 4500,
+  "name": "Chasing Tales: Death by a Thousand Cuts",
+  "description": "Every strike is a work of art.",
+  "requirement": "Inflict bleeding 30 times with a short bow in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Mosa the Majestic."
+    },
+    {
+      "type": "Text",
+      "text": "Inflicted bleeding 30 with a short bow in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89608,
+      "count": 1
+    }
+  ]
+}

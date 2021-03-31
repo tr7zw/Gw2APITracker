@@ -1,0 +1,49 @@
+{
+  "name": "Cleric\u0027s Iron Axe of Vision",
+  "description": "",
+  "type": "Weapon",
+  "level": 64,
+  "rarity": "Exotic",
+  "vendor_value": 216,
+  "default_skin": 3962,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25959,
+  "chat_link": "[\u0026AgFnZQAA]",
+  "icon": "https://render.guildwars2.com/file/C8EAC643C02F41B918D79031B6060B0CBFE40CAD/64967.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 649,
+    "max_power": 794,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 249.04,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 62
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 62
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 87
+        }
+      ]
+    },
+    "suffix_item_id": 24600
+  }
+}

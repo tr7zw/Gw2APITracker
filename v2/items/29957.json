@@ -1,0 +1,52 @@
+{
+  "name": "Ebon Vanguard Focus",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 5000,
+  "default_skin": 4586,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29957,
+  "chat_link": "[\u0026AgEFdQAA]",
+  "icon": "https://render.guildwars2.com/file/4FA8EF997AD4E107B83BA4789392065C0D6764B7/67379.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 518,
+    "max_power": 550,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 200.88,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 70
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 50
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 50
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

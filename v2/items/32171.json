@@ -1,0 +1,50 @@
+{
+  "name": "Ravaging Avenger\u0027s Short Bow",
+  "type": "Weapon",
+  "level": 72,
+  "rarity": "Masterwork",
+  "vendor_value": 180,
+  "default_skin": 4785,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32171,
+  "chat_link": "[\u0026AgGrfQAA]",
+  "icon": "https://render.guildwars2.com/file/2EDBDE37FCEBDFE3FABF0760060B085A6C091BBA/415052.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 651,
+    "max_power": 719,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 480.216,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 168
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 120
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 120
+        }
+      ]
+    },
+    "suffix_item_id": 24615
+  }
+}

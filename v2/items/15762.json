@@ -1,0 +1,44 @@
+{
+  "name": "Vigorous Dredge Spear",
+  "description": "",
+  "type": "Weapon",
+  "level": 50,
+  "rarity": "Rare",
+  "vendor_value": 203,
+  "default_skin": 4028,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 15762,
+  "chat_link": "[\u0026AgGSPQAA]",
+  "icon": "https://render.guildwars2.com/file/940157F4A278BBD21538F907161C48C8F7B6C298/779900.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 465,
+    "max_power": 514,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 313.632,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 110
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 78
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "name": "Illustrious Doublet",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 109,
+  "icon": "https://render.guildwars2.com/file/6E0C12721BAA5E343813DE9F2C7EFE064AECCE0A/699212.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        null
+      ],
+      "overrides": {
+        "HumanFemale": [
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          null,
+          {
+            "color_id": -1,
+            "material": "metal"
+          }
+        ],
+        "NornFemale": [
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          null,
+          {
+            "color_id": -1,
+            "material": "metal"
+          }
+        ],
+        "SylvariFemale": [
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          null,
+          {
+            "color_id": -1,
+            "material": "metal"
+          }
+        ]
+      }
+    }
+  }
+}

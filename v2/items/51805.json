@@ -1,0 +1,51 @@
+{
+  "name": "Forsaken Distemper",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Exotic",
+  "vendor_value": 220,
+  "default_skin": 5232,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 51805,
+  "chat_link": "[\u0026AgFdygAA]",
+  "icon": "https://render.guildwars2.com/file/FF9C9423AEA40F1A2FE166390DC894139E57047C/67842.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 699,
+    "max_power": 772,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 254.64,
+    "infix_upgrade": {
+      "id": 1011,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 89
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 64
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 64
+        }
+      ]
+    }
+  }
+}

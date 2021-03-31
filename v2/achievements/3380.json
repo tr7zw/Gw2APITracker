@@ -1,0 +1,31 @@
+{
+  "id": 3380,
+  "name": "Courtly Discourtesy",
+  "description": "Story Instance: Regrouping with the Queen\u003cbr\u003e\u003cbr\u003e\"You can\u0027t play in here! This is the throne room!\"",
+  "requirement": "Bring some life to the throne room by interacting with its denizens.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Salute the aspiring young Shining Blade guard."
+    },
+    {
+      "type": "Text",
+      "text": "Dig for gossip with each of the ladies-in-waiting."
+    },
+    {
+      "type": "Text",
+      "text": "Make a guard laugh by misbehaving (glide, swim, pet)."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 1
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Bear Ceremonial Leggings",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 278,
+  "default_skin": 9368,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 93398,
+  "chat_link": "[\u0026AgHWbAEA]",
+  "icon": "https://render.guildwars2.com/file/5811B80F5263D45DB6D87213B8024A75C6617D59/2293322.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Heavy",
+    "defense": 214,
+    "infusion_slots": [],
+    "attribute_adjustment": 226.368,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 79
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 57
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 57
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Ravaging Worn Chain Gauntlets",
+  "description": "",
+  "type": "Armor",
+  "level": 24,
+  "rarity": "Fine",
+  "vendor_value": 24,
+  "default_skin": 50,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 1408,
+  "chat_link": "[\u0026AgGABQAA]",
+  "icon": "https://render.guildwars2.com/file/E21E356DE0083C4DBE95C0DD0EA13C47DF55C6BA/61053.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 35,
+    "infusion_slots": [],
+    "attribute_adjustment": 19.008,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 5
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 7
+        }
+      ]
+    }
+  }
+}

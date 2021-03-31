@@ -1,0 +1,49 @@
+{
+  "name": "Nightmare Court Boots",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 693,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 18582,
+  "chat_link": "[\u0026AgGWSAAA]",
+  "icon": "https://render.guildwars2.com/file/A82817D5CD355D1624BBF206AB082CBD02E56655/493119.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 157,
+    "infusion_slots": [],
+    "attribute_adjustment": 128.04,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 32
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 45
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 32
+        }
+      ]
+    },
+    "suffix_item_id": 24848
+  }
+}

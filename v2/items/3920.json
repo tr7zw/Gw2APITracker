@@ -1,0 +1,43 @@
+{
+  "name": "Lionguard Gloves",
+  "description": "\u003cc\u003d@flavor\u003e\"Keep your fingers tight on your weapon, solider.\"\u003cbr\u003e—Nadel\u003c/c\u003e",
+  "type": "Armor",
+  "level": 18,
+  "rarity": "Masterwork",
+  "vendor_value": 40,
+  "default_skin": 908,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 3920,
+  "chat_link": "[\u0026AgFQDwAA]",
+  "icon": "https://render.guildwars2.com/file/CC4C6AF2CD591F48C0655460F657EE52CA4A6CBA/61040.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 28,
+    "infusion_slots": [],
+    "attribute_adjustment": 15.912,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 6
+        }
+      ]
+    },
+    "suffix_item_id": 24727
+  }
+}

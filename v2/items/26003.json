@@ -1,0 +1,38 @@
+{
+  "name": "Vital Iron Mace",
+  "description": "",
+  "type": "Weapon",
+  "level": 13,
+  "rarity": "Fine",
+  "vendor_value": 18,
+  "default_skin": 3964,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 26003,
+  "chat_link": "[\u0026AgGTZQAA]",
+  "icon": "https://render.guildwars2.com/file/415D42C379B3AE75721E59D76E5F170926C416C1/65228.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 175,
+    "max_power": 197,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 28.224,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 10
+        }
+      ]
+    }
+  }
+}

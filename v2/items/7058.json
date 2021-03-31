@@ -1,0 +1,45 @@
+{
+  "name": "Vigorous Duelist Pauldrons",
+  "description": "",
+  "type": "Armor",
+  "level": 30,
+  "rarity": "Rare",
+  "vendor_value": 736,
+  "default_skin": 909,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 7058,
+  "chat_link": "[\u0026AgGSGwAA]",
+  "icon": "https://render.guildwars2.com/file/74ED3739EB2161422FB3FA0F786FD6A33BE069B7/61030.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Medium",
+    "defense": 27,
+    "infusion_slots": [],
+    "attribute_adjustment": 30.672,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 11
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

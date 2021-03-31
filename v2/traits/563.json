@@ -1,0 +1,30 @@
+{
+  "id": 563,
+  "tier": 1,
+  "order": 0,
+  "name": "Wrathful Spirit",
+  "description": "Aegis grants boons when it ends.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/27F233F7D4CE4E9EFE040E3D665B7B0643557B6E/102883.png",
+      "duration": 4,
+      "status": "Retaliation",
+      "description": "Reflect incoming damage back to its source; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+      "duration": 4,
+      "status": "Fury",
+      "description": "Critical Chance increased by 20%; stacks duration.",
+      "apply_count": 1
+    }
+  ],
+  "specialization": 42,
+  "icon": "https://render.guildwars2.com/file/C9EB5B02B1AB1615D60FE82C457408C2D9CC49CC/1012450.png"
+}

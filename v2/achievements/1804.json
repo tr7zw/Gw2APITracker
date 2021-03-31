@@ -1,0 +1,46 @@
+{
+  "id": 1804,
+  "name": "The Be-All and the End-All",
+  "description": "",
+  "requirement": "Slay the Legendary Mordrem Tormentor, Legendary Mordrem Executioner, Legendary Mordrem Demolisher, and Legendary Mordrem Annihilator.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Mordrem Annihilator"
+    },
+    {
+      "type": "Text",
+      "text": "Mordrem Demolisher"
+    },
+    {
+      "type": "Text",
+      "text": "Mordrem Executioner"
+    },
+    {
+      "type": "Text",
+      "text": "Mordrem Tormentor"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 4,
+      "points": 15
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tyria",
+      "id": 261
+    },
+    {
+      "type": "Title",
+      "id": 209
+    }
+  ]
+}

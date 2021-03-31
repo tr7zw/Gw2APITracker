@@ -1,0 +1,25 @@
+{
+  "id": 5301,
+  "name": "Special Mission: Clear the Village",
+  "description": "",
+  "requirement": "Defeat  Dominion charr in Leadfoot Village in the Drizzlewood Coast.",
+  "locked_text": "Unlock using special mission documents.",
+  "type": "Default",
+  "flags": [
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 100,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 93627,
+      "count": 250
+    }
+  ]
+}

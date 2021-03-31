@@ -1,0 +1,28 @@
+{
+  "name": "Recipe: Meat Carver",
+  "description": "A recipe to make a meat carving dagger",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 18,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9506,
+  "chat_link": "[\u0026AgEiJQAA]",
+  "icon": "https://render.guildwars2.com/file/D463130039F5DE9C5EEBAE3ABE7BCBC9FDF5E2DA/849357.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 5416
+  }
+}

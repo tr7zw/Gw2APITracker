@@ -1,0 +1,41 @@
+{
+  "name": "Ravaging Steam Axe",
+  "type": "Weapon",
+  "level": 56,
+  "rarity": "Fine",
+  "vendor_value": 49,
+  "default_skin": 5208,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 32490,
+  "chat_link": "[\u0026AgHqfgAA]",
+  "icon": "https://render.guildwars2.com/file/B606E3BEBF034E08D1DDEC54CA74E811F4284CD1/66427.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 423,
+    "max_power": 517,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 154.176,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 39
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 54
+        }
+      ]
+    }
+  }
+}

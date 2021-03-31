@@ -1,0 +1,43 @@
+{
+  "name": "Hammer Toss",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 900
+    },
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 10
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 0.5
+    },
+    {
+      "text": "Knockdown",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/61A6A8A161FB7124336A6ED1FBAF9B1E030166A6/156664.png",
+      "duration": 2
+    }
+  ],
+  "description": "Throw a hammer that knocks down foes.",
+  "icon": "https://render.guildwars2.com/file/EE2D2A20EB9CAC5159DD2221476CCB6511631C0F/104139.png",
+  "type": "Weapon",
+  "weapon_type": "None",
+  "professions": [
+    "Warrior"
+  ],
+  "slot": "Downed_2",
+  "flags": [
+    "NoUnderwater"
+  ],
+  "id": 14515,
+  "chat_link": "[\u0026BrM4AAA\u003d]"
+}

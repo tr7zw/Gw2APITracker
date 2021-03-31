@@ -1,0 +1,30 @@
+{
+  "name": "Barbaric Boots",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 232,
+  "icon": "https://render.guildwars2.com/file/BEEA9D153C3323AC243E0BA66B37CBCE9BBCCEBF/61360.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        null,
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

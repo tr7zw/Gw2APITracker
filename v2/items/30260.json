@@ -1,0 +1,53 @@
+{
+  "name": "Shank Greatsword",
+  "description": "\u003cc\u003d@flavor\u003e\"A big sword for a big job.\"\u003cbr\u003e—Warmaster Chan\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 198,
+  "default_skin": 5217,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30260,
+  "chat_link": "[\u0026AgE0dgAA]",
+  "icon": "https://render.guildwars2.com/file/C6283C1F74B308A632ECA2257B6EDEE53E9C03EC/62836.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 819,
+    "max_power": 906,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 559.912,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 196
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 140
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 140
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Exquisite Chrysocola Jewel",
+  "description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24496,
+  "chat_link": "[\u0026AgGwXwAA]",
+  "icon": "https://render.guildwars2.com/file/C507ACA5D371EA07CD612D67CD1DFFEA2F65D763/220937.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "Trinket"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 442,
+      "buff": {
+        "skill_id": 200,
+        "description": "+25 Condition Damage\n+15 Power\n+15 Vitality"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 15
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 15
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 25
+        }
+      ]
+    },
+    "suffix": "of Chrysocola"
+  }
+}

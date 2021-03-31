@@ -1,0 +1,42 @@
+{
+  "name": "Cloth Garrison Gloves",
+  "description": "\u003cc\u003d@flavor\u003e\"You sure earned your pay on this one.\"\u003cbr\u003e—Lieutenant Ryder\u003c/c\u003e",
+  "type": "Armor",
+  "level": 6,
+  "rarity": "Fine",
+  "vendor_value": 10,
+  "default_skin": 891,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4674,
+  "chat_link": "[\u0026AgFCEgAA]",
+  "icon": "https://render.guildwars2.com/file/6A921C0335490C406B28FBA52C3ECE4862B94F2E/61246.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 14,
+    "infusion_slots": [],
+    "attribute_adjustment": 6.192,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 2
+        }
+      ]
+    }
+  }
+}

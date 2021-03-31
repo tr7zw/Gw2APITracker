@@ -1,0 +1,42 @@
+{
+  "name": "Vigorous Acolyte Boots",
+  "description": "",
+  "type": "Armor",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 52,
+  "default_skin": 160,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 10967,
+  "chat_link": "[\u0026AgHXKgAA]",
+  "icon": "https://render.guildwars2.com/file/B45591DA0AB60D98A428FE792704F22015AF6C66/61412.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 59,
+    "infusion_slots": [],
+    "attribute_adjustment": 54.0855,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 19
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 14
+        }
+      ]
+    }
+  }
+}

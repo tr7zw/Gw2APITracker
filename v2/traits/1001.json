@@ -1,0 +1,39 @@
+{
+  "id": 1001,
+  "tier": 2,
+  "order": 0,
+  "name": "Brutish Seals",
+  "description": "Activating a \u003cc\u003d@abilitytype\u003eSignet\u003c/c\u003e grants fury to nearby allies.  \u003cc\u003d@abilitytype\u003eSignets\u003c/c\u003e gain reduced recharge.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+      "duration": 6,
+      "status": "Fury",
+      "description": "Critical Chance increased by 20%; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 300
+    },
+    {
+      "text": "Number of Allied Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    },
+    {
+      "text": "Recharge Reduced",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+      "percent": 20
+    }
+  ],
+  "specialization": 8,
+  "icon": "https://render.guildwars2.com/file/C7F4A1026CF206665B95C407D898ED39757BB515/1012621.png"
+}

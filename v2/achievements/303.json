@@ -1,0 +1,39 @@
+{
+  "id": 303,
+  "name": "Take Everything in Sight",
+  "description": "Our enemies can only hold out against you for so long.",
+  "requirement": "Capture  objectives.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 750,
+      "points": 5
+    },
+    {
+      "count": 1500,
+      "points": 10
+    },
+    {
+      "count": 3500,
+      "points": 15
+    },
+    {
+      "count": 7500,
+      "points": 25
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 46
+    }
+  ]
+}

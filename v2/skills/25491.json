@@ -1,0 +1,53 @@
+{
+  "name": "Glyph of Elementals",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 40
+    },
+    {
+      "text": "Duration",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "duration": 60
+    }
+  ],
+  "description": "Glyph. Summon an elemental based on your attunement.",
+  "icon": "https://render.guildwars2.com/file/799DAA08F70AC41DEF386E67B2B92E155DB70B09/867440.png",
+  "type": "Elite",
+  "weapon_type": "None",
+  "attunement": "Water",
+  "professions": [
+    "Elementalist"
+  ],
+  "slot": "Elite",
+  "flip_skill": 25492,
+  "flags": [
+    "NoUnderwater"
+  ],
+  "id": 25491,
+  "chat_link": "[\u0026BpNjAAA\u003d]",
+  "categories": [
+    "Glyph"
+  ],
+  "traited_facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "PrefixedBuff",
+      "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+      "duration": 10,
+      "status": "Regeneration",
+      "description": "Gain health every second; stacks duration.",
+      "apply_count": 1,
+      "requires_trait": 229,
+      "prefix": {
+        "text": "Apply Buff/Condition",
+        "icon": "https://render.guildwars2.com/file/737E1B9F7855B9F5D3DE1C990CD42118EF3D1C92/102820.png",
+        "status": "Water Attunement",
+        "description": "Cast water spells."
+      }
+    }
+  ]
+}

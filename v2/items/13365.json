@@ -1,0 +1,37 @@
+{
+  "name": "Amber Copper Stud",
+  "description": "",
+  "type": "Trinket",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 60,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 13365,
+  "chat_link": "[\u0026AgE1NAAA]",
+  "icon": "https://render.guildwars2.com/file/C0962C01304C70DACA910D90B798980493EBE17F/340169.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 29.3675,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 10
+        }
+      ]
+    },
+    "suffix_item_id": 24477
+  }
+}

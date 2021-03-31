@@ -1,0 +1,46 @@
+{
+  "name": "Light Travelen Leggings",
+  "description": "\u003cc\u003d@flavor\u003e\"Gotta keep warm. I added extra insulation as thanks.\"\u003cbr\u003e—Disa\u003c/c\u003e",
+  "type": "Armor",
+  "level": 43,
+  "rarity": "Fine",
+  "vendor_value": 56,
+  "default_skin": 868,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4111,
+  "chat_link": "[\u0026AgEPEAAA]",
+  "icon": "https://render.guildwars2.com/file/67E8D1564B37023B953FFCDDC87518EA754355D7/61233.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Light",
+    "defense": 65,
+    "infusion_slots": [],
+    "attribute_adjustment": 80.592,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 20
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 28
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Deserter\u0027s Tuneblade",
+  "type": "Weapon",
+  "level": 31,
+  "rarity": "Masterwork",
+  "vendor_value": 66,
+  "default_skin": 5239,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 52989,
+  "chat_link": "[\u0026AgH9zgAA]",
+  "icon": "https://render.guildwars2.com/file/10DEC3A0EB435E9015260E0C2B34EF2DD36ABEEB/434566.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 307,
+    "max_power": 339,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 86.496,
+    "infix_upgrade": {
+      "id": 1014,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 22
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 30
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Ravaging Steam Mace",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Fine",
+  "vendor_value": 42,
+  "default_skin": 5199,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 32516,
+  "chat_link": "[\u0026AgEEfwAA]",
+  "icon": "https://render.guildwars2.com/file/CFD4DFE0779C3B361DBF7BEDD59C7F5480A1C914/68155.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 359,
+    "max_power": 405,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 117.312,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 29
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 41
+        }
+      ]
+    }
+  }
+}

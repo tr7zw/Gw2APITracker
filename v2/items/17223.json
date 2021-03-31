@@ -1,0 +1,43 @@
+{
+  "name": "Rejuvenating Cabalist Hood",
+  "type": "Armor",
+  "level": 30,
+  "rarity": "Rare",
+  "vendor_value": 117,
+  "default_skin": 103,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 17223,
+  "chat_link": "[\u0026AgFHQwAA]",
+  "icon": "https://render.guildwars2.com/file/16E5686EC33001A0D77FF5D4320EFBCA39130826/61411.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 21,
+    "infusion_slots": [],
+    "attribute_adjustment": 40.896,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 10
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 14
+        }
+      ]
+    }
+  }
+}

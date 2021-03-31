@@ -1,0 +1,25 @@
+{
+  "name": "Medical Pack",
+  "description": "Double-click to gain a med pack",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 11,
+  "game_types": [
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 8636,
+  "chat_link": "[\u0026AgG8IQAA]",
+  "icon": "https://render.guildwars2.com/file/6E9FA3C99A223677280CD9154A3FB50E2B43AE5B/66895.png",
+  "details": {
+    "type": "Generic"
+  }
+}

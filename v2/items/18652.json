@@ -1,0 +1,47 @@
+{
+  "name": "Soldier\u0027s Privateer Gloves",
+  "type": "Armor",
+  "level": 65,
+  "rarity": "Rare",
+  "vendor_value": 149,
+  "default_skin": 80,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 18652,
+  "chat_link": "[\u0026AgHcSAAA]",
+  "icon": "https://render.guildwars2.com/file/16670E161F58E8F86BE60ED3F83AA1D6C7210945/61045.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 104,
+    "infusion_slots": [],
+    "attribute_adjustment": 84.051,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 29
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 21
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 21
+        }
+      ]
+    }
+  }
+}

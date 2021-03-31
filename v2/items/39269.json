@@ -1,0 +1,57 @@
+{
+  "name": "Gwen\u0027s Necklace",
+  "description": "\u003cc\u003d@flavor\u003eGiven to Gwen by her beloved Keiran.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 660,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 39269,
+  "chat_link": "[\u0026AgFlmQAA]",
+  "icon": "https://render.guildwars2.com/file/01152CA9DFEFEF2D1E006C4166733A45210851F5/534248.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Enrichment"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "infix_upgrade": {
+      "id": 583,
+      "buff": {
+        "skill_id": 15743,
+        "description": "+32 Toughness\n+18 Power\n+18 Ferocity"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 108
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 157
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 108
+        }
+      ]
+    }
+  }
+}

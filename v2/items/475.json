@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Worn Scale Boots of Infiltration",
+  "description": "",
+  "type": "Armor",
+  "level": 33,
+  "rarity": "Masterwork",
+  "vendor_value": 66,
+  "default_skin": 65,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 475,
+  "chat_link": "[\u0026AgHbAQAA]",
+  "icon": "https://render.guildwars2.com/file/9CD8B8786A6F047FD375A7E5301A52320AD60ACC/61012.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 51,
+    "infusion_slots": [],
+    "attribute_adjustment": 31.2885,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 8
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 11
+        }
+      ]
+    },
+    "suffix_item_id": 24705
+  }
+}

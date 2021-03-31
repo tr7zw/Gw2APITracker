@@ -1,0 +1,29 @@
+{
+  "name": "Transmutation Crystal",
+  "description": "Double-click to consume 1 transmutation crystal for 1 transmutation charge.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 64,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 8471,
+  "chat_link": "[\u0026AgEXIQAA]",
+  "icon": "https://render.guildwars2.com/file/B50BF7D22026382EEE702714761DB87901EF710E/63056.png",
+  "details": {
+    "type": "Generic"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Mighty Iron Axe of Debility",
+  "description": "",
+  "type": "Weapon",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 48,
+  "default_skin": 3962,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25893,
+  "chat_link": "[\u0026AgElZQAA]",
+  "icon": "https://render.guildwars2.com/file/C8EAC643C02F41B918D79031B6060B0CBFE40CAD/64967.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 212,
+    "max_power": 259,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 46.988,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 16
+        }
+      ]
+    },
+    "suffix_item_id": 24634
+  }
+}

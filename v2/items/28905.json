@@ -1,0 +1,42 @@
+{
+  "name": "Strong Longbow",
+  "description": "",
+  "type": "Weapon",
+  "level": 28,
+  "rarity": "Basic",
+  "vendor_value": 22,
+  "default_skin": 3854,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 28905,
+  "chat_link": "[\u0026AgHpcAAA]",
+  "icon": "https://render.guildwars2.com/file/4FA22FDDFD0A2BE9654504E608FB6D5D0295CE0C/66157.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 198,
+    "max_power": 233,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 94.432,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 33
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 24
+        }
+      ]
+    }
+  }
+}

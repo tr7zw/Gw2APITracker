@@ -1,0 +1,52 @@
+{
+  "name": "Rally Greatsword",
+  "description": "\u003cc\u003d@flavor\u003e\"Big battles call for big weapons.\"\u003cbr\u003e—Arcanist Repth\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Fine",
+  "vendor_value": 92,
+  "default_skin": 5217,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30220,
+  "chat_link": "[\u0026AgEMdgAA]",
+  "icon": "https://render.guildwars2.com/file/C6283C1F74B308A632ECA2257B6EDEE53E9C03EC/62836.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 685,
+    "max_power": 757,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 460.8,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 115
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 115
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 161
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Seraph Sword",
+  "description": "\u003cc\u003d@flavor\u003e\"A Seraph never backs away from a fight.\"\u003cbr\u003e—Morina\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 48,
+  "default_skin": 3873,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30588,
+  "chat_link": "[\u0026AgF8dwAA]",
+  "icon": "https://render.guildwars2.com/file/4208D4020193450C234C0DC55F7EFCFAB236007B/66216.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 224,
+    "max_power": 248,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 46.988,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 16
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

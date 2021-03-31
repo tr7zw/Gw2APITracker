@@ -1,0 +1,40 @@
+{
+  "name": "Ravaging Worn Scale Boots",
+  "description": "",
+  "type": "Armor",
+  "level": 39,
+  "rarity": "Fine",
+  "vendor_value": 37,
+  "default_skin": 65,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 350,
+  "chat_link": "[\u0026AgFeAQAA]",
+  "icon": "https://render.guildwars2.com/file/9CD8B8786A6F047FD375A7E5301A52320AD60ACC/61012.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 55,
+    "infusion_slots": [],
+    "attribute_adjustment": 35.328,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 9
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

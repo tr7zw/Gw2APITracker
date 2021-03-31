@@ -1,0 +1,48 @@
+{
+  "name": "Petrified Karka Egg",
+  "description": "\u003cc\u003d@flavor\u003eEven with the effects of the fluctuating magical energies on this island, this egg must date from sometime around the rising of Orr.\n—Scientist Vratt\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 248,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 79438,
+  "chat_link": "[\u0026AgFONgEA]",
+  "icon": "https://render.guildwars2.com/file/55B8A01199139F5CCE350D95A0FCDAE20405183B/1493240.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 188.64,
+    "infix_upgrade": {
+      "id": 700,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 66
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 47
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 47
+        }
+      ]
+    }
+  }
+}

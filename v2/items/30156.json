@@ -1,0 +1,53 @@
+{
+  "name": "Ash Legion Covert Shield",
+  "description": "\u003cc\u003d@flavor\u003e\"Minds, Words, Deeds.\"\u003cbr\u003e—Ash Legion Motto\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 65,
+  "rarity": "Masterwork",
+  "vendor_value": 110,
+  "default_skin": 5102,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30156,
+  "chat_link": "[\u0026AgHMdQAA]",
+  "icon": "https://render.guildwars2.com/file/FADA685852160FA4D0EBEDC346663CE4439B45AB/67285.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 509,
+    "max_power": 574,
+    "defense": 37,
+    "infusion_slots": [],
+    "attribute_adjustment": 206.992,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 52
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 52
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 72
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

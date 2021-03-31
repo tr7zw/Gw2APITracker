@@ -1,0 +1,42 @@
+{
+  "name": "Fur-Lined Helmet",
+  "description": "\u003cc\u003d@flavor\u003e\"Fur keeps the head warm.\"\u003cbr\u003e—Gestre Howle\u003c/c\u003e",
+  "type": "Armor",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 60,
+  "default_skin": 907,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 3955,
+  "chat_link": "[\u0026AgFzDwAA]",
+  "icon": "https://render.guildwars2.com/file/6C127B202AE612DCB8CE9AF6EA0CBF500042FF0C/61267.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 14,
+    "infusion_slots": [],
+    "attribute_adjustment": 23.494,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

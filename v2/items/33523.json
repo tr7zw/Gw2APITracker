@@ -1,0 +1,41 @@
+{
+  "name": "Penetrating Krytan Focus",
+  "type": "Weapon",
+  "level": 26,
+  "rarity": "Fine",
+  "vendor_value": 28,
+  "default_skin": 4994,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 33523,
+  "chat_link": "[\u0026AgHzggAA]",
+  "icon": "https://render.guildwars2.com/file/BBFD79A8C5A7AF067FF2B9BF385E713291465869/61665.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 215,
+    "max_power": 228,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 54.976,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 19
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 14
+        }
+      ]
+    }
+  }
+}

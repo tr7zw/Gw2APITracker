@@ -1,0 +1,44 @@
+{
+  "name": "Strong Speargun",
+  "description": "",
+  "type": "Weapon",
+  "level": 55,
+  "rarity": "Basic",
+  "vendor_value": 36,
+  "default_skin": 3858,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 31013,
+  "chat_link": "[\u0026AgEleQAA]",
+  "icon": "https://render.guildwars2.com/file/491298E66504934335705E5091CCCF29C2925B47/66246.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 349,
+    "max_power": 386,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 238.472,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 83
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 60
+        }
+      ]
+    }
+  }
+}

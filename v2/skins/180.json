@@ -1,0 +1,30 @@
+{
+  "name": "Rascal Pants",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 180,
+  "icon": "https://render.guildwars2.com/file/2D2C5A3C7ABC15D3273DCEA8E3F1AF3D16A36865/61458.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Medium",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        null,
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Berserker\u0027s Legion Hauberk",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 2500,
+  "default_skin": 353,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "id": 3735,
+  "chat_link": "[\u0026AgGXDgAA]",
+  "icon": "https://render.guildwars2.com/file/E8CCC36F3C58561009507DE349B4C059430CB829/779815.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 216,
+    "infusion_slots": [],
+    "attribute_adjustment": 225.99,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 79
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 56
+        }
+      ]
+    }
+  }
+}

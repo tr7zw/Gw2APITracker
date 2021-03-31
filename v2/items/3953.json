@@ -1,0 +1,45 @@
+{
+  "name": "Shadow Helm",
+  "description": "",
+  "type": "Armor",
+  "level": 25,
+  "rarity": "Masterwork",
+  "vendor_value": 68,
+  "default_skin": 907,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 3953,
+  "chat_link": "[\u0026AgFxDwAA]",
+  "icon": "https://render.guildwars2.com/file/6C127B202AE612DCB8CE9AF6EA0CBF500042FF0C/61267.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 16,
+    "infusion_slots": [],
+    "attribute_adjustment": 29.206,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 10
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 7
+        }
+      ]
+    },
+    "suffix_item_id": 24727
+  }
+}

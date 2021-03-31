@@ -1,0 +1,27 @@
+{
+  "id": 1787,
+  "name": "Not Under My Command",
+  "description": "Story Instance: Caithe\u0027s Reconnaissance Squad",
+  "requirement": "Find Caithe\u0027s squad without losing any of your soldiers.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    1783
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 86314,
+      "count": 5
+    }
+  ]
+}

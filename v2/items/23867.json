@@ -1,0 +1,38 @@
+{
+  "name": "Hylek Totem",
+  "description": "\u003cc\u003d@flavor\u003eThis totem is carved with inscriptions depicting the Hylek sun god.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 10,
+  "rarity": "Fine",
+  "vendor_value": 19,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23867,
+  "chat_link": "[\u0026AgE7XQAA]",
+  "icon": "https://render.guildwars2.com/file/CF9CBA3BB925A59501C6B61E9E46007BEC254947/63142.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 14.36,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 5
+        }
+      ]
+    }
+  }
+}

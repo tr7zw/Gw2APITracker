@@ -1,0 +1,48 @@
+{
+  "name": "Berserker\u0027s Wrangler Boots",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 1000,
+  "default_skin": 362,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "id": 3727,
+  "chat_link": "[\u0026AgGPDgAA]",
+  "icon": "https://render.guildwars2.com/file/ABAC30BF3D6F5A3CB10F6C6461410458E2D2ABB4/780930.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 94,
+    "infusion_slots": [],
+    "attribute_adjustment": 75.33,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 26
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 19
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 19
+        }
+      ]
+    }
+  }
+}

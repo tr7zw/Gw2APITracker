@@ -1,0 +1,27 @@
+{
+  "id": 2058,
+  "name": "Weed Killer",
+  "description": "Story Instance: Pact Assaulted",
+  "requirement": "Without dying, defeat four Mordrem lobbers before the south gate of Camp Resolve is breached.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    }
+  ],
+  "prerequisites": [
+    2060
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 67825,
+      "count": 3
+    }
+  ]
+}

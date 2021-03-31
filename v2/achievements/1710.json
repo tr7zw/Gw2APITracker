@@ -1,0 +1,110 @@
+{
+  "id": 1710,
+  "name": "Brewmaster",
+  "description": "",
+  "requirement": "Consume  ales from around Tyria.",
+  "locked_text": "Purchase an Observational Zymology Manual from bartenders in various cities.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 23731
+    },
+    {
+      "type": "Item",
+      "id": 8509
+    },
+    {
+      "type": "Item",
+      "id": 8624
+    },
+    {
+      "type": "Item",
+      "id": 8610
+    },
+    {
+      "type": "Item",
+      "id": 8539
+    },
+    {
+      "type": "Item",
+      "id": 8591
+    },
+    {
+      "type": "Item",
+      "id": 8513
+    },
+    {
+      "type": "Item",
+      "id": 8516
+    },
+    {
+      "type": "Item",
+      "id": 8579
+    },
+    {
+      "type": "Item",
+      "id": 8596
+    },
+    {
+      "type": "Item",
+      "id": 8512
+    },
+    {
+      "type": "Item",
+      "id": 8508
+    },
+    {
+      "type": "Item",
+      "id": 8609
+    },
+    {
+      "type": "Item",
+      "id": 8604
+    },
+    {
+      "type": "Item",
+      "id": 8602
+    },
+    {
+      "type": "Item",
+      "id": 8630
+    },
+    {
+      "type": "Item",
+      "id": 8568
+    },
+    {
+      "type": "Skin",
+      "id": 4834
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 9,
+      "points": 1
+    },
+    {
+      "count": 18,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 42877,
+      "count": 1
+    }
+  ]
+}

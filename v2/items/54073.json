@@ -1,0 +1,47 @@
+{
+  "name": "Vagabond\u0027s Crack o\u0027 Red Dawn",
+  "type": "Weapon",
+  "level": 51,
+  "rarity": "Rare",
+  "vendor_value": 212,
+  "default_skin": 5085,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 54073,
+  "chat_link": "[\u0026AgE50wAA]",
+  "icon": "https://render.guildwars2.com/file/7E3D58369AA64435E11C060FBC18721B4A48DD46/779922.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 547,
+    "max_power": 669,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 346.896,
+    "infix_upgrade": {
+      "id": 1015,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 121
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 87
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 3363,
+  "name": "Monster Hunter",
+  "description": "The Forest of Niflhel is deadly to all but the most skilled.",
+  "requirement": "Earn glory in the Forest of Niflhel by completing these achievements.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 261
+    },
+    {
+      "type": "Coins",
+      "count": 50000
+    }
+  ]
+}

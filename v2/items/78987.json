@@ -1,0 +1,54 @@
+{
+  "name": "Healer\u0027s White Mantle Axe",
+  "description": "\u003cc\u003d@flavor\u003eFresh from White Mantle armorers.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 10000,
+  "default_skin": 6810,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 78987,
+  "chat_link": "[\u0026AgGLNAEA]",
+  "icon": "https://render.guildwars2.com/file/CD0803A30EEE544A0E17DDBC3806AE37CE45D772/1451083.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 900,
+    "max_power": 1100,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "stat_choices": [
+      605,
+      559,
+      155,
+      628,
+      156,
+      1226,
+      1230,
+      1539,
+      1377,
+      1378,
+      1484
+    ]
+  }
+}

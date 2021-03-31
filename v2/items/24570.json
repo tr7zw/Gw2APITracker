@@ -1,0 +1,54 @@
+{
+  "name": "Superior Sigil of Blood",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eControl\u003cbr\u003eDouble-click to apply to a weapon.",
+  "type": "UpgradeComponent",
+  "level": 60,
+  "rarity": "Exotic",
+  "vendor_value": 216,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24570,
+  "chat_link": "[\u0026AgH6XwAA]",
+  "icon": "https://render.guildwars2.com/file/BFD4F5E6A8B95866BBA7CDC0E8920D0346337934/220681.png",
+  "details": {
+    "type": "Sigil",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 213,
+      "buff": {
+        "skill_id": 9458,
+        "description": "Steal a foe\u0027s health upon landing a critical hit. \u003cbr\u003e\u003cc\u003d@reminder\u003e(Cooldown: 5 Seconds)\u003c/c\u003e"
+      },
+      "attributes": []
+    },
+    "suffix": "of Blood"
+  }
+}

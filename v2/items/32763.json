@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Steam Mace of Smoldering",
+  "type": "Weapon",
+  "level": 44,
+  "rarity": "Masterwork",
+  "vendor_value": 80,
+  "default_skin": 5199,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32763,
+  "chat_link": "[\u0026AgH7fwAA]",
+  "icon": "https://render.guildwars2.com/file/CFD4DFE0779C3B361DBF7BEDD59C7F5480A1C914/68155.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 374,
+    "max_power": 422,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 121.176,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 30
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 42
+        }
+      ]
+    },
+    "suffix_item_id": 24622
+  }
+}

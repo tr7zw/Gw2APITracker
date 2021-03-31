@@ -1,0 +1,73 @@
+{
+  "id": 4177,
+  "icon": "https://render.guildwars2.com/file/9380EEBE040AF400A2EFCC08175F4D9B6CB2F70A/1983619.png",
+  "name": "Master Diver",
+  "description": "",
+  "requirement": "Find and open ten sunken chests.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Repeatable",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Gendarran Fields Sunken Chest Looted"
+    },
+    {
+      "type": "Text",
+      "text": "Harathi Hinterlands Sunken Chest Looted"
+    },
+    {
+      "type": "Text",
+      "text": "Bloodtide Coast Sunken Chest Looted"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills Sunken Chest Looted"
+    },
+    {
+      "type": "Text",
+      "text": "Iron Marches Sunken Chest Looted"
+    },
+    {
+      "type": "Text",
+      "text": "Snowden Drifts Sunken Chest Looted"
+    },
+    {
+      "type": "Text",
+      "text": "Frostgorge Sound Sunken Chest Looted"
+    },
+    {
+      "type": "Text",
+      "text": "Lornar\u0027s Pass Sunken Chest Looted"
+    },
+    {
+      "type": "Text",
+      "text": "Timberline Falls Sunken Chest Looted"
+    },
+    {
+      "type": "Text",
+      "text": "Mount Maelstrom Sunken Chest Looted"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 10,
+      "points": 5
+    }
+  ],
+  "point_cap": 50,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 87528,
+      "count": 5
+    },
+    {
+      "type": "Title",
+      "id": 306
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Gallant\u0027s Mace",
+  "description": "\u003cc\u003d@flavor\u003e\"These were stolen a while back. It\u0027s nice to have them back.\"\u003cbr\u003e—Zara\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 68,
+  "rarity": "Masterwork",
+  "vendor_value": 114,
+  "default_skin": 3964,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30674,
+  "chat_link": "[\u0026AgHSdwAA]",
+  "icon": "https://render.guildwars2.com/file/415D42C379B3AE75721E59D76E5F170926C416C1/65228.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 599,
+    "max_power": 675,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 221.204,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 55
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 55
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 77
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

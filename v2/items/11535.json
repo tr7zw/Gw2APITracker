@@ -1,0 +1,42 @@
+{
+  "name": "Vigorous Leather Shoes",
+  "description": "",
+  "type": "Armor",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 52,
+  "default_skin": 186,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 11535,
+  "chat_link": "[\u0026AgEPLQAA]",
+  "icon": "https://render.guildwars2.com/file/6BDC00E74662EA563FBBA7ED4D555CB2577C98CB/61428.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 69,
+    "infusion_slots": [],
+    "attribute_adjustment": 54.0855,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 19
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 14
+        }
+      ]
+    }
+  }
+}

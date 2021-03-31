@@ -1,0 +1,42 @@
+{
+  "id": 3171,
+  "name": "\"A Crack in the Ice\" Mastery",
+  "description": "",
+  "requirement": "Complete all  achievements for \"A Crack in the Ice.\"",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 2
+    },
+    {
+      "count": 10,
+      "points": 3
+    },
+    {
+      "count": 15,
+      "points": 5
+    },
+    {
+      "count": 21,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 79919,
+      "count": 1
+    }
+  ]
+}

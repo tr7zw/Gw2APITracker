@@ -1,0 +1,49 @@
+{
+  "name": "Lionguard Longshot Speargun",
+  "description": "\u003cc\u003d@flavor\u003e\"Top of the line aquatic firepower. Having used it firsthand, I\u0027m convinced that it\u0027s not too bad, for having been made by a human.\"\u003cbr\u003e—Mei Shadowwalker\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 32,
+  "rarity": "Masterwork",
+  "vendor_value": 96,
+  "default_skin": 5091,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30483,
+  "chat_link": "[\u0026AgETdwAA]",
+  "icon": "https://render.guildwars2.com/file/935CD7A5037BB9F3C46E0D770D2DD9730ED74A18/62495.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 294,
+    "max_power": 324,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 160.616,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 40
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 56
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

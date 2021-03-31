@@ -1,0 +1,44 @@
+{
+  "name": "Mending Norn Pistol of Battle",
+  "type": "Weapon",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 111,
+  "default_skin": 5153,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25309,
+  "chat_link": "[\u0026AgHdYgAA]",
+  "icon": "https://render.guildwars2.com/file/5866D4E3A3B1E93A660166B9D3FF2BFD4C37B8B9/575174.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 358,
+    "max_power": 420,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 113.472,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 28
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 40
+        }
+      ]
+    },
+    "suffix_item_id": 24602
+  }
+}

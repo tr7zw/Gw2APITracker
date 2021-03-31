@@ -1,0 +1,30 @@
+{
+  "name": "Chain Pauldrons",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 223,
+  "icon": "https://render.guildwars2.com/file/11BB7CFB6AE726E8EA77F006C7C24EFDCBCFBFF3/61383.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        null,
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

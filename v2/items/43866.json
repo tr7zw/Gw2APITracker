@@ -1,0 +1,68 @@
+{
+  "name": "Exquisite Charged Quartz Jewel",
+  "description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 43866,
+  "chat_link": "[\u0026AgFaqwAA]",
+  "icon": "https://render.guildwars2.com/file/34F10CA528BCE2DEAE4D129522A7AF356CFB4932/220938.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "Trinket"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 742,
+      "buff": {
+        "skill_id": 19635,
+        "description": "+12 Condition Damage\n+12 Precision\n+12 Toughness\n+12 Power\n+12 Vitality\n+12 Healing Power\n+12 Ferocity"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 12
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 12
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 12
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 12
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 12
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 12
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 12
+        }
+      ]
+    },
+    "suffix": "of the Sky"
+  }
+}

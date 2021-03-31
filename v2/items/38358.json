@@ -1,0 +1,38 @@
+{
+  "name": "Giver\u0027s Bronze Hammer",
+  "description": "",
+  "type": "Weapon",
+  "level": 15,
+  "rarity": "Fine",
+  "vendor_value": 30,
+  "default_skin": 4048,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 38358,
+  "chat_link": "[\u0026AgHWlQAA]",
+  "icon": "https://render.guildwars2.com/file/2F4509F15B48B1A9F1579D08539F4109972A31A4/65162.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 201,
+    "max_power": 226,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 63.488,
+    "infix_upgrade": {
+      "id": 1031,
+      "attributes": [
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 22
+        }
+      ]
+    }
+  }
+}

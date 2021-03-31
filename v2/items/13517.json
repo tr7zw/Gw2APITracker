@@ -1,0 +1,44 @@
+{
+  "name": "Darksteel Earring",
+  "description": "",
+  "type": "Trinket",
+  "level": 65,
+  "rarity": "Rare",
+  "vendor_value": 207,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 13517,
+  "chat_link": "[\u0026AgHNNAAA]",
+  "icon": "https://render.guildwars2.com/file/91FE537914152F60B96E14A102E5B21B736A0F12/219697.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 140.085,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 49
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 35
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 35
+        }
+      ]
+    }
+  }
+}

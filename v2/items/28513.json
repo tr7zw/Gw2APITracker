@@ -1,0 +1,45 @@
+{
+  "name": "Strong Soft Wood Longbow of Restoration",
+  "description": "",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Rare",
+  "vendor_value": 189,
+  "default_skin": 3942,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28513,
+  "chat_link": "[\u0026AgFhbwAA]",
+  "icon": "https://render.guildwars2.com/file/C6110F52DF5AFE0F00A56F9E143E9732176DDDE9/65015.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 434,
+    "max_power": 510,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 280.512,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 98
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 70
+        }
+      ]
+    },
+    "suffix_item_id": 24593
+  }
+}

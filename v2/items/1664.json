@@ -1,0 +1,40 @@
+{
+  "name": "Strong Worn Chain Helm",
+  "description": "",
+  "type": "Armor",
+  "level": 26,
+  "rarity": "Fine",
+  "vendor_value": 35,
+  "default_skin": 96,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 1664,
+  "chat_link": "[\u0026AgGABgAA]",
+  "icon": "https://render.guildwars2.com/file/05E401FDB31A4CC9A16AAB6F1AB01E5014D1435A/61062.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 25,
+    "infusion_slots": [],
+    "attribute_adjustment": 27.488,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 10
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 7
+        }
+      ]
+    }
+  }
+}

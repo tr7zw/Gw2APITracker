@@ -1,0 +1,49 @@
+{
+  "name": "Magister\u0027s Focus",
+  "description": "\u003cc\u003d@flavor\u003e\"This focus was made specifically to aid me in my research.\"\u003cbr\u003e—Magister Razermane\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 54,
+  "rarity": "Masterwork",
+  "vendor_value": 94,
+  "default_skin": 5202,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30071,
+  "chat_link": "[\u0026AgF3dQAA]",
+  "icon": "https://render.guildwars2.com/file/12F6B21033F0962C25A76AAC31EB2757149CFBA3/68137.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 428,
+    "max_power": 454,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 159.868,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 40
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 56
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2667,
+  "name": "Put to Rest",
+  "description": "",
+  "requirement": "Defeat Gorseval the Multifarious.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 77869,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 188
+    }
+  ]
+}

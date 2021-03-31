@@ -1,0 +1,38 @@
+{
+  "name": "Resilient Bronze Sword",
+  "description": "",
+  "type": "Weapon",
+  "level": 15,
+  "rarity": "Fine",
+  "vendor_value": 20,
+  "default_skin": 4047,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 14954,
+  "chat_link": "[\u0026AgFqOgAA]",
+  "icon": "https://render.guildwars2.com/file/D10679012504F6AD5829D1DF9F36303FE2EB46B4/64343.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 184,
+    "max_power": 204,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 31.744,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 11
+        }
+      ]
+    }
+  }
+}

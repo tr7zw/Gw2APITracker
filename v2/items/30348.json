@@ -1,0 +1,45 @@
+{
+  "name": "Seraph-Issue Sword",
+  "description": "\u003cc\u003d@flavor\u003e\"Recover, reuse, recycle. The equipment we recover is usually a lot less banged up than the soldier.\"\u003cbr\u003e—Sergeant Yarbrough\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 23,
+  "rarity": "Masterwork",
+  "vendor_value": 52,
+  "default_skin": 4062,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30348,
+  "chat_link": "[\u0026AgGMdgAA]",
+  "icon": "https://render.guildwars2.com/file/D10679012504F6AD5829D1DF9F36303FE2EB46B4/64343.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 239,
+    "max_power": 264,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 53.856,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 19
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

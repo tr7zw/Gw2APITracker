@@ -1,0 +1,46 @@
+{
+  "name": "Waterproof Worn Chain Greaves",
+  "description": "\u003cc\u003d@flavor\u003e\"Keeping your feet dry is imperative in a place like this.\"\u003cbr\u003e—Issa\u003c/c\u003e",
+  "type": "Armor",
+  "level": 25,
+  "rarity": "Fine",
+  "vendor_value": 27,
+  "default_skin": 40,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4901,
+  "chat_link": "[\u0026AgElEwAA]",
+  "icon": "https://render.guildwars2.com/file/044D675DA29AFB786E32612D6B9141CA08D1EFEA/61009.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 36,
+    "infusion_slots": [],
+    "attribute_adjustment": 19.8,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 5
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 7
+        }
+      ]
+    }
+  }
+}

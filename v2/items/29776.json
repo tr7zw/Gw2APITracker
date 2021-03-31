@@ -1,0 +1,53 @@
+{
+  "name": "Seraph Trident",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 9000,
+  "default_skin": 4291,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29776,
+  "chat_link": "[\u0026AgFQdAAA]",
+  "icon": "https://render.guildwars2.com/file/FCD5DC98072140526557A6A6CAAC076407F7AEE5/65421.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 802,
+    "max_power": 886,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 603.648,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 151
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 211
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 151
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

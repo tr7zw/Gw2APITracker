@@ -1,0 +1,46 @@
+{
+  "name": "Berserker\u0027s Shield",
+  "description": "",
+  "type": "Weapon",
+  "level": 72,
+  "rarity": "Basic",
+  "vendor_value": 30,
+  "default_skin": 3855,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 29129,
+  "chat_link": "[\u0026AgHJcQAA]",
+  "icon": "https://render.guildwars2.com/file/7DB35F1B7E15540C901650FE08B635FC7F01C852/66208.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 428,
+    "max_power": 482,
+    "defense": 32,
+    "infusion_slots": [],
+    "attribute_adjustment": 176.384,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 62
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 44
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 44
+        }
+      ]
+    }
+  }
+}

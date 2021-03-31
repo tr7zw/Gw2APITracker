@@ -1,0 +1,47 @@
+{
+  "name": "Reinforced Speargun",
+  "description": "",
+  "type": "Weapon",
+  "level": 24,
+  "rarity": "Masterwork",
+  "vendor_value": 78,
+  "default_skin": 5091,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32151,
+  "chat_link": "[\u0026AgGXfQAA]",
+  "icon": "https://render.guildwars2.com/file/935CD7A5037BB9F3C46E0D770D2DD9730ED74A18/62495.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 244,
+    "max_power": 269,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 112.2,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 28
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 39
+        }
+      ]
+    },
+    "suffix_item_id": 24558
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Berserker\u0027s Iron Axe",
+  "description": "",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Fine",
+  "vendor_value": 61,
+  "default_skin": 3962,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 25880,
+  "chat_link": "[\u0026AgEYZQAA]",
+  "icon": "https://render.guildwars2.com/file/C8EAC643C02F41B918D79031B6060B0CBFE40CAD/64967.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 590,
+    "max_power": 721,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 230.4,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 81
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 58
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 58
+        }
+      ]
+    }
+  }
+}

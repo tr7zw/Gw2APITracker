@@ -1,0 +1,61 @@
+{
+  "name": "Beigarth\u0027s Impaler",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of the renowned norn smith, Beigarth.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 10000,
+  "default_skin": 4158,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 46821,
+  "chat_link": "[\u0026AgHltgAA]",
+  "icon": "https://render.guildwars2.com/file/BF791251B24AD60BDF1809597CBED004B0C0B344/631838.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 950,
+    "max_power": 1050,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      },
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 717.024,
+    "infix_upgrade": {
+      "id": 158,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 179
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 179
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 251
+        }
+      ]
+    }
+  }
+}

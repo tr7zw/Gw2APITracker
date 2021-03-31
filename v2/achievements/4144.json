@@ -1,0 +1,59 @@
+{
+  "id": 4144,
+  "name": "Lasting Bonds: Where We Come From",
+  "description": "",
+  "requirement": "Collect  items to help Efi.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 87038
+    },
+    {
+      "type": "Item",
+      "id": 87231
+    },
+    {
+      "type": "Item",
+      "id": 87215
+    },
+    {
+      "type": "Item",
+      "id": 87164
+    },
+    {
+      "type": "Item",
+      "id": 87248
+    },
+    {
+      "type": "Item",
+      "id": 87266
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 2
+    }
+  ],
+  "prerequisites": [
+    4091
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 87217,
+      "count": 1
+    }
+  ]
+}

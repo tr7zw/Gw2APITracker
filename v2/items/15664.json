@@ -1,0 +1,48 @@
+{
+  "name": "Rampager\u0027s Ogre Bludgeoner",
+  "description": "",
+  "type": "Weapon",
+  "level": 65,
+  "rarity": "Rare",
+  "vendor_value": 165,
+  "default_skin": 4033,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 15664,
+  "chat_link": "[\u0026AgEwPQAA]",
+  "icon": "https://render.guildwars2.com/file/7DD1BDF8716FB571A8EB156C6CB9DD0826790974/68694.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 610,
+    "max_power": 688,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 224.136,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 56
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 78
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 56
+        }
+      ]
+    }
+  }
+}

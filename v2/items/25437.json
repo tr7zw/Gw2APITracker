@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Etched Short Bow of Vision",
+  "type": "Weapon",
+  "level": 70,
+  "rarity": "Exotic",
+  "vendor_value": 354,
+  "default_skin": 5112,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25437,
+  "chat_link": "[\u0026AgFdYwAA]",
+  "icon": "https://render.guildwars2.com/file/5798DBFE5946BD19A959EC9C4497B41446D6AE99/780414.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 765,
+    "max_power": 846,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 564.96,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 198
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 141
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 141
+        }
+      ]
+    },
+    "suffix_item_id": 24600
+  }
+}

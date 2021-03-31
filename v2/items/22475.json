@@ -1,0 +1,27 @@
+{
+  "name": "Mysterious Meat",
+  "description": "Double-click to gain a hero point.\u003cbr\u003eThis strange fermented meat smells exotic. Maybe it\u0027s best not to think about where it came from.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 1,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "NotUpgradeable",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 22475,
+  "chat_link": "[\u0026AgHLVwAA]",
+  "icon": "https://render.guildwars2.com/file/BF7014629DA8B4C7BCBBAF26B2B10EB86C4BC90F/63105.png",
+  "details": {
+    "type": "Generic"
+  }
+}

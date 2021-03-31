@@ -1,0 +1,42 @@
+{
+  "id": 2122,
+  "tier": 3,
+  "order": 0,
+  "name": "Laser\u0027s Edge",
+  "description": "While Photon Forge is active, your outgoing damage is increased based on your current heat.",
+  "slot": "Minor",
+  "facts": [
+    {
+      "text": "Maximum Damage Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 15
+    },
+    {
+      "text": "Maximum Damage Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 25
+    }
+  ],
+  "traited_facts": [
+    {
+      "text": "Maximum Damage Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 22.5,
+      "requires_trait": 2137,
+      "overrides": 0
+    },
+    {
+      "text": "Maximum Damage Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 37.5,
+      "requires_trait": 2137,
+      "overrides": 1
+    }
+  ],
+  "specialization": 57,
+  "icon": "https://render.guildwars2.com/file/0D5D9B2C77B736E0609004026A06756D5142690B/1769938.png"
+}

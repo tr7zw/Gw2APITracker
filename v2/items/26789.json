@@ -1,0 +1,42 @@
+{
+  "name": "Honed Iron Pistol",
+  "description": "",
+  "type": "Weapon",
+  "level": 57,
+  "rarity": "Fine",
+  "vendor_value": 49,
+  "default_skin": 3875,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 26789,
+  "chat_link": "[\u0026AgGlaAAA]",
+  "icon": "https://render.guildwars2.com/file/C43656C1551C9A5A1A931EAC2901BD0FBA3BE3E1/62830.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 441,
+    "max_power": 518,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 158.208,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 55
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 40
+        }
+      ]
+    }
+  }
+}

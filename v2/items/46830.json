@@ -1,0 +1,61 @@
+{
+  "name": "Beigarth\u0027s Spire",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of the renowned norn smith, Beigarth.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 10000,
+  "default_skin": 4239,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 46830,
+  "chat_link": "[\u0026AgHutgAA]",
+  "icon": "https://render.guildwars2.com/file/5861FBE81FC36A086AC91F0F4809AD2BEAF75339/631892.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 1034,
+    "max_power": 1166,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      },
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 717.024,
+    "infix_upgrade": {
+      "id": 158,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 179
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 179
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 251
+        }
+      ]
+    }
+  }
+}

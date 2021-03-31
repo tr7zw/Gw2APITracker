@@ -1,0 +1,27 @@
+{
+  "name": "Potion of Jackalope Transformation",
+  "description": "Double-click to become a jackalope for 5 minutes.",
+  "type": "Consumable",
+  "level": 10,
+  "rarity": "Masterwork",
+  "vendor_value": 15,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse",
+    "Tonic"
+  ],
+  "restrictions": [],
+  "id": 8644,
+  "chat_link": "[\u0026AgHEIQAA]",
+  "icon": "https://render.guildwars2.com/file/79DA6A310F020315361533F80906F1A9DA7C5DE6/63121.png",
+  "details": {
+    "type": "Generic"
+  }
+}

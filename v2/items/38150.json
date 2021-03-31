@@ -1,0 +1,37 @@
+{
+  "name": "Snowflake Copper Earring",
+  "description": "",
+  "type": "Trinket",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 60,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 38150,
+  "chat_link": "[\u0026AgEGlQAA]",
+  "icon": "https://render.guildwars2.com/file/A7730D4A0B2933E6B838D203B01A6B45EE4220A9/526258.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 29.3675,
+    "infix_upgrade": {
+      "id": 636,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 10
+        }
+      ]
+    },
+    "suffix_item_id": 38138
+  }
+}

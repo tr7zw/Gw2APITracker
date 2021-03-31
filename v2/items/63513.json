@@ -1,0 +1,48 @@
+{
+  "name": "Priory\u0027s Historical Rifle",
+  "type": "Weapon",
+  "level": 30,
+  "rarity": "Masterwork",
+  "vendor_value": 6900,
+  "default_skin": 4969,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 63513,
+  "chat_link": "[\u0026AgEZ+AAA]",
+  "icon": "https://render.guildwars2.com/file/C0094CB6C9B505B9F512FAB030BC7ACECA22F7B5/534354.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 306,
+    "max_power": 374,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 148.24,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 37
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 52
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

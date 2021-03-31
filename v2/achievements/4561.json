@@ -1,0 +1,39 @@
+{
+  "id": 4561,
+  "name": "Chasing Tales: Master of the Duel",
+  "description": "Carver\u0027s ferocity was known throughout Deldrimor.",
+  "requirement": "Defeat 30 enemies while wielding a sword in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Carver the Carver."
+    },
+    {
+      "type": "Text",
+      "text": "Defeated 30 enemies with a sword in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89730,
+      "count": 1
+    }
+  ]
+}

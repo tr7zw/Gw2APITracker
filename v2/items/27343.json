@@ -1,0 +1,41 @@
+{
+  "name": "Mighty Soft Wood Torch of Smoldering",
+  "description": "",
+  "type": "Weapon",
+  "level": 14,
+  "rarity": "Masterwork",
+  "vendor_value": 38,
+  "default_skin": 3890,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27343,
+  "chat_link": "[\u0026AgHPagAA]",
+  "icon": "https://render.guildwars2.com/file/FA56C5DD5D7494F25D980E432BA129F44209ED0E/63136.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 171,
+    "max_power": 200,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 33.728,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 12
+        }
+      ]
+    },
+    "suffix_item_id": 24622
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": 166,
+  "name": "Keg Interceptions",
+  "description": "Grab those kegs. Block those points.",
+  "requirement": "Intercept  passes in keg brawl.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 1
+    },
+    {
+      "count": 25,
+      "points": 5
+    },
+    {
+      "count": 50,
+      "points": 5
+    },
+    {
+      "count": 100,
+      "points": 5
+    },
+    {
+      "count": 250,
+      "points": 5
+    },
+    {
+      "count": 500,
+      "points": 5
+    }
+  ]
+}

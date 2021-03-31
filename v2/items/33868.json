@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Krytan Mace of the Hydromancer",
+  "type": "Weapon",
+  "level": 56,
+  "rarity": "Masterwork",
+  "vendor_value": 98,
+  "default_skin": 5005,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33868,
+  "chat_link": "[\u0026AgFMhAAA]",
+  "icon": "https://render.guildwars2.com/file/D81434679966BBCEB97B7B681833BC38E73694F2/61688.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 479,
+    "max_power": 540,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 168.096,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 59
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 42
+        }
+      ]
+    },
+    "suffix_item_id": 24595
+  }
+}

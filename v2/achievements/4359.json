@@ -1,0 +1,37 @@
+{
+  "id": 4359,
+  "name": "\"A Star to Guide Us\" Mastery",
+  "description": "",
+  "requirement": "Complete all  \"A Star to Guide Us\" achievements.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 10,
+      "points": 6
+    },
+    {
+      "count": 20,
+      "points": 7
+    },
+    {
+      "count": 30,
+      "points": 8
+    },
+    {
+      "count": 38,
+      "points": 9
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 88607,
+      "count": 1
+    }
+  ]
+}

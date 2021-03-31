@@ -1,0 +1,45 @@
+{
+  "name": "Honed Iron Shield of Ogre Slaying",
+  "description": "",
+  "type": "Weapon",
+  "level": 57,
+  "rarity": "Masterwork",
+  "vendor_value": 98,
+  "default_skin": 4012,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26744,
+  "chat_link": "[\u0026AgF4aAAA]",
+  "icon": "https://render.guildwars2.com/file/222F72EDEC31ACB7BC439499F4DD4AA4A94A6C48/65373.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 440,
+    "max_power": 496,
+    "defense": 32,
+    "infusion_slots": [],
+    "attribute_adjustment": 172.448,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 60
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 43
+        }
+      ]
+    },
+    "suffix_item_id": 24657
+  }
+}

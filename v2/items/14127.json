@@ -1,0 +1,44 @@
+{
+  "name": "Hearty Dredge Canary",
+  "description": "",
+  "type": "Weapon",
+  "level": 50,
+  "rarity": "Rare",
+  "vendor_value": 135,
+  "default_skin": 3913,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 14127,
+  "chat_link": "[\u0026AgEvNwAA]",
+  "icon": "https://render.guildwars2.com/file/D760336CFBAFB057F9A4D55B7E804621082FAFDB/574973.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 427,
+    "max_power": 454,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 156.816,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 39
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 55
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "PvP Salvage Kit",
+  "description": "Double-click to salvage materials from a PvP reward item in your inventory. These materials can be recombined in the Mystic Forge.",
+  "type": "Tool",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23046,
+  "chat_link": "[\u0026AgEGWgAA]",
+  "icon": "https://render.guildwars2.com/file/9F09ACD431CE4906631E271E650ABB0454F90705/63123.png",
+  "details": {
+    "type": "Salvage",
+    "charges": 15
+  }
+}

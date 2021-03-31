@@ -1,0 +1,39 @@
+{
+  "id": 3206,
+  "name": "Codex: Kodan",
+  "description": "",
+  "requirement": "Acquire the Koda\u0027s Flame skills and speak with a Flamebearer to learn their history.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Origin of the Flame"
+    },
+    {
+      "type": "Text",
+      "text": "Rage of the Flame"
+    },
+    {
+      "type": "Text",
+      "text": "Shelter of the Flame"
+    },
+    {
+      "type": "Text",
+      "text": "Wisdom of the Flame"
+    },
+    {
+      "type": "Text",
+      "text": "Spirit of the Flame"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 3
+    }
+  ]
+}

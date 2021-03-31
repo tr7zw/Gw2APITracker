@@ -1,0 +1,65 @@
+{
+  "id": 4032,
+  "name": "That Belongs in a Museum",
+  "description": "Story Instance: The First City",
+  "requirement": "Find all the hidden relics around Fahranur, the First City.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 86223
+    },
+    {
+      "type": "Item",
+      "id": 85970
+    },
+    {
+      "type": "Item",
+      "id": 86091
+    },
+    {
+      "type": "Item",
+      "id": 86274
+    },
+    {
+      "type": "Item",
+      "id": 86385
+    },
+    {
+      "type": "Item",
+      "id": 86265
+    },
+    {
+      "type": "Item",
+      "id": 86319
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 2
+    },
+    {
+      "count": 7,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 86069,
+      "count": 5
+    }
+  ]
+}

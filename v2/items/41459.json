@@ -1,0 +1,48 @@
+{
+  "name": "Sentinel\u0027s Primordus Dagger",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 3925,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 41459,
+  "chat_link": "[\u0026AgHzoQAA]",
+  "icon": "https://render.guildwars2.com/file/0826F8130BC24BC9E6E263D544B221086DF14105/534132.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 924,
+    "max_power": 981,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 686,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 85
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 85
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 120
+        }
+      ]
+    }
+  }
+}

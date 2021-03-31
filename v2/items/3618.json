@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Prototype Gloves",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 15000,
+  "default_skin": 306,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Asura"
+  ],
+  "id": 3618,
+  "chat_link": "[\u0026AgEiDgAA]",
+  "icon": "https://render.guildwars2.com/file/66363536980056EDBCD233F71DF055B23900BBB3/779798.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 139,
+    "infusion_slots": [],
+    "attribute_adjustment": 113.184,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 28
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 28
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 40
+        }
+      ]
+    }
+  }
+}

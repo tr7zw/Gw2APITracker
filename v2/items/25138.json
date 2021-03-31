@@ -1,0 +1,40 @@
+{
+  "name": "Healing Shiverpeak Maul of Force",
+  "type": "Weapon",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 72,
+  "default_skin": 5213,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25138,
+  "chat_link": "[\u0026AgEyYgAA]",
+  "icon": "https://render.guildwars2.com/file/2412401469770631E7E34972B3EFCCAB90094CE8/534277.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 244,
+    "max_power": 275,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 93.976,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 33
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

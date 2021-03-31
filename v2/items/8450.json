@@ -1,0 +1,32 @@
+{
+  "name": "Strength Booster",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 0,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 8450,
+  "chat_link": "[\u0026AgECIQAA]",
+  "icon": "https://render.guildwars2.com/file/D813F1C095BBA403B4D9682C5D1AFCE0CA98239E/434413.png",
+  "details": {
+    "type": "Immediate",
+    "duration_ms": 3600000,
+    "apply_count": 1,
+    "name": "5% Damage Bonus",
+    "icon": "https://render.guildwars2.com/file/0272013ACFEC6FA6F624E43BD971F30CB1261B91/436371.png",
+    "description": "+5% damage against monsters. \n\u003cc\u003d@reminder\u003eWill be removed if you enter competitive PvP or a raid.\u003c/c\u003e"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Iron Dagger",
+  "description": "",
+  "type": "Weapon",
+  "level": 25,
+  "rarity": "Fine",
+  "vendor_value": 27,
+  "default_skin": 4009,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 15024,
+  "chat_link": "[\u0026AgGwOgAA]",
+  "icon": "https://render.guildwars2.com/file/3254C66ED1675657E0B7C2FBBC09FBF2FBAA74A6/62762.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 234,
+    "max_power": 249,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 52.8,
+    "stat_choices": [
+      161,
+      154,
+      158
+    ]
+  }
+}

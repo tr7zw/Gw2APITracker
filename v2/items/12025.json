@@ -1,0 +1,42 @@
+{
+  "name": "Honed Noble Coat",
+  "description": "",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 153,
+  "default_skin": 222,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 12025,
+  "chat_link": "[\u0026AgH5LgAA]",
+  "icon": "https://render.guildwars2.com/file/6D7C6EF0EAC2A92A0C040D340496C1B5A5520627/61441.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 109,
+    "infusion_slots": [],
+    "attribute_adjustment": 110.889,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 39
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 28
+        }
+      ]
+    }
+  }
+}

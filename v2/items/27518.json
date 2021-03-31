@@ -1,0 +1,38 @@
+{
+  "name": "Precise Soft Wood Staff",
+  "description": "",
+  "type": "Weapon",
+  "level": 17,
+  "rarity": "Fine",
+  "vendor_value": 32,
+  "default_skin": 4067,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 27518,
+  "chat_link": "[\u0026AgF+awAA]",
+  "icon": "https://render.guildwars2.com/file/04BE267A42B12DB00F0162639702BDEFC90F4A5D/62880.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 210,
+    "max_power": 236,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 71.296,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 25
+        }
+      ]
+    }
+  }
+}

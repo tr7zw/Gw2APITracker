@@ -1,0 +1,45 @@
+{
+  "name": "Carrion Great Steamblade",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Fine",
+  "vendor_value": 99,
+  "default_skin": 5218,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 32582,
+  "chat_link": "[\u0026AgFGfwAA]",
+  "icon": "https://render.guildwars2.com/file/D8325BBDF9DDCA3F422531492B0CEC7BA34C9ACB/66762.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 759,
+    "max_power": 839,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 517.248,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 129
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 129
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 181
+        }
+      ]
+    }
+  }
+}

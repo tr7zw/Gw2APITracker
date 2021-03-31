@@ -1,0 +1,41 @@
+{
+  "name": "Adorned Amber Jewel",
+  "description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 16,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24477,
+  "chat_link": "[\u0026AgGdXwAA]",
+  "icon": "https://render.guildwars2.com/file/397B074F04530A4D719F9B35DC4201C425272736/220919.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "Trinket"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 165,
+      "buff": {
+        "skill_id": 141,
+        "description": "+4 Condition Damage"
+      },
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 4
+        }
+      ]
+    },
+    "suffix": "of Amber"
+  }
+}

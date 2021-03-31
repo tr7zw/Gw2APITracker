@@ -1,0 +1,33 @@
+{
+  "id": 1741,
+  "tier": 1,
+  "order": 2,
+  "name": "Replenishing Despair",
+  "description": "While maintaining an upkeep skill, your energy pips are increased, but you apply torment to yourself every interval.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+      "duration": 5,
+      "status": "Torment",
+      "description": "Deals damage every second. Deals additional damage to moving foes. Stacks intensity.",
+      "apply_count": 1
+    },
+    {
+      "text": "Pips Gained",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 1
+    },
+    {
+      "text": "Interval",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+      "duration": 1
+    }
+  ],
+  "specialization": 14,
+  "icon": "https://render.guildwars2.com/file/0B140B2603466018C2016223B00FE74F6BFEBF29/1012672.png"
+}

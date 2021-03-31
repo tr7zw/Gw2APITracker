@@ -1,0 +1,39 @@
+{
+  "name": "Ash Legion Amulet",
+  "description": "",
+  "type": "Trinket",
+  "level": 20,
+  "rarity": "Fine",
+  "vendor_value": 48,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23479,
+  "chat_link": "[\u0026AgG3WwAA]",
+  "icon": "https://render.guildwars2.com/file/0759C04469062C150B34010A15534E21A49A2C55/61968.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 42.112,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 15
+        }
+      ]
+    }
+  }
+}

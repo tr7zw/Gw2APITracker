@@ -1,0 +1,43 @@
+{
+  "name": "Barnacle-Encrusted Mantle",
+  "description": "\u003cc\u003d@flavor\u003e\"The barnacles actually help deflect incoming attacks.\"\u003cbr\u003e—Aerixx\u003c/c\u003e",
+  "type": "Armor",
+  "level": 16,
+  "rarity": "Masterwork",
+  "vendor_value": 50,
+  "default_skin": 100,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4872,
+  "chat_link": "[\u0026AgEIEwAA]",
+  "icon": "https://render.guildwars2.com/file/E06A970CAD5A0FDBA4F49C01B168F5D1D2254419/526097.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 12,
+    "infusion_slots": [],
+    "attribute_adjustment": 18.938,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 7
+        }
+      ]
+    },
+    "suffix_item_id": 24733
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Sentinel\u0027s Krait Warhammer",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 297,
+  "default_skin": 4106,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 41535,
+  "chat_link": "[\u0026AgE/ogAA]",
+  "icon": "https://render.guildwars2.com/file/A13C08BC13084AF21A9206F66B430B98DE13F221/574993.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 872,
+    "max_power": 984,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 603.648,
+    "infix_upgrade": {
+      "id": 686,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 151
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 151
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 211
+        }
+      ]
+    }
+  }
+}

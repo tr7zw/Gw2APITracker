@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Savant Coat",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 37500,
+  "default_skin": 305,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Asura"
+  ],
+  "id": 3528,
+  "chat_link": "[\u0026AgHIDQAA]",
+  "icon": "https://render.guildwars2.com/file/054D42353CC9FBA11E68AB12E070625CCABAC851/414918.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 278,
+    "infusion_slots": [],
+    "attribute_adjustment": 339.552,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 85
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 85
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 119
+        }
+      ]
+    }
+  }
+}

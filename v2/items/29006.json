@@ -1,0 +1,42 @@
+{
+  "name": "Strong Short Bow",
+  "description": "",
+  "type": "Weapon",
+  "level": 24,
+  "rarity": "Basic",
+  "vendor_value": 20,
+  "default_skin": 3860,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 29006,
+  "chat_link": "[\u0026AgFOcQAA]",
+  "icon": "https://render.guildwars2.com/file/32AE4DE8B03E026B54E1726C6EFBD5FAF4C09DD9/67395.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 179,
+    "max_power": 198,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 78.832,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 28
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 20
+        }
+      ]
+    }
+  }
+}

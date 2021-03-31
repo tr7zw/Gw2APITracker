@@ -1,0 +1,50 @@
+{
+  "name": "Giver\u0027s Candy Cane Longbow of Concentration",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 9725,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94428,
+  "chat_link": "[\u0026AgHccAEA]",
+  "icon": "https://render.guildwars2.com/file/B33A41CB0A56BA0642D8F727ED0E0B26D1E70DA2/2376845.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 920,
+    "max_power": 1080,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 628,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 239
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 171
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 171
+        }
+      ]
+    },
+    "suffix_item_id": 72339
+  }
+}

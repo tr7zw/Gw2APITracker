@@ -1,0 +1,50 @@
+{
+  "name": "Giver\u0027s Wintergreen Short Bow of Chilling",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 9728,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94397,
+  "chat_link": "[\u0026AgG9cAEA]",
+  "icon": "https://render.guildwars2.com/file/42220FCB3D24030D4F639A05EB20A4242DC3D6BE/2376848.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 905,
+    "max_power": 1000,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 628,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 239
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 171
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 171
+        }
+      ]
+    },
+    "suffix_item_id": 24630
+  }
+}

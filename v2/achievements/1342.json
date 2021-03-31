@@ -1,0 +1,30 @@
+{
+  "id": 1342,
+  "name": "Triple Trouble",
+  "description": "",
+  "requirement": "Complete  great jungle wurm achievement in Bloodtide Coast.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 10,
+      "points": 50
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tyria",
+      "id": 276
+    },
+    {
+      "type": "Title",
+      "id": 180
+    }
+  ]
+}

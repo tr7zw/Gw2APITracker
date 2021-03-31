@@ -1,0 +1,49 @@
+{
+  "name": "Cleric\u0027s Steam Speargun of Water",
+  "description": "",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Rare",
+  "vendor_value": 239,
+  "default_skin": 5091,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28399,
+  "chat_link": "[\u0026AgHvbgAA]",
+  "icon": "https://render.guildwars2.com/file/935CD7A5037BB9F3C46E0D770D2DD9730ED74A18/62495.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 584,
+    "max_power": 646,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 420.048,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 105
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 105
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 147
+        }
+      ]
+    },
+    "suffix_item_id": 24550
+  }
+}

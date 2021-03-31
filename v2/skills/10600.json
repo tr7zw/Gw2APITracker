@@ -1,0 +1,62 @@
+{
+  "name": "Necrotic Traversal",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 1200
+    },
+    {
+      "text": "StunBreak",
+      "type": "StunBreak",
+      "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+      "value": true
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+      "duration": 9,
+      "status": "Poisoned",
+      "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+      "apply_count": 2
+    },
+    {
+      "text": "Life Force",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "percent": 10
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 240
+    },
+    {
+      "text": "Combo Finisher",
+      "type": "ComboFinisher",
+      "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+      "percent": 100,
+      "finisher_type": "Blast"
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    }
+  ],
+  "description": "Sacrifice your flesh wurm, teleport to it, and poison foes.",
+  "icon": "https://render.guildwars2.com/file/BBAA911903B9E640DD6D02B14A6F6D58F2ADFE0C/103308.png",
+  "type": "Utility",
+  "weapon_type": "None",
+  "professions": [
+    "Necromancer"
+  ],
+  "slot": "Utility",
+  "flags": [],
+  "id": 10600,
+  "chat_link": "[\u0026BmgpAAA\u003d]"
+}

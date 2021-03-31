@@ -1,0 +1,28 @@
+{
+  "name": "Recipe: Gift of Water",
+  "description": "Double-click to learn how to make a gift of water used to craft Frenzy.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Legendary",
+  "vendor_value": 12500,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "AccountBindOnUse",
+    "DeleteWarning"
+  ],
+  "restrictions": [],
+  "id": 9637,
+  "chat_link": "[\u0026AgGlJQAA]",
+  "icon": "https://render.guildwars2.com/file/3D423F6758A5265FF1195303529B32E239C6B0BF/849385.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 3166
+  }
+}

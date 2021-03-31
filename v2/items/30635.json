@@ -1,0 +1,53 @@
+{
+  "name": "Improved Shipwreck Spear",
+  "description": "\u003cc\u003d@flavor\u003e\"I heard the sand coo at me, so take this, and use it in the sand if you hear the same.\" \u003cbr\u003e—Danu\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Masterwork",
+  "vendor_value": 159,
+  "default_skin": 5165,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30635,
+  "chat_link": "[\u0026AgGrdwAA]",
+  "icon": "https://render.guildwars2.com/file/D73ABC4D270CCB3016E0B66E0FC9975E19ABC3B9/434762.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 542,
+    "max_power": 599,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 388.008,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 97
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 97
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 136
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

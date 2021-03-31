@@ -1,0 +1,52 @@
+{
+  "name": "Valoric Warhorn",
+  "description": "\u003cc\u003d@flavor\u003e\"You can hear this from the highest peaks\"\u003cbr\u003e—Pact Crusader D\u0027Stolt\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 72,
+  "rarity": "Fine",
+  "vendor_value": 60,
+  "default_skin": 4587,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29553,
+  "chat_link": "[\u0026AgFxcwAA]",
+  "icon": "https://render.guildwars2.com/file/30D9AB0EC478A2FD2177E8B2BF4CABD09DB63DCB/67731.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 542,
+    "max_power": 598,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 221.504,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 55
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 55
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 78
+        }
+      ]
+    }
+  }
+}

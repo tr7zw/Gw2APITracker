@@ -1,0 +1,47 @@
+{
+  "name": "Intercepted Inquest Calculations",
+  "description": "\u003cc\u003d@flavor\u003e\"(X, R(x,z) ≥ min(R(x,y),R(y,z) - X, A(x*y) ≥ min(A(x),B(x))) + A(x*y−1) ≥ min(A(x),A(y−1))\"\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 79,
+  "rarity": "Fine",
+  "vendor_value": 82,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23686,
+  "chat_link": "[\u0026AgGGXAAA]",
+  "icon": "https://render.guildwars2.com/file/031CBF0F0A4780304A1BC81B0F68FFCDFCC41343/220883.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 158.64,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 40
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 40
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 56
+        }
+      ]
+    }
+  }
+}

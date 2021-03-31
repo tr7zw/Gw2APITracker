@@ -1,0 +1,56 @@
+{
+  "name": "Ebonmane\u0027s Reaver",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of the ancient centaur weaponsmith, Grif Ebonmane.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 10000,
+  "default_skin": 4189,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 46892,
+  "chat_link": "[\u0026AgEstwAA]",
+  "icon": "https://render.guildwars2.com/file/08357D68B43146C5B309EC9A327DBEF35F0FE57A/632186.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 900,
+    "max_power": 1100,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "infix_upgrade": {
+      "id": 605,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 90
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 125
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 90
+        }
+      ]
+    }
+  }
+}

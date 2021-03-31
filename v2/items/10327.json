@@ -1,0 +1,42 @@
+{
+  "name": "Honed Splint Greaves",
+  "description": "",
+  "type": "Armor",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 52,
+  "default_skin": 134,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 10327,
+  "chat_link": "[\u0026AgFXKAAA]",
+  "icon": "https://render.guildwars2.com/file/D742AC43FCCC6C98EBB0560909694E2CFCDC2EBE/61390.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 80,
+    "infusion_slots": [],
+    "attribute_adjustment": 54.0855,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 19
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 14
+        }
+      ]
+    }
+  }
+}

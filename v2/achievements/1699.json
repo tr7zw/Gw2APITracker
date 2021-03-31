@@ -1,0 +1,27 @@
+{
+  "id": 1699,
+  "name": "Mote Master",
+  "description": "Story Instance: The World Summit",
+  "requirement": "Complete \"The World Summit\" without dying more than twice after speaking with the Challenge Mote to activate Challenge Mode.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 20
+    }
+  ],
+  "prerequisites": [
+    1700
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 66606,
+      "count": 1
+    }
+  ]
+}

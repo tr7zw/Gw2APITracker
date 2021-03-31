@@ -1,0 +1,51 @@
+{
+  "name": "Apostate\u0027s Smodur\u0027s Charge",
+  "type": "Weapon",
+  "level": 71,
+  "rarity": "Exotic",
+  "vendor_value": 244,
+  "default_skin": 5163,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 52170,
+  "chat_link": "[\u0026AgHKywAA]",
+  "icon": "https://render.guildwars2.com/file/C29F0122AA2D6E9576B732E36401A9674A620503/67839.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 811,
+    "max_power": 914,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 305.2,
+    "infix_upgrade": {
+      "id": 1012,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 76
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 76
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 107
+        }
+      ]
+    }
+  }
+}

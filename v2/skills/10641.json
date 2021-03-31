@@ -1,0 +1,53 @@
+{
+  "name": "Death Curse",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 900
+    },
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 20
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 0.4
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/30307A6E766D74B6EB09EDA12A4A2DE50E4D76F4/102869.png",
+      "duration": 2,
+      "status": "Fear",
+      "description": "Involuntary retreat; unable to act; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+      "duration": 8,
+      "status": "Poisoned",
+      "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+      "apply_count": 1
+    }
+  ],
+  "description": "Poison your foe and make them flee in fear.",
+  "icon": "https://render.guildwars2.com/file/4FD0D431399B72B2505BD7C26C13F8D806F35D25/103837.png",
+  "type": "Weapon",
+  "weapon_type": "None",
+  "professions": [
+    "Necromancer"
+  ],
+  "slot": "Downed_3",
+  "flags": [],
+  "id": 10641,
+  "chat_link": "[\u0026BpEpAAA\u003d]"
+}

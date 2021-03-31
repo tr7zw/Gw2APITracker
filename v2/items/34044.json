@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Aureate Warhorn of Ogre Slaying",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Rare",
+  "vendor_value": 126,
+  "default_skin": 5009,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34044,
+  "chat_link": "[\u0026AgH8hAAA]",
+  "icon": "https://render.guildwars2.com/file/755006E5DEE95B7D42BAE536215505640CE978FE/67687.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 384,
+    "max_power": 425,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 140.256,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 49
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 35
+        }
+      ]
+    },
+    "suffix_item_id": 24656
+  }
+}

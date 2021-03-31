@@ -1,0 +1,48 @@
+{
+  "name": "Apothecary\u0027s Elder Wood Warhorn",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 132,
+  "default_skin": 3968,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 36901,
+  "chat_link": "[\u0026AgElkAAA]",
+  "icon": "https://render.guildwars2.com/file/5A0593B5164DE87591029323F7D90775D716001D/65530.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 671,
+    "max_power": 741,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 279.956,
+    "infix_upgrade": {
+      "id": 605,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 70
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 98
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 70
+        }
+      ]
+    }
+  }
+}

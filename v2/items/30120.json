@@ -1,0 +1,49 @@
+{
+  "name": "Geared Carapace",
+  "description": "\u003cc\u003d@flavor\u003e\"Never have gears been so protective.\"\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 33,
+  "rarity": "Masterwork",
+  "vendor_value": 66,
+  "default_skin": 5102,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30120,
+  "chat_link": "[\u0026AgGodQAA]",
+  "icon": "https://render.guildwars2.com/file/FADA685852160FA4D0EBEDC346663CE4439B45AB/67285.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 267,
+    "max_power": 301,
+    "defense": 17,
+    "infusion_slots": [],
+    "attribute_adjustment": 83.436,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 21
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 29
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

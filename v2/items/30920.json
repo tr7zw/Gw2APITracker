@@ -1,0 +1,44 @@
+{
+  "name": "Strong Sword",
+  "description": "",
+  "type": "Weapon",
+  "level": 30,
+  "rarity": "Basic",
+  "vendor_value": 16,
+  "default_skin": 3873,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 30920,
+  "chat_link": "[\u0026AgHIeAAA]",
+  "icon": "https://render.guildwars2.com/file/4208D4020193450C234C0DC55F7EFCFAB236007B/66216.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 205,
+    "max_power": 226,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 51.948,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 18
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 13
+        }
+      ]
+    }
+  }
+}

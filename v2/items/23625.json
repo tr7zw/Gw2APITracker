@@ -1,0 +1,43 @@
+{
+  "name": "Stone Of Rinn",
+  "description": "\u003cc\u003d@flavor\u003e\"Ghosts hate tresspassers, and the branded hate everything. Take some stones from one ruin, put it by some branded, and you\u0027ll have a battle in no time.\"\u003cbr\u003e—Erria\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 42,
+  "rarity": "Fine",
+  "vendor_value": 49,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23625,
+  "chat_link": "[\u0026AgFJXAAA]",
+  "icon": "https://render.guildwars2.com/file/0CC1D9193269BEE6C56C1AE85EE7960CD81DFF3F/66840.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 65.08,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 16
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 23
+        }
+      ]
+    }
+  }
+}

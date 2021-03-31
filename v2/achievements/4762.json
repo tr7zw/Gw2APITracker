@@ -1,0 +1,73 @@
+{
+  "id": 4762,
+  "name": "Vision I: Awakening",
+  "description": "Breathe deeply and open all three of your eyes.",
+  "requirement": "Experience the old through new eyes.",
+  "locked_text": "Purchase a Trance Stone from any Volatile Magic vendor to unlock this achievement.",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Complete the Visions of Istan collection."
+    },
+    {
+      "type": "Text",
+      "text": "Complete the Visions of Sandswept Isles collection."
+    },
+    {
+      "type": "Text",
+      "text": "Complete the Visions of Kourna collection."
+    },
+    {
+      "type": "Text",
+      "text": "Complete the Visions of Jahai collection."
+    },
+    {
+      "type": "Text",
+      "text": "Complete the Visions of Thunderhead Peaks collection."
+    },
+    {
+      "type": "Text",
+      "text": "Complete the Visions of Dragonfall collection."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    },
+    {
+      "count": 2,
+      "points": 10
+    },
+    {
+      "count": 3,
+      "points": 10
+    },
+    {
+      "count": 4,
+      "points": 10
+    },
+    {
+      "count": 5,
+      "points": 10
+    },
+    {
+      "count": 6,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 91010,
+      "count": 1
+    }
+  ]
+}

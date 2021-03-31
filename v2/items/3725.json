@@ -1,0 +1,44 @@
+{
+  "name": "Honed Invoker\u0027s Leggings",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 750,
+  "default_skin": 334,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "id": 3725,
+  "chat_link": "[\u0026AgGNDgAA]",
+  "icon": "https://render.guildwars2.com/file/1694F1651D4ED9FFABA7077FB9A44DB8A441FA07/455478.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Light",
+    "defense": 63,
+    "infusion_slots": [],
+    "attribute_adjustment": 73.926,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 26
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 18
+        }
+      ]
+    }
+  }
+}

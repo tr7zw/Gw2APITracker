@@ -1,0 +1,47 @@
+{
+  "name": "Pit Fighter\u0027s Sandals",
+  "description": "\u003cc\u003d@flavor\u003eFoot protection for the pit fight.\u003c/c\u003e",
+  "type": "Armor",
+  "level": 37,
+  "rarity": "Masterwork",
+  "vendor_value": 70,
+  "default_skin": 899,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4313,
+  "chat_link": "[\u0026AgHZEAAA]",
+  "icon": "https://render.guildwars2.com/file/D466065466F3EDE0020C9B5A0B68F5551B1837AE/61256.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 57,
+    "infusion_slots": [],
+    "attribute_adjustment": 36.2355,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 13
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 9
+        }
+      ]
+    },
+    "suffix_item_id": 24739
+  }
+}

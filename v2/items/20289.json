@@ -1,0 +1,42 @@
+{
+  "name": "Profane Greatcoat",
+  "description": "",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "default_skin": 1094,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 20289,
+  "chat_link": "[\u0026AgFBTwAA]",
+  "icon": "https://render.guildwars2.com/file/17B5CD2D16919E549D7869C7CF091D6D7AF95CE9/625781.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 32,
+    "infusion_slots": [],
+    "attribute_adjustment": 16.038,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

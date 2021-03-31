@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Marauder Mask of Infiltration",
+  "description": "",
+  "type": "Armor",
+  "level": 54,
+  "rarity": "Rare",
+  "vendor_value": 177,
+  "default_skin": 105,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 560,
+  "chat_link": "[\u0026AgEwAgAA]",
+  "icon": "https://render.guildwars2.com/file/67FB026D5F927ADF0591F747CCE3662F33E42668/61025.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 51,
+    "infusion_slots": [],
+    "attribute_adjustment": 86.724,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 22
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 30
+        }
+      ]
+    },
+    "suffix_item_id": 24704
+  }
+}

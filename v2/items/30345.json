@@ -1,0 +1,45 @@
+{
+  "name": "Windblessed Short Bow",
+  "description": "\u003cc\u003d@flavor\u003e\"May the winds bless the flight of your bolts.\"\u003cbr\u003e—Sangdo Swiftwing\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 21,
+  "rarity": "Masterwork",
+  "vendor_value": 72,
+  "default_skin": 3906,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30345,
+  "chat_link": "[\u0026AgGJdgAA]",
+  "icon": "https://render.guildwars2.com/file/0EFDC626FD430DA00CD9240C95EC6DF0500DB45E/67068.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 229,
+    "max_power": 253,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 98.6,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 35
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

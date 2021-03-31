@@ -1,0 +1,45 @@
+{
+  "name": "Seraph-Issue Shield",
+  "description": "\u003cc\u003d@flavor\u003e\"Recover, reuse, recycle. The equipment we recover is usually a lot less banged up than the soldier.\"\u003cbr\u003e—Sergeant Yarbrough\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 23,
+  "rarity": "Masterwork",
+  "vendor_value": 52,
+  "default_skin": 4012,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30344,
+  "chat_link": "[\u0026AgGIdgAA]",
+  "icon": "https://render.guildwars2.com/file/222F72EDEC31ACB7BC439499F4DD4AA4A94A6C48/65373.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 213,
+    "max_power": 240,
+    "defense": 13,
+    "infusion_slots": [],
+    "attribute_adjustment": 53.856,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 19
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

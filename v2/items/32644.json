@@ -1,0 +1,45 @@
+{
+  "name": "Carrion Steam Brand",
+  "type": "Weapon",
+  "level": 66,
+  "rarity": "Fine",
+  "vendor_value": 56,
+  "default_skin": 5141,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 32644,
+  "chat_link": "[\u0026AgGEfwAA]",
+  "icon": "https://render.guildwars2.com/file/B9BCAA2F79C29066BBA81255E31B223B5A735B3A/68169.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 469,
+    "max_power": 550,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 194.816,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 49
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 49
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 68
+        }
+      ]
+    }
+  }
+}

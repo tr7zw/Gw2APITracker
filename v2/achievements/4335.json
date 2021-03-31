@@ -1,0 +1,81 @@
+{
+  "id": 4335,
+  "name": "Guide to Greater Understanding",
+  "description": "Combine 2 Lesser Vision Crystals with 3 Vials of Blood, 6 Sapphire Orbs, and 15 Globs of Ectoplasm in the Mystic Forge to create an Ectoplasm-Infused Vision Crystal.",
+  "requirement": "Show Xeniph the hope of a brave new world.",
+  "locked_text": "Create and consume an Ectoplasm-Infused Vision Crystal to begin this journey.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 88309
+    },
+    {
+      "type": "Item",
+      "id": 88271
+    },
+    {
+      "type": "Item",
+      "id": 88256
+    },
+    {
+      "type": "Item",
+      "id": 88252
+    },
+    {
+      "type": "Item",
+      "id": 88300
+    },
+    {
+      "type": "Item",
+      "id": 88357
+    },
+    {
+      "type": "Item",
+      "id": 88324
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 88296,
+      "count": 1
+    }
+  ]
+}

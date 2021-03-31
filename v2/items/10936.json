@@ -1,0 +1,40 @@
+{
+  "name": "Strong Student Coat",
+  "description": "",
+  "type": "Armor",
+  "level": 30,
+  "rarity": "Fine",
+  "vendor_value": 47,
+  "default_skin": 143,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 10936,
+  "chat_link": "[\u0026AgG4KgAA]",
+  "icon": "https://render.guildwars2.com/file/E060CCD39DCAC84B0870359D03DE20E9802DA92E/61110.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 74,
+    "infusion_slots": [],
+    "attribute_adjustment": 75.24,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 26
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 19
+        }
+      ]
+    }
+  }
+}

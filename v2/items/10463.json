@@ -1,0 +1,40 @@
+{
+  "name": "Ravaging Scale Gauntlets",
+  "description": "",
+  "type": "Armor",
+  "level": 25,
+  "rarity": "Fine",
+  "vendor_value": 25,
+  "default_skin": 240,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 10463,
+  "chat_link": "[\u0026AgHfKAAA]",
+  "icon": "https://render.guildwars2.com/file/160771D67E2320C267E2C944A92B980C38163A38/63236.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 36,
+    "infusion_slots": [],
+    "attribute_adjustment": 19.8,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 5
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 7
+        }
+      ]
+    }
+  }
+}

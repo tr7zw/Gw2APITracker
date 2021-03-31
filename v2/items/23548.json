@@ -1,0 +1,47 @@
+{
+  "name": "Iron Shackles",
+  "description": "\u003cc\u003d@flavor\u003e\"We chain ourselves to fate by the decisions we make.\"\u003cbr\u003e—Warden Scourgejaw\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 55,
+  "rarity": "Masterwork",
+  "vendor_value": 120,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23548,
+  "chat_link": "[\u0026AgH8WwAA]",
+  "icon": "https://render.guildwars2.com/file/347F6414029A0F95AFE0DC93026E9FC87C56C3A8/220890.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 102.382,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 26
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 26
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 36
+        }
+      ]
+    }
+  }
+}

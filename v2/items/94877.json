@@ -1,0 +1,52 @@
+{
+  "name": "Chatoyant Lens",
+  "description": "Causes you to see extra cats while equipped.\n\u003cc\u003d@flavor\u003eA gift from the treasuries of the King of All Cats.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 248,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94877,
+  "chat_link": "[\u0026AgGdcgEA]",
+  "icon": "https://render.guildwars2.com/file/7056017FCDF3E273CB3F2ECE66DBE435B25B7631/66786.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 188.64,
+    "infix_upgrade": {
+      "id": 1556,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 57
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 31
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 31
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 57
+        }
+      ]
+    }
+  }
+}

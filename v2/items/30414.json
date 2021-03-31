@@ -1,0 +1,49 @@
+{
+  "name": "Lionguard Rifle",
+  "description": "\u003cc\u003d@flavor\u003e\"This rifle served me well.\"\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 45,
+  "rarity": "Masterwork",
+  "vendor_value": 123,
+  "default_skin": 4092,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30414,
+  "chat_link": "[\u0026AgHOdgAA]",
+  "icon": "https://render.guildwars2.com/file/167018D742BBF5120BE4ACE80DE5B049089D20F2/62700.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 420,
+    "max_power": 513,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 249.288,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 62
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 87
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

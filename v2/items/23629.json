@@ -1,0 +1,43 @@
+{
+  "name": "Flashing Mine Blinker",
+  "description": "\u003cc\u003d@flavor\u003e\"Skritt rip these out of the mines all the time. Looks like this one survived the explosion. The skritt didn\u0027t.\"\u003cbr\u003e—Faithspotter\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 45,
+  "rarity": "Fine",
+  "vendor_value": 52,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23629,
+  "chat_link": "[\u0026AgFNXAAA]",
+  "icon": "https://render.guildwars2.com/file/9F28AFEAB395AECCCB0225220A2D489ADD4F4164/220898.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 71.28,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 18
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 25
+        }
+      ]
+    }
+  }
+}

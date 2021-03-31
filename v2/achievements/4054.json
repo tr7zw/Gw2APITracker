@@ -1,0 +1,37 @@
+{
+  "id": 4054,
+  "name": "Holiday Food Drive",
+  "description": "",
+  "requirement": "Donate Wintersday foods to the Amnoon food drive in Divinity\u0027s Reach.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 25,
+      "points": 2
+    },
+    {
+      "count": 50,
+      "points": 3
+    },
+    {
+      "count": 100,
+      "points": 3
+    },
+    {
+      "count": 150,
+      "points": 7
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 86579,
+      "count": 1
+    }
+  ]
+}

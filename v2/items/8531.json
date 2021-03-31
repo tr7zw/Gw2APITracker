@@ -1,0 +1,28 @@
+{
+  "name": "Seared Beef Steak",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 3,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 8531,
+  "chat_link": "[\u0026AgFTIQAA]",
+  "icon": "https://render.guildwars2.com/file/A60F6A14B6BCBFF7D6FA227C5EB1C4514ECA4C4D/63132.png",
+  "details": {
+    "type": "Food",
+    "duration_ms": 600000,
+    "apply_count": 1,
+    "name": "Nourishment",
+    "icon": "https://render.guildwars2.com/file/779D3F0ABE5B46C09CFC57374DA8CC3A495F291C/436367.png",
+    "description": "+20 condition damage\n+10% experience from kills"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Mending Shiverpeak Short Bow of the Hydromancer",
+  "type": "Weapon",
+  "level": 56,
+  "rarity": "Masterwork",
+  "vendor_value": 147,
+  "default_skin": 5113,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25464,
+  "chat_link": "[\u0026AgF4YwAA]",
+  "icon": "https://render.guildwars2.com/file/A2662F69D17EECB037A84A62CDF8A0921CDB353F/534287.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 484,
+    "max_power": 535,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 336.192,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 84
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 118
+        }
+      ]
+    },
+    "suffix_item_id": 24595
+  }
+}

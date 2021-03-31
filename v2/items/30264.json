@@ -1,0 +1,53 @@
+{
+  "name": "Meddler\u0027s Torch",
+  "description": "\u003cc\u003d@flavor\u003e\"You can\u0027t have light without a little fire, now, can you?\"\u003cbr\u003e—Maakel The Immortal\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 132,
+  "default_skin": 5124,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30264,
+  "chat_link": "[\u0026AgE4dgAA]",
+  "icon": "https://render.guildwars2.com/file/A1EBD2A1442009D269D1FF132D5ED342D553411F/62801.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 649,
+    "max_power": 762,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 279.956,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 70
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 70
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 98
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

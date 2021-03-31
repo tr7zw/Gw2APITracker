@@ -1,0 +1,53 @@
+{
+  "name": "Seraph Greatsword",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 9000,
+  "default_skin": 4271,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29762,
+  "chat_link": "[\u0026AgFCdAAA]",
+  "icon": "https://render.guildwars2.com/file/AC19CB2C0D13D72F057452CB776BB66F21ACFBAB/65149.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 882,
+    "max_power": 975,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 603.648,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 151
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 211
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 151
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Stout Cabalist Hood",
+  "type": "Armor",
+  "level": 45,
+  "rarity": "Rare",
+  "vendor_value": 154,
+  "default_skin": 103,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 18221,
+  "chat_link": "[\u0026AgEtRwAA]",
+  "icon": "https://render.guildwars2.com/file/16E5686EC33001A0D77FF5D4320EFBCA39130826/61411.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 31,
+    "infusion_slots": [],
+    "attribute_adjustment": 68.076,
+    "infix_upgrade": {
+      "id": 148,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 24
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 17
+        }
+      ]
+    }
+  }
+}

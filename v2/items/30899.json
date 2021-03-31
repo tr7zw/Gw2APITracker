@@ -1,0 +1,40 @@
+{
+  "name": "Mighty Staff",
+  "description": "",
+  "type": "Weapon",
+  "level": 10,
+  "rarity": "Basic",
+  "vendor_value": 12,
+  "default_skin": 3872,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 30899,
+  "chat_link": "[\u0026AgGzeAAA]",
+  "icon": "https://render.guildwars2.com/file/FA1C40555C74D2BAAED3729F7B2560F517E2171A/66214.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 143,
+    "max_power": 161,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 34.424,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Legionnaire Sword of Vision",
+  "type": "Weapon",
+  "level": 70,
+  "rarity": "Exotic",
+  "vendor_value": 236,
+  "default_skin": 5090,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32320,
+  "chat_link": "[\u0026AgFAfgAA]",
+  "icon": "https://render.guildwars2.com/file/BABE28A56ABF5B4EDFFB334A1068B774CE077A58/67676.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 765,
+    "max_power": 846,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 282.48,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 71
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 71
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 99
+        }
+      ]
+    },
+    "suffix_item_id": 24600
+  }
+}

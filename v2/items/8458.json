@@ -1,0 +1,32 @@
+{
+  "name": "Armor Booster",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 0,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 8458,
+  "chat_link": "[\u0026AgEKIQAA]",
+  "icon": "https://render.guildwars2.com/file/9D73A9FFD9E99376A445C7CEE7DEA40F72F05B3F/434415.png",
+  "details": {
+    "type": "Immediate",
+    "duration_ms": 3600000,
+    "apply_count": 1,
+    "name": "5% Damage Reduction",
+    "icon": "https://render.guildwars2.com/file/54520D5A0C0A0794980C15DF9D31E7D7033F9980/436373.png",
+    "description": "Decrease incoming damage by 5%.\n\u003cc\u003d@reminder\u003eWill be removed if you enter competitive PvP or a raid.\u003c/c\u003e"
+  }
+}

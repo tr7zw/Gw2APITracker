@@ -1,0 +1,52 @@
+{
+  "name": "Bard\u0027s Valley Shield",
+  "description": "\u003cc\u003d@flavor\u003e\"Until we get through the Nightmare Court, we have extra supplies.\"\u003cbr\u003e—Explorer Pentt\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 61,
+  "rarity": "Fine",
+  "vendor_value": 52,
+  "default_skin": 4012,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30657,
+  "chat_link": "[\u0026AgHBdwAA]",
+  "icon": "https://render.guildwars2.com/file/222F72EDEC31ACB7BC439499F4DD4AA4A94A6C48/65373.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 438,
+    "max_power": 494,
+    "defense": 32,
+    "infusion_slots": [],
+    "attribute_adjustment": 174.464,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 44
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 44
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 61
+        }
+      ]
+    }
+  }
+}

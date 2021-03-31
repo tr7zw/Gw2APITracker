@@ -1,0 +1,39 @@
+{
+  "name": "Ringmail Armor",
+  "type": "Armor",
+  "level": 18,
+  "rarity": "Fine",
+  "vendor_value": 33,
+  "default_skin": 2,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6315,
+  "chat_link": "[\u0026AgGrGAAA]",
+  "icon": "https://render.guildwars2.com/file/A2D0D6DA90056E76F1BE244F0C9EF333F95D9746/61098.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 58,
+    "infusion_slots": [],
+    "attribute_adjustment": 42.552,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 15
+        }
+      ]
+    }
+  }
+}

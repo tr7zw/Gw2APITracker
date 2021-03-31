@@ -1,0 +1,47 @@
+{
+  "name": "Deserter\u0027s Problem Solver",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 243,
+  "default_skin": 5218,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 53748,
+  "chat_link": "[\u0026AgH00QAA]",
+  "icon": "https://render.guildwars2.com/file/D8325BBDF9DDCA3F422531492B0CEC7BA34C9ACB/66762.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 654,
+    "max_power": 723,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 429.12,
+    "infix_upgrade": {
+      "id": 1014,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 107
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 150
+        }
+      ]
+    }
+  }
+}

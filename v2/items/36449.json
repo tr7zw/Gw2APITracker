@@ -1,0 +1,31 @@
+{
+  "name": "Thimble of Liquid Karma",
+  "description": "Double-click to gain karma.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "BulkConsume",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 36449,
+  "chat_link": "[\u0026AgFhjgAA]",
+  "icon": "https://render.guildwars2.com/file/6DF35B17270BF655560BC800BEE03B5BA95BE305/222728.png",
+  "details": {
+    "type": "Generic"
+  }
+}

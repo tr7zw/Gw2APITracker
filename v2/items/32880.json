@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Steam Trident of Bloodlust",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Masterwork",
+  "vendor_value": 183,
+  "default_skin": 5144,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32880,
+  "chat_link": "[\u0026AgFwgAAA]",
+  "icon": "https://render.guildwars2.com/file/55EE23F7C04B5823F2B2CC5DBB2C636E5F68A6A0/68163.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 673,
+    "max_power": 744,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 499.12,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 125
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 125
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 175
+        }
+      ]
+    },
+    "suffix_item_id": 24573
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": 2628,
+  "name": "Magister\u0027s Pack",
+  "description": "",
+  "requirement": "Collect all  items to construct your Magister\u0027s Pack.",
+  "locked_text": "Complete the Scholar\u0027s Pack collection.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 6379
+    },
+    {
+      "type": "Item",
+      "id": 76660
+    },
+    {
+      "type": "Item",
+      "id": 75567
+    },
+    {
+      "type": "Item",
+      "id": 70671
+    },
+    {
+      "type": "Item",
+      "id": 76010
+    },
+    {
+      "type": "Item",
+      "id": 70981
+    },
+    {
+      "type": "Item",
+      "id": 71394
+    },
+    {
+      "type": "Item",
+      "id": 72958
+    },
+    {
+      "type": "Item",
+      "id": 70881
+    },
+    {
+      "type": "Item",
+      "id": 70818
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 76601,
+      "count": 1
+    }
+  ]
+}

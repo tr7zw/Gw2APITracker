@@ -1,0 +1,44 @@
+{
+  "name": "Honed Drover Shoulders",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 500,
+  "default_skin": 320,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "id": 3720,
+  "chat_link": "[\u0026AgGIDgAA]",
+  "icon": "https://render.guildwars2.com/file/9BC1653C06723D033BBA1F21B84DC649FCD041E4/218906.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Medium",
+    "defense": 32,
+    "infusion_slots": [],
+    "attribute_adjustment": 36.963,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 13
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

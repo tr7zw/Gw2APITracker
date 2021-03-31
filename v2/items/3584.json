@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Genius Helm",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 1250,
+  "default_skin": 275,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Asura"
+  ],
+  "id": 3584,
+  "chat_link": "[\u0026AgEADgAA]",
+  "icon": "https://render.guildwars2.com/file/393054C4473B9DF5BC5C57BCE645C9BF910B9B17/61155.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 44,
+    "infusion_slots": [],
+    "attribute_adjustment": 100.44,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 25
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 25
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 35
+        }
+      ]
+    }
+  }
+}

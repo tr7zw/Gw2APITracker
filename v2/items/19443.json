@@ -1,0 +1,41 @@
+{
+  "name": "Guild Assassin Backpack",
+  "type": "Back",
+  "level": 35,
+  "rarity": "Masterwork",
+  "vendor_value": 1250,
+  "default_skin": 2342,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 19443,
+  "chat_link": "[\u0026AgHzSwAA]",
+  "icon": "https://render.guildwars2.com/file/589DF55AB0A3BF0B26133E2A9B7A49BF00045FFD/65743.png",
+  "details": {
+    "infusion_slots": [],
+    "attribute_adjustment": 22.406,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 8
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

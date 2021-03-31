@@ -1,0 +1,57 @@
+{
+  "name": "Ancient Karka Carapace",
+  "description": "\u003cc\u003d@flavor\u003ePart of the ancient karka that attacked Lion\u0027s Arch. Mysterious magics seem to be woven into its chitinous shell.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 413,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 39559,
+  "chat_link": "[\u0026AgGHmgAA]",
+  "icon": "https://render.guildwars2.com/file/54B7081754096FB299A3E9241FE103E2B4A2CDF2/543898.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 224.07,
+    "infix_upgrade": {
+      "id": 659,
+      "buff": {
+        "skill_id": 15745,
+        "description": "+32 Healing\n+18 Condition Damage\n+18 Toughness"
+      },
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 74
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 110
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 74
+        }
+      ]
+    }
+  }
+}

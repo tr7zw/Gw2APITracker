@@ -1,0 +1,88 @@
+{
+  "id": 3445,
+  "name": "Awakening the Druid Stone",
+  "description": "Continue to cultivate your relationship with nature through tributes to the druid spirits of Draconis Mons.",
+  "requirement": "",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 7209
+    },
+    {
+      "type": "Item",
+      "id": 81052
+    },
+    {
+      "type": "Item",
+      "id": 81168
+    },
+    {
+      "type": "Item",
+      "id": 81153
+    },
+    {
+      "type": "Item",
+      "id": 81114
+    },
+    {
+      "type": "Item",
+      "id": 81062
+    },
+    {
+      "type": "Item",
+      "id": 81020
+    },
+    {
+      "type": "Item",
+      "id": 81050
+    },
+    {
+      "type": "Item",
+      "id": 81064
+    },
+    {
+      "type": "Item",
+      "id": 80998
+    },
+    {
+      "type": "Item",
+      "id": 81201
+    },
+    {
+      "type": "Item",
+      "id": 81006
+    },
+    {
+      "type": "Item",
+      "id": 81200
+    },
+    {
+      "type": "Item",
+      "id": 81035
+    }
+  ],
+  "tiers": [
+    {
+      "count": 14,
+      "points": 3
+    }
+  ],
+  "prerequisites": [
+    3402
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 81089,
+      "count": 1
+    }
+  ]
+}

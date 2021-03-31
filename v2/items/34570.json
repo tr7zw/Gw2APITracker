@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Glyphic Spear of Grawl Slaying",
+  "type": "Weapon",
+  "level": 32,
+  "rarity": "Masterwork",
+  "vendor_value": 96,
+  "default_skin": 5165,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34570,
+  "chat_link": "[\u0026AgEKhwAA]",
+  "icon": "https://render.guildwars2.com/file/D73ABC4D270CCB3016E0B66E0FC9975E19ABC3B9/434762.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 294,
+    "max_power": 324,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 160.616,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 40
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 56
+        }
+      ]
+    },
+    "suffix_item_id": 24646
+  }
+}

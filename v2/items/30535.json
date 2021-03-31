@@ -1,0 +1,44 @@
+{
+  "name": "Lionguard Warhorn",
+  "description": "\u003cc\u003d@flavor\u003e\"A single blast can rally the troops.\"\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 10,
+  "rarity": "Fine",
+  "vendor_value": 15,
+  "default_skin": 3859,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30535,
+  "chat_link": "[\u0026AgFHdwAA]",
+  "icon": "https://render.guildwars2.com/file/F464B3A80B0EFF2105630C0E48BBC6C5CA1CB651/66224.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 149,
+    "max_power": 165,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 22.976,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

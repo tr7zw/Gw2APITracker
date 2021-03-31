@@ -1,0 +1,52 @@
+{
+  "name": "Fort Cadence Longblade",
+  "description": "\u003cc\u003d@flavor\u003e\"I calculate that this weapon will improve your performance in the field by a huge percentage.\"\u003cbr\u003e—Jezza\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 55,
+  "rarity": "Fine",
+  "vendor_value": 72,
+  "default_skin": 5217,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30608,
+  "chat_link": "[\u0026AgGQdwAA]",
+  "icon": "https://render.guildwars2.com/file/C6283C1F74B308A632ECA2257B6EDEE53E9C03EC/62836.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 482,
+    "max_power": 533,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 300.928,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 105
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 75
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 75
+        }
+      ]
+    }
+  }
+}

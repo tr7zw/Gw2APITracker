@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Steam Gizmo of the Hydromancer",
+  "type": "Weapon",
+  "level": 56,
+  "rarity": "Masterwork",
+  "vendor_value": 98,
+  "default_skin": 5202,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32745,
+  "chat_link": "[\u0026AgHpfwAA]",
+  "icon": "https://render.guildwars2.com/file/12F6B21033F0962C25A76AAC31EB2757149CFBA3/68137.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 445,
+    "max_power": 472,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 168.096,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 42
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 59
+        }
+      ]
+    },
+    "suffix_item_id": 24595
+  }
+}

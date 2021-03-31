@@ -1,0 +1,39 @@
+{
+  "name": "Effigy Horn",
+  "description": "\u003cc\u003d@flavor\u003e\"After sifting through the ash, this was all that was still recognizable.\"\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 5,
+  "rarity": "Fine",
+  "vendor_value": 13,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23501,
+  "chat_link": "[\u0026AgHNWwAA]",
+  "icon": "https://render.guildwars2.com/file/D9F5326A2B1C6371B3B45AEB13EF557AD80B3404/66437.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 9.84,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 3
+        }
+      ]
+    }
+  }
+}

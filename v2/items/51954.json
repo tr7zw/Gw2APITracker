@@ -1,0 +1,51 @@
+{
+  "name": "Apostate\u0027s Ravengift",
+  "type": "Weapon",
+  "level": 68,
+  "rarity": "Exotic",
+  "vendor_value": 354,
+  "default_skin": 5117,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 51954,
+  "chat_link": "[\u0026AgHyygAA]",
+  "icon": "https://render.guildwars2.com/file/01BA17EB097060C3A5EAD0F5129D0A32CA59BF47/575179.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 779,
+    "max_power": 860,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 576,
+    "infix_upgrade": {
+      "id": 1012,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 144
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 144
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 202
+        }
+      ]
+    }
+  }
+}

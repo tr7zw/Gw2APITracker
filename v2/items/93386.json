@@ -1,0 +1,32 @@
+{
+  "name": "Spellweaver Glider",
+  "description": "This will unlock the glider skin in your account wardrobe.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 93386,
+  "chat_link": "[\u0026AgHKbAEA]",
+  "icon": "https://render.guildwars2.com/file/B56869F0FB0F334E6F597A79E8ED0DC9EC51FAA6/2292747.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "GliderSkin"
+  }
+}

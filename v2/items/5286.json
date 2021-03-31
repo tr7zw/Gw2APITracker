@@ -1,0 +1,46 @@
+{
+  "name": "Berserker\u0027s Apprentice Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Basic",
+  "vendor_value": 30,
+  "default_skin": 25,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 5286,
+  "chat_link": "[\u0026AgGmFAAA]",
+  "icon": "https://render.guildwars2.com/file/09805A08A8D6325CC60AF26F4C3A903534C1B0E5/61349.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 81,
+    "infusion_slots": [],
+    "attribute_adjustment": 77.337,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 27
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 19
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 19
+        }
+      ]
+    }
+  }
+}

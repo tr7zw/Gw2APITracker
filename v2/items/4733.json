@@ -1,0 +1,47 @@
+{
+  "name": "Bloodclaw\u0027s Leather Mask",
+  "description": "\u003cc\u003d@flavor\u003e\"Great protection and excellent style.\"\u003cbr\u003e—Sheriff Kaargoth Bloodclaw\u003c/c\u003e",
+  "type": "Armor",
+  "level": 28,
+  "rarity": "Masterwork",
+  "vendor_value": 73,
+  "default_skin": 914,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4733,
+  "chat_link": "[\u0026AgF9EgAA]",
+  "icon": "https://render.guildwars2.com/file/3444FB1030D5A11EB29D9550AA2F05ED3FE1A376/61010.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 24,
+    "infusion_slots": [],
+    "attribute_adjustment": 33.966,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 8
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 12
+        }
+      ]
+    },
+    "suffix_item_id": 24730
+  }
+}

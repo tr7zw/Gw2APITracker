@@ -1,0 +1,45 @@
+{
+  "name": "Vigorous Heavy Plate Legguards",
+  "description": "",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Exotic",
+  "vendor_value": 292,
+  "default_skin": 865,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6920,
+  "chat_link": "[\u0026AgEIGwAA]",
+  "icon": "https://render.guildwars2.com/file/B7716C05AC01EF2F74BABF06EB44E83EAF1D90B8/61560.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Heavy",
+    "defense": 163,
+    "infusion_slots": [],
+    "attribute_adjustment": 171.18,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 60
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 43
+        }
+      ]
+    }
+  }
+}

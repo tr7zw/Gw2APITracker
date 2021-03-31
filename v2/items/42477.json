@@ -1,0 +1,50 @@
+{
+  "name": "Settler\u0027s Cabalist Shoulders",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Fine",
+  "vendor_value": 73,
+  "default_skin": 79,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 42477,
+  "chat_link": "[\u0026AgHtpQAA]",
+  "icon": "https://render.guildwars2.com/file/647347660A570B201E410B97F8970243EEC91628/414916.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 55,
+    "infusion_slots": [],
+    "attribute_adjustment": 96.984,
+    "infix_upgrade": {
+      "id": 693,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 34
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 24
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 24
+        }
+      ]
+    }
+  }
+}

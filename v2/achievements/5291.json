@@ -1,0 +1,42 @@
+{
+  "id": 5291,
+  "name": "\"No Quarter\" Mastery",
+  "description": "",
+  "requirement": "Complete  \"No Quarter\" achievement.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 3
+    },
+    {
+      "count": 10,
+      "points": 5
+    },
+    {
+      "count": 19,
+      "points": 7
+    },
+    {
+      "count": 22,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tundra",
+      "id": 508
+    }
+  ]
+}

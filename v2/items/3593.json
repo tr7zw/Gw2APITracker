@@ -1,0 +1,44 @@
+{
+  "name": "Lingering Protean Gloves",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 425,
+  "default_skin": 272,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Asura"
+  ],
+  "id": 3593,
+  "chat_link": "[\u0026AgEJDgAA]",
+  "icon": "https://render.guildwars2.com/file/78FD7E064E0CC3F380C9A40B262E01DAF49EAEF9/339727.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 51,
+    "infusion_slots": [],
+    "attribute_adjustment": 36.963,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 9
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 13
+        }
+      ]
+    }
+  }
+}

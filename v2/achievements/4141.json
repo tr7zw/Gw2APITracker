@@ -1,0 +1,64 @@
+{
+  "id": 4141,
+  "name": "Rebooting IG-6417",
+  "description": "It\u0027s all in the programming.",
+  "requirement": "Download the software needed to repair IG-6417.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 87233
+    },
+    {
+      "type": "Item",
+      "id": 87159
+    },
+    {
+      "type": "Item",
+      "id": 87195
+    },
+    {
+      "type": "Item",
+      "id": 87056
+    },
+    {
+      "type": "Item",
+      "id": 87079
+    },
+    {
+      "type": "Item",
+      "id": 87142
+    },
+    {
+      "type": "Item",
+      "id": 87286
+    },
+    {
+      "type": "Item",
+      "id": 87171
+    }
+  ],
+  "tiers": [
+    {
+      "count": 8,
+      "points": 3
+    }
+  ],
+  "prerequisites": [
+    4103
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 87260,
+      "count": 1
+    }
+  ]
+}

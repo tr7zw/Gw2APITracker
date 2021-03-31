@@ -1,0 +1,38 @@
+{
+  "id": 1974,
+  "tier": 1,
+  "order": 0,
+  "name": "Augury of Death",
+  "description": "\u003cc\u003d@abilitytype\u003eShouts\u003c/c\u003e gain reduced recharge, now siphon health, and gain additional recharge reduction for each foe they hit.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Recharge Reduced",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+      "percent": 10
+    },
+    {
+      "text": "Recharge Reduction per Foe",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+      "percent": 5
+    },
+    {
+      "text": "Life Siphon Damage",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "value": 138,
+      "target": "Power"
+    },
+    {
+      "text": "Life Siphon Healing",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "value": 125,
+      "target": "Healing"
+    }
+  ],
+  "specialization": 34,
+  "icon": "https://render.guildwars2.com/file/CBBA2FA5F20755523E5424D0704B5B6C5F2B7C67/1012570.png"
+}

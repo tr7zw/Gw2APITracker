@@ -1,0 +1,52 @@
+{
+  "name": "Inka Scepter",
+  "description": "\u003cc\u003d@flavor\u003e\"Those imps love magic almost as much I do.\"\u003cbr\u003e—Scholar Inka\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 73,
+  "rarity": "Fine",
+  "vendor_value": 61,
+  "default_skin": 3892,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29549,
+  "chat_link": "[\u0026AgFtcwAA]",
+  "icon": "https://render.guildwars2.com/file/2696C7FBBB99549E700204A9A11F75B0D50CEC2E/65334.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 606,
+    "max_power": 683,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 225.984,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 79
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 56
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        }
+      ]
+    }
+  }
+}

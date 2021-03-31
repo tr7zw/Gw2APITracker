@@ -1,0 +1,31 @@
+{
+  "name": "Shield of Absorption",
+  "facts": [
+    {
+      "text": "Healing",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "value": 1300,
+      "target": "Healing"
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    }
+  ],
+  "description": "Detonate the dome to heal nearby allies.",
+  "icon": "https://render.guildwars2.com/file/299DDE0F181A754CDF396D6A5FA735080361EF46/103704.png",
+  "type": "Weapon",
+  "weapon_type": "Shield",
+  "professions": [
+    "Guardian"
+  ],
+  "slot": "Weapon_5",
+  "flags": [
+    "NoUnderwater"
+  ],
+  "id": 9224,
+  "chat_link": "[\u0026BggkAAA\u003d]"
+}

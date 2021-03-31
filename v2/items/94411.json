@@ -1,0 +1,50 @@
+{
+  "name": "Giver\u0027s Candy Cane Shield of Concentration",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 9763,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94411,
+  "chat_link": "[\u0026AgHLcAEA]",
+  "icon": "https://render.guildwars2.com/file/0F05540701CA0DD35F2FBCA4AB7692E9DF66CDE6/2377349.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 806,
+    "max_power": 909,
+    "defense": 61,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 628,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 120
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 85
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 85
+        }
+      ]
+    },
+    "suffix_item_id": 72339
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Forsaken Thermaul",
+  "type": "Weapon",
+  "level": 65,
+  "rarity": "Exotic",
+  "vendor_value": 342,
+  "default_skin": 5219,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 51814,
+  "chat_link": "[\u0026AgFmygAA]",
+  "icon": "https://render.guildwars2.com/file/64EA021DC05A4D024D807A2075F8494A5977CA2A/67278.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 804,
+    "max_power": 906,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 542.72,
+    "infix_upgrade": {
+      "id": 1011,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 190
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 136
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 136
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Vigil\u0027s Honor Dagger",
+  "type": "Weapon",
+  "level": 30,
+  "rarity": "Masterwork",
+  "vendor_value": 4500,
+  "default_skin": 4981,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 63497,
+  "chat_link": "[\u0026AgEJ+AAA]",
+  "icon": "https://render.guildwars2.com/file/D1D3CDA6CF4EFE7CCCD0CC2ACB4AE6006CD804A9/780653.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 287,
+    "max_power": 304,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 74.12,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 26
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 19
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

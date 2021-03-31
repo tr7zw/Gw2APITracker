@@ -1,0 +1,51 @@
+{
+  "name": "Forsaken Lantern of the Lost",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Exotic",
+  "vendor_value": 220,
+  "default_skin": 5043,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 51678,
+  "chat_link": "[\u0026AgHeyQAA]",
+  "icon": "https://render.guildwars2.com/file/EA4A167CC76ED3BFDC794795D9700F53A2C266A7/779925.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 609,
+    "max_power": 715,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 254.64,
+    "infix_upgrade": {
+      "id": 1011,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 89
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 64
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 64
+        }
+      ]
+    }
+  }
+}

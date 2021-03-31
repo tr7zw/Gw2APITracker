@@ -1,0 +1,41 @@
+{
+  "name": "Asuran Speargun",
+  "description": "",
+  "type": "Weapon",
+  "level": 4,
+  "rarity": "Fine",
+  "vendor_value": 14,
+  "default_skin": 5122,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell"
+  ],
+  "restrictions": [],
+  "id": 30054,
+  "chat_link": "[\u0026AgFmdQAA]",
+  "icon": "https://render.guildwars2.com/file/0F286F119C53F275016502D17CFAC3E6D7990678/434763.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 146,
+    "max_power": 161,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 29.952,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 10
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": 4027,
+  "name": "Library Detective",
+  "description": "",
+  "requirement": "Collect overdue library books—through whatever means necessary.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 86142
+    },
+    {
+      "type": "Item",
+      "id": 86353
+    },
+    {
+      "type": "Item",
+      "id": 86229
+    },
+    {
+      "type": "Item",
+      "id": 85975
+    },
+    {
+      "type": "Item",
+      "id": 85648
+    },
+    {
+      "type": "Item",
+      "id": 85901
+    },
+    {
+      "type": "Item",
+      "id": 85675
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 2
+    },
+    {
+      "count": 7,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 86167,
+      "count": 1
+    }
+  ]
+}

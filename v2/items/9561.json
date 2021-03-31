@@ -1,0 +1,28 @@
+{
+  "name": "Recipe: Crystal Scroll",
+  "description": "Double-click to learn a recipe",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 7,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9561,
+  "chat_link": "[\u0026AgFZJQAA]",
+  "icon": "https://render.guildwars2.com/file/5F531EF81B6261C909491F093B9B0A58675B2452/849378.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 3872
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Glyphic Maul of the Geomancer",
+  "type": "Weapon",
+  "level": 68,
+  "rarity": "Masterwork",
+  "vendor_value": 171,
+  "default_skin": 5222,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34690,
+  "chat_link": "[\u0026AgGChwAA]",
+  "icon": "https://render.guildwars2.com/file/C5B365D6105F76470106A61F4AB96F3E39D10E18/60991.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 659,
+    "max_power": 743,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 442.408,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 111
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 111
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 155
+        }
+      ]
+    },
+    "suffix_item_id": 24603
+  }
+}

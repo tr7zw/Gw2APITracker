@@ -1,0 +1,43 @@
+{
+  "name": "Worm Rancher\u0027s Studded Gloves",
+  "description": "\u003cc\u003d@flavor\u003e\"Good for digging in the dirt!\"\u003cbr\u003e—Sneckit\u003c/c\u003e",
+  "type": "Armor",
+  "level": 18,
+  "rarity": "Masterwork",
+  "vendor_value": 40,
+  "default_skin": 59,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4882,
+  "chat_link": "[\u0026AgESEwAA]",
+  "icon": "https://render.guildwars2.com/file/07A941314810F9342BBBE2970450E1FFE2227430/61031.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 28,
+    "infusion_slots": [],
+    "attribute_adjustment": 15.912,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 6
+        }
+      ]
+    },
+    "suffix_item_id": 24724
+  }
+}

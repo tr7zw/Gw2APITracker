@@ -1,0 +1,118 @@
+{
+  "id": 3212,
+  "name": "Thorough Sampling",
+  "description": "",
+  "requirement": "Find each of the special chests hidden around Bitterfrost Frontier.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Svanir Supplies"
+    },
+    {
+      "type": "Text",
+      "text": "Hot Springs Depths"
+    },
+    {
+      "type": "Text",
+      "text": "Hurler\u0027s Hoard"
+    },
+    {
+      "type": "Text",
+      "text": "Woomulla\u0027s Cache"
+    },
+    {
+      "type": "Text",
+      "text": "Eagle Flight\u0027s Gear"
+    },
+    {
+      "type": "Text",
+      "text": "Woomulla\u0027s Supplies"
+    },
+    {
+      "type": "Text",
+      "text": "Frozen Falls Stockpile"
+    },
+    {
+      "type": "Text",
+      "text": "Grawl Supplies"
+    },
+    {
+      "type": "Text",
+      "text": "Firestone Reserves"
+    },
+    {
+      "type": "Text",
+      "text": "Kodan Nest Egg"
+    },
+    {
+      "type": "Text",
+      "text": "Bedside Dresser"
+    },
+    {
+      "type": "Text",
+      "text": "Dangerous Bridge Stock"
+    },
+    {
+      "type": "Text",
+      "text": "Steam Crate"
+    },
+    {
+      "type": "Text",
+      "text": "Mushroom Trio Stash"
+    },
+    {
+      "type": "Text",
+      "text": "Unstable Remains"
+    },
+    {
+      "type": "Text",
+      "text": "Diving Trunk"
+    },
+    {
+      "type": "Text",
+      "text": "Frozen Ledge Package"
+    },
+    {
+      "type": "Text",
+      "text": "Frozen Bridge Case"
+    },
+    {
+      "type": "Text",
+      "text": "Frozen Peak Chest"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 1
+    },
+    {
+      "count": 15,
+      "points": 1
+    },
+    {
+      "count": 19,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 42605,
+      "count": 3
+    }
+  ]
+}

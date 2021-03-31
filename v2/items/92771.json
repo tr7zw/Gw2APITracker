@@ -1,0 +1,53 @@
+{
+  "name": "Illuminated Boreal Mace",
+  "description": "An Illuminated Boreal weapon, crafted using materials found in Bjora Marches.",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 9165,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92771,
+  "chat_link": "[\u0026AgFjagEA]",
+  "icon": "https://render.guildwars2.com/file/69CBD8051537AB4EAC07D408AE231EB50A15FF92/2247607.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Choking",
+    "min_power": 895,
+    "max_power": 1010,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1539,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 102
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 56
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 102
+        }
+      ]
+    }
+  }
+}

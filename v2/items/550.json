@@ -1,0 +1,43 @@
+{
+  "name": "Strong Marauder Mask of Grenth",
+  "description": "",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 195,
+  "default_skin": 105,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 550,
+  "chat_link": "[\u0026AgEmAgAA]",
+  "icon": "https://render.guildwars2.com/file/67FB026D5F927ADF0591F747CCE3662F33E42668/61025.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 58,
+    "infusion_slots": [],
+    "attribute_adjustment": 100.44,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 35
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 25
+        }
+      ]
+    },
+    "suffix_item_id": 24778
+  }
+}

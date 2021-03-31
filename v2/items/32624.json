@@ -1,0 +1,45 @@
+{
+  "name": "Carrion Steam Short Bow",
+  "type": "Weapon",
+  "level": 66,
+  "rarity": "Fine",
+  "vendor_value": 84,
+  "default_skin": 5139,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 32624,
+  "chat_link": "[\u0026AgFwfwAA]",
+  "icon": "https://render.guildwars2.com/file/05A0E9E8BD7E5144E5FA1D54E0AE4803D536A20D/68162.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 538,
+    "max_power": 594,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 389.632,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 97
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 97
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 136
+        }
+      ]
+    }
+  }
+}

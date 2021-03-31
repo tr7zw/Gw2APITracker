@@ -1,0 +1,45 @@
+{
+  "name": "Lion\u0027s Fang Model II",
+  "description": "\u003cc\u003d@flavor\u003e\"Trade can never stop.\"\u003cbr\u003e—Lionguard\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 16,
+  "rarity": "Masterwork",
+  "vendor_value": 60,
+  "default_skin": 4092,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30342,
+  "chat_link": "[\u0026AgGGdgAA]",
+  "icon": "https://render.guildwars2.com/file/167018D742BBF5120BE4ACE80DE5B049089D20F2/62700.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 223,
+    "max_power": 273,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 75.752,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 27
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

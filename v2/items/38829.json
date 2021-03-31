@@ -1,0 +1,48 @@
+{
+  "name": "Magi\u0027s Tribal Trident",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 5127,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 38829,
+  "chat_link": "[\u0026AgGtlwAA]",
+  "icon": "https://render.guildwars2.com/file/52C4C1DD2A954317701A223EE8D7D5167FCDF7DA/780304.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 905,
+    "max_power": 1000,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 171
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 171
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 239
+        }
+      ]
+    }
+  }
+}

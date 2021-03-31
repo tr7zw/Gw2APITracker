@@ -1,0 +1,36 @@
+{
+  "id": 2069,
+  "tier": 2,
+  "order": 0,
+  "name": "Nomad\u0027s Endurance",
+  "description": "\u003cc\u003d@abilitytype\u003eShatter\u003c/c\u003e skills give vigor, and vigor grants condition damage.",
+  "slot": "Minor",
+  "facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+      "duration": 3,
+      "status": "Vigor",
+      "description": "Endurance regeneration increased by 50%; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+      "duration": 2,
+      "status": "Vigor",
+      "description": "Endurance regeneration increased by 50%; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
+      "value": 150,
+      "target": "ConditionDamage"
+    }
+  ],
+  "specialization": 59,
+  "icon": "https://render.guildwars2.com/file/EC4E5BEAD50EC6A5A91C312EE521B7C6EC56393B/1769961.png"
+}

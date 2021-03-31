@@ -1,0 +1,38 @@
+{
+  "name": "Mighty Trident",
+  "description": "",
+  "type": "Weapon",
+  "level": 8,
+  "rarity": "Basic",
+  "vendor_value": 10,
+  "default_skin": 3857,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 29086,
+  "chat_link": "[\u0026AgGecQAA]",
+  "icon": "https://render.guildwars2.com/file/0C1D90976492C401B61EF1A5272F2B3D593C6592/66274.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 125,
+    "max_power": 138,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 28.704,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 10
+        }
+      ]
+    }
+  }
+}

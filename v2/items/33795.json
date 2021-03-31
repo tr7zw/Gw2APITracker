@@ -1,0 +1,40 @@
+{
+  "name": "Resilient Krytan Trident of Agony",
+  "type": "Weapon",
+  "level": 14,
+  "rarity": "Masterwork",
+  "vendor_value": 57,
+  "default_skin": 5129,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33795,
+  "chat_link": "[\u0026AgEDhAAA]",
+  "icon": "https://render.guildwars2.com/file/7BAE7EA0DAD1BAB0FA0EFA17A1587E031F550CBB/62778.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 196,
+    "max_power": 216,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 67.456,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 24
+        }
+      ]
+    },
+    "suffix_item_id": 24610
+  }
+}

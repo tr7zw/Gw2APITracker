@@ -1,0 +1,40 @@
+{
+  "name": "Healing Shiverpeak Trident of Agony",
+  "type": "Weapon",
+  "level": 14,
+  "rarity": "Masterwork",
+  "vendor_value": 57,
+  "default_skin": 5106,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25657,
+  "chat_link": "[\u0026AgE5ZAAA]",
+  "icon": "https://render.guildwars2.com/file/969AD4BBDD1760576A18136702D2D02260097D52/534292.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 196,
+    "max_power": 216,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 67.456,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 24
+        }
+      ]
+    },
+    "suffix_item_id": 24610
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": 5255,
+  "name": "Special Mission: Iron Scavenger",
+  "description": "",
+  "requirement": "Collect  War Supplies from charr salvage found in the Drizzlewood Coast.",
+  "locked_text": "Unlock by using Iron Legion Special Mission Documents.",
+  "type": "Default",
+  "flags": [
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 300,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 93624,
+      "count": 250
+    }
+  ]
+}

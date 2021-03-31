@@ -1,0 +1,102 @@
+{
+  "id": 3113,
+  "name": "Tablets of the Unseen",
+  "description": "\"The mursaat are an important piece of Tyrian history.\"—Magister Ela Makkay",
+  "requirement": "Read the mursaat tablets scattered around their old fortress.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Tablet 1"
+    },
+    {
+      "type": "Text",
+      "text": "Tablet 2"
+    },
+    {
+      "type": "Text",
+      "text": "Tablet 3"
+    },
+    {
+      "type": "Text",
+      "text": "Tablet 4"
+    },
+    {
+      "type": "Text",
+      "text": "Tablet 5"
+    },
+    {
+      "type": "Text",
+      "text": "Tablet 6"
+    },
+    {
+      "type": "Text",
+      "text": "Tablet 7"
+    },
+    {
+      "type": "Text",
+      "text": "Tablet 8"
+    },
+    {
+      "type": "Text",
+      "text": "Tablet 9"
+    },
+    {
+      "type": "Text",
+      "text": "Tablet 10"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    },
+    {
+      "count": 8,
+      "points": 1
+    },
+    {
+      "count": 9,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 79114,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Banded Helm",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 104,
+  "icon": "https://render.guildwars2.com/file/0AA7D7BCDD5D55B99E162197BF27439BF52EA4AF/61066.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        null,
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

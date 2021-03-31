@@ -1,0 +1,45 @@
+{
+  "name": "Vigorous Duelist Mask",
+  "description": "",
+  "type": "Armor",
+  "level": 25,
+  "rarity": "Masterwork",
+  "vendor_value": 198,
+  "default_skin": 914,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 7197,
+  "chat_link": "[\u0026AgEdHAAA]",
+  "icon": "https://render.guildwars2.com/file/3444FB1030D5A11EB29D9550AA2F05ED3FE1A376/61010.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 21,
+    "infusion_slots": [],
+    "attribute_adjustment": 29.206,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 10
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 7
+        }
+      ]
+    }
+  }
+}

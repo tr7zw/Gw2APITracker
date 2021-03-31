@@ -1,0 +1,44 @@
+{
+  "name": "Mending Shiverpeak Trident of Serpent Slaying",
+  "type": "Weapon",
+  "level": 38,
+  "rarity": "Masterwork",
+  "vendor_value": 108,
+  "default_skin": 5106,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25661,
+  "chat_link": "[\u0026AgE9ZAAA]",
+  "icon": "https://render.guildwars2.com/file/969AD4BBDD1760576A18136702D2D02260097D52/534292.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 335,
+    "max_power": 370,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 200.192,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 50
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 70
+        }
+      ]
+    },
+    "suffix_item_id": 24660
+  }
+}

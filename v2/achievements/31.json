@@ -1,0 +1,29 @@
+{
+  "id": 31,
+  "name": "Giant Slayer",
+  "description": "The bigger they are, the harder they fall.",
+  "requirement": "Kill  giants.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 10,
+      "points": 1
+    },
+    {
+      "count": 100,
+      "points": 5
+    },
+    {
+      "count": 500,
+      "points": 5
+    },
+    {
+      "count": 1000,
+      "points": 5
+    }
+  ]
+}

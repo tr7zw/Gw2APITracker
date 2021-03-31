@@ -1,0 +1,31 @@
+{
+  "name": "Heritage Pauldrons",
+  "type": "Armor",
+  "flags": [
+    "NoCost",
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 808,
+  "icon": "https://render.guildwars2.com/file/E335545BFF023726040BCA765A049147781E7BEF/65785.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        null,
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

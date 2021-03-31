@@ -1,0 +1,28 @@
+{
+  "id": 4242,
+  "name": "[FTT 406] Advanced Dynamics—Speed Wall Level 4",
+  "description": "",
+  "requirement": "Applied / Speed Wall Level 3 Upgrades",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 6,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    4196
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 87781,
+      "count": 1
+    }
+  ]
+}

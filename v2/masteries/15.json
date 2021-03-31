@@ -1,0 +1,50 @@
+{
+  "id": 15,
+  "name": "Skimmer Mount",
+  "requirement": "Complete the Skimmer Ranch task region in Elon Riverlands to unlock the Skimmer Mastery Track.",
+  "order": 3,
+  "background": "https://render.guildwars2.com/file/9E3C519270CEECA95E107DA27B980C7A1AC6AAF9/1770240.png",
+  "region": "Desert",
+  "levels": [
+    {
+      "name": "Nimble Recovery",
+      "description": "Learn to nimbly recover after being knocked off the skimmer and after engaging foes by using Barrel Roll. The skimmer will now grant you protection and swiftness when you\u0027re recovering.",
+      "instruction": "You\u0027ll now be granted swiftness and protection after getting knocked off your mount, or after engaging foes with Barrel Roll. (Cooldown: 10s)",
+      "icon": "https://render.guildwars2.com/file/A53BD8727C2461B0947917A5CCA50F4CB891DD12/1770193.png",
+      "point_cost": 2,
+      "exp_cost": 381000
+    },
+    {
+      "name": "Rejuvenating Revival",
+      "description": "Learn to enhance the rejuvenating properties of Barrel Roll to also heal downed allies.",
+      "instruction": "You can now heal downed allies when you pass through them with Barrel Roll.",
+      "icon": "https://render.guildwars2.com/file/2FEB071CB9E932046495B44BD32A0B3F027EA201/1770194.png",
+      "point_cost": 3,
+      "exp_cost": 457200
+    },
+    {
+      "name": "Ride the Wind",
+      "description": "Learn to ride the wind and increase the height of the hover movement ability to conquer new challenges.",
+      "instruction": "The hover movement ability now hovers at a much greater height.",
+      "icon": "https://render.guildwars2.com/file/227FDDF0DB0B4104CCF143D04851130A1063B6A9/1770195.png",
+      "point_cost": 4,
+      "exp_cost": 558800
+    },
+    {
+      "name": "Nimble Benevolence",
+      "description": "Master the skimmer and learn to share the bonus from Nimble Recovery with all mounts.",
+      "instruction": "All mounts now receive the bonus from Nimble Recovery. Getting knocked off your mount or engaging foes will grant swiftness and protection. (Cooldown: 10s)",
+      "icon": "https://render.guildwars2.com/file/AF5F616037EB6AA8DEDD944BF241460EC43847DF/1770196.png",
+      "point_cost": 5,
+      "exp_cost": 1222375
+    },
+    {
+      "name": "Skimming the Depths",
+      "description": "Use all you\u0027ve learned to teach your skimmer to dive underwater.",
+      "instruction": "Train your skimmer to dive below the water\u0027s surface.",
+      "icon": "https://render.guildwars2.com/file/551A131E52F7BB353404E15A3EA3020E52A2C5E3/2329549.png",
+      "point_cost": 8,
+      "exp_cost": 2000000
+    }
+  ]
+}

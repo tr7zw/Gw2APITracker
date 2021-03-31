@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Krytan Mace of Smoldering",
+  "type": "Weapon",
+  "level": 44,
+  "rarity": "Masterwork",
+  "vendor_value": 80,
+  "default_skin": 5005,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33866,
+  "chat_link": "[\u0026AgFKhAAA]",
+  "icon": "https://render.guildwars2.com/file/D81434679966BBCEB97B7B681833BC38E73694F2/61688.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 374,
+    "max_power": 422,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 121.176,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 42
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 30
+        }
+      ]
+    },
+    "suffix_item_id": 24622
+  }
+}

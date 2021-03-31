@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Tribal Pistol of Vision",
+  "type": "Weapon",
+  "level": 70,
+  "rarity": "Exotic",
+  "vendor_value": 236,
+  "default_skin": 5177,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34155,
+  "chat_link": "[\u0026AgFrhQAA]",
+  "icon": "https://render.guildwars2.com/file/01FE541CE063E197C43D4B233408E1B66C46BD4D/67327.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 741,
+    "max_power": 870,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 282.48,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 71
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 71
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 99
+        }
+      ]
+    },
+    "suffix_item_id": 24600
+  }
+}

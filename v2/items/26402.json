@@ -1,0 +1,49 @@
+{
+  "name": "Cleric\u0027s Soft Wood Scepter of Stamina",
+  "description": "",
+  "type": "Weapon",
+  "level": 75,
+  "rarity": "Exotic",
+  "vendor_value": 248,
+  "default_skin": 3892,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26402,
+  "chat_link": "[\u0026AgEiZwAA]",
+  "icon": "https://render.guildwars2.com/file/2696C7FBBB99549E700204A9A11F75B0D50CEC2E/65334.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 825,
+    "max_power": 930,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 311.2,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 78
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 78
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 109
+        }
+      ]
+    },
+    "suffix_item_id": 24592
+  }
+}

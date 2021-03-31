@@ -1,0 +1,51 @@
+{
+  "name": "Settler\u0027s Conjurer Chest of Divinity",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 63,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 42436,
+  "chat_link": "[\u0026AgHEpQAA]",
+  "icon": "https://render.guildwars2.com/file/76CD08463A05730071D400254141B50E570662D3/61023.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 314,
+    "infusion_slots": [],
+    "attribute_adjustment": 384.12,
+    "infix_upgrade": {
+      "id": 693,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 134
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 96
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 96
+        }
+      ]
+    },
+    "suffix_item_id": 24732
+  }
+}

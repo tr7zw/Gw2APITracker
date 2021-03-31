@@ -1,0 +1,28 @@
+{
+  "name": "Slice of Watermelon",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 2,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 8540,
+  "chat_link": "[\u0026AgFcIQAA]",
+  "icon": "https://render.guildwars2.com/file/D0C7010C0AA60B5793BBDEDF3A2F15C20909F3F2/63074.png",
+  "details": {
+    "type": "Food",
+    "duration_ms": 600000,
+    "apply_count": 1,
+    "name": "Nourishment",
+    "icon": "https://render.guildwars2.com/file/779D3F0ABE5B46C09CFC57374DA8CC3A495F291C/436367.png",
+    "description": "+20% Downed Health\n+10% Experience from Kills"
+  }
+}

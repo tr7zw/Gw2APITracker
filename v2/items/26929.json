@@ -1,0 +1,42 @@
+{
+  "name": "Hearty Soft Wood Warhorn",
+  "description": "",
+  "type": "Weapon",
+  "level": 38,
+  "rarity": "Fine",
+  "vendor_value": 36,
+  "default_skin": 3907,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 26929,
+  "chat_link": "[\u0026AgExaQAA]",
+  "icon": "https://render.guildwars2.com/file/5A0593B5164DE87591029323F7D90775D716001D/65530.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 278,
+    "max_power": 307,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 90.944,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 23
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 32
+        }
+      ]
+    }
+  }
+}

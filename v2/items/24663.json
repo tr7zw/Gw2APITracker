@@ -1,0 +1,54 @@
+{
+  "name": "Minor Sigil of Elemental Slaying",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003ePain\u003cbr\u003eDouble-click to apply to a weapon.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 16,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24663,
+  "chat_link": "[\u0026AgFXYAAA]",
+  "icon": "https://render.guildwars2.com/file/33654F742B6BC79709BDBE5605DCD3F2A6375E5E/221045.png",
+  "details": {
+    "type": "Sigil",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 307,
+      "buff": {
+        "skill_id": 9350,
+        "description": "+3% Damage vs. Elementals\n+1% Damage"
+      },
+      "attributes": []
+    },
+    "suffix": "of Elemental Slaying"
+  }
+}

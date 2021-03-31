@@ -1,0 +1,45 @@
+{
+  "name": "Shield",
+  "description": "\u003cc\u003d@flavor\u003e\"Nothing gets past this shield.\"\u003cbr\u003e—Nessi\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 17,
+  "rarity": "Masterwork",
+  "vendor_value": 42,
+  "default_skin": 3855,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30576,
+  "chat_link": "[\u0026AgFwdwAA]",
+  "icon": "https://render.guildwars2.com/file/7DB35F1B7E15540C901650FE08B635FC7F01C852/66208.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 187,
+    "max_power": 211,
+    "defense": 11,
+    "infusion_slots": [],
+    "attribute_adjustment": 40.188,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 14
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

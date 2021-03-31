@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Flame Guard of Battle",
+  "type": "Weapon",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 111,
+  "default_skin": 5128,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32919,
+  "chat_link": "[\u0026AgGXgAAA]",
+  "icon": "https://render.guildwars2.com/file/9AEC99D35450EEC8F691C97F7770303BF759D9ED/67840.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 329,
+    "max_power": 371,
+    "defense": 22,
+    "infusion_slots": [],
+    "attribute_adjustment": 113.472,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 28
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 40
+        }
+      ]
+    },
+    "suffix_item_id": 24602
+  }
+}

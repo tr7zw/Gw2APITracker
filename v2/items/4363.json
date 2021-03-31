@@ -1,0 +1,51 @@
+{
+  "name": "Tactical Shoulderpads",
+  "description": "\u003cc\u003d@flavor\u003e\"Dye these black for the ultimate in tactical armor.\"\u003cbr\u003e—Tactician Lyan\u003c/c\u003e",
+  "type": "Armor",
+  "level": 67,
+  "rarity": "Masterwork",
+  "vendor_value": 124,
+  "default_skin": 922,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4363,
+  "chat_link": "[\u0026AgELEQAA]",
+  "icon": "https://render.guildwars2.com/file/9D299D4409537FC6390B225AFE42AF15A3E899A9/61282.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Medium",
+    "defense": 62,
+    "infusion_slots": [],
+    "attribute_adjustment": 81.1665,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 20
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 20
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 28
+        }
+      ]
+    },
+    "suffix_item_id": 24739
+  }
+}

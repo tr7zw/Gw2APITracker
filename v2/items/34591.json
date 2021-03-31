@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Glyphic Brand of Accuracy",
+  "type": "Weapon",
+  "level": 26,
+  "rarity": "Masterwork",
+  "vendor_value": 56,
+  "default_skin": 5124,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34591,
+  "chat_link": "[\u0026AgEfhwAA]",
+  "icon": "https://render.guildwars2.com/file/A1EBD2A1442009D269D1FF132D5ED342D553411F/62801.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 222,
+    "max_power": 261,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 61.744,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 15
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 22
+        }
+      ]
+    },
+    "suffix_item_id": 24616
+  }
+}

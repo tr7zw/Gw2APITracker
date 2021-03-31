@@ -1,0 +1,49 @@
+{
+  "name": "Soldier\u0027s Heavy Plate Gauntlets",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 238,
+  "default_skin": 896,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6916,
+  "chat_link": "[\u0026AgEEGwAA]",
+  "icon": "https://render.guildwars2.com/file/2D04F4B417D82BD6AB4714010CE23071A9489961/61558.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 182,
+    "infusion_slots": [],
+    "attribute_adjustment": 128.04,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 45
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 32
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 32
+        }
+      ]
+    }
+  }
+}

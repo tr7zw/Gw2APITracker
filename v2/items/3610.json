@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Electroplated Coat",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 2500,
+  "default_skin": 301,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Asura"
+  ],
+  "id": 3610,
+  "chat_link": "[\u0026AgEaDgAA]",
+  "icon": "https://render.guildwars2.com/file/3817C5DEBB2945A97E7A1BE4B0524149C3A078DD/61158.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 216,
+    "infusion_slots": [],
+    "attribute_adjustment": 225.99,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 56
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 79
+        }
+      ]
+    }
+  }
+}

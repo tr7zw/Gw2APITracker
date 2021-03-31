@@ -1,0 +1,49 @@
+{
+  "name": "Rampager\u0027s Soft Wood Torch of Grawl Slaying",
+  "description": "",
+  "type": "Weapon",
+  "level": 78,
+  "rarity": "Rare",
+  "vendor_value": 192,
+  "default_skin": 3890,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27470,
+  "chat_link": "[\u0026AgFOawAA]",
+  "icon": "https://render.guildwars2.com/file/FA56C5DD5D7494F25D980E432BA129F44209ED0E/63136.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 676,
+    "max_power": 794,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 290.952,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 73
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 102
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 73
+        }
+      ]
+    },
+    "suffix_item_id": 24647
+  }
+}

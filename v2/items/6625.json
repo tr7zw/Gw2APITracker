@@ -1,0 +1,45 @@
+{
+  "name": "Vigorous Chainmail Footgear",
+  "description": "",
+  "type": "Armor",
+  "level": 30,
+  "rarity": "Fine",
+  "vendor_value": 81,
+  "default_skin": 2041,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6625,
+  "chat_link": "[\u0026AgHhGQAA]",
+  "icon": "https://render.guildwars2.com/file/061CAE3A9244396F68B543089E43A11EC5E933C3/61096.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 43,
+    "infusion_slots": [],
+    "attribute_adjustment": 25.08,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 9
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

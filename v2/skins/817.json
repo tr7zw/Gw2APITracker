@@ -1,0 +1,31 @@
+{
+  "name": "Heritage Bandana",
+  "type": "Armor",
+  "flags": [
+    "NoCost",
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 817,
+  "icon": "https://render.guildwars2.com/file/F5B8C6B406B5F8C62B05D96B0861AD3907ACFE3B/65885.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "dye_slots": {
+      "default": [
+        null,
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

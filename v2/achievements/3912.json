@@ -1,0 +1,27 @@
+{
+  "id": 3912,
+  "name": "The Lost Dolyak",
+  "description": "Search southern Stampede Uplands for Jeppa\u0027s lost dolyak, and then speak to Jeppa.",
+  "requirement": "",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Find Bismuth in southern Stampede Uplands."
+    },
+    {
+      "type": "Text",
+      "text": "Help Jeppa reach her destination and talk to her about Bismuth."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 2,
+      "points": 1
+    }
+  ]
+}

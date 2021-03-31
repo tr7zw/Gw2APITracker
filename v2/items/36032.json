@@ -1,0 +1,26 @@
+{
+  "name": "Rotten Egg",
+  "description": "Double-click to open a carton of rotten eggs.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 0,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSell",
+    "NoUnderwater",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 36032,
+  "chat_link": "[\u0026AgHAjAAA]",
+  "icon": "https://render.guildwars2.com/file/5FC1B2D9C0BC0365CB6E5C943D2E7E1F58520241/63158.png",
+  "details": {
+    "type": "Generic"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": 185,
+  "name": "Manor Magnate",
+  "description": "Beetlestone\u0027s bane.",
+  "requirement": "Explored Caudecus\u0027s Manor.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Story Mode"
+    },
+    {
+      "type": "Text",
+      "text": "Explorable Mode—Asura Path"
+    },
+    {
+      "type": "Text",
+      "text": "Explorable Mode—Seraph Path"
+    },
+    {
+      "type": "Text",
+      "text": "Explorable Mode—Butler\u0027s Path"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 2,
+      "points": 5
+    },
+    {
+      "count": 3,
+      "points": 5
+    },
+    {
+      "count": 4,
+      "points": 5
+    }
+  ]
+}

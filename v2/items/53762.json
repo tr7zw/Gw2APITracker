@@ -1,0 +1,47 @@
+{
+  "name": "Survivor\u0027s Scramasax",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 162,
+  "default_skin": 5114,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 53762,
+  "chat_link": "[\u0026AgEC0gAA]",
+  "icon": "https://render.guildwars2.com/file/FDFA591D37EE36CF7DE4D50A49D3C8C80E246A5D/534279.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 607,
+    "max_power": 645,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 214.56,
+    "infix_upgrade": {
+      "id": 1013,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 54
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 75
+        }
+      ]
+    }
+  }
+}

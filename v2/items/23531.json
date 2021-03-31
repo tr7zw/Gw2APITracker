@@ -1,0 +1,47 @@
+{
+  "name": "Iron Legion Machine Gun Gear",
+  "description": "\u003cc\u003d@flavor\u003e\"These guns have so many gears, I\u0027m sure the one this is from wont be missing it.\"\u003cbr\u003e—Legionnaire Sleekfur\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 56,
+  "rarity": "Fine",
+  "vendor_value": 62,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23531,
+  "chat_link": "[\u0026AgHrWwAA]",
+  "icon": "https://render.guildwars2.com/file/A64CDE12565E07F00470D710377A5EAB5E953816/62264.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 96.36,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 24
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 24
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 34
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Magician Gloves",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 73,
+  "icon": "https://render.guildwars2.com/file/74ED02B1E2590EA9311EA7CBCBD7C1B54C5D1314/61075.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        null,
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

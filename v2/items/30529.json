@@ -1,0 +1,45 @@
+{
+  "name": "Wyld Hunt Training Short Bow",
+  "description": "\u003cc\u003d@flavor\u003e\"Fires with deadly accuracy.\"\u003cbr\u003e—Diantha\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 16,
+  "rarity": "Masterwork",
+  "vendor_value": 60,
+  "default_skin": 3860,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30529,
+  "chat_link": "[\u0026AgFBdwAA]",
+  "icon": "https://render.guildwars2.com/file/32AE4DE8B03E026B54E1726C6EFBD5FAF4C09DD9/67395.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 205,
+    "max_power": 226,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 75.752,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 27
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

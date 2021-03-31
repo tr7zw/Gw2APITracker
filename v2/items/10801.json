@@ -1,0 +1,42 @@
+{
+  "name": "Rejuvenating Gladiator Boots",
+  "description": "",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 102,
+  "default_skin": 229,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 10801,
+  "chat_link": "[\u0026AgExKgAA]",
+  "icon": "https://render.guildwars2.com/file/E203A0B67642F814299FD622DF2F522A13B321B3/61526.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 59,
+    "infusion_slots": [],
+    "attribute_adjustment": 36.963,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 9
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 13
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 3735,
+  "name": "Breaking the Bank: Vault 2",
+  "description": "What have you got to lose?",
+  "requirement": "Guess the correct chest in the second mysterious bank vault.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    }
+  ],
+  "prerequisites": [
+    3703
+  ],
+  "point_cap": -1,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 82626,
+      "count": 1
+    }
+  ]
+}

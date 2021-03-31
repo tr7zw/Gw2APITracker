@@ -1,0 +1,42 @@
+{
+  "name": "Giver\u0027s Gladiator Chestplate",
+  "description": "",
+  "type": "Armor",
+  "level": 65,
+  "rarity": "Rare",
+  "vendor_value": 248,
+  "default_skin": 212,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 38190,
+  "chat_link": "[\u0026AgEulQAA]",
+  "icon": "https://render.guildwars2.com/file/773CFA0FB70CF76D7624740C45C59807CE05563C/61527.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 239,
+    "infusion_slots": [],
+    "attribute_adjustment": 252.153,
+    "infix_upgrade": {
+      "id": 629,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 88
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 63
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Verdant Rifle of Earth",
+  "type": "Weapon",
+  "level": 53,
+  "rarity": "Rare",
+  "vendor_value": 212,
+  "default_skin": 5203,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34778,
+  "chat_link": "[\u0026AgHahwAA]",
+  "icon": "https://render.guildwars2.com/file/58579456F005C2967AEF7566C7530D99BBB45864/434876.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 537,
+    "max_power": 656,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 338.544,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 118
+        }
+      ]
+    },
+    "suffix_item_id": 24559
+  }
+}

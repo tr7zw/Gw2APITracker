@@ -1,0 +1,48 @@
+{
+  "name": "Berserker\u0027s Archon Helm",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 1250,
+  "default_skin": 327,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "id": 3541,
+  "chat_link": "[\u0026AgHVDQAA]",
+  "icon": "https://render.guildwars2.com/file/0AE455A9E0A6E20567C3B3E929F110F9765A08A6/414925.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 44,
+    "infusion_slots": [],
+    "attribute_adjustment": 100.44,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 35
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 25
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 25
+        }
+      ]
+    }
+  }
+}

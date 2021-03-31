@@ -1,0 +1,82 @@
+{
+  "id": 2557,
+  "name": "Ad Infinitum II: Upper Bound",
+  "description": "Unlock all 11 fractal tier 2 components to work towards building the legendary fractal backpack.",
+  "requirement": "Collect all  fractal tier 2 components.",
+  "locked_text": "Complete Ad Infinitum I, then talk to Kelvei in the Fractals of the Mists.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 75816
+    },
+    {
+      "type": "Item",
+      "id": 76417
+    },
+    {
+      "type": "Item",
+      "id": 72905
+    },
+    {
+      "type": "Item",
+      "id": 75477
+    },
+    {
+      "type": "Item",
+      "id": 77109
+    },
+    {
+      "type": "Item",
+      "id": 76623
+    },
+    {
+      "type": "Item",
+      "id": 76964
+    },
+    {
+      "type": "Item",
+      "id": 75164
+    },
+    {
+      "type": "Skin",
+      "id": 2378
+    },
+    {
+      "type": "Item",
+      "id": 73755
+    },
+    {
+      "type": "Item",
+      "id": 75887
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 2
+    },
+    {
+      "count": 11,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 73527,
+      "count": 1
+    }
+  ]
+}

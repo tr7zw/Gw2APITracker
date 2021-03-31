@@ -1,0 +1,51 @@
+{
+  "name": "Soldier\u0027s Bandit Bugle",
+  "description": "",
+  "type": "Weapon",
+  "level": 75,
+  "rarity": "Masterwork",
+  "vendor_value": 700,
+  "default_skin": 3920,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 35508,
+  "chat_link": "[\u0026AgG0igAA]",
+  "icon": "https://render.guildwars2.com/file/365E2BE425E494E30CDAF9099D1C39B2FA37331C/66751.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 616,
+    "max_power": 681,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 254.252,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 89
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 64
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 64
+        }
+      ]
+    }
+  }
+}

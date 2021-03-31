@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Glyphic Axe of Bloodlust",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Masterwork",
+  "vendor_value": 122,
+  "default_skin": 5192,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34675,
+  "chat_link": "[\u0026AgFzhwAA]",
+  "icon": "https://render.guildwars2.com/file/775ED24CE0C0F5749BAD66DD9778BDE4DA37AF4A/62850.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 638,
+    "max_power": 779,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 249.56,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 62
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 62
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 87
+        }
+      ]
+    },
+    "suffix_item_id": 24573
+  }
+}

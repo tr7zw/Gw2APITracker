@@ -1,0 +1,53 @@
+{
+  "name": "Wupwup Short Bow",
+  "description": "\u003cc\u003d@flavor\u003e\"Hunt.\"\u003cbr\u003e—Wupwup Chief\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 63,
+  "rarity": "Masterwork",
+  "vendor_value": 162,
+  "default_skin": 5139,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30152,
+  "chat_link": "[\u0026AgHIdQAA]",
+  "icon": "https://render.guildwars2.com/file/05A0E9E8BD7E5144E5FA1D54E0AE4803D536A20D/68162.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 552,
+    "max_power": 610,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 396.712,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 139
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 99
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 99
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

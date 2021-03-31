@@ -1,0 +1,56 @@
+{
+  "id": 3089,
+  "name": "Bloodstone Sightings",
+  "description": "",
+  "requirement": "Find and identify bloodstone-crazed creatures throughout Tyria.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 79312
+    },
+    {
+      "type": "Item",
+      "id": 79342
+    },
+    {
+      "type": "Item",
+      "id": 79320
+    },
+    {
+      "type": "Item",
+      "id": 79322
+    },
+    {
+      "type": "Item",
+      "id": 79343
+    },
+    {
+      "type": "Item",
+      "id": 79319
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 4
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 79280,
+      "count": 10
+    }
+  ]
+}

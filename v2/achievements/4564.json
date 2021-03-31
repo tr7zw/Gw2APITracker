@@ -1,0 +1,32 @@
+{
+  "id": 4564,
+  "name": "Grand Prize",
+  "description": "",
+  "requirement": "Uncover hidden treasures in the resplendent dwarven treasure cache.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 450
+    }
+  ]
+}

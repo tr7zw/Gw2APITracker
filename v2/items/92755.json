@@ -1,0 +1,53 @@
+{
+  "name": "Illuminated Boreal Warhorn",
+  "description": "An Illuminated Boreal weapon, crafted using materials found in Bjora Marches.",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 9176,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92755,
+  "chat_link": "[\u0026AgFTagEA]",
+  "icon": "https://render.guildwars2.com/file/0E10E707AD604B6DD357EAB9F1A8386AF6441AEB/2247708.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Choking",
+    "min_power": 814,
+    "max_power": 900,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1539,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 102
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 56
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 102
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Survivor\u0027s Griffoncrack",
+  "type": "Weapon",
+  "level": 14,
+  "rarity": "Masterwork",
+  "vendor_value": 42,
+  "default_skin": 5148,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 53416,
+  "chat_link": "[\u0026AgGo0AAA]",
+  "icon": "https://render.guildwars2.com/file/360309706ADF99FEFCEB6659F3357AF8B25AA841/534284.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 203,
+    "max_power": 238,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 40.188,
+    "infix_upgrade": {
+      "id": 1013,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 10
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 14
+        }
+      ]
+    }
+  }
+}

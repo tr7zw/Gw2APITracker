@@ -1,0 +1,27 @@
+{
+  "name": "Centaur Feed",
+  "description": "Double-click to gain a hero point.\u003cbr\u003eThis is the feed from the local centaur tribe. It\u0027s mostly berries and grass, but you can smell some mystery ingredient... Must be good.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 1,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "NotUpgradeable",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 22472,
+  "chat_link": "[\u0026AgHIVwAA]",
+  "icon": "https://render.guildwars2.com/file/135535073FE49205B57801F3A94F35F7270274EF/63257.png",
+  "details": {
+    "type": "Generic"
+  }
+}

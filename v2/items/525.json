@@ -1,0 +1,47 @@
+{
+  "name": "Cleric\u0027s Privateer Hat of the Lich",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 165,
+  "default_skin": 102,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 525,
+  "chat_link": "[\u0026AgENAgAA]",
+  "icon": "https://render.guildwars2.com/file/746AA96A7C3E3136087451094F7D4DC403B526E7/61020.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 80,
+    "infusion_slots": [],
+    "attribute_adjustment": 139.978,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 35
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 35
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 49
+        }
+      ]
+    },
+    "suffix_item_id": 24689
+  }
+}

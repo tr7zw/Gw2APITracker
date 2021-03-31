@@ -1,0 +1,44 @@
+{
+  "name": "Strong Scout\u0027s Leggings",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 750,
+  "default_skin": 386,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Human"
+  ],
+  "id": 3751,
+  "chat_link": "[\u0026AgGnDgAA]",
+  "icon": "https://render.guildwars2.com/file/EE34AE4612F94EF408AC040EF2C867C8B55A6F70/218911.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Medium",
+    "defense": 70,
+    "infusion_slots": [],
+    "attribute_adjustment": 73.926,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 26
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 18
+        }
+      ]
+    }
+  }
+}

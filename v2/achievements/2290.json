@@ -1,0 +1,62 @@
+{
+  "id": 2290,
+  "name": "Machined Scepter",
+  "description": "",
+  "requirement": "Collect all  items to forge your Machined Scepter.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 6255
+    },
+    {
+      "type": "Item",
+      "id": 74336
+    },
+    {
+      "type": "Item",
+      "id": 75352
+    },
+    {
+      "type": "Item",
+      "id": 73138
+    },
+    {
+      "type": "Item",
+      "id": 71196
+    },
+    {
+      "type": "Item",
+      "id": 74165
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 72109,
+      "count": 1
+    }
+  ]
+}

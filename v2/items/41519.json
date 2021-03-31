@@ -1,0 +1,48 @@
+{
+  "name": "Sentinel\u0027s Krait Whelk",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 198,
+  "default_skin": 3973,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 41519,
+  "chat_link": "[\u0026AgEvogAA]",
+  "icon": "https://render.guildwars2.com/file/5AFCDED071B62CFA9F2F0B430CEEF23A6E2BA4C0/574983.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 722,
+    "max_power": 797,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 301.824,
+    "infix_upgrade": {
+      "id": 686,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 75
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 75
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 106
+        }
+      ]
+    }
+  }
+}

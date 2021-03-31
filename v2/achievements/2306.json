@@ -1,0 +1,63 @@
+{
+  "id": 2306,
+  "name": "Kamohoali\u0027i Kotaki II: The Perfected Spear",
+  "description": "Your first attempt at crafting the legendary precursor Carcharias has been modestly successful but has not yet yielded the weapon you ultimately desire. This journey has only just begun. Find a teacher, research your procedures, and hone your skills before you try a second time.",
+  "requirement": "",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 76791
+    },
+    {
+      "type": "Item",
+      "id": 73008
+    },
+    {
+      "type": "Item",
+      "id": 75609
+    },
+    {
+      "type": "Item",
+      "id": 71600
+    },
+    {
+      "type": "Item",
+      "id": 71534
+    },
+    {
+      "type": "Item",
+      "id": 74888
+    },
+    {
+      "type": "Item",
+      "id": 72748
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 72970,
+      "count": 1
+    }
+  ]
+}

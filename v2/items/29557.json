@@ -1,0 +1,53 @@
+{
+  "name": "Drakkar Speargun",
+  "description": "\u003cc\u003d@flavor\u003e\"Even the depths require much.\"\u003cbr\u003e—Worthy Burden\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 79,
+  "rarity": "Masterwork",
+  "vendor_value": 195,
+  "default_skin": 5091,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29557,
+  "chat_link": "[\u0026AgF1cwAA]",
+  "icon": "https://render.guildwars2.com/file/935CD7A5037BB9F3C46E0D770D2DD9730ED74A18/62495.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 733,
+    "max_power": 810,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 549.576,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 192
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 137
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 137
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Verdant Axe of Water",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 156,
+  "default_skin": 5079,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34806,
+  "chat_link": "[\u0026AgH2hwAA]",
+  "icon": "https://render.guildwars2.com/file/606030E1F59700B41538A20D4A9D459806CCF645/434869.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 534,
+    "max_power": 653,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 200.88,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 50
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 50
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 70
+        }
+      ]
+    },
+    "suffix_item_id": 24550
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Mending Norn Dagger of Ogre Slaying",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Rare",
+  "vendor_value": 126,
+  "default_skin": 5228,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25030,
+  "chat_link": "[\u0026AgHGYQAA]",
+  "icon": "https://render.guildwars2.com/file/2F11C70CBD6B7CDFF2D21CD611CC4202DDB8BFED/575168.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 436,
+    "max_power": 463,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 140.256,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 35
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 49
+        }
+      ]
+    },
+    "suffix_item_id": 24656
+  }
+}

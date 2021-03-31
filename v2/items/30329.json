@@ -1,0 +1,53 @@
+{
+  "name": "Pagga\u0027s Shield",
+  "description": "\u003cc\u003d@flavor\u003e\"Its too bad this wont block the stench of this place.\"\u003cbr\u003e—Magister Pagga\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 75,
+  "rarity": "Masterwork",
+  "vendor_value": 124,
+  "default_skin": 5207,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30329,
+  "chat_link": "[\u0026AgF5dgAA]",
+  "icon": "https://render.guildwars2.com/file/A2B7C080B75DCC1C65DB50746CB0E90356240667/434774.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 610,
+    "max_power": 687,
+    "defense": 46,
+    "infusion_slots": [],
+    "attribute_adjustment": 254.252,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 89
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 64
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 64
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

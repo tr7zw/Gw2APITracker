@@ -1,0 +1,27 @@
+{
+  "name": "Shy Peach Dye",
+  "description": "Double-click to unlock this dye color for all characters.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 5,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell"
+  ],
+  "restrictions": [],
+  "id": 20378,
+  "chat_link": "[\u0026AgGaTwAA]",
+  "icon": "https://render.guildwars2.com/file/4C6A69A2F750523C239A075656E719ED07492B2E/66652.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "Dye",
+    "color_id": -1
+  }
+}

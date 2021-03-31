@@ -1,0 +1,38 @@
+{
+  "name": "Leather Leggings",
+  "description": "",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 1,
+  "default_skin": 5,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoMysticForge",
+    "NoSalvage",
+    "NotUpgradeable",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6473,
+  "chat_link": "[\u0026AgFJGQAA]",
+  "icon": "https://render.guildwars2.com/file/5AEBD46A0ACC3C3CE1EBB60F0445322D14049171/61348.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Medium",
+    "defense": 15,
+    "infusion_slots": [],
+    "attribute_adjustment": 6.318,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    }
+  }
+}

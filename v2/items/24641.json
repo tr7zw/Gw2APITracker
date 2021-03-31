@@ -1,0 +1,56 @@
+{
+  "name": "Major Sigil of Undead Slaying",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003ePain\u003cbr\u003eDouble-click to apply to a weapon.",
+  "type": "UpgradeComponent",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 108,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix"
+  ],
+  "restrictions": [],
+  "id": 24641,
+  "chat_link": "[\u0026AgFBYAAA]",
+  "icon": "https://render.guildwars2.com/file/4F4B5EB9F60BE6A31E5DE7120F61E9E5571BD454/340595.png",
+  "details": {
+    "type": "Sigil",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 287,
+      "buff": {
+        "skill_id": 9330,
+        "description": "+5% Damage vs. Undead\n+2% Damage"
+      },
+      "attributes": []
+    },
+    "suffix": "of Undead Slaying"
+  }
+}

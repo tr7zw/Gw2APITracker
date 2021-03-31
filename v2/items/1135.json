@@ -1,0 +1,40 @@
+{
+  "name": "Honed Worn Scale Coat",
+  "description": "",
+  "type": "Armor",
+  "level": 48,
+  "rarity": "Fine",
+  "vendor_value": 65,
+  "default_skin": 24,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 1135,
+  "chat_link": "[\u0026AgFvBAAA]",
+  "icon": "https://render.guildwars2.com/file/1B9F6D25DCC424192DC3E1375BDFFB02499565FA/61047.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 138,
+    "infusion_slots": [],
+    "attribute_adjustment": 140.256,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 49
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 35
+        }
+      ]
+    }
+  }
+}

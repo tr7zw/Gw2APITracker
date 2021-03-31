@@ -1,0 +1,46 @@
+{
+  "name": "Berserker\u0027s Apprentice Shoes",
+  "description": "",
+  "type": "Armor",
+  "level": 65,
+  "rarity": "Basic",
+  "vendor_value": 28,
+  "default_skin": 16,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 5230,
+  "chat_link": "[\u0026AgFuFAAA]",
+  "icon": "https://render.guildwars2.com/file/473A59626E38EFE4FC5B4259AD96B12015A0900F/61344.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 60,
+    "infusion_slots": [],
+    "attribute_adjustment": 56.8815,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 20
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 14
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 14
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Althea\u0027s Ashes",
+  "description": "\u003cc\u003d@flavor\u003eThe legendary beauty who captured the heart of Prince Rurik, only to perish in the Searing of Ascalon.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 413,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 39233,
+  "chat_link": "[\u0026AgFBmQAA]",
+  "icon": "https://render.guildwars2.com/file/0E4C0C67CA06D97FD9E93C08BC600103D15AAF6A/543880.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 224.07,
+    "infix_upgrade": {
+      "id": 584,
+      "buff": {
+        "skill_id": 15742,
+        "description": "+32 Power\n+18 Ferocity\n+18 Precision"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 110
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 74
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 74
+        }
+      ]
+    }
+  }
+}

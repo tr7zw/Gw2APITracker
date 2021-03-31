@@ -1,0 +1,27 @@
+{
+  "id": 1672,
+  "name": "Leave No Survivors",
+  "description": "Story Instance: The Waypoint Conundrum",
+  "requirement": "Vanquish every enemy group, including ambushes and traps, while helping Taimi collect parts for her device.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 15
+    }
+  ],
+  "prerequisites": [
+    1674
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 66605,
+      "count": 1
+    }
+  ]
+}

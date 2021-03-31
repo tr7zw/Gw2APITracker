@@ -1,0 +1,42 @@
+{
+  "name": "Hearty Iron Mace",
+  "description": "",
+  "type": "Weapon",
+  "level": 63,
+  "rarity": "Fine",
+  "vendor_value": 54,
+  "default_skin": 3964,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 26038,
+  "chat_link": "[\u0026AgG2ZQAA]",
+  "icon": "https://render.guildwars2.com/file/415D42C379B3AE75721E59D76E5F170926C416C1/65228.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 505,
+    "max_power": 570,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 182.592,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 46
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 64
+        }
+      ]
+    }
+  }
+}

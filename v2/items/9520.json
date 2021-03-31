@@ -1,0 +1,28 @@
+{
+  "name": "Recipe: Iron Legion Helm",
+  "description": "A recipe to make a Iron Legion Helm",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 18,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9520,
+  "chat_link": "[\u0026AgEwJQAA]",
+  "icon": "https://render.guildwars2.com/file/AD151E2D435208CC0B4D32C5F5027409FF3DCC07/849366.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 251
+  }
+}

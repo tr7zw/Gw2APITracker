@@ -1,0 +1,46 @@
+{
+  "id": 3551,
+  "name": "Lost Pilgrims",
+  "description": "",
+  "requirement": "Speak to the ritual priests Hehmnut, Kahdat, and Nahtem at their gravesites. The priests will only appear in response to a Vision Crystal.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Ritual Priest Hehmnut"
+    },
+    {
+      "type": "Text",
+      "text": "Ritual Priest Kahdat"
+    },
+    {
+      "type": "Text",
+      "text": "Ritual Priest Nahtem"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 363
+    }
+  ]
+}

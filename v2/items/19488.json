@@ -1,0 +1,45 @@
+{
+  "name": "Guild Caretaker Backpack",
+  "type": "Back",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 6250,
+  "default_skin": 2342,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 19488,
+  "chat_link": "[\u0026AgEgTAAA]",
+  "icon": "https://render.guildwars2.com/file/589DF55AB0A3BF0B26133E2A9B7A49BF00045FFD/65743.png",
+  "details": {
+    "infusion_slots": [],
+    "attribute_adjustment": 75.456,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 19
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 19
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 26
+        }
+      ]
+    }
+  }
+}

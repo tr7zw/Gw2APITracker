@@ -1,0 +1,53 @@
+{
+  "name": "Lionguard Staff",
+  "description": "",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 5000,
+  "default_skin": 4628,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29811,
+  "chat_link": "[\u0026AgFzdAAA]",
+  "icon": "https://render.guildwars2.com/file/A3E0D112FAD0DA24BBB31F962D262EA35611002D/779980.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 614,
+    "max_power": 692,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 401.76,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 100
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 141
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 100
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

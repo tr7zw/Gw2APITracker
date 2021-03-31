@@ -1,0 +1,41 @@
+{
+  "name": "Penetrating Krytan Dagger",
+  "type": "Weapon",
+  "level": 31,
+  "rarity": "Fine",
+  "vendor_value": 31,
+  "default_skin": 4997,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 33520,
+  "chat_link": "[\u0026AgHwggAA]",
+  "icon": "https://render.guildwars2.com/file/C625750CE2F7D60366E594CEBC20697439F92A19/61659.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 270,
+    "max_power": 286,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 69.76,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 24
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 17
+        }
+      ]
+    }
+  }
+}

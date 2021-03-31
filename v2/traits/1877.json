@@ -1,0 +1,30 @@
+{
+  "id": 1877,
+  "tier": 3,
+  "order": 0,
+  "name": "Impact Savant",
+  "description": "A percentage of the strike damage you deal is converted into barrier. Your vitality is reduced.",
+  "slot": "Minor",
+  "facts": [
+    {
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/CAE8B4C43FF9D203FA55016700420A0454DFFE02/2229325.png",
+      "value": -180,
+      "target": "Vitality"
+    },
+    {
+      "text": "Conversion Percent",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "percent": 15
+    },
+    {
+      "text": "Conversion Percent",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "percent": 10
+    }
+  ],
+  "specialization": 43,
+  "icon": "https://render.guildwars2.com/file/FD7AF757E6B02C7BC55101B0CFDCDAC87E5DBADD/1128528.png"
+}

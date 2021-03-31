@@ -1,0 +1,43 @@
+{
+  "name": "Oldgate Garb",
+  "description": "\u003cc\u003d@flavor\u003e\"With what\u0027s around here, you can never have too much armor.\"\u003cbr\u003e—Zalvax Brokenclaw\u003c/c\u003e",
+  "type": "Armor",
+  "level": 15,
+  "rarity": "Masterwork",
+  "vendor_value": 60,
+  "default_skin": 863,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4165,
+  "chat_link": "[\u0026AgFFEAAA]",
+  "icon": "https://render.guildwars2.com/file/1EA708F67B9901A55B9F5B3AA36EA00EBAAD50F9/61245.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 50,
+    "infusion_slots": [],
+    "attribute_adjustment": 40.086,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 14
+        }
+      ]
+    },
+    "suffix_item_id": 24739
+  }
+}

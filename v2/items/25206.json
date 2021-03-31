@@ -1,0 +1,41 @@
+{
+  "name": "Mending Shiverpeak Bow",
+  "type": "Weapon",
+  "level": 31,
+  "rarity": "Fine",
+  "vendor_value": 47,
+  "default_skin": 5172,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 25206,
+  "chat_link": "[\u0026AgF2YgAA]",
+  "icon": "https://render.guildwars2.com/file/4BDBBAFF2A590F1663241BF2C733D208A6E40BF2/534282.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 269,
+    "max_power": 315,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 139.52,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 35
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 49
+        }
+      ]
+    }
+  }
+}

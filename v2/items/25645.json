@@ -1,0 +1,41 @@
+{
+  "name": "Mending Shiverpeak Trident",
+  "type": "Weapon",
+  "level": 26,
+  "rarity": "Fine",
+  "vendor_value": 42,
+  "default_skin": 5106,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 25645,
+  "chat_link": "[\u0026AgEtZAAA]",
+  "icon": "https://render.guildwars2.com/file/969AD4BBDD1760576A18136702D2D02260097D52/534292.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 234,
+    "max_power": 258,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 109.952,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 27
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 38
+        }
+      ]
+    }
+  }
+}

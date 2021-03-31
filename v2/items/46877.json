@@ -1,0 +1,61 @@
+{
+  "name": "Tonn\u0027s Warhammer",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of the renowned asura engineer, Demolitionist Tonn.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 10000,
+  "default_skin": 4233,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 46877,
+  "chat_link": "[\u0026AgEdtwAA]",
+  "icon": "https://render.guildwars2.com/file/7C1133B4CA0E90424EDB20012A6D0EA7F093F2D6/632096.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 1034,
+    "max_power": 1166,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      },
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 717.024,
+    "infix_upgrade": {
+      "id": 686,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 179
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 179
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 251
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Norn Pistol of Energy",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Rare",
+  "vendor_value": 183,
+  "default_skin": 5153,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25314,
+  "chat_link": "[\u0026AgHiYgAA]",
+  "icon": "https://render.guildwars2.com/file/5866D4E3A3B1E93A660166B9D3FF2BFD4C37B8B9/575174.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 702,
+    "max_power": 824,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 269.208,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 94
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 67
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 67
+        }
+      ]
+    },
+    "suffix_item_id": 24606
+  }
+}

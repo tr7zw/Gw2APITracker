@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Norn Axe of Corruption",
+  "type": "Weapon",
+  "level": 67,
+  "rarity": "Rare",
+  "vendor_value": 168,
+  "default_skin": 5084,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 24993,
+  "chat_link": "[\u0026AgGhYQAA]",
+  "icon": "https://render.guildwars2.com/file/C7DFB75197D3DF2D94D4275A7832293B2A5EDF63/575160.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 607,
+    "max_power": 742,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 234.216,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 82
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 59
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 59
+        }
+      ]
+    },
+    "suffix_item_id": 24577
+  }
+}

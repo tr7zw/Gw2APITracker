@@ -1,0 +1,48 @@
+{
+  "name": "Berserker\u0027s Legion Visor",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 1250,
+  "default_skin": 336,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "id": 3737,
+  "chat_link": "[\u0026AgGZDgAA]",
+  "icon": "https://render.guildwars2.com/file/F53C7F6EC906531C1DFB9B4E4158FB290B9A6AF0/779817.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 72,
+    "infusion_slots": [],
+    "attribute_adjustment": 100.44,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 35
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 25
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 25
+        }
+      ]
+    }
+  }
+}

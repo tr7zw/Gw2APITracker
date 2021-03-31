@@ -1,0 +1,57 @@
+{
+  "id": 5394,
+  "name": "Tribune Slayer",
+  "description": "",
+  "requirement": "Defeat each of the Dominion tribunes.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Ash"
+    },
+    {
+      "type": "Text",
+      "text": "Blood"
+    },
+    {
+      "type": "Text",
+      "text": "Flame"
+    },
+    {
+      "type": "Text",
+      "text": "Frost"
+    },
+    {
+      "type": "Text",
+      "text": "Iron"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    }
+  ]
+}

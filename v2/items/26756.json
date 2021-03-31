@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Iron Shield of Ice",
+  "description": "",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Masterwork",
+  "vendor_value": 106,
+  "default_skin": 4012,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26756,
+  "chat_link": "[\u0026AgGEaAAA]",
+  "icon": "https://render.guildwars2.com/file/222F72EDEC31ACB7BC439499F4DD4AA4A94A6C48/65373.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 483,
+    "max_power": 545,
+    "defense": 35,
+    "infusion_slots": [],
+    "attribute_adjustment": 194.004,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 68
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 49
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 49
+        }
+      ]
+    },
+    "suffix_item_id": 24557
+  }
+}

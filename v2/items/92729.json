@@ -1,0 +1,49 @@
+{
+  "name": "Boneskinner\u0027s Spine",
+  "description": "A staff wrought from the husk of a boneskinner.",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 9000,
+  "default_skin": 9189,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92729,
+  "chat_link": "[\u0026AgE5agEA]",
+  "icon": "https://render.guildwars2.com/file/BBDC0D5A5EC93B3CDE0C1F7D362507F2525E385C/2247698.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 985,
+    "max_power": 1111,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 239
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 171
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 171
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 3824,
+  "name": "Court Is Adjourned",
+  "description": "",
+  "requirement": "Successfully defeat High Judge Kulul, High Judge Ejele, and High Judge Sidan in the Necropolis.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "High Judge Kulul"
+    },
+    {
+      "type": "Text",
+      "text": "High Judge Sidan"
+    },
+    {
+      "type": "Text",
+      "text": "High Judge Ejele"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 2
+    },
+    {
+      "count": 3,
+      "points": 2
+    }
+  ]
+}

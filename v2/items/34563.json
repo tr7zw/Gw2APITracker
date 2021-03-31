@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Glyphic Icon of Accuracy",
+  "type": "Weapon",
+  "level": 26,
+  "rarity": "Masterwork",
+  "vendor_value": 56,
+  "default_skin": 5178,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34563,
+  "chat_link": "[\u0026AgEDhwAA]",
+  "icon": "https://render.guildwars2.com/file/2344244016425D02CE90BC950B366B7FC0183C37/62837.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 234,
+    "max_power": 249,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 61.744,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 15
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 22
+        }
+      ]
+    },
+    "suffix_item_id": 24616
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Mending Shiverpeak Speargun of Accuracy",
+  "type": "Weapon",
+  "level": 26,
+  "rarity": "Masterwork",
+  "vendor_value": 84,
+  "default_skin": 5058,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25499,
+  "chat_link": "[\u0026AgGbYwAA]",
+  "icon": "https://render.guildwars2.com/file/B144EAD21C1A0A030A79B6A3D5050BFB34C97BFB/534288.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 255,
+    "max_power": 282,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 123.488,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 31
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 43
+        }
+      ]
+    },
+    "suffix_item_id": 24616
+  }
+}

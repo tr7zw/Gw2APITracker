@@ -1,0 +1,27 @@
+{
+  "id": 4069,
+  "name": "Dragon Ball Champion",
+  "description": "Count yourself among the elite of the Dragon Ball.",
+  "requirement": "Win  games of Dragon Ball.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 10,
+      "points": 0
+    }
+  ],
+  "point_cap": -1,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 68617,
+      "count": 1
+    }
+  ]
+}

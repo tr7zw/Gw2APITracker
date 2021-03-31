@@ -1,0 +1,38 @@
+{
+  "name": "Vital Chain Coat",
+  "description": "",
+  "type": "Armor",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 72,
+  "default_skin": 209,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 10265,
+  "chat_link": "[\u0026AgEZKAAA]",
+  "icon": "https://render.guildwars2.com/file/0503060B421E6790A24A7409171F0A0D5A2067F3/63230.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 68,
+    "infusion_slots": [],
+    "attribute_adjustment": 52.8615,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 19
+        }
+      ]
+    }
+  }
+}

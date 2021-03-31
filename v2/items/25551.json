@@ -1,0 +1,44 @@
+{
+  "name": "Mending Norn Staff of Earth",
+  "type": "Weapon",
+  "level": 53,
+  "rarity": "Rare",
+  "vendor_value": 212,
+  "default_skin": 5230,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25551,
+  "chat_link": "[\u0026AgHPYwAA]",
+  "icon": "https://render.guildwars2.com/file/5A220C09725B5FA63BE1336305313E341C0DD803/575180.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 537,
+    "max_power": 605,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 338.544,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 85
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 118
+        }
+      ]
+    },
+    "suffix_item_id": 24559
+  }
+}

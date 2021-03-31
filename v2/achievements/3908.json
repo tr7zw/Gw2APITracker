@@ -1,0 +1,152 @@
+{
+  "id": 3908,
+  "name": "Seeker of Truth and Knowledge",
+  "description": "Story Instance: \"Facing the Truth\"",
+  "requirement": "Find and read all available books and scrolls in Kormir\u0027s library.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "The Sunspear Creed: On a book stand."
+    },
+    {
+      "type": "Text",
+      "text": "Scriptures of Kormir: On a book stand."
+    },
+    {
+      "type": "Text",
+      "text": "Book of Secrets: On a book stand."
+    },
+    {
+      "type": "Text",
+      "text": "Journal: Top floor of the library. Requires discovering Untitled Volume before reading."
+    },
+    {
+      "type": "Text",
+      "text": "The Artist\u0027s Mirror: How Art Reflects Society: Found on the ground floor."
+    },
+    {
+      "type": "Text",
+      "text": "We, Too, Can Be Vessels of Knowledge and Truth: Found on the ground floor."
+    },
+    {
+      "type": "Text",
+      "text": "Poems by Danna, Age 9: Found on the top floor."
+    },
+    {
+      "type": "Text",
+      "text": "Magic and War: An Educated Warning: On a lower level, but only reachable by mount."
+    },
+    {
+      "type": "Text",
+      "text": "Journal of Kormir: Found in the hidden room."
+    },
+    {
+      "type": "Text",
+      "text": "Untitled Volume: Found in the hidden room."
+    },
+    {
+      "type": "Text",
+      "text": "Palace of Bones: The Centaur Tragedy: Found in the hidden room."
+    },
+    {
+      "type": "Text",
+      "text": "The Goddess and the Scourge: Found in the hidden room."
+    },
+    {
+      "type": "Text",
+      "text": "Turai\u0027s Story: Found in the hidden room."
+    },
+    {
+      "type": "Text",
+      "text": "The First City: Found in the hidden room."
+    },
+    {
+      "type": "Text",
+      "text": "Treacherous Waters: Found in the hidden room."
+    },
+    {
+      "type": "Text",
+      "text": "Speak with the Goddess of Truth and Knowledge."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    },
+    {
+      "count": 8,
+      "points": 1
+    },
+    {
+      "count": 9,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 1
+    },
+    {
+      "count": 11,
+      "points": 1
+    },
+    {
+      "count": 12,
+      "points": 1
+    },
+    {
+      "count": 13,
+      "points": 1
+    },
+    {
+      "count": 14,
+      "points": 1
+    },
+    {
+      "count": 15,
+      "points": 1
+    },
+    {
+      "count": 16,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 83395,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": 4535,
+  "name": "Chasing Tales: Mirren the Manipulator",
+  "description": "",
+  "requirement": "Acquire a Dragonsblood scepter and perform tasks to re-create Mirren\u0027s legend.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Acquire the Dragonsblood scepter."
+    },
+    {
+      "type": "Text",
+      "text": "Acquire the heroic spirit of Mirren: deed #1."
+    },
+    {
+      "type": "Text",
+      "text": "Acquire the heroic spirit of Mirren: deed #2."
+    },
+    {
+      "type": "Text",
+      "text": "Acquire the heroic spirit of Mirren: deed #3."
+    },
+    {
+      "type": "Text",
+      "text": "Meet with the spirit of Mirren at a heroic font."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 322
+    }
+  ]
+}

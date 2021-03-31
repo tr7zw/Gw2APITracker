@@ -1,0 +1,39 @@
+{
+  "id": 4517,
+  "name": "Chasing Tales: Ravenous",
+  "description": "An insatiable appetite for war.",
+  "requirement": "Deliver five strikes with daggers without taking damage between strikes.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Belitrea the Blade of Want."
+    },
+    {
+      "type": "Text",
+      "text": "Delivered five strikes with daggers without taking damage in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89450,
+      "count": 1
+    }
+  ]
+}

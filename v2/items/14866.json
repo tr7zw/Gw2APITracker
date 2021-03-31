@@ -1,0 +1,44 @@
+{
+  "name": "Vigorous Bandit Harpoon Gun",
+  "description": "",
+  "type": "Weapon",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 153,
+  "default_skin": 3931,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 14866,
+  "chat_link": "[\u0026AgESOgAA]",
+  "icon": "https://render.guildwars2.com/file/AB777F09D729BBAD795256E5CFE51365B8AAB4E9/779883.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 339,
+    "max_power": 375,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 197.136,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 69
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 49
+        }
+      ]
+    }
+  }
+}

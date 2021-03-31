@@ -1,0 +1,45 @@
+{
+  "name": "Honed Iron Dagger of Ice",
+  "description": "",
+  "type": "Weapon",
+  "level": 47,
+  "rarity": "Rare",
+  "vendor_value": 126,
+  "default_skin": 4009,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26340,
+  "chat_link": "[\u0026AgHkZgAA]",
+  "icon": "https://render.guildwars2.com/file/3254C66ED1675657E0B7C2FBBC09FBF2FBAA74A6/62762.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 446,
+    "max_power": 473,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 144.432,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 51
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 36
+        }
+      ]
+    },
+    "suffix_item_id": 24556
+  }
+}

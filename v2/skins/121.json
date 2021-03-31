@@ -1,0 +1,33 @@
+{
+  "name": "Illustrious Shoulderguard",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 121,
+  "icon": "https://render.guildwars2.com/file/D52D7C621150ADD5AC264256194D9A58B85E447B/699202.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Medium",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        null,
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "metal"
+        }
+      ],
+      "overrides": {}
+    }
+  }
+}

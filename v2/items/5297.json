@@ -1,0 +1,50 @@
+{
+  "name": "Priory\u0027s Historical Breastplate",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 2350,
+  "default_skin": 1380,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 5297,
+  "chat_link": "[\u0026AgGxFAAA]",
+  "icon": "https://render.guildwars2.com/file/BB5B5E02C0E905AFCD7DAE0477DF99C77E03B87A/526100.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 321,
+    "infusion_slots": [],
+    "attribute_adjustment": 339.552,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 85
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 119
+        }
+      ]
+    }
+  }
+}

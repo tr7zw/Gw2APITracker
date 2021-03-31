@@ -1,0 +1,43 @@
+{
+  "name": "Stout Privateer Boots",
+  "type": "Armor",
+  "level": 45,
+  "rarity": "Rare",
+  "vendor_value": 123,
+  "default_skin": 75,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 18206,
+  "chat_link": "[\u0026AgEeRwAA]",
+  "icon": "https://render.guildwars2.com/file/AE01341F9C5DC77201C50D2E220D52AC96FCEDFF/61041.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 66,
+    "infusion_slots": [],
+    "attribute_adjustment": 51.057,
+    "infix_upgrade": {
+      "id": 148,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 18
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 13
+        }
+      ]
+    }
+  }
+}

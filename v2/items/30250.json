@@ -1,0 +1,53 @@
+{
+  "name": "Stygian Spear",
+  "description": "\u003cc\u003d@flavor\u003e\"Quaggan makes the best weapon for the best battles.\"\u003cbr\u003e—Recruit Wongoo\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 72,
+  "rarity": "Masterwork",
+  "vendor_value": 180,
+  "default_skin": 5165,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30250,
+  "chat_link": "[\u0026AgEqdgAA]",
+  "icon": "https://render.guildwars2.com/file/D73ABC4D270CCB3016E0B66E0FC9975E19ABC3B9/434762.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 651,
+    "max_power": 719,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 480.216,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 120
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 120
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 168
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Shaman\u0027s Scallywag Helm",
+  "description": "",
+  "type": "Armor",
+  "level": 65,
+  "rarity": "Exotic",
+  "vendor_value": 275,
+  "default_skin": 92,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 64568,
+  "chat_link": "[\u0026AgE4/AAA]",
+  "icon": "https://render.guildwars2.com/file/021990D72EDC97286192C33973D3A74D4D466BB6/61061.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 91,
+    "infusion_slots": [],
+    "attribute_adjustment": 127.32,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 45
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 32
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 32
+        }
+      ]
+    }
+  }
+}

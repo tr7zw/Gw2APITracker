@@ -1,0 +1,43 @@
+{
+  "name": "Pet Rock",
+  "description": "\u003cc\u003d@flavor\u003eThis used to be a pet for a skritt. A lonely, lonely skritt.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 28,
+  "rarity": "Masterwork",
+  "vendor_value": 73,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23378,
+  "chat_link": "[\u0026AgFSWwAA]",
+  "icon": "https://render.guildwars2.com/file/C15F220F0B4DAAE4FEC6673B4B9E3037F9E0114A/63125.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 42.4575,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 11
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 15
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Obelisk Lightning Orb",
+  "description": "\u003cc\u003d@flavor\u003e\"Why should it stay there shocking passersby when it can be put to good use?\"\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 4,
+  "rarity": "Fine",
+  "vendor_value": 12,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23500,
+  "chat_link": "[\u0026AgHMWwAA]",
+  "icon": "https://render.guildwars2.com/file/0759C04469062C150B34010A15534E21A49A2C55/61968.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 9.36,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 3
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Wren Longbow",
+  "description": "\u003cc\u003d@flavor\u003e\"As the local central outpost, our fortifications are strong, but we must also scout at a distance.\"\u003cbr\u003e—Lightbringer Zykk\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Fine",
+  "vendor_value": 92,
+  "default_skin": 5201,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30318,
+  "chat_link": "[\u0026AgFudgAA]",
+  "icon": "https://render.guildwars2.com/file/0166640705A3797A74F6CFDE79E67FBD9D399CE8/62844.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 633,
+    "max_power": 743,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 460.8,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 115
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 115
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 161
+        }
+      ]
+    }
+  }
+}

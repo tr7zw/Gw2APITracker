@@ -1,0 +1,30 @@
+{
+  "name": "Potion Of Karka Slaying",
+  "description": "\u003cc\u003d@flavor\u003eDeveloped by the Consortium for the good of all.\u003c/c\u003e",
+  "type": "Consumable",
+  "level": 80,
+  "rarity": "Fine",
+  "vendor_value": 2,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 42427,
+  "chat_link": "[\u0026AgG7pQAA]",
+  "icon": "https://render.guildwars2.com/file/72E638C510AC04A068DDBC3C7B3C49D1A860C114/222670.png",
+  "details": {
+    "type": "Utility",
+    "duration_ms": 3600000,
+    "apply_count": 1,
+    "name": "Enhancement",
+    "icon": "https://render.guildwars2.com/file/6F19974638D0E2920E6FB92318B79151DE02A4D2/582465.png",
+    "description": "+8% Damage vs. Karka\n-6% Damage from Karka\n+10% Experience from Kills"
+  }
+}

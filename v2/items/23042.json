@@ -1,0 +1,30 @@
+{
+  "name": "Journeyman\u0027s Salvage Kit",
+  "description": "Double-click to salvage crafting materials from an item in your inventory. 20% chance of rarer materials. 60% chance of salvaging upgrades.",
+  "type": "Tool",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 100,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23042,
+  "chat_link": "[\u0026AgECWgAA]",
+  "icon": "https://render.guildwars2.com/file/7902452AAF4824D66ED0A914CB1C0864D33A116F/66767.png",
+  "details": {
+    "type": "Salvage",
+    "charges": 25
+  }
+}

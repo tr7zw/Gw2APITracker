@@ -1,0 +1,37 @@
+{
+  "name": "Malign Steam Short Bow",
+  "type": "Weapon",
+  "level": 16,
+  "rarity": "Fine",
+  "vendor_value": 30,
+  "default_skin": 5139,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 32386,
+  "chat_link": "[\u0026AgGCfgAA]",
+  "icon": "https://render.guildwars2.com/file/05A0E9E8BD7E5144E5FA1D54E0AE4803D536A20D/68162.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 188,
+    "max_power": 208,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 67.072,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 23
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Krytan Warhammer of Grawl Slaying",
+  "type": "Weapon",
+  "level": 32,
+  "rarity": "Masterwork",
+  "vendor_value": 96,
+  "default_skin": 5022,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33808,
+  "chat_link": "[\u0026AgEQhAAA]",
+  "icon": "https://render.guildwars2.com/file/FBE1BC5F0E3C3A4160E2E9B599F3E125030AB405/61677.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 320,
+    "max_power": 360,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 160.616,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 40
+        }
+      ]
+    },
+    "suffix_item_id": 24646
+  }
+}

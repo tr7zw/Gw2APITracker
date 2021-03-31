@@ -1,0 +1,66 @@
+{
+  "id": 2375,
+  "name": "Mistward Pauldrons",
+  "description": "",
+  "requirement": "Collect all  items and skins to forge your Mistward Pauldrons.",
+  "locked_text": "Complete the Retribution revenant specialization to unlock the Mistward Pauldrons collection.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 224
+    },
+    {
+      "type": "Skin",
+      "id": 206
+    },
+    {
+      "type": "Skin",
+      "id": 226
+    },
+    {
+      "type": "Skin",
+      "id": 138
+    },
+    {
+      "type": "Item",
+      "id": 73606
+    },
+    {
+      "type": "Item",
+      "id": 71279
+    },
+    {
+      "type": "Item",
+      "id": 75958
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 73571,
+      "count": 1
+    }
+  ]
+}

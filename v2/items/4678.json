@@ -1,0 +1,42 @@
+{
+  "name": "Leather Aquabreather",
+  "description": "\u003cc\u003d@flavor\u003e\"Folks don\u0027t just breathe water.\"\u003cbr\u003e—Fisherman Will\u003c/c\u003e",
+  "type": "Armor",
+  "level": 10,
+  "rarity": "Fine",
+  "vendor_value": 19,
+  "default_skin": 856,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4678,
+  "chat_link": "[\u0026AgFGEgAA]",
+  "icon": "https://render.guildwars2.com/file/FA1D042B0845BED8DA3CFA0FAA0837D5EB0207A6/61297.png",
+  "details": {
+    "type": "HelmAquatic",
+    "weight_class": "Medium",
+    "defense": 12,
+    "infusion_slots": [],
+    "attribute_adjustment": 11.488,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

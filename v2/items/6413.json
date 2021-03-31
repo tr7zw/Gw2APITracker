@@ -1,0 +1,44 @@
+{
+  "name": "Mending Greaves",
+  "description": "",
+  "type": "Armor",
+  "level": 48,
+  "rarity": "Fine",
+  "vendor_value": 43,
+  "default_skin": 932,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6413,
+  "chat_link": "[\u0026AgENGQAA]",
+  "icon": "https://render.guildwars2.com/file/CA33A318F0EB66D8E03CD978AC2A5CCE0A6BAE17/61223.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 69,
+    "infusion_slots": [],
+    "attribute_adjustment": 46.752,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 12
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 16
+        }
+      ]
+    }
+  }
+}

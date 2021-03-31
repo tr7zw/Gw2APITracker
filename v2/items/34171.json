@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Tribal Short Bow of Vision",
+  "type": "Weapon",
+  "level": 70,
+  "rarity": "Exotic",
+  "vendor_value": 354,
+  "default_skin": 5147,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34171,
+  "chat_link": "[\u0026AgF7hQAA]",
+  "icon": "https://render.guildwars2.com/file/C62775AB20AA2B026D4BD7145B98A21B0659E3F5/66447.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 765,
+    "max_power": 846,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 564.96,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 141
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 141
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 198
+        }
+      ]
+    },
+    "suffix_item_id": 24600
+  }
+}

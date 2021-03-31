@@ -1,0 +1,49 @@
+{
+  "name": "ooOoo Spear",
+  "description": "\u003cc\u003d@flavor\u003e\"Quaggan like this pointy stick. Makes quaggan scary like pirate.\"\u003cbr\u003e—Duidda\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 37,
+  "rarity": "Masterwork",
+  "vendor_value": 105,
+  "default_skin": 5182,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29490,
+  "chat_link": "[\u0026AgEycwAA]",
+  "icon": "https://render.guildwars2.com/file/95012B4DB2C0FD560A2C679E2992D2563D6C0904/780600.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 328,
+    "max_power": 362,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 193.256,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 68
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 48
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

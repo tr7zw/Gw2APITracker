@@ -1,0 +1,46 @@
+{
+  "name": "Raven Ceremonial Garb",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 297,
+  "default_skin": 9193,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92724,
+  "chat_link": "[\u0026AgE0agEA]",
+  "icon": "https://render.guildwars2.com/file/3202324A9B395C341AD2C264DC4ED0E4903AA394/2247759.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 278,
+    "infusion_slots": [],
+    "attribute_adjustment": 339.552,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 119
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 85
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 85
+        }
+      ]
+    }
+  }
+}

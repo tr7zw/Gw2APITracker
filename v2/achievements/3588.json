@@ -1,0 +1,29 @@
+{
+  "id": 3588,
+  "name": "The Departing",
+  "description": "Journal: The Departing Completed",
+  "requirement": "Find your way back to your team.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 83871,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 389
+    }
+  ]
+}

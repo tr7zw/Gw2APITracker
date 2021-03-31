@@ -1,0 +1,46 @@
+{
+  "name": "Ravaging Reinforced Scale Boots of Dwayna",
+  "description": "",
+  "type": "Armor",
+  "level": 59,
+  "rarity": "Rare",
+  "vendor_value": 153,
+  "default_skin": 74,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 64578,
+  "chat_link": "[\u0026AgFC/AAA]",
+  "icon": "https://render.guildwars2.com/file/17C9516D0F0B2EBA616ED794C00F59411E931702/61014.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 106,
+    "infusion_slots": [],
+    "attribute_adjustment": 73.602,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 18
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 26
+        }
+      ]
+    },
+    "suffix_item_id": 24766
+  }
+}

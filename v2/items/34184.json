@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Tribal Sword of Accuracy",
+  "type": "Weapon",
+  "level": 78,
+  "rarity": "Exotic",
+  "vendor_value": 256,
+  "default_skin": 5066,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34184,
+  "chat_link": "[\u0026AgGIhQAA]",
+  "icon": "https://render.guildwars2.com/file/7F2B1C31F164921E16DCAB0735DADD439E214A0F/66463.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 876,
+    "max_power": 969,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 329.36,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 82
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 82
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 115
+        }
+      ]
+    },
+    "suffix_item_id": 24618
+  }
+}

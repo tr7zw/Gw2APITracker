@@ -1,0 +1,37 @@
+{
+  "name": "Healing Shiverpeak Dirk",
+  "type": "Weapon",
+  "level": 1,
+  "rarity": "Fine",
+  "vendor_value": 6,
+  "default_skin": 5114,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 25000,
+  "chat_link": "[\u0026AgGoYQAA]",
+  "icon": "https://render.guildwars2.com/file/FDFA591D37EE36CF7DE4D50A49D3C8C80E246A5D/534279.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 142,
+    "max_power": 150,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 12.672,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

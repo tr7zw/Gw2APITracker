@@ -1,0 +1,83 @@
+{
+  "id": 2606,
+  "name": "Frostfang II: The Perfected Axe",
+  "description": "Your first attempt at crafting the legendary precursor Tooth of Frostfang has been modestly successful but has not yet yielded the weapon you ultimately desire. This journey has only just begun. Find a teacher, research your procedures, and hone your skills before you try a second time.",
+  "requirement": "",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 73073
+    },
+    {
+      "type": "Item",
+      "id": 71468
+    },
+    {
+      "type": "Item",
+      "id": 76995
+    },
+    {
+      "type": "Item",
+      "id": 75463
+    },
+    {
+      "type": "Item",
+      "id": 72348
+    },
+    {
+      "type": "Item",
+      "id": 76145
+    },
+    {
+      "type": "Item",
+      "id": 77200
+    },
+    {
+      "type": "Item",
+      "id": 70723
+    },
+    {
+      "type": "Item",
+      "id": 74551
+    },
+    {
+      "type": "Item",
+      "id": 74820
+    },
+    {
+      "type": "Item",
+      "id": 76539
+    },
+    {
+      "type": "Item",
+      "id": 76795
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 12,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 75415,
+      "count": 1
+    }
+  ]
+}

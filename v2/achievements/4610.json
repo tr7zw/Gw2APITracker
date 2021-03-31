@@ -1,0 +1,39 @@
+{
+  "id": 4610,
+  "name": "Chasing Tales: Torrent of Magic",
+  "description": "Asaliea was said to be a living conduit of ley energy.",
+  "requirement": "Defeat 30 enemies while wielding a scepter and a focus at the same time.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Asaliea the Channeler."
+    },
+    {
+      "type": "Text",
+      "text": "Defeated 30 enemies while wielding a scepter and a focus at the same time."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89715,
+      "count": 1
+    }
+  ]
+}

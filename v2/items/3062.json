@@ -1,0 +1,40 @@
+{
+  "name": "Strong Rawhide Bracers",
+  "description": "",
+  "type": "Armor",
+  "level": 36,
+  "rarity": "Basic",
+  "vendor_value": 16,
+  "default_skin": 32,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 3062,
+  "chat_link": "[\u0026AgH2CwAA]",
+  "icon": "https://render.guildwars2.com/file/A4FDB6CC2F56DC489CB01753B3216294D3D00626/61034.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 35,
+    "infusion_slots": [],
+    "attribute_adjustment": 24.804,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 9
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

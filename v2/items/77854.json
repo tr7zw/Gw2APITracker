@@ -1,0 +1,61 @@
+{
+  "name": "Malicious Woven Band",
+  "description": "\u003cc\u003d@flavor\u003eA ring woven from the silky threads of Slothasor\u0027s mane.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 495,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "NotUpgradeable",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 77854,
+  "chat_link": "[\u0026AgEeMAEA]",
+  "icon": "https://render.guildwars2.com/file/A6B1C7B1B0BBE333D1090E98E005F0E2E954B1F3/1377808.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 268.884,
+    "stat_choices": [
+      1436,
+      1038,
+      588,
+      1114,
+      585,
+      1097,
+      1064,
+      1269,
+      1262,
+      1268,
+      1366,
+      1549
+    ]
+  },
+  "upgrades_into": [
+    {
+      "upgrade": "Infusion",
+      "item_id": 77899
+    },
+    {
+      "upgrade": "Attunement",
+      "item_id": 77976
+    }
+  ]
+}

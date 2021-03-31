@@ -1,0 +1,54 @@
+{
+  "name": "Minor Sigil of Hobbling",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eEnhancement\u003cbr\u003eDouble-click to apply to a weapon.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 16,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24625,
+  "chat_link": "[\u0026AgExYAAA]",
+  "icon": "https://render.guildwars2.com/file/736DEF53DC2E1C0B02220C9302F61AD70860DA4F/221018.png",
+  "details": {
+    "type": "Sigil",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 271,
+      "buff": {
+        "skill_id": 9302,
+        "description": "Increase Inflicted Cripple Duration: 10%"
+      },
+      "attributes": []
+    },
+    "suffix": "of Hobbling"
+  }
+}

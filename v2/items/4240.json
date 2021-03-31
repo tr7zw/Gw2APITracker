@@ -1,0 +1,40 @@
+{
+  "name": "Iron Legion\u0027s Pauldrons",
+  "description": "",
+  "type": "Armor",
+  "level": 17,
+  "rarity": "Masterwork",
+  "vendor_value": 47,
+  "default_skin": 871,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4240,
+  "chat_link": "[\u0026AgGQEAAA]",
+  "icon": "https://render.guildwars2.com/file/6E60FB219D0308B954EAF4FFC85B2ED0BF6E6B00/61243.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "defense": 21,
+    "infusion_slots": [],
+    "attribute_adjustment": 15.0705,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 5
+        }
+      ]
+    }
+  }
+}

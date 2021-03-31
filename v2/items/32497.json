@@ -1,0 +1,41 @@
+{
+  "name": "Ravaging Steam Gizmo",
+  "type": "Weapon",
+  "level": 51,
+  "rarity": "Fine",
+  "vendor_value": 45,
+  "default_skin": 5202,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 32497,
+  "chat_link": "[\u0026AgHxfgAA]",
+  "icon": "https://render.guildwars2.com/file/12F6B21033F0962C25A76AAC31EB2757149CFBA3/68137.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 372,
+    "max_power": 395,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 135.744,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 34
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 48
+        }
+      ]
+    }
+  }
+}

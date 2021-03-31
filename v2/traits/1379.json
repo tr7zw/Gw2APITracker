@@ -1,0 +1,20 @@
+{
+  "id": 1379,
+  "tier": 2,
+  "order": 1,
+  "name": "Armored Attack",
+  "description": "Gain power based on your toughness.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Attribute Conversion",
+      "type": "BuffConversion",
+      "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
+      "percent": 10,
+      "source": "Toughness",
+      "target": "Power"
+    }
+  ],
+  "specialization": 22,
+  "icon": "https://render.guildwars2.com/file/2BA7BE3562A3A9DDE14DE6D9A40C650379A71918/1012790.png"
+}

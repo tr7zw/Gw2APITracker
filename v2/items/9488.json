@@ -1,0 +1,23 @@
+{
+  "name": "12 Slot Invisible Bag",
+  "description": "12 Slots. Items in this bag will never appear in a sell-to-vendor list and will not move when inventory is sorted.",
+  "type": "Bag",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 22,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 9488,
+  "chat_link": "[\u0026AgEQJQAA]",
+  "icon": "https://render.guildwars2.com/file/96084B0726D57A76A209E2E5913403CB9A5B7AFE/219384.png",
+  "details": {
+    "no_sell_or_sort": true,
+    "size": 12
+  }
+}

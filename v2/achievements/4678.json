@@ -1,0 +1,45 @@
+{
+  "id": 4678,
+  "name": "Skyscale of Ice",
+  "description": "",
+  "requirement": "Infuse your skyscale egg with ice.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 90374
+    },
+    {
+      "type": "Item",
+      "id": 90265
+    },
+    {
+      "type": "Item",
+      "id": 90204
+    },
+    {
+      "type": "Item",
+      "id": 90856
+    }
+  ],
+  "tiers": [
+    {
+      "count": 4,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 90439,
+      "count": 1
+    }
+  ]
+}

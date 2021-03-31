@@ -1,0 +1,34 @@
+{
+  "name": "Heritage Boots",
+  "type": "Armor",
+  "flags": [
+    "NoCost",
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 799,
+  "icon": "https://render.guildwars2.com/file/2E0FD4C2BBCD573043089615963F5246BFDAF33F/65880.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

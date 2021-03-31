@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Glyphic Icon of Debility",
+  "type": "Weapon",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 90,
+  "default_skin": 5178,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34607,
+  "chat_link": "[\u0026AgEvhwAA]",
+  "icon": "https://render.guildwars2.com/file/2344244016425D02CE90BC950B366B7FC0183C37/62837.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 395,
+    "max_power": 420,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 144.228,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 36
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 50
+        }
+      ]
+    },
+    "suffix_item_id": 24634
+  }
+}

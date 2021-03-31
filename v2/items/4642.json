@@ -1,0 +1,51 @@
+{
+  "name": "Magi\u0027s Rubicon Gloves of Melandru",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 6000,
+  "default_skin": 951,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4642,
+  "chat_link": "[\u0026AgEiEgAA]",
+  "icon": "https://render.guildwars2.com/file/BB039726679C9FE5F9A4B3F1C9FFEFD00310FFFA/61292.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 157,
+    "infusion_slots": [],
+    "attribute_adjustment": 128.04,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 32
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 32
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 45
+        }
+      ]
+    },
+    "suffix_item_id": 24771
+  }
+}

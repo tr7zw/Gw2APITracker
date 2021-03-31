@@ -1,0 +1,54 @@
+{
+  "name": "Superior Sigil of Generosity",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eControl\u003cbr\u003eDouble-click to apply to a weapon.",
+  "type": "UpgradeComponent",
+  "level": 60,
+  "rarity": "Exotic",
+  "vendor_value": 216,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 38294,
+  "chat_link": "[\u0026AgGWlQAA]",
+  "icon": "https://render.guildwars2.com/file/19487F3F01F76165F79D0DCAEF3E7E3FFF5DFEFA/526288.png",
+  "details": {
+    "type": "Sigil",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 635,
+      "buff": {
+        "skill_id": 16509,
+        "description": "Transfer a condition upon critically hitting a foe. \u003cbr\u003e\u003cc\u003d@reminder\u003e(Cooldown: 6 Seconds)\u003c/c\u003e"
+      },
+      "attributes": []
+    },
+    "suffix": "of Generosity"
+  }
+}

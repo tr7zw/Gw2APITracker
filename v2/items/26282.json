@@ -1,0 +1,42 @@
+{
+  "name": "Hearty Iron Sword",
+  "description": "",
+  "type": "Weapon",
+  "level": 23,
+  "rarity": "Fine",
+  "vendor_value": 26,
+  "default_skin": 4062,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 26282,
+  "chat_link": "[\u0026AgGqZgAA]",
+  "icon": "https://render.guildwars2.com/file/D10679012504F6AD5829D1DF9F36303FE2EB46B4/64343.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 220,
+    "max_power": 243,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 48.512,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 12
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 17
+        }
+      ]
+    }
+  }
+}

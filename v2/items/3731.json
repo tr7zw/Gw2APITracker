@@ -1,0 +1,48 @@
+{
+  "name": "Berserker\u0027s Wrangler Leggings",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 1875,
+  "default_skin": 341,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "id": 3731,
+  "chat_link": "[\u0026AgGTDgAA]",
+  "icon": "https://render.guildwars2.com/file/25DE03CAB2050F2CD1339AB7A5B901CDDE0A196C/780928.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Medium",
+    "defense": 130,
+    "infusion_slots": [],
+    "attribute_adjustment": 150.66,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 53
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 38
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 38
+        }
+      ]
+    }
+  }
+}

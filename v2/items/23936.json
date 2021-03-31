@@ -1,0 +1,39 @@
+{
+  "name": "Triforged Ring",
+  "description": "\u003cc\u003d@flavor\u003e\"Nothing can stand against our combined power.\"\u003cbr\u003e—Rhea\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 23,
+  "rarity": "Fine",
+  "vendor_value": 39,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23936,
+  "chat_link": "[\u0026AgGAXQAA]",
+  "icon": "https://render.guildwars2.com/file/A4E7120FCFFC99EF7139E40A339F6349005156A6/66842.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [],
+    "attribute_adjustment": 36.384,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 13
+        }
+      ]
+    }
+  }
+}

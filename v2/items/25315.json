@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Norn Pistol of Air",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 198,
+  "default_skin": 5153,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25315,
+  "chat_link": "[\u0026AgHjYgAA]",
+  "icon": "https://render.guildwars2.com/file/5866D4E3A3B1E93A660166B9D3FF2BFD4C37B8B9/575174.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 776,
+    "max_power": 911,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 301.824,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 106
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 75
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 75
+        }
+      ]
+    },
+    "suffix_item_id": 24553
+  }
+}

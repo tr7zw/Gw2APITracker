@@ -1,0 +1,63 @@
+{
+  "name": "Viper\u0027s Fiery Dragon Slayer Sword of Icebrood Slaying",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 330,
+  "default_skin": 9909,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94843,
+  "chat_link": "[\u0026AgF7cgEA]",
+  "icon": "https://render.guildwars2.com/file/7E31C631EB0D29C42CB9CBB21E3DE1AEE84727BC/2412995.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 950,
+    "max_power": 1050,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "infix_upgrade": {
+      "id": 1130,
+      "buff": {
+        "skill_id": 32391
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 133
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 71
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 133
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 71
+        }
+      ]
+    },
+    "suffix_item_id": 24651
+  }
+}

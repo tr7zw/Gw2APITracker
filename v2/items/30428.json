@@ -1,0 +1,47 @@
+{
+  "name": "Vigil Greatsword",
+  "type": "Weapon",
+  "level": 52,
+  "rarity": "Fine",
+  "vendor_value": 69,
+  "default_skin": 4015,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30428,
+  "chat_link": "[\u0026AgHcdgAA]",
+  "icon": "https://render.guildwars2.com/file/1EA00FDAAD23FD1B1B9C4BD6E36EB30A43E21D06/64138.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 454,
+    "max_power": 502,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 278.784,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 98
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 70
+        }
+      ]
+    }
+  }
+}

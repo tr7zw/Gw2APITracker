@@ -1,0 +1,38 @@
+{
+  "name": "Precise Iron Spear",
+  "description": "",
+  "type": "Weapon",
+  "level": 12,
+  "rarity": "Fine",
+  "vendor_value": 26,
+  "default_skin": 4000,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 28601,
+  "chat_link": "[\u0026AgG5bwAA]",
+  "icon": "https://render.guildwars2.com/file/9AC302D1031B5C31806D0703FBC1944C01D4A240/561998.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 173,
+    "max_power": 191,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 52.992,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 19
+        }
+      ]
+    }
+  }
+}

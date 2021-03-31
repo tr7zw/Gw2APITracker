@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Aureate Speargun of Battle",
+  "type": "Weapon",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 167,
+  "default_skin": 5002,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34028,
+  "chat_link": "[\u0026AgHshAAA]",
+  "icon": "https://render.guildwars2.com/file/01FC40F4FD446BC6AA0CB4F7596196D598A30728/779869.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 370,
+    "max_power": 409,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 226.944,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 79
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 57
+        }
+      ]
+    },
+    "suffix_item_id": 24602
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Knight\u0027s Draconic Boots",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 240,
+  "default_skin": 140,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 10581,
+  "chat_link": "[\u0026AgFVKQAA]",
+  "icon": "https://render.guildwars2.com/file/ABA5149ABEFE50D5F460E5CF6D50A81D09435091/61562.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 182,
+    "infusion_slots": [],
+    "attribute_adjustment": 128.04,
+    "infix_upgrade": {
+      "id": 158,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 32
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 32
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 45
+        }
+      ]
+    }
+  }
+}

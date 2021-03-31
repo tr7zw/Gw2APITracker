@@ -1,0 +1,45 @@
+{
+  "name": "Shiverpeak Spear",
+  "type": "Weapon",
+  "level": 61,
+  "rarity": "Fine",
+  "vendor_value": 78,
+  "default_skin": 5136,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 25172,
+  "chat_link": "[\u0026AgFUYgAA]",
+  "icon": "https://render.guildwars2.com/file/0F9E7EE31AC507E672A5CC340AA74ADEB05EB7C6/534281.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 492,
+    "max_power": 544,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 348.928,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 122
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 87
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 87
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Honed Acolyte Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 52,
+  "default_skin": 249,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 10985,
+  "chat_link": "[\u0026AgHpKgAA]",
+  "icon": "https://render.guildwars2.com/file/EE07D4EAFCEA5FC80CD5BC09C6BA7DB23D191AD8/61414.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 59,
+    "infusion_slots": [],
+    "attribute_adjustment": 54.0855,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 19
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 14
+        }
+      ]
+    }
+  }
+}

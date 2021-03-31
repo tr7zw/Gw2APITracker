@@ -1,0 +1,47 @@
+{
+  "name": "Magical Orrian Lure",
+  "description": "\u003cc\u003d@flavor\u003e\"So magical the fish catch it.\"\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 75,
+  "rarity": "Fine",
+  "vendor_value": 78,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23688,
+  "chat_link": "[\u0026AgGIXAAA]",
+  "icon": "https://render.guildwars2.com/file/CC2E01E0F566A6EEF4F2EC2B19AA7A3E1FEFB1B4/60984.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 146.8,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 37
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 37
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 51
+        }
+      ]
+    }
+  }
+}

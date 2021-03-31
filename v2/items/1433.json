@@ -1,0 +1,47 @@
+{
+  "name": "Carrion Privateer Boots of Rage",
+  "description": "",
+  "type": "Armor",
+  "level": 79,
+  "rarity": "Masterwork",
+  "vendor_value": 130,
+  "default_skin": 75,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 1433,
+  "chat_link": "[\u0026AgGZBQAA]",
+  "icon": "https://render.guildwars2.com/file/AE01341F9C5DC77201C50D2E220D52AC96FCEDFF/61041.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 127,
+    "infusion_slots": [],
+    "attribute_adjustment": 103.046,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 26
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 26
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 36
+        }
+      ]
+    },
+    "suffix_item_id": 24715
+  }
+}

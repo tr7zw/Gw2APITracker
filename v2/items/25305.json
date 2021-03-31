@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Shiverpeak Handcannon of Agony",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Masterwork",
+  "vendor_value": 106,
+  "default_skin": 5148,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25305,
+  "chat_link": "[\u0026AgHZYgAA]",
+  "icon": "https://render.guildwars2.com/file/360309706ADF99FEFCEB6659F3357AF8B25AA841/534284.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 525,
+    "max_power": 616,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 194.004,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 68
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 49
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 49
+        }
+      ]
+    },
+    "suffix_item_id": 24610
+  }
+}

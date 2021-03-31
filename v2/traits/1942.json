@@ -1,0 +1,27 @@
+{
+  "id": 1942,
+  "tier": 3,
+  "order": 0,
+  "name": "Lost Time",
+  "description": "Gain alacrity when you inflict slow.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 3
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
+      "duration": 3,
+      "status": "Alacrity",
+      "description": "Skills recharge faster.",
+      "apply_count": 1
+    }
+  ],
+  "specialization": 40,
+  "icon": "https://render.guildwars2.com/file/1B7FF14574B92E6FFA71D03E3F0FEBE5FD4D2EB2/1012480.png"
+}

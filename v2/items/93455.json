@@ -1,0 +1,27 @@
+{
+  "name": "Rare Charr Salvage",
+  "description": "Use to create War Supplies that can be used or traded in the Drizzlewood Coast.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 96,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "BulkConsume",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 93455,
+  "chat_link": "[\u0026AgEPbQEA]",
+  "icon": "https://render.guildwars2.com/file/F8F26CAF5354703FE420FDAA03F90F3E781998A9/2293281.png",
+  "details": {
+    "type": "Generic"
+  }
+}

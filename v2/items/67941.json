@@ -1,0 +1,61 @@
+{
+  "name": "Verata\u0027s Short Bow",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of the famous necromancer, Verata.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 10000,
+  "default_skin": 4152,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 67941,
+  "chat_link": "[\u0026AgFlCQEA]",
+  "icon": "https://render.guildwars2.com/file/FCB40B396E6605C5DBB79345BF7EDFBAF8714402/632015.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 950,
+    "max_power": 1050,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      },
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 717.024,
+    "infix_upgrade": {
+      "id": 1067,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 179
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 179
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 251
+        }
+      ]
+    }
+  }
+}

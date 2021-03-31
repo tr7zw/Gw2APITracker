@@ -1,0 +1,53 @@
+{
+  "name": "Commander\u0027s Dragon Slayer Staff",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 9688,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94262,
+  "chat_link": "[\u0026AgE2cAEA]",
+  "icon": "https://render.guildwars2.com/file/E01C4B7F186E120491D9EA0806093B0609D942D6/2351803.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 985,
+    "max_power": 1111,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 1131,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 205
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 205
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 113
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 113
+        }
+      ]
+    }
+  }
+}

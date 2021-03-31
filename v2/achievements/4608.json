@@ -1,0 +1,39 @@
+{
+  "id": 4608,
+  "name": "Chasing Tales: Feed the Pyre",
+  "description": "There\u0027s always fuel to be found.",
+  "requirement": "Inflict burning on 30 opponents while wielding a torch in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Haliver the Seeker."
+    },
+    {
+      "type": "Text",
+      "text": "Inflicted burning on 30 enemies with a torch in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89944,
+      "count": 1
+    }
+  ]
+}

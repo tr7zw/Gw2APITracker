@@ -1,0 +1,42 @@
+{
+  "name": "Vigorous Steel Spear",
+  "description": "",
+  "type": "Weapon",
+  "level": 40,
+  "rarity": "Fine",
+  "vendor_value": 57,
+  "default_skin": 5695,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 15176,
+  "chat_link": "[\u0026AgFIOwAA]",
+  "icon": "https://render.guildwars2.com/file/9AC302D1031B5C31806D0703FBC1944C01D4A240/561998.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 322,
+    "max_power": 356,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 195.072,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 68
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 49
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2632,
+  "name": "Now That\u0027s a Fungus",
+  "description": "Story Instance: \"The Jungle Provides\"",
+  "requirement": "Locate the Mushroom King near the Itzel village and help the Itzel farmer defeat it so that they can bring the meat home for his soup recipe.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    2315
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 44231,
+      "count": 3
+    }
+  ]
+}

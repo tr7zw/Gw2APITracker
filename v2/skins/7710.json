@@ -1,0 +1,33 @@
+{
+  "name": "Warbeast Gloves",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 7710,
+  "icon": "https://render.guildwars2.com/file/C77F729D7E20359A3AE208FEEE2CDEB5B21291DE/1768373.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        null,
+        {
+          "color_id": -1,
+          "material": "cloth"
+        }
+      ],
+      "overrides": {}
+    }
+  }
+}

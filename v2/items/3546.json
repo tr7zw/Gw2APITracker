@@ -1,0 +1,48 @@
+{
+  "name": "Berserker\u0027s Dreadnought Tassets",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 31250,
+  "default_skin": 356,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "id": 3546,
+  "chat_link": "[\u0026AgHaDQAA]",
+  "icon": "https://render.guildwars2.com/file/EF7718347E2718016828EFF17F9A291AAC6B266D/61134.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Heavy",
+    "defense": 214,
+    "infusion_slots": [],
+    "attribute_adjustment": 226.368,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 79
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 57
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 57
+        }
+      ]
+    }
+  }
+}

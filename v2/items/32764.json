@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Steam Mace of Debility",
+  "type": "Weapon",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 90,
+  "default_skin": 5199,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32764,
+  "chat_link": "[\u0026AgH8fwAA]",
+  "icon": "https://render.guildwars2.com/file/CFD4DFE0779C3B361DBF7BEDD59C7F5480A1C914/68155.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 426,
+    "max_power": 480,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 144.228,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 36
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 50
+        }
+      ]
+    },
+    "suffix_item_id": 24634
+  }
+}

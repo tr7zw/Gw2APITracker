@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Krytan Spear of Serpent Slaying",
+  "type": "Weapon",
+  "level": 38,
+  "rarity": "Masterwork",
+  "vendor_value": 108,
+  "default_skin": 5164,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33857,
+  "chat_link": "[\u0026AgFBhAAA]",
+  "icon": "https://render.guildwars2.com/file/3B43A2B3024DB30DAE3E930176080946B2E23BC1/780562.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 335,
+    "max_power": 370,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 200.192,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 70
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 50
+        }
+      ]
+    },
+    "suffix_item_id": 24660
+  }
+}

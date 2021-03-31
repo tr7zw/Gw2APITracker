@@ -1,0 +1,40 @@
+{
+  "id": 5138,
+  "name": "Catalyst of the Spirits",
+  "description": "",
+  "requirement": "Attack enemies with the Tier 3 or higher essence skills  times.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 1
+    },
+    {
+      "count": 20,
+      "points": 1
+    },
+    {
+      "count": 30,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tundra",
+      "id": 486
+    }
+  ]
+}

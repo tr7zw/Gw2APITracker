@@ -1,0 +1,52 @@
+{
+  "name": "Stychs Pistol",
+  "description": "\u003cc\u003d@flavor\u003e\"You can\u0027t spell sabotage without P I S T O L. Well, you could. In fact, I just did. But, my point is that it wouldn\u0027t be nearly as much fun.\"\u003cbr\u003e—Lightbringer Krentch\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 67,
+  "rarity": "Fine",
+  "vendor_value": 56,
+  "default_skin": 3875,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30651,
+  "chat_link": "[\u0026AgG7dwAA]",
+  "icon": "https://render.guildwars2.com/file/C43656C1551C9A5A1A931EAC2901BD0FBA3BE3E1/62830.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 531,
+    "max_power": 623,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 199.232,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 50
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 50
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 70
+        }
+      ]
+    }
+  }
+}

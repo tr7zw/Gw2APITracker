@@ -1,0 +1,48 @@
+{
+  "name": "Durmand Priory Speargun",
+  "description": "\u003cc\u003d@flavor\u003e\"I pity what\u0027s on the other side of this speargun.\"\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 52,
+  "rarity": "Fine",
+  "vendor_value": 69,
+  "default_skin": 5091,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30434,
+  "chat_link": "[\u0026AgHidgAA]",
+  "icon": "https://render.guildwars2.com/file/935CD7A5037BB9F3C46E0D770D2DD9730ED74A18/62495.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 413,
+    "max_power": 457,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 278.784,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 70
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 98
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Strong Iron Hammer of Grawl Slaying",
+  "description": "",
+  "type": "Weapon",
+  "level": 53,
+  "rarity": "Masterwork",
+  "vendor_value": 141,
+  "default_skin": 4060,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27837,
+  "chat_link": "[\u0026AgG9bAAA]",
+  "icon": "https://render.guildwars2.com/file/2F4509F15B48B1A9F1579D08539F4109972A31A4/65162.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 497,
+    "max_power": 560,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 311.848,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 109
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 78
+        }
+      ]
+    },
+    "suffix_item_id": 24646
+  }
+}

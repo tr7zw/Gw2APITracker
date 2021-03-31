@@ -1,0 +1,47 @@
+{
+  "name": "Vigorous Bandit Ward",
+  "description": "",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Fine",
+  "vendor_value": 186,
+  "default_skin": 4023,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 35006,
+  "chat_link": "[\u0026AgG+iAAA]",
+  "icon": "https://render.guildwars2.com/file/ED77E5309C046F0E4C2CBDDC064AE5CAE01B7D79/66741.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 430,
+    "max_power": 485,
+    "defense": 31,
+    "infusion_slots": [],
+    "attribute_adjustment": 170.432,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 60
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 43
+        }
+      ]
+    }
+  }
+}

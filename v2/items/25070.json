@@ -1,0 +1,44 @@
+{
+  "name": "Mending Norn Focus of Ogre Slaying",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Rare",
+  "vendor_value": 126,
+  "default_skin": 5138,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25070,
+  "chat_link": "[\u0026AgHuYQAA]",
+  "icon": "https://render.guildwars2.com/file/7D6BF242BBB41774BF2DDC17BE0447C4C101D22A/575169.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 393,
+    "max_power": 417,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 140.256,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 35
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 49
+        }
+      ]
+    },
+    "suffix_item_id": 24656
+  }
+}

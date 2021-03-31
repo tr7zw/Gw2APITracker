@@ -1,0 +1,25 @@
+{
+  "id": 5264,
+  "name": "Special Mission: Feel the Pulse",
+  "description": "",
+  "requirement": "Strike 5 or more targets with a single Electromagical Pulse from a charr waystation  times.",
+  "locked_text": "Unlock by using Flame Legion Special Mission Documents.",
+  "type": "Default",
+  "flags": [
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 93496,
+      "count": 250
+    }
+  ]
+}

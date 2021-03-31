@@ -1,0 +1,45 @@
+{
+  "name": "Intricate Spinel Jewel",
+  "description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 48,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24896,
+  "chat_link": "[\u0026AgFAYQAA]",
+  "icon": "https://render.guildwars2.com/file/C94C1E0791539251F0EC33492154069BFC21782B/221187.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "Trinket"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 484,
+      "buff": {
+        "skill_id": 275,
+        "description": "+7 Healing\n+3 Power"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 3
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 7
+        }
+      ]
+    },
+    "suffix": "of Spinel"
+  }
+}

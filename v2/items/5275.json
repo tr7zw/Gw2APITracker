@@ -1,0 +1,46 @@
+{
+  "name": "Berserker\u0027s Rawhide Mask",
+  "description": "",
+  "type": "Armor",
+  "level": 75,
+  "rarity": "Basic",
+  "vendor_value": 39,
+  "default_skin": 89,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 5275,
+  "chat_link": "[\u0026AgGbFAAA]",
+  "icon": "https://render.guildwars2.com/file/F804E912B12B14C11309C7B6CB7F0113C4D4270E/218899.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 54,
+    "infusion_slots": [],
+    "attribute_adjustment": 93.6,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 33
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 23
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 23
+        }
+      ]
+    }
+  }
+}

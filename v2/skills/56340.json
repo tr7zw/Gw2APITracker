@@ -1,0 +1,28 @@
+{
+  "name": "Venomous Voltage",
+  "facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+      "duration": 1,
+      "status": "Immobile",
+      "description": "Unable to move; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/C19D125EF74E717AC62D330228A8A45D1CC00224/2156520.png",
+      "duration": 0,
+      "status": "Violent Currents",
+      "description": "Electrical currents surge through you, increasing incoming and outgoing damage. Stacks 5 times.\nOutgoing Damage +5%\nIncoming Damage +5%",
+      "apply_count": 1
+    }
+  ],
+  "description": "The voltaic wisp immobilizes foes with steady streams of paralyzing shocks from its tail.",
+  "icon": "https://render.guildwars2.com/file/E43730AD49A903C3A1B4F27E41DE04EA51A775EC/156636.png",
+  "flags": [],
+  "id": 56340,
+  "chat_link": "[\u0026BhTcAAA\u003d]"
+}

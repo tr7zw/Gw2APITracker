@@ -1,0 +1,40 @@
+{
+  "name": "Face Smash",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 350
+    },
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 3
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
+      "duration": 5,
+      "status": "Daze",
+      "description": "Unable to activate skills.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+      "duration": 5,
+      "status": "Vulnerability",
+      "description": "Damage and condition damage taken are increased; stacks intensity.",
+      "apply_count": 1
+    }
+  ],
+  "description": "A strong blast to the face that muddles your thoughts and coordination.",
+  "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+  "flags": [],
+  "id": 35154,
+  "chat_link": "[\u0026BlKJAAA\u003d]"
+}

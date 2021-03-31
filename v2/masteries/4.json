@@ -1,0 +1,50 @@
+{
+  "id": 4,
+  "name": "Pact Commander",
+  "requirement": "",
+  "order": 0,
+  "background": "https://render.guildwars2.com/file/65DE3662C705233AC1073EF297B15AADD7A8A644/1228718.png",
+  "region": "Tyria",
+  "levels": [
+    {
+      "name": "Pact Mentor",
+      "description": "Learn to be a mentor to the heroes of Tyria, gaining a special Mentoring Badge, chat title, and swiftness for you and your party in all cities.",
+      "instruction": "You can now use the Mentoring Badge accessible in the Party menu and the Mentor chat title activated through the mentor slash command. Your party now has a permanent  5% swiftness bonus in cities.",
+      "icon": "https://render.guildwars2.com/file/D32A52F4E1EB3EC57D035531A31BE217E63DC0F8/1228648.png",
+      "point_cost": 1,
+      "exp_cost": 635000
+    },
+    {
+      "name": "Productive Downtime",
+      "description": "Learn to be more efficient and gain bonus experience when crafting.",
+      "instruction": "You now gain a bonus 10% experience from all crafting that grants experience. You also have a 10% higher chance of critical bonus crafting experience.",
+      "icon": "https://render.guildwars2.com/file/0BCD77C3BF1BFD54162C992EDBF04209B653B865/1228649.png",
+      "point_cost": 2,
+      "exp_cost": 1270000
+    },
+    {
+      "name": "Supply Line Management",
+      "description": "Gain access to a network of regional merchants across Tyria with a limited supply of rare goods for trade, and increase your party\u0027s swiftness bonus in cities to 15%.",
+      "instruction": "You can now trade with the Pact Supply Network Agents who travel across Central Tyria. You can purchase one item from each agent each day in exchange for karma. Your party now has a permanent 15% swiftness bonus while in cities.",
+      "icon": "https://render.guildwars2.com/file/4E43E92F349620FA060ABF9A3BC052657F7EC35A/1228650.png",
+      "point_cost": 3,
+      "exp_cost": 2222500
+    },
+    {
+      "name": "Noblesse Oblige",
+      "description": "Learn to revive your allies faster and with less penalties.",
+      "instruction": "You can now revive allied players faster and remove durability and downed penalties on a successful revive. The speed of your revive is increased more when the level of the character being revived is lower than your own.",
+      "icon": "https://render.guildwars2.com/file/EC25C613ED2A35DB4256F0DF4A5F19389765D8E6/1228647.png",
+      "point_cost": 5,
+      "exp_cost": 3175000
+    },
+    {
+      "name": "Advanced Logistics",
+      "description": "Learn to automatically pick up loot from fallen foes and gain a greater swiftness bonus for your party in cities.",
+      "instruction": "You now have the option to have loot from creatures you defeat be deposited automatically into your inventory. This ability can be turned off in the Options menu. Your party now has a permanent 33% swiftness bonus in cities.",
+      "icon": "https://render.guildwars2.com/file/A41824167F010C0667B3F697DE03E132BD01ED01/1228646.png",
+      "point_cost": 8,
+      "exp_cost": 4127500
+    }
+  ]
+}

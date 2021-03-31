@@ -1,0 +1,43 @@
+{
+  "name": "Mighty Bandit Longbow",
+  "description": "",
+  "type": "Weapon",
+  "level": 15,
+  "rarity": "Fine",
+  "vendor_value": 108,
+  "default_skin": 3949,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 35077,
+  "chat_link": "[\u0026AgEFiQAA]",
+  "icon": "https://render.guildwars2.com/file/2060A7375FF7047DEBA8B937E905B541910A71BD/66736.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 188,
+    "max_power": 220,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 63.488,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 22
+        }
+      ]
+    }
+  }
+}

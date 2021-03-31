@@ -1,0 +1,49 @@
+{
+  "name": "Horned Scepter",
+  "description": "\u003cc\u003d@flavor\u003e\"Keep an eye on those ice imps.They are always up to no good.\"\u003cbr\u003e—Suki\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 34,
+  "rarity": "Masterwork",
+  "vendor_value": 66,
+  "default_skin": 5171,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29485,
+  "chat_link": "[\u0026AgEtcwAA]",
+  "icon": "https://render.guildwars2.com/file/767E39B2746CF941BFFF631763272D569701F533/534286.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 303,
+    "max_power": 342,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 86.496,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 30
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 22
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

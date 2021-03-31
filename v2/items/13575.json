@@ -1,0 +1,41 @@
+{
+  "name": "Lapis Gold Amulet",
+  "description": "",
+  "type": "Trinket",
+  "level": 50,
+  "rarity": "Rare",
+  "vendor_value": 270,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 13575,
+  "chat_link": "[\u0026AgEHNQAA]",
+  "icon": "https://render.guildwars2.com/file/C9ACE2F25856A301951E169D0E45C87AE20AE407/455639.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 156.816,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 39
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 55
+        }
+      ]
+    },
+    "suffix_item_id": 24907
+  }
+}

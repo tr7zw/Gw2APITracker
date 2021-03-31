@@ -1,0 +1,39 @@
+{
+  "name": "Jora Totem",
+  "description": "\u003cc\u003d@flavor\u003eThis totem features a relief of the fabled norn hero Jora.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 12,
+  "rarity": "Fine",
+  "vendor_value": 22,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23344,
+  "chat_link": "[\u0026AgEwWwAA]",
+  "icon": "https://render.guildwars2.com/file/CCBC1D4001CF5715470F989101D6C2F59DFFAD36/455911.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 16.56,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

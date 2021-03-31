@@ -1,0 +1,54 @@
+{
+  "name": "Superior Sigil of Celerity",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eControl\u003cbr\u003eDouble-click to apply to a weapon.",
+  "type": "UpgradeComponent",
+  "level": 60,
+  "rarity": "Exotic",
+  "vendor_value": 216,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24865,
+  "chat_link": "[\u0026AgEhYQAA]",
+  "icon": "https://render.guildwars2.com/file/731850AB48F9944BB5FE4A050A71366C0903253E/221167.png",
+  "details": {
+    "type": "Sigil",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 1019,
+      "buff": {
+        "skill_id": 24208,
+        "description": "Gain quickness for 5 seconds after disabling a foe. (Cooldown: 20 Seconds)"
+      },
+      "attributes": []
+    },
+    "suffix": "of Celerity"
+  }
+}

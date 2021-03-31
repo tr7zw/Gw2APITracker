@@ -1,0 +1,52 @@
+{
+  "name": "Modniir Saber",
+  "description": "",
+  "type": "Weapon",
+  "level": 43,
+  "rarity": "Fine",
+  "vendor_value": 40,
+  "default_skin": 4618,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29239,
+  "chat_link": "[\u0026AgE3cgAA]",
+  "icon": "https://render.guildwars2.com/file/CEB917DC2A790F4DE406E7E81D6CC89362BF6598/67730.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 342,
+    "max_power": 378,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 107.456,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 38
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 27
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 27
+        }
+      ]
+    }
+  }
+}

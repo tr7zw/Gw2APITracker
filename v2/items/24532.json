@@ -1,0 +1,71 @@
+{
+  "name": "Crest of the Rabid",
+  "description": "Double-click to apply to an item with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 198,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24532,
+  "chat_link": "[\u0026AgHUXwAA]",
+  "icon": "https://render.guildwars2.com/file/4F40450DF59CB92FD1A102DD98D6FBEBC39BE1EB/340590.png",
+  "details": {
+    "type": "Gem",
+    "flags": [
+      "ShortBow",
+      "HeavyArmor",
+      "LightArmor",
+      "Dagger",
+      "MediumArmor",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Trinket",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 331,
+      "buff": {
+        "skill_id": 155,
+        "description": "+20 Condition Damage\n+14 Precision\n+14 Toughness"
+      },
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 14
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 14
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 20
+        }
+      ]
+    },
+    "suffix": "of the Rabid"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Flame Carrier of Energy",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Rare",
+  "vendor_value": 183,
+  "default_skin": 5092,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33009,
+  "chat_link": "[\u0026AgHxgAAA]",
+  "icon": "https://render.guildwars2.com/file/42D0B4090937BFF575DDC4CDC8339DE63BB2013C/67843.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 632,
+    "max_power": 741,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 269.208,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 67
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 67
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 94
+        }
+      ]
+    },
+    "suffix_item_id": 24606
+  }
+}

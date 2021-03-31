@@ -1,0 +1,39 @@
+{
+  "id": 319,
+  "name": "Stay Out!",
+  "description": "When you say you\u0027ll defend something, you really mean it!",
+  "requirement": "Defend  objectives.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 375,
+      "points": 5
+    },
+    {
+      "count": 750,
+      "points": 10
+    },
+    {
+      "count": 1500,
+      "points": 15
+    },
+    {
+      "count": 3000,
+      "points": 25
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 58
+    }
+  ]
+}

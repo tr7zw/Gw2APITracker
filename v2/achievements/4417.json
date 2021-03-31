@@ -1,0 +1,72 @@
+{
+  "id": 4417,
+  "name": "Memorabilia",
+  "description": "Awakening can be detrimental to the subject\u0027s memory.",
+  "requirement": "Find the pieces of Sonu\u0027s past scattered throughout Jahai Bluffs.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Spoke to Sonu in Sun\u0027s Refuge and accepted his request."
+    },
+    {
+      "type": "Text",
+      "text": "North of the Tree, one still floats; your favorite toy as a child, those red toy boats."
+    },
+    {
+      "type": "Text",
+      "text": "In a house in Venta, an old frame lies; its story appears to whomever cries."
+    },
+    {
+      "type": "Text",
+      "text": "Right is left, but next time it\u0027s wrong; in the courtyard you will remember its song."
+    },
+    {
+      "type": "Text",
+      "text": "Along the River of Rilohn sits a large orange tree; with a view of the fortress, true love\u0027s flowers be."
+    },
+    {
+      "type": "Text",
+      "text": "In a graveyard from the right, pay your respects to whom they are due; one, three, then seven hold the clue."
+    },
+    {
+      "type": "Text",
+      "text": "You became a military man, though Awakened wear no suit. North of Wurmhaven, find your sword and salute."
+    },
+    {
+      "type": "Text",
+      "text": "Your favorite fruit, let that set in; a farmland\u0027s tree holds the key, to those who threaten."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 8,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 88660,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Cleric\u0027s Soft Wood Warhorn of Air",
+  "description": "",
+  "type": "Weapon",
+  "level": 64,
+  "rarity": "Exotic",
+  "vendor_value": 216,
+  "default_skin": 3907,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26855,
+  "chat_link": "[\u0026AgHnaAAA]",
+  "icon": "https://render.guildwars2.com/file/5A0593B5164DE87591029323F7D90775D716001D/65530.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 617,
+    "max_power": 682,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 249.04,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 62
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 62
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 87
+        }
+      ]
+    },
+    "suffix_item_id": 24554
+  }
+}

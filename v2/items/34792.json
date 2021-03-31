@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Verdant Staff of Ogre Slaying",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Rare",
+  "vendor_value": 189,
+  "default_skin": 5094,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34792,
+  "chat_link": "[\u0026AgHohwAA]",
+  "icon": "https://render.guildwars2.com/file/B5C1D65B9BFC0E1A019535FD06E69DA966AF4F1A/434880.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 465,
+    "max_power": 524,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 280.512,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 70
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 98
+        }
+      ]
+    },
+    "suffix_item_id": 24656
+  }
+}

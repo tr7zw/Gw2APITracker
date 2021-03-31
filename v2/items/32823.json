@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Great Steamblade of the Geomancer",
+  "type": "Weapon",
+  "level": 68,
+  "rarity": "Masterwork",
+  "vendor_value": 171,
+  "default_skin": 5218,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32823,
+  "chat_link": "[\u0026AgE3gAAA]",
+  "icon": "https://render.guildwars2.com/file/D8325BBDF9DDCA3F422531492B0CEC7BA34C9ACB/66762.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 666,
+    "max_power": 736,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 442.408,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 111
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 111
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 155
+        }
+      ]
+    },
+    "suffix_item_id": 24603
+  }
+}

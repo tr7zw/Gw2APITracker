@@ -1,0 +1,25 @@
+{
+  "name": "Mine Kit",
+  "description": "Double-click to equip a mine.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 3,
+  "game_types": [
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 7693,
+  "chat_link": "[\u0026AgENHgAA]",
+  "icon": "https://render.guildwars2.com/file/18EA4E0B4BA170249AD2B67ED80F6E06AA49BDF7/222608.png",
+  "details": {
+    "type": "Generic"
+  }
+}

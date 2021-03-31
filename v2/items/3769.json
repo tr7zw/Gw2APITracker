@@ -1,0 +1,44 @@
+{
+  "name": "Vigorous Dolyak Hounskull",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 500,
+  "default_skin": 430,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Norn"
+  ],
+  "id": 3769,
+  "chat_link": "[\u0026AgG5DgAA]",
+  "icon": "https://render.guildwars2.com/file/C203DBCA0F4A9A19D63C319D0C726E66D80C0DF6/779830.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 39,
+    "infusion_slots": [],
+    "attribute_adjustment": 49.284,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 17
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

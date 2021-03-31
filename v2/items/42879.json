@@ -1,0 +1,53 @@
+{
+  "name": "Polla",
+  "description": "\u003cc\u003d@flavor\u003e\"This well-worn doll belonged to Cobiah Marriner\u0027s little sister, Biviane, who had her young life taken from her under the piers of Lion\u0027s Arch.\"\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 5,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "Unique",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 42879,
+  "chat_link": "[\u0026AgF/pwAA]",
+  "icon": "https://render.guildwars2.com/file/CF17721B6D466EB160EB2C506BF81B0A09216D1E/591616.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 6.825,
+    "infix_upgrade": {
+      "id": 740,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 1
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 1
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 1
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 1
+        }
+      ]
+    }
+  }
+}

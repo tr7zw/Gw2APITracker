@@ -1,0 +1,46 @@
+{
+  "name": "Berserker\u0027s Greatsword",
+  "description": "",
+  "type": "Weapon",
+  "level": 52,
+  "rarity": "Basic",
+  "vendor_value": 35,
+  "default_skin": 3868,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 28861,
+  "chat_link": "[\u0026AgG9cAAA]",
+  "icon": "https://render.guildwars2.com/file/67B2C9A40C0E963567B7B42359A327B19F56195D/66176.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 362,
+    "max_power": 400,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 220.584,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 77
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 55
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 55
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Kudu\u0027s Phasing Matrix",
+  "description": "\u003cc\u003d@flavor\u003e\"You realize I have a small army of golems on my side.\" - Kudu\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 413,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 67295,
+  "chat_link": "[\u0026AgHfBgEA]",
+  "icon": "https://render.guildwars2.com/file/475F42D3A3B27829C136F6B6EF12B37221CC9C13/866836.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 224.07,
+    "infix_upgrade": {
+      "id": 1035,
+      "buff": {
+        "skill_id": 25440,
+        "description": "+32 Vitality\n+18 Power\n+18 Toughness"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 74
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 74
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 110
+        }
+      ]
+    }
+  }
+}

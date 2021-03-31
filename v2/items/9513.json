@@ -1,0 +1,28 @@
+{
+  "name": "Recipe: Warhorn",
+  "description": "A recipe to make a Warhorn",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 18,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9513,
+  "chat_link": "[\u0026AgEpJQAA]",
+  "icon": "https://render.guildwars2.com/file/E4D0C1144BDB725067A857EFDA73EEB016CA59AA/849364.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 4500
+  }
+}

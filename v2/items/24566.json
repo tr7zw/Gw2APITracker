@@ -1,0 +1,54 @@
+{
+  "name": "Major Sigil of Frailty",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eControl\u003cbr\u003eDouble-click to apply to a weapon.",
+  "type": "UpgradeComponent",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 108,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24566,
+  "chat_link": "[\u0026AgH2XwAA]",
+  "icon": "https://render.guildwars2.com/file/421080E3E3C918F3C821CFF4109A4A15BB0EDA56/220985.png",
+  "details": {
+    "type": "Sigil",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 209,
+      "buff": {
+        "skill_id": 9455,
+        "description": "Inflict vulnerability for 8 seconds after striking a foe from its flank. \u003cc\u003d@reminder\u003e(Cooldown: 2 Seconds)\u003c/c\u003e"
+      },
+      "attributes": []
+    },
+    "suffix": "of Frailty"
+  }
+}

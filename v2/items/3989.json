@@ -1,0 +1,47 @@
+{
+  "name": "Shiny \"Acquired\" Leather Shoes",
+  "description": "\u003cc\u003d@flavor\u003e\"Not stealing. \u0027Acquiring.\u0027\"\u003cbr\u003e—Cakilak\u0027ka\u003c/c\u003e",
+  "type": "Armor",
+  "level": 52,
+  "rarity": "Masterwork",
+  "vendor_value": 92,
+  "default_skin": 887,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 3989,
+  "chat_link": "[\u0026AgGVDwAA]",
+  "icon": "https://render.guildwars2.com/file/9C7E0C5C680DAA0AF4EE73ED5ED3B6C2E49B0250/61033.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 72,
+    "infusion_slots": [],
+    "attribute_adjustment": 57.018,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 20
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 14
+        }
+      ]
+    },
+    "suffix_item_id": 24727
+  }
+}

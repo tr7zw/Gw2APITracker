@@ -1,0 +1,41 @@
+{
+  "name": "Ravaging Glyphic Trispear",
+  "type": "Weapon",
+  "level": 31,
+  "rarity": "Fine",
+  "vendor_value": 47,
+  "default_skin": 5050,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 34344,
+  "chat_link": "[\u0026AgEohgAA]",
+  "icon": "https://render.guildwars2.com/file/F670E526546CD1E9E2029B14DD9810ECDBE9001D/434765.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 264,
+    "max_power": 292,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 139.52,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 35
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 49
+        }
+      ]
+    }
+  }
+}

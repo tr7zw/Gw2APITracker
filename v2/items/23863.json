@@ -1,0 +1,39 @@
+{
+  "name": "Lightning Jar",
+  "description": "\u003cc\u003d@flavor\u003e\"The jar seems to retain a remarkable amount of heat.\"\u003cbr\u003e—Ahjj\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 12,
+  "rarity": "Fine",
+  "vendor_value": 22,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23863,
+  "chat_link": "[\u0026AgE3XQAA]",
+  "icon": "https://render.guildwars2.com/file/300EBE9F22AFB676E4ED372BB8D493233831BCBB/455973.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 16.56,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

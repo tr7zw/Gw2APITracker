@@ -1,0 +1,38 @@
+{
+  "name": "Healing Chain Pauldrons",
+  "description": "",
+  "type": "Armor",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 53,
+  "default_skin": 223,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 10431,
+  "chat_link": "[\u0026AgG/KAAA]",
+  "icon": "https://render.guildwars2.com/file/11BB7CFB6AE726E8EA77F006C7C24EFDCBCFBFF3/61383.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "defense": 23,
+    "infusion_slots": [],
+    "attribute_adjustment": 17.6205,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

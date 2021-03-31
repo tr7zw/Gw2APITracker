@@ -1,0 +1,52 @@
+{
+  "name": "Briar Mace",
+  "description": "\u003cc\u003d@flavor\u003e\"The tools you collected will help maintain the wall. Use these weapons as your tools against the Risen.\" \u003cbr\u003e—Brannen\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 64,
+  "rarity": "Fine",
+  "vendor_value": 54,
+  "default_skin": 5188,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30612,
+  "chat_link": "[\u0026AgGUdwAA]",
+  "icon": "https://render.guildwars2.com/file/DB447716F108A4EC3BEA5C3995B569D83B6DA327/62417.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 514,
+    "max_power": 580,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 186.688,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 47
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 47
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 65
+        }
+      ]
+    }
+  }
+}

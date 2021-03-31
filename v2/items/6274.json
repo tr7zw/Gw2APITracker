@@ -1,0 +1,40 @@
+{
+  "name": "Studded Leather Bracers",
+  "description": "",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 8,
+  "default_skin": 59,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6274,
+  "chat_link": "[\u0026AgGCGAAA]",
+  "icon": "https://render.guildwars2.com/file/07A941314810F9342BBBE2970450E1FFE2227430/61031.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 15,
+    "infusion_slots": [],
+    "attribute_adjustment": 5.328,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 2
+        }
+      ]
+    }
+  }
+}

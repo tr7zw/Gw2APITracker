@@ -1,0 +1,40 @@
+{
+  "name": "Healing Shiverpeak Warhorn of Agony",
+  "type": "Weapon",
+  "level": 14,
+  "rarity": "Masterwork",
+  "vendor_value": 38,
+  "default_skin": 5111,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25697,
+  "chat_link": "[\u0026AgFhZAAA]",
+  "icon": "https://render.guildwars2.com/file/95D5572D06386BA1C510F4A0F0040E9433067D2D/534293.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 176,
+    "max_power": 195,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 33.728,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 12
+        }
+      ]
+    },
+    "suffix_item_id": 24610
+  }
+}

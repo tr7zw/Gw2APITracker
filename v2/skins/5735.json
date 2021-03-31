@@ -1,0 +1,31 @@
+{
+  "name": "Carapace Helmet",
+  "description": "Obtained by completing \"Point of No Return.\" Extra pieces can be purchased for bandit crests.",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 5735,
+  "icon": "https://render.guildwars2.com/file/D6DD51DC573E5FF1CFD5FE62693628EFB20A2723/904642.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "dye_slots": {
+      "default": [
+        null,
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

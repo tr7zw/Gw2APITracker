@@ -1,0 +1,32 @@
+{
+  "id": 2579,
+  "name": "Lore Untangler",
+  "description": "Obscure knowledge is no problem for the likes of you!",
+  "requirement": "Answer questions from the ancient holographic professors in Rata Novus.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 1
+    },
+    {
+      "count": 20,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 22
+    }
+  ]
+}

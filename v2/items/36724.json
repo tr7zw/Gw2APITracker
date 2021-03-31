@@ -1,0 +1,30 @@
+{
+  "name": "Karka Egg Omelet",
+  "type": "Consumable",
+  "level": 75,
+  "rarity": "Basic",
+  "vendor_value": 17,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 36724,
+  "chat_link": "[\u0026AgF0jwAA]",
+  "icon": "https://render.guildwars2.com/file/46044DE9FC56AB792904AD9017A390B867C26847/511764.png",
+  "details": {
+    "type": "Food",
+    "duration_ms": 600000,
+    "apply_count": 1,
+    "name": "Nourishment",
+    "icon": "https://render.guildwars2.com/file/779D3F0ABE5B46C09CFC57374DA8CC3A495F291C/436367.png",
+    "description": "+200 Condition Damage for 30 Seconds on Kill\n+70 Precision\n+10% Experience from Kills"
+  }
+}

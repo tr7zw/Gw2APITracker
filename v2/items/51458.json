@@ -1,0 +1,51 @@
+{
+  "name": "Apostate\u0027s Thornthrower",
+  "type": "Weapon",
+  "level": 59,
+  "rarity": "Exotic",
+  "vendor_value": 318,
+  "default_skin": 5156,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 51458,
+  "chat_link": "[\u0026AgECyQAA]",
+  "icon": "https://render.guildwars2.com/file/80B1CACED21E0F6031157609D24794B2D7C602EB/434894.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 661,
+    "max_power": 730,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 476.8,
+    "infix_upgrade": {
+      "id": 1012,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 119
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 119
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 167
+        }
+      ]
+    }
+  }
+}

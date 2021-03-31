@@ -1,0 +1,28 @@
+{
+  "name": "Recipe: Grawl Snowman Potion",
+  "description": "A recipe to make Grawl Snowman Potion",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 26,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9549,
+  "chat_link": "[\u0026AgFNJQAA]",
+  "icon": "https://render.guildwars2.com/file/E19734B71C949924A1353106E513DE62729A5313/849374.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 3869
+  }
+}

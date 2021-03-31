@@ -1,0 +1,34 @@
+{
+  "id": 2707,
+  "name": "League Conqueror—Recruit",
+  "description": "Completing this achievement advances the meta-achievement Path of the Ascension I: The Thrill of Battle.",
+  "requirement": "Win 15 ranked matches.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 1
+    },
+    {
+      "count": 15,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    2740
+  ]
+}

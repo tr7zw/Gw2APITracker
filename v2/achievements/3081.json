@@ -1,0 +1,24 @@
+{
+  "id": 3081,
+  "name": "Magic Unbound: The Gathering",
+  "description": "",
+  "requirement": "Collect 10 units of floating unbound magic in 60 seconds.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 76
+    }
+  ]
+}

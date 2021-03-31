@@ -1,0 +1,39 @@
+{
+  "id": 4589,
+  "name": "Chasing Tales: Call to Action",
+  "description": "After his death, Codd\u0027s prized warhorn was cast in bronze and promptly pitched into the sea.",
+  "requirement": "Defeat 60 Branded enemies while wielding a warhorn in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Codd the Cheerful."
+    },
+    {
+      "type": "Text",
+      "text": "Defeated 60 Branded enemies while wielding a warhorn in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89953,
+      "count": 1
+    }
+  ]
+}

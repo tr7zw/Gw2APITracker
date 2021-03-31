@@ -1,0 +1,48 @@
+{
+  "name": "Inquest Helm",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 330,
+  "default_skin": 742,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 17783,
+  "chat_link": "[\u0026AgF3RQAA]",
+  "icon": "https://render.guildwars2.com/file/1397C542B0FF693969DE10160D33781470EEEDC3/61571.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 121,
+    "infusion_slots": [],
+    "attribute_adjustment": 170.72,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 60
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 43
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 43
+        }
+      ]
+    },
+    "suffix_item_id": 24785
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Bloody Slice",
+  "facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+      "duration": 10,
+      "status": "Bleeding",
+      "description": "Deals damage every second; stacks intensity.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/A35F4434E6CAEF5623F7FB9FE3A5E9A103E40FCD/514408.png",
+      "duration": 10,
+      "status": "Vampiric Infection",
+      "description": "Transfers health to source every second. Stacks intensity.",
+      "apply_count": 1
+    }
+  ],
+  "description": "Applies bleeding and Vampiric Infection to foes.",
+  "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+  "flags": [],
+  "id": 51169,
+  "chat_link": "[\u0026BuHHAAA\u003d]"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Ruby Pendant",
+  "description": "True power comes from the heart.",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 528,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23097,
+  "chat_link": "[\u0026AgE5WgAA]",
+  "icon": "https://render.guildwars2.com/file/ED460DE2CFE378F9C27E0C9876AFC009D62406C0/222406.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 120
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 85
+        }
+      ]
+    }
+  }
+}

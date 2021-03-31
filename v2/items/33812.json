@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Krytan Bow of Grawl Slaying",
+  "type": "Weapon",
+  "level": 32,
+  "rarity": "Masterwork",
+  "vendor_value": 96,
+  "default_skin": 4998,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33812,
+  "chat_link": "[\u0026AgEUhAAA]",
+  "icon": "https://render.guildwars2.com/file/1FA1C0C722B9751C4C378055231E14FCB51517BF/61650.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 299,
+    "max_power": 350,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 160.616,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 40
+        }
+      ]
+    },
+    "suffix_item_id": 24646
+  }
+}

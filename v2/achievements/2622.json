@@ -1,0 +1,39 @@
+{
+  "id": 2622,
+  "name": "Saving the City of Gold",
+  "description": "Help save the great city of Tarir by fending off invading Mordrem.",
+  "requirement": "Partake in 100 battles for Tarir, and save the city.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 25,
+      "points": 3
+    },
+    {
+      "count": 50,
+      "points": 5
+    },
+    {
+      "count": 75,
+      "points": 8
+    },
+    {
+      "count": 100,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 222
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": 5026,
+  "name": "Luminary",
+  "description": "",
+  "requirement": "Complete all the light puzzles in East Bjora Marches.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Aberrant Forest"
+    },
+    {
+      "type": "Text",
+      "text": "Frozen Pass"
+    },
+    {
+      "type": "Text",
+      "text": "Asgeir\u0027s Legacy"
+    },
+    {
+      "type": "Text",
+      "text": "Southern Mountains"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 4,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 350
+    }
+  ]
+}

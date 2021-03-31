@@ -1,0 +1,24 @@
+{
+  "id": 5262,
+  "name": "Scorched",
+  "description": "Story Instance: Snapping Steel",
+  "requirement": "Take down a leader inside the secret base within the time limit.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tundra",
+      "id": 506
+    }
+  ]
+}

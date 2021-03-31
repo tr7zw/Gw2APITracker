@@ -1,0 +1,48 @@
+{
+  "name": "Rampager\u0027s Avenger\u0027s Armor",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 2500,
+  "default_skin": 396,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Human"
+  ],
+  "id": 3692,
+  "chat_link": "[\u0026AgFsDgAA]",
+  "icon": "https://render.guildwars2.com/file/094865E70413ECA7D39DCD21FD5F549D3A107EB6/61195.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 216,
+    "infusion_slots": [],
+    "attribute_adjustment": 225.99,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 56
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 79
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 56
+        }
+      ]
+    }
+  }
+}

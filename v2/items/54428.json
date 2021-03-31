@@ -1,0 +1,47 @@
+{
+  "name": "Deserter\u0027s Returner\u0027s Gaff",
+  "type": "Weapon",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 176,
+  "default_skin": 5097,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 54428,
+  "chat_link": "[\u0026AgGc1AAA]",
+  "icon": "https://render.guildwars2.com/file/0A20791A1DE41E33D47F3AE4D564C3C15EBDFE7E/779942.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 428,
+    "max_power": 482,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 249.12,
+    "infix_upgrade": {
+      "id": 1014,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 62
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 87
+        }
+      ]
+    }
+  }
+}

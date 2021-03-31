@@ -1,0 +1,41 @@
+{
+  "name": "Lapis Gold Ring",
+  "description": "",
+  "type": "Trinket",
+  "level": 50,
+  "rarity": "Rare",
+  "vendor_value": 203,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 13533,
+  "chat_link": "[\u0026AgHdNAAA]",
+  "icon": "https://render.guildwars2.com/file/38F93A40B1AFAD26F40D3123A47BB25FE17D5495/455619.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [],
+    "attribute_adjustment": 117.612,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 29
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 41
+        }
+      ]
+    },
+    "suffix_item_id": 24907
+  }
+}

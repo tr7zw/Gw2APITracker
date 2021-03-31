@@ -1,0 +1,68 @@
+{
+  "name": "Marauder Icy Dragon Slayer Longbow of Destroyer Slaying",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 495,
+  "default_skin": 9913,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94861,
+  "chat_link": "[\u0026AgGNcgEA]",
+  "icon": "https://render.guildwars2.com/file/BA979F75AD04BA6B104B96F86E5357B8E5222C67/2412827.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 966,
+    "max_power": 1134,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      },
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 717.024,
+    "infix_upgrade": {
+      "id": 1145,
+      "buff": {
+        "skill_id": 31930
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 240
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 240
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 130
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 130
+        }
+      ]
+    },
+    "suffix_item_id": 24654
+  }
+}

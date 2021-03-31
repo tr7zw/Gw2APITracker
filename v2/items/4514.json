@@ -1,0 +1,50 @@
+{
+  "name": "Murmur Boots",
+  "description": "\u003cc\u003d@flavor\u003e\"You could sneak up on the Master of Whispers in these things.\"\u003cbr\u003e—Slayer Feldera\u003c/c\u003e",
+  "type": "Armor",
+  "level": 79,
+  "rarity": "Fine",
+  "vendor_value": 65,
+  "default_skin": 912,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4514,
+  "chat_link": "[\u0026AgGiEQAA]",
+  "icon": "https://render.guildwars2.com/file/A9ABC29D5DFBD1FA4E0E2401AFB50DD930099806/61268.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 135,
+    "infusion_slots": [],
+    "attribute_adjustment": 95.184,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 24
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 24
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 33
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Valkyrie Darksteel Greatsword",
+  "description": "",
+  "type": "Weapon",
+  "level": 65,
+  "rarity": "Masterwork",
+  "vendor_value": 165,
+  "default_skin": 4055,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 15450,
+  "chat_link": "[\u0026AgFaPAAA]",
+  "icon": "https://render.guildwars2.com/file/1EA00FDAAD23FD1B1B9C4BD6E36EB30A43E21D06/64138.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 628,
+    "max_power": 695,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 413.984,
+    "infix_upgrade": {
+      "id": 157,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 145
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 103
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 103
+        }
+      ]
+    }
+  }
+}

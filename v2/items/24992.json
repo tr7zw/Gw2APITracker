@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Norn Axe of Water",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 156,
+  "default_skin": 5084,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 24992,
+  "chat_link": "[\u0026AgGgYQAA]",
+  "icon": "https://render.guildwars2.com/file/C7DFB75197D3DF2D94D4275A7832293B2A5EDF63/575160.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 534,
+    "max_power": 653,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 200.88,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 70
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 50
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 50
+        }
+      ]
+    },
+    "suffix_item_id": 24550
+  }
+}

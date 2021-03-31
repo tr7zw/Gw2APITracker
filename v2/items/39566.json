@@ -1,0 +1,57 @@
+{
+  "name": "Amulet of Protection",
+  "description": "\u003cc\u003d@flavor\u003eStolen from the body of a long-forgotten lord during the Guild Wars.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 660,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 39566,
+  "chat_link": "[\u0026AgGOmgAA]",
+  "icon": "https://render.guildwars2.com/file/387ECC1FB5D8301D6BEC9C94E71B0617CF07A66E/543901.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Enrichment"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "infix_upgrade": {
+      "id": 656,
+      "buff": {
+        "skill_id": 17069,
+        "description": "+32 Healing Power\n+18 Toughness\n+18 Power"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 108
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 108
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 157
+        }
+      ]
+    }
+  }
+}

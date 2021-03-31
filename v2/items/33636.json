@@ -1,0 +1,41 @@
+{
+  "name": "Penetrating Krytan Shield",
+  "type": "Weapon",
+  "level": 51,
+  "rarity": "Fine",
+  "vendor_value": 45,
+  "default_skin": 5018,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 33636,
+  "chat_link": "[\u0026AgFkgwAA]",
+  "icon": "https://render.guildwars2.com/file/5DA00DC8E6E6E7BE39B51B7F30D2314ECB33A5CF/61712.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 361,
+    "max_power": 407,
+    "defense": 25,
+    "infusion_slots": [],
+    "attribute_adjustment": 135.744,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 48
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 34
+        }
+      ]
+    }
+  }
+}

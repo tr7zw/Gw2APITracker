@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Legionnaire Bayonet of Blood",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Exotic",
+  "vendor_value": 318,
+  "default_skin": 5069,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32295,
+  "chat_link": "[\u0026AgEnfgAA]",
+  "icon": "https://render.guildwars2.com/file/0C26440D74AFBEA29F087FB2F2CF40E13F543561/63057.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 720,
+    "max_power": 880,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 476.8,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 119
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 119
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 167
+        }
+      ]
+    },
+    "suffix_item_id": 24570
+  }
+}

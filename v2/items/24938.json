@@ -1,0 +1,37 @@
+{
+  "name": "Half-Eaten Short Bow",
+  "type": "Weapon",
+  "level": 3,
+  "rarity": "Fine",
+  "vendor_value": 12,
+  "default_skin": 3906,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24938,
+  "chat_link": "[\u0026AgFqYQAA]",
+  "icon": "https://render.guildwars2.com/file/0EFDC626FD430DA00CD9240C95EC6DF0500DB45E/67068.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 143,
+    "max_power": 158,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 28.416,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 10
+        }
+      ]
+    }
+  }
+}

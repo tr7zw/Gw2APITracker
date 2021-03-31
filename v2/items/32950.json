@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Flame Dagger of Air",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 198,
+  "default_skin": 5224,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32950,
+  "chat_link": "[\u0026AgG2gAAA]",
+  "icon": "https://render.guildwars2.com/file/2E706E005EE5CD39D0A23198EBB9780CFC0CE2EF/67835.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 819,
+    "max_power": 869,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 301.824,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 75
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 75
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 106
+        }
+      ]
+    },
+    "suffix_item_id": 24553
+  }
+}

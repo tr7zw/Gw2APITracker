@@ -1,0 +1,40 @@
+{
+  "name": "Strong Magician Boots",
+  "description": "",
+  "type": "Armor",
+  "level": 36,
+  "rarity": "Fine",
+  "vendor_value": 35,
+  "default_skin": 69,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 665,
+  "chat_link": "[\u0026AgGZAgAA]",
+  "icon": "https://render.guildwars2.com/file/561D59C81D1BAC16DA6AC470C256A7C53566DF5D/61032.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 37,
+    "infusion_slots": [],
+    "attribute_adjustment": 31.632,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 11
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": 2235,
+  "name": "Machined Torch",
+  "description": "",
+  "requirement": "Collect all  items to forge your Machined Torch.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 6176
+    },
+    {
+      "type": "Item",
+      "id": 74027
+    },
+    {
+      "type": "Item",
+      "id": 73972
+    },
+    {
+      "type": "Item",
+      "id": 75571
+    },
+    {
+      "type": "Item",
+      "id": 75197
+    },
+    {
+      "type": "Item",
+      "id": 72855
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 73506,
+      "count": 1
+    }
+  ]
+}

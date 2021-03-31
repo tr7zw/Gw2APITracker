@@ -1,0 +1,42 @@
+{
+  "name": "Hearty Iron Rifle",
+  "description": "",
+  "type": "Weapon",
+  "level": 53,
+  "rarity": "Fine",
+  "vendor_value": 71,
+  "default_skin": 4092,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 28046,
+  "chat_link": "[\u0026AgGObQAA]",
+  "icon": "https://render.guildwars2.com/file/167018D742BBF5120BE4ACE80DE5B049089D20F2/62700.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 459,
+    "max_power": 561,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 286.208,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 72
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 100
+        }
+      ]
+    }
+  }
+}

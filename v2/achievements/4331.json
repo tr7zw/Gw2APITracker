@@ -1,0 +1,27 @@
+{
+  "id": 4331,
+  "name": "Four Winds Gale",
+  "description": "",
+  "requirement": "Complete the Four Winds Zephyr achievement five times over the course of the Festival of the Four Winds. The Four Winds Zephyr achievement is located in the Festival of the Four Winds Daily tab.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 10
+    }
+  ],
+  "point_cap": 100,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 88132,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Oil Funnel Warhorn",
+  "description": "\u003cc\u003d@flavor\u003e\"Sometimes you just need to be practical.\"\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 33,
+  "rarity": "Masterwork",
+  "vendor_value": 66,
+  "default_skin": 5149,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30128,
+  "chat_link": "[\u0026AgGwdQAA]",
+  "icon": "https://render.guildwars2.com/file/E40BED1EC22C9F5C5BAC0F432724A5CDE416A109/68175.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 270,
+    "max_power": 299,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 83.436,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 29
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 21
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

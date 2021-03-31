@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Genius Leggings",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 1875,
+  "default_skin": 283,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Asura"
+  ],
+  "id": 3585,
+  "chat_link": "[\u0026AgEBDgAA]",
+  "icon": "https://render.guildwars2.com/file/29B959FAD95F3193AC3E0E3ABA5DD22229B7B311/61156.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Light",
+    "defense": 115,
+    "infusion_slots": [],
+    "attribute_adjustment": 150.66,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 38
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 38
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 53
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Iron Rifle of Venom",
+  "description": "",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Masterwork",
+  "vendor_value": 159,
+  "default_skin": 4092,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28154,
+  "chat_link": "[\u0026AgH6bQAA]",
+  "icon": "https://render.guildwars2.com/file/167018D742BBF5120BE4ACE80DE5B049089D20F2/62700.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 591,
+    "max_power": 722,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 388.008,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 136
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 97
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 97
+        }
+      ]
+    },
+    "suffix_item_id": 24631
+  }
+}

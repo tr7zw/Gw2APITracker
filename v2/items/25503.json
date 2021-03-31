@@ -1,0 +1,44 @@
+{
+  "name": "Mending Shiverpeak Speargun of Debility",
+  "type": "Weapon",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 135,
+  "default_skin": 5058,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25503,
+  "chat_link": "[\u0026AgGfYwAA]",
+  "icon": "https://render.guildwars2.com/file/B144EAD21C1A0A030A79B6A3D5050BFB34C97BFB/534288.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 430,
+    "max_power": 475,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 288.456,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 72
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 101
+        }
+      ]
+    },
+    "suffix_item_id": 24634
+  }
+}

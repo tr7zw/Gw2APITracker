@@ -1,0 +1,28 @@
+{
+  "name": "Bowl of Gladiator Gruel",
+  "type": "Consumable",
+  "level": 37,
+  "rarity": "Basic",
+  "vendor_value": 10,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 8626,
+  "chat_link": "[\u0026AgGyIQAA]",
+  "icon": "https://render.guildwars2.com/file/7F0E43F40322405AD8A490C81826EB5F0B4F2A19/63143.png",
+  "details": {
+    "type": "Food",
+    "duration_ms": 600000,
+    "apply_count": 1,
+    "name": "Nourishment",
+    "icon": "https://render.guildwars2.com/file/779D3F0ABE5B46C09CFC57374DA8CC3A495F291C/436367.png",
+    "description": "+50 Toughness\n+40 Precision\n+10% Experience from Kills"
+  }
+}

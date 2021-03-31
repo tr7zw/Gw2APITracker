@@ -1,0 +1,54 @@
+{
+  "name": "Diviner\u0027s Refitted Aureate Rinblade",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 132,
+  "default_skin": 9858,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94650,
+  "chat_link": "[\u0026AgG6cQEA]",
+  "icon": "https://render.guildwars2.com/file/10C6EC98E2050318B17002BB3029F8E3E7C83613/2393781.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 745,
+    "max_power": 823,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 279.956,
+    "infix_upgrade": {
+      "id": 1556,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 84
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 46
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 46
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 84
+        }
+      ]
+    }
+  }
+}

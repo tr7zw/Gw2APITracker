@@ -1,0 +1,53 @@
+{
+  "name": "Whisper\u0027s Secret Torch",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 4500,
+  "default_skin": 4935,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 31142,
+  "chat_link": "[\u0026AgGmeQAA]",
+  "icon": "https://render.guildwars2.com/file/5E6F36C2473DF6424A5105E736C5459DB63AEEEE/66662.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 699,
+    "max_power": 820,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 301.824,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 75
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 75
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 106
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

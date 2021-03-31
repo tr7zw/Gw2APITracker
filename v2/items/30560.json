@@ -1,0 +1,44 @@
+{
+  "name": "Fisher\u0027s Shield",
+  "description": "\u003cc\u003d@flavor\u003e\"You\u0027d be surprised how many uses a fisher like me has for a shield.\"\u003cbr\u003e—Fisher Leudap\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 12,
+  "rarity": "Fine",
+  "vendor_value": 17,
+  "default_skin": 4595,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30560,
+  "chat_link": "[\u0026AgFgdwAA]",
+  "icon": "https://render.guildwars2.com/file/40D42193932BDD2F953B5A1D26C6650C7E2DBE99/64925.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 154,
+    "max_power": 174,
+    "defense": 8,
+    "infusion_slots": [],
+    "attribute_adjustment": 26.496,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

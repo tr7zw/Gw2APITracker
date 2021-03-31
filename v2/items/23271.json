@@ -1,0 +1,37 @@
+{
+  "name": "Sapphire Heart",
+  "type": "Trinket",
+  "level": 15,
+  "rarity": "Basic",
+  "vendor_value": 13,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23271,
+  "chat_link": "[\u0026AgHnWgAA]",
+  "icon": "https://render.guildwars2.com/file/C00439EF2BE3B9E5F86299D9F47E32C0D40AD6C4/63109.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 15.2425,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 5
+        }
+      ]
+    },
+    "suffix_item_id": 24500
+  }
+}

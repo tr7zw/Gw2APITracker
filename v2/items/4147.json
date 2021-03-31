@@ -1,0 +1,50 @@
+{
+  "name": "Light Deep and Troubled Chestpiece",
+  "description": "\u003cc\u003d@flavor\u003e\"We carry with us great burdens, but oftentimes it\u0027s those burdens that shield us from danger.\"\u003cbr\u003e—Bladed Softness\u003c/c\u003e",
+  "type": "Armor",
+  "level": 78,
+  "rarity": "Fine",
+  "vendor_value": 96,
+  "default_skin": 866,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4147,
+  "chat_link": "[\u0026AgEzEAAA]",
+  "icon": "https://render.guildwars2.com/file/13B530319E9A2D0151670C590B37C69A20DB1B98/61230.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 230,
+    "infusion_slots": [],
+    "attribute_adjustment": 280.08,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 70
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 70
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 98
+        }
+      ]
+    }
+  }
+}

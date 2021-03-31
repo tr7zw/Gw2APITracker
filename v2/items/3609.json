@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Electroplated Boots",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 1000,
+  "default_skin": 310,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Asura"
+  ],
+  "id": 3609,
+  "chat_link": "[\u0026AgEZDgAA]",
+  "icon": "https://render.guildwars2.com/file/452CBFE8D50D016C05A7BF1EEA420B3DEFC4C068/61157.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 108,
+    "infusion_slots": [],
+    "attribute_adjustment": 75.33,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 19
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 19
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 26
+        }
+      ]
+    }
+  }
+}

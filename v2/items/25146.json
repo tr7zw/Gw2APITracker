@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Shiverpeak Maul of the Geomancer",
+  "type": "Weapon",
+  "level": 68,
+  "rarity": "Masterwork",
+  "vendor_value": 171,
+  "default_skin": 5213,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25146,
+  "chat_link": "[\u0026AgE6YgAA]",
+  "icon": "https://render.guildwars2.com/file/2412401469770631E7E34972B3EFCCAB90094CE8/534277.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 659,
+    "max_power": 743,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 442.408,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 155
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 111
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 111
+        }
+      ]
+    },
+    "suffix_item_id": 24603
+  }
+}

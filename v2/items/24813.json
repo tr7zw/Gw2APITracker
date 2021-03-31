@@ -1,0 +1,38 @@
+{
+  "name": "Minor Rune of the Ranger",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eSkill\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 5,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24813,
+  "chat_link": "[\u0026AgHtYAAA]",
+  "icon": "https://render.guildwars2.com/file/D6D8B0411F97625CF867D66BF22366CE44FEE41B/221129.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+10 Precision",
+      "+14 Ferocity"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Ranger"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Penetrating Privateer Pants",
+  "type": "Armor",
+  "level": 45,
+  "rarity": "Rare",
+  "vendor_value": 173,
+  "default_skin": 44,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 17016,
+  "chat_link": "[\u0026AgF4QgAA]",
+  "icon": "https://render.guildwars2.com/file/DDC5DC137A135FBA1E080C042C020831C9B6DEB0/61055.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Medium",
+    "defense": 91,
+    "infusion_slots": [],
+    "attribute_adjustment": 102.114,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 36
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 26
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Carrion Glyphic Pistol",
+  "type": "Weapon",
+  "level": 61,
+  "rarity": "Fine",
+  "vendor_value": 52,
+  "default_skin": 5095,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 34466,
+  "chat_link": "[\u0026AgGihgAA]",
+  "icon": "https://render.guildwars2.com/file/05C3631739167BDC0867BECE80C0BE39C0B8B63B/62986.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 477,
+    "max_power": 560,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 174.464,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 44
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 44
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 61
+        }
+      ]
+    }
+  }
+}

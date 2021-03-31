@@ -1,0 +1,53 @@
+{
+  "name": "Penitent Scepter",
+  "description": "\u003cc\u003d@flavor\u003e\"Fight magic with magic, they say.\"\u003cbr\u003e—Tactician Almonia\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 132,
+  "default_skin": 5061,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30290,
+  "chat_link": "[\u0026AgFSdgAA]",
+  "icon": "https://render.guildwars2.com/file/B0E409A76215A744756C7E98790F9B06F1489F1F/62814.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 737,
+    "max_power": 831,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 279.956,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 98
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 70
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 70
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

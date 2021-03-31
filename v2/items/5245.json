@@ -1,0 +1,46 @@
+{
+  "name": "Berserker\u0027s Chainmail Helm",
+  "description": "",
+  "type": "Armor",
+  "level": 70,
+  "rarity": "Basic",
+  "vendor_value": 37,
+  "default_skin": 81,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 5245,
+  "chat_link": "[\u0026AgF9FAAA]",
+  "icon": "https://render.guildwars2.com/file/5F7BD5804C9794B507341AC94A5DA59711A4E174/61102.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 61,
+    "infusion_slots": [],
+    "attribute_adjustment": 84.578,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 30
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 21
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 21
+        }
+      ]
+    }
+  }
+}

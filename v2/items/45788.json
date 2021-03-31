@@ -1,0 +1,46 @@
+{
+  "name": "Assassin\u0027s Noble Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 65,
+  "rarity": "Rare",
+  "vendor_value": 149,
+  "default_skin": 252,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 45788,
+  "chat_link": "[\u0026AgHcsgAA]",
+  "icon": "https://render.guildwars2.com/file/04D6DAB3CCB0CF65A2CEE2F7BAA4CFC44CBA369C/61442.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 104,
+    "infusion_slots": [],
+    "attribute_adjustment": 84.051,
+    "infix_upgrade": {
+      "id": 753,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 21
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 29
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 21
+        }
+      ]
+    }
+  }
+}

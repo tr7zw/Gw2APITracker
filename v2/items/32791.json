@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Steam Staff of Smoldering",
+  "type": "Weapon",
+  "level": 44,
+  "rarity": "Masterwork",
+  "vendor_value": 120,
+  "default_skin": 5238,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32791,
+  "chat_link": "[\u0026AgEXgAAA]",
+  "icon": "https://render.guildwars2.com/file/55EE23F7C04B5823F2B2CC5DBB2C636E5F68A6A0/68163.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 412,
+    "max_power": 464,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 242.352,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 61
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 85
+        }
+      ]
+    },
+    "suffix_item_id": 24622
+  }
+}

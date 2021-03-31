@@ -1,0 +1,50 @@
+{
+  "name": "Sarraceniaceae",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 4841,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27965,
+  "chat_link": "[\u0026AgE9bQAA]",
+  "icon": "https://render.guildwars2.com/file/D553E999B135B979E1DF0F9171BB5F09D4DF7595/780586.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 986,
+    "max_power": 1205,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 171
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 171
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 239
+        }
+      ]
+    },
+    "suffix_item_id": 24571
+  }
+}

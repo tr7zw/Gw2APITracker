@@ -1,0 +1,37 @@
+{
+  "name": "Fire Shield",
+  "facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/2E7050E44690AFE0A396FA0DAD526699392743F3/2261521.png",
+      "duration": 4,
+      "status": "Fire Aura",
+      "description": "Enveloped in a fiery shield that burns foes, grants might each time you are struck (1-second cooldown per attacker).",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+      "duration": 10,
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+      "duration": 1,
+      "status": "Burning",
+      "description": "Deals damage every second; stacks intensity.",
+      "apply_count": 1
+    }
+  ],
+  "description": "Activate a fire shield that burns enemies who strike you, granting might for each burn applied.",
+  "icon": "https://render.guildwars2.com/file/2AE8672D7A08BB4129B6F0F40C2BC10642D55C28/102884.png",
+  "flags": [],
+  "id": 17813,
+  "chat_link": "[\u0026BpVFAAA\u003d]"
+}

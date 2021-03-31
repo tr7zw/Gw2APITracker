@@ -1,0 +1,43 @@
+{
+  "name": "Mighty Bandit Spire",
+  "description": "",
+  "type": "Weapon",
+  "level": 15,
+  "rarity": "Masterwork",
+  "vendor_value": 325,
+  "default_skin": 4077,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 35470,
+  "chat_link": "[\u0026AgGOigAA]",
+  "icon": "https://render.guildwars2.com/file/6426AC91389A582D7A0F02F641DDDAD6F8F87F4F/66497.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 218,
+    "max_power": 245,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 71.264,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 25
+        }
+      ]
+    }
+  }
+}

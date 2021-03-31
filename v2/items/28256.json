@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Soft Wood Longbow of Fire",
+  "description": "",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Exotic",
+  "vendor_value": 318,
+  "default_skin": 3942,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28256,
+  "chat_link": "[\u0026AgFgbgAA]",
+  "icon": "https://render.guildwars2.com/file/C6110F52DF5AFE0F00A56F9E143E9732176DDDE9/65015.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 672,
+    "max_power": 789,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 476.8,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 167
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 119
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 119
+        }
+      ]
+    },
+    "suffix_item_id": 24548
+  }
+}

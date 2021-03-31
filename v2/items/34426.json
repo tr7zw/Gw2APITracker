@@ -1,0 +1,45 @@
+{
+  "name": "Carrion Glyphic Axe",
+  "type": "Weapon",
+  "level": 61,
+  "rarity": "Fine",
+  "vendor_value": 52,
+  "default_skin": 5192,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 34426,
+  "chat_link": "[\u0026AgF6hgAA]",
+  "icon": "https://render.guildwars2.com/file/775ED24CE0C0F5749BAD66DD9778BDE4DA37AF4A/62850.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 466,
+    "max_power": 570,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 174.464,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 44
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 44
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 61
+        }
+      ]
+    }
+  }
+}

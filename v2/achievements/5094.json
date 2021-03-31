@@ -1,0 +1,36 @@
+{
+  "id": 5094,
+  "name": "Flickering Light",
+  "description": "",
+  "requirement": "Light  torches while fighting the Boneskinner in the Raven Sanctum.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 1
+    },
+    {
+      "count": 20,
+      "points": 1
+    },
+    {
+      "count": 30,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 92257,
+      "count": 1
+    }
+  ]
+}

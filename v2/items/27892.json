@@ -1,0 +1,45 @@
+{
+  "name": "Honed Iron Hammer of Restoration",
+  "description": "",
+  "type": "Weapon",
+  "level": 54,
+  "rarity": "Rare",
+  "vendor_value": 212,
+  "default_skin": 4060,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27892,
+  "chat_link": "[\u0026AgH0bAAA]",
+  "icon": "https://render.guildwars2.com/file/2F4509F15B48B1A9F1579D08539F4109972A31A4/65162.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 547,
+    "max_power": 616,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 346.896,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 121
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 87
+        }
+      ]
+    },
+    "suffix_item_id": 24593
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Etched Artifact of Accuracy",
+  "type": "Weapon",
+  "level": 78,
+  "rarity": "Exotic",
+  "vendor_value": 256,
+  "default_skin": 5038,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25038,
+  "chat_link": "[\u0026AgHOYQAA]",
+  "icon": "https://render.guildwars2.com/file/D5FA27AA2111CC0FBD1318449BE25007FEFE7DB0/779886.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 805,
+    "max_power": 855,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 329.36,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 115
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 82
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 82
+        }
+      ]
+    },
+    "suffix_item_id": 24618
+  }
+}

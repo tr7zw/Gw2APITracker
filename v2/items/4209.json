@@ -1,0 +1,42 @@
+{
+  "name": "Oldgate Leather Mask",
+  "description": "\u003cc\u003d@flavor\u003e\"Protects what\u0027s between the ears.\"\u003cbr\u003e—Zalvax Brokenclaw\u003c/c\u003e",
+  "type": "Armor",
+  "level": 15,
+  "rarity": "Fine",
+  "vendor_value": 25,
+  "default_skin": 941,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4209,
+  "chat_link": "[\u0026AgFxEAAA]",
+  "icon": "https://render.guildwars2.com/file/40B4D696039F9E06A11BF913FF66FDFB3DD57CEA/61253.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 14,
+    "infusion_slots": [],
+    "attribute_adjustment": 15.872,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Major Rune of the Baelfire",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003ePotence\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 108,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 24853,
+  "chat_link": "[\u0026AgEVYQAA]",
+  "icon": "https://render.guildwars2.com/file/4AA4DF15A04E6D3B5FDE7E7CEDDB7E15F44314FF/221158.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+15 Power",
+      "+6% Burning Duration",
+      "+30 Power",
+      "+5% Condition Duration"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Baelfire"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Diviner\u0027s Refitted Aureate Warhorn",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 132,
+  "default_skin": 9852,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94662,
+  "chat_link": "[\u0026AgHGcQEA]",
+  "icon": "https://render.guildwars2.com/file/1EFFA62704C996D047BF913FCB56A6D4235380FB/2393792.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 671,
+    "max_power": 741,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 279.956,
+    "infix_upgrade": {
+      "id": 1556,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 84
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 46
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 46
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 84
+        }
+      ]
+    }
+  }
+}

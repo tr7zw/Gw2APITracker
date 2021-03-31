@@ -1,0 +1,41 @@
+{
+  "name": "Uppercut",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 130
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 2.25
+    },
+    {
+      "text": "Launch",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/CB330EF25C62C05F1800A1C507B6AE4944551746/156653.png",
+      "distance": 0
+    }
+  ],
+  "description": "Deal a heavy blow with your fist, sending enemies flying.",
+  "icon": "https://render.guildwars2.com/file/50C80B47284B618039B173A1EC5EA81AA6B577D4/1058617.png",
+  "type": "Elite",
+  "weapon_type": "None",
+  "professions": [
+    "Thief"
+  ],
+  "slot": "Elite",
+  "next_chain": 29639,
+  "prev_chain": 29516,
+  "flip_skill": 29639,
+  "flags": [
+    "NoUnderwater"
+  ],
+  "specialization": 7,
+  "id": 30077,
+  "chat_link": "[\u0026Bn11AAA\u003d]"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Recipe: Irradiated Focus",
+  "description": "Double-click to learn a recipe",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 17,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9601,
+  "chat_link": "[\u0026AgGBJQAA]",
+  "icon": "https://render.guildwars2.com/file/DE75FA495AD62D2E5C10DF0F9765E5112976390C/849370.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 4218
+  }
+}

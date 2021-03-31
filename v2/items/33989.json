@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Aureate Axe of Battle",
+  "type": "Weapon",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 111,
+  "default_skin": 5017,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33989,
+  "chat_link": "[\u0026AgHFhAAA]",
+  "icon": "https://render.guildwars2.com/file/FC929DD20B9CF622B72E777D0349A225BE755A46/68531.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 350,
+    "max_power": 428,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 113.472,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 40
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 28
+        }
+      ]
+    },
+    "suffix_item_id": 24602
+  }
+}

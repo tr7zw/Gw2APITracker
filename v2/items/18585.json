@@ -1,0 +1,49 @@
+{
+  "name": "Nightmare Court Faceguard",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 330,
+  "default_skin": 701,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 18585,
+  "chat_link": "[\u0026AgGZSAAA]",
+  "icon": "https://render.guildwars2.com/file/CC4368E21B3005A4291640C4B007A2D0482470EE/493122.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 97,
+    "infusion_slots": [],
+    "attribute_adjustment": 170.72,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 43
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 60
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 43
+        }
+      ]
+    },
+    "suffix_item_id": 24848
+  }
+}

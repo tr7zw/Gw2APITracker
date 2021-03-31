@@ -1,0 +1,42 @@
+{
+  "name": "Hearty Steam Speargun",
+  "description": "",
+  "type": "Weapon",
+  "level": 48,
+  "rarity": "Fine",
+  "vendor_value": 65,
+  "default_skin": 5091,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 28214,
+  "chat_link": "[\u0026AgE2bgAA]",
+  "icon": "https://render.guildwars2.com/file/935CD7A5037BB9F3C46E0D770D2DD9730ED74A18/62495.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 380,
+    "max_power": 420,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 249.344,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 62
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 87
+        }
+      ]
+    }
+  }
+}

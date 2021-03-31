@@ -1,0 +1,48 @@
+{
+  "name": "Elixir E",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 40
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+      "duration": 3,
+      "status": "Protection",
+      "description": "Incoming damage decreased by 33%; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Barrier",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+      "value": 3000,
+      "target": "Healing"
+    }
+  ],
+  "description": "Elixir. Gain barrier and protection.",
+  "icon": "https://render.guildwars2.com/file/0E9264100B0A6A13395EF6083534E6DFB64C0BD8/103415.png",
+  "flags": [],
+  "id": 53548,
+  "chat_link": "[\u0026BizRAAA\u003d]",
+  "categories": [
+    "Elixir"
+  ],
+  "traited_facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+      "duration": 4,
+      "status": "Protection",
+      "description": "Incoming damage decreased by 33%; stacks duration.",
+      "apply_count": 1,
+      "requires_trait": 473,
+      "overrides": 1
+    }
+  ]
+}

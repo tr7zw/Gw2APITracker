@@ -1,0 +1,53 @@
+{
+  "name": "Scout\u0027s Trident",
+  "description": "\u003cc\u003d@flavor\u003e\"They say charr don\u0027t like to swim? Ha! If there are Branded to kill, I love it.\"\u003cbr\u003e—Sentinel Staggerfoe\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 57,
+  "rarity": "Masterwork",
+  "vendor_value": 147,
+  "default_skin": 5144,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30084,
+  "chat_link": "[\u0026AgGEdQAA]",
+  "icon": "https://render.guildwars2.com/file/55EE23F7C04B5823F2B2CC5DBB2C636E5F68A6A0/68163.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 494,
+    "max_power": 546,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 344.896,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 86
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 86
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 121
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

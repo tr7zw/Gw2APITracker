@@ -1,0 +1,41 @@
+{
+  "name": "Ravaging Glyphic Handblade",
+  "type": "Weapon",
+  "level": 56,
+  "rarity": "Fine",
+  "vendor_value": 49,
+  "default_skin": 5234,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 34357,
+  "chat_link": "[\u0026AgE1hgAA]",
+  "icon": "https://render.guildwars2.com/file/EED3DD9C78A29772084A56DFD91AA95A0CBB49CA/62843.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 456,
+    "max_power": 484,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 154.176,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 39
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 54
+        }
+      ]
+    }
+  }
+}

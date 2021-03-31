@@ -1,0 +1,37 @@
+{
+  "name": "Glacial Eye",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 1,
+  "default_skin": 2048,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoMysticForge",
+    "NoSalvage",
+    "NotUpgradeable",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6466,
+  "chat_link": "[\u0026AgFCGQAA]",
+  "icon": "https://render.guildwars2.com/file/FC61E5E445ABE0CE636B76B7FC7968CB43584973/61636.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 5,
+    "infusion_slots": [],
+    "attribute_adjustment": 3.9,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    }
+  }
+}

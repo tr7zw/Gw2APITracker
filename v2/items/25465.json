@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Shiverpeak Short Bow of Agony",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Masterwork",
+  "vendor_value": 159,
+  "default_skin": 5113,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25465,
+  "chat_link": "[\u0026AgF5YwAA]",
+  "icon": "https://render.guildwars2.com/file/A2662F69D17EECB037A84A62CDF8A0921CDB353F/534287.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 542,
+    "max_power": 599,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 388.008,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 136
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 97
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 97
+        }
+      ]
+    },
+    "suffix_item_id": 24610
+  }
+}

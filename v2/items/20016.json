@@ -1,0 +1,26 @@
+{
+  "name": "Armor Booster",
+  "description": "Double-click to gain a boon that reduces incoming damage by 5% for one hour. Does not work in PvP, WvW, or raids.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 0,
+  "game_types": [
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 20016,
+  "chat_link": "[\u0026AgEwTgAA]",
+  "icon": "https://render.guildwars2.com/file/9D73A9FFD9E99376A445C7CEE7DEA40F72F05B3F/434415.png",
+  "details": {
+    "type": "Halloween"
+  }
+}

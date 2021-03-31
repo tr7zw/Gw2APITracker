@@ -1,0 +1,48 @@
+{
+  "name": "Rampager\u0027s Assassin\u0027s Boots",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 15000,
+  "default_skin": 424,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Human"
+  ],
+  "id": 3753,
+  "chat_link": "[\u0026AgGpDgAA]",
+  "icon": "https://render.guildwars2.com/file/AE7700B57D429E421133FBCC5C431BF73BC91AD2/218913.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 139,
+    "infusion_slots": [],
+    "attribute_adjustment": 113.184,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 28
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 40
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 28
+        }
+      ]
+    }
+  }
+}

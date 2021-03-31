@@ -1,0 +1,39 @@
+{
+  "name": "Jar of Ooze",
+  "description": "\u003cc\u003d@flavor\u003e\"Warning: Keep tightly sealed. Some kinetic agitation is to be expected.\"\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 5,
+  "rarity": "Fine",
+  "vendor_value": 13,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23868,
+  "chat_link": "[\u0026AgE8XQAA]",
+  "icon": "https://render.guildwars2.com/file/2801B02C780CA1F2B32D674039EAE6260C4133DB/455975.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 9.84,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 3
+        }
+      ]
+    }
+  }
+}

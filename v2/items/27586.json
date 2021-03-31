@@ -1,0 +1,42 @@
+{
+  "name": "Hearty Soft Wood Staff",
+  "description": "",
+  "type": "Weapon",
+  "level": 48,
+  "rarity": "Fine",
+  "vendor_value": 65,
+  "default_skin": 4067,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 27586,
+  "chat_link": "[\u0026AgHCawAA]",
+  "icon": "https://render.guildwars2.com/file/04BE267A42B12DB00F0162639702BDEFC90F4A5D/62880.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 413,
+    "max_power": 466,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 249.344,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 62
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 87
+        }
+      ]
+    }
+  }
+}

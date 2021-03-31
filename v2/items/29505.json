@@ -1,0 +1,48 @@
+{
+  "name": "Patient Shield",
+  "description": "\u003cc\u003d@flavor\u003e\"You\u0027ll need a shield when they start throwing bottles, gears, and the occasional bomb.\"\n\u003cbr\u003e—Scholar Antal the Patient\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 41,
+  "rarity": "Fine",
+  "vendor_value": 38,
+  "default_skin": 4595,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29505,
+  "chat_link": "[\u0026AgFBcwAA]",
+  "icon": "https://render.guildwars2.com/file/40D42193932BDD2F953B5A1D26C6650C7E2DBE99/64925.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 293,
+    "max_power": 330,
+    "defense": 20,
+    "infusion_slots": [],
+    "attribute_adjustment": 100.864,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 25
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 35
+        }
+      ]
+    }
+  }
+}

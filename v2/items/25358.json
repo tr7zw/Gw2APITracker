@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Etched Scepter of Accuracy",
+  "type": "Weapon",
+  "level": 78,
+  "rarity": "Exotic",
+  "vendor_value": 256,
+  "default_skin": 5039,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25358,
+  "chat_link": "[\u0026AgEOYwAA]",
+  "icon": "https://render.guildwars2.com/file/9A6696E1BFC99D33111C60B1D1EFFBE2289D9711/779893.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 867,
+    "max_power": 978,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 329.36,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 115
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 82
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 82
+        }
+      ]
+    },
+    "suffix_item_id": 24618
+  }
+}

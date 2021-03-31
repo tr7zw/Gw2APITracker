@@ -1,0 +1,59 @@
+{
+  "id": 1778,
+  "name": "Bloody Prince\u0027s Toybox",
+  "description": "\u003cc\u003d@flavor\u003e\"Ugh. It\u0027s my sixth birthday all over again.\"\u003c/c\u003e\n—Prince Edrick Thorn",
+  "requirement": "Unlock all  weapon skins in your wardrobe.",
+  "locked_text": "Purchase the Bloody Prince\u0027s Toy Chest from the Black Lion Weapons Specialist.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 67363
+    },
+    {
+      "type": "Skin",
+      "id": 3831
+    },
+    {
+      "type": "Skin",
+      "id": 3802
+    },
+    {
+      "type": "Skin",
+      "id": 3816
+    },
+    {
+      "type": "Skin",
+      "id": 3807
+    },
+    {
+      "type": "Skin",
+      "id": 3794
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 43992,
+      "count": 5
+    }
+  ]
+}

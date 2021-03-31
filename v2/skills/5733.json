@@ -1,0 +1,50 @@
+{
+  "name": "Wind Blast",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 130
+    },
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 18
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 0.33
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+      "duration": 3,
+      "status": "Superspeed",
+      "description": "Movement speed is greatly increased.",
+      "apply_count": 1
+    },
+    {
+      "text": "Launch",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/CB330EF25C62C05F1800A1C507B6AE4944551746/156653.png",
+      "distance": 600
+    }
+  ],
+  "description": "Launch your foe with a banishing smash.",
+  "icon": "https://render.guildwars2.com/file/69200409BE3757744A271E1F7676DFF134B80E06/103392.png",
+  "type": "Weapon",
+  "weapon_type": "Sword",
+  "professions": [],
+  "slot": "Weapon_3",
+  "flags": [
+    "NoUnderwater"
+  ],
+  "id": 5733,
+  "chat_link": "[\u0026BmUWAAA\u003d]"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Seraphim Dye",
+  "description": "Double-click to unlock this dye color for all characters.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "DeleteWarning"
+  ],
+  "restrictions": [],
+  "id": 94034,
+  "chat_link": "[\u0026AgFSbwEA]",
+  "icon": "https://render.guildwars2.com/file/90B6B2C8F04F1C5E6FD70E2CAB02ED70091B641B/2332435.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "Dye",
+    "color_id": -1
+  }
+}

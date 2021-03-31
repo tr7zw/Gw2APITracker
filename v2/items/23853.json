@@ -1,0 +1,42 @@
+{
+  "name": "Missing Person Flier",
+  "description": "\u003cc\u003d@flavor\u003eBelow a portrait, the flier reads: \"Samm Volkman, last seen in the vicinity of Greenflin Plateau.\"\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 39,
+  "rarity": "Masterwork",
+  "vendor_value": 93,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23853,
+  "chat_link": "[\u0026AgEtXQAA]",
+  "icon": "https://render.guildwars2.com/file/B9595BAFC57D70621D0A0C745C6E475FC540707C/66230.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 64.77,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 16
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 23
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Glyph of Rejuvenation",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 24
+    },
+    {
+      "text": "Self-Healing",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "value": 1950,
+      "target": "Healing"
+    },
+    {
+      "text": "Allied Healing",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "value": 4860,
+      "target": "Healing"
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 300
+    }
+  ],
+  "description": "Glyph. Greatly heal your allies while healing yourself and your pet for a minor amount.",
+  "icon": "https://render.guildwars2.com/file/0CA807B60E96D1757EF1E59825269CB4FE1B31E6/1128604.png",
+  "type": "Heal",
+  "weapon_type": "None",
+  "professions": [
+    "Ranger"
+  ],
+  "slot": "Heal",
+  "flags": [
+    "NoUnderwater"
+  ],
+  "specialization": 5,
+  "id": 31867,
+  "chat_link": "[\u0026Bnt8AAA\u003d]",
+  "categories": [
+    "Glyph"
+  ]
+}

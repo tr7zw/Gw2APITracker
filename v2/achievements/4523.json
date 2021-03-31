@@ -1,0 +1,53 @@
+{
+  "id": 4523,
+  "name": "Chasing Tales: Carver the Carver",
+  "description": "",
+  "requirement": "Acquire a Dragonsblood sword and perform tasks to re-create Carver\u0027s legend.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Acquire the tome entry Chasing Tales: Carver the Carver."
+    },
+    {
+      "type": "Text",
+      "text": "Acquire the heroic spirit of Carver: deed #1."
+    },
+    {
+      "type": "Text",
+      "text": "Acquire the heroic spirit of Carver: deed #2."
+    },
+    {
+      "type": "Text",
+      "text": "Acquire the heroic spirit of Carver: deed #3."
+    },
+    {
+      "type": "Text",
+      "text": "Meet with the spirit of Carver at a heroic font."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 322
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 4356,
+  "icon": "https://render.guildwars2.com/file/3FB1AE472DF109D022146F26B0F420140BFC26FE/1824200.png",
+  "name": "Requiem: Experiment 5",
+  "description": "\u003cc\u003d@Flavor\u003eIt has a certain...what do you call it, Mist-ique?\u003c/c\u003e",
+  "requirement": "Untangle this item from the Mists.",
+  "locked_text": "Acquire a Mist-entangled item.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 88581
+    },
+    {
+      "type": "Item",
+      "id": 88890
+    },
+    {
+      "type": "Item",
+      "id": 88814
+    },
+    {
+      "type": "Item",
+      "id": 88946
+    },
+    {
+      "type": "Item",
+      "id": 88905
+    },
+    {
+      "type": "Item",
+      "id": 88609
+    },
+    {
+      "type": "Item",
+      "id": 88563
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 7,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 88731,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": 3389,
+  "name": "Sword Taxonomy",
+  "description": "",
+  "requirement": "Account-bind each form of Caladbolg.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 80710
+    },
+    {
+      "type": "Item",
+      "id": 80732
+    },
+    {
+      "type": "Item",
+      "id": 80741
+    },
+    {
+      "type": "Item",
+      "id": 80786
+    },
+    {
+      "type": "Item",
+      "id": 80824
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 5,
+      "points": 20
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 80707,
+      "count": 1
+    }
+  ]
+}

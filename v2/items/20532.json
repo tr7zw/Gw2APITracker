@@ -1,0 +1,27 @@
+{
+  "name": "Whisper Dye",
+  "description": "Double-click to unlock this dye color for all characters.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 10,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell"
+  ],
+  "restrictions": [],
+  "id": 20532,
+  "chat_link": "[\u0026AgE0UAAA]",
+  "icon": "https://render.guildwars2.com/file/A1D65312786041F6930BE442F661079A9FF6A7FE/66653.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "Dye",
+    "color_id": -1
+  }
+}

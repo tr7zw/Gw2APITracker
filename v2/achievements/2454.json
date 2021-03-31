@@ -1,0 +1,62 @@
+{
+  "id": 2454,
+  "name": "Machined Rifle",
+  "description": "",
+  "requirement": "Collect all  items to forge your Machined Rifle.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 6195
+    },
+    {
+      "type": "Item",
+      "id": 74141
+    },
+    {
+      "type": "Item",
+      "id": 71460
+    },
+    {
+      "type": "Item",
+      "id": 76050
+    },
+    {
+      "type": "Item",
+      "id": 70900
+    },
+    {
+      "type": "Item",
+      "id": 71761
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 76811,
+      "count": 1
+    }
+  ]
+}

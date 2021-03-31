@@ -1,0 +1,47 @@
+{
+  "name": "Elegant Tailor\u0027s Backpack",
+  "description": "This equipment can hold an additional upgrade. Unequip this backpack to use it as a crafting ingredient. Using this as a crafting ingredient will destroy any upgrades held within.",
+  "type": "Back",
+  "level": 78,
+  "rarity": "Exotic",
+  "vendor_value": 256,
+  "default_skin": 2282,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 62927,
+  "chat_link": "[\u0026AgHP9QAA]",
+  "icon": "https://render.guildwars2.com/file/42249A5922C123E4F94FEC6AC04E097F7D7AA00F/866676.png",
+  "details": {
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 82.34,
+    "stat_choices": [
+      1052,
+      1042,
+      1044,
+      1043,
+      1046,
+      1048,
+      1047,
+      1041,
+      1050,
+      1051
+    ]
+  }
+}

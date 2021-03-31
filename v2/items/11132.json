@@ -1,0 +1,44 @@
+{
+  "name": "Berserker\u0027s Winged Boots",
+  "description": "",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Fine",
+  "vendor_value": 62,
+  "default_skin": 168,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 11132,
+  "chat_link": "[\u0026AgF8KwAA]",
+  "icon": "https://render.guildwars2.com/file/F7E706D6344EDDA226E0CD65A0E39D57C31553C6/61508.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 68,
+    "infusion_slots": [],
+    "attribute_adjustment": 63.912,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 22
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 16
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 16
+        }
+      ]
+    }
+  }
+}

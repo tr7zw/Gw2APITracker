@@ -1,0 +1,28 @@
+{
+  "name": "Recipe: Godskull Brazier",
+  "description": "Double-click to learn a Rare Grawl Recipe.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 33,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9938,
+  "chat_link": "[\u0026AgHSJgAA]",
+  "icon": "https://render.guildwars2.com/file/B5DD06C2FC9FFFEFDF0AE0D5D16402657AE0CA70/849406.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 5303
+  }
+}

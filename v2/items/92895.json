@@ -1,0 +1,44 @@
+{
+  "name": "Mighty Waring\u0027s Regulator",
+  "description": "An enhanced version of the standard Mighty weapon.",
+  "type": "Weapon",
+  "level": 10,
+  "rarity": "Fine",
+  "vendor_value": 18,
+  "default_skin": 3861,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92895,
+  "chat_link": "[\u0026AgHfagEA]",
+  "icon": "https://render.guildwars2.com/file/6E350F079207B60BFBD5A54A9F14E667677E0016/66184.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 175,
+    "max_power": 197,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 28.224,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 10
+        }
+      ]
+    }
+  }
+}

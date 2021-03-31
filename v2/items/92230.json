@@ -1,0 +1,47 @@
+{
+  "name": "Restored Boreal Hammer",
+  "description": "A pristine ancient norn weapon, crafted using materials found in Bjora Marches.",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 9044,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92230,
+  "chat_link": "[\u0026AgFGaAEA]",
+  "icon": "https://render.guildwars2.com/file/0F3D93F1599E2BFCCDE54FE909CEE7684E5862DF/2220613.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Choking",
+    "min_power": 985,
+    "max_power": 1111,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 239
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 171
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 171
+        }
+      ]
+    }
+  }
+}

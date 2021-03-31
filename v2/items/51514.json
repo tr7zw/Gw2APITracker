@@ -1,0 +1,51 @@
+{
+  "name": "Apostate\u0027s Sacred Xylem",
+  "type": "Weapon",
+  "level": 71,
+  "rarity": "Exotic",
+  "vendor_value": 244,
+  "default_skin": 3881,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 51514,
+  "chat_link": "[\u0026AgE6yQAA]",
+  "icon": "https://render.guildwars2.com/file/A8DD23316F0219FD72BD06DC492BC666EB28C943/433745.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 811,
+    "max_power": 914,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 305.2,
+    "infix_upgrade": {
+      "id": 1012,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 76
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 76
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 107
+        }
+      ]
+    }
+  }
+}

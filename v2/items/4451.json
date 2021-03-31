@@ -1,0 +1,50 @@
+{
+  "name": "Brassclaw Pauldrons",
+  "description": "\u003cc\u003d@flavor\u003e\"Made extra shiny for upcoming shiny battles.\"\u003cbr\u003e—Explorer Grretergrret\u003c/c\u003e",
+  "type": "Armor",
+  "level": 74,
+  "rarity": "Fine",
+  "vendor_value": 68,
+  "default_skin": 911,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4451,
+  "chat_link": "[\u0026AgFjEQAA]",
+  "icon": "https://render.guildwars2.com/file/28F97A1A446918DA29AF051C59D0F4D293DDA9B1/61272.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "defense": 82,
+    "infusion_slots": [],
+    "attribute_adjustment": 86.4,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 30
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 22
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 22
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Blood Legion Assault Shield",
+  "description": "\u003cc\u003d@flavor\u003e\"Stike hard, strike often.\"\u003cbr\u003e—Blood Legion Motto\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 61,
+  "rarity": "Fine",
+  "vendor_value": 52,
+  "default_skin": 5102,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30136,
+  "chat_link": "[\u0026AgG4dQAA]",
+  "icon": "https://render.guildwars2.com/file/FADA685852160FA4D0EBEDC346663CE4439B45AB/67285.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 438,
+    "max_power": 494,
+    "defense": 32,
+    "infusion_slots": [],
+    "attribute_adjustment": 174.464,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 61
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 44
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 44
+        }
+      ]
+    }
+  }
+}

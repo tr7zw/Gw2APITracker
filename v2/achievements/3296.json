@@ -1,0 +1,35 @@
+{
+  "id": 3296,
+  "name": "Voice of the Deceased",
+  "description": "You gathered evidence of what happened here.",
+  "requirement": "",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Found the locket\u0027s owner."
+    },
+    {
+      "type": "Text",
+      "text": "Dug deep."
+    },
+    {
+      "type": "Text",
+      "text": "Confirmed your suspicions."
+    },
+    {
+      "type": "Text",
+      "text": "Found the culprit."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 4,
+      "points": 5
+    }
+  ]
+}

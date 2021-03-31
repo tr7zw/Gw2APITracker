@@ -1,0 +1,38 @@
+{
+  "name": "Vital Green Wood Warhorn",
+  "description": "",
+  "type": "Weapon",
+  "level": 10,
+  "rarity": "Fine",
+  "vendor_value": 15,
+  "default_skin": 3898,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 14205,
+  "chat_link": "[\u0026AgF9NwAA]",
+  "icon": "https://render.guildwars2.com/file/5A0593B5164DE87591029323F7D90775D716001D/65530.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 149,
+    "max_power": 165,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 22.976,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 3027,
+  "name": "Keadin\u0027s Study",
+  "description": "\u003cc\u003d@flavor\u003e\"Such things we could learn!\"\n—Keadin\u003c/c\u003e",
+  "requirement": "In Blazeridge Steppes, successfully stop the Inquest from capturing  ley-line coalescences after contributing ley energy to the Priory.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 36451,
+      "count": 1
+    }
+  ]
+}

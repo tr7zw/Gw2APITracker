@@ -1,0 +1,28 @@
+{
+  "id": 4226,
+  "name": "[FTT 301] Proficient Dynamics—Direct Damage Level 3",
+  "description": "",
+  "requirement": "Applied / Direct Damage Level 2 Upgrades",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 8,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    4266
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 87707,
+      "count": 1
+    }
+  ]
+}

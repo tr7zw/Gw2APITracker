@@ -1,0 +1,48 @@
+{
+  "name": "Ebon Vanguard Sword",
+  "type": "Weapon",
+  "level": 40,
+  "rarity": "Rare",
+  "vendor_value": 1400,
+  "default_skin": 4629,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29613,
+  "chat_link": "[\u0026AgGtcwAA]",
+  "icon": "https://render.guildwars2.com/file/C293E239F3EE96168018040A0F99BB16030EBF91/61750.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 378,
+    "max_power": 417,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 117.144,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 41
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 29
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

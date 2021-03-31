@@ -1,0 +1,46 @@
+{
+  "name": "Berserker\u0027s Chainmail Gauntlets",
+  "description": "",
+  "type": "Armor",
+  "level": 65,
+  "rarity": "Basic",
+  "vendor_value": 25,
+  "default_skin": 20,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 5226,
+  "chat_link": "[\u0026AgFqFAAA]",
+  "icon": "https://render.guildwars2.com/file/1E1768B71B5422D87870D76A3BBA185A41AFEF4C/61100.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 82,
+    "infusion_slots": [],
+    "attribute_adjustment": 56.8815,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 20
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 14
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 14
+        }
+      ]
+    }
+  }
+}

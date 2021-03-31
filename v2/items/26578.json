@@ -1,0 +1,45 @@
+{
+  "name": "Hearty Soft Wood Scepter of Agony",
+  "description": "",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Masterwork",
+  "vendor_value": 84,
+  "default_skin": 3892,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26578,
+  "chat_link": "[\u0026AgHSZwAA]",
+  "icon": "https://render.guildwars2.com/file/2696C7FBBB99549E700204A9A11F75B0D50CEC2E/65334.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 390,
+    "max_power": 440,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 128.588,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 32
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 45
+        }
+      ]
+    },
+    "suffix_item_id": 24610
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 4710,
+  "name": "Skyscale Stealth",
+  "description": "",
+  "requirement": "Play hide-and-seek with your skyscale in Sun\u0027s Refuge.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 90582
+    },
+    {
+      "type": "Item",
+      "id": 90392
+    },
+    {
+      "type": "Item",
+      "id": 90642
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 90625,
+      "count": 1
+    }
+  ]
+}

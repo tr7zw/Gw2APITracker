@@ -1,0 +1,47 @@
+{
+  "name": "Rabid Privateer Hat",
+  "type": "Armor",
+  "level": 55,
+  "rarity": "Rare",
+  "vendor_value": 180,
+  "default_skin": 102,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 17058,
+  "chat_link": "[\u0026AgGiQgAA]",
+  "icon": "https://render.guildwars2.com/file/746AA96A7C3E3136087451094F7D4DC403B526E7/61020.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 52,
+    "infusion_slots": [],
+    "attribute_adjustment": 88.992,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 22
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 22
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 31
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Double Lava Axe",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 900
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 0.8
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+      "duration": 8,
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
+      "apply_count": 1
+    }
+  ],
+  "description": "Throw two lava axes at your foe.",
+  "icon": "https://render.guildwars2.com/file/0D0451ADE6BA5B4864DF0A0DE62108AA45914747/103339.png",
+  "type": "Bundle",
+  "weapon_type": "None",
+  "professions": [
+    "Thief",
+    "Mesmer",
+    "Warrior",
+    "Elementalist",
+    "Necromancer",
+    "Guardian",
+    "Ranger",
+    "Engineer",
+    "Revenant"
+  ],
+  "slot": "Weapon_1",
+  "flags": [
+    "NoUnderwater"
+  ],
+  "id": 40229,
+  "chat_link": "[\u0026BiWdAAA\u003d]"
+}

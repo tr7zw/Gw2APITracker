@@ -1,0 +1,46 @@
+{
+  "name": "Berserker\u0027s Chainmail Footgear",
+  "description": "",
+  "type": "Armor",
+  "level": 65,
+  "rarity": "Basic",
+  "vendor_value": 28,
+  "default_skin": 2041,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 5224,
+  "chat_link": "[\u0026AgFoFAAA]",
+  "icon": "https://render.guildwars2.com/file/061CAE3A9244396F68B543089E43A11EC5E933C3/61096.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 82,
+    "infusion_slots": [],
+    "attribute_adjustment": 56.8815,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 20
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 14
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 14
+        }
+      ]
+    }
+  }
+}

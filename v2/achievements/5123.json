@@ -1,0 +1,36 @@
+{
+  "id": 5123,
+  "name": "Sanctifier",
+  "description": "",
+  "requirement": "Defeat  bosses in the Sanctum Arena.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 7,
+      "points": 1
+    },
+    {
+      "count": 14,
+      "points": 2
+    },
+    {
+      "count": 20,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 92742,
+      "count": 1
+    }
+  ]
+}

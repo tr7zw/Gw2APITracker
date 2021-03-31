@@ -1,0 +1,25 @@
+{
+  "id": 170,
+  "name": "Kegmaster",
+  "description": "99 kegs of ale on the wall!",
+  "requirement": "Complete  keg brawl achievement.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 7,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 39
+    }
+  ]
+}

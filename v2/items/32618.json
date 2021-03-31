@@ -1,0 +1,45 @@
+{
+  "name": "Carrion Steam Shield",
+  "type": "Weapon",
+  "level": 61,
+  "rarity": "Fine",
+  "vendor_value": 52,
+  "default_skin": 5102,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 32618,
+  "chat_link": "[\u0026AgFqfwAA]",
+  "icon": "https://render.guildwars2.com/file/FADA685852160FA4D0EBEDC346663CE4439B45AB/67285.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 438,
+    "max_power": 494,
+    "defense": 32,
+    "infusion_slots": [],
+    "attribute_adjustment": 174.464,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 44
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 44
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 61
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Iron Mace",
+  "description": "",
+  "type": "Weapon",
+  "level": 35,
+  "rarity": "Masterwork",
+  "vendor_value": 68,
+  "default_skin": 3964,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 15196,
+  "chat_link": "[\u0026AgFcOwAA]",
+  "icon": "https://render.guildwars2.com/file/415D42C379B3AE75721E59D76E5F170926C416C1/65228.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 310,
+    "max_power": 349,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 89.624,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 22
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 31
+        }
+      ]
+    }
+  }
+}

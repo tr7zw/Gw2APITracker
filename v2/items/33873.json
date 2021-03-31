@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Krytan Rifle of Serpent Slaying",
+  "type": "Weapon",
+  "level": 38,
+  "rarity": "Masterwork",
+  "vendor_value": 108,
+  "default_skin": 5021,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33873,
+  "chat_link": "[\u0026AgFRhAAA]",
+  "icon": "https://render.guildwars2.com/file/5427F16936431923080AE3FD023377CF59CF2312/61700.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 365,
+    "max_power": 446,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 200.192,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 70
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 50
+        }
+      ]
+    },
+    "suffix_item_id": 24660
+  }
+}

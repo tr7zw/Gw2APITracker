@@ -1,0 +1,42 @@
+{
+  "name": "Arena Armlet",
+  "description": "\u003cc\u003d@flavor\u003eFashionable, yet functional.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 26,
+  "rarity": "Masterwork",
+  "vendor_value": 70,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23818,
+  "chat_link": "[\u0026AgEKXQAA]",
+  "icon": "https://render.guildwars2.com/file/55010C3751D7C862064C5E6028CFB527DE376AB5/66847.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 38.59,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 10
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 14
+        }
+      ]
+    }
+  }
+}

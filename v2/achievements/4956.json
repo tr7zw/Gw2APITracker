@@ -1,0 +1,39 @@
+{
+  "id": 4956,
+  "name": "Pledged",
+  "description": "",
+  "requirement": "Defeat the Ooze Pit\u0027s grand champion while pledged to all three legions.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Defeated the grand champion while pledged to assist the Ash Legion."
+    },
+    {
+      "type": "Text",
+      "text": "Defeated the grand champion while pledged to assist the Blood Legion."
+    },
+    {
+      "type": "Text",
+      "text": "Defeated the grand champion while pledged to assist the Iron Legion."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    }
+  ]
+}

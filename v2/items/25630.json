@@ -1,0 +1,44 @@
+{
+  "name": "Mending Norn Torch of Ogre Slaying",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Rare",
+  "vendor_value": 126,
+  "default_skin": 5103,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25630,
+  "chat_link": "[\u0026AgEeZAAA]",
+  "icon": "https://render.guildwars2.com/file/3A589D3C7DEF91572159A33E324A4E975CCC011D/575182.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 372,
+    "max_power": 437,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 140.256,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 35
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 49
+        }
+      ]
+    },
+    "suffix_item_id": 24656
+  }
+}

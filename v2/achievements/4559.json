@@ -1,0 +1,39 @@
+{
+  "id": 4559,
+  "name": "Dwarven Room Raider",
+  "description": "",
+  "requirement": "Gather dwarven plates from all the rooms in the Dwarven Catacombs.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Dwarven Sauna"
+    },
+    {
+      "type": "Text",
+      "text": "Dwarven Library"
+    },
+    {
+      "type": "Text",
+      "text": "Gauntlet Room"
+    },
+    {
+      "type": "Text",
+      "text": "Tomb of Marhan"
+    },
+    {
+      "type": "Text",
+      "text": "Crystal Room"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 5
+    }
+  ]
+}

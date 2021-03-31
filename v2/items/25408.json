@@ -1,0 +1,41 @@
+{
+  "name": "Mending Shiverpeak Shield",
+  "type": "Weapon",
+  "level": 41,
+  "rarity": "Fine",
+  "vendor_value": 38,
+  "default_skin": 5176,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 25408,
+  "chat_link": "[\u0026AgFAYwAA]",
+  "icon": "https://render.guildwars2.com/file/455B5191E29A11E8ECBDEB2326E9FDE2D7C6DEAC/68182.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 293,
+    "max_power": 330,
+    "defense": 20,
+    "infusion_slots": [],
+    "attribute_adjustment": 100.864,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 25
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 35
+        }
+      ]
+    }
+  }
+}

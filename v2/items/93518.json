@@ -1,0 +1,26 @@
+{
+  "name": "Fort Defiance Container",
+  "description": "Only provides rewards if Fort Defiance is held when a supply drop occurs.",
+  "type": "Container",
+  "level": 0,
+  "rarity": "Junk",
+  "vendor_value": 0,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 93518,
+  "chat_link": "[\u0026AgFObQEA]",
+  "icon": "https://render.guildwars2.com/file/2E6F91D6C0BEDFA16B0C72AC62A13E7C9EA04425/2293125.png",
+  "details": {
+    "type": "Immediate"
+  }
+}

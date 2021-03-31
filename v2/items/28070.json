@@ -1,0 +1,46 @@
+{
+  "name": "Rampager\u0027s Iron Rifle",
+  "description": "",
+  "type": "Weapon",
+  "level": 67,
+  "rarity": "Fine",
+  "vendor_value": 84,
+  "default_skin": 4092,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 28070,
+  "chat_link": "[\u0026AgGmbQAA]",
+  "icon": "https://render.guildwars2.com/file/167018D742BBF5120BE4ACE80DE5B049089D20F2/62700.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 597,
+    "max_power": 730,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 398.464,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 100
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 139
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 100
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Fine Crusader\u0027s Mask",
+  "description": "\u003cc\u003d@flavor\u003e\"Always vigilant.\"\u003cbr\u003e—Crusader Brice\u003c/c\u003e",
+  "type": "Armor",
+  "level": 54,
+  "rarity": "Masterwork",
+  "vendor_value": 118,
+  "default_skin": 941,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 3990,
+  "chat_link": "[\u0026AgGWDwAA]",
+  "icon": "https://render.guildwars2.com/file/40B4D696039F9E06A11BF913FF66FDFB3DD57CEA/61253.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 47,
+    "infusion_slots": [],
+    "attribute_adjustment": 79.934,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 20
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 28
+        }
+      ]
+    },
+    "suffix_item_id": 24727
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Mending Shiverpeak Handcannon of Serpent Slaying",
+  "type": "Weapon",
+  "level": 38,
+  "rarity": "Masterwork",
+  "vendor_value": 72,
+  "default_skin": 5148,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25301,
+  "chat_link": "[\u0026AgHVYgAA]",
+  "icon": "https://render.guildwars2.com/file/360309706ADF99FEFCEB6659F3357AF8B25AA841/534284.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 324,
+    "max_power": 381,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 100.096,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 25
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 35
+        }
+      ]
+    },
+    "suffix_item_id": 24660
+  }
+}

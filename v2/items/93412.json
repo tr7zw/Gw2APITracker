@@ -1,0 +1,43 @@
+{
+  "name": "Blood Legion Backpack",
+  "type": "Back",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 9387,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 93412,
+  "chat_link": "[\u0026AgHkbAEA]",
+  "icon": "https://render.guildwars2.com/file/D0B9E800B52E12CFECAC209E1FE4C4DE301C34E3/2292659.png",
+  "details": {
+    "infusion_slots": [],
+    "attribute_adjustment": 85.36,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 30
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 21
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 21
+        }
+      ]
+    }
+  }
+}

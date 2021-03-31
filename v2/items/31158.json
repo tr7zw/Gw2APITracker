@@ -1,0 +1,49 @@
+{
+  "name": "Pact Scepter",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 198,
+  "default_skin": 4971,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 31158,
+  "chat_link": "[\u0026AgG2eQAA]",
+  "icon": "https://render.guildwars2.com/file/A7762D5613689FAD07C3FFC72DDC3AC4B809246F/456072.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 793,
+    "max_power": 894,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 301.824,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 75
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 75
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 106
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

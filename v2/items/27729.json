@@ -1,0 +1,42 @@
+{
+  "name": "Honed Iron Hammer",
+  "description": "",
+  "type": "Weapon",
+  "level": 57,
+  "rarity": "Fine",
+  "vendor_value": 74,
+  "default_skin": 4060,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 27729,
+  "chat_link": "[\u0026AgFRbAAA]",
+  "icon": "https://render.guildwars2.com/file/2F4509F15B48B1A9F1579D08539F4109972A31A4/65162.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 496,
+    "max_power": 559,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 316.416,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 111
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 79
+        }
+      ]
+    }
+  }
+}

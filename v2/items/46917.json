@@ -1,0 +1,61 @@
+{
+  "name": "Leftpaw\u0027s Greatbow",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of the renowned charr engineer, Tybalt Leftpaw.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 10000,
+  "default_skin": 4192,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 46917,
+  "chat_link": "[\u0026AgFFtwAA]",
+  "icon": "https://render.guildwars2.com/file/EFA732A52693F00C4F0EB8FDEE01D93E02BEFD3B/631844.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 966,
+    "max_power": 1134,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      },
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 717.024,
+    "infix_upgrade": {
+      "id": 700,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 251
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 179
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 179
+        }
+      ]
+    }
+  }
+}

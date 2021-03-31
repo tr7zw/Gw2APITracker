@@ -1,0 +1,45 @@
+{
+  "name": "Vigorous Masquerade Mask",
+  "description": "",
+  "type": "Armor",
+  "level": 45,
+  "rarity": "Masterwork",
+  "vendor_value": 333,
+  "default_skin": 255,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 7144,
+  "chat_link": "[\u0026AgHoGwAA]",
+  "icon": "https://render.guildwars2.com/file/B9F2C1A5CA3EDA38D7FDE994B4749942630475A1/61359.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 28,
+    "infusion_slots": [],
+    "attribute_adjustment": 62.322,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 22
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 16
+        }
+      ]
+    }
+  }
+}

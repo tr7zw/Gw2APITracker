@@ -1,0 +1,28 @@
+{
+  "id": 4816,
+  "name": "The Dragon Bash Experience",
+  "description": "",
+  "requirement": "Complete  Dragon Bash achievement.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "CategoryDisplay",
+    "MoveToTop",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 7,
+      "points": 50
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 91347,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Resilient Bronze Rifle",
+  "description": "",
+  "type": "Weapon",
+  "level": 15,
+  "rarity": "Fine",
+  "vendor_value": 30,
+  "default_skin": 4076,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 14179,
+  "chat_link": "[\u0026AgFjNwAA]",
+  "icon": "https://render.guildwars2.com/file/167018D742BBF5120BE4ACE80DE5B049089D20F2/62700.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 201,
+    "max_power": 245,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 63.488,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 22
+        }
+      ]
+    }
+  }
+}

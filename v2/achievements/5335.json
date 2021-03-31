@@ -1,0 +1,25 @@
+{
+  "id": 5335,
+  "name": "Special Mission: Apothecary",
+  "description": "",
+  "requirement": "Bring medicine to  exhausted sentries in allied bases around the Drizzlewood Coast.",
+  "locked_text": "Unlock by using Flame Legion Special Mission Documents.",
+  "type": "Default",
+  "flags": [
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 6,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 93496,
+      "count": 250
+    }
+  ]
+}

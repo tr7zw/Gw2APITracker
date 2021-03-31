@@ -1,0 +1,44 @@
+{
+  "name": "Strong Commander\u0027s Gauntlets",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 425,
+  "default_skin": 376,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Human"
+  ],
+  "id": 3550,
+  "chat_link": "[\u0026AgHeDQAA]",
+  "icon": "https://render.guildwars2.com/file/08C2D0EF7D3A59AA4C1660DEC09649A3AC5D0F56/61142.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 59,
+    "infusion_slots": [],
+    "attribute_adjustment": 36.963,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 13
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

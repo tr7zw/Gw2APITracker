@@ -1,0 +1,43 @@
+{
+  "name": "Renegade Wanted Poster",
+  "description": "\u003cc\u003d@flavor\u003eA poster alerting passerbys about the Charr Renegade threat.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 38,
+  "rarity": "Fine",
+  "vendor_value": 45,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23566,
+  "chat_link": "[\u0026AgEOXAAA]",
+  "icon": "https://render.guildwars2.com/file/16327DC36F5962DDC8BBDE0C276C4E0711D3746B/455937.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 56.84,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 14
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 20
+        }
+      ]
+    }
+  }
+}

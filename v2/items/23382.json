@@ -1,0 +1,43 @@
+{
+  "name": "Order of Whispers Commendation",
+  "description": "\u003cc\u003d@flavor\u003e\"The order thanks you for all your help.\"\u003cbr\u003e—Agent Kaukiri\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 31,
+  "rarity": "Masterwork",
+  "vendor_value": 78,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23382,
+  "chat_link": "[\u0026AgFWWwAA]",
+  "icon": "https://render.guildwars2.com/file/61BD98A8976CFF20A17F5FFB9C17215D0DABB697/66824.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 48.28,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 17
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

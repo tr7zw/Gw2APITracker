@@ -1,0 +1,56 @@
+{
+  "name": "Minor Sigil of Mad Scientists",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003ePain\u003cbr\u003eDouble-click to apply to a weapon.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 16,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix"
+  ],
+  "restrictions": [],
+  "id": 24670,
+  "chat_link": "[\u0026AgFeYAAA]",
+  "icon": "https://render.guildwars2.com/file/65C8A50374FBA8F6A4C56505B6F60D0DCCF8B901/340606.png",
+  "details": {
+    "type": "Sigil",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 316,
+      "buff": {
+        "skill_id": 9361,
+        "description": "+3% Damage vs. Inquest\n+1% Damage"
+      },
+      "attributes": []
+    },
+    "suffix": "of Mad Scientists"
+  }
+}

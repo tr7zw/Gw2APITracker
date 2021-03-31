@@ -1,0 +1,44 @@
+{
+  "name": "Strong Dagger",
+  "description": "",
+  "type": "Weapon",
+  "level": 30,
+  "rarity": "Basic",
+  "vendor_value": 16,
+  "default_skin": 3871,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 30765,
+  "chat_link": "[\u0026AgEteAAA]",
+  "icon": "https://render.guildwars2.com/file/BDAAF7437FD44F2AA7592F0A1EC5F9EEC690F635/66164.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 209,
+    "max_power": 222,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 51.948,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 18
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 13
+        }
+      ]
+    }
+  }
+}

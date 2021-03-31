@@ -1,0 +1,30 @@
+{
+  "id": 2436,
+  "name": "Dive Master: Chak Hive",
+  "description": "",
+  "requirement": "Use the diving goggles near the SCAR outpost.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Found Diving Goggles"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 49
+    }
+  ]
+}

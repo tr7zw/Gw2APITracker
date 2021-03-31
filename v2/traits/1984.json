@@ -1,0 +1,38 @@
+{
+  "id": 1984,
+  "tier": 2,
+  "order": 0,
+  "name": "Pinpoint Distribution",
+  "description": "Grant increased condition damage to nearby allies.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/68380515301D93ABD5E7A4C89748F80CD819EB3F/1012357.png",
+      "duration": 9,
+      "status": "Pinpoint Distribution",
+      "description": "Increases condition damage up to 100 points.",
+      "apply_count": 1
+    },
+    {
+      "text": "Interval",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+      "duration": 3
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 600
+    },
+    {
+      "text": "Combat Only",
+      "type": "NoData",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png"
+    }
+  ],
+  "specialization": 38,
+  "icon": "https://render.guildwars2.com/file/68380515301D93ABD5E7A4C89748F80CD819EB3F/1012357.png"
+}

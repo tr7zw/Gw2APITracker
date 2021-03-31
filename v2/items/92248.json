@@ -1,0 +1,47 @@
+{
+  "name": "Restored Boreal Rifle",
+  "description": "A Restored Boreal weapon, crafted using materials found in Bjora Marches.",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 9035,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92248,
+  "chat_link": "[\u0026AgFYaAEA]",
+  "icon": "https://render.guildwars2.com/file/2DDA6F4EEE19B53E08F1C218983392050A4AF6B1/2220686.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Choking",
+    "min_power": 986,
+    "max_power": 1205,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 239
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 171
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 171
+        }
+      ]
+    }
+  }
+}

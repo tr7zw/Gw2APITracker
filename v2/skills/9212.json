@@ -1,0 +1,38 @@
+{
+  "name": "Shackle",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 900
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 0.6
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+      "duration": 1,
+      "status": "Crippled",
+      "description": "Movement speed decreased by 50%; stacks duration.",
+      "apply_count": 1
+    }
+  ],
+  "description": "Cripple your foe with shackles.",
+  "icon": "https://render.guildwars2.com/file/2404F8CF0AD33F6A9DD15BA3FF09C8207796EB6C/103699.png",
+  "type": "Weapon",
+  "weapon_type": "None",
+  "professions": [
+    "Guardian"
+  ],
+  "slot": "Downed_1",
+  "flags": [],
+  "id": 9212,
+  "chat_link": "[\u0026BvwjAAA\u003d]"
+}

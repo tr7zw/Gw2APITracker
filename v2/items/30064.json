@@ -1,0 +1,48 @@
+{
+  "name": "Bladechipped Shield",
+  "description": "\u003cc\u003d@flavor\u003e\"You might need a little extra protection. These ghosts don\u0027t take kindly to us destroying their precious wall a second time.\"\u003cbr\u003e—Legionnaire Bladechipper\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 52,
+  "rarity": "Fine",
+  "vendor_value": 46,
+  "default_skin": 5102,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30064,
+  "chat_link": "[\u0026AgFwdQAA]",
+  "icon": "https://render.guildwars2.com/file/FADA685852160FA4D0EBEDC346663CE4439B45AB/67285.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 368,
+    "max_power": 415,
+    "defense": 26,
+    "infusion_slots": [],
+    "attribute_adjustment": 139.392,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 35
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 49
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2364,
+  "name": "Heart of Thorns Act III Mastery",
+  "description": "",
+  "requirement": "Complete all  Heart of Thorns Act III achievements.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 13,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 70671,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 93
+    }
+  ]
+}

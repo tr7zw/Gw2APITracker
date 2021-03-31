@@ -1,0 +1,39 @@
+{
+  "name": "Irradiated Skritt Shiny Thing",
+  "description": "\u003cc\u003d@flavor\u003e\"It\u0027s quite shiny, isn\u0027t it?\"\u003cbr\u003e—Krew Leader Pachoo\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 14,
+  "rarity": "Fine",
+  "vendor_value": 24,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23869,
+  "chat_link": "[\u0026AgE9XQAA]",
+  "icon": "https://render.guildwars2.com/file/21A6C1D3CFEAE3F0C56134B7C5B099FD20E069AB/455957.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 18.76,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 7
+        }
+      ]
+    }
+  }
+}

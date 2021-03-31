@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Cabalist Shoulders of Rage",
+  "description": "",
+  "type": "Armor",
+  "level": 53,
+  "rarity": "Masterwork",
+  "vendor_value": 104,
+  "default_skin": 79,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 2789,
+  "chat_link": "[\u0026AgHlCgAA]",
+  "icon": "https://render.guildwars2.com/file/647347660A570B201E410B97F8970243EEC91628/414916.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 34,
+    "infusion_slots": [],
+    "attribute_adjustment": 58.4715,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 15
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 20
+        }
+      ]
+    },
+    "suffix_item_id": 24715
+  }
+}

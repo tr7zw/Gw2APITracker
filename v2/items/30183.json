@@ -1,0 +1,49 @@
+{
+  "name": "Sneakpaw\u0027s Warhorn",
+  "description": "\u003cc\u003d@flavor\u003e\"We modified ours to sound like the ogres so they can\u0027t tell our signalling from their own. Sneaky, huh?\"\u003cbr\u003e—Avarr\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 43,
+  "rarity": "Masterwork",
+  "vendor_value": 80,
+  "default_skin": 3907,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30183,
+  "chat_link": "[\u0026AgHndQAA]",
+  "icon": "https://render.guildwars2.com/file/5A0593B5164DE87591029323F7D90775D716001D/65530.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 334,
+    "max_power": 369,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 117.64,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 29
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 41
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

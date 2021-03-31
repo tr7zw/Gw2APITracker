@@ -1,0 +1,49 @@
+{
+  "name": "Rabid Mist Walker Leggings",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 370,
+  "default_skin": 2268,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 40073,
+  "chat_link": "[\u0026AgGJnAAA]",
+  "icon": "https://render.guildwars2.com/file/9D0A3546CDFF030E1793110355EA40E3700AF751/61632.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Medium",
+    "defense": 218,
+    "infusion_slots": [],
+    "attribute_adjustment": 256.08,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 64
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 64
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 90
+        }
+      ]
+    }
+  }
+}

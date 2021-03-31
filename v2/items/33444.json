@@ -1,0 +1,37 @@
+{
+  "name": "Resilient Krytan Dagger",
+  "type": "Weapon",
+  "level": 11,
+  "rarity": "Fine",
+  "vendor_value": 16,
+  "default_skin": 4997,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 33444,
+  "chat_link": "[\u0026AgGkggAA]",
+  "icon": "https://render.guildwars2.com/file/C625750CE2F7D60366E594CEBC20697439F92A19/61659.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 173,
+    "max_power": 183,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 24.704,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

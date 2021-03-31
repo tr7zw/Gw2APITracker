@@ -1,0 +1,51 @@
+{
+  "name": "Apostate\u0027s Chorister\u0027s Virge",
+  "type": "Weapon",
+  "level": 71,
+  "rarity": "Exotic",
+  "vendor_value": 244,
+  "default_skin": 5003,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 52090,
+  "chat_link": "[\u0026AgF6ywAA]",
+  "icon": "https://render.guildwars2.com/file/2E01F30EC6350C06D86928C07353C368B8024721/67684.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 811,
+    "max_power": 914,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 305.2,
+    "infix_upgrade": {
+      "id": 1012,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 76
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 76
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 107
+        }
+      ]
+    }
+  }
+}

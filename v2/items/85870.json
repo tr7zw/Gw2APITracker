@@ -1,0 +1,47 @@
+{
+  "name": "Randa\u0027s Eviscerator",
+  "description": "\u003cc\u003d@flavor\u003eUseful for opening casks of beer or enemy skulls.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 7841,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 85870,
+  "chat_link": "[\u0026AgFuTwEA]",
+  "icon": "https://render.guildwars2.com/file/08666D515A0C28575E42BEEB763A9A420C9DC735/1894961.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Choking",
+    "min_power": 857,
+    "max_power": 1048,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1363,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 120
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 85
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 85
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1665,
+  "name": "Timely Arrival",
+  "description": "Story Instance: Trouble at Fort Salma",
+  "requirement": "Don\u0027t let any members of the stranded Seraph squad die.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    1659
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 66602,
+      "count": 1
+    }
+  ]
+}

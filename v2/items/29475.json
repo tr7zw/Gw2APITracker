@@ -1,0 +1,49 @@
+{
+  "name": "Skritt Neutralizer",
+  "description": "\u003cc\u003d@flavor\u003e\"I find that the best way to deal with skritt is to hit them hard in the head before they throw something at you.\"\u003cbr\u003e—Kelgg\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 28,
+  "rarity": "Masterwork",
+  "vendor_value": 58,
+  "default_skin": 5158,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29475,
+  "chat_link": "[\u0026AgEjcwAA]",
+  "icon": "https://render.guildwars2.com/file/F4C7AFECFA69166C750EBC06C17572F56A78D07B/534283.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 265,
+    "max_power": 299,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 67.932,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 17
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 24
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

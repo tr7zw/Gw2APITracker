@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Steam Scepter of Agony",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Masterwork",
+  "vendor_value": 106,
+  "default_skin": 5210,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32850,
+  "chat_link": "[\u0026AgFSgAAA]",
+  "icon": "https://render.guildwars2.com/file/1C43079DB206A592B3170B7C09C0AEA956BEB772/68156.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 537,
+    "max_power": 605,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 194.004,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 49
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 49
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 68
+        }
+      ]
+    },
+    "suffix_item_id": 24610
+  }
+}

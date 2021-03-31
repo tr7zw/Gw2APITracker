@@ -1,0 +1,30 @@
+{
+  "name": "Permanent Twisted Watchwork Finisher",
+  "description": "Double-click to permanently unlock the PvP Twisted Watchwork Finisher.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning"
+  ],
+  "restrictions": [],
+  "id": 44601,
+  "chat_link": "[\u0026AgE5rgAA]",
+  "icon": "https://render.guildwars2.com/file/1307080EEF101CABEE1D55D1DF371229F0ED3870/625759.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "Content"
+  }
+}

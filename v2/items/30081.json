@@ -1,0 +1,53 @@
+{
+  "name": "Scout\u0027s Harpoon",
+  "description": "\u003cc\u003d@flavor\u003e\"They say charr don\u0027t like to swim? Ha! If there are Branded to kill, I love it.\"\u003cbr\u003e—Sentinel Staggerfoe\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 57,
+  "rarity": "Masterwork",
+  "vendor_value": 147,
+  "default_skin": 5185,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30081,
+  "chat_link": "[\u0026AgGBdQAA]",
+  "icon": "https://render.guildwars2.com/file/3008C27A70967620BBEE6467F5E2F7966EAB6AE5/780621.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 494,
+    "max_power": 546,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 344.896,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 121
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 86
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 86
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

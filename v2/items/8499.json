@@ -1,0 +1,28 @@
+{
+  "name": "Glass of Melon Juice",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 2,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 8499,
+  "chat_link": "[\u0026AgEzIQAA]",
+  "icon": "https://render.guildwars2.com/file/35B229154FABA605E5BECE031CB3D845355F5FB6/63069.png",
+  "details": {
+    "type": "Food",
+    "duration_ms": 600000,
+    "apply_count": 1,
+    "name": "Nourishment",
+    "icon": "https://render.guildwars2.com/file/779D3F0ABE5B46C09CFC57374DA8CC3A495F291C/436367.png",
+    "description": "20% Chance to Gain Health on Kill\n+10% Experience from Kills"
+  }
+}

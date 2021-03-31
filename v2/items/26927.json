@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Iron Pistol of the Hydromancer",
+  "description": "",
+  "type": "Weapon",
+  "level": 71,
+  "rarity": "Masterwork",
+  "vendor_value": 118,
+  "default_skin": 3875,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26927,
+  "chat_link": "[\u0026AgEvaQAA]",
+  "icon": "https://render.guildwars2.com/file/C43656C1551C9A5A1A931EAC2901BD0FBA3BE3E1/62830.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 619,
+    "max_power": 727,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 235.348,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 82
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 59
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 59
+        }
+      ]
+    },
+    "suffix_item_id": 24595
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": 2629,
+  "name": "Machined Hammer",
+  "description": "",
+  "requirement": "Collect all  items to forge your Machined Hammer.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 6500
+    },
+    {
+      "type": "Item",
+      "id": 73513
+    },
+    {
+      "type": "Item",
+      "id": 74853
+    },
+    {
+      "type": "Item",
+      "id": 73786
+    },
+    {
+      "type": "Item",
+      "id": 70775
+    },
+    {
+      "type": "Item",
+      "id": 74663
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 75792,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Voxite Staff",
+  "description": "\u003cc\u003d@flavor\u003e\"The eternal alchemy is stirred by the staff.\"\u003cbr\u003e—Anonymous\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 73,
+  "rarity": "Masterwork",
+  "vendor_value": 183,
+  "default_skin": 5237,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30332,
+  "chat_link": "[\u0026AgF8dgAA]",
+  "icon": "https://render.guildwars2.com/file/009BF7054DD8F777207999EC76EA747801A4CA56/62802.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 720,
+    "max_power": 812,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 489.6,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 122
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 122
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 171
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

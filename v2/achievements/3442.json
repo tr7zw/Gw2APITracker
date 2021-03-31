@@ -1,0 +1,42 @@
+{
+  "id": 3442,
+  "name": "\"Flashpoint\" Mastery",
+  "description": "Out of the frying pan, into the volcano.",
+  "requirement": "Complete  \"Flashpoint\" achievement.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 1
+    },
+    {
+      "count": 20,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 81156,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 5423,
+  "name": "Spiritual Renewal",
+  "description": "",
+  "requirement": "Meet Owl Shaman Garon at locations sacred to Owl to revitalize his faith in her renewal.",
+  "locked_text": "To unlock this collection, find Owl Shaman Garon at the Eye of the North.",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Speak with Owl Shaman Garon at the Eye of the North."
+    },
+    {
+      "type": "Text",
+      "text": "Help Owl Shaman Garon near the Owl Lodge in Snowden Drifts."
+    },
+    {
+      "type": "Text",
+      "text": "Help Owl Shaman Garon by the lost shrine to Owl in Lornar\u0027s Pass."
+    },
+    {
+      "type": "Text",
+      "text": "Help Owl Shaman Garon at the Lost Spirits Hallow in Hoelbrak."
+    },
+    {
+      "type": "Text",
+      "text": "Help Owl Shaman Garon at his home in Cragstead."
+    },
+    {
+      "type": "Text",
+      "text": "Help Owl Shaman Garon at Elder\u0027s Vale in Frostgorge Sound."
+    },
+    {
+      "type": "Text",
+      "text": "Help Owl Shaman Garon at the Sanctum of the Wild in North Drizzlewood Coast."
+    },
+    {
+      "type": "Text",
+      "text": "Speak with Owl Shaman Garon one last time."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 2
+    },
+    {
+      "count": 8,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tundra",
+      "id": 511
+    },
+    {
+      "type": "Title",
+      "id": 363
+    }
+  ]
+}

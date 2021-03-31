@@ -1,0 +1,51 @@
+{
+  "id": 4383,
+  "name": "Dark Tools for Dark Times",
+  "description": "Missing since the final battle with Palawa Joko, this staff is far too powerful a tool of darkness to leave unaccounted for.",
+  "requirement": "Reassemble Palawa Joko\u0027s staff.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 88607
+    },
+    {
+      "type": "Item",
+      "id": 88678
+    },
+    {
+      "type": "Item",
+      "id": 88727
+    },
+    {
+      "type": "Item",
+      "id": 88504
+    },
+    {
+      "type": "Item",
+      "id": 88637
+    }
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 88874,
+      "count": 1
+    },
+    {
+      "type": "Title",
+      "id": 316
+    }
+  ]
+}

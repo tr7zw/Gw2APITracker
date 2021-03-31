@@ -1,0 +1,34 @@
+{
+  "id": 21,
+  "name": "Skyscale Mount",
+  "requirement": "Complete the skyscale mount collections to unlock the skyscale Mastery track.",
+  "order": 7,
+  "background": "https://render.guildwars2.com/file/F25BD14B42D20C985C1E0E0A012C23BA9204542C/2141729.png",
+  "region": "Desert",
+  "levels": [
+    {
+      "name": "Air Rescue",
+      "description": "Learn to mount the skyscale in midair to save yourself while falling.",
+      "instruction": "You can now mount your skyscale in midair. While aloft, use the mount hotkey to hop onto the skyscale.",
+      "icon": "https://render.guildwars2.com/file/ED7865C74DFBA540E9AADB3A9BF57D4948ED9603/2141722.png",
+      "point_cost": 3,
+      "exp_cost": 571500
+    },
+    {
+      "name": "Rift Repair",
+      "description": "Learn to use your skyscale\u0027s magic resources to close rifts. This will draw out the magic trapped within and reveal new flight paths.",
+      "instruction": "Hovering next to rifts will close them and reveal flight paths for your skyscale. Follow them to claim the treasure at the end. But don\u0027t miss a node along the way! Your final reward is largest if you touch every node.",
+      "icon": "https://render.guildwars2.com/file/DAF8441D5F16045919EB5E0FB1DD0D05C8B5409A/2141723.png",
+      "point_cost": 4,
+      "exp_cost": 609600
+    },
+    {
+      "name": "Wall Launch",
+      "description": "Learn to launch off walls with your skyscale, providing a moment of respite and the ability to fly to greater heights.",
+      "instruction": "While clinging to a wall with your skyscale, hold the jump key to charge your flight meter, and release it to launch into the air. This requires at least one bar of endurance.",
+      "icon": "https://render.guildwars2.com/file/343EAADBB2060248C6791A0C085269A17B43E9EF/2141724.png",
+      "point_cost": 5,
+      "exp_cost": 698500
+    }
+  ]
+}

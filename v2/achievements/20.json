@@ -1,0 +1,25 @@
+{
+  "id": 20,
+  "name": "Longbow Master",
+  "description": "Kill \u0027em before they reach you? Kill \u0027em before they see you!",
+  "requirement": "Deliver  killing blows with a longbow.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 100,
+      "points": 1
+    },
+    {
+      "count": 500,
+      "points": 5
+    },
+    {
+      "count": 5000,
+      "points": 5
+    }
+  ]
+}

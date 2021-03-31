@@ -1,0 +1,43 @@
+{
+  "name": "Ettin Speaking Bone",
+  "description": "\u003cc\u003d@flavor\u003e\"He who holds the speaking bone may jabber.\"\u003cbr\u003e—Bramm\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 39,
+  "rarity": "Fine",
+  "vendor_value": 47,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23376,
+  "chat_link": "[\u0026AgFQWwAA]",
+  "icon": "https://render.guildwars2.com/file/7D22375A92039A341B79017AF3650BF00B5B9D39/65681.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 58.88,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 15
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 21
+        }
+      ]
+    }
+  }
+}

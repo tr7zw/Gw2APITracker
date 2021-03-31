@@ -1,0 +1,50 @@
+{
+  "name": "Trinity Dagger",
+  "description": "",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Masterwork",
+  "vendor_value": 106,
+  "default_skin": 5012,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32200,
+  "chat_link": "[\u0026AgHIfQAA]",
+  "icon": "https://render.guildwars2.com/file/24366D15FF0DC9F1F61AE4EE33AA3EE35948A0B3/67679.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 554,
+    "max_power": 588,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 194.004,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 68
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 49
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 49
+        }
+      ]
+    }
+  }
+}

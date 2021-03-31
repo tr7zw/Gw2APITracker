@@ -1,0 +1,43 @@
+{
+  "name": "Oldgate Heavy Boots",
+  "description": "\u003cc\u003d@flavor\u003e\"These boots are made for battle.\"\u003cbr\u003e—Zalvax Brokenclaw\u003c/c\u003e",
+  "type": "Armor",
+  "level": 15,
+  "rarity": "Masterwork",
+  "vendor_value": 40,
+  "default_skin": 872,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4158,
+  "chat_link": "[\u0026AgE+EAAA]",
+  "icon": "https://render.guildwars2.com/file/DF2D9A0706490510BFA61691E0DE2902E712345A/61238.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 29,
+    "infusion_slots": [],
+    "attribute_adjustment": 13.362,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 5
+        }
+      ]
+    },
+    "suffix_item_id": 24739
+  }
+}

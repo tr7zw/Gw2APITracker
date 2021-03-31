@@ -1,0 +1,77 @@
+{
+  "id": 2051,
+  "name": "Luminescent Headgear",
+  "description": "",
+  "requirement": "Collect the  parts required to assemble a piece of Luminescent headgear.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 68500
+    },
+    {
+      "type": "Item",
+      "id": 68506
+    },
+    {
+      "type": "Item",
+      "id": 68518
+    },
+    {
+      "type": "Item",
+      "id": 68514
+    },
+    {
+      "type": "Item",
+      "id": 68527
+    },
+    {
+      "type": "Item",
+      "id": 68525
+    },
+    {
+      "type": "Item",
+      "id": 67900
+    },
+    {
+      "type": "Skin",
+      "id": 5735
+    },
+    {
+      "type": "Skin",
+      "id": 5714
+    },
+    {
+      "type": "Skin",
+      "id": 5724
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 67796,
+      "count": 1
+    }
+  ]
+}

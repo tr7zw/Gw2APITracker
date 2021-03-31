@@ -1,0 +1,30 @@
+{
+  "name": "Seer Gloves",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 39,
+  "icon": "https://render.guildwars2.com/file/DBE75334171A7FF19A6DA42F0C0355913505B92D/61073.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        null,
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

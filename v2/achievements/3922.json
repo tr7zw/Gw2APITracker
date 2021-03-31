@@ -1,0 +1,67 @@
+{
+  "id": 3922,
+  "name": "Mad Memorial",
+  "description": "",
+  "requirement": "Track down firsthand accounts of Mad King Thorn\u0027s afterlife during Halloween, when the Mad Realm draws near.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 85387
+    },
+    {
+      "type": "Item",
+      "id": 85431
+    },
+    {
+      "type": "Item",
+      "id": 85391
+    },
+    {
+      "type": "Item",
+      "id": 85478
+    },
+    {
+      "type": "Item",
+      "id": 85508
+    },
+    {
+      "type": "Item",
+      "id": 85480
+    },
+    {
+      "type": "Item",
+      "id": 85408
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 7,
+      "points": 20
+    }
+  ],
+  "prerequisites": [
+    3943
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 85459,
+      "count": 1
+    },
+    {
+      "type": "Title",
+      "id": 128
+    }
+  ]
+}

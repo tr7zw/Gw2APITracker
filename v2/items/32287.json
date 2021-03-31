@@ -1,0 +1,48 @@
+{
+  "name": "Legionnaire Mace",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Exotic",
+  "vendor_value": 212,
+  "default_skin": 5088,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32287,
+  "chat_link": "[\u0026AgEffgAA]",
+  "icon": "https://render.guildwars2.com/file/E3296F260ED1176F67C11EBA3165DAD3213048A3/67671.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 654,
+    "max_power": 737,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 238.4,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 60
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 60
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 83
+        }
+      ]
+    },
+    "suffix_item_id": 24570
+  }
+}

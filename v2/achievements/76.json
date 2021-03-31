@@ -1,0 +1,24 @@
+{
+  "id": 76,
+  "name": "Storming the Castle",
+  "description": "You saved Queen Jennah from an insidious plot.",
+  "requirement": "Complete the human personal story step \"Kellach\u0027s Attack,\" \"The Queen\u0027s Justice,\" or \"The Trap.\"",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tyria",
+      "id": 217
+    }
+  ]
+}

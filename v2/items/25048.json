@@ -1,0 +1,41 @@
+{
+  "name": "Mending Shiverpeak Talisman",
+  "type": "Weapon",
+  "level": 41,
+  "rarity": "Fine",
+  "vendor_value": 38,
+  "default_skin": 5150,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 25048,
+  "chat_link": "[\u0026AgHYYQAA]",
+  "icon": "https://render.guildwars2.com/file/EBB491E406230AE7C8B908B1F7646D51DC370E6B/534280.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 302,
+    "max_power": 321,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 100.864,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 25
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 35
+        }
+      ]
+    }
+  }
+}

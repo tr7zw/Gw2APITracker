@@ -1,0 +1,42 @@
+{
+  "name": "Deldrimor Ring",
+  "description": "",
+  "type": "Trinket",
+  "level": 47,
+  "rarity": "Fine",
+  "vendor_value": 63,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23412,
+  "chat_link": "[\u0026AgF0WwAA]",
+  "icon": "https://render.guildwars2.com/file/D64DC1C2DC15D6DAD002BACA34010D769FB35ECD/455914.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [],
+    "attribute_adjustment": 90.768,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 23
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 32
+        }
+      ]
+    }
+  }
+}

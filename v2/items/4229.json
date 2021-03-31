@@ -1,0 +1,42 @@
+{
+  "name": "Incendio Shoulderpads",
+  "description": "\u003cc\u003d@flavor\u003e\"These will come in handy during a long battle.\"\u003cbr\u003e—Remaris Earshot\u003c/c\u003e",
+  "type": "Armor",
+  "level": 24,
+  "rarity": "Fine",
+  "vendor_value": 29,
+  "default_skin": 86,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4229,
+  "chat_link": "[\u0026AgGFEAAA]",
+  "icon": "https://render.guildwars2.com/file/A90B3C403757375541C2A1E6AAA4D11FE8ED34B1/61255.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Medium",
+    "defense": 19,
+    "infusion_slots": [],
+    "attribute_adjustment": 19.008,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 7
+        }
+      ]
+    }
+  }
+}

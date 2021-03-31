@@ -1,0 +1,67 @@
+{
+  "id": 1815,
+  "tier": 3,
+  "order": 0,
+  "name": "Generous Abundance",
+  "description": "Create healing orbs around yourself when using a \u003cc\u003d@abilitytype\u003eLegend\u003c/c\u003e skill. Create healing orbs around Ventari\u0027s tablet when using a \u003cc\u003d@abilitytype\u003eLegendary Centaur\u003c/c\u003e skill.\u003cbr\u003e\u003cc\u003d@reminder\u003eDragon Facet skills cannot activate this trait.\u003c/c\u003e",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Centaur Skill Orbs Created",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 3
+    },
+    {
+      "text": "Centaur Skill Orbs Created",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 2
+    },
+    {
+      "text": "Other Legend Orbs Created",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 1
+    }
+  ],
+  "skills": [
+    {
+      "name": "Healing Orb",
+      "facts": [
+        {
+          "text": "Healing",
+          "type": "AttributeAdjust",
+          "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+          "value": 197,
+          "target": "Healing"
+        },
+        {
+          "text": "Number of Targets",
+          "type": "Number",
+          "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+          "value": 5
+        },
+        {
+          "text": "Radius",
+          "type": "Distance",
+          "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+          "distance": 120
+        },
+        {
+          "text": "Duration",
+          "type": "Time",
+          "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+          "duration": 3
+        }
+      ],
+      "description": "Create a healing orb near your target. When an ally touches the orb, nearby allies are healed.",
+      "icon": "https://render.guildwars2.com/file/5CEC75C6494329457DC36C972204952ECF80E5C3/1012995.png",
+      "flags": [],
+      "id": 29373,
+      "chat_link": "[\u0026Br1yAAA\u003d]"
+    }
+  ],
+  "specialization": 12,
+  "icon": "https://render.guildwars2.com/file/0F2DC0620428E1235AE6DFA4F0947C5DBE2FB076/2128013.png"
+}

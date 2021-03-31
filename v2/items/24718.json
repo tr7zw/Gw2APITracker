@@ -1,0 +1,38 @@
+{
+  "name": "Minor Rune of Speed",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eBrilliance\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 5,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24718,
+  "chat_link": "[\u0026AgGOYAAA]",
+  "icon": "https://render.guildwars2.com/file/AB0A0526902F293AB835BB0BB9EC9345742AC1F2/221069.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+10 Vitality",
+      "+4% Swiftness Duration"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of Speed"
+  }
+}

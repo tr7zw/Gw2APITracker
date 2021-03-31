@@ -1,0 +1,47 @@
+{
+  "name": "Deserter\u0027s Pulse Hammer",
+  "type": "Weapon",
+  "level": 23,
+  "rarity": "Masterwork",
+  "vendor_value": 84,
+  "default_skin": 5222,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 52934,
+  "chat_link": "[\u0026AgHGzgAA]",
+  "icon": "https://render.guildwars2.com/file/C5B365D6105F76470106A61F4AB96F3E39D10E18/60991.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 277,
+    "max_power": 313,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 123.488,
+    "infix_upgrade": {
+      "id": 1014,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 31
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 43
+        }
+      ]
+    }
+  }
+}

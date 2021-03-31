@@ -1,0 +1,127 @@
+{
+  "id": 1754,
+  "name": "Koutalophile",
+  "description": "\u003cc\u003d@flavor\u003eThey are so much more than cutlery!\u003c/c\u003e",
+  "requirement": "Collect all of the spoon trinkets of Tyria.",
+  "locked_text": "Purchase a Collectible Spoon Box from Master Collector Rednax Youngblood in Lion\u0027s Arch.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 23644
+    },
+    {
+      "type": "Item",
+      "id": 23655
+    },
+    {
+      "type": "Item",
+      "id": 39238
+    },
+    {
+      "type": "Item",
+      "id": 23664
+    },
+    {
+      "type": "Item",
+      "id": 23675
+    },
+    {
+      "type": "Item",
+      "id": 23583
+    },
+    {
+      "type": "Item",
+      "id": 23565
+    },
+    {
+      "type": "Item",
+      "id": 23535
+    },
+    {
+      "type": "Item",
+      "id": 23553
+    },
+    {
+      "type": "Item",
+      "id": 23797
+    },
+    {
+      "type": "Item",
+      "id": 23796
+    },
+    {
+      "type": "Item",
+      "id": 23723
+    },
+    {
+      "type": "Item",
+      "id": 23470
+    },
+    {
+      "type": "Item",
+      "id": 23483
+    },
+    {
+      "type": "Item",
+      "id": 23360
+    },
+    {
+      "type": "Item",
+      "id": 23377
+    },
+    {
+      "type": "Item",
+      "id": 23401
+    },
+    {
+      "type": "Item",
+      "id": 23416
+    },
+    {
+      "type": "Item",
+      "id": 67194
+    },
+    {
+      "type": "Item",
+      "id": 67193
+    },
+    {
+      "type": "Item",
+      "id": 67195
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 1
+    },
+    {
+      "count": 21,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 67230,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Tyria",
+      "id": 241
+    }
+  ]
+}

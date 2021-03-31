@@ -1,0 +1,43 @@
+{
+  "name": "Vine-Covered Pauldrons",
+  "description": "\u003cc\u003d@flavor\u003e\"Just the thing for hiding in the shadows.\"\u003cbr\u003e—Coydd\u003c/c\u003e",
+  "type": "Armor",
+  "level": 22,
+  "rarity": "Masterwork",
+  "vendor_value": 55,
+  "default_skin": 60,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4900,
+  "chat_link": "[\u0026AgEkEwAA]",
+  "icon": "https://render.guildwars2.com/file/5051DA550F72BC2EC8E2DF0C990DAC25010E163A/61035.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Medium",
+    "defense": 20,
+    "infusion_slots": [],
+    "attribute_adjustment": 19.329,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 7
+        }
+      ]
+    },
+    "suffix_item_id": 24733
+  }
+}

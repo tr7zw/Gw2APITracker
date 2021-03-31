@@ -1,0 +1,47 @@
+{
+  "name": "Cleric\u0027s Privateer Hat of Rata Sum",
+  "description": "",
+  "type": "Armor",
+  "level": 72,
+  "rarity": "Masterwork",
+  "vendor_value": 150,
+  "default_skin": 102,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 520,
+  "chat_link": "[\u0026AgEIAgAA]",
+  "icon": "https://render.guildwars2.com/file/746AA96A7C3E3136087451094F7D4DC403B526E7/61020.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 69,
+    "infusion_slots": [],
+    "attribute_adjustment": 120.054,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 30
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 30
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 42
+        }
+      ]
+    },
+    "suffix_item_id": 24724
+  }
+}

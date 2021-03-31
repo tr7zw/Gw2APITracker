@@ -1,0 +1,44 @@
+{
+  "name": "Mending Shiverpeak Wand of Accuracy",
+  "type": "Weapon",
+  "level": 26,
+  "rarity": "Masterwork",
+  "vendor_value": 56,
+  "default_skin": 5171,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25379,
+  "chat_link": "[\u0026AgEjYwAA]",
+  "icon": "https://render.guildwars2.com/file/767E39B2746CF941BFFF631763272D569701F533/534286.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 252,
+    "max_power": 284,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 61.744,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 15
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 22
+        }
+      ]
+    },
+    "suffix_item_id": 24616
+  }
+}

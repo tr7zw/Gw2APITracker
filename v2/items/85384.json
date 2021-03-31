@@ -1,0 +1,50 @@
+{
+  "name": "Touch of Madness",
+  "description": "\u003cc\u003d@flavor\u003e\"I don\u0027t know if lighting your hand on fire counts as a torch, King Thorn.\" —Some dead peasant who was WRONG.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 7787,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 85384,
+  "chat_link": "[\u0026AgGITQEA]",
+  "icon": "https://render.guildwars2.com/file/B4740EF370AF2D2C54A25F2C27D506D508D40C4C/1862057.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 789,
+    "max_power": 926,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1067,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 85
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 120
+        }
+      ]
+    },
+    "suffix_item_id": 36053
+  }
+}

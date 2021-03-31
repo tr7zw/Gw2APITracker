@@ -1,0 +1,53 @@
+{
+  "id": 4518,
+  "name": "Chasing Tales: Durio the Contemptuous",
+  "description": "",
+  "requirement": "Acquire a Dragonsblood pistol and perform tasks to re-create Durio\u0027s legend.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Acquire the tome entry Chasing Tales: Durio the Contemptuous."
+    },
+    {
+      "type": "Text",
+      "text": "Acquire the heroic spirit of Durio: deed #1."
+    },
+    {
+      "type": "Text",
+      "text": "Acquire the heroic spirit of Durio: deed #2."
+    },
+    {
+      "type": "Text",
+      "text": "Acquire the heroic spirit of Durio: deed #3."
+    },
+    {
+      "type": "Text",
+      "text": "Meet with the spirit of Durio at a heroic font."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 322
+    }
+  ]
+}

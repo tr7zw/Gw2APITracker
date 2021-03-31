@@ -1,0 +1,29 @@
+{
+  "name": "Magical Fruit",
+  "type": "Consumable",
+  "level": 10,
+  "rarity": "Basic",
+  "vendor_value": 5,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 8554,
+  "chat_link": "[\u0026AgFqIQAA]",
+  "icon": "https://render.guildwars2.com/file/41587C0470070F03D33936A0C6640DCA77E4D6EB/223883.png",
+  "details": {
+    "type": "Food",
+    "duration_ms": 600000,
+    "apply_count": 1,
+    "name": "Nourishment",
+    "icon": "https://render.guildwars2.com/file/779D3F0ABE5B46C09CFC57374DA8CC3A495F291C/436367.png",
+    "description": "+40 Condition Damage for 30 Seconds on Kill\n+10% Experience from Kills"
+  }
+}

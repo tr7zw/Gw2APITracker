@@ -1,0 +1,50 @@
+{
+  "name": "Whitland Shoes",
+  "description": "\u003cc\u003d@flavor\u003e\"Why didn\u0027t I try to take your gear? Because I have plenty of my own.\"\u003cbr\u003e—Admiral Clarinda Demard\u003c/c\u003e",
+  "type": "Armor",
+  "level": 68,
+  "rarity": "Fine",
+  "vendor_value": 57,
+  "default_skin": 885,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4974,
+  "chat_link": "[\u0026AgFuEwAA]",
+  "icon": "https://render.guildwars2.com/file/F12103C50DB541A53BAE92F2676719713E674AAF/61229.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 80,
+    "infusion_slots": [],
+    "attribute_adjustment": 76.392,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 19
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 19
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 27
+        }
+      ]
+    }
+  }
+}

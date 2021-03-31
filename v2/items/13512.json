@@ -1,0 +1,41 @@
+{
+  "name": "Spinel Gold Earring",
+  "description": "",
+  "type": "Trinket",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 113,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 13512,
+  "chat_link": "[\u0026AgHINAAA]",
+  "icon": "https://render.guildwars2.com/file/E8D033E8B404A1660CC3665FB59419ABAD791F55/340240.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 90.1425,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 23
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 32
+        }
+      ]
+    },
+    "suffix_item_id": 24897
+  }
+}

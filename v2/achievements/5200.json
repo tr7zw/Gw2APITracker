@@ -1,0 +1,29 @@
+{
+  "id": 5200,
+  "name": "Emergency Maintenance",
+  "description": "",
+  "requirement": "Repair the tank with patch kits or scrap.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 1
+    },
+    {
+      "count": 25,
+      "points": 3
+    },
+    {
+      "count": 50,
+      "points": 5
+    }
+  ]
+}

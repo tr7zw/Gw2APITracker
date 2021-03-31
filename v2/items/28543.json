@@ -1,0 +1,49 @@
+{
+  "name": "Cleric\u0027s Soft Wood Longbow of Peril",
+  "description": "",
+  "type": "Weapon",
+  "level": 69,
+  "rarity": "Rare",
+  "vendor_value": 261,
+  "default_skin": 3942,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28543,
+  "chat_link": "[\u0026AgF/bwAA]",
+  "icon": "https://render.guildwars2.com/file/C6110F52DF5AFE0F00A56F9E143E9732176DDDE9/65015.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 676,
+    "max_power": 794,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 488.448,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 122
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 122
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 171
+        }
+      ]
+    },
+    "suffix_item_id": 24620
+  }
+}

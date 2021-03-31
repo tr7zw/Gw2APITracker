@@ -1,0 +1,49 @@
+{
+  "name": "Soldier\u0027s Duelist Pants",
+  "description": "",
+  "type": "Armor",
+  "level": 75,
+  "rarity": "Masterwork",
+  "vendor_value": 720,
+  "default_skin": 873,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 7211,
+  "chat_link": "[\u0026AgErHAAA]",
+  "icon": "https://render.guildwars2.com/file/CD30B04F5B3E7417BFAD0208B3BED9295A010B59/61050.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Medium",
+    "defense": 163,
+    "infusion_slots": [],
+    "attribute_adjustment": 190.689,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 67
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 48
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 48
+        }
+      ]
+    }
+  }
+}

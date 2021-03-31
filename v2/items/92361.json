@@ -1,0 +1,28 @@
+{
+  "name": "Eternal Ice Shard Home Instance Node",
+  "description": "Activates an Eternal Ice Shard node in your home instance.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92361,
+  "chat_link": "[\u0026AgHJaAEA]",
+  "icon": "https://render.guildwars2.com/file/546B295E22D36BD5FB9B4DDF12055B0DB1CCB295/2220563.png",
+  "details": {
+    "type": "Immediate"
+  }
+}

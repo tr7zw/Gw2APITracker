@@ -1,0 +1,45 @@
+{
+  "name": "Shaman\u0027s Shiverpeak Talisman",
+  "type": "Weapon",
+  "level": 66,
+  "rarity": "Fine",
+  "vendor_value": 56,
+  "default_skin": 5150,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 25053,
+  "chat_link": "[\u0026AgHdYQAA]",
+  "icon": "https://render.guildwars2.com/file/EBB491E406230AE7C8B908B1F7646D51DC370E6B/534280.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 494,
+    "max_power": 525,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 194.816,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 68
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 49
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 49
+        }
+      ]
+    }
+  }
+}

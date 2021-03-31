@@ -1,0 +1,44 @@
+{
+  "name": "Mending Norn Staff of Battle",
+  "type": "Weapon",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 167,
+  "default_skin": 5230,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25549,
+  "chat_link": "[\u0026AgHNYwAA]",
+  "icon": "https://render.guildwars2.com/file/5A220C09725B5FA63BE1336305313E341C0DD803/575180.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 403,
+    "max_power": 454,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 226.944,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 57
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 79
+        }
+      ]
+    },
+    "suffix_item_id": 24602
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Colonnade Gauntlets",
+  "description": "\u003cc\u003d@flavor\u003e\"Keeping your hands clean in war can be difficult.\"\u003cbr\u003e—Supply Sergeant Mattimer\u003c/c\u003e",
+  "type": "Armor",
+  "level": 75,
+  "rarity": "Masterwork",
+  "vendor_value": 112,
+  "default_skin": 929,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4537,
+  "chat_link": "[\u0026AgG5EQAA]",
+  "icon": "https://render.guildwars2.com/file/0B32EF80050D29BDA30B0ABD04010B9CF5CC2403/61270.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 136,
+    "infusion_slots": [],
+    "attribute_adjustment": 95.3445,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 24
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 24
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 33
+        }
+      ]
+    },
+    "suffix_item_id": 24685
+  }
+}

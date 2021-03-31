@@ -1,0 +1,30 @@
+{
+  "name": "Master\u0027s Salvage Kit",
+  "description": "Double-click to salvage crafting materials from an item in your inventory. 25% chance of rarer materials. 80% chance of salvaging upgrades.",
+  "type": "Tool",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 192,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23043,
+  "chat_link": "[\u0026AgEDWgAA]",
+  "icon": "https://render.guildwars2.com/file/75FB93F7EA0D3CFC0E023D1C72BE205457F905F7/66768.png",
+  "details": {
+    "type": "Salvage",
+    "charges": 25
+  }
+}

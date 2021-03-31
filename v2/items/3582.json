@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Genius Coat",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 2500,
+  "default_skin": 286,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Asura"
+  ],
+  "id": 3582,
+  "chat_link": "[\u0026AgH+DQAA]",
+  "icon": "https://render.guildwars2.com/file/BDC9CD6F97799DE6088017FA3DFD19BDD52F1903/61153.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 187,
+    "infusion_slots": [],
+    "attribute_adjustment": 225.99,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 56
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 79
+        }
+      ]
+    }
+  }
+}

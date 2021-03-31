@@ -1,0 +1,27 @@
+{
+  "id": 2600,
+  "name": "Mordremoth Usurper",
+  "description": "Story Instance: \"Strange Observations\"",
+  "requirement": "Usurp the Mordrem controllers\u0027 positions and use their power to kill Mordrem wolves.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    2501
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 73716,
+      "count": 3
+    }
+  ]
+}

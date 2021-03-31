@@ -1,0 +1,46 @@
+{
+  "name": "Berserker\u0027s Draconic Helm",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 240,
+  "default_skin": 152,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 10684,
+  "chat_link": "[\u0026AgG8KQAA]",
+  "icon": "https://render.guildwars2.com/file/0CDB4F0534D023449B6202B3566E23F4B8C10CE6/61565.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 121,
+    "infusion_slots": [],
+    "attribute_adjustment": 170.72,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 60
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 43
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 43
+        }
+      ]
+    }
+  }
+}

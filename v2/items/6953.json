@@ -1,0 +1,45 @@
+{
+  "name": "Vigorous Mist Walker Cap",
+  "description": "",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Exotic",
+  "vendor_value": 260,
+  "default_skin": 2274,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6953,
+  "chat_link": "[\u0026AgEpGwAA]",
+  "icon": "https://render.guildwars2.com/file/30ED187DF2CEFD7C6E116A1D4C197FCB40F52444/61631.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 66,
+    "infusion_slots": [],
+    "attribute_adjustment": 114.12,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 40
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 29
+        }
+      ]
+    }
+  }
+}

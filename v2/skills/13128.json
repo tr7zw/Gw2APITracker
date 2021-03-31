@@ -1,0 +1,39 @@
+{
+  "name": "Infiltrator\u0027s Return",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 1200
+    },
+    {
+      "text": "Duration",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "duration": 15
+    }
+  ],
+  "description": "Return to your original location. Cure one condition.",
+  "icon": "https://render.guildwars2.com/file/4475472B04350267D4DEECECFD53085DA5580D9A/104108.png",
+  "type": "Weapon",
+  "weapon_type": "Sword",
+  "professions": [
+    "Thief"
+  ],
+  "slot": "Weapon_2",
+  "initiative": 2,
+  "flags": [],
+  "id": 13128,
+  "chat_link": "[\u0026BkgzAAA\u003d]",
+  "traited_facts": [
+    {
+      "text": "Healing",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "value": 204,
+      "requires_trait": 1238,
+      "target": "Healing"
+    }
+  ]
+}

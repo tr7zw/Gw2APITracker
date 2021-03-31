@@ -1,0 +1,45 @@
+{
+  "id": 1923,
+  "tier": 2,
+  "order": 2,
+  "name": "No Scope",
+  "description": "Critical hits on foes within the range threshold have a chance to grant fury. Fury grants you ferocity.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 8
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+      "duration": 4,
+      "status": "Fury",
+      "description": "Critical Chance increased by 20%; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Range Threshold",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 300
+    },
+    {
+      "text": "Chance on Critical Hit",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "percent": 100
+    },
+    {
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
+      "value": 150,
+      "target": "CritDamage"
+    }
+  ],
+  "specialization": 38,
+  "icon": "https://render.guildwars2.com/file/BDE5F642B025FACD7B44D9599822CBF80DA6F257/1012359.png"
+}

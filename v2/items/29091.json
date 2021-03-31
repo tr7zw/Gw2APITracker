@@ -1,0 +1,42 @@
+{
+  "name": "Strong Trident",
+  "description": "",
+  "type": "Weapon",
+  "level": 28,
+  "rarity": "Basic",
+  "vendor_value": 22,
+  "default_skin": 3857,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 29091,
+  "chat_link": "[\u0026AgGjcQAA]",
+  "icon": "https://render.guildwars2.com/file/0C1D90976492C401B61EF1A5272F2B3D593C6592/66274.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 195,
+    "max_power": 215,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 94.432,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 33
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 24
+        }
+      ]
+    }
+  }
+}

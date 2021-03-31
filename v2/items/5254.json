@@ -1,0 +1,46 @@
+{
+  "name": "Berserker\u0027s Rawhide Boots",
+  "description": "",
+  "type": "Armor",
+  "level": 70,
+  "rarity": "Basic",
+  "vendor_value": 30,
+  "default_skin": 19,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 5254,
+  "chat_link": "[\u0026AgGGFAAA]",
+  "icon": "https://render.guildwars2.com/file/E6255C53689406A5E525394273ED04BEB3A0625E/61017.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 79,
+    "infusion_slots": [],
+    "attribute_adjustment": 63.4335,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 22
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 16
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 16
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Precise Amulet",
+  "description": "",
+  "type": "Trinket",
+  "level": 45,
+  "rarity": "Masterwork",
+  "vendor_value": 164,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23145,
+  "chat_link": "[\u0026AgFpWgAA]",
+  "icon": "https://render.guildwars2.com/file/4D9C6F58C20F052359BA5D1D10B9E4B97ED5F012/66791.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 124.644,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 44
+        }
+      ]
+    }
+  }
+}

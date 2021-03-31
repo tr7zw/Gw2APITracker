@@ -1,0 +1,48 @@
+{
+  "name": "Whisper\u0027s Secret Warhorn",
+  "type": "Weapon",
+  "level": 30,
+  "rarity": "Masterwork",
+  "vendor_value": 4500,
+  "default_skin": 4939,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 63501,
+  "chat_link": "[\u0026AgEN+AAA]",
+  "icon": "https://render.guildwars2.com/file/5DE06215351E240B621C426C9C08FC7D3E900C6F/67917.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 253,
+    "max_power": 279,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 74.12,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 19
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 26
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

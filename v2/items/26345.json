@@ -1,0 +1,45 @@
+{
+  "name": "Hearty Iron Dagger of Leeching",
+  "description": "",
+  "type": "Weapon",
+  "level": 55,
+  "rarity": "Rare",
+  "vendor_value": 144,
+  "default_skin": 4009,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26345,
+  "chat_link": "[\u0026AgHpZgAA]",
+  "icon": "https://render.guildwars2.com/file/3254C66ED1675657E0B7C2FBBC09FBF2FBAA74A6/62762.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 523,
+    "max_power": 556,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 177.984,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 44
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 62
+        }
+      ]
+    },
+    "suffix_item_id": 24598
+  }
+}

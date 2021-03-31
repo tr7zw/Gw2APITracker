@@ -1,0 +1,70 @@
+{
+  "id": 2461,
+  "name": "Scholar\u0027s Pack",
+  "description": "",
+  "requirement": "Collect all  items to create your Scholar\u0027s Pack.",
+  "locked_text": "On first completion of the story step \"Prisoners of the Dragon,\" choose one of the three order-themed backpacks.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 6170
+    },
+    {
+      "type": "Item",
+      "id": 76758
+    },
+    {
+      "type": "Item",
+      "id": 74304
+    },
+    {
+      "type": "Item",
+      "id": 75712
+    },
+    {
+      "type": "Item",
+      "id": 75247
+    },
+    {
+      "type": "Item",
+      "id": 71937
+    },
+    {
+      "type": "Item",
+      "id": 72346
+    },
+    {
+      "type": "Item",
+      "id": 74261
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 8,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 72558,
+      "count": 1
+    }
+  ]
+}

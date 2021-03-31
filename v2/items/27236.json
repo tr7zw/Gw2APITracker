@@ -1,0 +1,49 @@
+{
+  "name": "Cleric\u0027s Soft Wood Focus of Fire",
+  "description": "",
+  "type": "Weapon",
+  "level": 76,
+  "rarity": "Masterwork",
+  "vendor_value": 126,
+  "default_skin": 3887,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27236,
+  "chat_link": "[\u0026AgFkagAA]",
+  "icon": "https://render.guildwars2.com/file/EF62B7FE5B45A1181C362E635301E1BAA8FDCC44/65104.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 640,
+    "max_power": 680,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 259.42,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 65
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 65
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 91
+        }
+      ]
+    },
+    "suffix_item_id": 24547
+  }
+}

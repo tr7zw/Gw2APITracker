@@ -1,0 +1,39 @@
+{
+  "name": "Mortar and Pestle",
+  "description": "\u003cc\u003d@flavor\u003eFor the use of making fine ingredients for potions and salves.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 17,
+  "rarity": "Masterwork",
+  "vendor_value": 53,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23315,
+  "chat_link": "[\u0026AgETWwAA]",
+  "icon": "https://render.guildwars2.com/file/5A51D1547EF42E58C954B756FC129C0F36D6E6BF/455898.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 25.1175,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 4966,
+  "name": "Ash Training Course: Gold",
+  "description": "",
+  "requirement": "Get gold in the Ash training course.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 3
+    }
+  ],
+  "prerequisites": [
+    4981
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 347
+    }
+  ]
+}

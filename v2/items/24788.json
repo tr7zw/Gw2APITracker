@@ -1,0 +1,42 @@
+{
+  "name": "Superior Rune of the Centaur",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eSkill\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 60,
+  "rarity": "Exotic",
+  "vendor_value": 216,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24788,
+  "chat_link": "[\u0026AgHUYAAA]",
+  "icon": "https://render.guildwars2.com/file/37FB0225B2DE715BCB25B02D2914F35DBB080708/220695.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+25 Power",
+      "+10% Swiftness Duration",
+      "+50 Power",
+      "+20% Swiftness Duration",
+      "+100 Power",
+      "+20% Swiftness Duration; grant swiftness to nearby allies for 10 seconds after using a healing skill. \u003cc\u003d@reminder\u003e(Cooldown: 10 Seconds)\u003c/c\u003e"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Centaur"
+  }
+}

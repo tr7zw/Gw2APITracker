@@ -1,0 +1,44 @@
+{
+  "name": "Mending Shiverpeak Shield of Serpent Slaying",
+  "type": "Weapon",
+  "level": 38,
+  "rarity": "Masterwork",
+  "vendor_value": 72,
+  "default_skin": 5176,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25421,
+  "chat_link": "[\u0026AgFNYwAA]",
+  "icon": "https://render.guildwars2.com/file/455B5191E29A11E8ECBDEB2326E9FDE2D7C6DEAC/68182.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 298,
+    "max_power": 336,
+    "defense": 20,
+    "infusion_slots": [],
+    "attribute_adjustment": 100.096,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 25
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 35
+        }
+      ]
+    },
+    "suffix_item_id": 24660
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Mending Shiverpeak Maul of Debility",
+  "type": "Weapon",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 135,
+  "default_skin": 5213,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25143,
+  "chat_link": "[\u0026AgE3YgAA]",
+  "icon": "https://render.guildwars2.com/file/2412401469770631E7E34972B3EFCCAB90094CE8/534277.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 468,
+    "max_power": 528,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 288.456,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 72
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 101
+        }
+      ]
+    },
+    "suffix_item_id": 24634
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Honed Iron Spear of Air",
+  "description": "",
+  "type": "Weapon",
+  "level": 57,
+  "rarity": "Masterwork",
+  "vendor_value": 147,
+  "default_skin": 4000,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28744,
+  "chat_link": "[\u0026AgFIcAAA]",
+  "icon": "https://render.guildwars2.com/file/9AC302D1031B5C31806D0703FBC1944C01D4A240/561998.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 494,
+    "max_power": 546,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 344.896,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 121
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 86
+        }
+      ]
+    },
+    "suffix_item_id": 24552
+  }
+}

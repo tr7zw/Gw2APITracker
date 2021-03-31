@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Legionnaire Shield of Vision",
+  "type": "Weapon",
+  "level": 70,
+  "rarity": "Exotic",
+  "vendor_value": 236,
+  "default_skin": 4991,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32304,
+  "chat_link": "[\u0026AgEwfgAA]",
+  "icon": "https://render.guildwars2.com/file/C3C4FE967566566D430DAD7E4F053C93F332086D/779783.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 682,
+    "max_power": 768,
+    "defense": 51,
+    "infusion_slots": [],
+    "attribute_adjustment": 282.48,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 71
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 71
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 99
+        }
+      ]
+    },
+    "suffix_item_id": 24600
+  }
+}

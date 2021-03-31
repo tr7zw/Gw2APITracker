@@ -1,0 +1,50 @@
+{
+  "name": "Vigil\u0027s Honor Circlet",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 1900,
+  "default_skin": 1402,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 5323,
+  "chat_link": "[\u0026AgHLFAAA]",
+  "icon": "https://render.guildwars2.com/file/31C9D3A737CABE04B3A93C4A1DD45F5ACDF2DB38/61325.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 65,
+    "infusion_slots": [],
+    "attribute_adjustment": 150.912,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 53
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 38
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 38
+        }
+      ]
+    }
+  }
+}

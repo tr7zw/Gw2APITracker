@@ -1,0 +1,51 @@
+{
+  "name": "Apostate\u0027s Chloroblaster",
+  "type": "Weapon",
+  "level": 71,
+  "rarity": "Exotic",
+  "vendor_value": 366,
+  "default_skin": 5203,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 51513,
+  "chat_link": "[\u0026AgE5yQAA]",
+  "icon": "https://render.guildwars2.com/file/58579456F005C2967AEF7566C7530D99BBB45864/434876.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 893,
+    "max_power": 1091,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 610.4,
+    "infix_upgrade": {
+      "id": 1012,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 153
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 153
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 214
+        }
+      ]
+    }
+  }
+}

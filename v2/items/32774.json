@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Steam Scepter of Serpent Slaying",
+  "type": "Weapon",
+  "level": 38,
+  "rarity": "Masterwork",
+  "vendor_value": 72,
+  "default_skin": 5210,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32774,
+  "chat_link": "[\u0026AgEGgAAA]",
+  "icon": "https://render.guildwars2.com/file/1C43079DB206A592B3170B7C09C0AEA956BEB772/68156.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 331,
+    "max_power": 374,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 100.096,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 25
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 35
+        }
+      ]
+    },
+    "suffix_item_id": 24660
+  }
+}

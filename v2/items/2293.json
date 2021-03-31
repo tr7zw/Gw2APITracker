@@ -1,0 +1,47 @@
+{
+  "name": "Carrion Cabalist Gloves of Rage",
+  "description": "",
+  "type": "Armor",
+  "level": 69,
+  "rarity": "Masterwork",
+  "vendor_value": 105,
+  "default_skin": 82,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 2293,
+  "chat_link": "[\u0026AgH1CAAA]",
+  "icon": "https://render.guildwars2.com/file/260B7D54F135DE4B1A05E4F105EF51FDD1F09446/61079.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 89,
+    "infusion_slots": [],
+    "attribute_adjustment": 84.711,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 21
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 21
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 30
+        }
+      ]
+    },
+    "suffix_item_id": 24715
+  }
+}

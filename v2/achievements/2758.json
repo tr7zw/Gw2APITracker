@@ -1,0 +1,38 @@
+{
+  "id": 2758,
+  "name": "League Slayer—Recruit",
+  "description": "Completing this achievement advances the meta-achievement Path of the Ascension I: The Thrill of Battle.",
+  "requirement": "Kill 30 players in ranked matches.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 1
+    },
+    {
+      "count": 20,
+      "points": 1
+    },
+    {
+      "count": 30,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    2740
+  ]
+}

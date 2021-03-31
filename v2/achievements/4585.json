@@ -1,0 +1,39 @@
+{
+  "id": 4585,
+  "name": "Chasing Tales: The Old Ways",
+  "description": "\"Ganging up on an old man, eh?\"",
+  "requirement": "Defeat 30 enemies while wielding a staff in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Elegos the Harmless."
+    },
+    {
+      "type": "Text",
+      "text": "Defeated 30 enemies with a staff in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89746,
+      "count": 1
+    }
+  ]
+}

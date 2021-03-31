@@ -1,0 +1,48 @@
+{
+  "name": "Jatoro\u0027s Boots",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 30,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 45142,
+  "chat_link": "[\u0026AgFWsAAA]",
+  "icon": "https://render.guildwars2.com/file/F640924D5B38FAFAF55BDF9496D41266A132A83C/61027.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 133,
+    "infusion_slots": [],
+    "attribute_adjustment": 128.04,
+    "infix_upgrade": {
+      "id": 754,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 32
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 32
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 45
+        }
+      ]
+    },
+    "suffix_item_id": 24738
+  }
+}

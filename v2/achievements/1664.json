@@ -1,0 +1,27 @@
+{
+  "id": 1664,
+  "name": "Sheltered from the Rain",
+  "description": "Story Instance: Trouble at Fort Salma",
+  "requirement": "Defeat the Mordrem thrasher without getting hit by its rain of spores.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    1659
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 66604,
+      "count": 1
+    }
+  ]
+}

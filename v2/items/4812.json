@@ -1,0 +1,46 @@
+{
+  "name": "Private Felix\u0027s Leather Gloves",
+  "description": "\u003cc\u003d@flavor\u003e\"I should have had these on for that ambush.\"\u003cbr\u003e—Private Felix\u003c/c\u003e",
+  "type": "Armor",
+  "level": 37,
+  "rarity": "Fine",
+  "vendor_value": 32,
+  "default_skin": 908,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4812,
+  "chat_link": "[\u0026AgHMEgAA]",
+  "icon": "https://render.guildwars2.com/file/CC4C6AF2CD591F48C0655460F657EE52CA4A6CBA/61040.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 45,
+    "infusion_slots": [],
+    "attribute_adjustment": 32.856,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 8
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 11
+        }
+      ]
+    }
+  }
+}

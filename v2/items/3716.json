@@ -1,0 +1,44 @@
+{
+  "name": "Honed Drover Coat",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 1000,
+  "default_skin": 333,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "id": 3716,
+  "chat_link": "[\u0026AgGEDgAA]",
+  "icon": "https://render.guildwars2.com/file/4AC1A0ACA89A4B08DF07F8126DDC900C427EFC90/218902.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 109,
+    "infusion_slots": [],
+    "attribute_adjustment": 110.889,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 39
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 28
+        }
+      ]
+    }
+  }
+}

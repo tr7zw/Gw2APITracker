@@ -1,0 +1,31 @@
+{
+  "id": 5051,
+  "name": "Supernatural",
+  "description": "",
+  "requirement": "Accompany the Vigil relief crew and defeat the boneskinner in the Aberrant Forest.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Escort the Vigil relief crew into the Aberrant Forest."
+    },
+    {
+      "type": "Text",
+      "text": "Clear the forest of aberrant creatures for the Vigil relief crew."
+    },
+    {
+      "type": "Text",
+      "text": "Defeat the boneskinner hunting the Vigil relief crew in the Aberrant Forest."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 5
+    }
+  ]
+}

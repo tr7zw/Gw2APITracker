@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Steam Brand of the Hydromancer",
+  "type": "Weapon",
+  "level": 56,
+  "rarity": "Masterwork",
+  "vendor_value": 98,
+  "default_skin": 5141,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32801,
+  "chat_link": "[\u0026AgEhgAAA]",
+  "icon": "https://render.guildwars2.com/file/B9BCAA2F79C29066BBA81255E31B223B5A735B3A/68169.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 422,
+    "max_power": 495,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 168.096,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 42
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 59
+        }
+      ]
+    },
+    "suffix_item_id": 24595
+  }
+}

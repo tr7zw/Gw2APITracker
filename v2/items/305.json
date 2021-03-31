@@ -1,0 +1,44 @@
+{
+  "name": "Shaman\u0027s Cabalist Coat",
+  "description": "",
+  "type": "Armor",
+  "level": 64,
+  "rarity": "Fine",
+  "vendor_value": 81,
+  "default_skin": 51,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 305,
+  "chat_link": "[\u0026AgExAQAA]",
+  "icon": "https://render.guildwars2.com/file/73CEB0F9515E0627321A15DA1CA4A6F3F51A4CE6/61019.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 174,
+    "infusion_slots": [],
+    "attribute_adjustment": 210.024,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 74
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 53
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 53
+        }
+      ]
+    }
+  }
+}

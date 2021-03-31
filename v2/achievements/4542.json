@@ -1,0 +1,39 @@
+{
+  "id": 4542,
+  "name": "Chasing Tales: Hobbler",
+  "description": "Mouglon could spot the flaw in any defense.",
+  "requirement": "Apply 30 conditions with a mace in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Mouglon the Watchful."
+    },
+    {
+      "type": "Text",
+      "text": "Applied 30 conditions with a mace in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89939,
+      "count": 1
+    }
+  ]
+}

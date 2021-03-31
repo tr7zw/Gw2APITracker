@@ -1,0 +1,53 @@
+{
+  "name": "Settler\u0027s Soft Wood Longbow of the Geomancer",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 198,
+  "default_skin": 3942,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 42527,
+  "chat_link": "[\u0026AgEfpgAA]",
+  "icon": "https://render.guildwars2.com/file/C6110F52DF5AFE0F00A56F9E143E9732176DDDE9/65015.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 758,
+    "max_power": 889,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 559.912,
+    "infix_upgrade": {
+      "id": 693,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 196
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 140
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 140
+        }
+      ]
+    },
+    "suffix_item_id": 24603
+  }
+}

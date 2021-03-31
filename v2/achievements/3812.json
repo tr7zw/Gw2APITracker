@@ -1,0 +1,35 @@
+{
+  "id": 3812,
+  "name": "The Desolation Bounty Tour",
+  "description": "",
+  "requirement": "Complete a bounty from each bounty board location.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Kormir Bounty Board"
+    },
+    {
+      "type": "Text",
+      "text": "Lair Bounty Board"
+    },
+    {
+      "type": "Text",
+      "text": "Shadows Bounty Board"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 5
+    }
+  ]
+}

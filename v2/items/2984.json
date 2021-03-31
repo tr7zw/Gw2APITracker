@@ -1,0 +1,40 @@
+{
+  "name": "Strong Apprentice Band",
+  "description": "",
+  "type": "Armor",
+  "level": 32,
+  "rarity": "Basic",
+  "vendor_value": 20,
+  "default_skin": 85,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 2984,
+  "chat_link": "[\u0026AgGoCwAA]",
+  "icon": "https://render.guildwars2.com/file/B8A925C49471F215F4AF6057D0B3B0F3BAA7CF19/61351.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 15,
+    "infusion_slots": [],
+    "attribute_adjustment": 28.34,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 10
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 7
+        }
+      ]
+    }
+  }
+}

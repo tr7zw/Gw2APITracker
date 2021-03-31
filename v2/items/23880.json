@@ -1,0 +1,39 @@
+{
+  "name": "Thorn Bracelet",
+  "description": "\u003cc\u003d@flavor\u003e\"Coming from the darkness they just grow like that.\"\u003cbr\u003e—Alarin\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 6,
+  "rarity": "Fine",
+  "vendor_value": 14,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23880,
+  "chat_link": "[\u0026AgFIXQAA]",
+  "icon": "https://render.guildwars2.com/file/2BD5FC4332E7236F46282C5BEDCC0F2CE97A905E/65589.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 10.32,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

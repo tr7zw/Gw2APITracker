@@ -1,0 +1,49 @@
+{
+  "name": "Soldier\u0027s Apprentice Coat",
+  "description": "",
+  "type": "Armor",
+  "level": 75,
+  "rarity": "Masterwork",
+  "vendor_value": 780,
+  "default_skin": 4,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 7139,
+  "chat_link": "[\u0026AgHjGwAA]",
+  "icon": "https://render.guildwars2.com/file/DB0264EE5C0079BB3996EC7B0297CEE1BD48EF07/61403.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 235,
+    "infusion_slots": [],
+    "attribute_adjustment": 286.034,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 100
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 72
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 72
+        }
+      ]
+    }
+  }
+}

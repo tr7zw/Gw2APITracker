@@ -1,0 +1,65 @@
+{
+  "name": "Ossa\u0027s Short Bow",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of the famous ruler, Turai Ossa.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 10000,
+  "default_skin": 4152,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 71645,
+  "chat_link": "[\u0026AgHdFwEA]",
+  "icon": "https://render.guildwars2.com/file/FCB40B396E6605C5DBB79345BF7EDFBAF8714402/632015.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 950,
+    "max_power": 1050,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      },
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 717.024,
+    "infix_upgrade": {
+      "id": 1109,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 215
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 215
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 118
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 118
+        }
+      ]
+    }
+  }
+}

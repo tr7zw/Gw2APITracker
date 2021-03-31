@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Verdant Warhorn of Ogre Slaying",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Rare",
+  "vendor_value": 126,
+  "default_skin": 5137,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34804,
+  "chat_link": "[\u0026AgH0hwAA]",
+  "icon": "https://render.guildwars2.com/file/1794FED209AA00EC58CDB6F552F3721817A6DA9A/434883.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 384,
+    "max_power": 425,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 140.256,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 35
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 49
+        }
+      ]
+    },
+    "suffix_item_id": 24656
+  }
+}

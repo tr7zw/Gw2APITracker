@@ -1,0 +1,53 @@
+{
+  "name": "Tarstar Longbow",
+  "description": "\u003cc\u003d@flavor\u003e\"Protect your grubs and they protect you.\"\u003cbr\u003e—Tarstar Chief\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 63,
+  "rarity": "Masterwork",
+  "vendor_value": 162,
+  "default_skin": 5209,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30150,
+  "chat_link": "[\u0026AgHGdQAA]",
+  "icon": "https://render.guildwars2.com/file/4A2CA99C5A19F33695FF36EF3FC9C3F10E0CDA03/68153.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 561,
+    "max_power": 659,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 396.712,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 99
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 99
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 139
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

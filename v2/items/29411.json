@@ -1,0 +1,41 @@
+{
+  "name": "Lionguard-Issue Sword",
+  "description": "\u003cc\u003d@flavor\u003e\"Serial #1465\"\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 5,
+  "rarity": "Fine",
+  "vendor_value": 10,
+  "default_skin": 4047,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell"
+  ],
+  "restrictions": [],
+  "id": 29411,
+  "chat_link": "[\u0026AgHjcgAA]",
+  "icon": "https://render.guildwars2.com/file/D10679012504F6AD5829D1DF9F36303FE2EB46B4/64343.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 148,
+    "max_power": 163,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 15.744,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

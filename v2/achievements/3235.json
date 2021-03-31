@@ -1,0 +1,52 @@
+{
+  "id": 3235,
+  "name": "Cultural Attaché",
+  "description": "Required Instance: Precocious Aurene",
+  "requirement": "Bring Aurene souvenirs from around Tyria to teach her about the cultures of the world.",
+  "locked_text": "Complete the Precocious Aurene instance.",
+  "type": "ItemSet",
+  "flags": [
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 79865
+    },
+    {
+      "type": "Item",
+      "id": 79859
+    },
+    {
+      "type": "Item",
+      "id": 79811
+    },
+    {
+      "type": "Item",
+      "id": 79819
+    },
+    {
+      "type": "Item",
+      "id": 79923
+    },
+    {
+      "type": "Item",
+      "id": 79796
+    },
+    {
+      "type": "Item",
+      "id": 79770
+    }
+  ],
+  "tiers": [
+    {
+      "count": 7,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    3216
+  ]
+}

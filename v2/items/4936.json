@@ -1,0 +1,50 @@
+{
+  "name": "Rescuer\u0027s Mantle",
+  "description": "\u003cc\u003d@flavor\u003e\"These won\u0027t rescue you from the Risen, but they will offer you some extra protection.\"\u003cbr\u003e—Danu\u003c/c\u003e",
+  "type": "Armor",
+  "level": 61,
+  "rarity": "Fine",
+  "vendor_value": 58,
+  "default_skin": 888,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4936,
+  "chat_link": "[\u0026AgFIEwAA]",
+  "icon": "https://render.guildwars2.com/file/76C75441B9FF20EB323AE15407ED97DDDC789330/61234.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 38,
+    "infusion_slots": [],
+    "attribute_adjustment": 65.424,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 16
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 16
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 23
+        }
+      ]
+    }
+  }
+}

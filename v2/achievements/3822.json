@@ -1,0 +1,80 @@
+{
+  "id": 3822,
+  "icon": "https://render.guildwars2.com/file/3FB1AE472DF109D022146F26B0F420140BFC26FE/1824200.png",
+  "name": "Glorify the Golden Heart",
+  "description": "\u003cc\u003d@Flavor\u003eAhead of burial, a Dynastic ruler\u0027s ornate jewelry was collected, restored to glory, and placed in their ceremonial armor.\u003c/c\u003e",
+  "requirement": "Collect  missing gems, and combine them with amalgamated gemstones in the Lair of Zommoros.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 83566
+    },
+    {
+      "type": "Item",
+      "id": 83619
+    },
+    {
+      "type": "Item",
+      "id": 84472
+    },
+    {
+      "type": "Item",
+      "id": 84699
+    },
+    {
+      "type": "Item",
+      "id": 83585
+    },
+    {
+      "type": "Item",
+      "id": 84775
+    },
+    {
+      "type": "Item",
+      "id": 83845
+    },
+    {
+      "type": "Item",
+      "id": 83077
+    },
+    {
+      "type": "Item",
+      "id": 84388
+    },
+    {
+      "type": "Item",
+      "id": 84574
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    3753
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 82396,
+      "count": 1
+    }
+  ]
+}

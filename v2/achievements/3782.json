@@ -1,0 +1,33 @@
+{
+  "id": 3782,
+  "name": "Realm-Portal Spiker",
+  "description": "The Forged open realm portals at Maws within the Ruptured Heart to get reinforcement squads. The residue from emerging units can be combined with portal spikes to damage the realm portals.",
+  "requirement": "Plant 100 portal spikes into the realm portals at the Ruptured Heart.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 20,
+      "points": 1
+    },
+    {
+      "count": 40,
+      "points": 1
+    },
+    {
+      "count": 80,
+      "points": 2
+    },
+    {
+      "count": 100,
+      "points": 5
+    }
+  ]
+}

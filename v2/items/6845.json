@@ -1,0 +1,41 @@
+{
+  "name": "Mighty Duelist Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 10,
+  "rarity": "Fine",
+  "vendor_value": 36,
+  "default_skin": 908,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6845,
+  "chat_link": "[\u0026AgG9GgAA]",
+  "icon": "https://render.guildwars2.com/file/CC4C6AF2CD591F48C0655460F657EE52CA4A6CBA/61040.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 19,
+    "infusion_slots": [],
+    "attribute_adjustment": 8.616,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 3
+        }
+      ]
+    }
+  }
+}

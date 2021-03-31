@@ -1,0 +1,29 @@
+{
+  "id": 3664,
+  "name": "The Way Forward",
+  "description": "Journal: The Way Forward Completed",
+  "requirement": "Find answers out in the desert.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 83871,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 406
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": 186,
+  "name": "Catacombs Conqueror",
+  "description": "Graveling groveling gravelings.",
+  "requirement": "Explored Ascalonian Catacombs.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Story Mode"
+    },
+    {
+      "type": "Text",
+      "text": "Explorable Mode—Detha\u0027s Path"
+    },
+    {
+      "type": "Text",
+      "text": "Explorable Mode—Hodgins\u0027s Path"
+    },
+    {
+      "type": "Text",
+      "text": "Explorable Mode—Tzark\u0027s Path"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 2,
+      "points": 5
+    },
+    {
+      "count": 3,
+      "points": 5
+    },
+    {
+      "count": 4,
+      "points": 5
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Berserker\u0027s Winged Headpiece",
+  "description": "",
+  "type": "Armor",
+  "level": 65,
+  "rarity": "Masterwork",
+  "vendor_value": 67,
+  "default_skin": 183,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 11219,
+  "chat_link": "[\u0026AgHTKwAA]",
+  "icon": "https://render.guildwars2.com/file/367422F8B52055665F0868B3BECCC26C972505DA/61511.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 45,
+    "infusion_slots": [],
+    "attribute_adjustment": 103.496,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 36
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 26
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 26
+        }
+      ]
+    }
+  }
+}

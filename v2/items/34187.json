@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Tribal Torch of Vision",
+  "type": "Weapon",
+  "level": 70,
+  "rarity": "Exotic",
+  "vendor_value": 236,
+  "default_skin": 5118,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34187,
+  "chat_link": "[\u0026AgGLhQAA]",
+  "icon": "https://render.guildwars2.com/file/FB52027397D2FDEF24E00ADF40B693F9BE0932D9/67360.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 667,
+    "max_power": 783,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 282.48,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 71
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 71
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 99
+        }
+      ]
+    },
+    "suffix_item_id": 24600
+  }
+}

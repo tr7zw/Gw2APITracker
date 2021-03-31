@@ -1,0 +1,56 @@
+{
+  "id": 3796,
+  "icon": "https://render.guildwars2.com/file/3FB1AE472DF109D022146F26B0F420140BFC26FE/1824200.png",
+  "name": "The Collection of Tribute",
+  "description": "\u003cc\u003d@Flavor\u003eRulers of the Primeval Dynasty developed their kingdom\u0027s material resources, accruing great wealth and power for themselves and for their subjects.\u003c/c\u003e",
+  "requirement": "Gather and combine  tributes from Elonian gathering nodes.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 84072
+    },
+    {
+      "type": "Item",
+      "id": 83138
+    },
+    {
+      "type": "Item",
+      "id": 82444
+    },
+    {
+      "type": "Item",
+      "id": 83656
+    },
+    {
+      "type": "Item",
+      "id": 82863
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 2
+    }
+  ],
+  "prerequisites": [
+    3753
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 84451,
+      "count": 1
+    }
+  ]
+}

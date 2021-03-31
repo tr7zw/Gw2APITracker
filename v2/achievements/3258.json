@@ -1,0 +1,37 @@
+{
+  "id": 3258,
+  "name": "Wrapping Everywhere",
+  "description": "Only one way to find out what\u0027s inside.",
+  "requirement": "Unwrap Wintersday presents.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 2
+    },
+    {
+      "count": 20,
+      "points": 2
+    },
+    {
+      "count": 40,
+      "points": 4
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 77666,
+      "count": 10
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Precise Embroidered Sandals",
+  "type": "Armor",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 48,
+  "default_skin": 155,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 10898,
+  "chat_link": "[\u0026AgGSKgAA]",
+  "icon": "https://render.guildwars2.com/file/C1586F38466A72AF5A76E1B4FA2F7106BFB8C4F6/218925.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 25,
+    "infusion_slots": [],
+    "attribute_adjustment": 17.6205,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

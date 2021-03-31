@@ -1,0 +1,43 @@
+{
+  "name": "Ghostly Doubloon",
+  "description": "\u003cc\u003d@flavor\u003e\"This used to be cursed but the Durmand Priory removed it.\"\u003cbr\u003e—Professor Maciver\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 45,
+  "rarity": "Masterwork",
+  "vendor_value": 103,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23764,
+  "chat_link": "[\u0026AgHUXAAA]",
+  "icon": "https://render.guildwars2.com/file/E1EDF8D1120BA409AB0E5FE69CF8B65F1424B731/455961.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 77.9025,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 19
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 27
+        }
+      ]
+    }
+  }
+}

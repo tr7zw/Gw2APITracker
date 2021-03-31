@@ -1,0 +1,50 @@
+{
+  "name": "Whisper\u0027s Secret Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 1400,
+  "default_skin": 1423,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 5346,
+  "chat_link": "[\u0026AgHiFAAA]",
+  "icon": "https://render.guildwars2.com/file/AFC6481C3D031C107DAB160D0C2FA17501437A46/61341.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 139,
+    "infusion_slots": [],
+    "attribute_adjustment": 113.184,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 28
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 28
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 40
+        }
+      ]
+    }
+  }
+}

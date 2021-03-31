@@ -1,0 +1,40 @@
+{
+  "name": "Ravaging Magician Boots",
+  "description": "",
+  "type": "Armor",
+  "level": 34,
+  "rarity": "Fine",
+  "vendor_value": 33,
+  "default_skin": 69,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 694,
+  "chat_link": "[\u0026AgG2AgAA]",
+  "icon": "https://render.guildwars2.com/file/561D59C81D1BAC16DA6AC470C256A7C53566DF5D/61032.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 35,
+    "infusion_slots": [],
+    "attribute_adjustment": 29.448,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 7
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 10
+        }
+      ]
+    }
+  }
+}

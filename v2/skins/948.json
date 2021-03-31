@@ -1,0 +1,30 @@
+{
+  "name": "Rubicon Boots",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 948,
+  "icon": "https://render.guildwars2.com/file/61A5CFF460404B1AE725642AA09455BABCD9F138/61290.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "dye_slots": {
+      "default": [
+        null,
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        null,
+        {
+          "color_id": -1,
+          "material": "metal"
+        }
+      ],
+      "overrides": {}
+    }
+  }
+}

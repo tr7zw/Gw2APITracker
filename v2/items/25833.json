@@ -1,0 +1,38 @@
+{
+  "name": "Precise Iron Axe",
+  "description": "",
+  "type": "Weapon",
+  "level": 7,
+  "rarity": "Fine",
+  "vendor_value": 12,
+  "default_skin": 3962,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 25833,
+  "chat_link": "[\u0026AgHpZAAA]",
+  "icon": "https://render.guildwars2.com/file/C8EAC643C02F41B918D79031B6060B0CBFE40CAD/64967.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 146,
+    "max_power": 178,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 17.664,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Rabid Warden Helm",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 1250,
+  "default_skin": 498,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Sylvari"
+  ],
+  "id": 3658,
+  "chat_link": "[\u0026AgFKDgAA]",
+  "icon": "https://render.guildwars2.com/file/F35C53DE660C0B0A7B99D4E3E63BF974C5B7D8DA/61172.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 72,
+    "infusion_slots": [],
+    "attribute_adjustment": 100.44,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 25
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 25
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 35
+        }
+      ]
+    }
+  }
+}

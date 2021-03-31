@@ -1,0 +1,27 @@
+{
+  "id": 4810,
+  "name": "Party Commander",
+  "description": "",
+  "requirement": "Complete the Dragon Basher achievement five times over the course of the Dragon Bash festival. The Dragon Basher achievement is located in the Dragon Bash daily tab.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 10
+    }
+  ],
+  "point_cap": 100,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 91309,
+      "count": 1
+    }
+  ]
+}

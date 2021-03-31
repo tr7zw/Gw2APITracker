@@ -1,0 +1,29 @@
+{
+  "id": 3702,
+  "name": "Breaking the Bank: Vault 3",
+  "description": "And, behind this door...",
+  "requirement": "Guess the correct chest in the third mysterious bank vault.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    }
+  ],
+  "prerequisites": [
+    3703
+  ],
+  "point_cap": -1,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 84721,
+      "count": 1
+    }
+  ]
+}

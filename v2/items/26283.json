@@ -1,0 +1,45 @@
+{
+  "name": "Hearty Iron Dagger of Chilling",
+  "description": "",
+  "type": "Weapon",
+  "level": 52,
+  "rarity": "Masterwork",
+  "vendor_value": 92,
+  "default_skin": 4009,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26283,
+  "chat_link": "[\u0026AgGrZgAA]",
+  "icon": "https://render.guildwars2.com/file/3254C66ED1675657E0B7C2FBBC09FBF2FBAA74A6/62762.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 457,
+    "max_power": 486,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 152.048,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 38
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 53
+        }
+      ]
+    },
+    "suffix_item_id": 24628
+  }
+}

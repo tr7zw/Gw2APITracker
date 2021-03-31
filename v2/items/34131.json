@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Tribal Focus of Vision",
+  "type": "Weapon",
+  "level": 70,
+  "rarity": "Exotic",
+  "vendor_value": 236,
+  "default_skin": 5183,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34131,
+  "chat_link": "[\u0026AgFThQAA]",
+  "icon": "https://render.guildwars2.com/file/7524FEB6CFE0FB59E8FA97B1D7AFB27FB0CBFEC9/67309.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 703,
+    "max_power": 747,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 282.48,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 71
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 71
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 99
+        }
+      ]
+    },
+    "suffix_item_id": 24600
+  }
+}

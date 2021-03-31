@@ -1,0 +1,47 @@
+{
+  "name": "Survivor\u0027s Elkslayer",
+  "type": "Weapon",
+  "level": 51,
+  "rarity": "Rare",
+  "vendor_value": 212,
+  "default_skin": 5172,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 53664,
+  "chat_link": "[\u0026AgGg0QAA]",
+  "icon": "https://render.guildwars2.com/file/4BDBBAFF2A590F1663241BF2C733D208A6E40BF2/534282.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 511,
+    "max_power": 600,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 346.896,
+    "infix_upgrade": {
+      "id": 1013,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 87
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 121
+        }
+      ]
+    }
+  }
+}

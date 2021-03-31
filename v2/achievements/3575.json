@@ -1,0 +1,30 @@
+{
+  "id": 3575,
+  "name": "Justice of the Blade",
+  "description": "",
+  "requirement": "Complete each task to aid the Shining Blade\u0027s investigation into bandit activity.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 6,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tyria",
+      "id": 377
+    },
+    {
+      "type": "Title",
+      "id": 290
+    }
+  ]
+}

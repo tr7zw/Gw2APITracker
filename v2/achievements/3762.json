@@ -1,0 +1,54 @@
+{
+  "id": 3762,
+  "icon": "https://render.guildwars2.com/file/3FB1AE472DF109D022146F26B0F420140BFC26FE/1824200.png",
+  "name": "Final Sting",
+  "description": "",
+  "requirement": "Collect all of the weapon pieces and then forge them together in the fires of a dwarven furnace.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 83523
+    },
+    {
+      "type": "Item",
+      "id": 83032
+    },
+    {
+      "type": "Item",
+      "id": 83773
+    },
+    {
+      "type": "Item",
+      "id": 83232
+    },
+    {
+      "type": "Item",
+      "id": 83747
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 82463,
+      "count": 1
+    }
+  ]
+}

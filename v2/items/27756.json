@@ -1,0 +1,46 @@
+{
+  "name": "Rampager\u0027s Iron Hammer",
+  "description": "",
+  "type": "Weapon",
+  "level": 67,
+  "rarity": "Fine",
+  "vendor_value": 84,
+  "default_skin": 4060,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 27756,
+  "chat_link": "[\u0026AgFsbAAA]",
+  "icon": "https://render.guildwars2.com/file/2F4509F15B48B1A9F1579D08539F4109972A31A4/65162.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 597,
+    "max_power": 673,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 398.464,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 100
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 139
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 100
+        }
+      ]
+    }
+  }
+}

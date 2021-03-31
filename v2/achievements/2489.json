@@ -1,0 +1,27 @@
+{
+  "id": 2489,
+  "name": "Jungle Totem Hunter",
+  "description": "No, you don\u0027t have to carry them all the way back...",
+  "requirement": "Discover all the lost Itzel totems in Verdant Brink.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 10,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    2174
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 36
+    }
+  ]
+}

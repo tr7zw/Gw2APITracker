@@ -1,0 +1,41 @@
+{
+  "name": "Topaz Silver Earring",
+  "description": "",
+  "type": "Trinket",
+  "level": 35,
+  "rarity": "Masterwork",
+  "vendor_value": 85,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 13375,
+  "chat_link": "[\u0026AgE/NAAA]",
+  "icon": "https://render.guildwars2.com/file/5C036E010EE60CB1E2F9F02CC6B545D6CF1811E7/340172.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 56.015,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 14
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 20
+        }
+      ]
+    },
+    "suffix_item_id": 24489
+  }
+}

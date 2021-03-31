@@ -1,0 +1,38 @@
+{
+  "name": "Mighty Scepter",
+  "description": "",
+  "type": "Weapon",
+  "level": 16,
+  "rarity": "Basic",
+  "vendor_value": 10,
+  "default_skin": 3866,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 28970,
+  "chat_link": "[\u0026AgEqcQAA]",
+  "icon": "https://render.guildwars2.com/file/40539A620E4FF85EEE0D104BBE234E185142A2CC/66202.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 148,
+    "max_power": 167,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 25.792,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": 2227,
+  "name": "Agent\u0027s Pack",
+  "description": "",
+  "requirement": "Collect all  items to create your Agent\u0027s Pack.",
+  "locked_text": "On first completion of the story step \"Prisoners of the Dragon,\" choose one of the three order-themed backpacks.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 6416
+    },
+    {
+      "type": "Item",
+      "id": 71867
+    },
+    {
+      "type": "Item",
+      "id": 75500
+    },
+    {
+      "type": "Item",
+      "id": 72694
+    },
+    {
+      "type": "Item",
+      "id": 74073
+    },
+    {
+      "type": "Item",
+      "id": 77147
+    },
+    {
+      "type": "Item",
+      "id": 70830
+    },
+    {
+      "type": "Item",
+      "id": 70552
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 8,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 76848,
+      "count": 1
+    }
+  ]
+}

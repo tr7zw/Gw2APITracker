@@ -1,0 +1,27 @@
+{
+  "id": 5474,
+  "name": "Paratrooper",
+  "description": "No, you can\u0027t deploy your parachute again once you\u0027ve cut it. How would that even work?",
+  "requirement": "Speak to Elizia to learn about airdropping, and then click base icons on the map while in Drizzlewood Coast to airdrop over areas held by the United Legions.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Speak to Elizia Skysight in Umbral Grotto."
+    },
+    {
+      "type": "Text",
+      "text": "Airdrop anywhere over Drizzlewood Coast."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 2,
+      "points": 1
+    }
+  ]
+}

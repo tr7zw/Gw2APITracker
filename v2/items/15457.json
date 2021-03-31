@@ -1,0 +1,46 @@
+{
+  "name": "Rampager\u0027s Mithril Greatsword",
+  "description": "",
+  "type": "Weapon",
+  "level": 75,
+  "rarity": "Fine",
+  "vendor_value": 93,
+  "default_skin": 4081,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 15457,
+  "chat_link": "[\u0026AgFhPAAA]",
+  "icon": "https://render.guildwars2.com/file/1EA00FDAAD23FD1B1B9C4BD6E36EB30A43E21D06/64138.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 697,
+    "max_power": 770,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 469.76,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 117
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 164
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 117
+        }
+      ]
+    }
+  }
+}

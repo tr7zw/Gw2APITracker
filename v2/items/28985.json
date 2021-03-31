@@ -1,0 +1,38 @@
+{
+  "name": "Mighty Shield",
+  "description": "",
+  "type": "Weapon",
+  "level": 8,
+  "rarity": "Basic",
+  "vendor_value": 7,
+  "default_skin": 3855,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 28985,
+  "chat_link": "[\u0026AgE5cQAA]",
+  "icon": "https://render.guildwars2.com/file/7DB35F1B7E15540C901650FE08B635FC7F01C852/66208.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 112,
+    "max_power": 126,
+    "defense": 6,
+    "infusion_slots": [],
+    "attribute_adjustment": 14.352,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 5
+        }
+      ]
+    }
+  }
+}

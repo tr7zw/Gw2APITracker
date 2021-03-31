@@ -1,0 +1,45 @@
+{
+  "name": "Shaman\u0027s Shiverpeak Maul",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Fine",
+  "vendor_value": 99,
+  "default_skin": 5213,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 25136,
+  "chat_link": "[\u0026AgEwYgAA]",
+  "icon": "https://render.guildwars2.com/file/2412401469770631E7E34972B3EFCCAB90094CE8/534277.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 751,
+    "max_power": 847,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 517.248,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 181
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 129
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 129
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Ravaging Glyphic Longbow",
+  "type": "Weapon",
+  "level": 26,
+  "rarity": "Fine",
+  "vendor_value": 42,
+  "default_skin": 5201,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 34299,
+  "chat_link": "[\u0026AgH7hQAA]",
+  "icon": "https://render.guildwars2.com/file/0166640705A3797A74F6CFDE79E67FBD9D399CE8/62844.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 238,
+    "max_power": 279,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 109.952,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 27
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 38
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Peacemaker\u0027s Longbow",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 9000,
+  "default_skin": 4332,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29936,
+  "chat_link": "[\u0026AgHwdAAA]",
+  "icon": "https://render.guildwars2.com/file/9CF20DE10DF8165F3E0D39342207C9623420F5CD/780617.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 815,
+    "max_power": 957,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 603.648,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 151
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 151
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 211
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

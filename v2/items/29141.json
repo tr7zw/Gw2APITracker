@@ -1,0 +1,46 @@
+{
+  "name": "Berserker\u0027s Mace",
+  "description": "",
+  "type": "Weapon",
+  "level": 76,
+  "rarity": "Basic",
+  "vendor_value": 32,
+  "default_skin": 3861,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 29141,
+  "chat_link": "[\u0026AgHVcQAA]",
+  "icon": "https://render.guildwars2.com/file/6E350F079207B60BFBD5A54A9F14E667677E0016/66184.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 509,
+    "max_power": 574,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 190.84,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 67
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 48
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 48
+        }
+      ]
+    }
+  }
+}

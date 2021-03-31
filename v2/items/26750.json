@@ -1,0 +1,45 @@
+{
+  "name": "Hearty Iron Shield of Force",
+  "description": "",
+  "type": "Weapon",
+  "level": 58,
+  "rarity": "Masterwork",
+  "vendor_value": 100,
+  "default_skin": 4012,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26750,
+  "chat_link": "[\u0026AgF+aAAA]",
+  "icon": "https://render.guildwars2.com/file/222F72EDEC31ACB7BC439499F4DD4AA4A94A6C48/65373.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 448,
+    "max_power": 506,
+    "defense": 32,
+    "infusion_slots": [],
+    "attribute_adjustment": 176.732,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 44
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 62
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

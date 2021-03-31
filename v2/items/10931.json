@@ -1,0 +1,42 @@
+{
+  "name": "Strong Student Shoes",
+  "description": "",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Masterwork",
+  "vendor_value": 68,
+  "default_skin": 156,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 10931,
+  "chat_link": "[\u0026AgGzKgAA]",
+  "icon": "https://render.guildwars2.com/file/743BB95DCA0904DDBB35656AC0669A7FE9F204DF/61108.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 40,
+    "infusion_slots": [],
+    "attribute_adjustment": 33.609,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 12
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

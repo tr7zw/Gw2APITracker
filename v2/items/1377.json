@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Privateer Boots of the Afflicted",
+  "description": "",
+  "type": "Armor",
+  "level": 57,
+  "rarity": "Masterwork",
+  "vendor_value": 98,
+  "default_skin": 75,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 1377,
+  "chat_link": "[\u0026AgFhBQAA]",
+  "icon": "https://render.guildwars2.com/file/AE01341F9C5DC77201C50D2E220D52AC96FCEDFF/61041.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 81,
+    "infusion_slots": [],
+    "attribute_adjustment": 64.668,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 16
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 23
+        }
+      ]
+    },
+    "suffix_item_id": 24685
+  }
+}

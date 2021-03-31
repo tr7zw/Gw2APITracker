@@ -1,0 +1,62 @@
+{
+  "name": "Harpoon Gun of the Sunless",
+  "description": "\u003cc\u003d@flavor\u003eCorrupted long ago by Tequatl\u0027s influence.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 495,
+  "default_skin": 5263,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 47864,
+  "chat_link": "[\u0026AgH4ugAA]",
+  "icon": "https://render.guildwars2.com/file/F852329C7208412A1E80244F05346EFE91C468B2/638325.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 950,
+    "max_power": 1050,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      },
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 717.024,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 179
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 179
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 251
+        }
+      ]
+    },
+    "suffix_item_id": 24578
+  }
+}

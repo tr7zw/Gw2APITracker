@@ -1,0 +1,44 @@
+{
+  "name": "Wurm Lodge Warhorn",
+  "description": "\u003cc\u003d@flavor\u003e\"Made from a hollowed-out wurm tooth.\"\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 12,
+  "rarity": "Fine",
+  "vendor_value": 17,
+  "default_skin": 3907,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29405,
+  "chat_link": "[\u0026AgHdcgAA]",
+  "icon": "https://render.guildwars2.com/file/5A0593B5164DE87591029323F7D90775D716001D/65530.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 156,
+    "max_power": 172,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 26.496,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

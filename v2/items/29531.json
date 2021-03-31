@@ -1,0 +1,52 @@
+{
+  "name": "Arundon Torch",
+  "description": "\u003cc\u003d@flavor\u003e\"Only one permanent way to cleanse this vile evil.\"\u003cbr\u003e—Explorer Erikk\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 71,
+  "rarity": "Fine",
+  "vendor_value": 59,
+  "default_skin": 3890,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29531,
+  "chat_link": "[\u0026AgFbcwAA]",
+  "icon": "https://render.guildwars2.com/file/FA56C5DD5D7494F25D980E432BA129F44209ED0E/63136.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 515,
+    "max_power": 605,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 217.088,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 54
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 54
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 76
+        }
+      ]
+    }
+  }
+}

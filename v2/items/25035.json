@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Norn Dagger of Air",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 198,
+  "default_skin": 5228,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25035,
+  "chat_link": "[\u0026AgHLYQAA]",
+  "icon": "https://render.guildwars2.com/file/2F11C70CBD6B7CDFF2D21CD611CC4202DDB8BFED/575168.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 819,
+    "max_power": 869,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 301.824,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 106
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 75
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 75
+        }
+      ]
+    },
+    "suffix_item_id": 24553
+  }
+}

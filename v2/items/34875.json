@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Verdant Trident of Corruption",
+  "type": "Weapon",
+  "level": 67,
+  "rarity": "Rare",
+  "vendor_value": 252,
+  "default_skin": 5054,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34875,
+  "chat_link": "[\u0026AgE7iAAA]",
+  "icon": "https://render.guildwars2.com/file/6D126635BBC9073DD91750273A03797490A093F4/434899.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 641,
+    "max_power": 708,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 468.432,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 117
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 117
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 164
+        }
+      ]
+    },
+    "suffix_item_id": 24577
+  }
+}

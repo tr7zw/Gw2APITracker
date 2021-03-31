@@ -1,0 +1,50 @@
+{
+  "name": "Cloth Inka Boots",
+  "description": "\u003cc\u003d@flavor\u003e\"These summoning stones have led to great breakthroughs in some of my more boot-related research.\"\u003cbr\u003e—Scholar Inka\u003c/c\u003e",
+  "type": "Armor",
+  "level": 73,
+  "rarity": "Fine",
+  "vendor_value": 61,
+  "default_skin": 904,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4123,
+  "chat_link": "[\u0026AgEbEAAA]",
+  "icon": "https://render.guildwars2.com/file/72997C3425C2339DF4E64A6B04DABD33B4DD1C02/61261.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 89,
+    "infusion_slots": [],
+    "attribute_adjustment": 84.744,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 21
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 21
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 30
+        }
+      ]
+    }
+  }
+}

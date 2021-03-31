@@ -1,0 +1,25 @@
+{
+  "name": "Peg Leg",
+  "description": "Double-click to gain a peg leg you can bash things with.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 9,
+  "game_types": [
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 8660,
+  "chat_link": "[\u0026AgHUIQAA]",
+  "icon": "https://render.guildwars2.com/file/365903EF113AAD5FF6E5F77F1E46CE1072046A3D/63126.png",
+  "details": {
+    "type": "Generic"
+  }
+}

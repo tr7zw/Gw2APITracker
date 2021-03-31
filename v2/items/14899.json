@@ -1,0 +1,48 @@
+{
+  "name": "Rabid Beaded Trident",
+  "description": "",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 234,
+  "default_skin": 4031,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 14899,
+  "chat_link": "[\u0026AgEzOgAA]",
+  "icon": "https://render.guildwars2.com/file/A3A604B005D245B97077065FE7409D9E9E1303D4/534157.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 564,
+    "max_power": 623,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 401.76,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 100
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 100
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 141
+        }
+      ]
+    }
+  }
+}

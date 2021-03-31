@@ -1,0 +1,52 @@
+{
+  "name": "Modniir Carver",
+  "description": "",
+  "type": "Weapon",
+  "level": 43,
+  "rarity": "Masterwork",
+  "vendor_value": 80,
+  "default_skin": 4524,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29208,
+  "chat_link": "[\u0026AgEYcgAA]",
+  "icon": "https://render.guildwars2.com/file/0D2D004D3AA702A2E31852417F45E7C8FDC2C34F/67615.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 379,
+    "max_power": 402,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 117.64,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 41
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 29
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 29
+        }
+      ]
+    }
+  }
+}

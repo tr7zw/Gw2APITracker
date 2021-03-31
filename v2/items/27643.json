@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Iron Hammer of Ogre Slaying",
+  "description": "",
+  "type": "Weapon",
+  "level": 73,
+  "rarity": "Exotic",
+  "vendor_value": 366,
+  "default_skin": 4060,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27643,
+  "chat_link": "[\u0026AgH7awAA]",
+  "icon": "https://render.guildwars2.com/file/2F4509F15B48B1A9F1579D08539F4109972A31A4/65162.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 876,
+    "max_power": 988,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 598.24,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 209
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 150
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 150
+        }
+      ]
+    },
+    "suffix_item_id": 24655
+  }
+}

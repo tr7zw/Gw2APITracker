@@ -1,0 +1,49 @@
+{
+  "name": "Cleric\u0027s Elder Staff",
+  "description": "",
+  "type": "Weapon",
+  "level": 70,
+  "rarity": "Rare",
+  "vendor_value": 266,
+  "default_skin": 4105,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 63281,
+  "chat_link": "[\u0026AgEx9wAA]",
+  "icon": "https://render.guildwars2.com/file/04BE267A42B12DB00F0162639702BDEFC90F4A5D/62880.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 737,
+    "max_power": 831,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 498.384,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 125
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 125
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 174
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 4587,
+  "name": "Chasing Tales: Gutshot",
+  "description": "No use finishing \u0027em. They\u0027re already dead.",
+  "requirement": "Inflict bleeding on 20 enemies while wielding a pistol in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Durio the Contemptuous."
+    },
+    {
+      "type": "Text",
+      "text": "Inflicted bleeding on 20 enemies while wielding a pistol in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89927,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 328,
+  "tier": 1,
+  "order": 1,
+  "name": "Conjurer",
+  "description": "Gain fire aura when an ally picks up a conjured weapon. \u003cc\u003d@abilitytype\u003eConjure\u003c/c\u003e weapon abilities have reduced recharge.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/2E7050E44690AFE0A396FA0DAD526699392743F3/2261521.png",
+      "duration": 4,
+      "status": "Fire Aura",
+      "description": "Enveloped in a fiery shield that burns foes, grants might each time you are struck (1-second cooldown per attacker).",
+      "apply_count": 1
+    },
+    {
+      "text": "Recharge Reduced",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+      "percent": 20
+    }
+  ],
+  "traited_facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/2E7050E44690AFE0A396FA0DAD526699392743F3/2261521.png",
+      "duration": 5,
+      "status": "Fire Aura",
+      "description": "Enveloped in a fiery shield that burns foes, grants might each time you are struck (1-second cooldown per attacker).",
+      "apply_count": 1,
+      "requires_trait": 340,
+      "overrides": 0
+    }
+  ],
+  "specialization": 31,
+  "icon": "https://render.guildwars2.com/file/6BE466F790D5410D2E10512B1F0A523EEEB776B0/1012307.png"
+}

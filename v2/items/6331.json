@@ -1,0 +1,40 @@
+{
+  "name": "Studded Shoulders",
+  "description": "",
+  "type": "Armor",
+  "level": 19,
+  "rarity": "Fine",
+  "vendor_value": 26,
+  "default_skin": 1719,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6331,
+  "chat_link": "[\u0026AgG7GAAA]",
+  "icon": "https://render.guildwars2.com/file/93C75F701A63BC202A612F18F8045D423710FB37/61352.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Medium",
+    "defense": 16,
+    "infusion_slots": [],
+    "attribute_adjustment": 14.976,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 5
+        }
+      ]
+    }
+  }
+}

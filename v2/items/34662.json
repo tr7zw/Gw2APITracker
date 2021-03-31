@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Glyphic Brand of Smoldering",
+  "type": "Weapon",
+  "level": 44,
+  "rarity": "Masterwork",
+  "vendor_value": 80,
+  "default_skin": 5124,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34662,
+  "chat_link": "[\u0026AgFmhwAA]",
+  "icon": "https://render.guildwars2.com/file/A1EBD2A1442009D269D1FF132D5ED342D553411F/62801.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 330,
+    "max_power": 387,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 121.176,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 30
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 42
+        }
+      ]
+    },
+    "suffix_item_id": 24622
+  }
+}

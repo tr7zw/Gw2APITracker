@@ -1,0 +1,56 @@
+{
+  "name": "Ventari\u0027s Bastion",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of the famous centaur pacifist, Ventari.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 10000,
+  "default_skin": 4197,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 66675,
+  "chat_link": "[\u0026AgFzBAEA]",
+  "icon": "https://render.guildwars2.com/file/432E9122D5FF51581C05E4F73B1DD56C4DAD1216/631874.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 846,
+    "max_power": 954,
+    "defense": 64,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "infix_upgrade": {
+      "id": 1026,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 125
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 90
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 90
+        }
+      ]
+    }
+  }
+}

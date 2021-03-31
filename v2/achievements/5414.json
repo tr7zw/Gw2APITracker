@@ -1,0 +1,65 @@
+{
+  "id": 5414,
+  "name": "Treasure Sleuth",
+  "description": "",
+  "requirement": "Search throughout the Drizzlewood Coast for treasure hunters that have clues that lead to Olaf Olafson\u0027s treasure.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Treasure Key Found"
+    },
+    {
+      "type": "Text",
+      "text": "Clue 1: It\u0027s supposedly somewhere with harsh weather."
+    },
+    {
+      "type": "Text",
+      "text": "Clue 2: Keep an eye out for the door."
+    },
+    {
+      "type": "Text",
+      "text": "Clue 3: In talons of snow."
+    },
+    {
+      "type": "Text",
+      "text": "Clue 4: Olafson had an interest in norn and dwarven relics."
+    },
+    {
+      "type": "Text",
+      "text": "Clue 5: Near a tower."
+    },
+    {
+      "type": "Text",
+      "text": "Clue 6: Somewhere at Claw\u0027s Roost."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 2
+    },
+    {
+      "count": 7,
+      "points": 3
+    }
+  ],
+  "prerequisites": [
+    5376
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tundra",
+      "id": 515
+    }
+  ]
+}

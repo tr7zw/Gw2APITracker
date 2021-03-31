@@ -1,0 +1,51 @@
+{
+  "name": "Forsaken Bellower",
+  "type": "Weapon",
+  "level": 68,
+  "rarity": "Exotic",
+  "vendor_value": 236,
+  "default_skin": 5075,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 51839,
+  "chat_link": "[\u0026AgF/ygAA]",
+  "icon": "https://render.guildwars2.com/file/53B31920DA5A952E4001EF4701350DC4744DCD79/67844.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 701,
+    "max_power": 774,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 288,
+    "infix_upgrade": {
+      "id": 1011,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 101
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 72
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 72
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": 5054,
+  "name": "East Bjora Marches Treasure Hunter",
+  "description": "",
+  "requirement": "Open all of the norn chests in East Bjora Marches.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Asgeir\u0027s Legacy 01"
+    },
+    {
+      "type": "Text",
+      "text": "Asgeir\u0027s Legacy 02"
+    },
+    {
+      "type": "Text",
+      "text": "Asgeir\u0027s Legacy 03"
+    },
+    {
+      "type": "Text",
+      "text": "Asgeir\u0027s Legacy 04"
+    },
+    {
+      "type": "Text",
+      "text": "Southern Mountains"
+    },
+    {
+      "type": "Text",
+      "text": "Frozen Pass 01"
+    },
+    {
+      "type": "Text",
+      "text": "Sons of Svanir Camp 01"
+    },
+    {
+      "type": "Text",
+      "text": "Sons of Svanir Camp 02"
+    },
+    {
+      "type": "Text",
+      "text": "Sons of Svanir Camp 03"
+    },
+    {
+      "type": "Text",
+      "text": "Sons of Svanir Camp 04"
+    },
+    {
+      "type": "Text",
+      "text": "Frozen Pass 02"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 11,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tundra",
+      "id": 479
+    }
+  ]
+}

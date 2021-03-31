@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Iron Dagger of Bloodlust",
+  "description": "",
+  "type": "Weapon",
+  "level": 71,
+  "rarity": "Masterwork",
+  "vendor_value": 118,
+  "default_skin": 4009,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26318,
+  "chat_link": "[\u0026AgHOZgAA]",
+  "icon": "https://render.guildwars2.com/file/3254C66ED1675657E0B7C2FBBC09FBF2FBAA74A6/62762.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 653,
+    "max_power": 693,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 235.348,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 82
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 59
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 59
+        }
+      ]
+    },
+    "suffix_item_id": 24573
+  }
+}

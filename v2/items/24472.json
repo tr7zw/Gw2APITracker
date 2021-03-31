@@ -1,0 +1,67 @@
+{
+  "name": "Carnelian Lump",
+  "description": "Double-click to apply to an item with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 35,
+  "rarity": "Fine",
+  "vendor_value": 34,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24472,
+  "chat_link": "[\u0026AgGYXwAA]",
+  "icon": "https://render.guildwars2.com/file/C8D502B4E57E116002506A0CE519F4EA52CB79B8/220915.png",
+  "details": {
+    "type": "Gem",
+    "flags": [
+      "ShortBow",
+      "HeavyArmor",
+      "LightArmor",
+      "Dagger",
+      "MediumArmor",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Trinket",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 359,
+      "buff": {
+        "skill_id": 75,
+        "description": "+7 Power\n+5 Precision"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 7
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 5
+        }
+      ]
+    },
+    "suffix": "of Carnelian"
+  }
+}

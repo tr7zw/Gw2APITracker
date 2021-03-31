@@ -1,0 +1,41 @@
+{
+  "name": "Penetrating Krytan Mace",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Fine",
+  "vendor_value": 42,
+  "default_skin": 5005,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 33619,
+  "chat_link": "[\u0026AgFTgwAA]",
+  "icon": "https://render.guildwars2.com/file/D81434679966BBCEB97B7B681833BC38E73694F2/61688.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 359,
+    "max_power": 405,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 117.312,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 41
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 29
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 862,
+  "name": "Forbidden Honey",
+  "description": "Sweet, delicious honey.",
+  "requirement": "Destroy all honeycombs found in World 1 Tribulation Mode.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Zone 01"
+    },
+    {
+      "type": "Text",
+      "text": "Zone 02"
+    },
+    {
+      "type": "Text",
+      "text": "Zone 03"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    },
+    {
+      "count": 2,
+      "points": 10
+    },
+    {
+      "count": 3,
+      "points": 10
+    }
+  ]
+}

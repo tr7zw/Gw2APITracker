@@ -1,0 +1,44 @@
+{
+  "name": "Mending Shiverpeak Club of Smoldering",
+  "type": "Weapon",
+  "level": 44,
+  "rarity": "Masterwork",
+  "vendor_value": 80,
+  "default_skin": 5158,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25262,
+  "chat_link": "[\u0026AgGuYgAA]",
+  "icon": "https://render.guildwars2.com/file/F4C7AFECFA69166C750EBC06C17572F56A78D07B/534283.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 374,
+    "max_power": 422,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 121.176,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 30
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 42
+        }
+      ]
+    },
+    "suffix_item_id": 24622
+  }
+}

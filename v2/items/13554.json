@@ -1,0 +1,41 @@
+{
+  "name": "Lapis Gold Earring",
+  "description": "",
+  "type": "Trinket",
+  "level": 50,
+  "rarity": "Rare",
+  "vendor_value": 169,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 13554,
+  "chat_link": "[\u0026AgHyNAAA]",
+  "icon": "https://render.guildwars2.com/file/2C04E068E806BFFED4A1CA0234E30E604F316EEC/433720.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 98.01,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 25
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 34
+        }
+      ]
+    },
+    "suffix_item_id": 24907
+  }
+}

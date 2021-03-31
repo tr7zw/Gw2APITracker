@@ -1,0 +1,42 @@
+{
+  "name": "Strong Iron Spear",
+  "description": "",
+  "type": "Weapon",
+  "level": 44,
+  "rarity": "Fine",
+  "vendor_value": 60,
+  "default_skin": 4000,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 28654,
+  "chat_link": "[\u0026AgHubwAA]",
+  "icon": "https://render.guildwars2.com/file/9AC302D1031B5C31806D0703FBC1944C01D4A240/561998.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 349,
+    "max_power": 386,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 221.44,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 78
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 55
+        }
+      ]
+    }
+  }
+}

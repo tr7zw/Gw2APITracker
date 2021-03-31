@@ -1,0 +1,42 @@
+{
+  "name": "Heavy Beetletun Chestpiece",
+  "description": "\u003cc\u003d@flavor\u003e\"It\u0027s the height of Beetletun style! Well, it was last year, anyway.\"\u003cbr\u003e—Paden\u003c/c\u003e",
+  "type": "Armor",
+  "level": 12,
+  "rarity": "Fine",
+  "vendor_value": 26,
+  "default_skin": 861,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4664,
+  "chat_link": "[\u0026AgE4EgAA]",
+  "icon": "https://render.guildwars2.com/file/CCCD69DAF43C71D30E77255C3C530601CFD247FE/61239.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 48,
+    "infusion_slots": [],
+    "attribute_adjustment": 29.808,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 10
+        }
+      ]
+    }
+  }
+}

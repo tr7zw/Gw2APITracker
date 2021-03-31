@@ -1,0 +1,55 @@
+{
+  "id": 3128,
+  "name": "Task Master",
+  "description": "Who\u0027s afraid of a little lava?",
+  "requirement": "Finish all the tasks around Ember Bay.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Help the skritt encampment."
+    },
+    {
+      "type": "Text",
+      "text": "Assist the asuran researchers."
+    },
+    {
+      "type": "Text",
+      "text": "Win the favor of the circus"
+    },
+    {
+      "type": "Text",
+      "text": "Assist Scientist Vratt"
+    },
+    {
+      "type": "Text",
+      "text": "Investigate the mursaat fortress"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    }
+  ]
+}

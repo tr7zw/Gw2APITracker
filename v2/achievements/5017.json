@@ -1,0 +1,36 @@
+{
+  "id": 5017,
+  "name": "Raven\u0027s Favor",
+  "description": "",
+  "requirement": "Claim victory in the Storms of Winter.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 4
+    },
+    {
+      "count": 10,
+      "points": 10
+    },
+    {
+      "count": 15,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tundra",
+      "id": 475
+    }
+  ]
+}

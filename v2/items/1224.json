@@ -1,0 +1,43 @@
+{
+  "name": "Honed Reinforced Scale Coat of Strength",
+  "description": "",
+  "type": "Armor",
+  "level": 52,
+  "rarity": "Masterwork",
+  "vendor_value": 138,
+  "default_skin": 42,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 1224,
+  "chat_link": "[\u0026AgHIBAAA]",
+  "icon": "https://render.guildwars2.com/file/19F90C0019AF1F763A972B2C01FF424CA63D049C/61048.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 167,
+    "infusion_slots": [],
+    "attribute_adjustment": 171.054,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 60
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 43
+        }
+      ]
+    },
+    "suffix_item_id": 24712
+  }
+}

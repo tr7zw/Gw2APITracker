@@ -1,0 +1,24 @@
+{
+  "id": 83,
+  "name": "Savior of Tyria",
+  "description": "You are counted among the great heroes of Tyria.",
+  "requirement": "Complete the personal story step \"Victory or Death.\"",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tyria",
+      "id": 272
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Iron Legion\u0027s Boots",
+  "description": "",
+  "type": "Armor",
+  "level": 17,
+  "rarity": "Masterwork",
+  "vendor_value": 42,
+  "default_skin": 872,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4235,
+  "chat_link": "[\u0026AgGLEAAA]",
+  "icon": "https://render.guildwars2.com/file/DF2D9A0706490510BFA61691E0DE2902E712345A/61238.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 31,
+    "infusion_slots": [],
+    "attribute_adjustment": 15.0705,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 5
+        }
+      ]
+    }
+  }
+}

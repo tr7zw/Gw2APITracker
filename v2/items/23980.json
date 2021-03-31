@@ -1,0 +1,47 @@
+{
+  "name": "Quaggan Seaweed Doll",
+  "description": "\u003cc\u003d@flavor\u003eUgh. It smells funny out of water.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 60,
+  "rarity": "Masterwork",
+  "vendor_value": 130,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23980,
+  "chat_link": "[\u0026AgGsXQAA]",
+  "icon": "https://render.guildwars2.com/file/E056E8520AD0340197D0060D9D94BC06E812B70B/455981.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 115.855,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 29
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 29
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 41
+        }
+      ]
+    }
+  }
+}

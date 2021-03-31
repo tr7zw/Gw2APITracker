@@ -1,0 +1,63 @@
+{
+  "name": "Viper\u0027s Fiery Dragon Slayer Focus of Icebrood Slaying",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 330,
+  "default_skin": 9938,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94709,
+  "chat_link": "[\u0026AgH1cQEA]",
+  "icon": "https://render.guildwars2.com/file/503A2B9E6CD943DA2C2AC970AA02326A3815E649/2412868.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 873,
+    "max_power": 927,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "infix_upgrade": {
+      "id": 1130,
+      "buff": {
+        "skill_id": 32391
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 133
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 71
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 133
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 71
+        }
+      ]
+    },
+    "suffix_item_id": 24651
+  }
+}

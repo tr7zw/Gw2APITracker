@@ -1,0 +1,54 @@
+{
+  "name": "Carapace of Chaos",
+  "description": "\u003cc\u003d@flavor\u003e\"Coffin of... Plating of the... Calamity by... None of these speak to me! Your Mad King demands more suggestions, scribes!\"\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 8999,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92175,
+  "chat_link": "[\u0026AgEPaAEA]",
+  "icon": "https://render.guildwars2.com/file/730F06F12C7BE2559A03992894B4FA3594D857C5/2212697.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 781,
+    "max_power": 880,
+    "defense": 61,
+    "infusion_slots": [],
+    "attribute_adjustment": 329.36,
+    "infix_upgrade": {
+      "id": 1344,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 102
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 56
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 102
+        }
+      ]
+    }
+  }
+}

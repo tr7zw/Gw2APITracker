@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Bandit Baton",
+  "description": "",
+  "type": "Weapon",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 102,
+  "default_skin": 3909,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 14093,
+  "chat_link": "[\u0026AgENNwAA]",
+  "icon": "https://render.guildwars2.com/file/F6DAAD0C2CA7B7AB3EBAB419EA03CA123CDD57F9/66740.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 336,
+    "max_power": 378,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 98.568,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 25
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 34
+        }
+      ]
+    }
+  }
+}

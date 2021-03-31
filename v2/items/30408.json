@@ -1,0 +1,43 @@
+{
+  "name": "Harathi Shield",
+  "type": "Weapon",
+  "level": 23,
+  "rarity": "Fine",
+  "vendor_value": 26,
+  "default_skin": 4595,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30408,
+  "chat_link": "[\u0026AgHIdgAA]",
+  "icon": "https://render.guildwars2.com/file/40D42193932BDD2F953B5A1D26C6650C7E2DBE99/64925.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 196,
+    "max_power": 221,
+    "defense": 12,
+    "infusion_slots": [],
+    "attribute_adjustment": 48.512,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 17
+        }
+      ]
+    }
+  }
+}

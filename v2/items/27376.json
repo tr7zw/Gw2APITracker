@@ -1,0 +1,45 @@
+{
+  "name": "Hearty Soft Wood Torch of Accuracy",
+  "description": "",
+  "type": "Weapon",
+  "level": 52,
+  "rarity": "Masterwork",
+  "vendor_value": 92,
+  "default_skin": 3890,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27376,
+  "chat_link": "[\u0026AgHwagAA]",
+  "icon": "https://render.guildwars2.com/file/FA56C5DD5D7494F25D980E432BA129F44209ED0E/63136.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 390,
+    "max_power": 458,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 152.048,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 38
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 53
+        }
+      ]
+    },
+    "suffix_item_id": 24616
+  }
+}

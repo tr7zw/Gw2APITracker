@@ -1,0 +1,43 @@
+{
+  "name": "Lucky Pirate Rum Cork",
+  "description": "\u003cc\u003d@flavor\u003eSmells lucky.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 48,
+  "rarity": "Fine",
+  "vendor_value": 54,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23770,
+  "chat_link": "[\u0026AgHaXAAA]",
+  "icon": "https://render.guildwars2.com/file/EC0FD4E67CDCE50B0D9A0F6AC8754CC04D11D9D1/455963.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 77.92,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 19
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 27
+        }
+      ]
+    }
+  }
+}

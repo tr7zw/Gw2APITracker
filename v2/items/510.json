@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Reinforced Scale Boots of Mercy",
+  "description": "",
+  "type": "Armor",
+  "level": 45,
+  "rarity": "Masterwork",
+  "vendor_value": 82,
+  "default_skin": 74,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 510,
+  "chat_link": "[\u0026AgH+AQAA]",
+  "icon": "https://render.guildwars2.com/file/17C9516D0F0B2EBA616ED794C00F59411E931702/61014.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 70,
+    "infusion_slots": [],
+    "attribute_adjustment": 46.7415,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 12
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 16
+        }
+      ]
+    },
+    "suffix_item_id": 24706
+  }
+}

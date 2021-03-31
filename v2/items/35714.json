@@ -1,0 +1,48 @@
+{
+  "name": "Ravaging Glyphic Pistol",
+  "type": "Weapon",
+  "level": 40,
+  "rarity": "Rare",
+  "vendor_value": 1400,
+  "default_skin": 5095,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 35714,
+  "chat_link": "[\u0026AgGCiwAA]",
+  "icon": "https://render.guildwars2.com/file/05C3631739167BDC0867BECE80C0BE39C0B8B63B/62986.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 366,
+    "max_power": 429,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 117.144,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 29
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 41
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Malign Glyphic Icon",
+  "type": "Weapon",
+  "level": 1,
+  "rarity": "Fine",
+  "vendor_value": 6,
+  "default_skin": 5178,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 34206,
+  "chat_link": "[\u0026AgGehQAA]",
+  "icon": "https://render.guildwars2.com/file/2344244016425D02CE90BC950B366B7FC0183C37/62837.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 128,
+    "max_power": 135,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 12.672,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Honed Student Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Masterwork",
+  "vendor_value": 62,
+  "default_skin": 166,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 10948,
+  "chat_link": "[\u0026AgHEKgAA]",
+  "icon": "https://render.guildwars2.com/file/4BF71F67717E459153B6BBEB61B8B93053D998FA/61112.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 40,
+    "infusion_slots": [],
+    "attribute_adjustment": 33.609,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 12
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

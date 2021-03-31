@@ -1,0 +1,44 @@
+{
+  "name": "Eternal Flame",
+  "description": "\u003cc\u003d@flavor\u003eThe flame is untouched by the wind.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 528,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 36539,
+  "chat_link": "[\u0026AgG7jgAA]",
+  "icon": "https://render.guildwars2.com/file/980527553D5D3629940ED90D3AD1AE0909297580/511741.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 85
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 85
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 120
+        }
+      ]
+    }
+  }
+}

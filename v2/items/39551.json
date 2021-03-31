@@ -1,0 +1,57 @@
+{
+  "name": "Totem of the Gorilla",
+  "description": "\u003cc\u003d@flavor\u003eAn intrepid norn artist paid respect to a far-flung Spirit of the Wild with this carving.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 413,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 39551,
+  "chat_link": "[\u0026AgF/mgAA]",
+  "icon": "https://render.guildwars2.com/file/F94523012B513334626E47593E5C49BF1A25FE4F/543894.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 224.07,
+    "infix_upgrade": {
+      "id": 657,
+      "buff": {
+        "skill_id": 17070,
+        "description": "+32 Toughness\n+18 Power\n+18 Precision"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 74
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 74
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 110
+        }
+      ]
+    }
+  }
+}

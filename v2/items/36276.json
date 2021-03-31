@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Krytan Speargun of the Night",
+  "type": "Weapon",
+  "level": 26,
+  "rarity": "Masterwork",
+  "vendor_value": 84,
+  "default_skin": 4990,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 36276,
+  "chat_link": "[\u0026AgG0jQAA]",
+  "icon": "https://render.guildwars2.com/file/A44FA6A23E80D5519D279012FA0B257135EA75C1/61718.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 255,
+    "max_power": 282,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 123.488,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 43
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 31
+        }
+      ]
+    },
+    "suffix_item_id": 36055
+  }
+}

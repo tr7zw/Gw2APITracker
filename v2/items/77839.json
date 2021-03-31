@@ -1,0 +1,54 @@
+{
+  "name": "Healer\u0027s Slothasor Effigy",
+  "description": "\u003cc\u003d@flavor\u003eThe effigy emits a musty odor.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 10000,
+  "default_skin": 6639,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 77839,
+  "chat_link": "[\u0026AgEPMAEA]",
+  "icon": "https://render.guildwars2.com/file/4014367900B42BF521A743FAB37D339360EA580D/1377805.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 873,
+    "max_power": 927,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "stat_choices": [
+      605,
+      559,
+      155,
+      628,
+      156,
+      1226,
+      1230,
+      1539,
+      1377,
+      1378,
+      1484
+    ]
+  }
+}

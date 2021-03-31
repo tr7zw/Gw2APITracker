@@ -1,0 +1,28 @@
+{
+  "id": 4225,
+  "name": "[FTT 302] Proficient Dynamics—Area Damage Level 3",
+  "description": "",
+  "requirement": "Applied / Area Damage Level 2 Upgrades",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 8,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    4219
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 87815,
+      "count": 1
+    }
+  ]
+}

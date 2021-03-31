@@ -1,0 +1,44 @@
+{
+  "name": "Strong Focus",
+  "description": "",
+  "type": "Weapon",
+  "level": 30,
+  "rarity": "Basic",
+  "vendor_value": 16,
+  "default_skin": 3863,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 30784,
+  "chat_link": "[\u0026AgFAeAAA]",
+  "icon": "https://render.guildwars2.com/file/0F3FED6ECD0A990BBC5B29501F590FC7052776CF/66170.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 188,
+    "max_power": 200,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 51.948,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 18
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 13
+        }
+      ]
+    }
+  }
+}

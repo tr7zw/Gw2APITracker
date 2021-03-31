@@ -1,0 +1,53 @@
+{
+  "id": 4619,
+  "name": "Chasing Tales: Asaliea the Channeler",
+  "description": "",
+  "requirement": "Acquire a Dragonsblood focus and perform tasks to re-create Asaliea\u0027s legend.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Acquire the Dragonsblood focus."
+    },
+    {
+      "type": "Text",
+      "text": "Acquire the heroic spirit of Asaliea: deed #1."
+    },
+    {
+      "type": "Text",
+      "text": "Acquire the heroic spirit of Asaliea: deed #2."
+    },
+    {
+      "type": "Text",
+      "text": "Acquire the heroic spirit of Asaliea: deed #3."
+    },
+    {
+      "type": "Text",
+      "text": "Meet with the spirit of Asaliea at a heroic font."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 322
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Berserker\u0027s Barbaric Coat",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 80,
+  "default_skin": 199,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 10649,
+  "chat_link": "[\u0026AgGZKQAA]",
+  "icon": "https://render.guildwars2.com/file/AB0863D2A3ABCF103539EA6756E3A15CE97B7457/61361.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 298,
+    "infusion_slots": [],
+    "attribute_adjustment": 314.951,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 110
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 79
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 79
+        }
+      ]
+    }
+  }
+}

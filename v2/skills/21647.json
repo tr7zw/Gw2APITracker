@@ -1,0 +1,66 @@
+{
+  "name": "Stone Sheath",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 8
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 0.8
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/B4BCCD185B24380C953EAD0E5702BFAB96F3BF08/103342.png",
+      "duration": 2,
+      "status": "Tectonic Shift",
+      "description": "Gain barrier every second.",
+      "apply_count": 1
+    },
+    {
+      "text": "Barrier",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+      "value": 778,
+      "target": "Healing"
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+      "duration": 9,
+      "status": "Bleeding",
+      "description": "Deals damage every second; stacks intensity.",
+      "apply_count": 2
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 240
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 3
+    }
+  ],
+  "description": "Block the next attack and cause bleeding to foes around you. Gain Tectonic Shift if you successfully block an attack.",
+  "icon": "https://render.guildwars2.com/file/F5EB23E2BD4F1AA8C7BC0704534242F51034FC0F/867450.png",
+  "type": "Weapon",
+  "weapon_type": "Sword",
+  "professions": [],
+  "slot": "Weapon_2",
+  "flags": [
+    "NoUnderwater"
+  ],
+  "id": 21647,
+  "chat_link": "[\u0026Bo9UAAA\u003d]"
+}

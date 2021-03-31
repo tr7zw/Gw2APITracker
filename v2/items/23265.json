@@ -1,0 +1,38 @@
+{
+  "name": "Silver Cowbell",
+  "description": "\"I gotta have more cowbell, baby!\"",
+  "type": "Trinket",
+  "level": 15,
+  "rarity": "Masterwork",
+  "vendor_value": 45,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23265,
+  "chat_link": "[\u0026AgHhWgAA]",
+  "icon": "https://render.guildwars2.com/file/5C514FC25F020AFD4018ADEF0C01D2BA50F5DF77/66799.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 19.9325,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 7
+        }
+      ]
+    }
+  }
+}

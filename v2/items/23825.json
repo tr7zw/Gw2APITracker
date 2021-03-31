@@ -1,0 +1,43 @@
+{
+  "name": "Orrian Relic",
+  "description": "\u003cc\u003d@flavor\u003e\"This should help on the journey ahead!\"\u003cbr\u003e—Arcanist Riagan\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 45,
+  "rarity": "Fine",
+  "vendor_value": 52,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23825,
+  "chat_link": "[\u0026AgERXQAA]",
+  "icon": "https://render.guildwars2.com/file/7857F64D1D299E6350B0FEB4F67B639A4F13926D/66439.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 71.28,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 18
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 25
+        }
+      ]
+    }
+  }
+}

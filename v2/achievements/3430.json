@@ -1,0 +1,28 @@
+{
+  "id": 3430,
+  "name": "Fancy Flying",
+  "description": "Story Instance: Heart of the Volcano\u003cbr\u003e\u003cbr\u003e\"Like a moth to the flame.\"",
+  "requirement": "Descend the chimney in the Heart of the Volcano instance without being hit by destroyer fireballs.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 81127,
+      "count": 5
+    },
+    {
+      "type": "Title",
+      "id": 272
+    }
+  ]
+}

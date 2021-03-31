@@ -1,0 +1,39 @@
+{
+  "id": 4622,
+  "name": "Chasing Tales: Shooting Star",
+  "description": "Mirren\u0027s ambitions fueled his ascent—and his fall.",
+  "requirement": "Defeat 30 enemies while wielding a scepter in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Mirren the Manipulator."
+    },
+    {
+      "type": "Text",
+      "text": "Defeated 30 enemies with a scepter in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89699,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Hellion Axe",
+  "description": "\u003cc\u003d@flavor\u003e\"The inscriptions from the exorcism guide are read while the blade is forged.\"\u003cbr\u003e—Scholar Worfmir\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 50,
+  "rarity": "Fine",
+  "vendor_value": 45,
+  "default_skin": 5208,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30056,
+  "chat_link": "[\u0026AgFodQAA]",
+  "icon": "https://render.guildwars2.com/file/B606E3BEBF034E08D1DDEC54CA74E811F4284CD1/66427.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 376,
+    "max_power": 459,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 132.032,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 46
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 33
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Precise Steam Speargun",
+  "description": "",
+  "type": "Weapon",
+  "level": 7,
+  "rarity": "Fine",
+  "vendor_value": 18,
+  "default_skin": 5091,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 28142,
+  "chat_link": "[\u0026AgHubQAA]",
+  "icon": "https://render.guildwars2.com/file/935CD7A5037BB9F3C46E0D770D2DD9730ED74A18/62495.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 154,
+    "max_power": 170,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 35.328,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

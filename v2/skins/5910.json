@@ -1,0 +1,33 @@
+{
+  "name": "Mistward Legguards",
+  "type": "Armor",
+  "flags": [
+    "HideIfLocked"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 5910,
+  "icon": "https://render.guildwars2.com/file/DCB2AFBB96310B289C4BD824132AB14EDC6D4DBD/960115.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Heavy",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        null,
+        {
+          "color_id": -1,
+          "material": "cloth"
+        }
+      ],
+      "overrides": {}
+    }
+  }
+}

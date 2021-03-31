@@ -1,0 +1,42 @@
+{
+  "name": "Superior Rune of the Weaver",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eBrilliance\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 60,
+  "rarity": "Exotic",
+  "vendor_value": 65,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 83423,
+  "chat_link": "[\u0026AgHfRQEA]",
+  "icon": "https://render.guildwars2.com/file/C0D36E7D6CAAA060F2EFB0E1CAA2587002F3F451/1766394.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+8 to All Stats",
+      "+10% Burning Duration",
+      "+12 to All Stats",
+      "+20% Chill Duration",
+      "+16 to All Stats",
+      "+10% Condition Duration; gain barrier after executing a \u003cc\u003d@abilitytype\u003eStance\u003c/c\u003e ability."
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Weaver"
+  }
+}

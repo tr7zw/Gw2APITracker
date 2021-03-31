@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Iron Spear of Earth",
+  "description": "",
+  "type": "Weapon",
+  "level": 68,
+  "rarity": "Masterwork",
+  "vendor_value": 171,
+  "default_skin": 4000,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28751,
+  "chat_link": "[\u0026AgFPcAAA]",
+  "icon": "https://render.guildwars2.com/file/9AC302D1031B5C31806D0703FBC1944C01D4A240/561998.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 605,
+    "max_power": 669,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 442.408,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 155
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 111
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 111
+        }
+      ]
+    },
+    "suffix_item_id": 24558
+  }
+}

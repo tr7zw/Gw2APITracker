@@ -1,0 +1,41 @@
+{
+  "name": "Peridot Gold Amulet",
+  "description": "",
+  "type": "Trinket",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 180,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 13338,
+  "chat_link": "[\u0026AgEaNAAA]",
+  "icon": "https://render.guildwars2.com/file/7D0C0DF603B5626C2A029CB9323E6FA309E24238/340153.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 144.228,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 50
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 36
+        }
+      ]
+    },
+    "suffix_item_id": 24482
+  }
+}

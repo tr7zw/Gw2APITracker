@@ -1,0 +1,61 @@
+{
+  "id": 3911,
+  "name": "Expert Bounty Hunter",
+  "description": "No beast escapes once you\u0027re on the hunt.",
+  "requirement": "Complete champion bounties in the Crystal Desert region.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Complete the achievement \"Crystal Oasis Champion Bounties.\""
+    },
+    {
+      "type": "Text",
+      "text": "Complete the achievement \"Desert Highlands Champion Bounties.\""
+    },
+    {
+      "type": "Text",
+      "text": "Complete the achievement \"Elon Riverlands Champion Bounties.\""
+    },
+    {
+      "type": "Text",
+      "text": "Complete the achievement \"The Desolation Champion Bounties.\""
+    },
+    {
+      "type": "Text",
+      "text": "Complete the achievement \"Domain of Vabbi Champion Bounties.\""
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 294
+    }
+  ]
+}

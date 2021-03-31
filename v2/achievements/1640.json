@@ -1,0 +1,27 @@
+{
+  "id": 1640,
+  "name": "Zephyr\u0027s Ascent",
+  "description": "Story Instance: Fallen Hopes",
+  "requirement": "Climb to the highest point in Prospect Valley.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    1641
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 66605,
+      "count": 1
+    }
+  ]
+}

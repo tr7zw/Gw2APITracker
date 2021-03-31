@@ -1,0 +1,46 @@
+{
+  "id": 2566,
+  "name": "Sky Commander",
+  "description": "Master of all you survey!",
+  "requirement": "Defeat all nightfall bosses in Verdant Brink.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Defeated Mordrem Tetrad"
+    },
+    {
+      "type": "Text",
+      "text": "Defeated Cotoni and Huetzi"
+    },
+    {
+      "type": "Text",
+      "text": "Defeated Wyvern Matriarch"
+    },
+    {
+      "type": "Text",
+      "text": "Defeated Wyvern Patriarch"
+    },
+    {
+      "type": "Text",
+      "text": "Defeated Axemaster Gwyllion"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 124
+    }
+  ]
+}

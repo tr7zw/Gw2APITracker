@@ -1,0 +1,44 @@
+{
+  "name": "Mending Shiverpeak Wand of Smoldering",
+  "type": "Weapon",
+  "level": 44,
+  "rarity": "Masterwork",
+  "vendor_value": 80,
+  "default_skin": 5171,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25382,
+  "chat_link": "[\u0026AgEmYwAA]",
+  "icon": "https://render.guildwars2.com/file/767E39B2746CF941BFFF631763272D569701F533/534286.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 374,
+    "max_power": 422,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 121.176,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 30
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 42
+        }
+      ]
+    },
+    "suffix_item_id": 24622
+  }
+}

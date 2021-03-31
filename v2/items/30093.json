@@ -1,0 +1,53 @@
+{
+  "name": "Naknar\u0027s Mace",
+  "description": "\u003cc\u003d@flavor\u003e\"More spikes mean Naknar\u0027s mace better than mace with less spikes.\"\u003cbr\u003e—Naknar\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 59,
+  "rarity": "Masterwork",
+  "vendor_value": 102,
+  "default_skin": 5199,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30093,
+  "chat_link": "[\u0026AgGNdQAA]",
+  "icon": "https://render.guildwars2.com/file/CFD4DFE0779C3B361DBF7BEDD59C7F5480A1C914/68155.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 508,
+    "max_power": 573,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 181.084,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 45
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 45
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 63
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Resilient Seeker Coat",
+  "description": "",
+  "type": "Armor",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 72,
+  "default_skin": 219,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 11544,
+  "chat_link": "[\u0026AgEYLQAA]",
+  "icon": "https://render.guildwars2.com/file/BBC80CD999BA3994B7C3F9B30F30FE716407E890/61417.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 64,
+    "infusion_slots": [],
+    "attribute_adjustment": 52.8615,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 19
+        }
+      ]
+    }
+  }
+}

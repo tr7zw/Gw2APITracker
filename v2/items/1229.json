@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Reinforced Scale Coat of Strength",
+  "description": "",
+  "type": "Armor",
+  "level": 59,
+  "rarity": "Masterwork",
+  "vendor_value": 153,
+  "default_skin": 42,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 1229,
+  "chat_link": "[\u0026AgHNBAAA]",
+  "icon": "https://render.guildwars2.com/file/19F90C0019AF1F763A972B2C01FF424CA63D049C/61048.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 195,
+    "infusion_slots": [],
+    "attribute_adjustment": 203.72,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 51
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 71
+        }
+      ]
+    },
+    "suffix_item_id": 24712
+  }
+}

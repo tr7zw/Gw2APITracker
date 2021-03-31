@@ -1,0 +1,27 @@
+{
+  "id": 2057,
+  "name": "Lobber Dodger",
+  "description": "Story Instance: Pact Assaulted",
+  "requirement": "Complete the story instance without dying or being hit by Mordrem lobber attacks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    }
+  ],
+  "prerequisites": [
+    2060
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 86314,
+      "count": 3
+    }
+  ]
+}

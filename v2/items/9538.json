@@ -1,0 +1,28 @@
+{
+  "name": "Recipe: Shadow Gloves",
+  "description": "Double-click to learn a recipe",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 18,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9538,
+  "chat_link": "[\u0026AgFCJQAA]",
+  "icon": "https://render.guildwars2.com/file/29A7976E3DE25EB06A3DFBFFA02D23EA5D9123B0/849345.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 2834
+  }
+}

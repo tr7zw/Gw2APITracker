@@ -1,0 +1,49 @@
+{
+  "name": "Soldier\u0027s Apprentice Shoes",
+  "description": "",
+  "type": "Armor",
+  "level": 65,
+  "rarity": "Masterwork",
+  "vendor_value": 477,
+  "default_skin": 16,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 7122,
+  "chat_link": "[\u0026AgHSGwAA]",
+  "icon": "https://render.guildwars2.com/file/473A59626E38EFE4FC5B4259AD96B12015A0900F/61344.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 81,
+    "infusion_slots": [],
+    "attribute_adjustment": 77.622,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 27
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 19
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 19
+        }
+      ]
+    }
+  }
+}

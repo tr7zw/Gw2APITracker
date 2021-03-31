@@ -1,0 +1,39 @@
+{
+  "id": 4570,
+  "name": "Chasing Tales: Locus of Power",
+  "description": "Asaliea was said to have an unyielding energy in battle.",
+  "requirement": "Use a focus to slay 30 enemies in Thunderhead Peaks",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned the legend of Asaliea the Channeler."
+    },
+    {
+      "type": "Text",
+      "text": "Defeated 30 enemies with a focus."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89839,
+      "count": 1
+    }
+  ]
+}

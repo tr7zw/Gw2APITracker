@@ -1,0 +1,51 @@
+{
+  "name": "Apostate\u0027s Sacred Circle",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Exotic",
+  "vendor_value": 220,
+  "default_skin": 5023,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 52043,
+  "chat_link": "[\u0026AgFLywAA]",
+  "icon": "https://render.guildwars2.com/file/60482DAA08F6EEECEF909C9B1506BE432CB50E2B/67067.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 622,
+    "max_power": 702,
+    "defense": 46,
+    "infusion_slots": [],
+    "attribute_adjustment": 254.64,
+    "infix_upgrade": {
+      "id": 1012,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 64
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 64
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 89
+        }
+      ]
+    }
+  }
+}

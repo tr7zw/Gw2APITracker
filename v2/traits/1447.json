@@ -1,0 +1,36 @@
+{
+  "id": 1447,
+  "tier": 1,
+  "order": 0,
+  "name": "Brave Stride",
+  "description": "Movement skills grant stability when used.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+      "duration": 5,
+      "status": "Stability",
+      "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+      "duration": 2,
+      "status": "Stability",
+      "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
+      "apply_count": 1
+    }
+  ],
+  "specialization": 4,
+  "icon": "https://render.guildwars2.com/file/01FAE5A3B0A851F579FE6BCD2C27E8CD610BB49B/1012810.png"
+}

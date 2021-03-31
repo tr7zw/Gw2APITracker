@@ -1,0 +1,31 @@
+{
+  "id": 2002,
+  "tier": 2,
+  "order": 2,
+  "name": "Dead or Alive",
+  "description": "Receiving fatal damage while in berserk mode ends berserk and heals you. Incoming healing is increased.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 30
+    },
+    {
+      "text": "Healing",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "value": 5220,
+      "target": "Healing"
+    },
+    {
+      "text": "Incoming Healing Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "percent": 10
+    }
+  ],
+  "specialization": 18,
+  "icon": "https://render.guildwars2.com/file/DAD5B03B013CD75A7EA842DAD244990C9D685BDD/1058559.png"
+}

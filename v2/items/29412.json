@@ -1,0 +1,48 @@
+{
+  "name": "Order Dagger",
+  "description": "\u003cc\u003d@flavor\u003e\"There is nothing quieter than a sharp blade on a dark night.\"\u003cbr\u003e—Sizza\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 53,
+  "rarity": "Fine",
+  "vendor_value": 47,
+  "default_skin": 4009,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29412,
+  "chat_link": "[\u0026AgHkcgAA]",
+  "icon": "https://render.guildwars2.com/file/3254C66ED1675657E0B7C2FBBC09FBF2FBAA74A6/62762.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 430,
+    "max_power": 457,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 143.104,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 36
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 50
+        }
+      ]
+    }
+  }
+}

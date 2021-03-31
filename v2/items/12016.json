@@ -1,0 +1,46 @@
+{
+  "name": "Carrion Noble Pants",
+  "description": "",
+  "type": "Armor",
+  "level": 65,
+  "rarity": "Rare",
+  "vendor_value": 231,
+  "default_skin": 221,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 12016,
+  "chat_link": "[\u0026AgHwLgAA]",
+  "icon": "https://render.guildwars2.com/file/FD9AC895AEEAEFE5BD92335E76465F3EA375CCB7/61444.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Medium",
+    "defense": 144,
+    "infusion_slots": [],
+    "attribute_adjustment": 168.102,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 42
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 42
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 59
+        }
+      ]
+    }
+  }
+}

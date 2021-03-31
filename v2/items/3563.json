@@ -1,0 +1,48 @@
+{
+  "name": "Berserker\u0027s Magus Shroud",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 25000,
+  "default_skin": 340,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "id": 3563,
+  "chat_link": "[\u0026AgHrDQAA]",
+  "icon": "https://render.guildwars2.com/file/DE2C5BD5171A614111527CE6EF9C24D52F0529DA/61133.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 65,
+    "infusion_slots": [],
+    "attribute_adjustment": 150.912,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 53
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 38
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 38
+        }
+      ]
+    }
+  }
+}

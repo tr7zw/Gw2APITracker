@@ -1,0 +1,40 @@
+{
+  "name": "Norn Sword",
+  "description": "",
+  "type": "Weapon",
+  "level": 5,
+  "rarity": "Fine",
+  "vendor_value": 10,
+  "default_skin": 5235,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix"
+  ],
+  "restrictions": [],
+  "id": 29266,
+  "chat_link": "[\u0026AgFScgAA]",
+  "icon": "https://render.guildwars2.com/file/53CB05C635025823DE0531093B9FCBFFBA01C07D/575181.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 148,
+    "max_power": 163,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 15.744,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

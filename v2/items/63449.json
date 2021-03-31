@@ -1,0 +1,40 @@
+{
+  "name": "Scout\u0027s Coat",
+  "type": "Armor",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 1000,
+  "default_skin": 392,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Human"
+  ],
+  "id": 63449,
+  "chat_link": "[\u0026AgHZ9wAA]",
+  "icon": "https://render.guildwars2.com/file/115DDCB29BEA675FF4777EB675202E0CCE94AB3B/218908.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 64,
+    "infusion_slots": [],
+    "attribute_adjustment": 52.8615,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 19
+        }
+      ]
+    }
+  }
+}

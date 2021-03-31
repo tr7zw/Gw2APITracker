@@ -1,0 +1,44 @@
+{
+  "id": 1482,
+  "tier": 2,
+  "order": 2,
+  "name": "Empower Allies",
+  "description": "Increase power for nearby allies. Soldier\u0027s Focus gains increased radius.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/0CE3310F1A91D2DBF91C21E77BD311FA2DA5123D/1012827.png",
+      "duration": 9,
+      "status": "Empower Allies",
+      "description": "Increases power of nearby allies by up to 100.",
+      "apply_count": 1
+    },
+    {
+      "text": "Interval",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+      "duration": 3
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 600
+    },
+    {
+      "text": "Combat Only",
+      "type": "NoData",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png"
+    },
+    {
+      "text": "Number of Allied Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    }
+  ],
+  "specialization": 11,
+  "icon": "https://render.guildwars2.com/file/0CE3310F1A91D2DBF91C21E77BD311FA2DA5123D/1012827.png"
+}

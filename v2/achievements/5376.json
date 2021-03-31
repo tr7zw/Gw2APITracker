@@ -1,0 +1,55 @@
+{
+  "id": 5376,
+  "name": "Olaf Olafson\u0027s Secret",
+  "description": "",
+  "requirement": "Explore the entirety of Drizzlewood Coast, and find the map pieces to discover Olaf Olafson\u0027s treasure key.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Clue 1: From the lighthouse, head north."
+    },
+    {
+      "type": "Text",
+      "text": "Clue 2: Upon reaching the arch, head west."
+    },
+    {
+      "type": "Text",
+      "text": "Clue 3: Go beyond the crag."
+    },
+    {
+      "type": "Text",
+      "text": "Clue 4: Stop at the falls."
+    },
+    {
+      "type": "Text",
+      "text": "Clue 5: Look in the center of six guardians."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    }
+  ]
+}

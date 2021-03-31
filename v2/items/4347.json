@@ -1,0 +1,51 @@
+{
+  "name": "Everburning Shoes",
+  "description": "\u003cc\u003d@flavor\u003e\"These aren\u0027t ACTUALLY everburning. But they will keep your feet from getting charred up around here.\"\u003cbr\u003e—Brencis Quickblood\u003c/c\u003e",
+  "type": "Armor",
+  "level": 68,
+  "rarity": "Masterwork",
+  "vendor_value": 114,
+  "default_skin": 916,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4347,
+  "chat_link": "[\u0026AgH7EAAA]",
+  "icon": "https://render.guildwars2.com/file/957BD3003579EA370711FB6D1B9DB7FAAAD1C550/61273.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 87,
+    "infusion_slots": [],
+    "attribute_adjustment": 82.9515,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 21
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 21
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 29
+        }
+      ]
+    },
+    "suffix_item_id": 24739
+  }
+}

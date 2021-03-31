@@ -1,0 +1,47 @@
+{
+  "name": "Shiny \"Acquired\" Boots",
+  "description": "\u003cc\u003d@flavor\u003e\"Not stealing. \u0027Acquiring.\u0027\"\u003cbr\u003e—Cakilak\u0027ka\u003c/c\u003e",
+  "type": "Armor",
+  "level": 52,
+  "rarity": "Masterwork",
+  "vendor_value": 92,
+  "default_skin": 867,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 3981,
+  "chat_link": "[\u0026AgGNDwAA]",
+  "icon": "https://render.guildwars2.com/file/3ADF1F49A3D8EB01576DABE80C62ED51423C4A02/61556.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 84,
+    "infusion_slots": [],
+    "attribute_adjustment": 57.018,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 14
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 20
+        }
+      ]
+    },
+    "suffix_item_id": 24727
+  }
+}

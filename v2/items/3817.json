@@ -1,0 +1,41 @@
+{
+  "name": "Superior Duelist\u0027s Gauntlets",
+  "type": "Armor",
+  "level": 8,
+  "rarity": "Masterwork",
+  "vendor_value": 24,
+  "default_skin": 883,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 3817,
+  "chat_link": "[\u0026AgHpDgAA]",
+  "icon": "https://render.guildwars2.com/file/F192FC9EF771A87F7EB743686F0B7BDABA59BB19/61240.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 23,
+    "infusion_slots": [],
+    "attribute_adjustment": 8.4405,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 3
+        }
+      ]
+    }
+  }
+}

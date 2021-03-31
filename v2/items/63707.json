@@ -1,0 +1,47 @@
+{
+  "name": "Slayer\u0027s Chausses",
+  "description": "",
+  "type": "Armor",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 126,
+  "default_skin": 207,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 63707,
+  "chat_link": "[\u0026AgHb+AAA]",
+  "icon": "https://render.guildwars2.com/file/EFB916FBEF03AE7C4F6BF9A0B76115AC5D5A8029/63233.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Heavy",
+    "defense": 106,
+    "infusion_slots": [],
+    "attribute_adjustment": 108.171,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 38
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 27
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 27
+        }
+      ]
+    }
+  }
+}

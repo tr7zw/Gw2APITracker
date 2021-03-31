@@ -1,0 +1,42 @@
+{
+  "name": "Homespun Hood",
+  "description": "An enhanced version of the standard Homespun armor.",
+  "type": "Armor",
+  "level": 5,
+  "rarity": "Fine",
+  "vendor_value": 17,
+  "default_skin": 875,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92899,
+  "chat_link": "[\u0026AgHjagEA]",
+  "icon": "https://render.guildwars2.com/file/B114B716E5FA4CB445CEC13B333C725F9C1D01B1/61247.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 9,
+    "infusion_slots": [],
+    "attribute_adjustment": 9.728,
+    "stat_choices": [
+      144,
+      145,
+      152,
+      142,
+      146,
+      149,
+      755
+    ]
+  }
+}

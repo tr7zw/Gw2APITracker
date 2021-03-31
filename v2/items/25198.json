@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Etched Greatbow of Accuracy",
+  "type": "Weapon",
+  "level": 78,
+  "rarity": "Exotic",
+  "vendor_value": 384,
+  "default_skin": 5045,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25198,
+  "chat_link": "[\u0026AgFuYgAA]",
+  "icon": "https://render.guildwars2.com/file/17A1083373357D91350D57644DE7D14CB7FF27A9/779890.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 891,
+    "max_power": 1046,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 658.72,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 231
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 165
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 165
+        }
+      ]
+    },
+    "suffix_item_id": 24618
+  }
+}

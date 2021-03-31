@@ -1,0 +1,44 @@
+{
+  "name": "Mending Einhänder of the Hydromancer",
+  "type": "Weapon",
+  "level": 56,
+  "rarity": "Masterwork",
+  "vendor_value": 98,
+  "default_skin": 5231,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25584,
+  "chat_link": "[\u0026AgHwYwAA]",
+  "icon": "https://render.guildwars2.com/file/FE00504CABCC01D699800D4E4EC706FA037CF608/534290.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 484,
+    "max_power": 535,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 168.096,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 42
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 59
+        }
+      ]
+    },
+    "suffix_item_id": 24595
+  }
+}

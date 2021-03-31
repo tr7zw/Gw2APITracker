@@ -1,0 +1,40 @@
+{
+  "name": "Ravaging Studded Boots",
+  "description": "",
+  "type": "Armor",
+  "level": 29,
+  "rarity": "Fine",
+  "vendor_value": 30,
+  "default_skin": 48,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 753,
+  "chat_link": "[\u0026AgHxAgAA]",
+  "icon": "https://render.guildwars2.com/file/C05DCA62E84D18EF46D5357C217956C55BC3063E/61013.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 36,
+    "infusion_slots": [],
+    "attribute_adjustment": 23.976,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 6
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

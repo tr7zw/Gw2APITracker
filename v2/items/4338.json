@@ -1,0 +1,46 @@
+{
+  "name": "Apothecary\u0027s Mantle",
+  "description": "\u003cc\u003d@flavor\u003eShoulder warmers for nights in the lab.\u003c/c\u003e",
+  "type": "Armor",
+  "level": 36,
+  "rarity": "Fine",
+  "vendor_value": 39,
+  "default_skin": 901,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4338,
+  "chat_link": "[\u0026AgHyEAAA]",
+  "icon": "https://render.guildwars2.com/file/7325942230DDD92AB59428800B1F34FFDD336091/61265.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 21,
+    "infusion_slots": [],
+    "attribute_adjustment": 31.632,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 11
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

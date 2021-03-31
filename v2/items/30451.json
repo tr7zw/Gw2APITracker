@@ -1,0 +1,48 @@
+{
+  "name": "Jeev\u0027s Dusty Scepter",
+  "description": "\u003cc\u003d@flavor\u003e\"It\u0027s got a hair-trigger. I wouldn\u0027t suggest pointing this at yourself while cleaning.\"\u003cbr\u003e—Jeev\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 29,
+  "rarity": "Fine",
+  "vendor_value": 30,
+  "default_skin": 3892,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30451,
+  "chat_link": "[\u0026AgHzdgAA]",
+  "icon": "https://render.guildwars2.com/file/2696C7FBBB99549E700204A9A11F75B0D50CEC2E/65334.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 249,
+    "max_power": 281,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 63.936,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 16
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 22
+        }
+      ]
+    }
+  }
+}

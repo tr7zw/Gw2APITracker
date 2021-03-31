@@ -1,0 +1,78 @@
+{
+  "name": "Magnetic Shield",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 25
+    },
+    {
+      "text": "Unblockable",
+      "type": "Unblockable",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": true
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 0.4
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+      "duration": 2,
+      "status": "Protection",
+      "description": "Incoming damage decreased by 33%; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/B4BCCD185B24380C953EAD0E5702BFAB96F3BF08/103342.png",
+      "duration": 2,
+      "status": "Tectonic Shift",
+      "description": "Gain barrier every second.",
+      "apply_count": 1
+    },
+    {
+      "text": "Barrier",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+      "value": 778,
+      "target": "Healing"
+    },
+    {
+      "text": "Pull",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "value": 400
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 3
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 600
+    }
+  ],
+  "description": "Pull nearby foes to you with a magnetic force, gaining protection and Tectonic Shift for each foe pulled.",
+  "icon": "https://render.guildwars2.com/file/987CB8ED19A4DC0F395195B7514C54F9FD5DFC5A/867448.png",
+  "type": "Weapon",
+  "weapon_type": "Sword",
+  "professions": [],
+  "slot": "Weapon_4",
+  "flags": [
+    "NoUnderwater"
+  ],
+  "id": 5747,
+  "chat_link": "[\u0026BnMWAAA\u003d]"
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Waldo\u0027s Special Torch",
+  "description": "\u003cc\u003d@flavor\u003e\"I have my own special recipe that makes these burn a little hotter than normal. Watch your eyebrows.\"\u003cbr\u003e—Waldo\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 15,
+  "rarity": "Masterwork",
+  "vendor_value": 40,
+  "default_skin": 3890,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30349,
+  "chat_link": "[\u0026AgGNdgAA]",
+  "icon": "https://render.guildwars2.com/file/FA56C5DD5D7494F25D980E432BA129F44209ED0E/63136.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 174,
+    "max_power": 205,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 35.632,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 12
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

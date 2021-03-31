@@ -1,0 +1,31 @@
+{
+  "id": 2246,
+  "name": "Equitable Elector",
+  "description": "If you want something done right...",
+  "requirement": "Participate in the election of all 3 potential Pact leaders.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Doctor Elly Elected"
+    },
+    {
+      "type": "Text",
+      "text": "Master-at-Arms Neary Elected"
+    },
+    {
+      "type": "Text",
+      "text": "Chief Engineer Timblin Elected"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 5
+    }
+  ]
+}

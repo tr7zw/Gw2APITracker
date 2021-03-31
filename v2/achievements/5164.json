@@ -1,0 +1,35 @@
+{
+  "id": 5164,
+  "icon": "https://render.guildwars2.com/file/64A40708CB45F2227514794740BBA5CBD677A810/2261498.png",
+  "name": "Tutorial Mastery",
+  "description": "",
+  "requirement": "Complete 10 of the 16 Tutorial achievements.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 4
+    },
+    {
+      "count": 10,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 92841,
+      "count": 1
+    }
+  ]
+}

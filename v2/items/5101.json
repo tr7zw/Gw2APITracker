@@ -1,0 +1,42 @@
+{
+  "name": "Strong Chainmail Helm",
+  "description": "",
+  "type": "Armor",
+  "level": 30,
+  "rarity": "Basic",
+  "vendor_value": 20,
+  "default_skin": 81,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 5101,
+  "chat_link": "[\u0026AgHtEwAA]",
+  "icon": "https://render.guildwars2.com/file/5F7BD5804C9794B507341AC94A5DA59711A4E174/61102.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 23,
+    "infusion_slots": [],
+    "attribute_adjustment": 25.974,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 9
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

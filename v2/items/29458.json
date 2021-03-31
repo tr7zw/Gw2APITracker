@@ -1,0 +1,48 @@
+{
+  "name": "Mining Hammer",
+  "description": "\u003cc\u003d@flavor\u003e\"I find a hammer can be really helpful when trying to get ore in hard-to-reach places.\"\u003cbr\u003e—Adgils\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 28,
+  "rarity": "Fine",
+  "vendor_value": 44,
+  "default_skin": 5213,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29458,
+  "chat_link": "[\u0026AgEScwAA]",
+  "icon": "https://render.guildwars2.com/file/2412401469770631E7E34972B3EFCCAB90094CE8/534277.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 268,
+    "max_power": 302,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 122.112,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 31
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 43
+        }
+      ]
+    }
+  }
+}

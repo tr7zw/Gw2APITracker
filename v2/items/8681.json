@@ -1,0 +1,25 @@
+{
+  "name": "MedKit",
+  "description": "Double-click to use medkit.",
+  "type": "Consumable",
+  "level": 22,
+  "rarity": "Basic",
+  "vendor_value": 7,
+  "game_types": [
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 8681,
+  "chat_link": "[\u0026AgHpIQAA]",
+  "icon": "https://render.guildwars2.com/file/666209104CCB024D53359C0EA0A299076E610771/65704.png",
+  "details": {
+    "type": "Generic"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Vigil Badge",
+  "description": "\u003cc\u003d@flavor\u003e\"You were just the unpredictable variable we needed to turn the tide of undead. The Vigil will remember your service.\" -Jezza\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 55,
+  "rarity": "Fine",
+  "vendor_value": 60,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23957,
+  "chat_link": "[\u0026AgGVXQAA]",
+  "icon": "https://render.guildwars2.com/file/F4486E0A6651C27F5D720CFF30D8A9CA33A855C7/66808.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 94.04,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 24
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 24
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 33
+        }
+      ]
+    }
+  }
+}

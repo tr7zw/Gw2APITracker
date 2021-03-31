@@ -1,0 +1,49 @@
+{
+  "name": "Hawkes\u0027 Warhorn",
+  "description": "\u003cc\u003d@flavor\u003e\"The Company shall not be held liable for damages or injuries sustained during the use of this horn.\"\u003cbr\u003e—Disclaimer\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 35,
+  "rarity": "Masterwork",
+  "vendor_value": 68,
+  "default_skin": 5001,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30509,
+  "chat_link": "[\u0026AgEtdwAA]",
+  "icon": "https://render.guildwars2.com/file/5E27306C1273E90D736AB0EEDC4D570BDD62BA4F/68099.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 282,
+    "max_power": 311,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 89.624,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 31
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 22
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

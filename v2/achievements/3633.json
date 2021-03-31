@@ -1,0 +1,70 @@
+{
+  "id": 3633,
+  "name": "Lost Lore of the Desolation",
+  "description": "",
+  "requirement": "Find dispatch pages to complete the Order of Whispers\u0027 dispatch collection.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 83033
+    },
+    {
+      "type": "Item",
+      "id": 82369
+    },
+    {
+      "type": "Item",
+      "id": 82213
+    },
+    {
+      "type": "Item",
+      "id": 83606
+    },
+    {
+      "type": "Item",
+      "id": 84213
+    },
+    {
+      "type": "Item",
+      "id": 83054
+    },
+    {
+      "type": "Item",
+      "id": 82826
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 84565,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 353
+    }
+  ]
+}

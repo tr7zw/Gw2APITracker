@@ -1,0 +1,63 @@
+{
+  "id": 909,
+  "tier": 2,
+  "order": 2,
+  "name": "Signets of Suffering",
+  "description": "Gain enhanced versions of your equipped \u003cc\u003d@abilitytype\u003esignet\u003c/c\u003e passive effects while in shroud. Signets recharge every second you are in shroud.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Signet Recharge per Second",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+      "percent": 4
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/F62121A2D713A4CD5FDA3E5C734408EF3306BED4/699529.png",
+      "duration": 0,
+      "status": "Signet of Vampirism",
+      "description": "Steal health from nearby foes while in combat.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/7BA4196DCAD2BED2D4E7EF23B1CB4806DABC0C56/103812.png",
+      "duration": 0,
+      "status": "Plague Signet",
+      "description": "Pulls conditions from allies to yourself.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/596707B904509879083B6F6697012448A7420A63/58459.png",
+      "duration": 0,
+      "status": "Signet of Spite",
+      "description": "Improved power.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/E9779110A24733AEAC403E48D6ADF00F9F3A0507/58463.png",
+      "duration": 0,
+      "status": "Signet of the Locust",
+      "description": "",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/71931FADB11260EDB2770DF23054DC9970D35734/103826.png",
+      "duration": 0,
+      "status": "Signet of Undeath",
+      "description": "Gain 33% more life force every three seconds while in combat.",
+      "apply_count": 1
+    }
+  ],
+  "specialization": 53,
+  "icon": "https://render.guildwars2.com/file/EEB462072294673B6ADC280A2374216047529798/1012600.png"
+}

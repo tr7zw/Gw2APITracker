@@ -1,0 +1,44 @@
+{
+  "name": "Radiation Shield",
+  "description": "\u003cc\u003d@flavor\u003e\"The only thing safer is a golem.\"\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 15,
+  "rarity": "Fine",
+  "vendor_value": 20,
+  "default_skin": 3855,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30533,
+  "chat_link": "[\u0026AgFFdwAA]",
+  "icon": "https://render.guildwars2.com/file/7DB35F1B7E15540C901650FE08B635FC7F01C852/66208.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 164,
+    "max_power": 185,
+    "defense": 9,
+    "infusion_slots": [],
+    "attribute_adjustment": 31.744,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 11
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Bear Ceremonial Sandals",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 198,
+  "default_skin": 9390,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 93620,
+  "chat_link": "[\u0026AgG0bQEA]",
+  "icon": "https://render.guildwars2.com/file/0CB9990B9B4B41E8EF130F747BEF50BD60D6FA6A/2293327.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 139,
+    "infusion_slots": [],
+    "attribute_adjustment": 113.184,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 40
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 28
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 28
+        }
+      ]
+    }
+  }
+}

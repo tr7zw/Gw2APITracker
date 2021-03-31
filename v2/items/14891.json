@@ -1,0 +1,48 @@
+{
+  "name": "Rabid Beaded Shooter",
+  "description": "",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 234,
+  "default_skin": 4119,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 14891,
+  "chat_link": "[\u0026AgErOgAA]",
+  "icon": "https://render.guildwars2.com/file/E9491A522CD35FB22BA048DCE857A29F9F4BF605/534149.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 614,
+    "max_power": 751,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 401.76,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 100
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 100
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 141
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Flame Guard of Air",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 198,
+  "default_skin": 5128,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32990,
+  "chat_link": "[\u0026AgHegAAA]",
+  "icon": "https://render.guildwars2.com/file/9AEC99D35450EEC8F691C97F7770303BF759D9ED/67840.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 714,
+    "max_power": 805,
+    "defense": 54,
+    "infusion_slots": [],
+    "attribute_adjustment": 301.824,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 75
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 75
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 106
+        }
+      ]
+    },
+    "suffix_item_id": 24553
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Wyld Greatsword",
+  "description": "\u003cc\u003d@flavor\u003e\"When a regular sword just won\u0027t do.\"\u003cbr\u003e—Coydd\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 22,
+  "rarity": "Masterwork",
+  "vendor_value": 75,
+  "default_skin": 3868,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30592,
+  "chat_link": "[\u0026AgGAdwAA]",
+  "icon": "https://render.guildwars2.com/file/67B2C9A40C0E963567B7B42359A327B19F56195D/66176.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 257,
+    "max_power": 284,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 103.088,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 36
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

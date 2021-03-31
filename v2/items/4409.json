@@ -1,0 +1,47 @@
+{
+  "name": "Sentinel Scout Heavy Helm",
+  "description": "\u003cc\u003d@flavor\u003e\"Keep your head on a swivel out there.\"\u003cbr\u003e—Sentinel Liharn\u003c/c\u003e",
+  "type": "Armor",
+  "level": 46,
+  "rarity": "Masterwork",
+  "vendor_value": 105,
+  "default_skin": 892,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4409,
+  "chat_link": "[\u0026AgE5EQAA]",
+  "icon": "https://render.guildwars2.com/file/E9EEB91BD00673FB2B0DBC04FFAB96A929FF23FB/61559.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 48,
+    "infusion_slots": [],
+    "attribute_adjustment": 64.294,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 23
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 16
+        }
+      ]
+    },
+    "suffix_item_id": 24739
+  }
+}

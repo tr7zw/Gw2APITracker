@@ -1,0 +1,27 @@
+{
+  "name": "Loot Bag",
+  "description": "This box gives one random item.\nDouble-click to open.",
+  "type": "Container",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "SoulbindOnAcquire",
+    "DeleteWarning",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 20794,
+  "chat_link": "[\u0026AgE6UQAA]",
+  "icon": "https://render.guildwars2.com/file/BD205CF4664443B64823667BCA9E10E5F1A04E70/882234.png",
+  "details": {
+    "type": "Default"
+  }
+}

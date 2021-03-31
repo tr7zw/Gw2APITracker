@@ -1,0 +1,52 @@
+{
+  "name": "Stygian Trispear",
+  "description": "\u003cc\u003d@flavor\u003e\"Quaggan makes the best weapon for the best battles.\"\u003cbr\u003e—Recruit Wongoo\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 72,
+  "rarity": "Fine",
+  "vendor_value": 90,
+  "default_skin": 5050,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30245,
+  "chat_link": "[\u0026AgEldgAA]",
+  "icon": "https://render.guildwars2.com/file/F670E526546CD1E9E2029B14DD9810ECDBE9001D/434765.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 602,
+    "max_power": 665,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 443.008,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 155
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 111
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 111
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4640,
+  "name": "Warclaw Leg Armor",
+  "description": "",
+  "requirement": "Use badges of honor to purchase warclaw leg armor at the warclaw vendor.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    4634
+  ]
+}

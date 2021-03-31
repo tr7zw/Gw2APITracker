@@ -1,0 +1,24 @@
+{
+  "id": 4567,
+  "name": "Stubborn",
+  "description": "Story Instance: The Crystal Dragon",
+  "requirement": "Complete the Crystal Dragon without accepting aid from the weaponsmith, armorsmith, or chef.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 452
+    }
+  ]
+}

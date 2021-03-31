@@ -1,0 +1,82 @@
+{
+  "id": 2351,
+  "name": "Ad Infinitum I: Finite Result",
+  "description": "Unlock all 11 fractal components to work towards building the legendary fractal backpack.",
+  "requirement": "Collect all  fractal components.",
+  "locked_text": "Talk to Kelvei in the Fractals of the Mists.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 70580
+    },
+    {
+      "type": "Item",
+      "id": 76329
+    },
+    {
+      "type": "Item",
+      "id": 75039
+    },
+    {
+      "type": "Item",
+      "id": 76918
+    },
+    {
+      "type": "Item",
+      "id": 70523
+    },
+    {
+      "type": "Item",
+      "id": 75871
+    },
+    {
+      "type": "Item",
+      "id": 71165
+    },
+    {
+      "type": "Item",
+      "id": 71158
+    },
+    {
+      "type": "Skin",
+      "id": 2377
+    },
+    {
+      "type": "Item",
+      "id": 76172
+    },
+    {
+      "type": "Item",
+      "id": 71281
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 2
+    },
+    {
+      "count": 11,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 76466,
+      "count": 1
+    }
+  ]
+}

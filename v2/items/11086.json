@@ -1,0 +1,42 @@
+{
+  "name": "Honed Student Mantle",
+  "description": "",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Masterwork",
+  "vendor_value": 75,
+  "default_skin": 154,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 11086,
+  "chat_link": "[\u0026AgFOKwAA]",
+  "icon": "https://render.guildwars2.com/file/E8645143CCBA75257E607194250170FBE5BB510C/61410.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 22,
+    "infusion_slots": [],
+    "attribute_adjustment": 33.609,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 12
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

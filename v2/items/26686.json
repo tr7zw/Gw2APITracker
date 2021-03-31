@@ -1,0 +1,46 @@
+{
+  "name": "Berserker\u0027s Iron Shield",
+  "description": "",
+  "type": "Weapon",
+  "level": 69,
+  "rarity": "Fine",
+  "vendor_value": 58,
+  "default_skin": 4012,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 26686,
+  "chat_link": "[\u0026AgE+aAAA]",
+  "icon": "https://render.guildwars2.com/file/222F72EDEC31ACB7BC439499F4DD4AA4A94A6C48/65373.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 507,
+    "max_power": 572,
+    "defense": 37,
+    "infusion_slots": [],
+    "attribute_adjustment": 208.192,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 73
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 52
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 52
+        }
+      ]
+    }
+  }
+}

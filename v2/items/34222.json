@@ -1,0 +1,37 @@
+{
+  "name": "Malign Glyphic Longbow",
+  "type": "Weapon",
+  "level": 1,
+  "rarity": "Fine",
+  "vendor_value": 9,
+  "default_skin": 5201,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 34222,
+  "chat_link": "[\u0026AgGuhQAA]",
+  "icon": "https://render.guildwars2.com/file/0166640705A3797A74F6CFDE79E67FBD9D399CE8/62844.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 141,
+    "max_power": 166,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 25.344,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

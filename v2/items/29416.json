@@ -1,0 +1,48 @@
+{
+  "name": "Scratch Rifle",
+  "description": "\u003cc\u003d@flavor\u003e\"Bang, bang!\"\u003cbr\u003e—Cakilak\u0027ka\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 54,
+  "rarity": "Fine",
+  "vendor_value": 71,
+  "default_skin": 4092,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29416,
+  "chat_link": "[\u0026AgHocgAA]",
+  "icon": "https://render.guildwars2.com/file/167018D742BBF5120BE4ACE80DE5B049089D20F2/62700.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 468,
+    "max_power": 572,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 293.504,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 103
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 73
+        }
+      ]
+    }
+  }
+}

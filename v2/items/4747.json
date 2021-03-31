@@ -1,0 +1,46 @@
+{
+  "name": "Bloodclaw\u0027s Bone Hood",
+  "description": "\u003cc\u003d@flavor\u003e\"Great protection and excellent style.\"\u003cbr\u003e—Sheriff Kaargoth Bloodclaw\u003c/c\u003e",
+  "type": "Armor",
+  "level": 28,
+  "rarity": "Fine",
+  "vendor_value": 37,
+  "default_skin": 907,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4747,
+  "chat_link": "[\u0026AgGLEgAA]",
+  "icon": "https://render.guildwars2.com/file/6C127B202AE612DCB8CE9AF6EA0CBF500042FF0C/61267.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 16,
+    "infusion_slots": [],
+    "attribute_adjustment": 30.528,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 11
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

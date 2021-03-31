@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Norn Staff of Energy",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Rare",
+  "vendor_value": 275,
+  "default_skin": 5230,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25554,
+  "chat_link": "[\u0026AgHSYwAA]",
+  "icon": "https://render.guildwars2.com/file/5A220C09725B5FA63BE1336305313E341C0DD803/575180.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 789,
+    "max_power": 889,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 538.416,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 188
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 135
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 135
+        }
+      ]
+    },
+    "suffix_item_id": 24606
+  }
+}

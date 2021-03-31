@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Einhänder of Earth",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 132,
+  "default_skin": 5231,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25588,
+  "chat_link": "[\u0026AgH0YwAA]",
+  "icon": "https://render.guildwars2.com/file/FE00504CABCC01D699800D4E4EC706FA037CF608/534290.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 745,
+    "max_power": 823,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 279.956,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 98
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 70
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 70
+        }
+      ]
+    },
+    "suffix_item_id": 24558
+  }
+}

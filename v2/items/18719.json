@@ -1,0 +1,51 @@
+{
+  "name": "Dark Asuran Staff",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 4530,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 18719,
+  "chat_link": "[\u0026AgEfSQAA]",
+  "icon": "https://render.guildwars2.com/file/099049C600217D31D4245DDCF03F654D04462C4A/455763.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 985,
+    "max_power": 1111,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 158,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 171
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 171
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 239
+        }
+      ]
+    },
+    "suffix_item_id": 24684
+  }
+}

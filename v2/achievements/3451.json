@@ -1,0 +1,68 @@
+{
+  "id": 3451,
+  "name": "Versatile",
+  "description": "",
+  "requirement": "Participate in a tournament with each class.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Elementalist"
+    },
+    {
+      "type": "Text",
+      "text": "Mesmer"
+    },
+    {
+      "type": "Text",
+      "text": "Guardian"
+    },
+    {
+      "type": "Text",
+      "text": "Warrior"
+    },
+    {
+      "type": "Text",
+      "text": "Engineer"
+    },
+    {
+      "type": "Text",
+      "text": "Ranger"
+    },
+    {
+      "type": "Text",
+      "text": "Thief"
+    },
+    {
+      "type": "Text",
+      "text": "Necromancer"
+    },
+    {
+      "type": "Text",
+      "text": "Revenant"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 2
+    },
+    {
+      "count": 5,
+      "points": 2
+    },
+    {
+      "count": 9,
+      "points": 5
+    }
+  ]
+}

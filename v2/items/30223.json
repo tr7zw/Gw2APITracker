@@ -1,0 +1,53 @@
+{
+  "name": "Deathstrider Hammer",
+  "description": "\u003cc\u003d@flavor\u003e\"Do one thing, and do it well. I made this hammer follow that rule. I\u0027ll let you guess what it specializes in.\"\u003cbr\u003e—Tactician Deathstrider\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 75,
+  "rarity": "Masterwork",
+  "vendor_value": 186,
+  "default_skin": 5222,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30223,
+  "chat_link": "[\u0026AgEPdgAA]",
+  "icon": "https://render.guildwars2.com/file/C5B365D6105F76470106A61F4AB96F3E39D10E18/60991.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 745,
+    "max_power": 840,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 508.504,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 178
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 127
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 127
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

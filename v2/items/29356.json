@@ -1,0 +1,45 @@
+{
+  "name": "Jotun Greatsword",
+  "description": "\u003cc\u003d@flavor\u003e\"Get a lot of these, fighting those jotun.\"\u003cbr\u003e—Nadel\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 72,
+  "default_skin": 4701,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29356,
+  "chat_link": "[\u0026AgGscgAA]",
+  "icon": "https://render.guildwars2.com/file/F06B7B56F29B40F7BEE0B4724E5AF1CE00D6E256/779913.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 247,
+    "max_power": 272,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 93.976,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 33
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

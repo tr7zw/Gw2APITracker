@@ -1,0 +1,78 @@
+{
+  "id": 2643,
+  "name": "Lightbringer\u0027s Pack",
+  "description": "",
+  "requirement": "Collect all  items to construct your Lightbringer\u0027s Pack.",
+  "locked_text": "Complete the Agent\u0027s Pack collection.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 6159
+    },
+    {
+      "type": "Item",
+      "id": 74695
+    },
+    {
+      "type": "Item",
+      "id": 73752
+    },
+    {
+      "type": "Item",
+      "id": 75795
+    },
+    {
+      "type": "Item",
+      "id": 76500
+    },
+    {
+      "type": "Item",
+      "id": 75452
+    },
+    {
+      "type": "Item",
+      "id": 76536
+    },
+    {
+      "type": "Item",
+      "id": 76723
+    },
+    {
+      "type": "Item",
+      "id": 73667
+    },
+    {
+      "type": "Item",
+      "id": 76884
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 73791,
+      "count": 1
+    }
+  ]
+}

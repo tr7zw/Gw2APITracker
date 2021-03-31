@@ -1,0 +1,66 @@
+{
+  "id": 5369,
+  "name": "Intelligence Gatherer",
+  "description": "",
+  "requirement": "Intercept all of Bangar\u0027s orders.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Dropped by a Blood tribune."
+    },
+    {
+      "type": "Text",
+      "text": "Dropped by a Frost tribune."
+    },
+    {
+      "type": "Text",
+      "text": "Dropped by an Ash tribune."
+    },
+    {
+      "type": "Text",
+      "text": "Dropped by an Iron tribune."
+    },
+    {
+      "type": "Text",
+      "text": "Dropped by a Flame tribune."
+    },
+    {
+      "type": "Text",
+      "text": "Dropped by a phalanx."
+    },
+    {
+      "type": "Text",
+      "text": "Dropped by a massive charr tank."
+    },
+    {
+      "type": "Text",
+      "text": "Dropped by a Claw of Jormag."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 8,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 93766,
+      "count": 1
+    }
+  ]
+}

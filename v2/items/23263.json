@@ -1,0 +1,38 @@
+{
+  "name": "Copper Cowbell",
+  "description": "A sturdy cowbell.",
+  "type": "Trinket",
+  "level": 15,
+  "rarity": "Fine",
+  "vendor_value": 23,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23263,
+  "chat_link": "[\u0026AgHfWgAA]",
+  "icon": "https://render.guildwars2.com/file/4A623D4E30B908406605930BA89551D9ECF7B4D5/66797.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 17.64,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

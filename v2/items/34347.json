@@ -1,0 +1,41 @@
+{
+  "name": "Ravaging Glyphic Horn",
+  "type": "Weapon",
+  "level": 26,
+  "rarity": "Fine",
+  "vendor_value": 28,
+  "default_skin": 5135,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 34347,
+  "chat_link": "[\u0026AgErhgAA]",
+  "icon": "https://render.guildwars2.com/file/C53447B67026644C55327A0C420A16A7A33468CB/62795.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 210,
+    "max_power": 233,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 54.976,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 14
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 19
+        }
+      ]
+    }
+  }
+}

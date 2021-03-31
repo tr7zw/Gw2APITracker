@@ -1,0 +1,53 @@
+{
+  "name": "Excavator\u0027s Staff",
+  "description": "\u003cc\u003d@flavor\u003e\"Don\u0027t dig too deep.\"\u003cbr\u003e—Explorer Cryptcutter\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 63,
+  "rarity": "Masterwork",
+  "vendor_value": 162,
+  "default_skin": 4067,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30665,
+  "chat_link": "[\u0026AgHJdwAA]",
+  "icon": "https://render.guildwars2.com/file/04BE267A42B12DB00F0162639702BDEFC90F4A5D/62880.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 601,
+    "max_power": 677,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 396.712,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 99
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 99
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 139
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

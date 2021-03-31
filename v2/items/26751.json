@@ -1,0 +1,45 @@
+{
+  "name": "Strong Iron Shield of Blood",
+  "description": "",
+  "type": "Weapon",
+  "level": 53,
+  "rarity": "Masterwork",
+  "vendor_value": 94,
+  "default_skin": 4012,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26751,
+  "chat_link": "[\u0026AgF/aAAA]",
+  "icon": "https://render.guildwars2.com/file/222F72EDEC31ACB7BC439499F4DD4AA4A94A6C48/65373.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 407,
+    "max_power": 459,
+    "defense": 29,
+    "infusion_slots": [],
+    "attribute_adjustment": 155.924,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 55
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 39
+        }
+      ]
+    },
+    "suffix_item_id": 24568
+  }
+}

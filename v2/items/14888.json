@@ -1,0 +1,48 @@
+{
+  "name": "Rabid Beaded Stinger",
+  "description": "",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 234,
+  "default_skin": 4050,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 14888,
+  "chat_link": "[\u0026AgEoOgAA]",
+  "icon": "https://render.guildwars2.com/file/23334B7A7D9C0DF09CF5546FF70FBFDE6D44960E/534146.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 573,
+    "max_power": 673,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 401.76,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 100
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 100
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 141
+        }
+      ]
+    }
+  }
+}

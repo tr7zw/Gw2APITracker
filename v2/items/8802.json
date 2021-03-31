@@ -1,0 +1,25 @@
+{
+  "name": "Shovel",
+  "description": "Double-click to gain a shovel.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 5,
+  "game_types": [
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 8802,
+  "chat_link": "[\u0026AgFiIgAA]",
+  "icon": "https://render.guildwars2.com/file/0C0D0D803F9F6F7402449EB70CE6410909F33453/526107.png",
+  "details": {
+    "type": "Generic"
+  }
+}

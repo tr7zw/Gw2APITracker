@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Conjurer Shoes of the Centaur",
+  "description": "",
+  "type": "Armor",
+  "level": 54,
+  "rarity": "Rare",
+  "vendor_value": 141,
+  "default_skin": 88,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 962,
+  "chat_link": "[\u0026AgHCAwAA]",
+  "icon": "https://render.guildwars2.com/file/1E4E050554D30302E21164155F653E07D80B9A3D/61042.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 70,
+    "infusion_slots": [],
+    "attribute_adjustment": 65.043,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 16
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 23
+        }
+      ]
+    },
+    "suffix_item_id": 24787
+  }
+}

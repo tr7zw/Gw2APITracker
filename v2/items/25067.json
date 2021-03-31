@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Shiverpeak Talisman of Bloodlust",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Masterwork",
+  "vendor_value": 122,
+  "default_skin": 5150,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25067,
+  "chat_link": "[\u0026AgHrYQAA]",
+  "icon": "https://render.guildwars2.com/file/EBB491E406230AE7C8B908B1F7646D51DC370E6B/534280.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 619,
+    "max_power": 657,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 249.56,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 87
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 62
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 62
+        }
+      ]
+    },
+    "suffix_item_id": 24573
+  }
+}

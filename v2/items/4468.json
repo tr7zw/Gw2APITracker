@@ -1,0 +1,51 @@
+{
+  "name": "Rally Boots",
+  "description": "\u003cc\u003d@flavor\u003e\"By the time most soldiers get here, they need a new pair.\"\u003cbr\u003e—Arcanist Repth\u003c/c\u003e",
+  "type": "Armor",
+  "level": 74,
+  "rarity": "Masterwork",
+  "vendor_value": 122,
+  "default_skin": 923,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4468,
+  "chat_link": "[\u0026AgF0EQAA]",
+  "icon": "https://render.guildwars2.com/file/62E556594FF19BFEABAF73F8AB9162DEE5D4CC0C/61278.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 115,
+    "infusion_slots": [],
+    "attribute_adjustment": 93.585,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 33
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 23
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 23
+        }
+      ]
+    },
+    "suffix_item_id": 24685
+  }
+}

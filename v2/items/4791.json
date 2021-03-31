@@ -1,0 +1,47 @@
+{
+  "name": "Leather Vigil Chestpiece",
+  "description": "\u003cc\u003d@flavor\u003e\"Sometimes skritt find the strangest things.\"\u003cbr\u003e—Crusader Aisling\u003c/c\u003e",
+  "type": "Armor",
+  "level": 51,
+  "rarity": "Masterwork",
+  "vendor_value": 135,
+  "default_skin": 58,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4791,
+  "chat_link": "[\u0026AgG3EgAA]",
+  "icon": "https://render.guildwars2.com/file/47C4A4150DE66A7BA5F8B6520A34D70928E7A166/61251.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 152,
+    "infusion_slots": [],
+    "attribute_adjustment": 166.617,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 42
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 58
+        }
+      ]
+    },
+    "suffix_item_id": 24730
+  }
+}

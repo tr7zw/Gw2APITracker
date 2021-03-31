@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Verdant Warhammer of Energy",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Rare",
+  "vendor_value": 275,
+  "default_skin": 5014,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34824,
+  "chat_link": "[\u0026AgEIiAAA]",
+  "icon": "https://render.guildwars2.com/file/E8507FFB6CF3C9094A69956344CEDBD9B47D95B6/434872.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 789,
+    "max_power": 889,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 538.416,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 135
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 135
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 188
+        }
+      ]
+    },
+    "suffix_item_id": 24606
+  }
+}

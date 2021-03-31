@@ -1,0 +1,41 @@
+{
+  "name": "Ravaging Glyphic Mace",
+  "type": "Weapon",
+  "level": 36,
+  "rarity": "Fine",
+  "vendor_value": 35,
+  "default_skin": 5188,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 34305,
+  "chat_link": "[\u0026AgEBhgAA]",
+  "icon": "https://render.guildwars2.com/file/DB447716F108A4EC3BEA5C3995B569D83B6DA327/62417.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 292,
+    "max_power": 329,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 84.352,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 21
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 30
+        }
+      ]
+    }
+  }
+}

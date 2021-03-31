@@ -1,0 +1,29 @@
+{
+  "name": "Copper Guild Challenger Reward",
+  "description": "Contains Potions of PvP Reward and Guild Challenger Decoration token, coin, and items that help restore your guild arena.",
+  "type": "Container",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 77512,
+  "chat_link": "[\u0026AgHILgEA]",
+  "icon": "https://render.guildwars2.com/file/900B6F07174AEFC96A664AC6115D2DABC90B06B8/66867.png",
+  "details": {
+    "type": "Default"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": 2029,
+  "icon": "https://render.guildwars2.com/file/C5CE0723E54B4B2F78A2E6E5496A04B54E7A65E6/602777.png",
+  "name": "Wintersday Toy Weapons Collection",
+  "description": "Collect all of the Wintersday Toy weapon skins to celebrate the season!",
+  "requirement": "Collect all of the Wintersday Toy weapon skins.",
+  "locked_text": "Use an Heirloom Toy Chest, found in Wintersday Gifts.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 5343
+    },
+    {
+      "type": "Skin",
+      "id": 5295
+    },
+    {
+      "type": "Skin",
+      "id": 5327
+    },
+    {
+      "type": "Skin",
+      "id": 5316
+    },
+    {
+      "type": "Skin",
+      "id": 5312
+    },
+    {
+      "type": "Skin",
+      "id": 5345
+    },
+    {
+      "type": "Skin",
+      "id": 5347
+    },
+    {
+      "type": "Skin",
+      "id": 5266
+    }
+  ],
+  "tiers": [
+    {
+      "count": 8,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 68365,
+      "count": 1
+    }
+  ]
+}

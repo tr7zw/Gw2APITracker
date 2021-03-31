@@ -1,0 +1,51 @@
+{
+  "name": "Forsaken Radiance",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Exotic",
+  "vendor_value": 330,
+  "default_skin": 5227,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 51804,
+  "chat_link": "[\u0026AgFcygAA]",
+  "icon": "https://render.guildwars2.com/file/00DC9C6326EE2B0AB1A016C060ADBABDC9EE572F/67841.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 760,
+    "max_power": 858,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 509.28,
+    "infix_upgrade": {
+      "id": 1011,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 178
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 127
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 127
+        }
+      ]
+    }
+  }
+}

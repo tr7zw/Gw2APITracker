@@ -1,0 +1,78 @@
+{
+  "id": 4161,
+  "name": "Mini Griffon Hatchling Collection",
+  "description": "",
+  "requirement": "Unlock all griffon hatchling miniatures in your wardrobe.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Minipet",
+      "id": 682
+    },
+    {
+      "type": "Minipet",
+      "id": 686
+    },
+    {
+      "type": "Minipet",
+      "id": 679
+    },
+    {
+      "type": "Minipet",
+      "id": 681
+    },
+    {
+      "type": "Minipet",
+      "id": 684
+    },
+    {
+      "type": "Minipet",
+      "id": 685
+    },
+    {
+      "type": "Minipet",
+      "id": 687
+    },
+    {
+      "type": "Minipet",
+      "id": 683
+    },
+    {
+      "type": "Minipet",
+      "id": 680
+    },
+    {
+      "type": "Minipet",
+      "id": 688
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 3
+    },
+    {
+      "count": 10,
+      "points": 6
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 87391,
+      "count": 1
+    }
+  ]
+}

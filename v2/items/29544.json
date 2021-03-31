@@ -1,0 +1,52 @@
+{
+  "name": "Valoric Short Bow",
+  "description": "\u003cc\u003d@flavor\u003e\"The first arrow I shot was from a bow such as this. Nevermind about that. That was a long time ago.\"\u003cbr\u003e—Pact Crusader D\u0027Stolt\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 72,
+  "rarity": "Fine",
+  "vendor_value": 90,
+  "default_skin": 3906,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29544,
+  "chat_link": "[\u0026AgFocwAA]",
+  "icon": "https://render.guildwars2.com/file/0EFDC626FD430DA00CD9240C95EC6DF0500DB45E/67068.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 602,
+    "max_power": 665,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 443.008,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 111
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 111
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 155
+        }
+      ]
+    }
+  }
+}

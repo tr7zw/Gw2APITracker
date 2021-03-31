@@ -1,0 +1,49 @@
+{
+  "name": "Soldier\u0027s Apprentice Shoulders",
+  "description": "",
+  "type": "Armor",
+  "level": 75,
+  "rarity": "Masterwork",
+  "vendor_value": 480,
+  "default_skin": 29,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 7155,
+  "chat_link": "[\u0026AgHzGwAA]",
+  "icon": "https://render.guildwars2.com/file/6B1D4B0CCA00DA96257F1364C61023A7A1387A29/61350.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 55,
+    "infusion_slots": [],
+    "attribute_adjustment": 95.3445,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 33
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 24
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 24
+        }
+      ]
+    }
+  }
+}

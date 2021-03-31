@@ -1,0 +1,49 @@
+{
+  "name": "De Molish Mace",
+  "description": "\u003cc\u003d@flavor\u003e\"If you\u0027re hit, the natural reaction is to hit back. Harder.\"\u003cbr\u003e—Explorer Brokkar\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 49,
+  "rarity": "Masterwork",
+  "vendor_value": 88,
+  "default_skin": 3964,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29515,
+  "chat_link": "[\u0026AgFLcwAA]",
+  "icon": "https://render.guildwars2.com/file/415D42C379B3AE75721E59D76E5F170926C416C1/65228.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 417,
+    "max_power": 470,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 140.284,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 49
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 35
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

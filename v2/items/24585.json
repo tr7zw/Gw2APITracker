@@ -1,0 +1,54 @@
+{
+  "name": "Minor Sigil of Benevolence",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eEnhancement\u003cbr\u003eDouble-click to apply to a weapon.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 16,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24585,
+  "chat_link": "[\u0026AgEJYAAA]",
+  "icon": "https://render.guildwars2.com/file/7D2CCD49CD52B9F896E7E13B5354287ACA3D7A7D/220993.png",
+  "details": {
+    "type": "Sigil",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 231,
+      "buff": {
+        "skill_id": 9403,
+        "description": "Gain a charge that grants a 0.3% increase in healing to other allies each time you kill a foe, five charges if you kill an enemy player. \u003cc\u003d@reminder\u003e(Max 25 stacks; ends on down.)\u003c/c\u003e\u003cbr\u003e\u003cc\u003d@reminder\u003e(Only one attribute-stacking sigil can be active at a time.)\u003c/c\u003e"
+      },
+      "attributes": []
+    },
+    "suffix": "of Benevolence"
+  }
+}

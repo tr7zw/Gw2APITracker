@@ -1,0 +1,47 @@
+{
+  "name": "Magi\u0027s Aureate Dirk",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 198,
+  "default_skin": 5012,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 38774,
+  "chat_link": "[\u0026AgF2lwAA]",
+  "icon": "https://render.guildwars2.com/file/24366D15FF0DC9F1F61AE4EE33AA3EE35948A0B3/67679.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 819,
+    "max_power": 869,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 301.824,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 75
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 75
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 106
+        }
+      ]
+    }
+  }
+}

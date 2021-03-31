@@ -1,0 +1,49 @@
+{
+  "name": "Cleric\u0027s Black Earth Trident of Life",
+  "description": "",
+  "type": "Weapon",
+  "level": 69,
+  "rarity": "Rare",
+  "vendor_value": 261,
+  "default_skin": 4712,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28715,
+  "chat_link": "[\u0026AgErcAAA]",
+  "icon": "https://render.guildwars2.com/file/B8F4F953BC20F7A7FE9FF7459FD5534F0608730F/574969.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 665,
+    "max_power": 735,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 488.448,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 122
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 122
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 171
+        }
+      ]
+    },
+    "suffix_item_id": 24581
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 4349,
+  "name": "Matchmaker, Matchmaker",
+  "description": "Sometimes the best weapon really is friendship.",
+  "requirement": "Start 15 successful conversations in a row between factions in the Chantry.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 2
+    },
+    {
+      "count": 15,
+      "points": 3
+    }
+  ]
+}

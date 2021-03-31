@@ -1,0 +1,48 @@
+{
+  "name": "Soldier\u0027s Stag Chausses",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 31250,
+  "default_skin": 470,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Norn"
+  ],
+  "id": 3795,
+  "chat_link": "[\u0026AgHTDgAA]",
+  "icon": "https://render.guildwars2.com/file/145916B8AF4620F152BFC3B69F175B5E957793CE/779847.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Heavy",
+    "defense": 214,
+    "infusion_slots": [],
+    "attribute_adjustment": 226.368,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 79
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 57
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 57
+        }
+      ]
+    }
+  }
+}

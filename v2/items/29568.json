@@ -1,0 +1,51 @@
+{
+  "name": "Crusader\u0027s Sword",
+  "type": "Weapon",
+  "level": 56,
+  "rarity": "Fine",
+  "vendor_value": 49,
+  "default_skin": 4618,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29568,
+  "chat_link": "[\u0026AgGAcwAA]",
+  "icon": "https://render.guildwars2.com/file/CEB917DC2A790F4DE406E7E81D6CC89362BF6598/67730.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 447,
+    "max_power": 494,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 154.176,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 39
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 39
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 54
+        }
+      ]
+    }
+  }
+}

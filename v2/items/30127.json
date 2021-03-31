@@ -1,0 +1,49 @@
+{
+  "name": "Flamebelch Sword",
+  "description": "\u003cc\u003d@flavor\u003e\"Fire fuels it.\"\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 33,
+  "rarity": "Masterwork",
+  "vendor_value": 66,
+  "default_skin": 5241,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30127,
+  "chat_link": "[\u0026AgGvdQAA]",
+  "icon": "https://render.guildwars2.com/file/562B6309B40701CE654E9E0C4C56C857B4A4022D/60983.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 300,
+    "max_power": 332,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 83.436,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 29
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 21
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

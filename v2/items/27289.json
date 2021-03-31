@@ -1,0 +1,49 @@
+{
+  "name": "Cleric\u0027s Soft Wood Focus of Smoldering",
+  "description": "",
+  "type": "Weapon",
+  "level": 69,
+  "rarity": "Rare",
+  "vendor_value": 174,
+  "default_skin": 3887,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27289,
+  "chat_link": "[\u0026AgGZagAA]",
+  "icon": "https://render.guildwars2.com/file/EF62B7FE5B45A1181C362E635301E1BAA8FDCC44/65104.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 611,
+    "max_power": 649,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 244.224,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 61
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 61
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 85
+        }
+      ]
+    },
+    "suffix_item_id": 24623
+  }
+}

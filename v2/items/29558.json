@@ -1,0 +1,53 @@
+{
+  "name": "Inka Staff",
+  "description": "\u003cc\u003d@flavor\u003e\"The very staff I modified in order to determine the mystic harmonics originating from the stones.\"\u003cbr\u003e—Scholar Inka\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 73,
+  "rarity": "Masterwork",
+  "vendor_value": 183,
+  "default_skin": 4067,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29558,
+  "chat_link": "[\u0026AgF2cwAA]",
+  "icon": "https://render.guildwars2.com/file/04BE267A42B12DB00F0162639702BDEFC90F4A5D/62880.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 720,
+    "max_power": 812,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 489.6,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 122
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 122
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 171
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

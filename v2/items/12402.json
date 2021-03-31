@@ -1,0 +1,27 @@
+{
+  "name": "Slice of Spiced Bread",
+  "type": "Consumable",
+  "level": 45,
+  "rarity": "Fine",
+  "vendor_value": 23,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell"
+  ],
+  "restrictions": [],
+  "id": 12402,
+  "chat_link": "[\u0026AgFyMAAA]",
+  "icon": "https://render.guildwars2.com/file/A132BA5FAD2850FDE03F02CE34AB0FB75295B742/339946.png",
+  "details": {
+    "type": "Food",
+    "duration_ms": 1800000,
+    "apply_count": 1,
+    "name": "Nourishment",
+    "icon": "https://render.guildwars2.com/file/779D3F0ABE5B46C09CFC57374DA8CC3A495F291C/436367.png",
+    "description": "-16% Incoming Damage while Stunned, Knocked Down, or Knocked Back\n-10% Incoming Condition Duration\n+10% Experience from Kills"
+  }
+}

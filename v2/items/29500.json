@@ -1,0 +1,49 @@
+{
+  "name": "Shelter Dagger",
+  "description": "\u003cc\u003d@flavor\u003e\"We forged this dagger from a local material with magical qualities, with surprising results.\"\u003cbr\u003e—Scholar Daphne\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 40,
+  "rarity": "Masterwork",
+  "vendor_value": 76,
+  "default_skin": 4009,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29500,
+  "chat_link": "[\u0026AgE8cwAA]",
+  "icon": "https://render.guildwars2.com/file/3254C66ED1675657E0B7C2FBBC09FBF2FBAA74A6/62762.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 357,
+    "max_power": 379,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 107.168,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 27
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 38
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Steelstar\u0027s Warfists",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of dwarven weaponsmith Frodak Steelstar.\u003c/c\u003e",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 240,
+  "default_skin": 116,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 89822,
+  "chat_link": "[\u0026AgHeXgEA]",
+  "icon": "https://render.guildwars2.com/file/BD20599D290345BE7D98BD270FBE502CF5212654/699217.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 191,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 134.442,
+    "infix_upgrade": {
+      "id": 1539,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 40
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 22
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 22
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 40
+        }
+      ]
+    }
+  }
+}

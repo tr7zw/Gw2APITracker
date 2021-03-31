@@ -1,0 +1,51 @@
+{
+  "name": "Shelter Helm",
+  "description": "\u003cc\u003d@flavor\u003e\"Cover your head. That\u0027s rule number one when all the other rules go out the window.\"\u003cbr\u003e—Scholar Blix\u003c/c\u003e",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 165,
+  "default_skin": 919,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4504,
+  "chat_link": "[\u0026AgGYEQAA]",
+  "icon": "https://render.guildwars2.com/file/4AEE36464FD5E6C0FDB50AB22D59994B665836D5/61283.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 100,
+    "infusion_slots": [],
+    "attribute_adjustment": 139.978,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 35
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 35
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 49
+        }
+      ]
+    },
+    "suffix_item_id": 24685
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": 4256,
+  "name": "[FTT 201–407] Practicum in Advanced Dynamics",
+  "description": "",
+  "requirement": "Tinker with turrets by building and upgrading them to discover new upgrades.",
+  "locked_text": "A basic understanding of field tech turret dynamics is required.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 88103
+    },
+    {
+      "type": "Item",
+      "id": 87995
+    },
+    {
+      "type": "Item",
+      "id": 87817
+    },
+    {
+      "type": "Item",
+      "id": 88070
+    },
+    {
+      "type": "Item",
+      "id": 87899
+    },
+    {
+      "type": "Item",
+      "id": 87848
+    },
+    {
+      "type": "Item",
+      "id": 87591
+    },
+    {
+      "type": "Item",
+      "id": 87707
+    },
+    {
+      "type": "Item",
+      "id": 87815
+    },
+    {
+      "type": "Item",
+      "id": 88091
+    },
+    {
+      "type": "Item",
+      "id": 87822
+    },
+    {
+      "type": "Item",
+      "id": 87999
+    },
+    {
+      "type": "Item",
+      "id": 87813
+    },
+    {
+      "type": "Item",
+      "id": 87722
+    },
+    {
+      "type": "Item",
+      "id": 87853
+    },
+    {
+      "type": "Item",
+      "id": 87965
+    },
+    {
+      "type": "Item",
+      "id": 87677
+    },
+    {
+      "type": "Item",
+      "id": 87903
+    },
+    {
+      "type": "Item",
+      "id": 87905
+    },
+    {
+      "type": "Item",
+      "id": 87781
+    },
+    {
+      "type": "Item",
+      "id": 87617
+    }
+  ],
+  "tiers": [
+    {
+      "count": 21,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    4216
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 433
+    }
+  ]
+}

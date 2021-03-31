@@ -1,0 +1,40 @@
+{
+  "name": "Ravaging Worn Chain Coat",
+  "description": "",
+  "type": "Armor",
+  "level": 27,
+  "rarity": "Fine",
+  "vendor_value": 42,
+  "default_skin": 21,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 1095,
+  "chat_link": "[\u0026AgFHBAAA]",
+  "icon": "https://render.guildwars2.com/file/41DE30110F45F035CEB206050CEC3F0A320AAA26/61043.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 77,
+    "infusion_slots": [],
+    "attribute_adjustment": 65.376,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 16
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 23
+        }
+      ]
+    }
+  }
+}

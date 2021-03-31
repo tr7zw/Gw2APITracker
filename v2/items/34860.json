@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Verdant Speargun of Energy",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Rare",
+  "vendor_value": 275,
+  "default_skin": 5062,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34860,
+  "chat_link": "[\u0026AgEsiAAA]",
+  "icon": "https://render.guildwars2.com/file/306DDE569E022504ECA75CE61401D6066BADBDC5/434898.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 725,
+    "max_power": 801,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 538.416,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 135
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 135
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 188
+        }
+      ]
+    },
+    "suffix_item_id": 24606
+  }
+}

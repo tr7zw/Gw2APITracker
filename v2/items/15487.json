@@ -1,0 +1,48 @@
+{
+  "name": "Cleric\u0027s Darksteel Hammer",
+  "description": "",
+  "type": "Weapon",
+  "level": 65,
+  "rarity": "Masterwork",
+  "vendor_value": 165,
+  "default_skin": 4087,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 15487,
+  "chat_link": "[\u0026AgF/PAAA]",
+  "icon": "https://render.guildwars2.com/file/2F4509F15B48B1A9F1579D08539F4109972A31A4/65162.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 622,
+    "max_power": 701,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 413.984,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 103
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 103
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 145
+        }
+      ]
+    }
+  }
+}

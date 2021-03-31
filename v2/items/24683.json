@@ -1,0 +1,56 @@
+{
+  "name": "Major Sigil of Sorrow",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003ePain\u003cbr\u003eDouble-click to apply to a weapon.",
+  "type": "UpgradeComponent",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 108,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix"
+  ],
+  "restrictions": [],
+  "id": 24683,
+  "chat_link": "[\u0026AgFrYAAA]",
+  "icon": "https://render.guildwars2.com/file/C65E2D6ADA0B99050BFC0F17DB0C1CA76AE3B5E1/340619.png",
+  "details": {
+    "type": "Sigil",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 329,
+      "buff": {
+        "skill_id": 9372,
+        "description": "+5% Damage vs. Dredge\n+2% Damage"
+      },
+      "attributes": []
+    },
+    "suffix": "of Sorrow"
+  }
+}

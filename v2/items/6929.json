@@ -1,0 +1,45 @@
+{
+  "name": "Vigorous Diviner Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Exotic",
+  "vendor_value": 188,
+  "default_skin": 2265,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6929,
+  "chat_link": "[\u0026AgERGwAA]",
+  "icon": "https://render.guildwars2.com/file/F9FB959F7A06500152D15BB328EDD96E5BF3FE72/61113.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 90,
+    "infusion_slots": [],
+    "attribute_adjustment": 85.59,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 30
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 21
+        }
+      ]
+    }
+  }
+}

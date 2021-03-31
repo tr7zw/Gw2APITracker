@@ -1,0 +1,46 @@
+{
+  "name": "Berserker\u0027s Noble Pants",
+  "description": "",
+  "type": "Armor",
+  "level": 65,
+  "rarity": "Rare",
+  "vendor_value": 231,
+  "default_skin": 221,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 12020,
+  "chat_link": "[\u0026AgH0LgAA]",
+  "icon": "https://render.guildwars2.com/file/FD9AC895AEEAEFE5BD92335E76465F3EA375CCB7/61444.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Medium",
+    "defense": 144,
+    "infusion_slots": [],
+    "attribute_adjustment": 168.102,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 59
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 42
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 42
+        }
+      ]
+    }
+  }
+}

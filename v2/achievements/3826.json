@@ -1,0 +1,51 @@
+{
+  "id": 3826,
+  "name": "Frequent Forgotten Teleporter",
+  "description": "Forgotten teleporters have been in the Crystal Desert for centuries, aiding adventurers\u0027 travel across gaps and steep terrain.",
+  "requirement": "Successfully use all the functioning Forgotten teleporters in the Elon Riverlands.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Augury Rock"
+    },
+    {
+      "type": "Text",
+      "text": "Ustulate Barrens Southbound"
+    },
+    {
+      "type": "Text",
+      "text": "Ustulate Barrens Northbound"
+    },
+    {
+      "type": "Text",
+      "text": "Vulture Drifts Westbound"
+    },
+    {
+      "type": "Text",
+      "text": "Vulture Drifts Eastbound"
+    },
+    {
+      "type": "Text",
+      "text": "Whispering Grottos"
+    },
+    {
+      "type": "Text",
+      "text": "The Quickmire"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 2
+    }
+  ]
+}

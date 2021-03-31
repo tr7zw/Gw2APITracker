@@ -1,0 +1,28 @@
+{
+  "id": 4268,
+  "name": "[FTT 405] Advanced Dynamics—Boon Wave 4",
+  "description": "",
+  "requirement": "Applied / Boon Wave Level 3 Upgrades",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 6,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    4215
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 87905,
+      "count": 1
+    }
+  ]
+}

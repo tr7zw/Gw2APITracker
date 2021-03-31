@@ -1,0 +1,47 @@
+{
+  "name": "Queldip Leather Gloves",
+  "description": "\u003cc\u003d@flavor\u003e\"Quaggan made a five-finger glove just for you.\"\u003cbr\u003e—Queldip\u003c/c\u003e",
+  "type": "Armor",
+  "level": 36,
+  "rarity": "Masterwork",
+  "vendor_value": 63,
+  "default_skin": 908,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4069,
+  "chat_link": "[\u0026AgHlDwAA]",
+  "icon": "https://render.guildwars2.com/file/CC4C6AF2CD591F48C0655460F657EE52CA4A6CBA/61040.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 48,
+    "infusion_slots": [],
+    "attribute_adjustment": 34.9095,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 12
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 9
+        }
+      ]
+    },
+    "suffix_item_id": 24727
+  }
+}

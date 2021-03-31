@@ -1,0 +1,45 @@
+{
+  "name": "Poison Tip Strike",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 150
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 1.33
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+      "duration": 6,
+      "status": "Poisoned",
+      "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+      "apply_count": 1
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 3
+    }
+  ],
+  "description": "Poison your foe with a final attack.",
+  "icon": "https://render.guildwars2.com/file/7AEFC201DFF2EB3FA34B26DA0B79D0ACBC517DA5/104087.png",
+  "type": "Weapon",
+  "weapon_type": "Spear",
+  "professions": [
+    "Thief"
+  ],
+  "slot": "Weapon_1",
+  "prev_chain": 13120,
+  "flags": [],
+  "id": 13121,
+  "chat_link": "[\u0026BkEzAAA\u003d]"
+}

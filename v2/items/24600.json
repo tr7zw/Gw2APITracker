@@ -1,0 +1,54 @@
+{
+  "name": "Superior Sigil of Vision",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eEnhancement\u003cbr\u003eDouble-click to apply to a weapon.",
+  "type": "UpgradeComponent",
+  "level": 60,
+  "rarity": "Exotic",
+  "vendor_value": 216,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24600,
+  "chat_link": "[\u0026AgEYYAAA]",
+  "icon": "https://render.guildwars2.com/file/1F41DBAFFA5979D7496F2BB9E4D9AE0F2FA4F940/220685.png",
+  "details": {
+    "type": "Sigil",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 243,
+      "buff": {
+        "skill_id": 53276,
+        "description": "Critically strike an enemy for 3 seconds after swapping to this weapon in combat. \u003cc\u003d@reminder\u003e(Cooldown: 9 Seconds)\u003c/c\u003e"
+      },
+      "attributes": []
+    },
+    "suffix": "of Vision"
+  }
+}

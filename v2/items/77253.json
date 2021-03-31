@@ -1,0 +1,45 @@
+{
+  "name": "Draithor\u0027s Reaping Crystal",
+  "description": "Used by Draithor the Drill in Kessex Hills in his necromantic experiments.",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 330,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 77253,
+  "chat_link": "[\u0026AgHFLQEA]",
+  "icon": "https://render.guildwars2.com/file/5A6B60DB61C60002F7197871234DA0B9F9AB2A6D/220954.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 213.4,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 53
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 53
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 75
+        }
+      ]
+    }
+  }
+}

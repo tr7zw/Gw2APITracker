@@ -1,0 +1,48 @@
+{
+  "name": "Berserker\u0027s Ogre Bulwark",
+  "description": "",
+  "type": "Weapon",
+  "level": 65,
+  "rarity": "Rare",
+  "vendor_value": 165,
+  "default_skin": 4068,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 15683,
+  "chat_link": "[\u0026AgFDPQAA]",
+  "icon": "https://render.guildwars2.com/file/CA4D681FD277B0C2D54AF2A96B0EE00E3C6049CB/68707.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 549,
+    "max_power": 620,
+    "defense": 40,
+    "infusion_slots": [],
+    "attribute_adjustment": 224.136,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 78
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 56
+        }
+      ]
+    }
+  }
+}

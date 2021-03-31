@@ -1,0 +1,42 @@
+{
+  "id": 14,
+  "name": "Raptor Mount",
+  "requirement": "Complete the Seeker\u0027s Village task region in Oasis to unlock the Raptor Mastery Track.",
+  "order": 1,
+  "background": "https://render.guildwars2.com/file/23050D7A5B71477A0201FB1EAFC84A0645E7B772/1770237.png",
+  "region": "Desert",
+  "levels": [
+    {
+      "name": "Ravenous Strike",
+      "description": "Understand the true ravenous nature of the raptor, greatly increasing the damage of Tail Spin.",
+      "instruction": "Tail Spin now deals greatly increased damage to foes.",
+      "icon": "https://render.guildwars2.com/file/37ECAA1A2B9A60FC63C59C99A6D0E7F418FA3839/1770184.png",
+      "point_cost": 1,
+      "exp_cost": 291846
+    },
+    {
+      "name": "Round up",
+      "description": "Learn to round up foes when using Tail Spin, pulling them in to your location.",
+      "instruction": "Tail Spin now pulls in foes to your location, grouping them up for combat.",
+      "icon": "https://render.guildwars2.com/file/DD07AF0FEECE67AD112E45EB4E6366454216B966/1770197.png",
+      "point_cost": 2,
+      "exp_cost": 261366
+    },
+    {
+      "name": "Canyon Jumping",
+      "description": "Learn to leap much farther with the raptor\u0027s movement ability, allowing you to traverse even more rough terrain.",
+      "instruction": "The leap movement ability will now travel much farther distances.",
+      "icon": "https://render.guildwars2.com/file/AF269F5D52B2B13A3CF76B800590C64940DA542D/1770198.png",
+      "point_cost": 3,
+      "exp_cost": 368808
+    },
+    {
+      "name": "Ravenous Discipline",
+      "description": "Master the raptor mount and learn to share the bonus from Ravenous Strike to all mount engage skills.",
+      "instruction": "All mounts now receive the bonus from Ravenous Strike, increasing their engage skill damage.",
+      "icon": "https://render.guildwars2.com/file/DAB770DEE1E0BCA673CF2D1DD2F69CAD0CD4469C/1770199.png",
+      "point_cost": 4,
+      "exp_cost": 1697354
+    }
+  ]
+}

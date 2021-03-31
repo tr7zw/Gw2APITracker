@@ -1,0 +1,53 @@
+{
+  "name": "Illuminated Boreal Scepter",
+  "description": "An Illuminated Boreal weapon, crafted using materials found in Bjora Marches.",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 9150,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92718,
+  "chat_link": "[\u0026AgEuagEA]",
+  "icon": "https://render.guildwars2.com/file/1893AC190132DBE801A0CBB7AC31419266740696/2247658.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Choking",
+    "min_power": 895,
+    "max_power": 1010,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1539,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 102
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 56
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 102
+        }
+      ]
+    }
+  }
+}

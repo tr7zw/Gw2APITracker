@@ -1,0 +1,44 @@
+{
+  "name": "Berserker\u0027s Ring",
+  "description": "",
+  "type": "Trinket",
+  "level": 74,
+  "rarity": "Masterwork",
+  "vendor_value": 183,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23234,
+  "chat_link": "[\u0026AgHCWgAA]",
+  "icon": "https://render.guildwars2.com/file/0A402568104F5BE5BC644665653302005F6266CF/66800.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [],
+    "attribute_adjustment": 187.17,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 66
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 47
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 47
+        }
+      ]
+    }
+  }
+}

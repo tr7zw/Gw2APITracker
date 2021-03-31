@@ -1,0 +1,29 @@
+{
+  "id": 4999,
+  "name": "Mercy of the Mad King",
+  "description": "Opening a thousand bags and expecting different contents may be madness, but after all, this is a realm of chaos.",
+  "requirement": "Open  Trick or Treat bag.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 50,
+      "points": 1
+    },
+    {
+      "count": 1000,
+      "points": 4
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 92128,
+      "count": 1
+    }
+  ]
+}

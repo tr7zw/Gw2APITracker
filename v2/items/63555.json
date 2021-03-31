@@ -1,0 +1,43 @@
+{
+  "name": "Mending Helm",
+  "description": "",
+  "type": "Armor",
+  "level": 30,
+  "rarity": "Masterwork",
+  "vendor_value": 78,
+  "default_skin": 942,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 63555,
+  "chat_link": "[\u0026AgFD+AAA]",
+  "icon": "https://render.guildwars2.com/file/FE3C7565CA1194E0DF3A0154AD5F23AAF6B6264C/61226.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 31,
+    "infusion_slots": [],
+    "attribute_adjustment": 37.06,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 9
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 13
+        }
+      ]
+    }
+  }
+}

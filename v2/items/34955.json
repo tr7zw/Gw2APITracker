@@ -1,0 +1,47 @@
+{
+  "name": "Vigorous Bandit Spire",
+  "description": "",
+  "type": "Weapon",
+  "level": 45,
+  "rarity": "Fine",
+  "vendor_value": 260,
+  "default_skin": 4077,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34955,
+  "chat_link": "[\u0026AgGLiAAA]",
+  "icon": "https://render.guildwars2.com/file/6426AC91389A582D7A0F02F641DDDAD6F8F87F4F/66497.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 388,
+    "max_power": 437,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 228.096,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 80
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 57
+        }
+      ]
+    }
+  }
+}

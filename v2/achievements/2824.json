@@ -1,0 +1,24 @@
+{
+  "id": 2824,
+  "name": "Salvation Pass Mastery",
+  "description": "",
+  "requirement": "Channel the Maguuma Mastery Insight to earn a Mastery point.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 281
+    }
+  ]
+}

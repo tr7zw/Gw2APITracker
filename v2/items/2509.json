@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Cabalist Hood of Rata Sum",
+  "description": "",
+  "type": "Armor",
+  "level": 40,
+  "rarity": "Rare",
+  "vendor_value": 143,
+  "default_skin": 103,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 2509,
+  "chat_link": "[\u0026AgHNCQAA]",
+  "icon": "https://render.guildwars2.com/file/16E5686EC33001A0D77FF5D4320EFBCA39130826/61411.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 27,
+    "infusion_slots": [],
+    "attribute_adjustment": 58.572,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 15
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 21
+        }
+      ]
+    },
+    "suffix_item_id": 24725
+  }
+}

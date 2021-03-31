@@ -1,0 +1,39 @@
+{
+  "id": 5116,
+  "icon": "https://render.guildwars2.com/file/4B6BDF0614656A310E5041F454AA0AE40B26B709/2248191.png",
+  "name": "Drakkar, the Ice Dragon\u0027s Champion",
+  "description": "",
+  "requirement": "Complete all  Drakkar achievements.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 2
+    },
+    {
+      "count": 7,
+      "points": 3
+    },
+    {
+      "count": 8,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 354
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Caretaker\u0027s Jacket",
+  "type": "Armor",
+  "level": 40,
+  "rarity": "Masterwork",
+  "vendor_value": 114,
+  "default_skin": 1704,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 63667,
+  "chat_link": "[\u0026AgGz+AAA]",
+  "icon": "https://render.guildwars2.com/file/B893F12F7D027030D1AE677FF54503950FBD0CF9/61120.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 115,
+    "infusion_slots": [],
+    "attribute_adjustment": 120.564,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 30
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 42
+        }
+      ]
+    }
+  }
+}

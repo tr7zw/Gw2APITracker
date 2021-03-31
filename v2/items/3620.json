@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Prototype Leggings",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 31250,
+  "default_skin": 307,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Asura"
+  ],
+  "id": 3620,
+  "chat_link": "[\u0026AgEkDgAA]",
+  "icon": "https://render.guildwars2.com/file/0134FF1506F893DFAC1522C74C477C5C713D5CC2/779800.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Medium",
+    "defense": 193,
+    "infusion_slots": [],
+    "attribute_adjustment": 226.368,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 57
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 57
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 79
+        }
+      ]
+    }
+  }
+}

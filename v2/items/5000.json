@@ -1,0 +1,51 @@
+{
+  "name": "Bard\u0027s Valley Metal Leggings",
+  "description": "\u003cc\u003d@flavor\u003e\"Until we\u0027re able to get through the Nightmare Court, we have extra supplies.\"\u003cbr\u003e—Explorer Pentt\u003c/c\u003e",
+  "type": "Armor",
+  "level": 61,
+  "rarity": "Masterwork",
+  "vendor_value": 146,
+  "default_skin": 865,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 5000,
+  "chat_link": "[\u0026AgGIEwAA]",
+  "icon": "https://render.guildwars2.com/file/B7716C05AC01EF2F74BABF06EB44E83EAF1D90B8/61560.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Heavy",
+    "defense": 136,
+    "infusion_slots": [],
+    "attribute_adjustment": 142.29,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 50
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 36
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 36
+        }
+      ]
+    },
+    "suffix_item_id": 24724
+  }
+}

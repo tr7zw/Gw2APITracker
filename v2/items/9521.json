@@ -1,0 +1,28 @@
+{
+  "name": "Recipe: Water Filter",
+  "description": "A recipe to make an underwater helm.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 18,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9521,
+  "chat_link": "[\u0026AgExJQAA]",
+  "icon": "https://render.guildwars2.com/file/F2610D0B40FFC13C7A991DF4B10E1DF80A61B35D/849367.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 253
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 3614,
+  "name": "Junkyard Weaponsmith",
+  "description": "You\u0027re more resourceful than most.",
+  "requirement": "Combine objects to create makeshift weapons for the unarmed villagers of Zephyr\u0027s Trace, in Destiny\u0027s Gorge.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Makeshift Bow"
+    },
+    {
+      "type": "Text",
+      "text": "Makeshift Hammer"
+    },
+    {
+      "type": "Text",
+      "text": "Makeshift Shield"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 1
+    }
+  ]
+}

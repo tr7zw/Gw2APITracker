@@ -1,0 +1,52 @@
+{
+  "name": "Experimental Collection Staff",
+  "description": "\u003cc\u003d@flavor\u003e\"You\u0027d be surprised at the amount of information this staff can collect.\"\u003cbr\u003e—Seesa\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 55,
+  "rarity": "Fine",
+  "vendor_value": 72,
+  "default_skin": 4067,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29433,
+  "chat_link": "[\u0026AgH5cgAA]",
+  "icon": "https://render.guildwars2.com/file/04BE267A42B12DB00F0162639702BDEFC90F4A5D/62880.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 477,
+    "max_power": 538,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 300.928,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 75
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 75
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 105
+        }
+      ]
+    }
+  }
+}

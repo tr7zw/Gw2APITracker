@@ -1,0 +1,50 @@
+{
+  "name": "Vigil\u0027s Honor Helmet",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 1900,
+  "default_skin": 1398,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 5317,
+  "chat_link": "[\u0026AgHFFAAA]",
+  "icon": "https://render.guildwars2.com/file/C614DEFDE393F10AFF0A5169FB9742A8F4940C10/61319.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 107,
+    "infusion_slots": [],
+    "attribute_adjustment": 150.912,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 53
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 38
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 38
+        }
+      ]
+    }
+  }
+}

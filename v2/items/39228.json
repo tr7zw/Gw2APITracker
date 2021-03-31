@@ -1,0 +1,57 @@
+{
+  "name": "Halfmad\u0027s Mug",
+  "description": "\u003cc\u003d@flavor\u003eClaimed to be the property of Brothander Halfmad, creator of Bear\u0027s Brown Ale, and the first norn to bring the art of brewing to his people.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 413,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 39228,
+  "chat_link": "[\u0026AgE8mQAA]",
+  "icon": "https://render.guildwars2.com/file/42C15B580C17CC0CDE51002DE7261771DD2D4ED6/543875.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 224.07,
+    "infix_upgrade": {
+      "id": 583,
+      "buff": {
+        "skill_id": 15743,
+        "description": "+32 Toughness\n+18 Power\n+18 Ferocity"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 74
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 110
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 74
+        }
+      ]
+    }
+  }
+}

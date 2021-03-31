@@ -1,0 +1,39 @@
+{
+  "name": "Hare Totem",
+  "description": "\u003cc\u003d@flavor\u003e\"Bunny watches us, too.\"\u003cbr\u003e—Bjarni\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 6,
+  "rarity": "Fine",
+  "vendor_value": 14,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23334,
+  "chat_link": "[\u0026AgEmWwAA]",
+  "icon": "https://render.guildwars2.com/file/FC652099E73BB298DA24FB644E050D3EFBC1592D/220905.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 10.32,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

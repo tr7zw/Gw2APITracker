@@ -1,0 +1,45 @@
+{
+  "name": "Penetrating Jacket",
+  "description": "",
+  "type": "Armor",
+  "level": 57,
+  "rarity": "Masterwork",
+  "vendor_value": 147,
+  "default_skin": 189,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6457,
+  "chat_link": "[\u0026AgE5GQAA]",
+  "icon": "https://render.guildwars2.com/file/1EF1E421FD910AE990627AAE417872D1E5B85F4A/61617.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 174,
+    "infusion_slots": [],
+    "attribute_adjustment": 194.004,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 68
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 49
+        }
+      ]
+    },
+    "suffix_item_id": 24704
+  }
+}

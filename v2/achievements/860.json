@@ -1,0 +1,39 @@
+{
+  "id": 860,
+  "name": "Woodpecker",
+  "description": "Take down the kingpin.",
+  "requirement": "Destroy all tree stumps in World 2 Tribulation Mode.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Zone 01"
+    },
+    {
+      "type": "Text",
+      "text": "Zone 02"
+    },
+    {
+      "type": "Text",
+      "text": "Zone 03"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    },
+    {
+      "count": 2,
+      "points": 10
+    },
+    {
+      "count": 3,
+      "points": 10
+    }
+  ]
+}

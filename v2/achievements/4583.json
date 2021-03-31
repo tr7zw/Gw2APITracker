@@ -1,0 +1,39 @@
+{
+  "id": 4583,
+  "name": "Chasing Tales: Cry Havoc",
+  "description": "\"I hate that guy. But I LOVE that song.\"",
+  "requirement": "Defeat 30 enemies while wielding a warhorn in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Codd the Cheerful."
+    },
+    {
+      "type": "Text",
+      "text": "Defeated 30 enemies with a warhorn in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89687,
+      "count": 1
+    }
+  ]
+}

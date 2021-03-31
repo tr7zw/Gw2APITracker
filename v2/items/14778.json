@@ -1,0 +1,44 @@
+{
+  "name": "Rejuvenating Bandit Torch",
+  "description": "",
+  "type": "Weapon",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 102,
+  "default_skin": 3894,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 14778,
+  "chat_link": "[\u0026AgG6OQAA]",
+  "icon": "https://render.guildwars2.com/file/0DBB98F2690B1A744E49CAD4E5BE940D661299B1/63131.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 296,
+    "max_power": 347,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 98.568,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 25
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 34
+        }
+      ]
+    }
+  }
+}

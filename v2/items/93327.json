@@ -1,0 +1,27 @@
+{
+  "name": "Infernal Dye",
+  "description": "Double-click to unlock this dye color for all characters.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "DeleteWarning"
+  ],
+  "restrictions": [],
+  "id": 93327,
+  "chat_link": "[\u0026AgGPbAEA]",
+  "icon": "https://render.guildwars2.com/file/42A77551254DA56CB8B9806636B597316806D0A9/2281916.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "Dye",
+    "color_id": -1
+  }
+}

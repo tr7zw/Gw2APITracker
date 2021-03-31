@@ -1,0 +1,48 @@
+{
+  "name": "Knight\u0027s Hard Wood Short Bow",
+  "description": "",
+  "type": "Weapon",
+  "level": 65,
+  "rarity": "Masterwork",
+  "vendor_value": 165,
+  "default_skin": 3990,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 14484,
+  "chat_link": "[\u0026AgGUOAAA]",
+  "icon": "https://render.guildwars2.com/file/0EFDC626FD430DA00CD9240C95EC6DF0500DB45E/67068.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 571,
+    "max_power": 631,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 413.984,
+    "infix_upgrade": {
+      "id": 158,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 103
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 103
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 145
+        }
+      ]
+    }
+  }
+}

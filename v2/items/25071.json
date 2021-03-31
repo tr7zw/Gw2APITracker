@@ -1,0 +1,44 @@
+{
+  "name": "Mending Norn Focus of Earth",
+  "type": "Weapon",
+  "level": 53,
+  "rarity": "Rare",
+  "vendor_value": 141,
+  "default_skin": 5138,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25071,
+  "chat_link": "[\u0026AgHvYQAA]",
+  "icon": "https://render.guildwars2.com/file/7D6BF242BBB41774BF2DDC17BE0447C4C101D22A/575169.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 453,
+    "max_power": 481,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 169.272,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 42
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 59
+        }
+      ]
+    },
+    "suffix_item_id": 24559
+  }
+}

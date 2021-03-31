@@ -1,0 +1,57 @@
+{
+  "id": 2166,
+  "tier": 1,
+  "order": 0,
+  "name": "Ashen Demeanor",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 3
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/4DDE151C71EDB6120E3454036C4C3504EADB02D8/1770161.png",
+      "duration": 8,
+      "status": "Kalla\u0027s Fervor",
+      "description": "Kalla\u0027s legend inspires you, increasing your critical strike and condition damage; stacks intensity.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+      "duration": 6,
+      "status": "Vulnerability",
+      "description": "Damage and condition damage taken are increased; stacks intensity.",
+      "apply_count": 5
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+      "duration": 3,
+      "status": "Crippled",
+      "description": "Movement speed decreased by 50%; stacks duration.",
+      "apply_count": 1
+    }
+  ],
+  "traited_facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/4DDE151C71EDB6120E3454036C4C3504EADB02D8/1770161.png",
+      "duration": 12,
+      "status": "Improved Kalla\u0027s Fervor",
+      "description": "Kalla\u0027s legend inspires you, increasing your critical strike damage and condition damage; stacks intensity.",
+      "apply_count": 1,
+      "requires_trait": 2100,
+      "overrides": 1
+    }
+  ],
+  "specialization": 63,
+  "icon": "https://render.guildwars2.com/file/F0F4A37B01F0916F2BB8081203E3F47A25DEDEE3/1769988.png"
+}

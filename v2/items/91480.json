@@ -1,0 +1,60 @@
+{
+  "name": "Superior Sigil of Doom",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003ePain\u003cbr\u003eDouble-click to apply to a weapon.",
+  "type": "UpgradeComponent",
+  "level": 60,
+  "rarity": "Legendary",
+  "vendor_value": 540,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse",
+    "DeleteWarning"
+  ],
+  "restrictions": [],
+  "id": 91480,
+  "chat_link": "[\u0026AgFYZQEA]",
+  "icon": "https://render.guildwars2.com/file/2DDB0E173860AD433DF6D8AF412FDAFB9BCC4FB9/2179569.png",
+  "details": {
+    "type": "Sigil",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 255,
+      "buff": {
+        "skill_id": 9442,
+        "description": "Your next attack will inflict 3 stacks of poison for 8 seconds after swapping to this weapon in combat. \u003cbr\u003e\u003cc\u003d@reminder\u003e(Cooldown: 9 Seconds)\u003c/c\u003e"
+      },
+      "attributes": []
+    },
+    "suffix": "of Doom"
+  }
+}

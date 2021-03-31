@@ -1,0 +1,44 @@
+{
+  "name": "Honed Warband Hauberk",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 1000,
+  "default_skin": 328,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "id": 3533,
+  "chat_link": "[\u0026AgHNDQAA]",
+  "icon": "https://render.guildwars2.com/file/44AB230963079CBEE45F44AFBC6F6A6ABB0A383D/455468.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 117,
+    "infusion_slots": [],
+    "attribute_adjustment": 110.889,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 39
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 28
+        }
+      ]
+    }
+  }
+}

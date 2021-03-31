@@ -1,0 +1,46 @@
+{
+  "name": "Valkyrie Rascal Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 65,
+  "rarity": "Masterwork",
+  "vendor_value": 67,
+  "default_skin": 254,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 11815,
+  "chat_link": "[\u0026AgEnLgAA]",
+  "icon": "https://render.guildwars2.com/file/46F997FD34A2C24D5E13BBA9AB494349D3A52CE9/61456.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 96,
+    "infusion_slots": [],
+    "attribute_adjustment": 77.622,
+    "infix_upgrade": {
+      "id": 157,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 27
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 19
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 19
+        }
+      ]
+    }
+  }
+}

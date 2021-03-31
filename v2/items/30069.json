@@ -1,0 +1,49 @@
+{
+  "name": "Magister\u0027s Scepter",
+  "description": "\u003cc\u003d@flavor\u003e\"We magisters tend to get the better equipment. You helped us with the Flame Legion, ghosts, and research. I owe you something.\"\u003cbr\u003e—Magister Razermane\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 54,
+  "rarity": "Masterwork",
+  "vendor_value": 94,
+  "default_skin": 5210,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30069,
+  "chat_link": "[\u0026AgF1dQAA]",
+  "icon": "https://render.guildwars2.com/file/1C43079DB206A592B3170B7C09C0AEA956BEB772/68156.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 461,
+    "max_power": 519,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 159.868,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 56
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 40
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

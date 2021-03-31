@@ -1,0 +1,42 @@
+{
+  "name": "Orchid Epaulets",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [
+    "Sylvari"
+  ],
+  "rarity": "Basic",
+  "id": 501,
+  "icon": "https://render.guildwars2.com/file/340B7EEF311532476A55379B10DD512011A3127F/779810.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "dye_slots": {
+      "default": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "overrides": {
+        "SylvariMale": [
+          null,
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          }
+        ]
+      }
+    }
+  }
+}

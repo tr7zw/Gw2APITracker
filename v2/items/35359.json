@@ -1,0 +1,47 @@
+{
+  "name": "Vigorous Bandit Cleaver",
+  "description": "",
+  "type": "Weapon",
+  "level": 25,
+  "rarity": "Masterwork",
+  "vendor_value": 367,
+  "default_skin": 3986,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 35359,
+  "chat_link": "[\u0026AgEfigAA]",
+  "icon": "https://render.guildwars2.com/file/B13970797CB3ED515913ECC855EC697AC30D4EF1/66723.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 235,
+    "max_power": 288,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 58.412,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 20
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 15
+        }
+      ]
+    }
+  }
+}

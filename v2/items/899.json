@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Cabalist Boots of Rata Sum",
+  "description": "",
+  "type": "Armor",
+  "level": 53,
+  "rarity": "Masterwork",
+  "vendor_value": 94,
+  "default_skin": 78,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 899,
+  "chat_link": "[\u0026AgGDAwAA]",
+  "icon": "https://render.guildwars2.com/file/D83BD57C170413EC3E5C9CF612CEDE22A606ABDE/61036.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 63,
+    "infusion_slots": [],
+    "attribute_adjustment": 58.4715,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 15
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 20
+        }
+      ]
+    },
+    "suffix_item_id": 24724
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Vital Embroidered Mask",
+  "type": "Armor",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 60,
+  "default_skin": 170,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 11051,
+  "chat_link": "[\u0026AgErKwAA]",
+  "icon": "https://render.guildwars2.com/file/9C4E6FE93C032374AD0E90085B23193F9F4860E0/218928.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 14,
+    "infusion_slots": [],
+    "attribute_adjustment": 23.494,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

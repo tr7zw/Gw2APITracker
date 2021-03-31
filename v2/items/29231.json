@@ -1,0 +1,52 @@
+{
+  "name": "Modniir Harpoon Gun",
+  "description": "",
+  "type": "Weapon",
+  "level": 43,
+  "rarity": "Fine",
+  "vendor_value": 60,
+  "default_skin": 4631,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29231,
+  "chat_link": "[\u0026AgEvcgAA]",
+  "icon": "https://render.guildwars2.com/file/035FED1764051137E6F002EB50EE21376EEF7F52/63642.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 342,
+    "max_power": 378,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 214.912,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 75
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 54
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 54
+        }
+      ]
+    }
+  }
+}

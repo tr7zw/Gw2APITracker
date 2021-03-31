@@ -1,0 +1,77 @@
+{
+  "name": "Wupwup Short Bow",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of the ancient Wupwup grawl tribe.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 10000,
+  "default_skin": 4157,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 47018,
+  "chat_link": "[\u0026AgGqtwAA]",
+  "icon": "https://render.guildwars2.com/file/051EBCEBE5A6D00B19DCC167ACE26399CEB79644/632365.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 950,
+    "max_power": 1050,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      },
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 717.024,
+    "infix_upgrade": {
+      "id": 559,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 118
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 118
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 118
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 118
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 118
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 118
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 118
+        }
+      ]
+    }
+  }
+}

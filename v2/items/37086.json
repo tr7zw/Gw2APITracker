@@ -1,0 +1,67 @@
+{
+  "name": "Ring of Red Death",
+  "description": "",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 495,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 37086,
+  "chat_link": "[\u0026AgHekAAA]",
+  "icon": "https://render.guildwars2.com/file/B155B37AD048CA9054F749043C3E4E99973DF8DF/511826.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 268.884,
+    "infix_upgrade": {
+      "id": 584,
+      "buff": {
+        "skill_id": 15742,
+        "description": "+32 Power\n+18 Ferocity\n+18 Precision"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 126
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 85
+        }
+      ]
+    }
+  },
+  "upgrades_into": [
+    {
+      "upgrade": "Infusion",
+      "item_id": 49403
+    },
+    {
+      "upgrade": "Attunement",
+      "item_id": 75187
+    }
+  ]
+}

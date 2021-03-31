@@ -1,0 +1,52 @@
+{
+  "name": "The Hunter",
+  "description": "\u003cc\u003d@flavor\u003eThis weapon is used to craft the legendary rifle The Predator\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 6514,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "DeleteWarning",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29175,
+  "chat_link": "[\u0026AgH3cQAA]",
+  "icon": "https://render.guildwars2.com/file/381F0719363580D4172E2A0BDEA978E1F0059D2A/1205943.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 986,
+    "max_power": 1205,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 239
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 171
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 171
+        }
+      ]
+    },
+    "suffix_item_id": 24561
+  }
+}

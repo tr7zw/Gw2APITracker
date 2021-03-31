@@ -1,0 +1,31 @@
+{
+  "name": "Floral Glider",
+  "description": "This will unlock the glider skin in your account wardrobe.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 78790,
+  "chat_link": "[\u0026AgHGMwEA]",
+  "icon": "https://render.guildwars2.com/file/F610ECB706CE49DAE3322D0023929BCA37AAD961/1444475.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "GliderSkin"
+  }
+}

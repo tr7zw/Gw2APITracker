@@ -1,0 +1,43 @@
+{
+  "name": "Penetrating Cabalist Boots",
+  "type": "Armor",
+  "level": 45,
+  "rarity": "Rare",
+  "vendor_value": 123,
+  "default_skin": 78,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 17080,
+  "chat_link": "[\u0026AgG4QgAA]",
+  "icon": "https://render.guildwars2.com/file/D83BD57C170413EC3E5C9CF612CEDE22A606ABDE/61036.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 56,
+    "infusion_slots": [],
+    "attribute_adjustment": 51.057,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 18
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 13
+        }
+      ]
+    }
+  }
+}

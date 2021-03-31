@@ -1,0 +1,49 @@
+{
+  "name": "Black Earth Speargun",
+  "description": "\u003cc\u003d@flavor\u003e\"The Priory sent us this shipment of underwater weapons. Must have been a mix-up somewhere.\"\u003cbr\u003e—Magister Roslin\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 48,
+  "rarity": "Masterwork",
+  "vendor_value": 129,
+  "default_skin": 5091,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29528,
+  "chat_link": "[\u0026AgFYcwAA]",
+  "icon": "https://render.guildwars2.com/file/935CD7A5037BB9F3C46E0D770D2DD9730ED74A18/62495.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 412,
+    "max_power": 456,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 272.816,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 68
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 95
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

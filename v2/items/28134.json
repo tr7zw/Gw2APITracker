@@ -1,0 +1,45 @@
+{
+  "name": "Strong Iron Rifle of Grawl Slaying",
+  "description": "",
+  "type": "Weapon",
+  "level": 56,
+  "rarity": "Masterwork",
+  "vendor_value": 147,
+  "default_skin": 4092,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28134,
+  "chat_link": "[\u0026AgHmbQAA]",
+  "icon": "https://render.guildwars2.com/file/167018D742BBF5120BE4ACE80DE5B049089D20F2/62700.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 527,
+    "max_power": 645,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 336.192,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 118
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 84
+        }
+      ]
+    },
+    "suffix_item_id": 24646
+  }
+}

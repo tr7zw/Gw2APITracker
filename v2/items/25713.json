@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Norn Warhorn of Corruption",
+  "type": "Weapon",
+  "level": 67,
+  "rarity": "Rare",
+  "vendor_value": 168,
+  "default_skin": 5078,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25713,
+  "chat_link": "[\u0026AgFxZAAA]",
+  "icon": "https://render.guildwars2.com/file/9280CB67345DF242A7ECA59D7E27D690157F0FEA/575183.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 577,
+    "max_power": 638,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 234.216,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 82
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 59
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 59
+        }
+      ]
+    },
+    "suffix_item_id": 24577
+  }
+}

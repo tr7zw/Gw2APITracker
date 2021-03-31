@@ -1,0 +1,42 @@
+{
+  "name": "Arctodus Tooth Amulet",
+  "description": "",
+  "type": "Trinket",
+  "level": 47,
+  "rarity": "Masterwork",
+  "vendor_value": 168,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23411,
+  "chat_link": "[\u0026AgFzWwAA]",
+  "icon": "https://render.guildwars2.com/file/201607919EC5C8670DE04FD6049B0F08BB2F6EAC/434519.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 132.464,
+    "infix_upgrade": {
+      "id": 148,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 46
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 33
+        }
+      ]
+    }
+  }
+}

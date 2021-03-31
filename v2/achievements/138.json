@@ -1,0 +1,57 @@
+{
+  "id": 138,
+  "name": "Master Crafter",
+  "description": "Everything\u0027s for sale—for a price.",
+  "requirement": "Master  crafting disciplines.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Armorsmith"
+    },
+    {
+      "type": "Text",
+      "text": "Tailor"
+    },
+    {
+      "type": "Text",
+      "text": "Leatherworker"
+    },
+    {
+      "type": "Text",
+      "text": "Jeweler"
+    },
+    {
+      "type": "Text",
+      "text": "Cook"
+    },
+    {
+      "type": "Text",
+      "text": "Weaponsmith"
+    },
+    {
+      "type": "Text",
+      "text": "Huntsman"
+    },
+    {
+      "type": "Text",
+      "text": "Artificer"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 8,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 11
+    }
+  ]
+}

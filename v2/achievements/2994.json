@@ -1,0 +1,42 @@
+{
+  "id": 2994,
+  "name": "Ley-Line Cartography",
+  "description": "",
+  "requirement": "Prevent dragon minions from absorbing the ley-line magic that has accumulated across Tyria.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Blazeridge Steppes"
+    },
+    {
+      "type": "Text",
+      "text": "Snowden Drifts"
+    },
+    {
+      "type": "Text",
+      "text": "Mount Maelstrom"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 78742,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Boots",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 0,
+  "default_skin": 1047,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 64,
+  "chat_link": "[\u0026AgFAAAAA]",
+  "icon": "https://render.guildwars2.com/file/3E521824FA0218F33BEBD6006F3993F3249C7646/66648.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Clothing",
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 2.925,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    }
+  }
+}

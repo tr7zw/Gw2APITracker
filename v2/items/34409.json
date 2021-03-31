@@ -1,0 +1,41 @@
+{
+  "name": "Ravaging Glyphic Staff",
+  "type": "Weapon",
+  "level": 56,
+  "rarity": "Fine",
+  "vendor_value": 74,
+  "default_skin": 5237,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 34409,
+  "chat_link": "[\u0026AgFphgAA]",
+  "icon": "https://render.guildwars2.com/file/009BF7054DD8F777207999EC76EA747801A4CA56/62802.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 486,
+    "max_power": 548,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 308.352,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 77
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 108
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Whisper\u0027s Secret Speargun",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 4500,
+  "default_skin": 4923,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 31144,
+  "chat_link": "[\u0026AgGoeQAA]",
+  "icon": "https://render.guildwars2.com/file/993EFDCC965D9A2F40E249304C0BE14E5E9DBEE3/222039.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 802,
+    "max_power": 886,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 603.648,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 151
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 151
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 211
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

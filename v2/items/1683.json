@@ -1,0 +1,40 @@
+{
+  "name": "Ravaging Worn Scale Helm",
+  "description": "",
+  "type": "Armor",
+  "level": 42,
+  "rarity": "Fine",
+  "vendor_value": 49,
+  "default_skin": 99,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 1683,
+  "chat_link": "[\u0026AgGTBgAA]",
+  "icon": "https://render.guildwars2.com/file/D8E21AB5F2F4FEEBC112E95B5C0C9406F725422E/61063.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 40,
+    "infusion_slots": [],
+    "attribute_adjustment": 52.064,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 13
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 18
+        }
+      ]
+    }
+  }
+}

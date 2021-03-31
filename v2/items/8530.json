@@ -1,0 +1,28 @@
+{
+  "name": "Jug of Autumn Nectar",
+  "type": "Consumable",
+  "level": 5,
+  "rarity": "Basic",
+  "vendor_value": 4,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 8530,
+  "chat_link": "[\u0026AgFSIQAA]",
+  "icon": "https://render.guildwars2.com/file/C80267A147F544D9706F2731536A526A21A0D9F6/63078.png",
+  "details": {
+    "type": "Food",
+    "duration_ms": 600000,
+    "apply_count": 1,
+    "name": "Nourishment",
+    "icon": "https://render.guildwars2.com/file/779D3F0ABE5B46C09CFC57374DA8CC3A495F291C/436367.png",
+    "description": "-4% Incoming Condition Duration\n+10% Experience from Kills"
+  }
+}

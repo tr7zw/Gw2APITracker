@@ -1,0 +1,34 @@
+{
+  "id": 20,
+  "name": "Roller Beetle Mount",
+  "requirement": "Complete the roller beetle mount collection to unlock the roller beetle Mastery track.",
+  "order": 5,
+  "background": "https://render.guildwars2.com/file/BF3A0B31191F79CB1B900F0138EF0EBC069BE1CA/1999773.png",
+  "region": "Desert",
+  "levels": [
+    {
+      "name": "Wrecking Ball",
+      "description": "Learn to launch foes a short distance by rolling over them with the roller beetle\u0027s engage skill, Roll Out.",
+      "instruction": "Roll Out damages foes as you roll over them and launches them a short distance.",
+      "icon": "https://render.guildwars2.com/file/FBEE0C6134DC00ED70CE92DD3A9A4FD2304C7CC9/1999766.png",
+      "point_cost": 3,
+      "exp_cost": 571500
+    },
+    {
+      "name": "Barrier Smash",
+      "description": "Smash your way into secret areas and destroy volatile crystals with your roller beetle. Recover endurance when your beetle hits walls.",
+      "instruction": "Use your roller beetle\u0027s boost ability or Roll Out skill to smash through marked blockades and destroy volatile crystals. Recover endurance when your beetle collides with walls at high speed.",
+      "icon": "https://render.guildwars2.com/file/32A13C006364EB2EB421D395D634923CF72C416B/1999767.png",
+      "point_cost": 4,
+      "exp_cost": 609600
+    },
+    {
+      "name": "Big Air",
+      "description": "Learn to perform stylish airborne tricks after boosting to regain endurance.",
+      "instruction": "Press and hold the jump button after boosting and catching air to perform stylish tricks. Tricks remain active and replenish endurance while the jump button is held. An endurance penalty will be administered for improper landings.",
+      "icon": "https://render.guildwars2.com/file/72966734E0F4E6EBC37C39272A0CF74B5E9DB992/1999768.png",
+      "point_cost": 5,
+      "exp_cost": 698500
+    }
+  ]
+}

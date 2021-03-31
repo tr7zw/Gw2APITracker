@@ -1,0 +1,53 @@
+{
+  "name": "Improved Shipwreck Speargun",
+  "description": "\u003cc\u003d@flavor\u003e\"Don\u0027t go into the water to rescue Wardens without this speargun. It\u0027ll keep those undead off you.\" \u003cbr\u003e—Danu\u003c/c\u003ea",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Masterwork",
+  "vendor_value": 159,
+  "default_skin": 5122,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30634,
+  "chat_link": "[\u0026AgGqdwAA]",
+  "icon": "https://render.guildwars2.com/file/0F286F119C53F275016502D17CFAC3E6D7990678/434763.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 542,
+    "max_power": 599,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 388.008,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 136
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 97
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 97
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Etched Cudgel of Blood",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Exotic",
+  "vendor_value": 212,
+  "default_skin": 5028,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25236,
+  "chat_link": "[\u0026AgGUYgAA]",
+  "icon": "https://render.guildwars2.com/file/F7D5E636366FFC490B1F267C690FCD11EBC30D18/779891.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 654,
+    "max_power": 737,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 238.4,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 83
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 60
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 60
+        }
+      ]
+    },
+    "suffix_item_id": 24570
+  }
+}

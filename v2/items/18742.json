@@ -1,0 +1,48 @@
+{
+  "name": "Forgeman Shoes",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 673,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 18742,
+  "chat_link": "[\u0026AgE2SQAA]",
+  "icon": "https://render.guildwars2.com/file/E02EF3AF992432D7003439C90E3F9013E6EC4FF4/61484.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 133,
+    "infusion_slots": [],
+    "attribute_adjustment": 128.04,
+    "infix_upgrade": {
+      "id": 158,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 32
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 32
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 45
+        }
+      ]
+    },
+    "suffix_item_id": 24851
+  }
+}

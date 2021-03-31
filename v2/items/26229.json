@@ -1,0 +1,49 @@
+{
+  "name": "Cleric\u0027s Iron Sword of Agony",
+  "description": "",
+  "type": "Weapon",
+  "level": 64,
+  "rarity": "Exotic",
+  "vendor_value": 216,
+  "default_skin": 4062,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26229,
+  "chat_link": "[\u0026AgF1ZgAA]",
+  "icon": "https://render.guildwars2.com/file/D10679012504F6AD5829D1DF9F36303FE2EB46B4/64343.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 685,
+    "max_power": 758,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 249.04,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 62
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 62
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 87
+        }
+      ]
+    },
+    "suffix_item_id": 24612
+  }
+}

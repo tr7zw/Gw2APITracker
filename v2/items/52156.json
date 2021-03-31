@@ -1,0 +1,51 @@
+{
+  "name": "Apostate\u0027s Distemper",
+  "type": "Weapon",
+  "level": 68,
+  "rarity": "Exotic",
+  "vendor_value": 236,
+  "default_skin": 5232,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 52156,
+  "chat_link": "[\u0026AgG8ywAA]",
+  "icon": "https://render.guildwars2.com/file/FF9C9423AEA40F1A2FE166390DC894139E57047C/67842.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 779,
+    "max_power": 860,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 288,
+    "infix_upgrade": {
+      "id": 1012,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 72
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 72
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 101
+        }
+      ]
+    }
+  }
+}

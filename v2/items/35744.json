@@ -1,0 +1,28 @@
+{
+  "name": "Cold Potion",
+  "description": "Double-click to transform into a Lesser Ice Elemental.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 96,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "NotUpgradeable",
+    "NoUnderwater",
+    "Tonic"
+  ],
+  "restrictions": [],
+  "id": 35744,
+  "chat_link": "[\u0026AgGgiwAA]",
+  "icon": "https://render.guildwars2.com/file/EE980B9AA5BEB900A49622B9B959E9A8A0249DFF/63139.png",
+  "details": {
+    "type": "Generic"
+  }
+}

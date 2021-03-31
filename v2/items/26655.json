@@ -1,0 +1,42 @@
+{
+  "name": "Strong Iron Shield",
+  "description": "",
+  "type": "Weapon",
+  "level": 59,
+  "rarity": "Fine",
+  "vendor_value": 51,
+  "default_skin": 4012,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 26655,
+  "chat_link": "[\u0026AgEfaAAA]",
+  "icon": "https://render.guildwars2.com/file/222F72EDEC31ACB7BC439499F4DD4AA4A94A6C48/65373.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 422,
+    "max_power": 476,
+    "defense": 30,
+    "infusion_slots": [],
+    "attribute_adjustment": 166.336,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 58
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 42
+        }
+      ]
+    }
+  }
+}

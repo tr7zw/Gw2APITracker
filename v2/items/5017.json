@@ -1,0 +1,38 @@
+{
+  "name": "Mighty Chainmail Footgear",
+  "description": "",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 5,
+  "default_skin": 2041,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 5017,
+  "chat_link": "[\u0026AgGZEwAA]",
+  "icon": "https://render.guildwars2.com/file/061CAE3A9244396F68B543089E43A11EC5E933C3/61096.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 15,
+    "infusion_slots": [],
+    "attribute_adjustment": 4.563,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 2
+        }
+      ]
+    }
+  }
+}

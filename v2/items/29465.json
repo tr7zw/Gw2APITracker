@@ -1,0 +1,48 @@
+{
+  "name": "Sturdy Shield",
+  "description": "\u003cc\u003d@flavor\u003e\"Keep this close when those fissures appear. They sometimes shoot fireballs.\"\u003cbr\u003e—Kruppa\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 36,
+  "rarity": "Fine",
+  "vendor_value": 35,
+  "default_skin": 5176,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29465,
+  "chat_link": "[\u0026AgEZcwAA]",
+  "icon": "https://render.guildwars2.com/file/455B5191E29A11E8ECBDEB2326E9FDE2D7C6DEAC/68182.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 262,
+    "max_power": 296,
+    "defense": 17,
+    "infusion_slots": [],
+    "attribute_adjustment": 84.352,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 21
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 30
+        }
+      ]
+    }
+  }
+}

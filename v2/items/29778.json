@@ -1,0 +1,49 @@
+{
+  "name": "Lionguard Axe",
+  "description": "",
+  "type": "Weapon",
+  "level": 40,
+  "rarity": "Rare",
+  "vendor_value": 1400,
+  "default_skin": 4656,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29778,
+  "chat_link": "[\u0026AgFSdAAA]",
+  "icon": "https://render.guildwars2.com/file/63AB08DEE36065B2CCC4D8E4CC5A0D5224B8E16D/780607.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 358,
+    "max_power": 437,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 117.144,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 41
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 29
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

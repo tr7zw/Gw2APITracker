@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Black Earth Trident of Water",
+  "description": "",
+  "type": "Weapon",
+  "level": 77,
+  "rarity": "Rare",
+  "vendor_value": 284,
+  "default_skin": 4712,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28722,
+  "chat_link": "[\u0026AgEycAAA]",
+  "icon": "https://render.guildwars2.com/file/B8F4F953BC20F7A7FE9FF7459FD5534F0608730F/574969.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 763,
+    "max_power": 843,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 571.104,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 200
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 143
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 143
+        }
+      ]
+    },
+    "suffix_item_id": 24550
+  }
+}

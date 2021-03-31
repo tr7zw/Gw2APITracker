@@ -1,0 +1,39 @@
+{
+  "id": 4582,
+  "name": "Chasing Tales: Reality Bender",
+  "description": "\"When I don\u0027t like something about the world, I change it.\"",
+  "requirement": "Use a scepter to inflict 60 conditions on opponents in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Mirren the Manipulator."
+    },
+    {
+      "type": "Text",
+      "text": "Used a scepter to inflict 60 conditions on opponents in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89714,
+      "count": 1
+    }
+  ]
+}

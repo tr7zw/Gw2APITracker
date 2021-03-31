@@ -1,0 +1,44 @@
+{
+  "name": "Vigorous Sheepskin Shoes",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 425,
+  "default_skin": 454,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Norn"
+  ],
+  "id": 3760,
+  "chat_link": "[\u0026AgGwDgAA]",
+  "icon": "https://render.guildwars2.com/file/51682BEEB89DB4185E3FFFDE6259419C1566D7DC/779821.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 43,
+    "infusion_slots": [],
+    "attribute_adjustment": 36.963,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 13
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

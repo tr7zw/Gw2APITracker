@@ -1,0 +1,52 @@
+{
+  "name": "Shadowfain Longbow",
+  "description": "\u003cc\u003d@flavor\u003e\"Aim true. But telling you that is like telling the sun to rise.\"\u003cbr\u003e—Lightbringer Ives\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Fine",
+  "vendor_value": 99,
+  "default_skin": 5201,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30280,
+  "chat_link": "[\u0026AgFIdgAA]",
+  "icon": "https://render.guildwars2.com/file/0166640705A3797A74F6CFDE79E67FBD9D399CE8/62844.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 701,
+    "max_power": 823,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 517.248,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 181
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 129
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 129
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Trusty Blade",
+  "description": "\u003cc\u003d@flavor\u003e\"Sometimes fighting can\u0027t be avoided, so it\u0027s good to have a blade you can trust.\"\u003cbr\u003e—Leandra\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 35,
+  "rarity": "Masterwork",
+  "vendor_value": 68,
+  "default_skin": 5231,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29486,
+  "chat_link": "[\u0026AgEucwAA]",
+  "icon": "https://render.guildwars2.com/file/FE00504CABCC01D699800D4E4EC706FA037CF608/534290.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 313,
+    "max_power": 346,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 89.624,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 31
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 22
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

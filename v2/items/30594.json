@@ -1,0 +1,45 @@
+{
+  "name": "Hammer of Smashing",
+  "description": "\u003cc\u003d@flavor\u003e\"Swing this at someone, and it\u0027ll definitely leave a mark.\"\u003cbr\u003e—Mathair\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 23,
+  "rarity": "Masterwork",
+  "vendor_value": 78,
+  "default_skin": 3869,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30594,
+  "chat_link": "[\u0026AgGCdwAA]",
+  "icon": "https://render.guildwars2.com/file/993ED9650B92F3589ED0D350F8370170F329F450/66178.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 260,
+    "max_power": 293,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 107.712,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 38
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

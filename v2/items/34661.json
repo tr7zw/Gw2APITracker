@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Glyphic Brand of Serpent Slaying",
+  "type": "Weapon",
+  "level": 38,
+  "rarity": "Masterwork",
+  "vendor_value": 72,
+  "default_skin": 5124,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34661,
+  "chat_link": "[\u0026AgFlhwAA]",
+  "icon": "https://render.guildwars2.com/file/A1EBD2A1442009D269D1FF132D5ED342D553411F/62801.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 292,
+    "max_power": 343,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 100.096,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 25
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 35
+        }
+      ]
+    },
+    "suffix_item_id": 24660
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Sun God Totem",
+  "description": "\u003cc\u003d@flavor\u003e\"May the sun god\u0027s rays warm your back.\"—Qoetl\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 57,
+  "rarity": "Fine",
+  "vendor_value": 62,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23961,
+  "chat_link": "[\u0026AgGZXQAA]",
+  "icon": "https://render.guildwars2.com/file/E5B6385924CD6935AE02047665AA00EAB622BBE9/455980.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 98.88,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 35
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 25
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 25
+        }
+      ]
+    }
+  }
+}

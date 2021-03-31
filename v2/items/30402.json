@@ -1,0 +1,43 @@
+{
+  "name": "Harathi Longbow",
+  "type": "Weapon",
+  "level": 17,
+  "rarity": "Fine",
+  "vendor_value": 32,
+  "default_skin": 4594,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30402,
+  "chat_link": "[\u0026AgHCdgAA]",
+  "icon": "https://render.guildwars2.com/file/F45992D47818419AA345499308AA5A7ED5BFBC6D/67726.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 196,
+    "max_power": 230,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 71.296,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 25
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Adorned Malachite Jewel",
+  "description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 16,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24480,
+  "chat_link": "[\u0026AgGgXwAA]",
+  "icon": "https://render.guildwars2.com/file/0EFBBDDDE2C9FCEFE30C7D21E9A391B114FE9BA4/220922.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "Trinket"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 346,
+      "buff": {
+        "skill_id": 242,
+        "description": "+4 Toughness"
+      },
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 4
+        }
+      ]
+    },
+    "suffix": "of Malachite"
+  }
+}

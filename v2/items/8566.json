@@ -1,0 +1,28 @@
+{
+  "name": "Bowl of Kappa Soup",
+  "type": "Consumable",
+  "level": 13,
+  "rarity": "Basic",
+  "vendor_value": 6,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 8566,
+  "chat_link": "[\u0026AgF2IQAA]",
+  "icon": "https://render.guildwars2.com/file/F9B90101B4EA1778BF3B6034B360B9E03131FB19/63086.png",
+  "details": {
+    "type": "Food",
+    "duration_ms": 600000,
+    "apply_count": 1,
+    "name": "Nourishment",
+    "icon": "https://render.guildwars2.com/file/779D3F0ABE5B46C09CFC57374DA8CC3A495F291C/436367.png",
+    "description": "30% Chance to Gain Might on Dodge\n+10% Experience from Kills"
+  }
+}

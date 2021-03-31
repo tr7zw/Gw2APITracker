@@ -1,0 +1,49 @@
+{
+  "name": "Cleric\u0027s Soft Wood Short Bow of Accuracy",
+  "description": "",
+  "type": "Weapon",
+  "level": 76,
+  "rarity": "Masterwork",
+  "vendor_value": 189,
+  "default_skin": 3906,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28032,
+  "chat_link": "[\u0026AgGAbQAA]",
+  "icon": "https://render.guildwars2.com/file/0EFDC626FD430DA00CD9240C95EC6DF0500DB45E/67068.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 697,
+    "max_power": 770,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 518.84,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 130
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 130
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 182
+        }
+      ]
+    },
+    "suffix_item_id": 24616
+  }
+}

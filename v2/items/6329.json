@@ -1,0 +1,40 @@
+{
+  "name": "Marksman\u0027s Shoulders",
+  "description": "",
+  "type": "Armor",
+  "level": 19,
+  "rarity": "Fine",
+  "vendor_value": 26,
+  "default_skin": 909,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6329,
+  "chat_link": "[\u0026AgG5GAAA]",
+  "icon": "https://render.guildwars2.com/file/74ED3739EB2161422FB3FA0F786FD6A33BE069B7/61030.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Medium",
+    "defense": 16,
+    "infusion_slots": [],
+    "attribute_adjustment": 14.976,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 5
+        }
+      ]
+    }
+  }
+}

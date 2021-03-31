@@ -1,0 +1,37 @@
+{
+  "name": "Resilient Krytan Pistol",
+  "type": "Weapon",
+  "level": 1,
+  "rarity": "Fine",
+  "vendor_value": 6,
+  "default_skin": 5008,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 33470,
+  "chat_link": "[\u0026AgG+ggAA]",
+  "icon": "https://render.guildwars2.com/file/12B504B2276E164B08C55CFCA634243DBCCD80B7/61694.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 134,
+    "max_power": 158,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 12.672,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

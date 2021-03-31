@@ -1,0 +1,46 @@
+{
+  "name": "Ravaging Cabalist Hood of Divinity",
+  "description": "",
+  "type": "Armor",
+  "level": 41,
+  "rarity": "Rare",
+  "vendor_value": 143,
+  "default_skin": 103,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 64057,
+  "chat_link": "[\u0026AgE5+gAA]",
+  "icon": "https://render.guildwars2.com/file/16E5686EC33001A0D77FF5D4320EFBCA39130826/61411.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 28,
+    "infusion_slots": [],
+    "attribute_adjustment": 60.444,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 15
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 21
+        }
+      ]
+    },
+    "suffix_item_id": 24731
+  }
+}

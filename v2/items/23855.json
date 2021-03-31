@@ -1,0 +1,43 @@
+{
+  "name": "Ancient Ring",
+  "description": "\u003cc\u003d@flavor\u003e\"Beneath an ornate crest, the name D\u0027Alessio is inscribed in flowing script.\"\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 38,
+  "rarity": "Masterwork",
+  "vendor_value": 90,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23855,
+  "chat_link": "[\u0026AgEvXQAA]",
+  "icon": "https://render.guildwars2.com/file/A3473FFC3353576C2EF60C5A9CC47CDA6AB562C1/63613.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 62.56,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 16
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 22
+        }
+      ]
+    }
+  }
+}

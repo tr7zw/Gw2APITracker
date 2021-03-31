@@ -1,0 +1,43 @@
+{
+  "name": "Honorary Company Membership Badge",
+  "description": "\u003cc\u003d@flavor\u003e\"You\u0027re one of us now. Just don\u0027t let it go to your head.\" -Cap\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 35,
+  "rarity": "Masterwork",
+  "vendor_value": 85,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23839,
+  "chat_link": "[\u0026AgEfXQAA]",
+  "icon": "https://render.guildwars2.com/file/AB7619ACA2CEA6AC0FC25A6BEFE864E91C59E405/66823.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 56.015,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 14
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 20
+        }
+      ]
+    }
+  }
+}

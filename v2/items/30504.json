@@ -1,0 +1,49 @@
+{
+  "name": "Nightguard Greatsword",
+  "description": "\u003cc\u003d@flavor\u003e\"We considered painting it matte black so it couldn\u0027t be seen by moonlight, but it\u0027d still be a greatsword.\"\u003cbr\u003e—Lieutenant Summers\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 33,
+  "rarity": "Masterwork",
+  "vendor_value": 99,
+  "default_skin": 4015,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30504,
+  "chat_link": "[\u0026AgEodwAA]",
+  "icon": "https://render.guildwars2.com/file/1EA00FDAAD23FD1B1B9C4BD6E36EB30A43E21D06/64138.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 330,
+    "max_power": 365,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 166.872,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 42
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 58
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

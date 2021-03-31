@@ -1,0 +1,49 @@
+{
+  "name": "Embellished Brilliant Passion Flower",
+  "description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 65,
+  "rarity": "Rare",
+  "vendor_value": 165,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 37908,
+  "chat_link": "[\u0026AgEUlAAA]",
+  "icon": "https://render.guildwars2.com/file/97BD44DB02AB4C4BE073C5B638D121A91A45CB49/511907.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "Trinket"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 611,
+      "buff": {
+        "skill_id": 15767,
+        "description": "+21 Healing\n+13 Condition Damage\n+13 Toughness"
+      },
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 13
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 21
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 13
+        }
+      ]
+    },
+    "suffix": "of Passiflora"
+  }
+}

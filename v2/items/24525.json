@@ -1,0 +1,67 @@
+{
+  "name": "Talisman of Lingering",
+  "description": "Double-click to apply to an item with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 35,
+  "rarity": "Fine",
+  "vendor_value": 34,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24525,
+  "chat_link": "[\u0026AgHNXwAA]",
+  "icon": "https://render.guildwars2.com/file/D8655CCF5EE51C13A840DB11A49442AA1507E908/220457.png",
+  "details": {
+    "type": "Gem",
+    "flags": [
+      "ShortBow",
+      "HeavyArmor",
+      "LightArmor",
+      "Dagger",
+      "MediumArmor",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Trinket",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 391,
+      "buff": {
+        "skill_id": 185,
+        "description": "+7 Condition Damage\n+5 Vitality"
+      },
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 5
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 7
+        }
+      ]
+    },
+    "suffix": "of Lingering"
+  }
+}

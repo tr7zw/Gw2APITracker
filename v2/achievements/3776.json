@@ -1,0 +1,69 @@
+{
+  "id": 3776,
+  "icon": "https://render.guildwars2.com/file/3FB1AE472DF109D022146F26B0F420140BFC26FE/1824200.png",
+  "name": "Triumph of Conquests",
+  "description": "\u003cc\u003d@Flavor\u003eCommemorations of great battles would be placed onto tiles inside of tombs, honoring both the victors and the fallen.\u003c/c\u003e",
+  "requirement": "Collect  Elegy Mosaics from Legendary bounty bosses.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 83339
+    },
+    {
+      "type": "Item",
+      "id": 84128
+    },
+    {
+      "type": "Item",
+      "id": 82159
+    },
+    {
+      "type": "Item",
+      "id": 83062
+    },
+    {
+      "type": "Item",
+      "id": 83003
+    },
+    {
+      "type": "Item",
+      "id": 83837
+    },
+    {
+      "type": "Item",
+      "id": 83852
+    },
+    {
+      "type": "Item",
+      "id": 84229
+    },
+    {
+      "type": "Item",
+      "id": 82786
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 9,
+      "points": 3
+    }
+  ],
+  "prerequisites": [
+    3753
+  ]
+}

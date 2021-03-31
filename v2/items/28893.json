@@ -1,0 +1,42 @@
+{
+  "name": "Strong Harpoon",
+  "description": "",
+  "type": "Weapon",
+  "level": 44,
+  "rarity": "Basic",
+  "vendor_value": 30,
+  "default_skin": 3862,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 28893,
+  "chat_link": "[\u0026AgHdcAAA]",
+  "icon": "https://render.guildwars2.com/file/4BE704BD20AADC9C3C0FC222DECA2E4D412CFA4A/66240.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 278,
+    "max_power": 308,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 174.616,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 61
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 44
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 4592,
+  "name": "Chasing Tales: Outlaw",
+  "description": "Durio was the victor of countless duels.",
+  "requirement": "Defeat 30 enemies while wielding a pistol in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Durio the Contemptuous."
+    },
+    {
+      "type": "Text",
+      "text": "Killed 30 enemies with a pistol in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89896,
+      "count": 1
+    }
+  ]
+}

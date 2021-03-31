@@ -1,0 +1,160 @@
+{
+  "id": 2963,
+  "name": "Dungeon Frequenter",
+  "description": "Delving into all the dungeons.",
+  "requirement": "Complete eight dungeon paths for a grand reward!",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Repeatable",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Crucible of Eternity Story"
+    },
+    {
+      "type": "Text",
+      "text": "Crucible Explorable—Submarine Path"
+    },
+    {
+      "type": "Text",
+      "text": "Crucible Explorable—Teleporter Path"
+    },
+    {
+      "type": "Text",
+      "text": "Crucible Explorable—Front Door Path"
+    },
+    {
+      "type": "Text",
+      "text": "Ascalonian Catacombs Story"
+    },
+    {
+      "type": "Text",
+      "text": "Catacombs Explorable—Hodgins\u0027s Path"
+    },
+    {
+      "type": "Text",
+      "text": "Catacombs Explorable—Detha\u0027s Path"
+    },
+    {
+      "type": "Text",
+      "text": "Catacombs Explorable—Tzark\u0027s Path"
+    },
+    {
+      "type": "Text",
+      "text": "Arah Explorable—Jotun Path"
+    },
+    {
+      "type": "Text",
+      "text": "Arah Explorable—Mursaat Path"
+    },
+    {
+      "type": "Text",
+      "text": "Arah Explorable—Forgotten Path"
+    },
+    {
+      "type": "Text",
+      "text": "Arah Explorable—Seer Path"
+    },
+    {
+      "type": "Text",
+      "text": "Caudecus\u0027s Manor Story"
+    },
+    {
+      "type": "Text",
+      "text": "Manor Explorable—Asura Path"
+    },
+    {
+      "type": "Text",
+      "text": "Manor Explorable—Seraph Path"
+    },
+    {
+      "type": "Text",
+      "text": "Manor Explorable—Butler\u0027s Path"
+    },
+    {
+      "type": "Text",
+      "text": "Sorrow\u0027s Embrace Story"
+    },
+    {
+      "type": "Text",
+      "text": "Sorrow\u0027s Explorable—Fergg\u0027s Path"
+    },
+    {
+      "type": "Text",
+      "text": "Sorrow\u0027s Explorable—Rasolov\u0027s Path"
+    },
+    {
+      "type": "Text",
+      "text": "Sorrow\u0027s Explorable—Koptev\u0027s Path"
+    },
+    {
+      "type": "Text",
+      "text": "Twilight Arbor Story"
+    },
+    {
+      "type": "Text",
+      "text": "Twilight Explorable—Leurent\u0027s Path"
+    },
+    {
+      "type": "Text",
+      "text": "Twilight Explorable—Vevina\u0027s Path"
+    },
+    {
+      "type": "Text",
+      "text": "Twilight Explorable—Aetherpath"
+    },
+    {
+      "type": "Text",
+      "text": "Honor of the Waves Story"
+    },
+    {
+      "type": "Text",
+      "text": "Honor Explorable—Butcher\u0027s Path"
+    },
+    {
+      "type": "Text",
+      "text": "Honor Explorable—Plunderer\u0027s Path"
+    },
+    {
+      "type": "Text",
+      "text": "Honor Explorable—Zealot\u0027s Path"
+    },
+    {
+      "type": "Text",
+      "text": "Citadel of Flame Story"
+    },
+    {
+      "type": "Text",
+      "text": "Citadel Explorable—Ferrah\u0027s Path"
+    },
+    {
+      "type": "Text",
+      "text": "Citadel Explorable—Magg\u0027s Path"
+    },
+    {
+      "type": "Text",
+      "text": "Citadel Explorable—Rhiannon\u0027s Path"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 8,
+      "points": 0
+    }
+  ],
+  "point_cap": -1,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 78252,
+      "count": 1
+    },
+    {
+      "type": "Coins",
+      "count": 50000
+    }
+  ]
+}

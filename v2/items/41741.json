@@ -1,0 +1,29 @@
+{
+  "name": "Communal Boost Bonfire",
+  "description": "Double-click to construct a bonfire. Fully stoked bonfires grant 60-minute boosts for karma, experience, or magic find. Bonfires last for 15 minutes.\u003cbr\u003e\u003cc\u003d@flavor\u003e\"In harsh times, we must all band together...and succeed together!\"\u003c/c\u003e",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 0,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "NoUnderwater",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 41741,
+  "chat_link": "[\u0026AgENowAA]",
+  "icon": "https://render.guildwars2.com/file/5F5B25AA6868EC48F1E825126B0ECFC1EEA65877/561731.png",
+  "details": {
+    "type": "Generic"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Forsaken Barrowbuilder",
+  "type": "Weapon",
+  "level": 68,
+  "rarity": "Exotic",
+  "vendor_value": 354,
+  "default_skin": 5109,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 51974,
+  "chat_link": "[\u0026AgEGywAA]",
+  "icon": "https://render.guildwars2.com/file/139FE3B79D11DF7EFEE39F7AFC769315B050A233/575171.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 847,
+    "max_power": 955,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 576,
+    "infix_upgrade": {
+      "id": 1011,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 202
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 144
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 144
+        }
+      ]
+    }
+  }
+}

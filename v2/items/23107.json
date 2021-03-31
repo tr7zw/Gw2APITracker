@@ -1,0 +1,42 @@
+{
+  "name": "Mighty Griffon Necklace",
+  "description": "",
+  "type": "Trinket",
+  "level": 40,
+  "rarity": "Rare",
+  "vendor_value": 216,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23107,
+  "chat_link": "[\u0026AgFDWgAA]",
+  "icon": "https://render.guildwars2.com/file/AA26E9092621670E6C55A65307B7F43C0CC5F138/63595.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 109.728,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 38
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 27
+        }
+      ]
+    }
+  }
+}

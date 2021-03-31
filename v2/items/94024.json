@@ -1,0 +1,75 @@
+{
+  "name": "Abyssal Infusion",
+  "description": "Double-click to apply to an unused infusion slot. Infuses character with an abyssal aura.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 32,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94024,
+  "chat_link": "[\u0026AgFIbwEA]",
+  "icon": "https://render.guildwars2.com/file/F43E6BBFD2FCA496616055ECFD489B6F29F2B30A/2332364.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "ShortBow",
+      "HeavyArmor",
+      "LightArmor",
+      "Dagger",
+      "MediumArmor",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Trinket",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [
+      "Infusion"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 1633,
+      "buff": {
+        "skill_id": 61488,
+        "description": "+5 Concentration\n+9 Agony Resistance"
+      },
+      "attributes": [
+        {
+          "attribute": "BoonDuration",
+          "modifier": 5
+        },
+        {
+          "attribute": "AgonyResistance",
+          "modifier": 9
+        }
+      ]
+    },
+    "suffix": ""
+  }
+}

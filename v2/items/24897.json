@@ -1,0 +1,45 @@
+{
+  "name": "Gilded Spinel Jewel",
+  "description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 39,
+  "rarity": "Masterwork",
+  "vendor_value": 68,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24897,
+  "chat_link": "[\u0026AgFBYQAA]",
+  "icon": "https://render.guildwars2.com/file/D0AF90C50DA515697C0D00F0AD0B07F3B59CFD08/221188.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "Trinket"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 400,
+      "buff": {
+        "skill_id": 195,
+        "description": "+9 Healing\n+7 Power"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 7
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 9
+        }
+      ]
+    },
+    "suffix": "of Spinel"
+  }
+}

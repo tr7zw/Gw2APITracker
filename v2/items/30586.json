@@ -1,0 +1,45 @@
+{
+  "name": "Seraph Warhorn",
+  "description": "\u003cc\u003d@flavor\u003e\"Strikes fear in the heart of your enemies and alerts your allies to danger.\"\u003cbr\u003e—Goran\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 19,
+  "rarity": "Masterwork",
+  "vendor_value": 46,
+  "default_skin": 3859,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30586,
+  "chat_link": "[\u0026AgF6dwAA]",
+  "icon": "https://render.guildwars2.com/file/F464B3A80B0EFF2105630C0E48BBC6C5CA1CB651/66224.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 197,
+    "max_power": 218,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 44.744,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 16
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

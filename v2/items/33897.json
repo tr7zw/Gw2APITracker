@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Krytan Sword of Serpent Slaying",
+  "type": "Weapon",
+  "level": 38,
+  "rarity": "Masterwork",
+  "vendor_value": 72,
+  "default_skin": 5020,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33897,
+  "chat_link": "[\u0026AgFphAAA]",
+  "icon": "https://render.guildwars2.com/file/9AF522FA610E744803AE9F42063EABA5AA0F57B2/61730.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 335,
+    "max_power": 370,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 100.096,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 35
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 25
+        }
+      ]
+    },
+    "suffix_item_id": 24660
+  }
+}

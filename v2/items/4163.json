@@ -1,0 +1,43 @@
+{
+  "name": "Oldgate Pauldrons",
+  "description": "\u003cc\u003d@flavor\u003e\"It\u0027s the helm of the upper arm.\"\u003cbr\u003e—Zalvax Brokenclaw\u003c/c\u003e",
+  "type": "Armor",
+  "level": 15,
+  "rarity": "Masterwork",
+  "vendor_value": 44,
+  "default_skin": 871,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4163,
+  "chat_link": "[\u0026AgFDEAAA]",
+  "icon": "https://render.guildwars2.com/file/6E60FB219D0308B954EAF4FFC85B2ED0BF6E6B00/61243.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "defense": 19,
+    "infusion_slots": [],
+    "attribute_adjustment": 13.362,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 5
+        }
+      ]
+    },
+    "suffix_item_id": 24739
+  }
+}

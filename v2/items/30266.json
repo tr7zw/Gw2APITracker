@@ -1,0 +1,52 @@
+{
+  "name": "Shelter Axe",
+  "description": "\u003cc\u003d@flavor\u003e\"I embedded a crystal into the hilt to enhance its arcane capacity.\"\u003cbr\u003e—Scholar Blix\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Fine",
+  "vendor_value": 66,
+  "default_skin": 5192,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30266,
+  "chat_link": "[\u0026AgE6dgAA]",
+  "icon": "https://render.guildwars2.com/file/775ED24CE0C0F5749BAD66DD9778BDE4DA37AF4A/62850.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 654,
+    "max_power": 799,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 258.624,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 65
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 65
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 91
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": 2625,
+  "name": "Friend of the Frogs",
+  "description": "The Nuhoch will warble your legend forever!",
+  "requirement": "Participate in every stage of building Teku Nuhoch back up.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Defended Beetle Larvae"
+    },
+    {
+      "type": "Text",
+      "text": "Protected Beetle Hatchlings"
+    },
+    {
+      "type": "Text",
+      "text": "Herded Young Beetles"
+    },
+    {
+      "type": "Text",
+      "text": "Fed Mushrooms to Beetles"
+    },
+    {
+      "type": "Text",
+      "text": "Calmed Beetles with Spores"
+    },
+    {
+      "type": "Text",
+      "text": "Took Young Beetles on Patrol"
+    },
+    {
+      "type": "Text",
+      "text": "Slayed Malignant Chak Blitzer"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 7,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 23
+    }
+  ]
+}

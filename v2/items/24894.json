@@ -1,0 +1,71 @@
+{
+  "name": "Seal of the Soldier",
+  "description": "Double-click to apply to an item with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 90,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24894,
+  "chat_link": "[\u0026AgE+YQAA]",
+  "icon": "https://render.guildwars2.com/file/E3C4C90B32A2BF9B335BA342D79E6D2D06400ADD/340632.png",
+  "details": {
+    "type": "Gem",
+    "flags": [
+      "ShortBow",
+      "HeavyArmor",
+      "LightArmor",
+      "Dagger",
+      "MediumArmor",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Trinket",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 499,
+      "buff": {
+        "skill_id": 290,
+        "description": "+11 Power\n+8 Toughness\n+8 Vitality"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 11
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 8
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 8
+        }
+      ]
+    },
+    "suffix": "of the Soldier"
+  }
+}

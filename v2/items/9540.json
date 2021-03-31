@@ -1,0 +1,28 @@
+{
+  "name": "Recipe: Shadow Mantle",
+  "description": "Double-click to learn a recipe",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 18,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9540,
+  "chat_link": "[\u0026AgFEJQAA]",
+  "icon": "https://render.guildwars2.com/file/6997994AAEB3F3F626B6046BC8FCCEA879E61299/849346.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 2837
+  }
+}

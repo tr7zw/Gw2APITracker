@@ -1,0 +1,44 @@
+{
+  "name": "Mending Shiverpeak Club of Debility",
+  "type": "Weapon",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 90,
+  "default_skin": 5158,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25263,
+  "chat_link": "[\u0026AgGvYgAA]",
+  "icon": "https://render.guildwars2.com/file/F4C7AFECFA69166C750EBC06C17572F56A78D07B/534283.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 426,
+    "max_power": 480,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 144.228,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 36
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 50
+        }
+      ]
+    },
+    "suffix_item_id": 24634
+  }
+}

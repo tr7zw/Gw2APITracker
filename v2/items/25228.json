@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Shiverpeak Bow of Earth",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 198,
+  "default_skin": 5172,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25228,
+  "chat_link": "[\u0026AgGMYgAA]",
+  "icon": "https://render.guildwars2.com/file/4BDBBAFF2A590F1663241BF2C733D208A6E40BF2/534282.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 758,
+    "max_power": 889,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 559.912,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 196
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 140
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 140
+        }
+      ]
+    },
+    "suffix_item_id": 24558
+  }
+}

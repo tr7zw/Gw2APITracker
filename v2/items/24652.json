@@ -1,0 +1,54 @@
+{
+  "name": "Minor Sigil of Destroyer Slaying",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003ePain\u003cbr\u003eDouble-click to apply to a weapon.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 16,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24652,
+  "chat_link": "[\u0026AgFMYAAA]",
+  "icon": "https://render.guildwars2.com/file/6A5A3D0604AC1503F274313176FC6534353AF6DD/221034.png",
+  "details": {
+    "type": "Sigil",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 298,
+      "buff": {
+        "skill_id": 9341,
+        "description": "+3% Damage vs. Destroyers"
+      },
+      "attributes": []
+    },
+    "suffix": "of Destroyer Slaying"
+  }
+}

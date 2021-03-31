@@ -1,0 +1,23 @@
+{
+  "name": "8 Slot Safe Box",
+  "description": "8 Slots. Items in this box will never appear in a sell-to-vendor list and will not move when inventory is sorted.",
+  "type": "Bag",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 22,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 9430,
+  "chat_link": "[\u0026AgHWJAAA]",
+  "icon": "https://render.guildwars2.com/file/6FA3D6DD063DA3F6C61D7C60C6EF486E5040FEF0/63204.png",
+  "details": {
+    "no_sell_or_sort": true,
+    "size": 8
+  }
+}

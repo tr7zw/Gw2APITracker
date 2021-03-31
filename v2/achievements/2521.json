@@ -1,0 +1,24 @@
+{
+  "id": 2521,
+  "name": "Air Superiority",
+  "description": "Story Instance: \"Bitter Harvest\"",
+  "requirement": "Dive from the top of the helix into the center and reach the bottom within 10 seconds.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 46682,
+      "count": 3
+    }
+  ]
+}

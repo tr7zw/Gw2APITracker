@@ -1,0 +1,42 @@
+{
+  "name": "Honed Iron Spear",
+  "description": "",
+  "type": "Weapon",
+  "level": 27,
+  "rarity": "Fine",
+  "vendor_value": 42,
+  "default_skin": 4000,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 28630,
+  "chat_link": "[\u0026AgHWbwAA]",
+  "icon": "https://render.guildwars2.com/file/9AC302D1031B5C31806D0703FBC1944C01D4A240/561998.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 240,
+    "max_power": 265,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 116.224,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 41
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 29
+        }
+      ]
+    }
+  }
+}

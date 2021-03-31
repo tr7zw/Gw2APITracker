@@ -1,0 +1,42 @@
+{
+  "name": "Superior Rune of the Afflicted",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eBrilliance\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 60,
+  "rarity": "Exotic",
+  "vendor_value": 216,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24687,
+  "chat_link": "[\u0026AgFvYAAA]",
+  "icon": "https://render.guildwars2.com/file/B952E2BB3ACDF477F4C823655DAC1294C9A12745/220692.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+25 Condition Damage",
+      "+10% Poison Duration",
+      "+50 Condition Damage",
+      "+20% Bleeding Duration",
+      "+100 Condition Damage",
+      "+10% Condition Duration; create a death nova at a foe\u0027s location upon their defeat. (Cooldown: 15 Seconds)"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Afflicted"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Forgeman Headguard",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 330,
+  "default_skin": 680,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 18727,
+  "chat_link": "[\u0026AgEnSQAA]",
+  "icon": "https://render.guildwars2.com/file/1C38E00847D0AFB822330140EC18BEA0F866CCB5/61463.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 97,
+    "infusion_slots": [],
+    "attribute_adjustment": 170.72,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 60
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 43
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 43
+        }
+      ]
+    },
+    "suffix_item_id": 24851
+  }
+}

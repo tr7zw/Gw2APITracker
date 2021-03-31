@@ -1,0 +1,45 @@
+{
+  "name": "Hearty Soft Wood Warhorn of Perception",
+  "description": "",
+  "type": "Weapon",
+  "level": 55,
+  "rarity": "Rare",
+  "vendor_value": 144,
+  "default_skin": 3907,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27124,
+  "chat_link": "[\u0026AgH0aQAA]",
+  "icon": "https://render.guildwars2.com/file/5A0593B5164DE87591029323F7D90775D716001D/65530.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 461,
+    "max_power": 510,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 177.984,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 44
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 62
+        }
+      ]
+    },
+    "suffix_item_id": 24579
+  }
+}

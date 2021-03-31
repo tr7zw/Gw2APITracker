@@ -1,0 +1,50 @@
+{
+  "name": "Lone Helm",
+  "description": "\u003cc\u003d@flavor\u003e\"We wont be a secret here for long.\"\u003cbr\u003e—Agent Siobhan\u003c/c\u003e",
+  "type": "Armor",
+  "level": 74,
+  "rarity": "Fine",
+  "vendor_value": 77,
+  "default_skin": 919,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4450,
+  "chat_link": "[\u0026AgFiEQAA]",
+  "icon": "https://render.guildwars2.com/file/4AEE36464FD5E6C0FDB50AB22D59994B665836D5/61283.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 82,
+    "infusion_slots": [],
+    "attribute_adjustment": 115.2,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 29
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 29
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 40
+        }
+      ]
+    }
+  }
+}

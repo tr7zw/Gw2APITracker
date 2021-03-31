@@ -1,0 +1,46 @@
+{
+  "name": "Cleric\u0027s Iron Shield",
+  "description": "",
+  "type": "Weapon",
+  "level": 73,
+  "rarity": "Fine",
+  "vendor_value": 61,
+  "default_skin": 4012,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 26682,
+  "chat_link": "[\u0026AgE6aAAA]",
+  "icon": "https://render.guildwars2.com/file/222F72EDEC31ACB7BC439499F4DD4AA4A94A6C48/65373.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 545,
+    "max_power": 615,
+    "defense": 41,
+    "infusion_slots": [],
+    "attribute_adjustment": 225.984,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 56
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 56
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 79
+        }
+      ]
+    }
+  }
+}

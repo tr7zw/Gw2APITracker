@@ -1,0 +1,27 @@
+{
+  "id": 1788,
+  "name": "Exposed Weaknesses: Redux",
+  "description": "Story Instance: Hidden Arcana",
+  "requirement": "Defeat the malevolent memory without transferring any boons to vortex crystals.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 20
+    }
+  ],
+  "prerequisites": [
+    1783
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 66670,
+      "count": 10
+    }
+  ]
+}

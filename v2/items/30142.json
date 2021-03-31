@@ -1,0 +1,53 @@
+{
+  "name": "Cistern Speargun",
+  "description": "\u003cc\u003d@flavor\u003e\"We had to completely re engineer the insides of these weapons to not get gummed up.\"\u003cbr\u003e—Engineer Verutum\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 61,
+  "rarity": "Masterwork",
+  "vendor_value": 156,
+  "default_skin": 5091,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30142,
+  "chat_link": "[\u0026AgG+dQAA]",
+  "icon": "https://render.guildwars2.com/file/935CD7A5037BB9F3C46E0D770D2DD9730ED74A18/62495.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 533,
+    "max_power": 589,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 379.44,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 95
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 95
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 133
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

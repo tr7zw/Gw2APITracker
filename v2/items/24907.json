@@ -1,0 +1,45 @@
+{
+  "name": "Embellished Gilded Lapis Jewel",
+  "description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 102,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24907,
+  "chat_link": "[\u0026AgFLYQAA]",
+  "icon": "https://render.guildwars2.com/file/49E37FA7C052AF2C91DEDDA2CDF33FF9C4C3E97A/340643.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "Trinket"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 530,
+      "buff": {
+        "skill_id": 321,
+        "description": "+10 Vitality\n+8 Toughness"
+      },
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 8
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 10
+        }
+      ]
+    },
+    "suffix": "of Lapis"
+  }
+}

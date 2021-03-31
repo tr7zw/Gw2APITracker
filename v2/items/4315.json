@@ -1,0 +1,47 @@
+{
+  "name": "Silent Walker\u0027s Shoes",
+  "description": "\u003cc\u003d@flavor\u003e\"Stride silently behind your prey.\"\u003cbr\u003e—Anonymous\u003c/c\u003e",
+  "type": "Armor",
+  "level": 37,
+  "rarity": "Masterwork",
+  "vendor_value": 70,
+  "default_skin": 887,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4315,
+  "chat_link": "[\u0026AgHbEAAA]",
+  "icon": "https://render.guildwars2.com/file/9C7E0C5C680DAA0AF4EE73ED5ED3B6C2E49B0250/61033.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 49,
+    "infusion_slots": [],
+    "attribute_adjustment": 36.2355,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 13
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 9
+        }
+      ]
+    },
+    "suffix_item_id": 24739
+  }
+}

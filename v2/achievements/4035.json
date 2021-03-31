@@ -1,0 +1,79 @@
+{
+  "id": 4035,
+  "icon": "https://render.guildwars2.com/file/B0564CD9E97C6D630EA6C6A593DC6CDCC903F42D/1302678.png",
+  "name": "Coalescence I: Unbridled",
+  "description": "Your predilection for violence has attracted the attention of malevolent energy. Perhaps you can soothe its bloodlust somehow.",
+  "requirement": "",
+  "locked_text": "Defeat a raid boss. (Only available to owners of Path of Fire.)",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 85852
+    },
+    {
+      "type": "Item",
+      "id": 86383
+    },
+    {
+      "type": "Item",
+      "id": 85855
+    },
+    {
+      "type": "Item",
+      "id": 85731
+    },
+    {
+      "type": "Item",
+      "id": 86381
+    },
+    {
+      "type": "Item",
+      "id": 86339
+    },
+    {
+      "type": "Item",
+      "id": 85937
+    },
+    {
+      "type": "Item",
+      "id": 85787
+    },
+    {
+      "type": "Item",
+      "id": 85953
+    },
+    {
+      "type": "Item",
+      "id": 85869
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 3
+    },
+    {
+      "count": 10,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 86104,
+      "count": 1
+    }
+  ]
+}

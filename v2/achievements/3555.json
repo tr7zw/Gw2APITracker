@@ -1,0 +1,70 @@
+{
+  "id": 3555,
+  "name": "Lost Lore of the Domain of Vabbi",
+  "description": "",
+  "requirement": "Collect all of the intelligence report pages to complete the report.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 84242
+    },
+    {
+      "type": "Item",
+      "id": 82575
+    },
+    {
+      "type": "Item",
+      "id": 82140
+    },
+    {
+      "type": "Item",
+      "id": 83692
+    },
+    {
+      "type": "Item",
+      "id": 83959
+    },
+    {
+      "type": "Item",
+      "id": 84697
+    },
+    {
+      "type": "Item",
+      "id": 84354
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 82913,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 346
+    }
+  ]
+}

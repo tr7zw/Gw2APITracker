@@ -1,0 +1,49 @@
+{
+  "name": "Rampager\u0027s Iron Rifle of Accuracy",
+  "description": "",
+  "type": "Weapon",
+  "level": 63,
+  "rarity": "Exotic",
+  "vendor_value": 324,
+  "default_skin": 4092,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27949,
+  "chat_link": "[\u0026AgEtbQAA]",
+  "icon": "https://render.guildwars2.com/file/167018D742BBF5120BE4ACE80DE5B049089D20F2/62700.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 732,
+    "max_power": 895,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 487.04,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 122
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 170
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 122
+        }
+      ]
+    },
+    "suffix_item_id": 24618
+  }
+}

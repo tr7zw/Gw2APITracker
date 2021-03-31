@@ -1,0 +1,51 @@
+{
+  "name": "Soldier\u0027s Iron Polearm",
+  "description": "",
+  "type": "Weapon",
+  "level": 65,
+  "rarity": "Masterwork",
+  "vendor_value": 1148,
+  "default_skin": 4156,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 35403,
+  "chat_link": "[\u0026AgFLigAA]",
+  "icon": "https://render.guildwars2.com/file/DCAD6461D629BBB5417CD8B6170E7CE27EB4DEF8/65195.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 571,
+    "max_power": 631,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 413.984,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 145
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 103
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 103
+        }
+      ]
+    }
+  }
+}

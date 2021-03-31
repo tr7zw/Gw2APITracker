@@ -1,0 +1,27 @@
+{
+  "id": 2174,
+  "name": "Totems of the Itzel",
+  "description": "Story Instance: \"The Jungle Provides\"",
+  "requirement": "Help the high priest recover the totems of the Jaaka Itzel tribe that are scattered throughout the surrounding jungle after the last Mordrem Guard attack.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    2315
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 74249,
+      "count": 1
+    }
+  ]
+}

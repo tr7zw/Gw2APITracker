@@ -1,0 +1,44 @@
+{
+  "name": "Wurm Lodge Short Bow",
+  "description": "\u003cc\u003d@flavor\u003e\"The string is made from wurm gut.\"\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 12,
+  "rarity": "Fine",
+  "vendor_value": 26,
+  "default_skin": 3906,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29401,
+  "chat_link": "[\u0026AgHZcgAA]",
+  "icon": "https://render.guildwars2.com/file/0EFDC626FD430DA00CD9240C95EC6DF0500DB45E/67068.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 173,
+    "max_power": 191,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 52.992,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 19
+        }
+      ]
+    }
+  }
+}

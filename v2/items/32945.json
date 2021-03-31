@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Flame Cleaver of Energy",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Rare",
+  "vendor_value": 183,
+  "default_skin": 5152,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32945,
+  "chat_link": "[\u0026AgGxgAAA]",
+  "icon": "https://render.guildwars2.com/file/DCF12F43C72FDFC44600425DFB6B9F4FC1CA5342/67831.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 687,
+    "max_power": 839,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 269.208,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 67
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 67
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 94
+        }
+      ]
+    },
+    "suffix_item_id": 24606
+  }
+}

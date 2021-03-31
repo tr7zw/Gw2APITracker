@@ -1,0 +1,44 @@
+{
+  "name": "Lingering Protean Boots",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 425,
+  "default_skin": 292,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Asura"
+  ],
+  "id": 3591,
+  "chat_link": "[\u0026AgEHDgAA]",
+  "icon": "https://render.guildwars2.com/file/055EB2DD7FA63B5CC6A801129505A158425635B2/339725.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 51,
+    "infusion_slots": [],
+    "attribute_adjustment": 36.963,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 9
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 13
+        }
+      ]
+    }
+  }
+}

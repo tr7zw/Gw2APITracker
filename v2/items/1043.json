@@ -1,0 +1,47 @@
+{
+  "name": "Shaman\u0027s Scallywag Chest of Divinity",
+  "description": "",
+  "type": "Armor",
+  "level": 65,
+  "rarity": "Exotic",
+  "vendor_value": 330,
+  "default_skin": 8,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 1043,
+  "chat_link": "[\u0026AgETBAAA]",
+  "icon": "https://render.guildwars2.com/file/B6B564EFEBF6A3075A27E96F1DB97779139EA0D2/61044.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 272,
+    "infusion_slots": [],
+    "attribute_adjustment": 286.47,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 100
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 72
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 72
+        }
+      ]
+    },
+    "suffix_item_id": 24732
+  }
+}

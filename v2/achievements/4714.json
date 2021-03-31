@@ -1,0 +1,56 @@
+{
+  "id": 4714,
+  "name": "Newborn Skyscales",
+  "description": "",
+  "requirement": "Something is wrong with the skyscales.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 90435
+    },
+    {
+      "type": "Item",
+      "id": 90860
+    },
+    {
+      "type": "Item",
+      "id": 90429
+    },
+    {
+      "type": "Item",
+      "id": 90413
+    },
+    {
+      "type": "Item",
+      "id": 90627
+    },
+    {
+      "type": "Item",
+      "id": 90604
+    },
+    {
+      "type": "Item",
+      "id": 90869
+    },
+    {
+      "type": "Item",
+      "id": 90380
+    }
+  ],
+  "tiers": [
+    {
+      "count": 8,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    4747
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Rejuvenating Seasoned Wood Longbow",
+  "description": "",
+  "type": "Weapon",
+  "level": 45,
+  "rarity": "Fine",
+  "vendor_value": 62,
+  "default_skin": 5685,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 14721,
+  "chat_link": "[\u0026AgGBOQAA]",
+  "icon": "https://render.guildwars2.com/file/C6110F52DF5AFE0F00A56F9E143E9732176DDDE9/65015.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 362,
+    "max_power": 425,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 228.096,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 57
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 80
+        }
+      ]
+    }
+  }
+}

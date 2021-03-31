@@ -1,0 +1,40 @@
+{
+  "name": "Strong Chainmail Chestpiece",
+  "description": "",
+  "type": "Armor",
+  "level": 40,
+  "rarity": "Basic",
+  "vendor_value": 29,
+  "default_skin": 2,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 2865,
+  "chat_link": "[\u0026AgExCwAA]",
+  "icon": "https://render.guildwars2.com/file/A2D0D6DA90056E76F1BE244F0C9EF333F95D9746/61098.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 89,
+    "infusion_slots": [],
+    "attribute_adjustment": 86.112,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 30
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 22
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 4531,
+  "name": "Chasing Tales: A Light in the Dark",
+  "description": "Haliver would go where no other would.",
+  "requirement": "Defeat 30 enemies while wielding a torch in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Haliver the Seeker."
+    },
+    {
+      "type": "Text",
+      "text": "Defeated 30 enemies with a torch in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89737,
+      "count": 1
+    }
+  ]
+}

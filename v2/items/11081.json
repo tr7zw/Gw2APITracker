@@ -1,0 +1,40 @@
+{
+  "name": "Hearty Student Mantle",
+  "description": "",
+  "type": "Armor",
+  "level": 30,
+  "rarity": "Fine",
+  "vendor_value": 35,
+  "default_skin": 154,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 11081,
+  "chat_link": "[\u0026AgFJKwAA]",
+  "icon": "https://render.guildwars2.com/file/E8645143CCBA75257E607194250170FBE5BB510C/61410.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 17,
+    "infusion_slots": [],
+    "attribute_adjustment": 25.08,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 6
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

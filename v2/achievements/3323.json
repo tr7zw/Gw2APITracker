@@ -1,0 +1,28 @@
+{
+  "id": 3323,
+  "name": "Honorary Crew Member",
+  "description": "",
+  "requirement": "Prevent skritt and White Mantle looters from getting away with any supplies stolen from the SS Pinkeens.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Stop the skritt."
+    },
+    {
+      "type": "Text",
+      "text": "Stop the White Mantle."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    }
+  ]
+}

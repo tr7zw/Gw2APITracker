@@ -1,0 +1,42 @@
+{
+  "name": "Vigorous Scale Helm",
+  "description": "",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Masterwork",
+  "vendor_value": 85,
+  "default_skin": 258,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 10404,
+  "chat_link": "[\u0026AgGkKAAA]",
+  "icon": "https://render.guildwars2.com/file/624CAAAC0D91F114D6CD6C02096EB9B02B40C23D/63238.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 36,
+    "infusion_slots": [],
+    "attribute_adjustment": 44.812,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 16
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 11
+        }
+      ]
+    }
+  }
+}

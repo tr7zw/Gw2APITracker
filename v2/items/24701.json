@@ -1,0 +1,40 @@
+{
+  "name": "Major Rune of the Pack",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eSkill\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 108,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24701,
+  "chat_link": "[\u0026AgF9YAAA]",
+  "icon": "https://render.guildwars2.com/file/3F6CE23F992D2A5B4E12794B094CFA4477FAC067/221058.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+15 Power",
+      "+3% Boon Duration",
+      "+30 Power",
+      "+6% Boon Duration"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Pack"
+  }
+}

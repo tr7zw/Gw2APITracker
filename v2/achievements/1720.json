@@ -1,0 +1,81 @@
+{
+  "id": 1720,
+  "name": "Uncanny Canner",
+  "description": "",
+  "requirement": "Collect all  jarred trinkets from vendors around Tyria.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 8746
+    },
+    {
+      "type": "Item",
+      "id": 23762
+    },
+    {
+      "type": "Item",
+      "id": 23763
+    },
+    {
+      "type": "Item",
+      "id": 23786
+    },
+    {
+      "type": "Item",
+      "id": 23960
+    },
+    {
+      "type": "Item",
+      "id": 23973
+    },
+    {
+      "type": "Item",
+      "id": 23335
+    },
+    {
+      "type": "Item",
+      "id": 23868
+    },
+    {
+      "type": "Item",
+      "id": 23863
+    },
+    {
+      "type": "Item",
+      "id": 67192
+    },
+    {
+      "type": "Item",
+      "id": 67191
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 11,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 67176,
+      "count": 1
+    }
+  ]
+}

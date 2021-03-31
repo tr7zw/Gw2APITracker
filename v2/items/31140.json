@@ -1,0 +1,53 @@
+{
+  "name": "Whisper\u0027s Secret Staff",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 6900,
+  "default_skin": 4906,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 31140,
+  "chat_link": "[\u0026AgGkeQAA]",
+  "icon": "https://render.guildwars2.com/file/039F4E9542A47B765D4DD69BB4AE0957EADA2771/66657.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 872,
+    "max_power": 984,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 603.648,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 151
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 151
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 211
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

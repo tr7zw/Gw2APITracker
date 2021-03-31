@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Etched Speargun of Blood",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Exotic",
+  "vendor_value": 318,
+  "default_skin": 5100,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25476,
+  "chat_link": "[\u0026AgGEYwAA]",
+  "icon": "https://render.guildwars2.com/file/469625010B1926BC6AC1DA0FDF46F0DB78BE09FA/526108.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 661,
+    "max_power": 730,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 476.8,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 167
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 119
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 119
+        }
+      ]
+    },
+    "suffix_item_id": 24570
+  }
+}

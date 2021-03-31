@@ -1,0 +1,51 @@
+{
+  "name": "Settler\u0027s Cabalist Coat of Balthazar",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 198,
+  "default_skin": 51,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 42510,
+  "chat_link": "[\u0026AgEOpgAA]",
+  "icon": "https://render.guildwars2.com/file/73CEB0F9515E0627321A15DA1CA4A6F3F51A4CE6/61019.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 258,
+    "infusion_slots": [],
+    "attribute_adjustment": 314.951,
+    "infix_upgrade": {
+      "id": 693,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 110
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 79
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 79
+        }
+      ]
+    },
+    "suffix_item_id": 24763
+  }
+}

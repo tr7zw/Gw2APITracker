@@ -1,0 +1,51 @@
+{
+  "name": "Severed Breach Helm",
+  "description": "\u003cc\u003d@flavor\u003e\"You can\u0027t beat your enemy if you have your skull caved in, can you?\"\u003cbr\u003e—Legionnaire Neverburn\u003c/c\u003e",
+  "type": "Armor",
+  "level": 61,
+  "rarity": "Masterwork",
+  "vendor_value": 130,
+  "default_skin": 919,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4358,
+  "chat_link": "[\u0026AgEGEQAA]",
+  "icon": "https://render.guildwars2.com/file/4AEE36464FD5E6C0FDB50AB22D59994B665836D5/61283.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 68,
+    "infusion_slots": [],
+    "attribute_adjustment": 94.86,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 33
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 24
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 24
+        }
+      ]
+    },
+    "suffix_item_id": 24739
+  }
+}

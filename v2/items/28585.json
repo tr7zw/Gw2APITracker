@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Iron Spear of Perception",
+  "description": "",
+  "type": "Weapon",
+  "level": 73,
+  "rarity": "Exotic",
+  "vendor_value": 366,
+  "default_skin": 4000,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28585,
+  "chat_link": "[\u0026AgGpbwAA]",
+  "icon": "https://render.guildwars2.com/file/9AC302D1031B5C31806D0703FBC1944C01D4A240/561998.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 805,
+    "max_power": 890,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 598.24,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 209
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 150
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 150
+        }
+      ]
+    },
+    "suffix_item_id": 24580
+  }
+}

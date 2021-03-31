@@ -1,0 +1,48 @@
+{
+  "name": "Bringer\u0027s Darksteel Hammer",
+  "description": "",
+  "type": "Weapon",
+  "level": 65,
+  "rarity": "Rare",
+  "vendor_value": 248,
+  "default_skin": 4087,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 38342,
+  "chat_link": "[\u0026AgHGlQAA]",
+  "icon": "https://render.guildwars2.com/file/2F4509F15B48B1A9F1579D08539F4109972A31A4/65162.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 671,
+    "max_power": 757,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 448.272,
+    "infix_upgrade": {
+      "id": 1032,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 112
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 112
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 157
+        }
+      ]
+    }
+  }
+}

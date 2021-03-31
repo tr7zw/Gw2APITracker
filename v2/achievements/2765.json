@@ -1,0 +1,46 @@
+{
+  "id": 2765,
+  "icon": "https://render.guildwars2.com/file/2A2DA0B946A85A0DB5D59E0703796C26AB4D650D/1914854.png",
+  "name": "Festive Imbiber",
+  "description": "All of these holiday drinks can cause a headache!",
+  "requirement": "Drink  Wintersday drinks. These include spiced cider, buttered spirits, and eggnog.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 50,
+      "points": 1
+    },
+    {
+      "count": 100,
+      "points": 2
+    },
+    {
+      "count": 1000,
+      "points": 3
+    },
+    {
+      "count": 5000,
+      "points": 4
+    },
+    {
+      "count": 10000,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 77633,
+      "count": 1
+    },
+    {
+      "type": "Title",
+      "id": 235
+    }
+  ]
+}

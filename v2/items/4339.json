@@ -1,0 +1,46 @@
+{
+  "name": "Pit Fighter\u0027s Shoulderguard",
+  "description": "\u003cc\u003d@flavor\u003eProtection from beast attacks.\u003c/c\u003e",
+  "type": "Armor",
+  "level": 36,
+  "rarity": "Fine",
+  "vendor_value": 39,
+  "default_skin": 897,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4339,
+  "chat_link": "[\u0026AgHzEAAA]",
+  "icon": "https://render.guildwars2.com/file/E2910F0838E7171E0FADE1971407FD66525917A3/61260.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "defense": 34,
+    "infusion_slots": [],
+    "attribute_adjustment": 31.632,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 8
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 11
+        }
+      ]
+    }
+  }
+}

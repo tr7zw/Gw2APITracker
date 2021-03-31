@@ -1,0 +1,40 @@
+{
+  "name": "Ravaging Country Mantle",
+  "description": "",
+  "type": "Armor",
+  "level": 29,
+  "rarity": "Fine",
+  "vendor_value": 33,
+  "default_skin": 64,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 2732,
+  "chat_link": "[\u0026AgGsCgAA]",
+  "icon": "https://render.guildwars2.com/file/5DA8BA0F9E99A554FB74017361F60DB2053695A6/61093.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 17,
+    "infusion_slots": [],
+    "attribute_adjustment": 23.976,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 6
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

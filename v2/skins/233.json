@@ -1,0 +1,30 @@
+{
+  "name": "Noble Shoulders",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 233,
+  "icon": "https://render.guildwars2.com/file/7E3BE44CFD057B08F442092F5D0EF0FBDA6D992D/61445.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Medium",
+    "dye_slots": {
+      "default": [
+        null,
+        null,
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        }
+      ],
+      "overrides": {}
+    }
+  }
+}

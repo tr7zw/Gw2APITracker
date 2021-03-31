@@ -1,0 +1,26 @@
+{
+  "name": "Leadfoot Village Container",
+  "description": "Only provides rewards if Leadfoot Village is held when a supply drop occurs.",
+  "type": "Container",
+  "level": 0,
+  "rarity": "Junk",
+  "vendor_value": 0,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 93531,
+  "chat_link": "[\u0026AgFbbQEA]",
+  "icon": "https://render.guildwars2.com/file/D0069F07EBCD7E706D0ACA324F0354DE3B63B66D/2293130.png",
+  "details": {
+    "type": "Immediate"
+  }
+}

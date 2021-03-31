@@ -1,0 +1,45 @@
+{
+  "name": "Hearty Iron Rifle of Smoldering",
+  "description": "",
+  "type": "Weapon",
+  "level": 52,
+  "rarity": "Masterwork",
+  "vendor_value": 138,
+  "default_skin": 4092,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28146,
+  "chat_link": "[\u0026AgHybQAA]",
+  "icon": "https://render.guildwars2.com/file/167018D742BBF5120BE4ACE80DE5B049089D20F2/62700.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 488,
+    "max_power": 596,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 304.096,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 76
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 106
+        }
+      ]
+    },
+    "suffix_item_id": 24622
+  }
+}

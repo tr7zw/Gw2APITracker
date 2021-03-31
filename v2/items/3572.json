@@ -1,0 +1,48 @@
+{
+  "name": "Soldier\u0027s Eagle Mail",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 2500,
+  "default_skin": 448,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Norn"
+  ],
+  "id": 3572,
+  "chat_link": "[\u0026AgH0DQAA]",
+  "icon": "https://render.guildwars2.com/file/965B2A38BA95FE757867486BBF2244940CAAB4D0/779792.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 216,
+    "infusion_slots": [],
+    "attribute_adjustment": 225.99,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 79
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 56
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        }
+      ]
+    }
+  }
+}

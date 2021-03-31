@@ -1,0 +1,53 @@
+{
+  "name": "Rivited Greatsword",
+  "description": "\u003cc\u003d@flavor\u003e\"Made out of pure rivets, remolded into one great sword. Iron Legion doesn\u0027t waste a single piece of scrap.\"\u003cbr\u003e—Helo Murkhaunt\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 59,
+  "rarity": "Masterwork",
+  "vendor_value": 153,
+  "default_skin": 5218,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30091,
+  "chat_link": "[\u0026AgGLdQAA]",
+  "icon": "https://render.guildwars2.com/file/D8325BBDF9DDCA3F422531492B0CEC7BA34C9ACB/66762.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 565,
+    "max_power": 624,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 362.168,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 91
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 91
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 127
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

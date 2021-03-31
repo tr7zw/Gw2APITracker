@@ -1,0 +1,37 @@
+{
+  "name": "Resilient Krytan Sword",
+  "type": "Weapon",
+  "level": 1,
+  "rarity": "Fine",
+  "vendor_value": 6,
+  "default_skin": 5020,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 33498,
+  "chat_link": "[\u0026AgHaggAA]",
+  "icon": "https://render.guildwars2.com/file/9AF522FA610E744803AE9F42063EABA5AA0F57B2/61730.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 139,
+    "max_power": 153,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 12.672,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

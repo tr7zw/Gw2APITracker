@@ -1,0 +1,45 @@
+{
+  "name": "Honed Iron Hammer of Accuracy",
+  "description": "",
+  "type": "Weapon",
+  "level": 39,
+  "rarity": "Masterwork",
+  "vendor_value": 111,
+  "default_skin": 4060,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27823,
+  "chat_link": "[\u0026AgGvbAAA]",
+  "icon": "https://render.guildwars2.com/file/2F4509F15B48B1A9F1579D08539F4109972A31A4/65162.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 372,
+    "max_power": 420,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 207.264,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 73
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 52
+        }
+      ]
+    },
+    "suffix_item_id": 24616
+  }
+}

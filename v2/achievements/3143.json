@@ -1,0 +1,29 @@
+{
+  "id": 3143,
+  "name": "Coliseum of Glory",
+  "description": "Lion or Dragon? Which will be victorious?",
+  "requirement": "Earn glory in the Eternal Coliseum by completing these achievements.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 247
+    },
+    {
+      "type": "Coins",
+      "count": 50000
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Survivor\u0027s Flangeflare",
+  "type": "Weapon",
+  "level": 34,
+  "rarity": "Masterwork",
+  "vendor_value": 70,
+  "default_skin": 5005,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 52820,
+  "chat_link": "[\u0026AgFUzgAA]",
+  "icon": "https://render.guildwars2.com/file/D81434679966BBCEB97B7B681833BC38E73694F2/61688.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 324,
+    "max_power": 365,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 96.628,
+    "infix_upgrade": {
+      "id": 1013,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 24
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 34
+        }
+      ]
+    }
+  }
+}

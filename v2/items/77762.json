@@ -1,0 +1,27 @@
+{
+  "name": "Lucky Firecracker",
+  "description": "Double-click to activate a one-time firework. Cannot be used in WvW.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "NoUnderwater",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 77762,
+  "chat_link": "[\u0026AgHCLwEA]",
+  "icon": "https://render.guildwars2.com/file/1E693FEBB26EA60C35680CFC70E2390F1D055541/1341435.png",
+  "details": {
+    "type": "Generic"
+  }
+}

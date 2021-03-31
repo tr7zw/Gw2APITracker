@@ -1,0 +1,56 @@
+{
+  "name": "Net Turret",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 900
+    },
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 30
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+      "duration": 3,
+      "status": "Immobile",
+      "description": "Unable to move; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Rate of Fire",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "duration": 10
+    },
+    {
+      "text": "Attack Range",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "distance": 600
+    }
+  ],
+  "description": "Turret. Build a net turret that immobilizes nearby foes.",
+  "icon": "https://render.guildwars2.com/file/45E806991F041B297A5D270A46C832E4E3B2A567/103110.png",
+  "type": "Utility",
+  "weapon_type": "None",
+  "professions": [
+    "Engineer"
+  ],
+  "slot": "Utility",
+  "toolbelt_skill": 6179,
+  "flags": [
+    "GroundTargeted",
+    "NoUnderwater"
+  ],
+  "id": 5988,
+  "chat_link": "[\u0026BmQXAAA\u003d]",
+  "categories": [
+    "Turret"
+  ]
+}

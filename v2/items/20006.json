@@ -1,0 +1,28 @@
+{
+  "name": "Magic Find Booster",
+  "description": "Double-click to gain an enhancement that gives an additional 50% Magic Find for one hour.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 0,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 20006,
+  "chat_link": "[\u0026AgEmTgAA]",
+  "icon": "https://render.guildwars2.com/file/F1E6C29D6A783A9563E5D516532C6E079C5A6069/66669.png",
+  "details": {
+    "type": "Halloween"
+  }
+}

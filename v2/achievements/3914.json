@@ -1,0 +1,78 @@
+{
+  "id": 3914,
+  "name": "Mini Raptor Hatchling Collection",
+  "description": "",
+  "requirement": "Unlock all Raptor Hatchling miniatures in your wardrobe.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Minipet",
+      "id": 589
+    },
+    {
+      "type": "Minipet",
+      "id": 598
+    },
+    {
+      "type": "Minipet",
+      "id": 586
+    },
+    {
+      "type": "Minipet",
+      "id": 596
+    },
+    {
+      "type": "Minipet",
+      "id": 590
+    },
+    {
+      "type": "Minipet",
+      "id": 593
+    },
+    {
+      "type": "Minipet",
+      "id": 591
+    },
+    {
+      "type": "Minipet",
+      "id": 588
+    },
+    {
+      "type": "Minipet",
+      "id": 592
+    },
+    {
+      "type": "Minipet",
+      "id": 587
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 3
+    },
+    {
+      "count": 10,
+      "points": 6
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 85306,
+      "count": 1
+    }
+  ]
+}

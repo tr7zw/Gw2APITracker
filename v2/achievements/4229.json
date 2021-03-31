@@ -1,0 +1,28 @@
+{
+  "id": 4229,
+  "name": "[FTT 304] Proficient Dynamics—Shield Bubble Level 3",
+  "description": "",
+  "requirement": "Applied / Shield Bubble Level 2 Upgrades",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 8,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    4240
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 87822,
+      "count": 1
+    }
+  ]
+}

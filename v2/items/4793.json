@@ -1,0 +1,46 @@
+{
+  "name": "Heavy Priory Shoulderguards",
+  "description": "\u003cc\u003d@flavor\u003e\"Shoulderguards built for a hero.\"\u003cbr\u003e—Arcanist Sol\u003c/c\u003e",
+  "type": "Armor",
+  "level": 53,
+  "rarity": "Fine",
+  "vendor_value": 52,
+  "default_skin": 884,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4793,
+  "chat_link": "[\u0026AgG5EgAA]",
+  "icon": "https://render.guildwars2.com/file/AF5294595CE2FC00C835BEC0B4F739CE35E0D6B0/61561.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "defense": 53,
+    "infusion_slots": [],
+    "attribute_adjustment": 53.664,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 13
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 19
+        }
+      ]
+    }
+  }
+}

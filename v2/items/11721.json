@@ -1,0 +1,42 @@
+{
+  "name": "Hearty Outlaw Mask",
+  "description": "",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Masterwork",
+  "vendor_value": 85,
+  "default_skin": 261,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 11721,
+  "chat_link": "[\u0026AgHJLQAA]",
+  "icon": "https://render.guildwars2.com/file/1D15777EFD4925DF4AC2AE5ABC606097B92B96E1/61425.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 29,
+    "infusion_slots": [],
+    "attribute_adjustment": 44.812,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 11
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 16
+        }
+      ]
+    }
+  }
+}

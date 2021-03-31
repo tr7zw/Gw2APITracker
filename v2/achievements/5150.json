@@ -1,0 +1,29 @@
+{
+  "id": 5150,
+  "icon": "https://render.guildwars2.com/file/64A40708CB45F2227514794740BBA5CBD677A810/2261498.png",
+  "name": "First Foods Crafted",
+  "description": "Never go adventuring on an empty stomach.",
+  "requirement": "Craft 5 food consumables.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 4
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 92914,
+      "count": 1
+    }
+  ]
+}

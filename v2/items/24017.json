@@ -1,0 +1,45 @@
+{
+  "name": "Invader\u0027s Amulet",
+  "description": "",
+  "type": "Trinket",
+  "level": 70,
+  "rarity": "Exotic",
+  "vendor_value": 472,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 24017,
+  "chat_link": "[\u0026AgHRXQAA]",
+  "icon": "https://render.guildwars2.com/file/4D9C6F58C20F052359BA5D1D10B9E4B97ED5F012/66791.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 282.48,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 99
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 71
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 71
+        }
+      ]
+    }
+  }
+}

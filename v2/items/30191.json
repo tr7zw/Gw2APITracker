@@ -1,0 +1,48 @@
+{
+  "name": "Sentinel Scout Rifle",
+  "description": "\u003cc\u003d@flavor\u003e\"This should help the Inquest with their research, if you know what I mean.\"\u003cbr\u003e—Sentinel Liharn\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Fine",
+  "vendor_value": 63,
+  "default_skin": 4092,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30191,
+  "chat_link": "[\u0026AgHvdQAA]",
+  "icon": "https://render.guildwars2.com/file/167018D742BBF5120BE4ACE80DE5B049089D20F2/62700.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 395,
+    "max_power": 483,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 234.624,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 82
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 59
+        }
+      ]
+    }
+  }
+}

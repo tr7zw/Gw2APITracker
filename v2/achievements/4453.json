@@ -1,0 +1,80 @@
+{
+  "id": 4453,
+  "name": "Mad Maleficence",
+  "description": "Old grudges never die.",
+  "requirement": "Track down trophies of the eternal feud between Mad King Thorn and Palawa Joko during Halloween, when the Mad Realm draws near.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 89055
+    },
+    {
+      "type": "Item",
+      "id": 89047
+    },
+    {
+      "type": "Item",
+      "id": 89056
+    },
+    {
+      "type": "Item",
+      "id": 89061
+    },
+    {
+      "type": "Item",
+      "id": 89077
+    },
+    {
+      "type": "Item",
+      "id": 89000
+    },
+    {
+      "type": "Item",
+      "id": 89048
+    },
+    {
+      "type": "Item",
+      "id": 89027
+    },
+    {
+      "type": "Item",
+      "id": 88996
+    },
+    {
+      "type": "Item",
+      "id": 89035
+    },
+    {
+      "type": "Item",
+      "id": 89025
+    },
+    {
+      "type": "Item",
+      "id": 89076
+    },
+    {
+      "type": "Item",
+      "id": 89006
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 13,
+      "points": 4
+    }
+  ],
+  "prerequisites": [
+    4450
+  ]
+}

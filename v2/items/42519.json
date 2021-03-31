@@ -1,0 +1,51 @@
+{
+  "name": "Settler\u0027s Privateer Pants of Lyssa",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 185,
+  "default_skin": 44,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 42519,
+  "chat_link": "[\u0026AgEXpgAA]",
+  "icon": "https://render.guildwars2.com/file/DDC5DC137A135FBA1E080C042C020831C9B6DEB0/61055.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Medium",
+    "defense": 179,
+    "infusion_slots": [],
+    "attribute_adjustment": 209.967,
+    "infix_upgrade": {
+      "id": 693,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 73
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 52
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 52
+        }
+      ]
+    },
+    "suffix_item_id": 24774
+  }
+}

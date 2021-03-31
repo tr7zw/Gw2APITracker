@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Flame Spear of Corruption",
+  "type": "Weapon",
+  "level": 67,
+  "rarity": "Rare",
+  "vendor_value": 252,
+  "default_skin": 5187,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32964,
+  "chat_link": "[\u0026AgHEgAAA]",
+  "icon": "https://render.guildwars2.com/file/C9D4D7EEDFBC454492A3BCCE050F2EC2E8000851/780622.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 641,
+    "max_power": 708,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 468.432,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 117
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 117
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 164
+        }
+      ]
+    },
+    "suffix_item_id": 24577
+  }
+}

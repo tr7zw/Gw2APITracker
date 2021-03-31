@@ -1,0 +1,39 @@
+{
+  "id": 4527,
+  "name": "Chasing Tales: Critical Instinct",
+  "description": "Sharp tongue, sharper sword.",
+  "requirement": "Deal 200 critical strikes with a greatsword in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Kobbel the Poetic."
+    },
+    {
+      "type": "Text",
+      "text": "Dealt 200 critical strikes with a greatsword in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89795,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Medallion of the Rabid",
+  "description": "Double-click to apply to an item with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 65,
+  "rarity": "Masterwork",
+  "vendor_value": 110,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24531,
+  "chat_link": "[\u0026AgHTXwAA]",
+  "icon": "https://render.guildwars2.com/file/F53E38DCF21ACB78EA76A2E94E1BDF73AAD903F9/340589.png",
+  "details": {
+    "type": "Gem",
+    "flags": [
+      "ShortBow",
+      "HeavyArmor",
+      "LightArmor",
+      "Dagger",
+      "MediumArmor",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Trinket",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 136,
+      "buff": {
+        "skill_id": 82,
+        "description": "+14 Condition Damage\n+10 Precision\n+10 Toughness"
+      },
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 10
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 10
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 14
+        }
+      ]
+    },
+    "suffix": "of the Rabid"
+  }
+}

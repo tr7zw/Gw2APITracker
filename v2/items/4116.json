@@ -1,0 +1,50 @@
+{
+  "name": "Arundon Heavy Gloves",
+  "description": "\u003cc\u003d@flavor\u003e\"This way you don\u0027t have to touch...them.\"\u003cbr\u003e—Explorer Erikk\u003c/c\u003e",
+  "type": "Armor",
+  "level": 71,
+  "rarity": "Fine",
+  "vendor_value": 54,
+  "default_skin": 896,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4116,
+  "chat_link": "[\u0026AgEUEAAA]",
+  "icon": "https://render.guildwars2.com/file/2D04F4B417D82BD6AB4714010CE23071A9489961/61558.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 116,
+    "infusion_slots": [],
+    "attribute_adjustment": 81.408,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 20
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 20
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 28
+        }
+      ]
+    }
+  }
+}

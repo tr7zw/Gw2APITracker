@@ -1,0 +1,35 @@
+{
+  "id": 3989,
+  "name": "Sunk Cost",
+  "description": "Sometimes the gold isn\u0027t worth it.",
+  "requirement": "Destroy each of the three Corsair ships during the Palawadan raid.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Scoundrel\u0027s Bounty"
+    },
+    {
+      "type": "Text",
+      "text": "The Marauder"
+    },
+    {
+      "type": "Text",
+      "text": "The Red Dagger"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    }
+  ]
+}

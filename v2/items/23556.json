@@ -1,0 +1,43 @@
+{
+  "name": "Broken Flute",
+  "description": "\u003cc\u003d@flavor\u003eA wellworn flute.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 30,
+  "rarity": "Fine",
+  "vendor_value": 39,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23556,
+  "chat_link": "[\u0026AgEEXAAA]",
+  "icon": "https://render.guildwars2.com/file/5905765D7200C5D40B6A27EB4A0B700208F15F4C/455934.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 41.8,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 10
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 15
+        }
+      ]
+    }
+  }
+}

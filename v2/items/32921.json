@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Flame Guard of Earth",
+  "type": "Weapon",
+  "level": 53,
+  "rarity": "Rare",
+  "vendor_value": 141,
+  "default_skin": 5128,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32921,
+  "chat_link": "[\u0026AgGZgAAA]",
+  "icon": "https://render.guildwars2.com/file/9AEC99D35450EEC8F691C97F7770303BF759D9ED/67840.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 439,
+    "max_power": 495,
+    "defense": 31,
+    "infusion_slots": [],
+    "attribute_adjustment": 169.272,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 42
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 59
+        }
+      ]
+    },
+    "suffix_item_id": 24559
+  }
+}

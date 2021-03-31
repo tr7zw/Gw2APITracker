@@ -1,0 +1,49 @@
+{
+  "name": "Devourer Handler\u0027s Short Bow",
+  "description": "\u003cc\u003d@flavor\u003e\"Can\u0027t be unarmed with the flame legion skulking about.\"\u003cbr\u003e—Braxa Scalehunter\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 54,
+  "rarity": "Masterwork",
+  "vendor_value": 141,
+  "default_skin": 5139,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30077,
+  "chat_link": "[\u0026AgF9dQAA]",
+  "icon": "https://render.guildwars2.com/file/05A0E9E8BD7E5144E5FA1D54E0AE4803D536A20D/68162.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 466,
+    "max_power": 515,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 319.736,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 112
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 80
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

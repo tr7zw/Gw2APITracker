@@ -1,0 +1,51 @@
+{
+  "name": "Bringer\u0027s Rimed Verdant Rifle of Ice",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 9092,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92565,
+  "chat_link": "[\u0026AgGVaQEA]",
+  "icon": "https://render.guildwars2.com/file/C442E7FE28B5250E1E14AC1D780FCF353F086145/2236566.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 986,
+    "max_power": 1205,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 1032,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 171
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 171
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 239
+        }
+      ]
+    },
+    "suffix_item_id": 24555
+  }
+}

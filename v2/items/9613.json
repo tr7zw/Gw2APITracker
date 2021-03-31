@@ -1,0 +1,27 @@
+{
+  "name": "Recipe: Degun Stew",
+  "description": "A recipe to make Degun Stew",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 9,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9613,
+  "chat_link": "[\u0026AgGNJQAA]",
+  "icon": "https://render.guildwars2.com/file/B609EB03A009033D5655159232E2B9436EB8B630/849269.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 3163
+  }
+}

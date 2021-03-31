@@ -1,0 +1,49 @@
+{
+  "id": 4694,
+  "name": "Skyscale of Fire",
+  "description": "",
+  "requirement": "Infuse your skyscale egg with fire.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 90547
+    },
+    {
+      "type": "Item",
+      "id": 90921
+    },
+    {
+      "type": "Item",
+      "id": 90826
+    },
+    {
+      "type": "Item",
+      "id": 90696
+    },
+    {
+      "type": "Item",
+      "id": 90242
+    }
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 90188,
+      "count": 1
+    }
+  ]
+}

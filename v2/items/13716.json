@@ -1,0 +1,48 @@
+{
+  "name": "Soldier\u0027s Verdant Scepter",
+  "description": "",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Masterwork",
+  "vendor_value": 104,
+  "default_skin": 3881,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 13716,
+  "chat_link": "[\u0026AgGUNQAA]",
+  "icon": "https://render.guildwars2.com/file/A8DD23316F0219FD72BD06DC492BC666EB28C943/433745.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 517,
+    "max_power": 583,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 185.368,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 65
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 46
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 46
+        }
+      ]
+    }
+  }
+}

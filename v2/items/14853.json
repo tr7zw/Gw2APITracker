@@ -1,0 +1,44 @@
+{
+  "name": "Hearty Dredge Boomstick",
+  "description": "",
+  "type": "Weapon",
+  "level": 50,
+  "rarity": "Rare",
+  "vendor_value": 203,
+  "default_skin": 4104,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 14853,
+  "chat_link": "[\u0026AgEFOgAA]",
+  "icon": "https://render.guildwars2.com/file/CE77194AB7CDCAFA226CF575CD2101C95A68DCE8/574936.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 506,
+    "max_power": 619,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 313.632,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 78
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 110
+        }
+      ]
+    }
+  }
+}

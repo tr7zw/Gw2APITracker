@@ -1,0 +1,42 @@
+{
+  "name": "Hearty Iron Axe",
+  "description": "",
+  "type": "Weapon",
+  "level": 43,
+  "rarity": "Fine",
+  "vendor_value": 40,
+  "default_skin": 3962,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 25856,
+  "chat_link": "[\u0026AgEAZQAA]",
+  "icon": "https://render.guildwars2.com/file/C8EAC643C02F41B918D79031B6060B0CBFE40CAD/64967.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 324,
+    "max_power": 396,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 107.456,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 27
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 38
+        }
+      ]
+    }
+  }
+}

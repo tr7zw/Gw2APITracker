@@ -1,0 +1,50 @@
+{
+  "name": "Gilded Cipher Blade",
+  "description": "Oddly delicate for a norn to use, with unusual teeth near the tip of the blade. Perhaps it is more than just a weapon?",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 9000,
+  "default_skin": 9500,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 93893,
+  "chat_link": "[\u0026AgHFbgEA]",
+  "icon": "https://render.guildwars2.com/file/EEB8F458C95F2156CC0E93CF191ED6E51F9CC674/2314475.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 905,
+    "max_power": 1000,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 754,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 85
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 85
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 120
+        }
+      ]
+    }
+  }
+}

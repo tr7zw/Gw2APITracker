@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Auxiliary Powered Leggings",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 1875,
+  "default_skin": 287,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Asura"
+  ],
+  "id": 3606,
+  "chat_link": "[\u0026AgEWDgAA]",
+  "icon": "https://render.guildwars2.com/file/4103BAD0F6E3AF5D1D3FF2DAF5B6CBF9FC476E63/61166.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Medium",
+    "defense": 130,
+    "infusion_slots": [],
+    "attribute_adjustment": 150.66,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 38
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 38
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 53
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 3658,
+  "name": "Elon River Dive Master",
+  "description": "",
+  "requirement": "Use diving goggles at the various diving locations across the Elon Riverlands.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Skimshallow Cove Point"
+    },
+    {
+      "type": "Text",
+      "text": "Overlooking Palawa\u0027s Grace"
+    },
+    {
+      "type": "Text",
+      "text": "Southern Vulture Drifts Spire"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 3
+    }
+  ]
+}

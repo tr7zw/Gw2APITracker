@@ -1,0 +1,44 @@
+{
+  "name": "Model ZIPP01 Scepter",
+  "description": "\u003cc\u003d@flavor\u003e\"I had to make minor adjustments after getting these in. You won\u0027t be disappointed.\"\u003cbr\u003e—Researcher Zippti\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 11,
+  "rarity": "Fine",
+  "vendor_value": 16,
+  "default_skin": 3866,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30554,
+  "chat_link": "[\u0026AgFadwAA]",
+  "icon": "https://render.guildwars2.com/file/40539A620E4FF85EEE0D104BBE234E185142A2CC/66202.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 167,
+    "max_power": 189,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 24.704,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

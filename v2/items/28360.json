@@ -1,0 +1,42 @@
+{
+  "name": "Hearty Soft Wood Longbow",
+  "description": "",
+  "type": "Weapon",
+  "level": 53,
+  "rarity": "Fine",
+  "vendor_value": 71,
+  "default_skin": 3942,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 28360,
+  "chat_link": "[\u0026AgHIbgAA]",
+  "icon": "https://render.guildwars2.com/file/C6110F52DF5AFE0F00A56F9E143E9732176DDDE9/65015.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 429,
+    "max_power": 503,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 286.208,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 72
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 100
+        }
+      ]
+    }
+  }
+}

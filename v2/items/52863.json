@@ -1,0 +1,47 @@
+{
+  "name": "Survivor\u0027s Prince\u0027s Praise",
+  "type": "Weapon",
+  "level": 37,
+  "rarity": "Masterwork",
+  "vendor_value": 114,
+  "default_skin": 5000,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 52863,
+  "chat_link": "[\u0026AgF/zgAA]",
+  "icon": "https://render.guildwars2.com/file/4BCEF9E3C9D95E3F95EF0130F9AFE7DE680D9242/68100.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 349,
+    "max_power": 386,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 214.336,
+    "infix_upgrade": {
+      "id": 1013,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 54
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 75
+        }
+      ]
+    }
+  }
+}

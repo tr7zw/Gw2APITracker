@@ -1,0 +1,40 @@
+{
+  "name": "Scale Shoulders",
+  "description": "",
+  "type": "Armor",
+  "level": 19,
+  "rarity": "Fine",
+  "vendor_value": 26,
+  "default_skin": 224,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6325,
+  "chat_link": "[\u0026AgG1GAAA]",
+  "icon": "https://render.guildwars2.com/file/1DAB2F089B95C809E9B042EA6F63ABCF7D32CC4F/61389.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "defense": 20,
+    "infusion_slots": [],
+    "attribute_adjustment": 14.976,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 5
+        }
+      ]
+    }
+  }
+}

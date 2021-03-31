@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Verdant Shield of Corruption",
+  "type": "Weapon",
+  "level": 67,
+  "rarity": "Rare",
+  "vendor_value": 168,
+  "default_skin": 5110,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34851,
+  "chat_link": "[\u0026AgEjiAAA]",
+  "icon": "https://render.guildwars2.com/file/022913A4986756B14F6743A0447D51D2AF599620/434878.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 571,
+    "max_power": 644,
+    "defense": 42,
+    "infusion_slots": [],
+    "attribute_adjustment": 234.216,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 59
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 59
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 82
+        }
+      ]
+    },
+    "suffix_item_id": 24577
+  }
+}

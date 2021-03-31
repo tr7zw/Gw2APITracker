@@ -1,0 +1,41 @@
+{
+  "id": 5307,
+  "name": "Special Mission: Percussive Maintenance",
+  "description": "",
+  "requirement": "Destroy  turrets near Lighthouse Point, Vloxen Mine, Petraj Overlook, or Leadfoot Village in the Drizzlewood Coast.",
+  "locked_text": "Unlock by using Iron Legion Special Mission Documents.",
+  "type": "Default",
+  "flags": [
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 0
+    },
+    {
+      "count": 10,
+      "points": 0
+    },
+    {
+      "count": 15,
+      "points": 0
+    },
+    {
+      "count": 20,
+      "points": 0
+    },
+    {
+      "count": 25,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 93624,
+      "count": 50
+    }
+  ]
+}

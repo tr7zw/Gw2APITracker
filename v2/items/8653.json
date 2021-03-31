@@ -1,0 +1,25 @@
+{
+  "name": "Mine",
+  "description": "Double-click to gain a mine.",
+  "type": "Consumable",
+  "level": 10,
+  "rarity": "Basic",
+  "vendor_value": 4,
+  "game_types": [
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 8653,
+  "chat_link": "[\u0026AgHNIQAA]",
+  "icon": "https://render.guildwars2.com/file/FE3280996C7B53BDB497143268031C117592DD14/62483.png",
+  "details": {
+    "type": "Generic"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Rampager\u0027s Iron Sword of the Geomancer",
+  "description": "",
+  "type": "Weapon",
+  "level": 66,
+  "rarity": "Masterwork",
+  "vendor_value": 112,
+  "default_skin": 4062,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26459,
+  "chat_link": "[\u0026AgFbZwAA]",
+  "icon": "https://render.guildwars2.com/file/D10679012504F6AD5829D1DF9F36303FE2EB46B4/64343.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 583,
+    "max_power": 644,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 211.684,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 53
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 74
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 53
+        }
+      ]
+    },
+    "suffix_item_id": 24603
+  }
+}

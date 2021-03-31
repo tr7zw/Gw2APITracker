@@ -1,0 +1,47 @@
+{
+  "name": "Deserter\u0027s Forkfang",
+  "type": "Weapon",
+  "level": 37,
+  "rarity": "Masterwork",
+  "vendor_value": 76,
+  "default_skin": 5234,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 53011,
+  "chat_link": "[\u0026AgETzwAA]",
+  "icon": "https://render.guildwars2.com/file/EED3DD9C78A29772084A56DFD91AA95A0CBB49CA/62843.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 357,
+    "max_power": 379,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 107.168,
+    "infix_upgrade": {
+      "id": 1014,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 27
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 38
+        }
+      ]
+    }
+  }
+}

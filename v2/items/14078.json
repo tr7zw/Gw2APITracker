@@ -1,0 +1,44 @@
+{
+  "name": "Hearty Bandit Trident",
+  "description": "",
+  "type": "Weapon",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 153,
+  "default_skin": 3905,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 14078,
+  "chat_link": "[\u0026AgH+NgAA]",
+  "icon": "https://render.guildwars2.com/file/02A4BA51C6161A995F33F322D25C3635AECDBF96/779879.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 339,
+    "max_power": 375,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 197.136,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 49
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 69
+        }
+      ]
+    }
+  }
+}

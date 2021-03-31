@@ -1,0 +1,42 @@
+{
+  "name": "Strong Rifle",
+  "description": "",
+  "type": "Weapon",
+  "level": 32,
+  "rarity": "Basic",
+  "vendor_value": 24,
+  "default_skin": 3867,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 28957,
+  "chat_link": "[\u0026AgEdcQAA]",
+  "icon": "https://render.guildwars2.com/file/05909FE40ACD31F0201E02DD7E03C41ABD9CC401/66196.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 234,
+    "max_power": 286,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 113.36,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 40
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 28
+        }
+      ]
+    }
+  }
+}

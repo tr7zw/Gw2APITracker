@@ -1,0 +1,43 @@
+{
+  "name": "Stonefall Breastplate",
+  "description": "\u003cc\u003d@flavor\u003e\"Protection against falling rocks. And anything else, for that matter.\"\u003cbr\u003e—Rak Deathmane\u003c/c\u003e",
+  "type": "Armor",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 72,
+  "default_skin": 861,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4182,
+  "chat_link": "[\u0026AgFWEAAA]",
+  "icon": "https://render.guildwars2.com/file/CCCD69DAF43C71D30E77255C3C530601CFD247FE/61239.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 68,
+    "infusion_slots": [],
+    "attribute_adjustment": 52.8615,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 19
+        }
+      ]
+    },
+    "suffix_item_id": 24739
+  }
+}

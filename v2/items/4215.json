@@ -1,0 +1,42 @@
+{
+  "name": "Dunrock Heavy Boots",
+  "description": "\u003cc\u003d@flavor\u003e\"It\u0027s important to have the right shoes for the job.\"\u003cbr\u003e—Vasher Shadowsinner\u003c/c\u003e",
+  "type": "Armor",
+  "level": 17,
+  "rarity": "Fine",
+  "vendor_value": 21,
+  "default_skin": 872,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4215,
+  "chat_link": "[\u0026AgF3EAAA]",
+  "icon": "https://render.guildwars2.com/file/DF2D9A0706490510BFA61691E0DE2902E712345A/61238.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 28,
+    "infusion_slots": [],
+    "attribute_adjustment": 13.368,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 5
+        }
+      ]
+    }
+  }
+}

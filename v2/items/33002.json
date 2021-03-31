@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Flame Staff of Air",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 297,
+  "default_skin": 5227,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33002,
+  "chat_link": "[\u0026AgHqgAAA]",
+  "icon": "https://render.guildwars2.com/file/00DC9C6326EE2B0AB1A016C060ADBABDC9EE572F/67841.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 872,
+    "max_power": 984,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 603.648,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 151
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 151
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 211
+        }
+      ]
+    },
+    "suffix_item_id": 24553
+  }
+}

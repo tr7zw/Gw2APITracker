@@ -1,0 +1,49 @@
+{
+  "id": 4665,
+  "name": "Skyscale of Courage",
+  "description": "",
+  "requirement": "Infuse your skyscale egg with courage.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 90287
+    },
+    {
+      "type": "Item",
+      "id": 90186
+    },
+    {
+      "type": "Item",
+      "id": 90365
+    },
+    {
+      "type": "Item",
+      "id": 90702
+    },
+    {
+      "type": "Item",
+      "id": 90934
+    }
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 90305,
+      "count": 1
+    }
+  ]
+}

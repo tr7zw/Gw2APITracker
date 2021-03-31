@@ -1,0 +1,46 @@
+{
+  "name": "Padded Pauldrons",
+  "description": "\u003cc\u003d@flavor\u003e\"Grawl seem to have a lot of extra fur. Makes for some good padding.\"\u003cbr\u003e—Cleverblade\u003c/c\u003e",
+  "type": "Armor",
+  "level": 29,
+  "rarity": "Fine",
+  "vendor_value": 33,
+  "default_skin": 897,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4019,
+  "chat_link": "[\u0026AgGzDwAA]",
+  "icon": "https://render.guildwars2.com/file/E2910F0838E7171E0FADE1971407FD66525917A3/61260.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "defense": 28,
+    "infusion_slots": [],
+    "attribute_adjustment": 23.976,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 6
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

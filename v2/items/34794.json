@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Verdant Blade of Battle",
+  "type": "Weapon",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 111,
+  "default_skin": 5134,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34794,
+  "chat_link": "[\u0026AgHqhwAA]",
+  "icon": "https://render.guildwars2.com/file/193911E1A3EDA97375D6A7750025E431533F06D8/434881.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 370,
+    "max_power": 409,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 113.472,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 28
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 40
+        }
+      ]
+    },
+    "suffix_item_id": 24602
+  }
+}

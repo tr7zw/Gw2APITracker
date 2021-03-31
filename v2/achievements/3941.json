@@ -1,0 +1,27 @@
+{
+  "id": 3941,
+  "name": "Lunatic Inquisition Regular",
+  "description": "I\u0027m interested in Lunatic Inquisition.",
+  "requirement": "Participate in  rounds.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 5
+    }
+  ],
+  "point_cap": 25,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 36038,
+      "count": 3
+    }
+  ]
+}

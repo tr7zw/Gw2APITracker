@@ -1,0 +1,40 @@
+{
+  "name": "Ravaging Acolyte Mantle",
+  "description": "",
+  "type": "Armor",
+  "level": 40,
+  "rarity": "Fine",
+  "vendor_value": 42,
+  "default_skin": 157,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 11008,
+  "chat_link": "[\u0026AgEAKwAA]",
+  "icon": "https://render.guildwars2.com/file/035B7F50F3E7A8DC75FF29EF0306011A3650A55D/61094.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 23,
+    "infusion_slots": [],
+    "attribute_adjustment": 36.576,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 9
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 13
+        }
+      ]
+    }
+  }
+}

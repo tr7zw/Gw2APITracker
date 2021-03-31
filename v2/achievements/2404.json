@@ -1,0 +1,62 @@
+{
+  "id": 2404,
+  "name": "Machined Dagger",
+  "description": "",
+  "requirement": "Collect all  items to forge your Machined Dagger.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 6462
+    },
+    {
+      "type": "Item",
+      "id": 75849
+    },
+    {
+      "type": "Item",
+      "id": 72042
+    },
+    {
+      "type": "Item",
+      "id": 73026
+    },
+    {
+      "type": "Item",
+      "id": 72737
+    },
+    {
+      "type": "Item",
+      "id": 74138
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 74286,
+      "count": 1
+    }
+  ]
+}

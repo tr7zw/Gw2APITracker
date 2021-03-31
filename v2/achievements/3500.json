@@ -1,0 +1,77 @@
+{
+  "id": 3500,
+  "name": "Bloodstone Fen Master",
+  "description": "",
+  "requirement": "Collect all  items to prove your mastery over Bloodstone Fen.",
+  "locked_text": "Acquire a Sentient Seed by combining the four sentient creations from Season 3. Misplaced items can be obtained from Grandmaster Craftsman Hobbs in Lion\u0027s Arch.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 6856
+    },
+    {
+      "type": "Item",
+      "id": 81804
+    },
+    {
+      "type": "Item",
+      "id": 82025
+    },
+    {
+      "type": "Item",
+      "id": 81755
+    },
+    {
+      "type": "Item",
+      "id": 81704
+    },
+    {
+      "type": "Item",
+      "id": 81986
+    },
+    {
+      "type": "Item",
+      "id": 81862
+    },
+    {
+      "type": "Item",
+      "id": 81762
+    },
+    {
+      "type": "Item",
+      "id": 81929
+    },
+    {
+      "type": "Item",
+      "id": 81882
+    },
+    {
+      "type": "Item",
+      "id": 81938
+    },
+    {
+      "type": "Item",
+      "id": 81890
+    }
+  ],
+  "tiers": [
+    {
+      "count": 12,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 81932,
+      "count": 1
+    }
+  ]
+}

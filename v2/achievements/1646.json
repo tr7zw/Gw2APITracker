@@ -1,0 +1,27 @@
+{
+  "id": 1646,
+  "name": "No Shocks Here",
+  "description": "Story Instance: Disturbance in Brisban Wildlands",
+  "requirement": "Don\u0027t get hit by projectiles from Static Discharge.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    1641
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 66607,
+      "count": 1
+    }
+  ]
+}

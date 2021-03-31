@@ -1,0 +1,63 @@
+{
+  "name": "Marauder Icy Dragon Slayer Sword of Destroyer Slaying",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 330,
+  "default_skin": 9935,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94812,
+  "chat_link": "[\u0026AgFccgEA]",
+  "icon": "https://render.guildwars2.com/file/915F37DFB7128009BADAF0DD6BC8A5BB006D16AE/2412996.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 950,
+    "max_power": 1050,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "infix_upgrade": {
+      "id": 1145,
+      "buff": {
+        "skill_id": 31930
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 133
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 133
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 71
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 71
+        }
+      ]
+    },
+    "suffix_item_id": 24654
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Claw of the Howling King",
+  "description": "\u003cc\u003d@flavor\u003eA tiny sound still emanates from the ring.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 36521,
+  "chat_link": "[\u0026AgGpjgAA]",
+  "icon": "https://render.guildwars2.com/file/D30394C4BAB8D6F4BA747CA209FAD8B3A6D2032F/223747.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [],
+    "attribute_adjustment": 256.08,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 64
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 64
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 90
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": 1715,
+  "tier": 3,
+  "order": 0,
+  "name": "Brutality",
+  "description": "Gain quickness when you swap weapons. While you have quickness, your strikes remove stability.\u003cbr\u003e\u003cc\u003d@reminder\u003eThis removal effect can only occur once per interval on each target.\u003c/c\u003e",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 9
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+      "duration": 3,
+      "status": "Quickness",
+      "description": "Skills and actions are faster.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+      "status": "Stability",
+      "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted."
+    },
+    {
+      "text": "Stacks Removed per Strike",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 1
+    },
+    {
+      "text": "Combat Only",
+      "type": "NoData",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png"
+    },
+    {
+      "text": "Interval",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+      "duration": 1
+    }
+  ],
+  "specialization": 15,
+  "icon": "https://render.guildwars2.com/file/B6A10BFFE10708A20EC6019F7607BF04A071770D/1029962.png"
+}

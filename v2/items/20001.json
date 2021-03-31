@@ -1,0 +1,28 @@
+{
+  "name": "Karma Booster",
+  "description": "Double-click to gain an enhancement that increases karma gained by 50% for one hour. Does not affect karma gained from consumable items.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 0,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 20001,
+  "chat_link": "[\u0026AgEhTgAA]",
+  "icon": "https://render.guildwars2.com/file/49ED4FB19F2AA949946296493BF7AE7C28906DFF/66667.png",
+  "details": {
+    "type": "Halloween"
+  }
+}

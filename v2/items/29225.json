@@ -1,0 +1,52 @@
+{
+  "name": "Modniir Flatbow",
+  "description": "",
+  "type": "Weapon",
+  "level": 43,
+  "rarity": "Fine",
+  "vendor_value": 60,
+  "default_skin": 4594,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29225,
+  "chat_link": "[\u0026AgEpcgAA]",
+  "icon": "https://render.guildwars2.com/file/F45992D47818419AA345499308AA5A7ED5BFBC6D/67726.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 348,
+    "max_power": 409,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 214.912,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 75
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 54
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 54
+        }
+      ]
+    }
+  }
+}

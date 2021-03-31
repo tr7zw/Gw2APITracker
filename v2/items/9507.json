@@ -1,0 +1,28 @@
+{
+  "name": "Recipe: Hammer",
+  "description": "A recipe to make a Hammer",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 18,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9507,
+  "chat_link": "[\u0026AgEjJQAA]",
+  "icon": "https://render.guildwars2.com/file/B7563A0A3C66057DF677620FBBC96F0C1548B82E/849358.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 5418
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Bag Slot Expansion",
+  "description": "Add an extra bag slot to a character\u0027s inventory, which comes equipped with a basic bag. Each character can unlock up to 5 additional bag slots.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 19993,
+  "chat_link": "[\u0026AgEZTgAA]",
+  "icon": "https://render.guildwars2.com/file/6AECEE0A0704F069B3776BC66516EB2F0E0DE644/66588.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "BagSlot"
+  }
+}

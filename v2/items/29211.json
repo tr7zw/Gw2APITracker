@@ -1,0 +1,52 @@
+{
+  "name": "Modniir Pulverizer",
+  "description": "",
+  "type": "Weapon",
+  "level": 43,
+  "rarity": "Masterwork",
+  "vendor_value": 120,
+  "default_skin": 4662,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29211,
+  "chat_link": "[\u0026AgEbcgAA]",
+  "icon": "https://render.guildwars2.com/file/00EA6439A455FBEDA90E20097DFEA22CB829120F/67622.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 404,
+    "max_power": 455,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 235.28,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 82
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 59
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 59
+        }
+      ]
+    }
+  }
+}

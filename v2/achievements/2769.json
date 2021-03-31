@@ -1,0 +1,33 @@
+{
+  "id": 2769,
+  "name": "Toy Quality Control",
+  "description": "This can be described as one of those \"fight fire with marshmallows\" situations.",
+  "requirement": "Finish  round of Toypocalypse during Wintersday.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 15,
+      "points": 1
+    },
+    {
+      "count": 30,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 77616,
+      "count": 1
+    }
+  ]
+}

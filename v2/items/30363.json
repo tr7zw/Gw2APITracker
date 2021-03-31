@@ -1,0 +1,44 @@
+{
+  "name": "Hunting Pistol",
+  "description": "\u003cc\u003d@flavor\u003e\"If you unload with this, there\u0027s usually not much left worth bringing back.\"\u003cbr\u003e—Hunter Block\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 9,
+  "rarity": "Fine",
+  "vendor_value": 14,
+  "default_skin": 3875,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30363,
+  "chat_link": "[\u0026AgGbdgAA]",
+  "icon": "https://render.guildwars2.com/file/C43656C1551C9A5A1A931EAC2901BD0FBA3BE3E1/62830.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 157,
+    "max_power": 184,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 21.184,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 7
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Magic Find Booster",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 0,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 8446,
+  "chat_link": "[\u0026AgH+IAAA]",
+  "icon": "https://render.guildwars2.com/file/F1E6C29D6A783A9563E5D516532C6E079C5A6069/66669.png",
+  "details": {
+    "type": "Immediate",
+    "duration_ms": 3600000,
+    "apply_count": 1,
+    "name": "Magic Find Boost",
+    "icon": "https://render.guildwars2.com/file/C1C1CF36FBA63CA00B370BEFC730C32368AEC020/436374.png",
+    "description": "You gain 50% magic find"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Healing Shiverpeak Talisman",
+  "type": "Weapon",
+  "level": 11,
+  "rarity": "Fine",
+  "vendor_value": 16,
+  "default_skin": 5150,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 25042,
+  "chat_link": "[\u0026AgHSYQAA]",
+  "icon": "https://render.guildwars2.com/file/EBB491E406230AE7C8B908B1F7646D51DC370E6B/534280.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 156,
+    "max_power": 165,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 24.704,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

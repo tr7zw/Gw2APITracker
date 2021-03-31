@@ -1,0 +1,46 @@
+{
+  "name": "Berserker\u0027s Focus",
+  "description": "",
+  "type": "Weapon",
+  "level": 72,
+  "rarity": "Basic",
+  "vendor_value": 30,
+  "default_skin": 3863,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 29122,
+  "chat_link": "[\u0026AgHCcQAA]",
+  "icon": "https://render.guildwars2.com/file/0F3FED6ECD0A990BBC5B29501F590FC7052776CF/66170.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 441,
+    "max_power": 469,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 176.384,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 62
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 44
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 44
+        }
+      ]
+    }
+  }
+}

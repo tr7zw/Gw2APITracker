@@ -1,0 +1,55 @@
+{
+  "id": 3825,
+  "name": "Renowned Adventurer: The Desolation",
+  "description": "",
+  "requirement": "Complete all of the renown hearts located in the Desolation.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Help Drojkor, Spirit Squall, control jackals."
+    },
+    {
+      "type": "Text",
+      "text": "Help Tariq weaken the garrison."
+    },
+    {
+      "type": "Text",
+      "text": "Help Kisha Odili keep the village running."
+    },
+    {
+      "type": "Text",
+      "text": "Help Dunkoro assist local ghosts."
+    },
+    {
+      "type": "Text",
+      "text": "Help the Order of Shadows defend against the Forged."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 2
+    },
+    {
+      "count": 2,
+      "points": 2
+    },
+    {
+      "count": 3,
+      "points": 2
+    },
+    {
+      "count": 4,
+      "points": 2
+    },
+    {
+      "count": 5,
+      "points": 4
+    }
+  ]
+}

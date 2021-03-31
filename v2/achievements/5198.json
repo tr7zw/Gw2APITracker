@@ -1,0 +1,26 @@
+{
+  "id": 5198,
+  "name": "Emblem of the Avenger",
+  "description": "",
+  "requirement": "Defeat  players.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 100,
+      "points": 5
+    }
+  ],
+  "point_cap": 25,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 93075,
+      "count": 1
+    }
+  ]
+}

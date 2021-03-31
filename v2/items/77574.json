@@ -1,0 +1,30 @@
+{
+  "name": "Mini Tizlak",
+  "description": "Double-click to summon this mini to follow you around. Only one mini may be in use at a time.",
+  "type": "MiniPet",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 50,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 77574,
+  "chat_link": "[\u0026AgEGLwEA]",
+  "icon": "https://render.guildwars2.com/file/9545150CD6FD020A99EC0803BF1E41B8EDF0ADA6/1322308.png",
+  "details": {
+    "minipet_id": 386
+  }
+}

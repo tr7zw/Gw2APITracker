@@ -1,0 +1,43 @@
+{
+  "name": "Commemorative Beer Stein",
+  "description": "\u003cc\u003d@flavor\u003eThe inscription reads \"In Commemoration Of The Krognars Pass Moot.\"\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 113,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23453,
+  "chat_link": "[\u0026AgGdWwAA]",
+  "icon": "https://render.guildwars2.com/file/D0D82C22BD0892D55DD12CA00DC453294B312FF2/63146.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 90.1425,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 32
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 23
+        }
+      ]
+    }
+  }
+}

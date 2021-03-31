@@ -1,0 +1,45 @@
+{
+  "name": "Strong Soft Wood Longbow of Peril",
+  "description": "",
+  "type": "Weapon",
+  "level": 59,
+  "rarity": "Masterwork",
+  "vendor_value": 153,
+  "default_skin": 3942,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28466,
+  "chat_link": "[\u0026AgEybwAA]",
+  "icon": "https://render.guildwars2.com/file/C6110F52DF5AFE0F00A56F9E143E9732176DDDE9/65015.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 522,
+    "max_power": 613,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 362.168,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 127
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 91
+        }
+      ]
+    },
+    "suffix_item_id": 24619
+  }
+}

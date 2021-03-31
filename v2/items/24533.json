@@ -1,0 +1,71 @@
+{
+  "name": "Crest of the Shaman",
+  "description": "Double-click to apply to an item with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 198,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24533,
+  "chat_link": "[\u0026AgHVXwAA]",
+  "icon": "https://render.guildwars2.com/file/E612C4D4EBF90B980C33FD33F55CCAE5B60553B8/340591.png",
+  "details": {
+    "type": "Gem",
+    "flags": [
+      "ShortBow",
+      "HeavyArmor",
+      "LightArmor",
+      "Dagger",
+      "MediumArmor",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Trinket",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 433,
+      "buff": {
+        "skill_id": 219,
+        "description": "+20 Vitality\n+14 Healing\n+14 Power"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 14
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 20
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 14
+        }
+      ]
+    },
+    "suffix": "of the Shaman"
+  }
+}

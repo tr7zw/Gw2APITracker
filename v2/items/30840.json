@@ -1,0 +1,44 @@
+{
+  "name": "Strong Mace",
+  "description": "",
+  "type": "Weapon",
+  "level": 55,
+  "rarity": "Basic",
+  "vendor_value": 24,
+  "default_skin": 3861,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 30840,
+  "chat_link": "[\u0026AgF4eAAA]",
+  "icon": "https://render.guildwars2.com/file/6E350F079207B60BFBD5A54A9F14E667677E0016/66184.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 346,
+    "max_power": 390,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 119.236,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 42
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 30
+        }
+      ]
+    }
+  }
+}

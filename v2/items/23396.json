@@ -1,0 +1,43 @@
+{
+  "name": "Steam Gasket Ring",
+  "description": "\u003cc\u003d@flavor\u003e\"These gaskets make good rings. I wonder what kind of metal this is.\"—Garrius\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 32,
+  "rarity": "Masterwork",
+  "vendor_value": 96,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23396,
+  "chat_link": "[\u0026AgFkWwAA]",
+  "icon": "https://render.guildwars2.com/file/AD6B2271461029C42F41BA9D9B4C90051B934B27/455916.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [],
+    "attribute_adjustment": 60.231,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 15
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 21
+        }
+      ]
+    }
+  }
+}

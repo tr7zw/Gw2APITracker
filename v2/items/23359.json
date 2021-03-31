@@ -1,0 +1,42 @@
+{
+  "name": "Ancient Stone Summit Shoulder Spike",
+  "description": "\u003cc\u003d@flavor\u003e\"This artifact is more ornament than armament, but it gives hints of ancient craftsmanship.\"\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 53,
+  "rarity": "Rare",
+  "vendor_value": 177,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23359,
+  "chat_link": "[\u0026AgE/WwAA]",
+  "icon": "https://render.guildwars2.com/file/D9C8AAED4B80010B809E465D90E81634D62EEF16/63137.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 105.795,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 26
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 37
+        }
+      ]
+    }
+  }
+}

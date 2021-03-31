@@ -1,0 +1,40 @@
+{
+  "name": "Velvet Hose",
+  "description": "",
+  "type": "Armor",
+  "level": 5,
+  "rarity": "Fine",
+  "vendor_value": 14,
+  "default_skin": 34,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6291,
+  "chat_link": "[\u0026AgGTGAAA]",
+  "icon": "https://render.guildwars2.com/file/D4ABE372A4AB0B4A68533ED07CA6A1DBC50F9B76/61089.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Light",
+    "defense": 20,
+    "infusion_slots": [],
+    "attribute_adjustment": 11.808,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

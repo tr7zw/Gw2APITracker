@@ -1,0 +1,49 @@
+{
+  "id": 4719,
+  "name": "Skyscale Medicine",
+  "description": "",
+  "requirement": "Obtain ingredients for Gorrik\u0027s broad-spectrum medicine.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 90865
+    },
+    {
+      "type": "Item",
+      "id": 90754
+    },
+    {
+      "type": "Item",
+      "id": 90611
+    },
+    {
+      "type": "Item",
+      "id": 90475
+    },
+    {
+      "type": "Item",
+      "id": 90459
+    }
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 90429,
+      "count": 1
+    }
+  ]
+}

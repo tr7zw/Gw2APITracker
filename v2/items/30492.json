@@ -1,0 +1,48 @@
+{
+  "name": "Luke\u0027s Torch",
+  "description": "\u003cc\u003d@flavor\u003e\"Centaurs are highly flammable.\"\u003cbr\u003e—Forward Scout Luke\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 42,
+  "rarity": "Fine",
+  "vendor_value": 39,
+  "default_skin": 4992,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30492,
+  "chat_link": "[\u0026AgEcdwAA]",
+  "icon": "https://render.guildwars2.com/file/D0AAAB4B0AD3FCC3B3735C08CA5ED074B9440EDB/61736.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 293,
+    "max_power": 343,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 104.128,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 26
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 36
+        }
+      ]
+    }
+  }
+}

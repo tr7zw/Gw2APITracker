@@ -1,0 +1,28 @@
+{
+  "id": 23,
+  "name": "Shield Generator Mastery",
+  "description": "Improve shield generator skills",
+  "icon": "https://render.guildwars2.com/file/7C97FD990E1A091B370F4270E05C48409BE82500/1302780.png",
+  "ranks": [
+    {
+      "cost": 3,
+      "effect": "Force Ball grants aegis to allies on impact"
+    },
+    {
+      "cost": 7,
+      "effect": "Force Dome grants twice as much stability per pulse"
+    },
+    {
+      "cost": 10,
+      "effect": "Increases radius for all shield generator skills"
+    },
+    {
+      "cost": 15,
+      "effect": "Increases duration for Force Wall and Force Dome and increases the average number of Force Ball bounces"
+    },
+    {
+      "cost": 25,
+      "effect": "Prevents damage from arrow cart fire to allies inside Force Dome"
+    }
+  ]
+}

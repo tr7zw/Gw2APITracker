@@ -1,0 +1,37 @@
+{
+  "name": "Drink Tray",
+  "description": "",
+  "type": "Weapon",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 0,
+  "default_skin": 2451,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 7341,
+  "chat_link": "[\u0026AgGtHAAA]",
+  "icon": "https://render.guildwars2.com/file/216B62605406DA976965A880F426F03ED6AFC178/61771.png",
+  "details": {
+    "type": "LargeBundle",
+    "damage_type": "Physical",
+    "min_power": 0,
+    "max_power": 0,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 15.6,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    }
+  }
+}

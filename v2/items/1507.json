@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Worn Scale Gauntlets of Rage",
+  "description": "",
+  "type": "Armor",
+  "level": 27,
+  "rarity": "Masterwork",
+  "vendor_value": 51,
+  "default_skin": 68,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 1507,
+  "chat_link": "[\u0026AgHjBQAA]",
+  "icon": "https://render.guildwars2.com/file/A732157105CA6F75FB05107DF90BD9BB072DC3CE/61056.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 43,
+    "infusion_slots": [],
+    "attribute_adjustment": 24.327,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 6
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 9
+        }
+      ]
+    },
+    "suffix_item_id": 24715
+  }
+}

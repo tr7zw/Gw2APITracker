@@ -1,0 +1,52 @@
+{
+  "name": "Modniir Eviscerator",
+  "description": "",
+  "type": "Weapon",
+  "level": 43,
+  "rarity": "Masterwork",
+  "vendor_value": 80,
+  "default_skin": 4592,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29205,
+  "chat_link": "[\u0026AgEVcgAA]",
+  "icon": "https://render.guildwars2.com/file/76FB08C4B9F9E72359141EFDA275DCC4AA66CD3F/221418.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 352,
+    "max_power": 430,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 117.64,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 41
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 29
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 29
+        }
+      ]
+    }
+  }
+}

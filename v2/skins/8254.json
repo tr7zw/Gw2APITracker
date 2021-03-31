@@ -1,0 +1,37 @@
+{
+  "name": "Luminous Heavy Cuirass",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe",
+    "HideIfLocked"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 8254,
+  "icon": "https://render.guildwars2.com/file/2C71B830CDED7DD3D3934A027F514D6C38BD7021/2022490.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "metal"
+        }
+      ],
+      "overrides": {}
+    }
+  }
+}

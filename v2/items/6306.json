@@ -1,0 +1,40 @@
+{
+  "name": "Ringmail Helm",
+  "description": "",
+  "type": "Armor",
+  "level": 13,
+  "rarity": "Fine",
+  "vendor_value": 23,
+  "default_skin": 81,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6306,
+  "chat_link": "[\u0026AgGiGAAA]",
+  "icon": "https://render.guildwars2.com/file/5F7BD5804C9794B507341AC94A5DA59711A4E174/61102.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 17,
+    "infusion_slots": [],
+    "attribute_adjustment": 14.112,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 5
+        }
+      ]
+    }
+  }
+}

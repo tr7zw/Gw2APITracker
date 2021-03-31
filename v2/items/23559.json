@@ -1,0 +1,43 @@
+{
+  "name": "Vanguard Spy Badge",
+  "description": "\u003cc\u003d@flavor\u003eAwarded for service in the field.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 30,
+  "rarity": "Fine",
+  "vendor_value": 39,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23559,
+  "chat_link": "[\u0026AgEHXAAA]",
+  "icon": "https://render.guildwars2.com/file/9E453379C7137EA17ADEA5AA05F39EC3E0F59641/455935.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 41.8,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 15
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 10
+        }
+      ]
+    }
+  }
+}

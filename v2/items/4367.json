@@ -1,0 +1,51 @@
+{
+  "name": "Cistern Hydrobreather",
+  "description": "\u003cc\u003d@flavor\u003e\"These have a special filter to handle all the tar.\"\u003cbr\u003e—Engineer Verutum\u003c/c\u003e",
+  "type": "Armor",
+  "level": 61,
+  "rarity": "Masterwork",
+  "vendor_value": 130,
+  "default_skin": 854,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4367,
+  "chat_link": "[\u0026AgEPEQAA]",
+  "icon": "https://render.guildwars2.com/file/FA1D042B0845BED8DA3CFA0FAA0837D5EB0207A6/61297.png",
+  "details": {
+    "type": "HelmAquatic",
+    "weight_class": "Heavy",
+    "defense": 68,
+    "infusion_slots": [],
+    "attribute_adjustment": 94.86,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 24
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 24
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 33
+        }
+      ]
+    },
+    "suffix_item_id": 24739
+  }
+}

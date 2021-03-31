@@ -1,0 +1,48 @@
+{
+  "name": "Whisper\u0027s Secret Trident",
+  "type": "Weapon",
+  "level": 30,
+  "rarity": "Masterwork",
+  "vendor_value": 4500,
+  "default_skin": 4918,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 63502,
+  "chat_link": "[\u0026AgEO+AAA]",
+  "icon": "https://render.guildwars2.com/file/E4F9C809C0714A07E820A3F2E37E94BADFA66FF4/63128.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 281,
+    "max_power": 310,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 148.24,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 37
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 52
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1810,
+  "tier": 1,
+  "order": 2,
+  "name": "Spiritual Reckoning",
+  "description": "Gain retaliation when you use an elite skill.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 10
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/27F233F7D4CE4E9EFE040E3D665B7B0643557B6E/102883.png",
+      "duration": 3,
+      "status": "Retaliation",
+      "description": "Reflect incoming damage back to its source; stacks duration.",
+      "apply_count": 1
+    }
+  ],
+  "specialization": 9,
+  "icon": "https://render.guildwars2.com/file/3CF2F8DD1BF2DE9E3B673C7A53F208630D6232E1/1012693.png"
+}

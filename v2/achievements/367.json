@@ -1,0 +1,24 @@
+{
+  "id": 367,
+  "name": "Hidden Garden",
+  "description": "Unlock the hidden garden\u0027s revered treasure.",
+  "requirement": "Complete the jumping puzzle.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tyria",
+      "id": 211
+    }
+  ]
+}

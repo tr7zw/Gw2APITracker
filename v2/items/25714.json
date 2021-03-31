@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Norn Warhorn of Energy",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Rare",
+  "vendor_value": 183,
+  "default_skin": 5078,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25714,
+  "chat_link": "[\u0026AgFyZAAA]",
+  "icon": "https://render.guildwars2.com/file/9280CB67345DF242A7ECA59D7E27D690157F0FEA/575183.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 652,
+    "max_power": 721,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 269.208,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 94
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 67
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 67
+        }
+      ]
+    },
+    "suffix_item_id": 24606
+  }
+}

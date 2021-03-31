@@ -1,0 +1,43 @@
+{
+  "name": "Prize Winning Horn",
+  "description": "",
+  "type": "Trinket",
+  "level": 25,
+  "rarity": "Masterwork",
+  "vendor_value": 68,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23295,
+  "chat_link": "[\u0026AgH/WgAA]",
+  "icon": "https://render.guildwars2.com/file/BEA401EE03A79B017280E3ACE33249CE30C1F90B/66805.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 36.5075,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 13
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

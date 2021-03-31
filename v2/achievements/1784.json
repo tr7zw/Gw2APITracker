@@ -1,0 +1,35 @@
+{
+  "id": 1784,
+  "name": "\"The Dragon\u0027s Reach, Part 1\" Mastery",
+  "description": "",
+  "requirement": "Complete all  achievements for \"The Dragon\u0027s Reach, Part 1.\"",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 6,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    1674
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 67902,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Tyria",
+      "id": 215
+    }
+  ]
+}

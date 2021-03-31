@@ -1,0 +1,46 @@
+{
+  "name": "Berserker\u0027s Sword",
+  "description": "",
+  "type": "Weapon",
+  "level": 56,
+  "rarity": "Basic",
+  "vendor_value": 25,
+  "default_skin": 3873,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 29064,
+  "chat_link": "[\u0026AgGIcQAA]",
+  "icon": "https://render.guildwars2.com/file/4208D4020193450C234C0DC55F7EFCFAB236007B/66216.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 356,
+    "max_power": 394,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 122.252,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 43
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 31
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 31
+        }
+      ]
+    }
+  }
+}

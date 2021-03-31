@@ -1,0 +1,43 @@
+{
+  "name": "Harathi Pistol",
+  "type": "Weapon",
+  "level": 17,
+  "rarity": "Fine",
+  "vendor_value": 21,
+  "default_skin": 4647,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30406,
+  "chat_link": "[\u0026AgHGdgAA]",
+  "icon": "https://render.guildwars2.com/file/3B2B56A6C7D7FCDE3B7A15EC689D9BCD1CA27A4B/67624.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 187,
+    "max_power": 219,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 35.648,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

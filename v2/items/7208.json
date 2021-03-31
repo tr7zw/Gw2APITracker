@@ -1,0 +1,45 @@
+{
+  "name": "Vigorous Duelist Pants",
+  "description": "",
+  "type": "Armor",
+  "level": 45,
+  "rarity": "Masterwork",
+  "vendor_value": 444,
+  "default_skin": 873,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 7208,
+  "chat_link": "[\u0026AgEoHAAA]",
+  "icon": "https://render.guildwars2.com/file/CD30B04F5B3E7417BFAD0208B3BED9295A010B59/61050.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Medium",
+    "defense": 84,
+    "infusion_slots": [],
+    "attribute_adjustment": 93.483,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 33
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 23
+        }
+      ]
+    }
+  }
+}

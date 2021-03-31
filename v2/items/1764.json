@@ -1,0 +1,43 @@
+{
+  "name": "Honed Reinforced Scale Helm of the Pack",
+  "description": "",
+  "type": "Armor",
+  "level": 46,
+  "rarity": "Masterwork",
+  "vendor_value": 105,
+  "default_skin": 101,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 1764,
+  "chat_link": "[\u0026AgHkBgAA]",
+  "icon": "https://render.guildwars2.com/file/6F30FEDA2B1405EEB10426E1200522E29D7C3ECB/61064.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 48,
+    "infusion_slots": [],
+    "attribute_adjustment": 64.294,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 23
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 16
+        }
+      ]
+    },
+    "suffix_item_id": 24700
+  }
+}

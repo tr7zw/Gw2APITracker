@@ -1,0 +1,47 @@
+{
+  "name": "Smashed Golem Crystal",
+  "description": "\u003cc\u003d@flavor\u003e\"These still have a little residual arcane energy. We are going to need every little magical scrap and crumb to defeat Zhaitan.\"\u003cbr\u003e—Scholar Blix\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 165,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23676,
+  "chat_link": "[\u0026AgF8XAAA]",
+  "icon": "https://render.guildwars2.com/file/BF37B370A2F404A9DBCF773CB7CF536C6A543901/220900.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 174.973,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 61
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 44
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 44
+        }
+      ]
+    }
+  }
+}

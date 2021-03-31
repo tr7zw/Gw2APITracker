@@ -1,0 +1,42 @@
+{
+  "name": "Incomp Shoes",
+  "description": "\u003cc\u003d@flavor\u003e\"Careful not to step into anything glowy, gooey, or otherwise threatening.\"\u003cbr\u003e—Researcher Kaii\u003c/c\u003e",
+  "type": "Armor",
+  "level": 4,
+  "rarity": "Fine",
+  "vendor_value": 9,
+  "default_skin": 874,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 5013,
+  "chat_link": "[\u0026AgGVEwAA]",
+  "icon": "https://render.guildwars2.com/file/BE0AB22E500933489AFCBF2CBBF80641BF0B2916/61244.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 13,
+    "infusion_slots": [],
+    "attribute_adjustment": 5.616,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 2
+        }
+      ]
+    }
+  }
+}

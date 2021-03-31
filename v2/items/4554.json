@@ -1,0 +1,51 @@
+{
+  "name": "Wren Shoulderpads",
+  "description": "\u003cc\u003d@flavor\u003e\"We\u0027re under constant attack, so we have to be constantly on our guard.\"\u003cbr\u003e—Lightbringer Zykk\u003c/c\u003e",
+  "type": "Armor",
+  "level": 77,
+  "rarity": "Masterwork",
+  "vendor_value": 139,
+  "default_skin": 922,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4554,
+  "chat_link": "[\u0026AgHKEQAA]",
+  "icon": "https://render.guildwars2.com/file/9D299D4409537FC6390B225AFE42AF15A3E899A9/61282.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Medium",
+    "defense": 75,
+    "infusion_slots": [],
+    "attribute_adjustment": 99.195,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 25
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 25
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 35
+        }
+      ]
+    },
+    "suffix_item_id": 24685
+  }
+}

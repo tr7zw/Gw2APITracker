@@ -1,0 +1,42 @@
+{
+  "name": "Darkvine Leather Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 7,
+  "default_skin": 91,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4909,
+  "chat_link": "[\u0026AgEtEwAA]",
+  "icon": "https://render.guildwars2.com/file/5D7809A40C546BCD40420204DFC4A3E6F6B778DD/61252.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 15,
+    "infusion_slots": [],
+    "attribute_adjustment": 5.04,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Valoric Warhorn",
+  "description": "\u003cc\u003d@flavor\u003e\"We used to train to hunt. Now we train to protect.\"\u003cbr\u003e—Pact Crusader D\u0027Stolt\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 72,
+  "rarity": "Masterwork",
+  "vendor_value": 120,
+  "default_skin": 3907,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29565,
+  "chat_link": "[\u0026AgF9cwAA]",
+  "icon": "https://render.guildwars2.com/file/5A0593B5164DE87591029323F7D90775D716001D/65530.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 586,
+    "max_power": 647,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 240.108,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 60
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 60
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 84
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

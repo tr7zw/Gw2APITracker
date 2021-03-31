@@ -1,0 +1,53 @@
+{
+  "name": "Trinity Shield",
+  "description": "\u003cc\u003d@flavor\u003e\"May it protect you as you protect Tyria.\"\u003cbr\u003e—Agent Crandle\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 71,
+  "rarity": "Masterwork",
+  "vendor_value": 118,
+  "default_skin": 5207,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30241,
+  "chat_link": "[\u0026AgEhdgAA]",
+  "icon": "https://render.guildwars2.com/file/A2B7C080B75DCC1C65DB50746CB0E90356240667/434774.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 569,
+    "max_power": 642,
+    "defense": 42,
+    "infusion_slots": [],
+    "attribute_adjustment": 235.348,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 59
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 59
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 82
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

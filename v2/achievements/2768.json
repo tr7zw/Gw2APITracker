@@ -1,0 +1,79 @@
+{
+  "id": 2768,
+  "icon": "https://render.guildwars2.com/file/2A2DA0B946A85A0DB5D59E0703796C26AB4D650D/1914854.png",
+  "name": "Winter\u0027s Presence",
+  "description": "",
+  "requirement": "Collect all  items to create Winter\u0027s Presence.",
+  "locked_text": "Purchase a blueprint for Winter\u0027s Presence from a Wintersday vendor.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 77623
+    },
+    {
+      "type": "Item",
+      "id": 77650
+    },
+    {
+      "type": "Item",
+      "id": 77659
+    },
+    {
+      "type": "Item",
+      "id": 77584
+    },
+    {
+      "type": "Item",
+      "id": 77620
+    },
+    {
+      "type": "Item",
+      "id": 77628
+    },
+    {
+      "type": "Item",
+      "id": 77586
+    },
+    {
+      "type": "Item",
+      "id": 77616
+    },
+    {
+      "type": "Item",
+      "id": 77631
+    },
+    {
+      "type": "Item",
+      "id": 77633
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 2
+    },
+    {
+      "count": 5,
+      "points": 3
+    },
+    {
+      "count": 10,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 77645,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Charcoal Dye",
+  "description": "Double-click to unlock this dye color for all characters.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 50,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell"
+  ],
+  "restrictions": [],
+  "id": 20408,
+  "chat_link": "[\u0026AgG4TwAA]",
+  "icon": "https://render.guildwars2.com/file/6E262204244D033C2C38DF3F026654B49BFE4EA4/66650.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "Dye",
+    "color_id": -1
+  }
+}

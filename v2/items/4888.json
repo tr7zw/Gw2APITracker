@@ -1,0 +1,43 @@
+{
+  "name": "Seraph Studded Coat",
+  "description": "\u003cc\u003d@flavor\u003e\"Enemies of the state flee before the sight of anyone wearing this.\"\u003cbr\u003e—Goran\u003c/c\u003e",
+  "type": "Armor",
+  "level": 19,
+  "rarity": "Masterwork",
+  "vendor_value": 69,
+  "default_skin": 17,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4888,
+  "chat_link": "[\u0026AgEYEwAA]",
+  "icon": "https://render.guildwars2.com/file/5050F9A0AAA5324F0501B7944876F0FA29DCEB97/61008.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 62,
+    "infusion_slots": [],
+    "attribute_adjustment": 50.337,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 18
+        }
+      ]
+    },
+    "suffix_item_id": 24724
+  }
+}

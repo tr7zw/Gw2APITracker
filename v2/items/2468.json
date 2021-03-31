@@ -1,0 +1,43 @@
+{
+  "name": "Strong Magician Mask of Divinity",
+  "description": "",
+  "type": "Armor",
+  "level": 32,
+  "rarity": "Masterwork",
+  "vendor_value": 80,
+  "default_skin": 100,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 2468,
+  "chat_link": "[\u0026AgGkCQAA]",
+  "icon": "https://render.guildwars2.com/file/E06A970CAD5A0FDBA4F49C01B168F5D1D2254419/526097.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 20,
+    "infusion_slots": [],
+    "attribute_adjustment": 40.154,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 14
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 10
+        }
+      ]
+    },
+    "suffix_item_id": 24730
+  }
+}

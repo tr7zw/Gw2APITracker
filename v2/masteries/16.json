@@ -1,0 +1,34 @@
+{
+  "id": 16,
+  "name": "Griffon Mount",
+  "requirement": "Complete the Griffon Training adventure in the Domain of Vabbi to unlock the Griffon Mastery Track.",
+  "order": 6,
+  "background": "https://render.guildwars2.com/file/C1F1C2410F0203BB43EEFD01FE9FC3FB1F785FE6/1824252.png",
+  "region": "Desert",
+  "levels": [
+    {
+      "name": "Soaring Rescue",
+      "description": "Learn to mount the griffon midair to save yourself while falling.",
+      "instruction": "You can now mount the griffon midair. While in the air, use the mount hotkey to hop onto the griffon.",
+      "icon": "https://render.guildwars2.com/file/3A0E5BAAB3FEFDE7B465703C63B0EC61C22094AE/1824227.png",
+      "point_cost": 3,
+      "exp_cost": 571500
+    },
+    {
+      "name": "Aerial Prowess",
+      "description": "Learn to gain aerial prowess with your griffon. Use Swoop to dive rapidly and engage foes below you. Use this momentum to pull up from a dive to fly forward at great speeds, or even directly upward.",
+      "instruction": "Use Swoop to dive toward the ground and engage foes below you, or enter the diving state by using movement ability 1. When you gain substantial diving speed, use movement ability 2 or the backward-movement key binds to carry your momentum upward.",
+      "icon": "https://render.guildwars2.com/file/CECD576710393748E9B500ECE1387E33BFF1CE1D/1824228.png",
+      "point_cost": 4,
+      "exp_cost": 609600
+    },
+    {
+      "name": "Aerial Finesse",
+      "description": "Master the griffon by learning to use its Wing Flap ability, which allows you to gain a burst of speed while diving or climbing into the sky.",
+      "instruction": "Wing Flap can now be used while diving and pulling up to gain a burst of speed in your movement direction.",
+      "icon": "https://render.guildwars2.com/file/66591AC7EF0236283C2FB557945C264C3748E57B/1824229.png",
+      "point_cost": 5,
+      "exp_cost": 698500
+    }
+  ]
+}

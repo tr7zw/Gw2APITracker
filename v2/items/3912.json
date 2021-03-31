@@ -1,0 +1,43 @@
+{
+  "name": "Hunter Shoes",
+  "description": "\u003cc\u003d@flavor\u003e\"Good for wading through the snow.\"\u003cbr\u003e—Bolla\u003c/c\u003e",
+  "type": "Armor",
+  "level": 21,
+  "rarity": "Masterwork",
+  "vendor_value": 48,
+  "default_skin": 904,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 3912,
+  "chat_link": "[\u0026AgFIDwAA]",
+  "icon": "https://render.guildwars2.com/file/72997C3425C2339DF4E64A6B04DABD33B4DD1C02/61261.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 26,
+    "infusion_slots": [],
+    "attribute_adjustment": 18.4875,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 6
+        }
+      ]
+    },
+    "suffix_item_id": 24727
+  }
+}

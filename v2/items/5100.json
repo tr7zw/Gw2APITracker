@@ -1,0 +1,42 @@
+{
+  "name": "Strong Chainmail Gauntlets",
+  "description": "",
+  "type": "Armor",
+  "level": 30,
+  "rarity": "Basic",
+  "vendor_value": 14,
+  "default_skin": 20,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 5100,
+  "chat_link": "[\u0026AgHsEwAA]",
+  "icon": "https://render.guildwars2.com/file/1E1768B71B5422D87870D76A3BBA185A41AFEF4C/61100.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 34,
+    "infusion_slots": [],
+    "attribute_adjustment": 19.4805,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 7
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 5
+        }
+      ]
+    }
+  }
+}

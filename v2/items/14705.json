@@ -1,0 +1,38 @@
+{
+  "name": "Mighty Bronze Rifle",
+  "description": "",
+  "type": "Weapon",
+  "level": 5,
+  "rarity": "Fine",
+  "vendor_value": 15,
+  "default_skin": 4076,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 14705,
+  "chat_link": "[\u0026AgFxOQAA]",
+  "icon": "https://render.guildwars2.com/file/167018D742BBF5120BE4ACE80DE5B049089D20F2/62700.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 161,
+    "max_power": 197,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 31.488,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 11
+        }
+      ]
+    }
+  }
+}

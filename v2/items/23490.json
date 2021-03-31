@@ -1,0 +1,39 @@
+{
+  "name": "Engraved Longhorn",
+  "description": "\u003cc\u003d@flavor\u003eA horn awarded for a prize bull.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 17,
+  "rarity": "Masterwork",
+  "vendor_value": 53,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23490,
+  "chat_link": "[\u0026AgHCWwAA]",
+  "icon": "https://render.guildwars2.com/file/BEA401EE03A79B017280E3ACE33249CE30C1F90B/66805.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 25.1175,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

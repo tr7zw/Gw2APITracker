@@ -1,0 +1,48 @@
+{
+  "name": "Priory\u0027s Historical Mace",
+  "type": "Weapon",
+  "level": 30,
+  "rarity": "Masterwork",
+  "vendor_value": 4500,
+  "default_skin": 4937,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 63511,
+  "chat_link": "[\u0026AgEX+AAA]",
+  "icon": "https://render.guildwars2.com/file/57905C5819A8960F6D995A6EF5C1D9DE3ABF74DC/534352.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 278,
+    "max_power": 313,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 74.12,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 19
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 26
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

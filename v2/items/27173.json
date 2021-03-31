@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Soft Wood Torch of Water",
+  "description": "",
+  "type": "Weapon",
+  "level": 73,
+  "rarity": "Exotic",
+  "vendor_value": 244,
+  "default_skin": 3890,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27173,
+  "chat_link": "[\u0026AgElagAA]",
+  "icon": "https://render.guildwars2.com/file/FA56C5DD5D7494F25D980E432BA129F44209ED0E/63136.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 702,
+    "max_power": 824,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 299.12,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 105
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 75
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 75
+        }
+      ]
+    },
+    "suffix_item_id": 24551
+  }
+}

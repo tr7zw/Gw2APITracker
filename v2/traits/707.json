@@ -1,0 +1,33 @@
+{
+  "id": 707,
+  "tier": 3,
+  "order": 0,
+  "name": "Master Fencer",
+  "description": "Gain fury when you strike an enemy whose health is below the threshold.",
+  "slot": "Minor",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 5
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+      "duration": 5,
+      "status": "Fury",
+      "description": "Critical Chance increased by 20%; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Health Threshold",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "percent": 75
+    }
+  ],
+  "specialization": 1,
+  "icon": "https://render.guildwars2.com/file/26D50548E5A73BECA0A794A80645E5399C4D0367/1012509.png"
+}

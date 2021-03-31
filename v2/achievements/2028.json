@@ -1,0 +1,51 @@
+{
+  "id": 2028,
+  "icon": "https://render.guildwars2.com/file/C5CE0723E54B4B2F78A2E6E5496A04B54E7A65E6/602777.png",
+  "name": "Toy Tonic Tippler",
+  "description": "Collect Tyria\u0027s Wintersday-themed endless toy transform tonics.",
+  "requirement": "Collect all  endless toy transform tonics.",
+  "locked_text": "Use a Fancy Holiday Tonic Cabinet, found in Wintersday Gifts.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 38116
+    },
+    {
+      "type": "Item",
+      "id": 38119
+    },
+    {
+      "type": "Item",
+      "id": 38120
+    },
+    {
+      "type": "Item",
+      "id": 38118
+    },
+    {
+      "type": "Item",
+      "id": 38117
+    }
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 68368,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Shaman\u0027s Seer Coat of the Flame Legion",
+  "description": "",
+  "type": "Armor",
+  "level": 65,
+  "rarity": "Exotic",
+  "vendor_value": 330,
+  "default_skin": 9,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 105,
+  "chat_link": "[\u0026AgFpAAAA]",
+  "icon": "https://render.guildwars2.com/file/FB0AA64F98303AE5112408EF3DC8C7307EA118F8/61011.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 236,
+    "infusion_slots": [],
+    "attribute_adjustment": 286.47,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 100
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 72
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 72
+        }
+      ]
+    },
+    "suffix_item_id": 24797
+  }
+}

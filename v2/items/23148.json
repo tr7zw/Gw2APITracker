@@ -1,0 +1,44 @@
+{
+  "name": "Berserker\u0027s Amulet",
+  "description": "",
+  "type": "Trinket",
+  "level": 62,
+  "rarity": "Masterwork",
+  "vendor_value": 212,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23148,
+  "chat_link": "[\u0026AgFsWgAA]",
+  "icon": "https://render.guildwars2.com/file/4D9C6F58C20F052359BA5D1D10B9E4B97ED5F012/66791.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 194.004,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 68
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 49
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 49
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Honed Iron Shield",
+  "description": "",
+  "type": "Weapon",
+  "level": 32,
+  "rarity": "Fine",
+  "vendor_value": 32,
+  "default_skin": 4012,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 26607,
+  "chat_link": "[\u0026AgHvZwAA]",
+  "icon": "https://render.guildwars2.com/file/222F72EDEC31ACB7BC439499F4DD4AA4A94A6C48/65373.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 241,
+    "max_power": 271,
+    "defense": 15,
+    "infusion_slots": [],
+    "attribute_adjustment": 72.704,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 25
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 18
+        }
+      ]
+    }
+  }
+}

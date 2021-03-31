@@ -1,0 +1,47 @@
+{
+  "name": "Dostoev Leather Helm",
+  "description": "\u003cc\u003d@flavor\u003e\"Dredge are among the most industrious of all the races of Tyria. Their singular ability to dig is second to none.\"\u003cbr\u003e—Priory Field Guide to Dredge\u003c/c\u003e",
+  "type": "Armor",
+  "level": 46,
+  "rarity": "Masterwork",
+  "vendor_value": 105,
+  "default_skin": 941,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4097,
+  "chat_link": "[\u0026AgEBEAAA]",
+  "icon": "https://render.guildwars2.com/file/40B4D696039F9E06A11BF913FF66FDFB3DD57CEA/61253.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 39,
+    "infusion_slots": [],
+    "attribute_adjustment": 64.294,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 16
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 23
+        }
+      ]
+    },
+    "suffix_item_id": 24727
+  }
+}

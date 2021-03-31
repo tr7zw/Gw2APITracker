@@ -1,0 +1,56 @@
+{
+  "name": "Impale",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 150
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+      "duration": 4,
+      "status": "Crippled",
+      "description": "Movement speed decreased by 50%; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 3
+    }
+  ],
+  "description": "Impale your foe and cripple them.",
+  "icon": "https://render.guildwars2.com/file/F6AF38B0373C52CE4675483023ED134854FD5C97/103219.png",
+  "type": "Weapon",
+  "weapon_type": "Spear",
+  "professions": [
+    "Warrior"
+  ],
+  "slot": "Weapon_1",
+  "prev_chain": 14438,
+  "flags": [],
+  "id": 14439,
+  "chat_link": "[\u0026Bmc4AAA\u003d]",
+  "traited_facts": [
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "requires_trait": 1338,
+      "hit_count": 1,
+      "dmg_multiplier": 1.1,
+      "overrides": 1
+    }
+  ]
+}

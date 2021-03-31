@@ -1,0 +1,42 @@
+{
+  "name": "Superior Rune of the Pack",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eSkill\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 60,
+  "rarity": "Exotic",
+  "vendor_value": 216,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24702,
+  "chat_link": "[\u0026AgF+YAAA]",
+  "icon": "https://render.guildwars2.com/file/FEF77764F24C0548271F29337268970C092DA5D3/220717.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+25 Power",
+      "+5% Boon Duration",
+      "+50 Power",
+      "+10% Boon Duration",
+      "+100 Power",
+      "+125 Precision; grant nearby allies 5 stacks of might, fury, and swiftness for 8 seconds while in combat. (Cooldown: 30 Seconds)"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Pack"
+  }
+}

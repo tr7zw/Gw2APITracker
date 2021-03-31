@@ -1,0 +1,33 @@
+{
+  "id": 1348,
+  "tier": 2,
+  "order": 0,
+  "name": "Adrenal Health",
+  "description": "Gain health based on adrenaline spent.",
+  "slot": "Minor",
+  "facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/32A8CA56381F242642D7193B24284F922D23A2E3/1012796.png",
+      "duration": 15,
+      "status": "Adrenal Health",
+      "description": "Regain health by spending adrenaline.",
+      "apply_count": 1
+    },
+    {
+      "text": "Interval",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+      "duration": 1
+    },
+    {
+      "text": "Maximum Stacks",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 3
+    }
+  ],
+  "specialization": 22,
+  "icon": "https://render.guildwars2.com/file/32A8CA56381F242642D7193B24284F922D23A2E3/1012796.png"
+}

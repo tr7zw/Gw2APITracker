@@ -1,0 +1,48 @@
+{
+  "name": "Hidden Pistol",
+  "description": "\u003cc\u003d@flavor\u003e\"Pistols make for excellent weapons. So easy to hide, but so much power.\"\u003cbr\u003e—Rinceword\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 31,
+  "rarity": "Fine",
+  "vendor_value": 31,
+  "default_skin": 5148,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29462,
+  "chat_link": "[\u0026AgEWcwAA]",
+  "icon": "https://render.guildwars2.com/file/360309706ADF99FEFCEB6659F3357AF8B25AA841/534284.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 256,
+    "max_power": 300,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 69.76,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 17
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 24
+        }
+      ]
+    }
+  }
+}

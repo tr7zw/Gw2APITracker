@@ -1,0 +1,50 @@
+{
+  "name": "Tarstar Gloves",
+  "description": "\u003cc\u003d@flavor\u003e\"Special grub gloves for special grub friend.\"\u003cbr\u003e—Tarstar Chief\u003c/c\u003e",
+  "type": "Armor",
+  "level": 63,
+  "rarity": "Fine",
+  "vendor_value": 49,
+  "default_skin": 935,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4372,
+  "chat_link": "[\u0026AgEUEQAA]",
+  "icon": "https://render.guildwars2.com/file/92C9AD5F330111974B3E3D08052510B8BE08FF9C/61280.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 85,
+    "infusion_slots": [],
+    "attribute_adjustment": 68.472,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 17
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 17
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 24
+        }
+      ]
+    }
+  }
+}

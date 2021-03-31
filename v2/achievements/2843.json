@@ -1,0 +1,27 @@
+{
+  "id": 2843,
+  "icon": "https://render.guildwars2.com/file/B3DA5159BA6318466403EA14A47F0760633C48C5/630734.png",
+  "name": "Course Load",
+  "description": "",
+  "requirement": "Complete the Course Work achievement eight times over the course of the Super Adventure Festival. The Course Work achievement is located in the Super Adventure Box: Daily tab.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 8,
+      "points": 20
+    }
+  ],
+  "point_cap": 100,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 78039,
+      "count": 1
+    }
+  ]
+}

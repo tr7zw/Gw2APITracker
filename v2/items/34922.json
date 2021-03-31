@@ -1,0 +1,47 @@
+{
+  "name": "Vigorous Bandit Torch",
+  "description": "",
+  "type": "Weapon",
+  "level": 40,
+  "rarity": "Fine",
+  "vendor_value": 128,
+  "default_skin": 3894,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34922,
+  "chat_link": "[\u0026AgFqiAAA]",
+  "icon": "https://render.guildwars2.com/file/0DBB98F2690B1A744E49CAD4E5BE940D661299B1/63131.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 281,
+    "max_power": 329,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 97.536,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 34
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 24
+        }
+      ]
+    }
+  }
+}

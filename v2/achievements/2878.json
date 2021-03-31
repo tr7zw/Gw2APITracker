@@ -1,0 +1,35 @@
+{
+  "id": 2878,
+  "icon": "https://render.guildwars2.com/file/B3DA5159BA6318466403EA14A47F0760633C48C5/630734.png",
+  "name": "Dean of Students",
+  "description": "",
+  "requirement": "Defeat King Toad and Storm Wizard in Super Adventure Box.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Daily"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "King Toad"
+    },
+    {
+      "type": "Text",
+      "text": "Storm Wizard"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 2,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 39752,
+      "count": 16
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Ravaging Magician Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 57,
+  "rarity": "Fine",
+  "vendor_value": 45,
+  "default_skin": 73,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 2154,
+  "chat_link": "[\u0026AgFqCAAA]",
+  "icon": "https://render.guildwars2.com/file/74ED02B1E2590EA9311EA7CBCBD7C1B54C5D1314/61075.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 63,
+    "infusion_slots": [],
+    "attribute_adjustment": 59.328,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 15
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 21
+        }
+      ]
+    }
+  }
+}

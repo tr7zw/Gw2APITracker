@@ -1,0 +1,29 @@
+{
+  "id": 910,
+  "name": "Tequatl the Sunless",
+  "description": "",
+  "requirement": "Complete  Tequatl achievement.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 10,
+      "points": 50
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tyria",
+      "id": 247
+    },
+    {
+      "type": "Title",
+      "id": 175
+    }
+  ]
+}

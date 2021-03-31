@@ -1,0 +1,52 @@
+{
+  "name": "Modniir Baton",
+  "description": "",
+  "type": "Weapon",
+  "level": 43,
+  "rarity": "Fine",
+  "vendor_value": 40,
+  "default_skin": 4655,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29235,
+  "chat_link": "[\u0026AgEzcgAA]",
+  "icon": "https://render.guildwars2.com/file/5163D6935A0562D8FC774C0502ECBA6D030C15E7/67728.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 339,
+    "max_power": 382,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 107.456,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 38
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 27
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 27
+        }
+      ]
+    }
+  }
+}

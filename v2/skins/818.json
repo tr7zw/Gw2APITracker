@@ -1,0 +1,31 @@
+{
+  "name": "Heritage Warhelm",
+  "type": "Armor",
+  "flags": [
+    "NoCost",
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 818,
+  "icon": "https://render.guildwars2.com/file/AFDF4A41F965A8EA5BC362FA76442E5813B7C92C/65783.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        null,
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

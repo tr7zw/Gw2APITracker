@@ -1,0 +1,47 @@
+{
+  "name": "Light De Molish Chestpiece",
+  "description": "\u003cc\u003d@flavor\u003e\"This chestplate could take a whole dredge tank round at point-blank range and still keep you from feeling it.\"\u003cbr\u003e—Explorer Brokkar\u003c/c\u003e",
+  "type": "Armor",
+  "level": 49,
+  "rarity": "Masterwork",
+  "vendor_value": 132,
+  "default_skin": 866,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4102,
+  "chat_link": "[\u0026AgEGEAAA]",
+  "icon": "https://render.guildwars2.com/file/13B530319E9A2D0151670C590B37C69A20DB1B98/61230.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 134,
+    "infusion_slots": [],
+    "attribute_adjustment": 157.82,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 39
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 55
+        }
+      ]
+    },
+    "suffix_item_id": 24727
+  }
+}

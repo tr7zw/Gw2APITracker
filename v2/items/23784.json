@@ -1,0 +1,43 @@
+{
+  "name": "Vial of Purified Ocean Water",
+  "description": "\u003cc\u003d@flavor\u003eA vial of bluest water.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 53,
+  "rarity": "Masterwork",
+  "vendor_value": 118,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23784,
+  "chat_link": "[\u0026AgHoXAAA]",
+  "icon": "https://render.guildwars2.com/file/17116576C478FE08481E1F010C991A0BBEE92339/222408.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 97.4525,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 24
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 34
+        }
+      ]
+    }
+  }
+}

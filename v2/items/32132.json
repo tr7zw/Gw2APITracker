@@ -1,0 +1,38 @@
+{
+  "name": "Dull Dagger",
+  "description": "",
+  "type": "Weapon",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 4,
+  "default_skin": 4009,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32132,
+  "chat_link": "[\u0026AgGEfQAA]",
+  "icon": "https://render.guildwars2.com/file/3254C66ED1675657E0B7C2FBBC09FBF2FBAA74A6/62762.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 115,
+    "max_power": 122,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 10.296,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    }
+  }
+}

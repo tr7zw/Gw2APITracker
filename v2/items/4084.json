@@ -1,0 +1,47 @@
+{
+  "name": "Cloth Shelter Gloves",
+  "description": "\u003cc\u003d@flavor\u003e\"These help us handle the large amounts of natural magic in the area.\"\u003cbr\u003e—Scholar Daphne\u003c/c\u003e",
+  "type": "Armor",
+  "level": 40,
+  "rarity": "Masterwork",
+  "vendor_value": 69,
+  "default_skin": 902,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4084,
+  "chat_link": "[\u0026AgH0DwAA]",
+  "icon": "https://render.guildwars2.com/file/FE92E02C05FE05960E345BD85E5EFA042627061B/61231.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 45,
+    "infusion_slots": [],
+    "attribute_adjustment": 40.188,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 10
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 14
+        }
+      ]
+    },
+    "suffix_item_id": 24727
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Krytan Spear of the Night",
+  "type": "Weapon",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 135,
+  "default_skin": 5164,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 36249,
+  "chat_link": "[\u0026AgGZjQAA]",
+  "icon": "https://render.guildwars2.com/file/3B43A2B3024DB30DAE3E930176080946B2E23BC1/780562.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 430,
+    "max_power": 475,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 288.456,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 101
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 72
+        }
+      ]
+    },
+    "suffix_item_id": 36054
+  }
+}

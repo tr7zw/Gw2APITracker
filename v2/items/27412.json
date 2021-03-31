@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Soft Wood Torch of Earth",
+  "description": "",
+  "type": "Weapon",
+  "level": 77,
+  "rarity": "Masterwork",
+  "vendor_value": 126,
+  "default_skin": 3890,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27412,
+  "chat_link": "[\u0026AgEUawAA]",
+  "icon": "https://render.guildwars2.com/file/FA56C5DD5D7494F25D980E432BA129F44209ED0E/63136.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 618,
+    "max_power": 725,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 264.52,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 93
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 66
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 66
+        }
+      ]
+    },
+    "suffix_item_id": 24558
+  }
+}

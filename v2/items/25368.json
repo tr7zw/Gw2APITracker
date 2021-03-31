@@ -1,0 +1,41 @@
+{
+  "name": "Mending Shiverpeak Wand",
+  "type": "Weapon",
+  "level": 41,
+  "rarity": "Fine",
+  "vendor_value": 38,
+  "default_skin": 5171,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 25368,
+  "chat_link": "[\u0026AgEYYwAA]",
+  "icon": "https://render.guildwars2.com/file/767E39B2746CF941BFFF631763272D569701F533/534286.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 325,
+    "max_power": 367,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 100.864,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 25
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 35
+        }
+      ]
+    }
+  }
+}

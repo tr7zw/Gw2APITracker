@@ -1,0 +1,43 @@
+{
+  "name": "Ancient Ebon Vanguard Amulet",
+  "description": "\u003cc\u003d@flavor\u003eAn amulet once worn by Ebon Vanguard soldiers in the windswept north.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 29,
+  "rarity": "Masterwork",
+  "vendor_value": 120,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23798,
+  "chat_link": "[\u0026AgH2XAAA]",
+  "icon": "https://render.guildwars2.com/file/942CDB0B3AA6AE4DD5081DBF79535BCE06EBDE6F/222378.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 71.06,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 18
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 25
+        }
+      ]
+    }
+  }
+}

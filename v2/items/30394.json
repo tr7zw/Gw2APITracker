@@ -1,0 +1,44 @@
+{
+  "name": "Tamini Sword",
+  "description": "\u003cc\u003d@flavor\u003e\"I found this in the hand of that centaur you saved me from.\"\u003cbr\u003e—Seraph\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 10,
+  "rarity": "Fine",
+  "vendor_value": 15,
+  "default_skin": 4618,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30394,
+  "chat_link": "[\u0026AgG6dgAA]",
+  "icon": "https://render.guildwars2.com/file/CEB917DC2A790F4DE406E7E81D6CC89362BF6598/67730.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 165,
+    "max_power": 183,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 22.976,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

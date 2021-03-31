@@ -1,0 +1,60 @@
+{
+  "id": 3099,
+  "name": "Transfer Chaser",
+  "description": "",
+  "requirement": "Complete each task to track a disturbance in magic\u0027s flow.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Speak with Seis Burntheart."
+    },
+    {
+      "type": "Text",
+      "text": "Find the sensors in the first location."
+    },
+    {
+      "type": "Text",
+      "text": "Find the sensors in the second location."
+    },
+    {
+      "type": "Text",
+      "text": "Find the sensors in the third location."
+    },
+    {
+      "type": "Text",
+      "text": "Find the sensors in the fourth location."
+    },
+    {
+      "type": "Text",
+      "text": "Find the sensors in the fifth location."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 9
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 79401,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Tyria",
+      "id": 351
+    }
+  ]
+}

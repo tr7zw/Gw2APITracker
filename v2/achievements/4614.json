@@ -1,0 +1,39 @@
+{
+  "id": 4614,
+  "name": "Chasing Tales: Tools of the Trade",
+  "description": "Mirren\u0027s skill with scepter and focus was formidable indeed.",
+  "requirement": "Defeat 60 enemies while wielding a scepter and a focus in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Mirren the Manipulator."
+    },
+    {
+      "type": "Text",
+      "text": "Defeated 60 enemies while wielding a scepter and a focus in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89500,
+      "count": 1
+    }
+  ]
+}

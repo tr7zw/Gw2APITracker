@@ -1,0 +1,42 @@
+{
+  "name": "Ravaging Seasoned Wood Scepter",
+  "description": "",
+  "type": "Weapon",
+  "level": 40,
+  "rarity": "Fine",
+  "vendor_value": 38,
+  "default_skin": 5686,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 13807,
+  "chat_link": "[\u0026AgHvNQAA]",
+  "icon": "https://render.guildwars2.com/file/2696C7FBBB99549E700204A9A11F75B0D50CEC2E/65334.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 319,
+    "max_power": 359,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 97.536,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 24
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 34
+        }
+      ]
+    }
+  }
+}

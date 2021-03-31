@@ -1,0 +1,41 @@
+{
+  "name": "Adorned Pearl",
+  "description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 16,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24536,
+  "chat_link": "[\u0026AgHYXwAA]",
+  "icon": "https://render.guildwars2.com/file/50D128976D7A2BB1374165303D016B0EBE651B13/220962.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "Trinket"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 350,
+      "buff": {
+        "skill_id": 158,
+        "description": "+4 Healing"
+      },
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 4
+        }
+      ]
+    },
+    "suffix": "of Pearl"
+  }
+}

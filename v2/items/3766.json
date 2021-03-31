@@ -1,0 +1,44 @@
+{
+  "name": "Vigorous Dolyak Greaves",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 425,
+  "default_skin": 462,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Norn"
+  ],
+  "id": 3766,
+  "chat_link": "[\u0026AgG2DgAA]",
+  "icon": "https://render.guildwars2.com/file/777FA1F9A1DCF12A4BB727350669657DBC526013/779827.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 59,
+    "infusion_slots": [],
+    "attribute_adjustment": 36.963,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 13
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

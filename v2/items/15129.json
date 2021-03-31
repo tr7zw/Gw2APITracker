@@ -1,0 +1,42 @@
+{
+  "name": "Ravaging Steel Greatsword",
+  "description": "",
+  "type": "Weapon",
+  "level": 40,
+  "rarity": "Fine",
+  "vendor_value": 57,
+  "default_skin": 5693,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 15129,
+  "chat_link": "[\u0026AgEZOwAA]",
+  "icon": "https://render.guildwars2.com/file/1EA00FDAAD23FD1B1B9C4BD6E36EB30A43E21D06/64138.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 354,
+    "max_power": 391,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 195.072,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 49
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 68
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Soldier\u0027s Wolf Leggings",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 31250,
+  "default_skin": 464,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Norn"
+  ],
+  "id": 3580,
+  "chat_link": "[\u0026AgH8DQAA]",
+  "icon": "https://render.guildwars2.com/file/FABD4C2214A0C5090CA0F54EC30911DB27E6B213/414935.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Medium",
+    "defense": 193,
+    "infusion_slots": [],
+    "attribute_adjustment": 226.368,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 79
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 57
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 57
+        }
+      ]
+    }
+  }
+}

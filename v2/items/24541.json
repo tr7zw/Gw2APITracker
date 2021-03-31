@@ -1,0 +1,49 @@
+{
+  "name": "Brilliant Coral Jewel",
+  "description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 65,
+  "rarity": "Masterwork",
+  "vendor_value": 110,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24541,
+  "chat_link": "[\u0026AgHdXwAA]",
+  "icon": "https://render.guildwars2.com/file/C5C1DB0E7D6616E116D714DD66EB6C0FBE7C0BCD/220967.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "Trinket"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 408,
+      "buff": {
+        "skill_id": 222,
+        "description": "+18 Precision\n+12 Condition Damage\n+12 Power"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 12
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 18
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 12
+        }
+      ]
+    },
+    "suffix": "of Coral"
+  }
+}

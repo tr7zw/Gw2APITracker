@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Electromagnetic Boots",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 15000,
+  "default_skin": 316,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Asura"
+  ],
+  "id": 3622,
+  "chat_link": "[\u0026AgEmDgAA]",
+  "icon": "https://render.guildwars2.com/file/C6127038DADADED00A94FEDF900ACB4C30654EE2/511731.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 161,
+    "infusion_slots": [],
+    "attribute_adjustment": 113.184,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 28
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 28
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 40
+        }
+      ]
+    }
+  }
+}

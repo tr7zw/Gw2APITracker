@@ -1,0 +1,28 @@
+{
+  "name": "Merchant Express",
+  "description": "Double-click to summon a Black Lion Merchant for 15 minutes, allowing you and your allies to access basic supplies and sell loot. Single-use.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 4,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 20018,
+  "chat_link": "[\u0026AgEyTgAA]",
+  "icon": "https://render.guildwars2.com/file/400957BB0BA4670F08DA58CC26C33F910C2B16B6/220570.png",
+  "details": {
+    "type": "ContractNpc"
+  }
+}

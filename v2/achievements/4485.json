@@ -1,0 +1,50 @@
+{
+  "id": 4485,
+  "name": "Rolling Ace",
+  "description": "To finish first, you have to finish fast.",
+  "requirement": "Complete all the challenge-difficulty racing achievements to earn your place among the top racers.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Rolling Ace: Snowden Drifts"
+    },
+    {
+      "type": "Text",
+      "text": "Rolling Ace: Diessa Plateau"
+    },
+    {
+      "type": "Text",
+      "text": "Rolling Ace: Gendarran Fields"
+    },
+    {
+      "type": "Text",
+      "text": "Rolling Ace: Mount Maelstrom"
+    },
+    {
+      "type": "Text",
+      "text": "Rolling Ace: Brisban Wildlands"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89363,
+      "count": 1
+    },
+    {
+      "type": "Title",
+      "id": 321
+    }
+  ]
+}

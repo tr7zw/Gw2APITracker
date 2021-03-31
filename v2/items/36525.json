@@ -1,0 +1,44 @@
+{
+  "name": "Foefire Amulet",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 264,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 36525,
+  "chat_link": "[\u0026AgGtjgAA]",
+  "icon": "https://render.guildwars2.com/file/F82FF7C2693014663173FF717C403F02C4540F0C/62368.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 279.956,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 70
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 70
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 98
+        }
+      ]
+    },
+    "suffix_item_id": 24510
+  }
+}

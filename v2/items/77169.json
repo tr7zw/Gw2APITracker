@@ -1,0 +1,58 @@
+{
+  "name": "Tizlak\u0027s Visor",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of the great Nuhoch commander, Tizlak.\u003c/c\u003e",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 240,
+  "default_skin": 122,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 77169,
+  "chat_link": "[\u0026AgFxLQEA]",
+  "icon": "https://render.guildwars2.com/file/D4FC06FD1B58AF62E771D7747C66F0E8FAAB8054/699216.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 127,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 179.256,
+    "infix_upgrade": {
+      "id": 1131,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 54
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 54
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 30
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 30
+        }
+      ]
+    }
+  }
+}

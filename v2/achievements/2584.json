@@ -1,0 +1,94 @@
+{
+  "id": 2584,
+  "name": "Uzolan\u0027s Mechanical Orchestra",
+  "description": "",
+  "requirement": "Collect all  items to learn how to recreate Uzolan\u0027s Mechanical Orchestra for your guild hall.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 70897
+    },
+    {
+      "type": "Item",
+      "id": 76268
+    },
+    {
+      "type": "Item",
+      "id": 77155
+    },
+    {
+      "type": "Item",
+      "id": 71573
+    },
+    {
+      "type": "Item",
+      "id": 77231
+    },
+    {
+      "type": "Item",
+      "id": 76489
+    },
+    {
+      "type": "Item",
+      "id": 70875
+    },
+    {
+      "type": "Item",
+      "id": 76023
+    },
+    {
+      "type": "Item",
+      "id": 71733
+    },
+    {
+      "type": "Item",
+      "id": 71960
+    },
+    {
+      "type": "Item",
+      "id": 75757
+    },
+    {
+      "type": "Item",
+      "id": 72352
+    },
+    {
+      "type": "Item",
+      "id": 77213
+    },
+    {
+      "type": "Item",
+      "id": 73876
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    },
+    {
+      "count": 14,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 72735,
+      "count": 1
+    }
+  ]
+}

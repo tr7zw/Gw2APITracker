@@ -1,0 +1,38 @@
+{
+  "name": "Resilient Chain Helm",
+  "description": "",
+  "type": "Armor",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 60,
+  "default_skin": 257,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 10402,
+  "chat_link": "[\u0026AgGiKAAA]",
+  "icon": "https://render.guildwars2.com/file/4571AFDB3F60093B93C03105CB05DD95E1082908/63237.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 23,
+    "infusion_slots": [],
+    "attribute_adjustment": 23.494,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

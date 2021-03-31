@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Aureate Short Bow of Battle",
+  "type": "Weapon",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 167,
+  "default_skin": 5154,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34025,
+  "chat_link": "[\u0026AgHphAAA]",
+  "icon": "https://render.guildwars2.com/file/C3F7CBA2520FB39678B86830341AA21A5A0BB7E1/67683.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 370,
+    "max_power": 409,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 226.944,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 79
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 57
+        }
+      ]
+    },
+    "suffix_item_id": 24602
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Diviner\u0027s Refitted Aureate Sconce",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 132,
+  "default_skin": 9864,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94664,
+  "chat_link": "[\u0026AgHIcQEA]",
+  "icon": "https://render.guildwars2.com/file/0D496A0CA65EB2E70860D3FAEC9D30D3A521EA52/2393787.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 649,
+    "max_power": 762,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 279.956,
+    "infix_upgrade": {
+      "id": 1556,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 84
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 46
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 46
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 84
+        }
+      ]
+    }
+  }
+}

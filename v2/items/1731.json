@@ -1,0 +1,43 @@
+{
+  "name": "Honed Privateer Coat of Scavenging",
+  "description": "",
+  "type": "Armor",
+  "level": 52,
+  "rarity": "Masterwork",
+  "vendor_value": 138,
+  "default_skin": 46,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 1731,
+  "chat_link": "[\u0026AgHDBgAA]",
+  "icon": "https://render.guildwars2.com/file/9E384E500AE801DE793FFB0149BE330BDA542C58/61024.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 155,
+    "infusion_slots": [],
+    "attribute_adjustment": 171.054,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 60
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 43
+        }
+      ]
+    },
+    "suffix_item_id": 24736
+  }
+}

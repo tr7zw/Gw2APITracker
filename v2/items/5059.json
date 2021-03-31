@@ -1,0 +1,38 @@
+{
+  "name": "Mighty Rawhide Mask",
+  "description": "",
+  "type": "Armor",
+  "level": 15,
+  "rarity": "Basic",
+  "vendor_value": 13,
+  "default_skin": 89,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 5059,
+  "chat_link": "[\u0026AgHDEwAA]",
+  "icon": "https://render.guildwars2.com/file/F804E912B12B14C11309C7B6CB7F0113C4D4270E/218899.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 11,
+    "infusion_slots": [],
+    "attribute_adjustment": 12.194,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Speed Booster",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 0,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 8454,
+  "chat_link": "[\u0026AgEGIQAA]",
+  "icon": "https://render.guildwars2.com/file/084BE7C2740C735DEA6F0FA4A6C4CA0639B49F4B/434414.png",
+  "details": {
+    "type": "Immediate",
+    "duration_ms": 3600000,
+    "apply_count": 1,
+    "name": "15% Speed Bonus",
+    "icon": "https://render.guildwars2.com/file/9ECEDE23394C500D01DAE60A023DB55DC6F3D9E5/436372.png",
+    "description": "Increase movement speed by 15%.\n\u003cc\u003d@reminder\u003eWill be removed if you enter competitive PvP or a raid.\u003c/c\u003e"
+  }
+}

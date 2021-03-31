@@ -1,0 +1,38 @@
+{
+  "id": 584,
+  "tier": 2,
+  "order": 1,
+  "name": "Strength in Numbers",
+  "description": "Nearby allies gain toughness based on your effective level.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/B5C9AAF67FA6305CB414C196EB1503493B5E0D59/1012430.png",
+      "duration": 6,
+      "status": "Strength in Numbers",
+      "description": "Nearby allies gain up to 100 toughness based on your effective level.",
+      "apply_count": 1
+    },
+    {
+      "text": "Interval",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+      "duration": 3
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 600
+    },
+    {
+      "text": "Combat Only",
+      "type": "NoData",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png"
+    }
+  ],
+  "specialization": 13,
+  "icon": "https://render.guildwars2.com/file/B5C9AAF67FA6305CB414C196EB1503493B5E0D59/1012430.png"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 3631,
+  "name": "Small Victory (Epilogue)",
+  "description": "Journal: Small Victory Completed",
+  "requirement": "Speak to the people of Amnoon.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 83871,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 329
+    }
+  ]
+}

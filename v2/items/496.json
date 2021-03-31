@@ -1,0 +1,47 @@
+{
+  "name": "Carrion Reinforced Scale Boots of Strength",
+  "description": "",
+  "type": "Armor",
+  "level": 75,
+  "rarity": "Masterwork",
+  "vendor_value": 124,
+  "default_skin": 74,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 496,
+  "chat_link": "[\u0026AgHwAQAA]",
+  "icon": "https://render.guildwars2.com/file/17C9516D0F0B2EBA616ED794C00F59411E931702/61014.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 136,
+    "infusion_slots": [],
+    "attribute_adjustment": 95.3445,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 24
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 24
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 33
+        }
+      ]
+    },
+    "suffix_item_id": 24712
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Mighty Seeker Boots",
+  "description": "",
+  "type": "Armor",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 48,
+  "default_skin": 236,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 11508,
+  "chat_link": "[\u0026AgH0LAAA]",
+  "icon": "https://render.guildwars2.com/file/1AF84B0CF6125758FD0AFAFB3663939BFE204EF9/61416.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 30,
+    "infusion_slots": [],
+    "attribute_adjustment": 17.6205,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

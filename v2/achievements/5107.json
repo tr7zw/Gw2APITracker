@@ -1,0 +1,46 @@
+{
+  "id": 5107,
+  "name": "\"Shadow in the Ice\" Mastery",
+  "description": "\u003cc\u003d@Flavor\u003eAs you make progress, kodan will begin to return to Still Waters Speaking.\u003c/c\u003e",
+  "requirement": "Complete  \"Shadow in the Ice\" achievement.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 2
+    },
+    {
+      "count": 10,
+      "points": 3
+    },
+    {
+      "count": 15,
+      "points": 4
+    },
+    {
+      "count": 27,
+      "points": 8
+    },
+    {
+      "count": 37,
+      "points": 12
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 92787,
+      "count": 1
+    }
+  ]
+}

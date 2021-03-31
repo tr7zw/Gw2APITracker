@@ -1,0 +1,39 @@
+{
+  "id": 4568,
+  "name": "Chasing Tales: Elusive Skirmisher",
+  "description": "Missed me by that much.",
+  "requirement": "Defeat 10 enemies with a short bow without being struck in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Mosa the Majestic."
+    },
+    {
+      "type": "Text",
+      "text": "Defeated 10 enemies with a short bow without being struck in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89816,
+      "count": 1
+    }
+  ]
+}

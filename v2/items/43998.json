@@ -1,0 +1,31 @@
+{
+  "name": "Black Lion Claim Ticket Scrap",
+  "description": "Collect enough scraps to turn in at a Black Lion Weapon Specialist for special weapons.",
+  "type": "Gizmo",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 43998,
+  "chat_link": "[\u0026AgHeqwAA]",
+  "icon": "https://render.guildwars2.com/file/6E1F212F5D1EC426655200AFCB11B64CB27890BC/607659.png",
+  "details": {
+    "type": "Default",
+    "vendor_ids": [
+      194
+    ]
+  }
+}

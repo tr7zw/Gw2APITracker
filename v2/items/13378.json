@@ -1,0 +1,41 @@
+{
+  "name": "Topaz Silver Pendant",
+  "description": "",
+  "type": "Trinket",
+  "level": 35,
+  "rarity": "Masterwork",
+  "vendor_value": 136,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 13378,
+  "chat_link": "[\u0026AgFCNAAA]",
+  "icon": "https://render.guildwars2.com/file/ABEA10800869EAE83B4CE409E591D1F96600B107/340173.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 89.624,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 22
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 31
+        }
+      ]
+    },
+    "suffix_item_id": 24489
+  }
+}

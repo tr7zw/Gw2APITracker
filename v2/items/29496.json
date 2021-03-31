@@ -1,0 +1,49 @@
+{
+  "name": "Tribulation Focus",
+  "description": "\u003cc\u003d@flavor\u003e\"We\u0027ve found these useful in disrupting their shields.\"\u003cbr\u003e—Magister Kathryn\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 90,
+  "default_skin": 3887,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29496,
+  "chat_link": "[\u0026AgE4cwAA]",
+  "icon": "https://render.guildwars2.com/file/EF62B7FE5B45A1181C362E635301E1BAA8FDCC44/65104.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 395,
+    "max_power": 420,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 144.228,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 36
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 50
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

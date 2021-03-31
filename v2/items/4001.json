@@ -1,0 +1,50 @@
+{
+  "name": "Excavator\u0027s Gloves",
+  "description": "\u003cc\u003d@flavor\u003e\"You don\u0027t want your hands to damage the artifacts.\"\u003cbr\u003e—Priory Researcher Raekk\u003c/c\u003e",
+  "type": "Armor",
+  "level": 55,
+  "rarity": "Fine",
+  "vendor_value": 44,
+  "default_skin": 902,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4001,
+  "chat_link": "[\u0026AgGhDwAA]",
+  "icon": "https://render.guildwars2.com/file/FE92E02C05FE05960E345BD85E5EFA042627061B/61231.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 61,
+    "infusion_slots": [],
+    "attribute_adjustment": 56.424,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 20
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 14
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 14
+        }
+      ]
+    }
+  }
+}

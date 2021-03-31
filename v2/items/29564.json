@@ -1,0 +1,53 @@
+{
+  "name": "Valoric Sword",
+  "description": "\u003cc\u003d@flavor\u003e\"Its not the sword that\u0027s great, but who wields it.\"\u003cbr\u003e—Pact Crusader D\u0027Stolt\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 72,
+  "rarity": "Masterwork",
+  "vendor_value": 120,
+  "default_skin": 4062,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29564,
+  "chat_link": "[\u0026AgF8cwAA]",
+  "icon": "https://render.guildwars2.com/file/D10679012504F6AD5829D1DF9F36303FE2EB46B4/64343.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 651,
+    "max_power": 719,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 240.108,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 60
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 60
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 84
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

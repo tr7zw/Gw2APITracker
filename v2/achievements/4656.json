@@ -1,0 +1,78 @@
+{
+  "id": 4656,
+  "name": "Mini Skimmer Pup Collection",
+  "description": "",
+  "requirement": "Unlock all skimmer pup minis in your wardrobe.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Minipet",
+      "id": 759
+    },
+    {
+      "type": "Minipet",
+      "id": 750
+    },
+    {
+      "type": "Minipet",
+      "id": 755
+    },
+    {
+      "type": "Minipet",
+      "id": 756
+    },
+    {
+      "type": "Minipet",
+      "id": 752
+    },
+    {
+      "type": "Minipet",
+      "id": 758
+    },
+    {
+      "type": "Minipet",
+      "id": 754
+    },
+    {
+      "type": "Minipet",
+      "id": 753
+    },
+    {
+      "type": "Minipet",
+      "id": 751
+    },
+    {
+      "type": "Minipet",
+      "id": 757
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 3
+    },
+    {
+      "count": 10,
+      "points": 6
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 90133,
+      "count": 1
+    }
+  ]
+}

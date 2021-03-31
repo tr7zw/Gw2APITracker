@@ -1,0 +1,40 @@
+{
+  "name": "Major Rune of the Afflicted",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eBrilliance\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 108,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24686,
+  "chat_link": "[\u0026AgFuYAAA]",
+  "icon": "https://render.guildwars2.com/file/B60F2022B79792C5AE920E124D5C3D26F05AC294/221047.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+15 Condition Damage",
+      "+6% Poison Duration",
+      "+30 Condition Damage",
+      "+9% Bleeding Duration"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Afflicted"
+  }
+}

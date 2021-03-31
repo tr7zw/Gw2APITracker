@@ -1,0 +1,46 @@
+{
+  "name": "Ravaging Privateer Boots of Hoelbrak",
+  "description": "",
+  "type": "Armor",
+  "level": 59,
+  "rarity": "Rare",
+  "vendor_value": 153,
+  "default_skin": 75,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 64589,
+  "chat_link": "[\u0026AgFN/AAA]",
+  "icon": "https://render.guildwars2.com/file/AE01341F9C5DC77201C50D2E220D52AC96FCEDFF/61041.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 92,
+    "infusion_slots": [],
+    "attribute_adjustment": 73.602,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 18
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 26
+        }
+      ]
+    },
+    "suffix_item_id": 24727
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Cabalist Shoulders of the Afflicted",
+  "description": "",
+  "type": "Armor",
+  "level": 57,
+  "rarity": "Masterwork",
+  "vendor_value": 108,
+  "default_skin": 79,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 2784,
+  "chat_link": "[\u0026AgHgCgAA]",
+  "icon": "https://render.guildwars2.com/file/647347660A570B201E410B97F8970243EEC91628/414916.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 38,
+    "infusion_slots": [],
+    "attribute_adjustment": 64.668,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 16
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 23
+        }
+      ]
+    },
+    "suffix_item_id": 24685
+  }
+}

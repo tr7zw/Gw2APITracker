@@ -1,0 +1,27 @@
+{
+  "id": 2130,
+  "tier": 3,
+  "order": 0,
+  "name": "Attacker\u0027s Insight",
+  "description": "Gain Insight when disabling foes or removing boons. Full Counter refreshes all \u003cc\u003d@abilitytype\u003eburst\u003c/c\u003e skills on hit.\u003cbr\u003e\u003cc\u003d@reminder\u003eDisables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt and fear.",
+  "slot": "Minor",
+  "facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/211512491566A15FDCE3E1B64A010445F1EB39E5/1770023.png",
+      "duration": 15,
+      "status": "Attacker\u0027s Insight",
+      "description": "",
+      "apply_count": 1
+    },
+    {
+      "text": "Maximum Stacks",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 5
+    }
+  ],
+  "specialization": 61,
+  "icon": "https://render.guildwars2.com/file/211512491566A15FDCE3E1B64A010445F1EB39E5/1770023.png"
+}

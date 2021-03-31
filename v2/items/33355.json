@@ -1,0 +1,37 @@
+{
+  "name": "Dull Blade",
+  "description": "",
+  "type": "Weapon",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 1,
+  "default_skin": 3873,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoMysticForge",
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 33355,
+  "chat_link": "[\u0026AgFLggAA]",
+  "icon": "https://render.guildwars2.com/file/4208D4020193450C234C0DC55F7EFCFAB236007B/66216.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 105,
+    "max_power": 117,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 7.8,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    }
+  }
+}

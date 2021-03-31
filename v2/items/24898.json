@@ -1,0 +1,45 @@
+{
+  "name": "Embellished Intricate Amethyst Jewel",
+  "description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 20,
+  "rarity": "Rare",
+  "vendor_value": 72,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24898,
+  "chat_link": "[\u0026AgFCYQAA]",
+  "icon": "https://render.guildwars2.com/file/E5711263FFE6B6546B72594E4998FB3301CE4FEB/340634.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "Trinket"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 526,
+      "buff": {
+        "skill_id": 314,
+        "description": "+8 Power\n+4 Vitality"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 8
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 4
+        }
+      ]
+    },
+    "suffix": "of Amethyst"
+  }
+}

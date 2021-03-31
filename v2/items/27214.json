@@ -1,0 +1,45 @@
+{
+  "name": "Strong Soft Wood Focus of Fire",
+  "description": "",
+  "type": "Weapon",
+  "level": 59,
+  "rarity": "Masterwork",
+  "vendor_value": 102,
+  "default_skin": 3887,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27214,
+  "chat_link": "[\u0026AgFOagAA]",
+  "icon": "https://render.guildwars2.com/file/EF62B7FE5B45A1181C362E635301E1BAA8FDCC44/65104.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 472,
+    "max_power": 501,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 181.084,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 63
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 45
+        }
+      ]
+    },
+    "suffix_item_id": 24547
+  }
+}

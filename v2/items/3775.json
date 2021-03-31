@@ -1,0 +1,48 @@
+{
+  "name": "Soldier\u0027s Havroun Circlet",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 1250,
+  "default_skin": 441,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Norn"
+  ],
+  "id": 3775,
+  "chat_link": "[\u0026AgG/DgAA]",
+  "icon": "https://render.guildwars2.com/file/4F9CEBDA4906937DA36E0A1FFC6C1F39A0E038D3/780931.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 44,
+    "infusion_slots": [],
+    "attribute_adjustment": 100.44,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 35
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 25
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 25
+        }
+      ]
+    }
+  }
+}

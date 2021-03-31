@@ -1,0 +1,49 @@
+{
+  "name": "Cleric\u0027s Iron Mace of Accuracy",
+  "description": "",
+  "type": "Weapon",
+  "level": 72,
+  "rarity": "Exotic",
+  "vendor_value": 240,
+  "default_skin": 3964,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25981,
+  "chat_link": "[\u0026AgF9ZQAA]",
+  "icon": "https://render.guildwars2.com/file/415D42C379B3AE75721E59D76E5F170926C416C1/65228.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 784,
+    "max_power": 883,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 293.6,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 73
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 73
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 103
+        }
+      ]
+    },
+    "suffix_item_id": 24618
+  }
+}

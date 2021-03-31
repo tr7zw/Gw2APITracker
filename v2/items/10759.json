@@ -1,0 +1,42 @@
+{
+  "name": "Rejuvenating Gladiator Pauldrons",
+  "description": "",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 113,
+  "default_skin": 226,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 10759,
+  "chat_link": "[\u0026AgEHKgAA]",
+  "icon": "https://render.guildwars2.com/file/912EF0F9D5B31F95ED30500AA559EB6AD9783778/61531.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "defense": 39,
+    "infusion_slots": [],
+    "attribute_adjustment": 36.963,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 9
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 13
+        }
+      ]
+    }
+  }
+}

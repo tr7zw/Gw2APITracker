@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Aureate Rinblade of Battle",
+  "type": "Weapon",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 111,
+  "default_skin": 5025,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34034,
+  "chat_link": "[\u0026AgHyhAAA]",
+  "icon": "https://render.guildwars2.com/file/CA0F9C513DDF68C304F117686B19FDE86F1B6ADA/67066.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 370,
+    "max_power": 409,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 113.472,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 40
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 28
+        }
+      ]
+    },
+    "suffix_item_id": 24602
+  }
+}

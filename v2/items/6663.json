@@ -1,0 +1,45 @@
+{
+  "name": "Vigorous Chainmail Gauntlets",
+  "description": "",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Fine",
+  "vendor_value": 144,
+  "default_skin": 20,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6663,
+  "chat_link": "[\u0026AgEHGgAA]",
+  "icon": "https://render.guildwars2.com/file/1E1768B71B5422D87870D76A3BBA185A41AFEF4C/61100.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 92,
+    "infusion_slots": [],
+    "attribute_adjustment": 63.912,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 22
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 16
+        }
+      ]
+    }
+  }
+}

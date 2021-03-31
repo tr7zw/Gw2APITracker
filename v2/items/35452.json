@@ -1,0 +1,51 @@
+{
+  "name": "Soldier\u0027s Bandit Ward",
+  "description": "",
+  "type": "Weapon",
+  "level": 75,
+  "rarity": "Masterwork",
+  "vendor_value": 700,
+  "default_skin": 4023,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 35452,
+  "chat_link": "[\u0026AgF8igAA]",
+  "icon": "https://render.guildwars2.com/file/ED77E5309C046F0E4C2CBDDC064AE5CAE01B7D79/66741.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 610,
+    "max_power": 687,
+    "defense": 46,
+    "infusion_slots": [],
+    "attribute_adjustment": 254.252,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 89
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 64
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 64
+        }
+      ]
+    }
+  }
+}

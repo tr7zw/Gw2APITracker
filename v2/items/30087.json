@@ -1,0 +1,53 @@
+{
+  "name": "Crystalwept Pistol",
+  "description": "\u003cc\u003d@flavor\u003e\"Made some modifications. You shouldn\u0027t notice, other than the fact that things will be dying faster than normal.\"\u003cbr\u003e—Sentinel Jaggedclaw\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 58,
+  "rarity": "Masterwork",
+  "vendor_value": 100,
+  "default_skin": 5168,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30087,
+  "chat_link": "[\u0026AgGHdQAA]",
+  "icon": "https://render.guildwars2.com/file/07FDD49E68D06DDCA7AD4EB4F72C0ED2C7729D75/67270.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 488,
+    "max_power": 572,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 176.732,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 44
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 44
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 62
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

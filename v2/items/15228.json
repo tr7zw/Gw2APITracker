@@ -1,0 +1,46 @@
+{
+  "name": "Carrion Darksteel Axe",
+  "description": "",
+  "type": "Weapon",
+  "level": 55,
+  "rarity": "Fine",
+  "vendor_value": 48,
+  "default_skin": 4008,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 15228,
+  "chat_link": "[\u0026AgF8OwAA]",
+  "icon": "https://render.guildwars2.com/file/C8EAC643C02F41B918D79031B6060B0CBFE40CAD/64967.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 415,
+    "max_power": 507,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 150.464,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 38
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 38
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 53
+        }
+      ]
+    }
+  }
+}

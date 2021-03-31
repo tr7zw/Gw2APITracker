@@ -1,0 +1,48 @@
+{
+  "name": "Ravaging Steam Hammer",
+  "type": "Weapon",
+  "level": 40,
+  "rarity": "Rare",
+  "vendor_value": 1400,
+  "default_skin": 5206,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 35577,
+  "chat_link": "[\u0026AgH5igAA]",
+  "icon": "https://render.guildwars2.com/file/310EB4F1063C3D03F702AE0A9CD4509617DC183B/60987.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 411,
+    "max_power": 463,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 234.288,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 59
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 82
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

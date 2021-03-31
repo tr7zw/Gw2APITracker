@@ -1,0 +1,49 @@
+{
+  "name": "Rampager\u0027s Soft Wood Longbow of Peril",
+  "description": "",
+  "type": "Weapon",
+  "level": 61,
+  "rarity": "Rare",
+  "vendor_value": 234,
+  "default_skin": 3942,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28532,
+  "chat_link": "[\u0026AgF0bwAA]",
+  "icon": "https://render.guildwars2.com/file/C6110F52DF5AFE0F00A56F9E143E9732176DDDE9/65015.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 584,
+    "max_power": 685,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 410.832,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 103
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 144
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 103
+        }
+      ]
+    },
+    "suffix_item_id": 24620
+  }
+}

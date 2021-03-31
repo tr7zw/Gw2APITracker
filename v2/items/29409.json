@@ -1,0 +1,43 @@
+{
+  "name": "Grawl Axe",
+  "type": "Weapon",
+  "level": 5,
+  "rarity": "Fine",
+  "vendor_value": 10,
+  "default_skin": 3896,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29409,
+  "chat_link": "[\u0026AgHhcgAA]",
+  "icon": "https://render.guildwars2.com/file/AE012C34F5F697C04F6674EC73DCFFA57B913BE1/67918.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 140,
+    "max_power": 171,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 15.744,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

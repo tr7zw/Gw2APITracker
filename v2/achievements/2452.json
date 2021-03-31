@@ -1,0 +1,94 @@
+{
+  "id": 2452,
+  "name": "Ydalir",
+  "description": "",
+  "requirement": "Collect these  items and skins to receive the dragonhunter\u0027s bow, Ydalir.",
+  "locked_text": "Begin training the guardian\u0027s dragonhunter elite specialization.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 6411
+    },
+    {
+      "type": "Item",
+      "id": 71785
+    },
+    {
+      "type": "Item",
+      "id": 72073
+    },
+    {
+      "type": "Skin",
+      "id": 5338
+    },
+    {
+      "type": "Item",
+      "id": 75411
+    },
+    {
+      "type": "Item",
+      "id": 74849
+    },
+    {
+      "type": "Item",
+      "id": 72260
+    },
+    {
+      "type": "Item",
+      "id": 72112
+    },
+    {
+      "type": "Item",
+      "id": 75479
+    },
+    {
+      "type": "Item",
+      "id": 72870
+    },
+    {
+      "type": "Item",
+      "id": 75936
+    },
+    {
+      "type": "Skin",
+      "id": 6375
+    },
+    {
+      "type": "Item",
+      "id": 71183
+    },
+    {
+      "type": "Skin",
+      "id": 6442
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    },
+    {
+      "count": 14,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 69817,
+      "count": 1
+    }
+  ]
+}

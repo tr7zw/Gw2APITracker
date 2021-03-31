@@ -1,0 +1,45 @@
+{
+  "name": "Honed Iron Rifle of Ogre Slaying",
+  "description": "",
+  "type": "Weapon",
+  "level": 40,
+  "rarity": "Rare",
+  "vendor_value": 171,
+  "default_skin": 4092,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28202,
+  "chat_link": "[\u0026AgEqbgAA]",
+  "icon": "https://render.guildwars2.com/file/167018D742BBF5120BE4ACE80DE5B049089D20F2/62700.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 411,
+    "max_power": 503,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 234.288,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 82
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 59
+        }
+      ]
+    },
+    "suffix_item_id": 24656
+  }
+}

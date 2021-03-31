@@ -1,0 +1,51 @@
+{
+  "name": "Forsaken Primal Cultivar",
+  "type": "Weapon",
+  "level": 59,
+  "rarity": "Exotic",
+  "vendor_value": 212,
+  "default_skin": 5189,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 52180,
+  "chat_link": "[\u0026AgHUywAA]",
+  "icon": "https://render.guildwars2.com/file/EE72F14B09A29AFA0F999E1825BAD801471F0106/434870.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 607,
+    "max_power": 645,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 238.4,
+    "infix_upgrade": {
+      "id": 1011,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 83
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 60
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 60
+        }
+      ]
+    }
+  }
+}

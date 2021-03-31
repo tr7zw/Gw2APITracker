@@ -1,0 +1,48 @@
+{
+  "name": "Jatoro\u0027s Leggings",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 370,
+  "default_skin": 10,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 45146,
+  "chat_link": "[\u0026AgFasAAA]",
+  "icon": "https://render.guildwars2.com/file/1920ACA302E656B60C38605521760351F147809D/61088.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Light",
+    "defense": 194,
+    "infusion_slots": [],
+    "attribute_adjustment": 256.08,
+    "infix_upgrade": {
+      "id": 754,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 64
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 64
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 90
+        }
+      ]
+    },
+    "suffix_item_id": 24738
+  }
+}

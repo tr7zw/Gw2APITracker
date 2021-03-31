@@ -1,0 +1,49 @@
+{
+  "name": "Exquisite Opal Jewel",
+  "description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24545,
+  "chat_link": "[\u0026AgHhXwAA]",
+  "icon": "https://render.guildwars2.com/file/E9AAE966EC3613B4E00D0BB4ABA7F39DA19D7402/220971.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "Trinket"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 418,
+      "buff": {
+        "skill_id": 232,
+        "description": "+25 Precision\n+15 Ferocity\n+15 Power"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 15
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 25
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 15
+        }
+      ]
+    },
+    "suffix": "of Opal"
+  }
+}

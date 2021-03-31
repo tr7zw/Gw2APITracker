@@ -1,0 +1,53 @@
+{
+  "id": 3388,
+  "name": "Shards of a Thorn",
+  "description": "",
+  "requirement": "Locate sword fragments within the Maguuma Jungle to aid in the restoration of Caladbolg.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 80702
+    },
+    {
+      "type": "Item",
+      "id": 80853
+    },
+    {
+      "type": "Item",
+      "id": 80690
+    },
+    {
+      "type": "Item",
+      "id": 80797
+    },
+    {
+      "type": "Item",
+      "id": 80846
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 5,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 80745,
+      "count": 1
+    }
+  ]
+}

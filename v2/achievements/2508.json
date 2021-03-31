@@ -1,0 +1,62 @@
+{
+  "id": 2508,
+  "name": "Machined Warhorn",
+  "description": "",
+  "requirement": "Collect all  items to forge your Machined Warhorn.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 6438
+    },
+    {
+      "type": "Item",
+      "id": 76684
+    },
+    {
+      "type": "Item",
+      "id": 73727
+    },
+    {
+      "type": "Item",
+      "id": 75497
+    },
+    {
+      "type": "Item",
+      "id": 76013
+    },
+    {
+      "type": "Item",
+      "id": 76605
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 75523,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Crossroads Lionscout Badge",
+  "description": "\u003cc\u003d@flavor\u003e\"Rank: Lionscout\"\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 13,
+  "rarity": "Fine",
+  "vendor_value": 23,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23341,
+  "chat_link": "[\u0026AgEtWwAA]",
+  "icon": "https://render.guildwars2.com/file/75B75FFE7557671254F31D0EDD94AEA06643AA02/455894.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 17.64,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

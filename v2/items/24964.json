@@ -1,0 +1,41 @@
+{
+  "name": "Mending Shiverpeak Hatchet",
+  "type": "Weapon",
+  "level": 21,
+  "rarity": "Fine",
+  "vendor_value": 24,
+  "default_skin": 5159,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24964,
+  "chat_link": "[\u0026AgGEYQAA]",
+  "icon": "https://render.guildwars2.com/file/1B9503F466E464B34620340FEC65CFE7BBC69231/534278.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 200,
+    "max_power": 244,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 44.224,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 11
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 15
+        }
+      ]
+    }
+  }
+}

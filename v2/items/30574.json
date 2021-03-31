@@ -1,0 +1,45 @@
+{
+  "name": "Twitchok\u0027s Trusty Pistol",
+  "description": "\u003cc\u003d@flavor\u003e\"Has never failed me. Well, almost never.\"\u003cbr\u003e—Twitchok\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 17,
+  "rarity": "Masterwork",
+  "vendor_value": 42,
+  "default_skin": 5095,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30574,
+  "chat_link": "[\u0026AgFudwAA]",
+  "icon": "https://render.guildwars2.com/file/05C3631739167BDC0867BECE80C0BE39C0B8B63B/62986.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 203,
+    "max_power": 238,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 40.188,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 14
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

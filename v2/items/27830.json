@@ -1,0 +1,45 @@
+{
+  "name": "Hearty Iron Hammer of Ice",
+  "description": "",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Masterwork",
+  "vendor_value": 126,
+  "default_skin": 4060,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27830,
+  "chat_link": "[\u0026AgG2bAAA]",
+  "icon": "https://render.guildwars2.com/file/2F4509F15B48B1A9F1579D08539F4109972A31A4/65162.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 429,
+    "max_power": 484,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 257.176,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 64
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 90
+        }
+      ]
+    },
+    "suffix_item_id": 24557
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Ebon Vanguard Shield",
+  "type": "Weapon",
+  "level": 40,
+  "rarity": "Rare",
+  "vendor_value": 1400,
+  "default_skin": 4657,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29604,
+  "chat_link": "[\u0026AgGkcwAA]",
+  "icon": "https://render.guildwars2.com/file/FAEBD1A913BAAB2408D66A24053C51DCFDEEE752/67592.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 336,
+    "max_power": 379,
+    "defense": 23,
+    "infusion_slots": [],
+    "attribute_adjustment": 117.144,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 41
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 29
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

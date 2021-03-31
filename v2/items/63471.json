@@ -1,0 +1,37 @@
+{
+  "name": "Amethyst Heart",
+  "description": "",
+  "type": "Trinket",
+  "level": 20,
+  "rarity": "Fine",
+  "vendor_value": 36,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 63471,
+  "chat_link": "[\u0026AgHv9wAA]",
+  "icon": "https://render.guildwars2.com/file/D82CC45CC9B206AADFD6A9F392426B75115D794B/66790.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [],
+    "attribute_adjustment": 31.584,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 11
+        }
+      ]
+    }
+  }
+}

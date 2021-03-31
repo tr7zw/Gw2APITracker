@@ -1,0 +1,47 @@
+{
+  "name": "Festive Winter Hood",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 330,
+  "default_skin": 9742,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94433,
+  "chat_link": "[\u0026AgHhcAEA]",
+  "icon": "https://render.guildwars2.com/file/07B591C6F201F762A4AD9CED2E0AD50E5128A623/2377402.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 97,
+    "infusion_slots": [],
+    "attribute_adjustment": 170.72,
+    "infix_upgrade": {
+      "id": 628,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 60
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 43
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 43
+        }
+      ]
+    }
+  }
+}

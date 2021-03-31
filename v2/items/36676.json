@@ -1,0 +1,44 @@
+{
+  "name": "Wildfire Talisman",
+  "type": "Trinket",
+  "level": 75,
+  "rarity": "Masterwork",
+  "vendor_value": 248,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 36676,
+  "chat_link": "[\u0026AgFEjwAA]",
+  "icon": "https://render.guildwars2.com/file/3EAA067B1D4E9553C13A74060D7B020E311AD251/220893.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 254.252,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 64
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 64
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 89
+        }
+      ]
+    },
+    "suffix_item_id": 24492
+  }
+}

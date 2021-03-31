@@ -1,0 +1,50 @@
+{
+  "name": "Ravaging Avenger\u0027s Longbow",
+  "type": "Weapon",
+  "level": 78,
+  "rarity": "Rare",
+  "vendor_value": 288,
+  "default_skin": 4777,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32249,
+  "chat_link": "[\u0026AgH5fQAA]",
+  "icon": "https://render.guildwars2.com/file/6B0A446DE2E6CBA57DDB31B1A74B3C07EAB805FF/340705.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 789,
+    "max_power": 926,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 581.904,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 145
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 204
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 145
+        }
+      ]
+    },
+    "suffix_item_id": 24615
+  }
+}

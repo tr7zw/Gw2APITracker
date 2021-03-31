@@ -1,0 +1,53 @@
+{
+  "name": "Illuminated Boreal Short Bow",
+  "description": "An Illuminated Boreal weapon, crafted using materials found in Bjora Marches.",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 9134,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92797,
+  "chat_link": "[\u0026AgF9agEA]",
+  "icon": "https://render.guildwars2.com/file/33CCC729355AA520E136E3E897A096E5EEE30E95/2247421.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Choking",
+    "min_power": 905,
+    "max_power": 1000,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 1539,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 205
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 113
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 113
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 205
+        }
+      ]
+    }
+  }
+}

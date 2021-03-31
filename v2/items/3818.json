@@ -1,0 +1,41 @@
+{
+  "name": "Superior Duelist\u0027s Helm",
+  "type": "Armor",
+  "level": 8,
+  "rarity": "Masterwork",
+  "vendor_value": 33,
+  "default_skin": 869,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 3818,
+  "chat_link": "[\u0026AgHqDgAA]",
+  "icon": "https://render.guildwars2.com/file/0B476306B2C800456645D324E4EBF19AC2AA4EBE/61241.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 15,
+    "infusion_slots": [],
+    "attribute_adjustment": 11.254,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

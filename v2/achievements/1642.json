@@ -1,0 +1,27 @@
+{
+  "id": 1642,
+  "name": "Zephyr\u0027s Leap",
+  "description": "Story Instance: Fallen Hopes",
+  "requirement": "Dive into a hay pile from the highest point in Prospect Valley and survive.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    1641
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 66607,
+      "count": 1
+    }
+  ]
+}

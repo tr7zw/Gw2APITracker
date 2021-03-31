@@ -1,0 +1,35 @@
+{
+  "name": "Vapor Form",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 20
+    },
+    {
+      "text": "Duration",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "duration": 3
+    },
+    {
+      "text": "Prevents Capture-Point Contribution",
+      "type": "NoData",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png"
+    }
+  ],
+  "description": "Assume a mobile, vaporous form, returning to a downed state when the effect ends.",
+  "icon": "https://render.guildwars2.com/file/0AFD20E6B71A0A967347EE55297079B80BB7AAA9/103346.png",
+  "type": "Weapon",
+  "weapon_type": "None",
+  "professions": [
+    "Elementalist"
+  ],
+  "slot": "Downed_2",
+  "flags": [
+    "NoUnderwater"
+  ],
+  "id": 5564,
+  "chat_link": "[\u0026BrwVAAA\u003d]"
+}

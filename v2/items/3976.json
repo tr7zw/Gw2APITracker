@@ -1,0 +1,50 @@
+{
+  "name": "Mountainous Mantle",
+  "description": "\u003cc\u003d@flavor\u003e\"These may be a little heavier than normal, but that can come in handy.\"\u003cbr\u003e—Crusader Rugan\u003c/c\u003e",
+  "type": "Armor",
+  "level": 57,
+  "rarity": "Fine",
+  "vendor_value": 54,
+  "default_skin": 888,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 3976,
+  "chat_link": "[\u0026AgGIDwAA]",
+  "icon": "https://render.guildwars2.com/file/76C75441B9FF20EB323AE15407ED97DDDC789330/61234.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 35,
+    "infusion_slots": [],
+    "attribute_adjustment": 59.328,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 15
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 15
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 21
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Ravaging Country Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 29,
+  "rarity": "Fine",
+  "vendor_value": 27,
+  "default_skin": 56,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 2130,
+  "chat_link": "[\u0026AgFSCAAA]",
+  "icon": "https://render.guildwars2.com/file/C5E6FBE6C802BC12035D38FE0D3216EA2917D930/61072.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 31,
+    "infusion_slots": [],
+    "attribute_adjustment": 23.976,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 6
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

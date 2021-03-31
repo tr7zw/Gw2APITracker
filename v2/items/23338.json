@@ -1,0 +1,39 @@
+{
+  "name": "Smashed Dragon Totem",
+  "description": "\u003cc\u003d@flavor\u003e\"It\u0027s odd to see the grawl worshipping something more powerful than barely shaped rocks.\"\u003cbr\u003e—Tor the Tall\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 10,
+  "rarity": "Fine",
+  "vendor_value": 19,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23338,
+  "chat_link": "[\u0026AgEqWwAA]",
+  "icon": "https://render.guildwars2.com/file/18557F10485201B809A97BD35B90681130C44348/455910.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 14.36,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 5
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Mark of the Stout",
+  "description": "Double-click to apply to an item with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 20,
+  "rarity": "Fine",
+  "vendor_value": 24,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24890,
+  "chat_link": "[\u0026AgE6YQAA]",
+  "icon": "https://render.guildwars2.com/file/FB72A7AF30D4FC06D00B0DCCEE59A31D310347C5/223407.png",
+  "details": {
+    "type": "Gem",
+    "flags": [
+      "ShortBow",
+      "HeavyArmor",
+      "LightArmor",
+      "Dagger",
+      "MediumArmor",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Trinket",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 477,
+      "buff": {
+        "skill_id": 268,
+        "description": "+5 Toughness\n+2 Precision"
+      },
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 2
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 5
+        }
+      ]
+    },
+    "suffix": "of the Stout"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Honed Soft Wood Focus",
+  "description": "",
+  "type": "Weapon",
+  "level": 42,
+  "rarity": "Fine",
+  "vendor_value": 39,
+  "default_skin": 3887,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 27097,
+  "chat_link": "[\u0026AgHZaQAA]",
+  "icon": "https://render.guildwars2.com/file/EF62B7FE5B45A1181C362E635301E1BAA8FDCC44/65104.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 308,
+    "max_power": 328,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 104.128,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 36
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 26
+        }
+      ]
+    }
+  }
+}

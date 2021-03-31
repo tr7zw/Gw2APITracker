@@ -1,0 +1,60 @@
+{
+  "name": "Electrified Net",
+  "facts": [
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 0.5
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+      "duration": 3,
+      "status": "Immobile",
+      "description": "Unable to move; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Stun",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
+      "duration": 2
+    },
+    {
+      "text": "Duration",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "duration": 10
+    },
+    {
+      "text": "Attack Range",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "distance": 600
+    }
+  ],
+  "description": "Overcharge your turret to fire an electrified net that immobilizes and stuns.",
+  "icon": "https://render.guildwars2.com/file/530FE7A16BCE9DAF7839B5C251F6F7670796990B/103411.png",
+  "type": "Utility",
+  "weapon_type": "None",
+  "professions": [
+    "Engineer"
+  ],
+  "slot": "Utility",
+  "flags": [],
+  "id": 5893,
+  "chat_link": "[\u0026BgUXAAA\u003d]",
+  "traited_facts": [
+    {
+      "text": "Stun",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
+      "duration": 3,
+      "requires_trait": 2052,
+      "overrides": 2
+    }
+  ]
+}

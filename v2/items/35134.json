@@ -1,0 +1,47 @@
+{
+  "name": "Vigorous Bandit Sunderer",
+  "description": "",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Fine",
+  "vendor_value": 346,
+  "default_skin": 4020,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 35134,
+  "chat_link": "[\u0026AgE+iQAA]",
+  "icon": "https://render.guildwars2.com/file/F420E407B7FE087204E10619B140E440FF3FEDF7/63052.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 531,
+    "max_power": 587,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 340.864,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 119
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 85
+        }
+      ]
+    }
+  }
+}

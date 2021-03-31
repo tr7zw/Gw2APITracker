@@ -1,0 +1,40 @@
+{
+  "name": "Strong Apprentice Shoes",
+  "description": "",
+  "type": "Armor",
+  "level": 32,
+  "rarity": "Basic",
+  "vendor_value": 16,
+  "default_skin": 16,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 2938,
+  "chat_link": "[\u0026AgF6CwAA]",
+  "icon": "https://render.guildwars2.com/file/473A59626E38EFE4FC5B4259AD96B12015A0900F/61344.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 26,
+    "infusion_slots": [],
+    "attribute_adjustment": 21.255,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 7
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 5
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Zintl Revolver",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of the holy Zintl hylek tribe.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 10000,
+  "default_skin": 4174,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 46862,
+  "chat_link": "[\u0026AgEOtwAA]",
+  "icon": "https://render.guildwars2.com/file/63270A35AE463A71A90201689041C36B2B396BB6/632120.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 920,
+    "max_power": 1080,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 125
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 90
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 90
+        }
+      ]
+    }
+  }
+}

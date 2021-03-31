@@ -1,0 +1,46 @@
+{
+  "id": 2281,
+  "name": "Ground Pounder",
+  "description": "Take command of the jungle!",
+  "requirement": "Complete all 5 outposts in the Verdant Brink.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Outpost: Pale Reaver Rally"
+    },
+    {
+      "type": "Text",
+      "text": "Outpost: Jaka Itzel"
+    },
+    {
+      "type": "Text",
+      "text": "Outpost: Pact Encampment"
+    },
+    {
+      "type": "Text",
+      "text": "Outpost: Noble Crash Site"
+    },
+    {
+      "type": "Text",
+      "text": "Outpost: The Ordnance Corps"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 106
+    }
+  ]
+}

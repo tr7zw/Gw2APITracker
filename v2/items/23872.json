@@ -1,0 +1,39 @@
+{
+  "name": "Hylek-Slayer Badge",
+  "description": "\u003cc\u003d@flavor\u003e\"Awarded by the Lionguard for valor in fighting the hylek.\"\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 10,
+  "rarity": "Fine",
+  "vendor_value": 19,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23872,
+  "chat_link": "[\u0026AgFAXQAA]",
+  "icon": "https://render.guildwars2.com/file/07D9452FC00EC9A9803BC5540AC9346D4E69E73F/66818.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 14.36,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 5
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Mending Shiverpeak Maul",
+  "type": "Weapon",
+  "level": 21,
+  "rarity": "Fine",
+  "vendor_value": 36,
+  "default_skin": 5213,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 25124,
+  "chat_link": "[\u0026AgEkYgAA]",
+  "icon": "https://render.guildwars2.com/file/2412401469770631E7E34972B3EFCCAB90094CE8/534277.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 230,
+    "max_power": 259,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 88.448,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 22
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 31
+        }
+      ]
+    }
+  }
+}

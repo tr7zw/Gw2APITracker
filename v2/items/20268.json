@@ -1,0 +1,43 @@
+{
+  "name": "Boxing Gloves",
+  "description": "Town clothes can no longer be equipped separately.\n\nSpeak to a Black Lion Armor Trader to exchange this for a portable bundle item.",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 0,
+  "default_skin": 1158,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "NotUpgradeable",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 20268,
+  "chat_link": "[\u0026AgEsTwAA]",
+  "icon": "https://render.guildwars2.com/file/3CE24E50181BB8CD3193C2650CB2ADEE0D3D97BC/340531.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Clothing",
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 4.437,
+    "infix_upgrade": {
+      "id": 50,
+      "buff": {
+        "skill_id": 10521
+      },
+      "attributes": []
+    }
+  }
+}

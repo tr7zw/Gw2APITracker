@@ -1,0 +1,48 @@
+{
+  "name": "Council Guard Gauntlets",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 238,
+  "default_skin": 664,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 35853,
+  "chat_link": "[\u0026AgENjAAA]",
+  "icon": "https://render.guildwars2.com/file/DE95FD0C57387F6C35A10203D66621927707A5FE/61552.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 182,
+    "infusion_slots": [],
+    "attribute_adjustment": 128.04,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 32
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 32
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 45
+        }
+      ]
+    },
+    "suffix_item_id": 24845
+  }
+}

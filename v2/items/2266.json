@@ -1,0 +1,43 @@
+{
+  "name": "Honed Cabalist Gloves of the Flock",
+  "description": "",
+  "type": "Armor",
+  "level": 40,
+  "rarity": "Masterwork",
+  "vendor_value": 69,
+  "default_skin": 82,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 2266,
+  "chat_link": "[\u0026AgHaCAAA]",
+  "icon": "https://render.guildwars2.com/file/260B7D54F135DE4B1A05E4F105EF51FDD1F09446/61079.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 45,
+    "infusion_slots": [],
+    "attribute_adjustment": 40.188,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 14
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 10
+        }
+      ]
+    },
+    "suffix_item_id": 24694
+  }
+}

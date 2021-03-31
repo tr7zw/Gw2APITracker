@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Reinforced Scale Coat of Hoelbrak",
+  "description": "",
+  "type": "Armor",
+  "level": 51,
+  "rarity": "Masterwork",
+  "vendor_value": 135,
+  "default_skin": 42,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 1217,
+  "chat_link": "[\u0026AgHBBAAA]",
+  "icon": "https://render.guildwars2.com/file/19F90C0019AF1F763A972B2C01FF424CA63D049C/61048.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 163,
+    "infusion_slots": [],
+    "attribute_adjustment": 166.617,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 42
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 58
+        }
+      ]
+    },
+    "suffix_item_id": 24727
+  }
+}

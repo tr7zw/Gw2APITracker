@@ -1,0 +1,37 @@
+{
+  "name": "Alchemical Bottle",
+  "type": "Weapon",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 0,
+  "default_skin": 2743,
+  "game_types": [
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 36979,
+  "chat_link": "[\u0026AgFzkAAA]",
+  "icon": "https://render.guildwars2.com/file/216B62605406DA976965A880F426F03ED6AFC178/61771.png",
+  "details": {
+    "type": "LargeBundle",
+    "damage_type": "Physical",
+    "min_power": 134,
+    "max_power": 148,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 20.736,
+    "infix_upgrade": {
+      "id": 575,
+      "buff": {
+        "skill_id": 15918
+      },
+      "attributes": []
+    }
+  }
+}

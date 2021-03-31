@@ -1,0 +1,40 @@
+{
+  "name": "Major Rune of Hoelbrak",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003ePotence\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 108,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24728,
+  "chat_link": "[\u0026AgGYYAAA]",
+  "icon": "https://render.guildwars2.com/file/797FC80F676E93979BB20AF5F229AB0EB16E5260/221076.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+15 Power",
+      "+6% Might Duration",
+      "+30 Power",
+      "-6% Incoming Condition Duration"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of Hoelbrak"
+  }
+}

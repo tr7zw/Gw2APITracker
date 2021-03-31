@@ -1,0 +1,44 @@
+{
+  "name": "Strong Greatsword",
+  "description": "",
+  "type": "Weapon",
+  "level": 50,
+  "rarity": "Basic",
+  "vendor_value": 34,
+  "default_skin": 3868,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 30805,
+  "chat_link": "[\u0026AgFVeAAA]",
+  "icon": "https://render.guildwars2.com/file/67B2C9A40C0E963567B7B42359A327B19F56195D/66176.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 347,
+    "max_power": 383,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 208.624,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 73
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 52
+        }
+      ]
+    }
+  }
+}

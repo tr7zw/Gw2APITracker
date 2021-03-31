@@ -1,0 +1,44 @@
+{
+  "name": "Strong Bandit Focus",
+  "description": "",
+  "type": "Weapon",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 102,
+  "default_skin": 3903,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 14116,
+  "chat_link": "[\u0026AgEkNwAA]",
+  "icon": "https://render.guildwars2.com/file/920324A8CC464AC205D62208E75C70CF7FE6A492/63483.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 312,
+    "max_power": 331,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 98.568,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 34
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 25
+        }
+      ]
+    }
+  }
+}

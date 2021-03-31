@@ -1,0 +1,29 @@
+{
+  "name": "Trading Post Express",
+  "description": "Double-click to summon a Black Lion Delivery Agent for 15 minutes, allowing you and your allies to pick up trading post purchases and profits. Single-use.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 4,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 20017,
+  "chat_link": "[\u0026AgExTgAA]",
+  "icon": "https://render.guildwars2.com/file/550278CE4303EB99084810B33F6A9ECA1FEBE693/220569.png",
+  "details": {
+    "type": "ContractNpc"
+  }
+}

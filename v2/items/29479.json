@@ -1,0 +1,49 @@
+{
+  "name": "Black Powder Rifle",
+  "description": "\u003cc\u003d@flavor\u003e\"If you\u0027re going to be up close with those dredge, pack some extra powder for a bigger kick.\"\u003cbr\u003e—Rinceword\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 30,
+  "rarity": "Masterwork",
+  "vendor_value": 93,
+  "default_skin": 5175,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29479,
+  "chat_link": "[\u0026AgEncwAA]",
+  "icon": "https://render.guildwars2.com/file/1D625FA71BF2717F6AD5055DA5C40804221BC6A1/534285.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 306,
+    "max_power": 374,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 148.24,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 37
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 52
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

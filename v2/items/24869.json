@@ -1,0 +1,38 @@
+{
+  "name": "Rune of Life",
+  "description": "Double-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 4,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24869,
+  "chat_link": "[\u0026AgElYQAA]",
+  "icon": "https://render.guildwars2.com/file/4C5567CE4AAC6F381701BA7791C17B6DE34D2D35/66663.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 509,
+      "buff": {
+        "skill_id": 9708,
+        "description": "+20 Health"
+      },
+      "attributes": []
+    },
+    "suffix": "of Life"
+  }
+}

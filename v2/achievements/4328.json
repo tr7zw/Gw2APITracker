@@ -1,0 +1,27 @@
+{
+  "id": 4328,
+  "name": "Ace Racer",
+  "description": "",
+  "requirement": "Finish  festival race in the Labyrinthine Cliffs or Crown Pavilion.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 5
+    }
+  ],
+  "point_cap": 25,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 66224,
+      "count": 20
+    }
+  ]
+}

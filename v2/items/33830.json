@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Krytan Sword of Grawl Slaying",
+  "type": "Weapon",
+  "level": 32,
+  "rarity": "Masterwork",
+  "vendor_value": 64,
+  "default_skin": 5020,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33830,
+  "chat_link": "[\u0026AgEmhAAA]",
+  "icon": "https://render.guildwars2.com/file/9AF522FA610E744803AE9F42063EABA5AA0F57B2/61730.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 294,
+    "max_power": 324,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 80.308,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 28
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 20
+        }
+      ]
+    },
+    "suffix_item_id": 24646
+  }
+}

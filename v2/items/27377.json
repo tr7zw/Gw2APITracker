@@ -1,0 +1,45 @@
+{
+  "name": "Hearty Soft Wood Torch of Air",
+  "description": "",
+  "type": "Weapon",
+  "level": 58,
+  "rarity": "Masterwork",
+  "vendor_value": 100,
+  "default_skin": 3890,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27377,
+  "chat_link": "[\u0026AgHxagAA]",
+  "icon": "https://render.guildwars2.com/file/FA56C5DD5D7494F25D980E432BA129F44209ED0E/63136.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 439,
+    "max_power": 515,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 176.732,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 44
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 62
+        }
+      ]
+    },
+    "suffix_item_id": 24552
+  }
+}

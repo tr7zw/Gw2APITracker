@@ -1,0 +1,45 @@
+{
+  "name": "Honed Soft Wood Focus of Agony",
+  "description": "",
+  "type": "Weapon",
+  "level": 27,
+  "rarity": "Masterwork",
+  "vendor_value": 56,
+  "default_skin": 3887,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27183,
+  "chat_link": "[\u0026AgEvagAA]",
+  "icon": "https://render.guildwars2.com/file/EF62B7FE5B45A1181C362E635301E1BAA8FDCC44/65104.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 240,
+    "max_power": 255,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 64.872,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 23
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 16
+        }
+      ]
+    },
+    "suffix_item_id": 24610
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 4079,
+  "name": "New Year\u0027s Benevolence",
+  "description": "",
+  "requirement": "Donate Lunar New Year food to the celestial pigs for good luck in the new year.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 100,
+      "points": 5
+    }
+  ],
+  "point_cap": 25,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 45175,
+      "count": 8
+    }
+  ]
+}

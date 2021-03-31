@@ -1,0 +1,45 @@
+{
+  "id": 4746,
+  "name": "Skyscale of Air",
+  "description": "",
+  "requirement": "Infuse your skyscale egg with air.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 90917
+    },
+    {
+      "type": "Item",
+      "id": 90503
+    },
+    {
+      "type": "Item",
+      "id": 90792
+    },
+    {
+      "type": "Item",
+      "id": 90753
+    }
+  ],
+  "tiers": [
+    {
+      "count": 4,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 90431,
+      "count": 1
+    }
+  ]
+}

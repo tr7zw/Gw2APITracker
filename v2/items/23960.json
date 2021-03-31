@@ -1,0 +1,47 @@
+{
+  "name": "Undead Ash in a Jar",
+  "description": "\u003cc\u003d@flavor\u003e\"Guaranteed to ward off undead!\"—Cuadinti\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 57,
+  "rarity": "Fine",
+  "vendor_value": 62,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23960,
+  "chat_link": "[\u0026AgGYXQAA]",
+  "icon": "https://render.guildwars2.com/file/1E024CFC4D47B0D6EA525EE8FC3F9F6BCF2A07A3/455979.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 98.88,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 25
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 25
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 35
+        }
+      ]
+    }
+  }
+}

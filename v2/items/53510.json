@@ -1,0 +1,47 @@
+{
+  "name": "Survivor\u0027s Great Sledge",
+  "type": "Weapon",
+  "level": 34,
+  "rarity": "Masterwork",
+  "vendor_value": 105,
+  "default_skin": 5213,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 53510,
+  "chat_link": "[\u0026AgEG0QAA]",
+  "icon": "https://render.guildwars2.com/file/2412401469770631E7E34972B3EFCCAB90094CE8/534277.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 356,
+    "max_power": 402,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 193.256,
+    "infix_upgrade": {
+      "id": 1013,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 48
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 68
+        }
+      ]
+    }
+  }
+}

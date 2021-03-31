@@ -1,0 +1,51 @@
+{
+  "name": "Riddle of the Spellbreaker",
+  "description": "\u003cc\u003d@Flavor\u003eAmidst the mighty cries of dragons, silence is deafening.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 330,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "Unique",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 84040,
+  "chat_link": "[\u0026AgFISAEA]",
+  "icon": "https://render.guildwars2.com/file/3A5CF336021AE19AFD63C8FEAD70940BF223BC98/1765787.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 213.4,
+    "infix_upgrade": {
+      "id": 1364,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 64
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 35
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 64
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 35
+        }
+      ]
+    },
+    "suffix_item_id": 84581
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Mountain Shield",
+  "description": "\u003cc\u003d@flavor\u003e\"Nothing is getting past this shield.\"\u003cbr\u003e—Vigil Crusader Rugan\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 57,
+  "rarity": "Fine",
+  "vendor_value": 49,
+  "default_skin": 4595,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29443,
+  "chat_link": "[\u0026AgEDcwAA]",
+  "icon": "https://render.guildwars2.com/file/40D42193932BDD2F953B5A1D26C6650C7E2DBE99/64925.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 406,
+    "max_power": 458,
+    "defense": 29,
+    "infusion_slots": [],
+    "attribute_adjustment": 158.208,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 40
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 40
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 55
+        }
+      ]
+    }
+  }
+}

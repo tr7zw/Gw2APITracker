@@ -1,0 +1,39 @@
+{
+  "name": "Bag of Worm Food",
+  "description": "\u003cc\u003d@flavor\u003e\"Tasty! Try it and see!\"\u003cbr\u003e—Sneckit\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 18,
+  "rarity": "Masterwork",
+  "vendor_value": 55,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23909,
+  "chat_link": "[\u0026AgFlXQAA]",
+  "icon": "https://render.guildwars2.com/file/10ACE47195709F69F366026507FEB0080DF39BE7/63194.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 26.52,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

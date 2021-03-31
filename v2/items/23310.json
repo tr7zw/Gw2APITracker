@@ -1,0 +1,43 @@
+{
+  "name": "Dwarven Amulet Relic",
+  "description": "\u003cc\u003d@flavor\u003e\"Such a wondrous relic. Dwarven amulets seem to last forever.\"\u003cbr\u003e—Bink\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 25,
+  "rarity": "Masterwork",
+  "vendor_value": 108,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23310,
+  "chat_link": "[\u0026AgEOWwAA]",
+  "icon": "https://render.guildwars2.com/file/4A585ACDE5E67927352DEC6FE431A0FBC6E1377A/455904.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 58.412,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 15
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 20
+        }
+      ]
+    }
+  }
+}

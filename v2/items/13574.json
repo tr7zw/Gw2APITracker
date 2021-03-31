@@ -1,0 +1,41 @@
+{
+  "name": "Amethyst Gold Amulet",
+  "description": "",
+  "type": "Trinket",
+  "level": 50,
+  "rarity": "Rare",
+  "vendor_value": 270,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 13574,
+  "chat_link": "[\u0026AgEGNQAA]",
+  "icon": "https://render.guildwars2.com/file/48033AF4B6A26FFBCBB01B4FDBD308D74DF1296A/455638.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 156.816,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 55
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 39
+        }
+      ]
+    },
+    "suffix_item_id": 24905
+  }
+}

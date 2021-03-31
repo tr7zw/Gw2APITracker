@@ -1,0 +1,38 @@
+{
+  "name": "Mighty Apprentice Pants",
+  "description": "",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 7,
+  "default_skin": 3,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 5024,
+  "chat_link": "[\u0026AgGgEwAA]",
+  "icon": "https://render.guildwars2.com/file/AAB41A903B03C7DEB833A8CC4E08CF0A02A67BD5/61404.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Light",
+    "defense": 16,
+    "infusion_slots": [],
+    "attribute_adjustment": 9.126,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 3
+        }
+      ]
+    }
+  }
+}

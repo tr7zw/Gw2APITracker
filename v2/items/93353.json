@@ -1,0 +1,47 @@
+{
+  "name": "Knight\u0027s Stormcaller Shield",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 9426,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 93353,
+  "chat_link": "[\u0026AgGpbAEA]",
+  "icon": "https://render.guildwars2.com/file/5F9C102B61B22F04FCA9FCA6D5D4BF450E03E526/2293228.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 806,
+    "max_power": 909,
+    "defense": 61,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 158,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 85
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 120
+        }
+      ]
+    }
+  }
+}

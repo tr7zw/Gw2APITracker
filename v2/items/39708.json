@@ -1,0 +1,26 @@
+{
+  "name": "Guild Gold and Magic Find Banner",
+  "description": "Spawns a guild banner that will give +10% boost to gold from kills and +15% boost to magic find for 30 minutes to any ally who touches it. Does not stack with other gold or magic find banners.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 0,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 39708,
+  "chat_link": "[\u0026AgEcmwAA]",
+  "icon": "https://render.guildwars2.com/file/79306D1674F3354698FE05A6AEE11CA5FDA4F1F8/543940.png",
+  "details": {
+    "type": "Generic"
+  }
+}

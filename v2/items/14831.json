@@ -1,0 +1,44 @@
+{
+  "name": "Vigorous Dredge Firearm",
+  "description": "",
+  "type": "Weapon",
+  "level": 50,
+  "rarity": "Rare",
+  "vendor_value": 135,
+  "default_skin": 3970,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 14831,
+  "chat_link": "[\u0026AgHvOQAA]",
+  "icon": "https://render.guildwars2.com/file/FFB9032AB718E7FC2ADDF2B70E9CB11D781E98CA/574988.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 450,
+    "max_power": 528,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 156.816,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 55
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 39
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Reinforced Scale Pauldrons of Strength",
+  "description": "",
+  "type": "Armor",
+  "level": 51,
+  "rarity": "Masterwork",
+  "vendor_value": 99,
+  "default_skin": 72,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 2278,
+  "chat_link": "[\u0026AgHmCAAA]",
+  "icon": "https://render.guildwars2.com/file/D964F8E215690405F4389E259BBD027FE6084632/61080.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "defense": 55,
+    "infusion_slots": [],
+    "attribute_adjustment": 55.539,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 14
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 19
+        }
+      ]
+    },
+    "suffix_item_id": 24712
+  }
+}

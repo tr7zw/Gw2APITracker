@@ -1,0 +1,41 @@
+{
+  "name": "Spinel Silver Ring",
+  "description": "",
+  "type": "Trinket",
+  "level": 35,
+  "rarity": "Masterwork",
+  "vendor_value": 102,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 13506,
+  "chat_link": "[\u0026AgHCNAAA]",
+  "icon": "https://render.guildwars2.com/file/5C39B5F5592A13111514E06AA3357BEC9C5146A6/340237.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [],
+    "attribute_adjustment": 67.218,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 17
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 24
+        }
+      ]
+    },
+    "suffix_item_id": 24896
+  }
+}

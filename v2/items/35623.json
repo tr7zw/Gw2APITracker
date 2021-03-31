@@ -1,0 +1,48 @@
+{
+  "name": "Mending Shiverpeak Short Bow",
+  "type": "Weapon",
+  "level": 40,
+  "rarity": "Rare",
+  "vendor_value": 1400,
+  "default_skin": 5113,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 35623,
+  "chat_link": "[\u0026AgEniwAA]",
+  "icon": "https://render.guildwars2.com/file/A2662F69D17EECB037A84A62CDF8A0921CDB353F/534287.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 378,
+    "max_power": 417,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 234.288,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 59
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 82
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

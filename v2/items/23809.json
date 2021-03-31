@@ -1,0 +1,43 @@
+{
+  "name": "Jackdaw Pirate Patch",
+  "description": "\u003cc\u003d@flavor\u003eA handy change of clothes if it\u0027s every necessary to blend in with the local pirates.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 31,
+  "rarity": "Fine",
+  "vendor_value": 39,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23809,
+  "chat_link": "[\u0026AgEBXQAA]",
+  "icon": "https://render.guildwars2.com/file/7D10414BCCFDC35B3053036CC63A910B5D3F65C2/455967.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 43.6,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 11
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 15
+        }
+      ]
+    }
+  }
+}

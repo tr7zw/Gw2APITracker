@@ -1,0 +1,48 @@
+{
+  "name": "Rabid Orchid Gloves",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 1000,
+  "default_skin": 497,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Sylvari"
+  ],
+  "id": 3646,
+  "chat_link": "[\u0026AgE+DgAA]",
+  "icon": "https://render.guildwars2.com/file/2F27AF0804CA35606E4C020B0CB4DE24570E12E6/433411.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 80,
+    "infusion_slots": [],
+    "attribute_adjustment": 75.33,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 19
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 19
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 26
+        }
+      ]
+    }
+  }
+}

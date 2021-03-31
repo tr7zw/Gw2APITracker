@@ -1,0 +1,42 @@
+{
+  "name": "Strong Iron Axe",
+  "description": "",
+  "type": "Weapon",
+  "level": 44,
+  "rarity": "Fine",
+  "vendor_value": 40,
+  "default_skin": 3962,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 25874,
+  "chat_link": "[\u0026AgESZQAA]",
+  "icon": "https://render.guildwars2.com/file/C8EAC643C02F41B918D79031B6060B0CBFE40CAD/64967.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 331,
+    "max_power": 404,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 110.72,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 39
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 28
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Jofast\u0027s Pauldrons",
+  "description": "\u003cc\u003d@flavor\u003e\"You look tougher than a dolyak in these.\"\u003cbr\u003e—Warmaster Jofast\u003c/c\u003e",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Fine",
+  "vendor_value": 73,
+  "default_skin": 911,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4493,
+  "chat_link": "[\u0026AgGNEQAA]",
+  "icon": "https://render.guildwars2.com/file/28F97A1A446918DA29AF051C59D0F4D293DDA9B1/61272.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "defense": 92,
+    "infusion_slots": [],
+    "attribute_adjustment": 96.984,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 24
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 24
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 34
+        }
+      ]
+    }
+  }
+}

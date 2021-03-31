@@ -1,0 +1,52 @@
+{
+  "id": 5409,
+  "name": "Shiver at the Peaks",
+  "description": "\u003cc\u003d@flavor\u003e\"Are you crazy? It\u0027s colder than a lich\u0027s wit up there!\"\u003c/c\u003e",
+  "requirement": "Use /shiver in the highest parts of all the Shiverpeak Mountains.\n\u003cc\u003d@reminder\u003eRequires access to previous Living World episodes to complete.\u003c/c\u003e",
+  "locked_text": "Learn the /shiver emote from Icebrood Saga Episode 2, \"Shadow in the Ice.\"",
+  "type": "Default",
+  "flags": [
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Wayfarer Foothills"
+    },
+    {
+      "type": "Text",
+      "text": "Snowden Drifts"
+    },
+    {
+      "type": "Text",
+      "text": "Lornar\u0027s Pass"
+    },
+    {
+      "type": "Text",
+      "text": "Dredgehaunt Cliffs"
+    },
+    {
+      "type": "Text",
+      "text": "Timberline Falls"
+    },
+    {
+      "type": "Text",
+      "text": "Frostgorge Sound"
+    },
+    {
+      "type": "Text",
+      "text": "Bjora Marches"
+    },
+    {
+      "type": "Text",
+      "text": "Drizzlewood Coast"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 8,
+      "points": 10
+    }
+  ]
+}

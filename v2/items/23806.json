@@ -1,0 +1,43 @@
+{
+  "name": "Slade Pirate Flag",
+  "description": "\u003cc\u003d@flavor\u003eA trophy flag of the Slade Pirate crew.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 31,
+  "rarity": "Masterwork",
+  "vendor_value": 78,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23806,
+  "chat_link": "[\u0026AgH+XAAA]",
+  "icon": "https://render.guildwars2.com/file/E95F65D07BC7DA120FC1DB53F0B5959F07B7246D/455966.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 48.28,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 12
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 17
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Tarff Breastplate",
+  "description": "\u003cc\u003d@flavor\u003e\"Patent #19283719T pending approval by Arcane Council.\"\u003c/c\u003e",
+  "type": "Armor",
+  "level": 10,
+  "rarity": "Fine",
+  "vendor_value": 23,
+  "default_skin": 861,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4854,
+  "chat_link": "[\u0026AgH2EgAA]",
+  "icon": "https://render.guildwars2.com/file/CCCD69DAF43C71D30E77255C3C530601CFD247FE/61239.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 44,
+    "infusion_slots": [],
+    "attribute_adjustment": 25.848,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

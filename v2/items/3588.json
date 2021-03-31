@@ -1,0 +1,44 @@
+{
+  "name": "Lingering Adept Coat",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 1000,
+  "default_skin": 273,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Asura"
+  ],
+  "id": 3588,
+  "chat_link": "[\u0026AgEEDgAA]",
+  "icon": "https://render.guildwars2.com/file/4A7E2BD43028A97A7D65F6A22CAA5D1A4CCE0D06/414939.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 101,
+    "infusion_slots": [],
+    "attribute_adjustment": 110.889,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 28
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 39
+        }
+      ]
+    }
+  }
+}

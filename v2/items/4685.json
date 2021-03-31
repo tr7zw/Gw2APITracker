@@ -1,0 +1,42 @@
+{
+  "name": "Seraph-Issue Cloth Gloves",
+  "description": "\u003cc\u003d@flavor\u003e\"You kill enough centaurs, you\u0027ll need some gloves. Trust me.\"\u003cbr\u003e—Barnaby\u003c/c\u003e",
+  "type": "Armor",
+  "level": 17,
+  "rarity": "Fine",
+  "vendor_value": 19,
+  "default_skin": 891,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4685,
+  "chat_link": "[\u0026AgFNEgAA]",
+  "icon": "https://render.guildwars2.com/file/6A921C0335490C406B28FBA52C3ECE4862B94F2E/61246.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 21,
+    "infusion_slots": [],
+    "attribute_adjustment": 13.368,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 5
+        }
+      ]
+    }
+  }
+}

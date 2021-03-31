@@ -1,0 +1,44 @@
+{
+  "name": "Rampager\u0027s Ring",
+  "description": "",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 297,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23258,
+  "chat_link": "[\u0026AgHaWgAA]",
+  "icon": "https://render.guildwars2.com/file/0A402568104F5BE5BC644665653302005F6266CF/66800.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [],
+    "attribute_adjustment": 226.368,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 57
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 79
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 57
+        }
+      ]
+    }
+  }
+}

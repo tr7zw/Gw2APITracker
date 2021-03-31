@@ -1,0 +1,27 @@
+{
+  "id": 1791,
+  "name": "No Thanks to Canach",
+  "description": "Story Instance: Caithe\u0027s Reconnaissance Squad",
+  "requirement": "Complete Caithe\u0027s Reconnaissance Squad without planting any of Canach\u0027s mines.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    1783
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 67788,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Modniir Sunderer",
+  "description": "",
+  "type": "Weapon",
+  "level": 43,
+  "rarity": "Fine",
+  "vendor_value": 60,
+  "default_skin": 4660,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29229,
+  "chat_link": "[\u0026AgEtcgAA]",
+  "icon": "https://render.guildwars2.com/file/0E5679CA4E29A0020248B229C7F46F3065EE0931/67616.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 377,
+    "max_power": 416,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 214.912,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 75
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 54
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 54
+        }
+      ]
+    }
+  }
+}

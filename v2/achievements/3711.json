@@ -1,0 +1,31 @@
+{
+  "id": 3711,
+  "name": "Elon Riverlands Bounty Tour",
+  "description": "",
+  "requirement": "Complete a bounty from each bounty board location.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Augury Bounty Board"
+    },
+    {
+      "type": "Text",
+      "text": "Olishar\u0027s Camp Bounty Board"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 3
+    }
+  ]
+}

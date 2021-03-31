@@ -1,0 +1,44 @@
+{
+  "name": "Hearty Dredge Flanged Mace",
+  "description": "",
+  "type": "Weapon",
+  "level": 50,
+  "rarity": "Rare",
+  "vendor_value": 135,
+  "default_skin": 3991,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 15658,
+  "chat_link": "[\u0026AgEqPQAA]",
+  "icon": "https://render.guildwars2.com/file/5FD7909CEAEA504BBCF008D4567CB5914098F70C/575001.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 460,
+    "max_power": 519,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 156.816,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 39
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 55
+        }
+      ]
+    }
+  }
+}

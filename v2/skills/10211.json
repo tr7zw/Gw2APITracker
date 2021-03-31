@@ -1,0 +1,41 @@
+{
+  "name": "Mantra of Pain",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 1
+    },
+    {
+      "text": "Number of Casts",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 2
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+      "duration": 5,
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
+      "apply_count": 12
+    }
+  ],
+  "description": "Mantra. Meditate, charging a spell that will damage your target. Gain might when this skill is fully charged.",
+  "icon": "https://render.guildwars2.com/file/440570B77C68F009A4EB6C0C0FFD3BE00FC11E96/103742.png",
+  "type": "Utility",
+  "weapon_type": "None",
+  "professions": [
+    "Mesmer"
+  ],
+  "slot": "Utility",
+  "flip_skill": 10212,
+  "flags": [],
+  "id": 10211,
+  "chat_link": "[\u0026BuMnAAA\u003d]",
+  "categories": [
+    "Mantra"
+  ]
+}

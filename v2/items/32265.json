@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Legionnaire Dagger of Accuracy",
+  "type": "Weapon",
+  "level": 78,
+  "rarity": "Exotic",
+  "vendor_value": 256,
+  "default_skin": 5074,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32265,
+  "chat_link": "[\u0026AgEJfgAA]",
+  "icon": "https://render.guildwars2.com/file/EBAE2C79E8AE5265957DCE636F453BDA01037FD7/66438.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 895,
+    "max_power": 950,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 329.36,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 82
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 82
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 115
+        }
+      ]
+    },
+    "suffix_item_id": 24618
+  }
+}

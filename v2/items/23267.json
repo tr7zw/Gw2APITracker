@@ -1,0 +1,36 @@
+{
+  "name": "Fertilizer Pouch",
+  "description": "You never know when this may come in handy.",
+  "type": "Trinket",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 32,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23267,
+  "chat_link": "[\u0026AgHjWgAA]",
+  "icon": "https://render.guildwars2.com/file/994C7D302ABA4B4CEE082F091FEAA7B33249AE92/66801.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 15.912,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

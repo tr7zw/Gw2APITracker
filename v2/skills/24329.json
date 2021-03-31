@@ -1,0 +1,46 @@
+{
+  "name": "Bunker Down",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 2
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 0.77
+    },
+    {
+      "text": "Explosion Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 180
+    },
+    {
+      "text": "Proximity Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 60
+    },
+    {
+      "text": "Duration",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "duration": 10
+    },
+    {
+      "text": "Explosion",
+      "type": "NoData",
+      "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png"
+    }
+  ],
+  "description": "Detonates when enemies draw near.",
+  "icon": "https://render.guildwars2.com/file/6BDE0704072F580D5818C004FB6CFA42A4F10F57/104786.png",
+  "flags": [],
+  "id": 24329,
+  "chat_link": "[\u0026BglfAAA\u003d]"
+}

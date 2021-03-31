@@ -1,0 +1,52 @@
+{
+  "name": "Cachistic Staff",
+  "description": "\u003cc\u003d@flavor\u003e\"What\u0027s that Krytan saying about sticks and stones? Well, thanks to our breakthrough, this is a little bit of both!\"\u003cbr\u003e—Scholar Merla\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Fine",
+  "vendor_value": 99,
+  "default_skin": 5237,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30285,
+  "chat_link": "[\u0026AgFNdgAA]",
+  "icon": "https://render.guildwars2.com/file/009BF7054DD8F777207999EC76EA747801A4CA56/62802.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 751,
+    "max_power": 847,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 517.248,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 181
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 129
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 129
+        }
+      ]
+    }
+  }
+}

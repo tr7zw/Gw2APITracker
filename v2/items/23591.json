@@ -1,0 +1,47 @@
+{
+  "name": "Flame Legion Carving",
+  "description": "\u003cc\u003d@flavor\u003e\"With a hero like you around, the Flame Legion doesn\u0027t stand a chance.\"\u003cbr\u003e—Corva Sharpclaw\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 62,
+  "rarity": "Fine",
+  "vendor_value": 67,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23591,
+  "chat_link": "[\u0026AgEnXAAA]",
+  "icon": "https://render.guildwars2.com/file/F1E34A739E0061F3DE6AFAB9C85D750807A2FBD6/455940.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 111.6,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 28
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 28
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 39
+        }
+      ]
+    }
+  }
+}

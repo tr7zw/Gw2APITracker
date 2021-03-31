@@ -1,0 +1,31 @@
+{
+  "name": "Freeze Grenade",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 1200
+    },
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 20
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+      "duration": 5,
+      "status": "Chilled",
+      "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
+      "apply_count": 1
+    }
+  ],
+  "description": "A frigid blast that freezes foes.",
+  "icon": "https://render.guildwars2.com/file/D95F525D4F2898CDE205CCACE09FD35FEA78B6DD/103103.png",
+  "flags": [],
+  "id": 54324,
+  "chat_link": "[\u0026BjTUAAA\u003d]"
+}

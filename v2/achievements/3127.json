@@ -1,0 +1,23 @@
+{
+  "id": 3127,
+  "name": "Patron",
+  "description": "It feels good to give?",
+  "requirement": "Purchase a patronage contract from the ringmaster.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 246
+    }
+  ]
+}

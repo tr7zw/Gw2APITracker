@@ -1,0 +1,62 @@
+{
+  "id": 2545,
+  "name": "Machined Focus",
+  "description": "",
+  "requirement": "Collect all  items to forge your Machined Focus.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 6417
+    },
+    {
+      "type": "Item",
+      "id": 71913
+    },
+    {
+      "type": "Item",
+      "id": 70674
+    },
+    {
+      "type": "Item",
+      "id": 73690
+    },
+    {
+      "type": "Item",
+      "id": 74736
+    },
+    {
+      "type": "Item",
+      "id": 71442
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 73565,
+      "count": 1
+    }
+  ]
+}

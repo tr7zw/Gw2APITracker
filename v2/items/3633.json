@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Evergreen Boots",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 425,
+  "default_skin": 510,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Sylvari"
+  ],
+  "id": 3633,
+  "chat_link": "[\u0026AgExDgAA]",
+  "icon": "https://render.guildwars2.com/file/1CC9095978F579C5F368A42ECD951DFDFAA20B71/433404.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 51,
+    "infusion_slots": [],
+    "attribute_adjustment": 36.963,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 9
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 13
+        }
+      ]
+    }
+  }
+}

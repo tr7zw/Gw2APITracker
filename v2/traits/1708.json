@@ -1,0 +1,28 @@
+{
+  "id": 1708,
+  "tier": 3,
+  "order": 2,
+  "name": "Rousing Resilience",
+  "description": "Gain toughness and health when you break out of a stun.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/630279C914D8BF414C2358281F1A37EDF86B203B/1012794.png",
+      "duration": 8,
+      "status": "Rousing Resilience",
+      "description": "Gain up to 1,000 toughness based on your level.",
+      "apply_count": 1
+    },
+    {
+      "text": "Healing",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "value": 2536,
+      "target": "Healing"
+    }
+  ],
+  "specialization": 22,
+  "icon": "https://render.guildwars2.com/file/630279C914D8BF414C2358281F1A37EDF86B203B/1012794.png"
+}

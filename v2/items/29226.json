@@ -1,0 +1,52 @@
+{
+  "name": "Modniir Stinger",
+  "description": "",
+  "type": "Weapon",
+  "level": 43,
+  "rarity": "Fine",
+  "vendor_value": 60,
+  "default_skin": 4643,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29226,
+  "chat_link": "[\u0026AgEqcgAA]",
+  "icon": "https://render.guildwars2.com/file/F1F6E605D4FB91EDA84805A9EA050A93943DE8F8/67727.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 342,
+    "max_power": 378,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 214.912,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 75
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 54
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 54
+        }
+      ]
+    }
+  }
+}

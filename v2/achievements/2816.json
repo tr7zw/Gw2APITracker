@@ -1,0 +1,26 @@
+{
+  "id": 2816,
+  "icon": "https://render.guildwars2.com/file/FE01AF14D91F52A1EF2B22FE0A552B9EE2E4C3F6/511340.png",
+  "name": "Daily PvP Matches Played in Unranked or Ranked Arena",
+  "description": "Win or lose, you see it through to the end.",
+  "requirement": "Complete any PvP match.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Daily"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 68117,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Wurm Hunt Souvenir Stein",
+  "description": "\u003cc\u003d@flavor\u003e\"1325 AE\"\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 12,
+  "rarity": "Fine",
+  "vendor_value": 22,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23340,
+  "chat_link": "[\u0026AgEsWwAA]",
+  "icon": "https://render.guildwars2.com/file/98F9BE40CA7E1006DB98756EAE94199E3315EB09/66528.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 16.56,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

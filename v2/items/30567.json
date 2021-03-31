@@ -1,0 +1,45 @@
+{
+  "name": "Aethervolt Spear",
+  "description": "\u003cc\u003d@flavor\u003e\"Perfect for when you just want to get up in their faces, then stab them.\"\u003cbr\u003e—Aerixx\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 16,
+  "rarity": "Masterwork",
+  "vendor_value": 60,
+  "default_skin": 3870,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30567,
+  "chat_link": "[\u0026AgFndwAA]",
+  "icon": "https://render.guildwars2.com/file/E39FA50EE0C4E8F3371B42E824E602DE06B4A842/780623.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 205,
+    "max_power": 226,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 75.752,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 27
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

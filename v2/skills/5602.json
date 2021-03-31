@@ -1,0 +1,90 @@
+{
+  "name": "Whirlpool",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 180
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 2.2
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+      "duration": 3,
+      "status": "Stability",
+      "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
+      "apply_count": 2
+    },
+    {
+      "text": "Damage Pulse",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+      "duration": 1
+    },
+    {
+      "text": "Boon Gain Interval",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "duration": 3
+    },
+    {
+      "text": "Boon Application Interval",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+      "duration": 3
+    },
+    {
+      "text": "Pull",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "value": 300
+    },
+    {
+      "text": "Duration",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "duration": 15
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 240
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    }
+  ],
+  "description": "Cantrip. Shape-shift into a swirling maelstrom that pulls foes into its destructive vortex.",
+  "icon": "https://render.guildwars2.com/file/D30CCEBC5B2A61039AFF0D691F46665B7E4F6B76/347235.png",
+  "type": "Elite",
+  "weapon_type": "None",
+  "professions": [
+    "Elementalist"
+  ],
+  "slot": "Elite",
+  "transform_skills": [
+    5603,
+    5603,
+    5603,
+    5603,
+    5603
+  ],
+  "flags": [],
+  "id": 5602,
+  "chat_link": "[\u0026BuIVAAA\u003d]",
+  "categories": [
+    "Cantrip"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Iron Legion Badge of Bravery",
+  "description": "\u003cc\u003d@flavor\u003e\"The Iron Legion thanks you. Maybe now we can get back to fixing up this blasted fort.\"\u003cbr\u003e—Engineer Burlage Firestoker\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 43,
+  "rarity": "Fine",
+  "vendor_value": 50,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23626,
+  "chat_link": "[\u0026AgFKXAAA]",
+  "icon": "https://render.guildwars2.com/file/2BD5FC4332E7236F46282C5BEDCC0F2CE97A905E/65589.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 67.16,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 24
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 17
+        }
+      ]
+    }
+  }
+}

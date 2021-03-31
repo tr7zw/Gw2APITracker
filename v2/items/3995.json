@@ -1,0 +1,50 @@
+{
+  "name": "Spleedoop Breather",
+  "description": "\u003cc\u003d@flavor\u003e\"My special design. OOOooooOOooo.\"\u003cbr\u003e—Commander Spleedoop\u003c/c\u003e",
+  "type": "Armor",
+  "level": 58,
+  "rarity": "Fine",
+  "vendor_value": 63,
+  "default_skin": 855,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 3995,
+  "chat_link": "[\u0026AgGbDwAA]",
+  "icon": "https://render.guildwars2.com/file/FA1D042B0845BED8DA3CFA0FAA0837D5EB0207A6/61297.png",
+  "details": {
+    "type": "HelmAquatic",
+    "weight_class": "Light",
+    "defense": 36,
+    "infusion_slots": [],
+    "attribute_adjustment": 81.152,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 20
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 20
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 28
+        }
+      ]
+    }
+  }
+}

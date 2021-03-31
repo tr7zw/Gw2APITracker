@@ -1,0 +1,27 @@
+{
+  "name": "Recipe: Copper Mace",
+  "description": "Double-click to learn a recipe",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 9,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9554,
+  "chat_link": "[\u0026AgFSJQAA]",
+  "icon": "https://render.guildwars2.com/file/9655120B2ACF1B0E379A9CD95EC7AF36C8CCED4E/849376.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 5423
+  }
+}

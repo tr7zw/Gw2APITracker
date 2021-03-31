@@ -1,0 +1,48 @@
+{
+  "name": "Whisper\u0027s Secret Dagger",
+  "type": "Weapon",
+  "level": 30,
+  "rarity": "Masterwork",
+  "vendor_value": 4500,
+  "default_skin": 4942,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 63525,
+  "chat_link": "[\u0026AgEl+AAA]",
+  "icon": "https://render.guildwars2.com/file/2D9297E20AE0BD057598CC11D1C9C59C52055841/67903.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 287,
+    "max_power": 304,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 74.12,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 19
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 26
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": 67,
+  "name": "For the Legion!",
+  "description": "You brought heat to the Flame Legion.",
+  "requirement": "Complete the charr personal story step \"Deadly Force,\" \"Ghostbore Artillery,\" \"Operation: Bulwark,\" or \"Quick and Quiet.\"",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tyria",
+      "id": 208
+    }
+  ]
+}

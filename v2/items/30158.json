@@ -1,0 +1,53 @@
+{
+  "name": "Shadowcleft Covert Staff",
+  "description": "\u003cc\u003d@flavor\u003e\"The quicker they fall, the less noise they make.\"\u003cbr\u003e—Solita Miststalker\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 65,
+  "rarity": "Masterwork",
+  "vendor_value": 165,
+  "default_skin": 5238,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30158,
+  "chat_link": "[\u0026AgHOdQAA]",
+  "icon": "https://render.guildwars2.com/file/55EE23F7C04B5823F2B2CC5DBB2C636E5F68A6A0/68163.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 622,
+    "max_power": 701,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 413.984,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 145
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 103
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 103
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

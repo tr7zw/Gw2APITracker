@@ -1,0 +1,38 @@
+{
+  "id": 3029,
+  "name": "Anomalies of the World",
+  "description": "",
+  "requirement": "Disperse Ley-Line Anomalies in all of the areas they appear.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Gendarran Fields"
+    },
+    {
+      "type": "Text",
+      "text": "Iron Marches"
+    },
+    {
+      "type": "Text",
+      "text": "Timberline Falls"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 67280,
+      "count": 3
+    }
+  ]
+}

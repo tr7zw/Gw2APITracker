@@ -1,0 +1,51 @@
+{
+  "name": "Soldier\u0027s Bandit Short Bow",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Fine",
+  "vendor_value": 455,
+  "default_skin": 3926,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34994,
+  "chat_link": "[\u0026AgGyiAAA]",
+  "icon": "https://render.guildwars2.com/file/F5BDB6EACB072894E577079D6457F40C72927E08/66742.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 690,
+    "max_power": 762,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 517.248,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 181
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 129
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 129
+        }
+      ]
+    }
+  }
+}

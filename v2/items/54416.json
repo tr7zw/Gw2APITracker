@@ -1,0 +1,47 @@
+{
+  "name": "Deserter\u0027s Barnacle Scraper",
+  "type": "Weapon",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 117,
+  "default_skin": 5073,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 54416,
+  "chat_link": "[\u0026AgGQ1AAA]",
+  "icon": "https://render.guildwars2.com/file/0BDBF05817ECB1AE01900641AFA730A691BAF7BC/779961.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 372,
+    "max_power": 455,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 124.56,
+    "infix_upgrade": {
+      "id": 1014,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 31
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 44
+        }
+      ]
+    }
+  }
+}

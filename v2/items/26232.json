@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Iron Sword of Peril",
+  "description": "",
+  "type": "Weapon",
+  "level": 65,
+  "rarity": "Exotic",
+  "vendor_value": 220,
+  "default_skin": 4062,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26232,
+  "chat_link": "[\u0026AgF4ZgAA]",
+  "icon": "https://render.guildwars2.com/file/D10679012504F6AD5829D1DF9F36303FE2EB46B4/64343.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 699,
+    "max_power": 772,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 254.64,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 89
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 64
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 64
+        }
+      ]
+    },
+    "suffix_item_id": 24621
+  }
+}

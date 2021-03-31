@@ -1,0 +1,44 @@
+{
+  "id": 4742,
+  "name": "The Battle of Dragonfall",
+  "description": "",
+  "requirement": "Claim victory in the Battle of Dragonfall.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 4
+    },
+    {
+      "count": 10,
+      "points": 5
+    },
+    {
+      "count": 15,
+      "points": 5
+    },
+    {
+      "count": 20,
+      "points": 5
+    },
+    {
+      "count": 25,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 469
+    }
+  ]
+}

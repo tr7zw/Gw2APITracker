@@ -1,0 +1,49 @@
+{
+  "name": "Rabid Winged Boots of the Necromancer",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "default_skin": 168,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 78557,
+  "chat_link": "[\u0026AgHdMgEA]",
+  "icon": "https://render.guildwars2.com/file/F7E706D6344EDDA226E0CD65A0E39D57C31553C6/61508.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 133,
+    "infusion_slots": [],
+    "attribute_adjustment": 128.04,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 32
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 32
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 45
+        }
+      ]
+    },
+    "suffix_item_id": 24806
+  }
+}

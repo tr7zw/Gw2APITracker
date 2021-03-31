@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Krytan Focus of Grawl Slaying",
+  "type": "Weapon",
+  "level": 32,
+  "rarity": "Masterwork",
+  "vendor_value": 64,
+  "default_skin": 4994,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33804,
+  "chat_link": "[\u0026AgEMhAAA]",
+  "icon": "https://render.guildwars2.com/file/BBFD79A8C5A7AF067FF2B9BF385E713291465869/61665.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 270,
+    "max_power": 287,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 80.308,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 28
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 20
+        }
+      ]
+    },
+    "suffix_item_id": 24646
+  }
+}

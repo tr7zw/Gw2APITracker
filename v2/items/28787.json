@@ -1,0 +1,49 @@
+{
+  "name": "Cleric\u0027s Iron Spear of Chilling",
+  "description": "",
+  "type": "Weapon",
+  "level": 76,
+  "rarity": "Rare",
+  "vendor_value": 284,
+  "default_skin": 4000,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28787,
+  "chat_link": "[\u0026AgFzcAAA]",
+  "icon": "https://render.guildwars2.com/file/9AC302D1031B5C31806D0703FBC1944C01D4A240/561998.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 750,
+    "max_power": 829,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 560.16,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 140
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 140
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 196
+        }
+      ]
+    },
+    "suffix_item_id": 24629
+  }
+}

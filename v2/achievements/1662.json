@@ -1,0 +1,27 @@
+{
+  "id": 1662,
+  "name": "Mess with the Bull...",
+  "description": "Story Instance: Discovering Scarlet\u0027s Breakthrough",
+  "requirement": "Defeat the Inquest at the second console location as a steam minotaur without ejecting.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    1659
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 66604,
+      "count": 1
+    }
+  ]
+}

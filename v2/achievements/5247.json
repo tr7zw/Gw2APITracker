@@ -1,0 +1,64 @@
+{
+  "id": 5247,
+  "name": "Morale Breaker",
+  "description": "",
+  "requirement": "Defeat the Minister of Morale  times in the Cold War Strike Mission.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    },
+    {
+      "count": 5,
+      "points": 5
+    },
+    {
+      "count": 10,
+      "points": 5
+    },
+    {
+      "count": 15,
+      "points": 5
+    },
+    {
+      "count": 20,
+      "points": 5
+    },
+    {
+      "count": 25,
+      "points": 0
+    },
+    {
+      "count": 30,
+      "points": 0
+    },
+    {
+      "count": 35,
+      "points": 0
+    },
+    {
+      "count": 40,
+      "points": 0
+    },
+    {
+      "count": 45,
+      "points": 0
+    },
+    {
+      "count": 50,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tundra",
+      "id": 509
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Honed Iron Spear of Life",
+  "description": "",
+  "type": "Weapon",
+  "level": 54,
+  "rarity": "Rare",
+  "vendor_value": 212,
+  "default_skin": 4000,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28775,
+  "chat_link": "[\u0026AgFncAAA]",
+  "icon": "https://render.guildwars2.com/file/9AC302D1031B5C31806D0703FBC1944C01D4A240/561998.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 502,
+    "max_power": 555,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 346.896,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 121
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 87
+        }
+      ]
+    },
+    "suffix_item_id": 24581
+  }
+}

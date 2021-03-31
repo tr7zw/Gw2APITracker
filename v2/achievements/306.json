@@ -1,0 +1,39 @@
+{
+  "id": 306,
+  "name": "Repair Master",
+  "description": "If they damage it, you repair it.",
+  "requirement": "Spend  supply on repairs.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 10,
+      "points": 1
+    },
+    {
+      "count": 1250,
+      "points": 5
+    },
+    {
+      "count": 2500,
+      "points": 10
+    },
+    {
+      "count": 5000,
+      "points": 15
+    },
+    {
+      "count": 10000,
+      "points": 25
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 73
+    }
+  ]
+}

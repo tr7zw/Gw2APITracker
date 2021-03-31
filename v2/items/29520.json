@@ -1,0 +1,48 @@
+{
+  "name": "Wyrmblood Warhorn",
+  "description": "\u003cc\u003d@flavor\u003e\"You can\u0027t ignore this land\u0027s plea to protect it from the legendary evil.\"\u003cbr\u003e—Toka Axegrinder\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 42,
+  "rarity": "Fine",
+  "vendor_value": 39,
+  "default_skin": 4587,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29520,
+  "chat_link": "[\u0026AgFQcwAA]",
+  "icon": "https://render.guildwars2.com/file/30D9AB0EC478A2FD2177E8B2BF4CABD09DB63DCB/67731.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 302,
+    "max_power": 334,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 104.128,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 26
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 36
+        }
+      ]
+    }
+  }
+}

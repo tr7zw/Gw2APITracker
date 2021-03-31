@@ -1,0 +1,27 @@
+{
+  "id": 2195,
+  "name": "Deathless Escape",
+  "description": "Story Instance: \"Prized Possessions\"",
+  "requirement": "While being pursued by the Mordrem beast, do not die.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    2320
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 76491,
+      "count": 1
+    }
+  ]
+}

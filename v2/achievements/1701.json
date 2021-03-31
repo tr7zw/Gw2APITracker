@@ -1,0 +1,27 @@
+{
+  "id": 1701,
+  "name": "Power Squelcher",
+  "description": "Story Instance: Recalibrating the Waypoints",
+  "requirement": "Defeat the Mordrem leyleecher after it\u0027s reached full power.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    }
+  ],
+  "prerequisites": [
+    1700
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 66606,
+      "count": 1
+    }
+  ]
+}

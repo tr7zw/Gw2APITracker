@@ -1,0 +1,52 @@
+{
+  "name": "Shaman\u0027s Norn Greatsword",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 5000,
+  "default_skin": 5194,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 35633,
+  "chat_link": "[\u0026AgExiwAA]",
+  "icon": "https://render.guildwars2.com/file/BE4132C5E23393EFBC9558F8237245127725DF6A/575170.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 620,
+    "max_power": 686,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 401.76,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 141
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 100
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 100
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

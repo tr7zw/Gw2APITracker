@@ -1,0 +1,53 @@
+{
+  "name": "Amduat Sceptre",
+  "description": "\u003cc\u003d@flavor\u003e\"Opponents have a way of defeating themselves.\"\u003cbr\u003e—Sava Quicksnarl\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 69,
+  "rarity": "Masterwork",
+  "vendor_value": 116,
+  "default_skin": 5210,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30172,
+  "chat_link": "[\u0026AgHcdQAA]",
+  "icon": "https://render.guildwars2.com/file/1C43079DB206A592B3170B7C09C0AEA956BEB772/68156.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 610,
+    "max_power": 688,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 225.896,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 79
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 56
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

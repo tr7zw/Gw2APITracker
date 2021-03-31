@@ -1,0 +1,44 @@
+{
+  "name": "Skritt Herder",
+  "description": "\u003cc\u003d@flavor\u003eIf it looks intimidating to you, imagine how it looks to a skritt.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 7,
+  "rarity": "Fine",
+  "vendor_value": 18,
+  "default_skin": 3868,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30534,
+  "chat_link": "[\u0026AgFGdwAA]",
+  "icon": "https://render.guildwars2.com/file/67B2C9A40C0E963567B7B42359A327B19F56195D/66176.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 169,
+    "max_power": 187,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 35.328,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

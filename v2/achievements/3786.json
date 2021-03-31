@@ -1,0 +1,47 @@
+{
+  "id": 3786,
+  "name": "Renowned Adventurer: Crystal Oasis",
+  "description": "",
+  "requirement": "Complete all of the renown hearts in Crystal Oasis.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Give aid to the refugees at Marifa Camp."
+    },
+    {
+      "type": "Text",
+      "text": "Aid the Temple of Kormir."
+    },
+    {
+      "type": "Text",
+      "text": "Help Aksim care for and train raptors."
+    },
+    {
+      "type": "Text",
+      "text": "Aid the villagers of Zephyr\u0027s Trace."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 3
+    },
+    {
+      "count": 2,
+      "points": 3
+    },
+    {
+      "count": 3,
+      "points": 3
+    },
+    {
+      "count": 4,
+      "points": 3
+    }
+  ]
+}

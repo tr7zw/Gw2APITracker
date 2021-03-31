@@ -1,0 +1,46 @@
+{
+  "name": "Light Priory Shoulderguards",
+  "description": "\u003cc\u003d@flavor\u003e\"Shoulderguards built for a hero.\"\u003cbr\u003e—Arcanist Sol\u003c/c\u003e",
+  "type": "Armor",
+  "level": 53,
+  "rarity": "Fine",
+  "vendor_value": 52,
+  "default_skin": 888,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4795,
+  "chat_link": "[\u0026AgG7EgAA]",
+  "icon": "https://render.guildwars2.com/file/76C75441B9FF20EB323AE15407ED97DDDC789330/61234.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 32,
+    "infusion_slots": [],
+    "attribute_adjustment": 53.664,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 13
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 19
+        }
+      ]
+    }
+  }
+}

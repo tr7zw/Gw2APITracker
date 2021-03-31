@@ -1,0 +1,65 @@
+{
+  "id": 3736,
+  "name": "Open Skies: Sunspear Sanctuary",
+  "description": "",
+  "requirement": "Gather Sunspear relics from all 5 maps and restore them to the Sunspear sanctuary.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Collect the Sunspear relics from Desert Highlands."
+    },
+    {
+      "type": "Text",
+      "text": "Collect the Sunspear relics from Crystal Oasis."
+    },
+    {
+      "type": "Text",
+      "text": "Collect the Sunspear relics from Elon Riverlands."
+    },
+    {
+      "type": "Text",
+      "text": "Collect the Sunspear relics from the Desolation."
+    },
+    {
+      "type": "Text",
+      "text": "Collect the Sunspear relics from the Domain of Vabbi."
+    },
+    {
+      "type": "Text",
+      "text": "Place the griffon eggs in their respective nests."
+    },
+    {
+      "type": "Text",
+      "text": "Set the Sunspear runes in their respective places around the Sunspear crest."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 82487,
+      "count": 1
+    }
+  ]
+}

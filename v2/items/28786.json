@@ -1,0 +1,49 @@
+{
+  "name": "Cleric\u0027s Iron Spear of Force",
+  "description": "",
+  "type": "Weapon",
+  "level": 69,
+  "rarity": "Rare",
+  "vendor_value": 261,
+  "default_skin": 4000,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28786,
+  "chat_link": "[\u0026AgFycAAA]",
+  "icon": "https://render.guildwars2.com/file/9AC302D1031B5C31806D0703FBC1944C01D4A240/561998.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 665,
+    "max_power": 735,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 488.448,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 122
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 122
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 171
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

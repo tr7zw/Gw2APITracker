@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Einhänder of the Geomancer",
+  "type": "Weapon",
+  "level": 68,
+  "rarity": "Masterwork",
+  "vendor_value": 114,
+  "default_skin": 5231,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25586,
+  "chat_link": "[\u0026AgHyYwAA]",
+  "icon": "https://render.guildwars2.com/file/FE00504CABCC01D699800D4E4EC706FA037CF608/534290.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 605,
+    "max_power": 669,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 221.204,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 77
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 55
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 55
+        }
+      ]
+    },
+    "suffix_item_id": 24603
+  }
+}

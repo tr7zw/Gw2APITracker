@@ -1,0 +1,31 @@
+{
+  "id": 2186,
+  "name": "Triple Mordrem Takedown",
+  "description": "Mowing down Mordrem like a boss.",
+  "requirement": "Kill all three possible Mordrem champions in Dragon\u0027s Passage.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Punish the Mordrem Guard punisher."
+    },
+    {
+      "type": "Text",
+      "text": "Assassinate the Mordrem Guard stalker."
+    },
+    {
+      "type": "Text",
+      "text": "Eliminate the Mordrem Guard sniper."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 10
+    }
+  ]
+}

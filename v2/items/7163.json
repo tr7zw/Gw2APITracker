@@ -1,0 +1,49 @@
+{
+  "name": "Soldier\u0027s Apprentice Pants",
+  "description": "",
+  "type": "Armor",
+  "level": 75,
+  "rarity": "Masterwork",
+  "vendor_value": 720,
+  "default_skin": 3,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 7163,
+  "chat_link": "[\u0026AgH7GwAA]",
+  "icon": "https://render.guildwars2.com/file/AAB41A903B03C7DEB833A8CC4E08CF0A02A67BD5/61404.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Light",
+    "defense": 145,
+    "infusion_slots": [],
+    "attribute_adjustment": 190.689,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 67
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 48
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 48
+        }
+      ]
+    }
+  }
+}

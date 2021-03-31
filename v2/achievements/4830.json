@@ -1,0 +1,48 @@
+{
+  "id": 4830,
+  "name": "Arena Slayer",
+  "description": "",
+  "requirement": "Defeat all 5 holographic champions in the Dragon Bash Arena.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Repeatable",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Megadestroyer"
+    },
+    {
+      "type": "Text",
+      "text": "Branded Hydra"
+    },
+    {
+      "type": "Text",
+      "text": "Mordrem Vinetooth"
+    },
+    {
+      "type": "Text",
+      "text": "Eye of Zhaitan"
+    },
+    {
+      "type": "Text",
+      "text": "Ice Beast"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 5
+    }
+  ],
+  "point_cap": 25,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 43357,
+      "count": 3
+    }
+  ]
+}

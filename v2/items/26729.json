@@ -1,0 +1,38 @@
+{
+  "name": "Vital Iron Pistol",
+  "description": "",
+  "type": "Weapon",
+  "level": 18,
+  "rarity": "Fine",
+  "vendor_value": 22,
+  "default_skin": 3875,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 26729,
+  "chat_link": "[\u0026AgFpaAAA]",
+  "icon": "https://render.guildwars2.com/file/C43656C1551C9A5A1A931EAC2901BD0FBA3BE3E1/62830.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 191,
+    "max_power": 224,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 37.824,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 13
+        }
+      ]
+    }
+  }
+}

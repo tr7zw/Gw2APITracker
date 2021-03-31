@@ -1,0 +1,31 @@
+{
+  "name": "Flask of Liquid Karma",
+  "description": "Double-click to gain karma.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "BulkConsume",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 36459,
+  "chat_link": "[\u0026AgFrjgAA]",
+  "icon": "https://render.guildwars2.com/file/D15B7C2E9D741CD9F39C1EAF76D924F3DA25AB1F/222792.png",
+  "details": {
+    "type": "Generic"
+  }
+}

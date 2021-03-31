@@ -1,0 +1,43 @@
+{
+  "name": "Flame Legion Backpack",
+  "type": "Back",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 9407,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 93544,
+  "chat_link": "[\u0026AgFobQEA]",
+  "icon": "https://render.guildwars2.com/file/FE697FC623B128197E049F03099B6A54FC06D692/2292666.png",
+  "details": {
+    "infusion_slots": [],
+    "attribute_adjustment": 85.36,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 30
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 21
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 21
+        }
+      ]
+    }
+  }
+}

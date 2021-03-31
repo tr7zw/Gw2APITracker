@@ -1,0 +1,66 @@
+{
+  "id": 4265,
+  "icon": "https://render.guildwars2.com/file/4477BAA7620C4C3B0826E70F1843E0D9DDF4214B/1999734.png",
+  "name": "Beetle Juice",
+  "description": "Acquire the enhancements necessary to pump your roller beetle to the max!",
+  "requirement": "Collect  \"medicines\" for Petey.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 87914
+    },
+    {
+      "type": "Item",
+      "id": 87961
+    },
+    {
+      "type": "Item",
+      "id": 87607
+    },
+    {
+      "type": "Item",
+      "id": 87878
+    },
+    {
+      "type": "Item",
+      "id": 87840
+    },
+    {
+      "type": "Item",
+      "id": 87908
+    },
+    {
+      "type": "Item",
+      "id": 87714
+    },
+    {
+      "type": "Item",
+      "id": 87676
+    },
+    {
+      "type": "Item",
+      "id": 87649
+    },
+    {
+      "type": "Item",
+      "id": 87583
+    }
+  ],
+  "tiers": [
+    {
+      "count": 10,
+      "points": 3
+    }
+  ],
+  "prerequisites": [
+    4271
+  ]
+}

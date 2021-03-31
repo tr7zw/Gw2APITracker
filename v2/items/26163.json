@@ -1,0 +1,38 @@
+{
+  "name": "Vital Iron Dagger",
+  "description": "",
+  "type": "Weapon",
+  "level": 13,
+  "rarity": "Fine",
+  "vendor_value": 18,
+  "default_skin": 4009,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 26163,
+  "chat_link": "[\u0026AgEzZgAA]",
+  "icon": "https://render.guildwars2.com/file/3254C66ED1675657E0B7C2FBBC09FBF2FBAA74A6/62762.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 181,
+    "max_power": 192,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 28.224,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 10
+        }
+      ]
+    }
+  }
+}

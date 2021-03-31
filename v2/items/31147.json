@@ -1,0 +1,49 @@
+{
+  "name": "Pact Battleaxe",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 198,
+  "default_skin": 4974,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 31147,
+  "chat_link": "[\u0026AgGreQAA]",
+  "icon": "https://render.guildwars2.com/file/740598B0A520B70A58F8F55C04F9FC914C3245E5/456057.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 759,
+    "max_power": 928,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 301.824,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 75
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 75
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 106
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

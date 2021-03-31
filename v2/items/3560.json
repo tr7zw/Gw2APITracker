@@ -1,0 +1,48 @@
+{
+  "name": "Berserker\u0027s Magus Boots",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 15000,
+  "default_skin": 369,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "id": 3560,
+  "chat_link": "[\u0026AgHoDQAA]",
+  "icon": "https://render.guildwars2.com/file/FB2CFB9F2AF9E6373EB73E1F132C336A7AC52304/61136.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 118,
+    "infusion_slots": [],
+    "attribute_adjustment": 113.184,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 40
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 28
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 28
+        }
+      ]
+    }
+  }
+}

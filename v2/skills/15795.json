@@ -1,0 +1,48 @@
+{
+  "name": "Mist Form",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 60
+    },
+    {
+      "text": "StunBreak",
+      "type": "StunBreak",
+      "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+      "value": true
+    },
+    {
+      "text": "Duration",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "duration": 3
+    },
+    {
+      "text": "Prevents Capture-Point Contribution",
+      "type": "NoData",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png"
+    },
+    {
+      "text": "Movement Speed Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "percent": 66
+    }
+  ],
+  "description": "Cantrip. Morph into an invulnerable, vaporous mist for a brief time.",
+  "icon": "https://render.guildwars2.com/file/0A1E58F3900AB25D79A7A9FDF343F1742915775C/103341.png",
+  "type": "Utility",
+  "weapon_type": "None",
+  "professions": [
+    "Elementalist"
+  ],
+  "slot": "Utility",
+  "flags": [],
+  "id": 15795,
+  "chat_link": "[\u0026BrM9AAA\u003d]",
+  "categories": [
+    "Cantrip"
+  ]
+}

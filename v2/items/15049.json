@@ -1,0 +1,42 @@
+{
+  "name": "Ravaging Steel Sword",
+  "description": "",
+  "type": "Weapon",
+  "level": 40,
+  "rarity": "Fine",
+  "vendor_value": 38,
+  "default_skin": 5691,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 15049,
+  "chat_link": "[\u0026AgHJOgAA]",
+  "icon": "https://render.guildwars2.com/file/D10679012504F6AD5829D1DF9F36303FE2EB46B4/64343.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 322,
+    "max_power": 356,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 97.536,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 24
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 34
+        }
+      ]
+    }
+  }
+}

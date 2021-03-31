@@ -1,0 +1,29 @@
+{
+  "id": 5001,
+  "name": "Extra Life Donor Goal",
+  "description": "",
+  "requirement": "As a donor to Extra Life, return to Lion\u0027s Arch after the community reaches the $75,000 goal.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 2,
+      "points": 0
+    }
+  ],
+  "prerequisites": [
+    5000
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 92151,
+      "count": 1
+    }
+  ]
+}

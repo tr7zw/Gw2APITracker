@@ -1,0 +1,70 @@
+{
+  "id": 4270,
+  "icon": "https://render.guildwars2.com/file/4477BAA7620C4C3B0826E70F1843E0D9DDF4214B/1999734.png",
+  "name": "Beetle Feed",
+  "description": "The fastest way to a roller beetle\u0027s heart is through its proventriculus. —Gorrik",
+  "requirement": "Collect  roller beetle foods and feed Petey the perfect meal.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 88017
+    },
+    {
+      "type": "Item",
+      "id": 87929
+    },
+    {
+      "type": "Item",
+      "id": 87640
+    },
+    {
+      "type": "Item",
+      "id": 87967
+    },
+    {
+      "type": "Item",
+      "id": 87880
+    },
+    {
+      "type": "Item",
+      "id": 87874
+    },
+    {
+      "type": "Item",
+      "id": 87990
+    },
+    {
+      "type": "Item",
+      "id": 87876
+    }
+  ],
+  "tiers": [
+    {
+      "count": 8,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    4205
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 88079,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 431
+    }
+  ]
+}

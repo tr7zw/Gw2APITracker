@@ -1,0 +1,52 @@
+{
+  "name": "Howl",
+  "description": "\u003cc\u003d@flavor\u003eThis weapon is used to craft the legendary warhorn Howler\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 6363,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "DeleteWarning",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29184,
+  "chat_link": "[\u0026AgEAcgAA]",
+  "icon": "https://render.guildwars2.com/file/FF282CD37AD618457F6878356739587916E5BF17/1207245.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 814,
+    "max_power": 900,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 120
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 85
+        }
+      ]
+    },
+    "suffix_item_id": 24561
+  }
+}

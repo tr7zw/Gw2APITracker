@@ -1,0 +1,29 @@
+{
+  "id": 3808,
+  "name": "Blazing a Trail",
+  "description": "Journal: Blazing a Trail Completed",
+  "requirement": "Gather information from locals about the situation in the Crystal Desert.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 83871,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 334
+    }
+  ]
+}

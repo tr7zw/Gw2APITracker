@@ -1,0 +1,79 @@
+{
+  "id": 2391,
+  "name": "Meteorlogicus II: The Perfected Scepter",
+  "description": "Your first attempt at crafting the legendary precursor Storm has been modestly successful but has not yet yielded the weapon you ultimately desire. This journey has only just begun. Find a teacher, research your procedures, and hone your skills before you try a second time.",
+  "requirement": "",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 70790
+    },
+    {
+      "type": "Item",
+      "id": 75931
+    },
+    {
+      "type": "Item",
+      "id": 72819
+    },
+    {
+      "type": "Item",
+      "id": 76187
+    },
+    {
+      "type": "Item",
+      "id": 71445
+    },
+    {
+      "type": "Item",
+      "id": 72712
+    },
+    {
+      "type": "Item",
+      "id": 70488
+    },
+    {
+      "type": "Item",
+      "id": 70512
+    },
+    {
+      "type": "Item",
+      "id": 74550
+    },
+    {
+      "type": "Item",
+      "id": 75494
+    },
+    {
+      "type": "Item",
+      "id": 74655
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 11,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 74125,
+      "count": 1
+    }
+  ]
+}

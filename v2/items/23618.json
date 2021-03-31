@@ -1,0 +1,42 @@
+{
+  "name": "Toy Stuffed Bear",
+  "description": "\u003cc\u003d@flavor\u003eA toy bear. Can be classifed as fuzzy, wuzzy.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 30,
+  "rarity": "Rare",
+  "vendor_value": 113,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23618,
+  "chat_link": "[\u0026AgFCXAAA]",
+  "icon": "https://render.guildwars2.com/file/2657676C9380B29B4ACD95C941340C0874A5673E/66810.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 49.05,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 12
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 17
+        }
+      ]
+    }
+  }
+}

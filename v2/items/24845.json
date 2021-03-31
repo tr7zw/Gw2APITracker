@@ -1,0 +1,46 @@
+{
+  "name": "Superior Rune of the Aristocracy",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eSkill\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 60,
+  "rarity": "Exotic",
+  "vendor_value": 216,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 24845,
+  "chat_link": "[\u0026AgENYQAA]",
+  "icon": "https://render.guildwars2.com/file/D8375410EAF95DB5D29CAB063051AD2AA8FAD740/221152.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+25 Condition Damage",
+      "+10% Might Duration",
+      "+50 Condition Damage",
+      "+20% Might Duration",
+      "+100 Condition Damage",
+      "+20% Might Duration; gain 5 stacks of might for 4 seconds after inflicting weakness on a foe. (Cooldown: 1 Second)"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Aristocracy"
+  }
+}

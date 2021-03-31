@@ -1,0 +1,52 @@
+{
+  "name": "Wayward Shield",
+  "description": "\u003cc\u003d@flavor\u003e\"This will come in handy once the Svanir threat increases.\"\u003cbr\u003e—Tactician Sebastian\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 73,
+  "rarity": "Fine",
+  "vendor_value": 61,
+  "default_skin": 4595,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29561,
+  "chat_link": "[\u0026AgF5cwAA]",
+  "icon": "https://render.guildwars2.com/file/40D42193932BDD2F953B5A1D26C6650C7E2DBE99/64925.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 545,
+    "max_power": 615,
+    "defense": 41,
+    "infusion_slots": [],
+    "attribute_adjustment": 225.984,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 79
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 56
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        }
+      ]
+    }
+  }
+}

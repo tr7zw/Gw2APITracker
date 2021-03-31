@@ -1,0 +1,28 @@
+{
+  "id": 4200,
+  "name": "[FTT 205] Intermediate Dynamics—Boon Wave Level 2",
+  "description": "",
+  "requirement": "Built / Boon Wave Level 1 Turrets",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 10,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    4216
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 87899,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Lionguard Mace",
+  "description": "",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 5000,
+  "default_skin": 4619,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29804,
+  "chat_link": "[\u0026AgFsdAAA]",
+  "icon": "https://render.guildwars2.com/file/F3F5765C6869F51B66F5E9747D80E64A1C06B8AB/779970.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 558,
+    "max_power": 629,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 200.88,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 50
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 70
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 50
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

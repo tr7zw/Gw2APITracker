@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Flame Pistol of Ogre Slaying",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Rare",
+  "vendor_value": 126,
+  "default_skin": 5140,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32911,
+  "chat_link": "[\u0026AgGPgAAA]",
+  "icon": "https://render.guildwars2.com/file/DB1E14D8C1512615310B450AA95CDAE6D86CD80C/67838.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 414,
+    "max_power": 486,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 140.256,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 35
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 49
+        }
+      ]
+    },
+    "suffix_item_id": 24656
+  }
+}

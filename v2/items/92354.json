@@ -1,0 +1,47 @@
+{
+  "name": "Restored Boreal Longbow",
+  "description": "A Restored Boreal weapon, crafted using materials found in Bjora Marches.",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 9008,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92354,
+  "chat_link": "[\u0026AgHCaAEA]",
+  "icon": "https://render.guildwars2.com/file/0DF40558FC22D047A27EE3624C02AD4E6B7EFDAE/2220547.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Choking",
+    "min_power": 920,
+    "max_power": 1080,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 239
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 171
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 171
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Ravaging Steam Brand",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Fine",
+  "vendor_value": 42,
+  "default_skin": 5141,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 32552,
+  "chat_link": "[\u0026AgEofwAA]",
+  "icon": "https://render.guildwars2.com/file/B9BCAA2F79C29066BBA81255E31B223B5A735B3A/68169.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 316,
+    "max_power": 371,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 117.312,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 29
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 41
+        }
+      ]
+    }
+  }
+}

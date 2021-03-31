@@ -1,0 +1,47 @@
+{
+  "name": "Survivor\u0027s Eagle\u0027s Perch",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 243,
+  "default_skin": 5229,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 53771,
+  "chat_link": "[\u0026AgEL0gAA]",
+  "icon": "https://render.guildwars2.com/file/395DF141FC56C9903A7B2EF2B2E1C193AF469923/534289.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 647,
+    "max_power": 730,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 429.12,
+    "infix_upgrade": {
+      "id": 1013,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 107
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 150
+        }
+      ]
+    }
+  }
+}

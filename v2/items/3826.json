@@ -1,0 +1,41 @@
+{
+  "name": "Devout Mantle",
+  "type": "Armor",
+  "level": 8,
+  "rarity": "Masterwork",
+  "vendor_value": 29,
+  "default_skin": 876,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 3826,
+  "chat_link": "[\u0026AgHyDgAA]",
+  "icon": "https://render.guildwars2.com/file/166578339A266E05646411729003525FC815C7DE/61249.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 9,
+    "infusion_slots": [],
+    "attribute_adjustment": 8.4405,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 3
+        }
+      ]
+    }
+  }
+}

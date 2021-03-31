@@ -1,0 +1,44 @@
+{
+  "name": "Vigorous Sheepskin Leggings",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 750,
+  "default_skin": 433,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Norn"
+  ],
+  "id": 3764,
+  "chat_link": "[\u0026AgG0DgAA]",
+  "icon": "https://render.guildwars2.com/file/80F5515F6298F5A3FF63A452531C105202BEE543/779825.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Light",
+    "defense": 63,
+    "infusion_slots": [],
+    "attribute_adjustment": 73.926,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 26
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 18
+        }
+      ]
+    }
+  }
+}

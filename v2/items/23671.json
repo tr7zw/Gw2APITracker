@@ -1,0 +1,47 @@
+{
+  "name": "Pact Medal Of Valor",
+  "description": "\u003cc\u003d@flavor\u003e\"The Pact recognizes your valor in combat.\"\u003cbr\u003e—Tactician Coehl\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Fine",
+  "vendor_value": 83,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23671,
+  "chat_link": "[\u0026AgF3XAAA]",
+  "icon": "https://render.guildwars2.com/file/A1B34EE0F99DF12B533EC52740DA0CBE55D9F39B/66436.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 161.64,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 40
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 40
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 57
+        }
+      ]
+    }
+  }
+}

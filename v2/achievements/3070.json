@@ -1,0 +1,43 @@
+{
+  "id": 3070,
+  "name": "Lost Souls",
+  "description": "",
+  "requirement": "Find and defeat the four ghostly champions wandering Bloodstone Fen.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Savant Ehrin"
+    },
+    {
+      "type": "Text",
+      "text": "Nyle the Compassionate"
+    },
+    {
+      "type": "Text",
+      "text": "Ritualist Josa"
+    },
+    {
+      "type": "Text",
+      "text": "Thief Lloyd"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    }
+  ]
+}

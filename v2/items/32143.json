@@ -1,0 +1,37 @@
+{
+  "name": "Warhorn",
+  "description": "",
+  "type": "Weapon",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 7,
+  "default_skin": 3907,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32143,
+  "chat_link": "[\u0026AgGPfQAA]",
+  "icon": "https://render.guildwars2.com/file/5A0593B5164DE87591029323F7D90775D716001D/65530.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 127,
+    "max_power": 140,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 13.44,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    }
+  }
+}

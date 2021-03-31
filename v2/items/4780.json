@@ -1,0 +1,47 @@
+{
+  "name": "Heavy Pirate Leggings",
+  "description": "\u003cc\u003d@flavor\u003e\"These are a bit snug, but they don\u0027t look too bad.\"\u003cbr\u003e—Fisherman Carter\u003c/c\u003e",
+  "type": "Armor",
+  "level": 49,
+  "rarity": "Masterwork",
+  "vendor_value": 124,
+  "default_skin": 865,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4780,
+  "chat_link": "[\u0026AgGsEgAA]",
+  "icon": "https://render.guildwars2.com/file/B7716C05AC01EF2F74BABF06EB44E83EAF1D90B8/61560.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Heavy",
+    "defense": 104,
+    "infusion_slots": [],
+    "attribute_adjustment": 105.213,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 26
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 37
+        }
+      ]
+    },
+    "suffix_item_id": 24730
+  }
+}

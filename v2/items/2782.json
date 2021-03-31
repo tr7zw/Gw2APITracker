@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Cabalist Shoulders of the Dolyak",
+  "description": "",
+  "type": "Armor",
+  "level": 45,
+  "rarity": "Masterwork",
+  "vendor_value": 91,
+  "default_skin": 79,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 2782,
+  "chat_link": "[\u0026AgHeCgAA]",
+  "icon": "https://render.guildwars2.com/file/647347660A570B201E410B97F8970243EEC91628/414916.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 28,
+    "infusion_slots": [],
+    "attribute_adjustment": 46.7415,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 12
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 16
+        }
+      ]
+    },
+    "suffix_item_id": 24697
+  }
+}

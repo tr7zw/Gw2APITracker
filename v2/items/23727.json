@@ -1,0 +1,39 @@
+{
+  "name": "Rare Ascalonian Coin",
+  "description": "\u003cc\u003d@flavor\u003eThe emblem for King Adelbern is barely recognizable, and the writing has been completely worn off.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 7,
+  "rarity": "Fine",
+  "vendor_value": 15,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23727,
+  "chat_link": "[\u0026AgGvXAAA]",
+  "icon": "https://render.guildwars2.com/file/AB0317DF5B0E1BA47436A5420248660765154C08/62864.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 11.04,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

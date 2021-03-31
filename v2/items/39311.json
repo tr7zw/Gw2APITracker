@@ -1,0 +1,61 @@
+{
+  "name": "Feather of the Owl",
+  "description": "\u003cc\u003d@flavor\u003eThis feather is said to have fallen from the spirit of Owl before being destroyed by Jormag.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 660,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 39311,
+  "chat_link": "[\u0026AgGPmQAA]",
+  "icon": "https://render.guildwars2.com/file/A25E1B0DC6F723F7BD3AC5ED401FB64CBAFB9671/534267.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Enrichment"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "infix_upgrade": {
+      "id": 592,
+      "buff": {
+        "skill_id": 15745,
+        "description": "+32 Healing\n+18 Condition Damage\n+18 Toughness"
+      },
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 90
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 108
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 32
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 143
+        }
+      ]
+    }
+  }
+}

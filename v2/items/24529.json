@@ -1,0 +1,67 @@
+{
+  "name": "Talisman of Potency",
+  "description": "Double-click to apply to an item with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 35,
+  "rarity": "Fine",
+  "vendor_value": 34,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24529,
+  "chat_link": "[\u0026AgHRXwAA]",
+  "icon": "https://render.guildwars2.com/file/E47C2ABFAB4A69FDED3D45525B009BA868C8DF63/220456.png",
+  "details": {
+    "type": "Gem",
+    "flags": [
+      "ShortBow",
+      "HeavyArmor",
+      "LightArmor",
+      "Dagger",
+      "MediumArmor",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Trinket",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 363,
+      "buff": {
+        "skill_id": 161,
+        "description": "+7 Power\n+5 Condition Damage"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 7
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 5
+        }
+      ]
+    },
+    "suffix": "of Potency"
+  }
+}

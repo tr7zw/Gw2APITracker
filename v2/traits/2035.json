@@ -1,0 +1,93 @@
+{
+  "id": 2035,
+  "tier": 3,
+  "order": 1,
+  "name": "Master of Fragmentation",
+  "description": "Your \u003cc\u003d@abilitytype\u003eShatter\u003c/c\u003e skills are improved.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/52619C5D4F9A61C8F37A0705AE36602F19E164C2/103732.png",
+      "duration": 0,
+      "status": "Mind Wrack",
+      "description": "25% Increased Critical-Hit Chance",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/B8E57C1F08727AF8C39066160B93D175B6A3B9BA/103731.png",
+      "duration": 0,
+      "status": "Cry of Frustration",
+      "description": "Cripples foes on hit.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/0BD64508BF40EFFF3299DFA3D1A63BF2F941A4C9/103769.png",
+      "duration": 0,
+      "status": "Diversion",
+      "description": "Strikes up to five targets within range.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/D0969802A76808ACD65A56A6D54F2A40E355F7C3/103284.png",
+      "duration": 0,
+      "status": "Distortion",
+      "description": "Reflects Projectiles",
+      "apply_count": 1
+    }
+  ],
+  "traited_facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/14090D7A6472AB06125662EB12E6EC51EDE2EEBB/2175059.png",
+      "duration": 0,
+      "status": "Split Second",
+      "description": "25% Increased Critical-Hit Chance",
+      "apply_count": 1,
+      "requires_trait": 2030,
+      "overrides": 0
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/F59775A05108441C09AC03C30CAD98CC049CCC28/2175058.png",
+      "duration": 0,
+      "status": "Rewinder",
+      "description": "Cripples foes on hit.",
+      "apply_count": 1,
+      "requires_trait": 2030,
+      "overrides": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/3A0CF805A4359A10766D1DD04FF0E7D20A05BD17/2175060.png",
+      "duration": 0,
+      "status": "Time Sink",
+      "description": "Strikes up to five targets within range.",
+      "apply_count": 1,
+      "requires_trait": 2030,
+      "overrides": 2
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/9E7CE10D0E447973F2D9175CF16A103BD076D04B/1012882.png",
+      "duration": 0,
+      "status": "Continuum Shift",
+      "description": "Base duration increased by 1 second.",
+      "apply_count": 1,
+      "requires_trait": 2030
+    }
+  ],
+  "specialization": 24,
+  "icon": "https://render.guildwars2.com/file/E625ADB94CF699763B23A7A82E255B55A44C1B16/1012517.png"
+}

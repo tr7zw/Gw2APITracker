@@ -1,0 +1,39 @@
+{
+  "name": "Antique Golem Head",
+  "description": "\u003cc\u003d@flavor\u003e\"This ancient golem head clearly substantiates the progress of asuran engineering.\"\u003cbr\u003e—Shoon\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 6,
+  "rarity": "Fine",
+  "vendor_value": 14,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23858,
+  "chat_link": "[\u0026AgEyXQAA]",
+  "icon": "https://render.guildwars2.com/file/2EAE6B226FCDB8ECAAD148E7A4FA49FB0973BC51/66822.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 10.32,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

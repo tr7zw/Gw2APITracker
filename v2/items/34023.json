@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Aureate Targe of Ogre Slaying",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Rare",
+  "vendor_value": 126,
+  "default_skin": 5023,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34023,
+  "chat_link": "[\u0026AgHnhAAA]",
+  "icon": "https://render.guildwars2.com/file/60482DAA08F6EEECEF909C9B1506BE432CB50E2B/67067.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 380,
+    "max_power": 429,
+    "defense": 26,
+    "infusion_slots": [],
+    "attribute_adjustment": 140.256,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 49
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 35
+        }
+      ]
+    },
+    "suffix_item_id": 24656
+  }
+}

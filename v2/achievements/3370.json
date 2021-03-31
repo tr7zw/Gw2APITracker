@@ -1,0 +1,29 @@
+{
+  "id": 3370,
+  "name": "Ascended Spirit",
+  "description": "Will you ascend?",
+  "requirement": "Earn glory in Spirit Watch by completing these achievements.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 265
+    },
+    {
+      "type": "Coins",
+      "count": 50000
+    }
+  ]
+}

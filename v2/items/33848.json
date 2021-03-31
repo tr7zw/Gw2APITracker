@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Krytan Focus of the Hydromancer",
+  "type": "Weapon",
+  "level": 56,
+  "rarity": "Masterwork",
+  "vendor_value": 98,
+  "default_skin": 4994,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33848,
+  "chat_link": "[\u0026AgE4hAAA]",
+  "icon": "https://render.guildwars2.com/file/BBFD79A8C5A7AF067FF2B9BF385E713291465869/61665.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 445,
+    "max_power": 472,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 168.096,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 59
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 42
+        }
+      ]
+    },
+    "suffix_item_id": 24595
+  }
+}

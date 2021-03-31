@@ -1,0 +1,46 @@
+{
+  "name": "Knight\u0027s Gladiator Helm",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 160,
+  "default_skin": 259,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 10728,
+  "chat_link": "[\u0026AgHoKQAA]",
+  "icon": "https://render.guildwars2.com/file/3B50937F62A523EEA40BD876F51BEEFA4811E46A/61529.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 107,
+    "infusion_slots": [],
+    "attribute_adjustment": 150.912,
+    "infix_upgrade": {
+      "id": 158,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 38
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 38
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 53
+        }
+      ]
+    }
+  }
+}

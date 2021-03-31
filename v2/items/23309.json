@@ -1,0 +1,43 @@
+{
+  "name": "Dusty Priory Scroll",
+  "description": "\u003cc\u003d@flavor\u003e\"History must be preserved.\"\u003cbr\u003e—Bink\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 25,
+  "rarity": "Fine",
+  "vendor_value": 34,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23309,
+  "chat_link": "[\u0026AgENWwAA]",
+  "icon": "https://render.guildwars2.com/file/21FF236A656E0BAA217C6E2E5AEBD2D1A6E3B7BC/66426.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 33,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 8
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

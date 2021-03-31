@@ -1,0 +1,39 @@
+{
+  "name": "Wolf Totem",
+  "description": "\u003cc\u003d@flavor\u003e\"Wolf watches over you.\"\u003cbr\u003e—Vigmarr\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 4,
+  "rarity": "Fine",
+  "vendor_value": 12,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23332,
+  "chat_link": "[\u0026AgEkWwAA]",
+  "icon": "https://render.guildwars2.com/file/082D31F77D3E19A7657A021A7CF3D4070F3DB8AD/66815.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 9.36,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 3
+        }
+      ]
+    }
+  }
+}

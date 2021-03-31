@@ -1,0 +1,711 @@
+{
+  "id": 102,
+  "name": "Maguuma Explorer",
+  "description": "You\u0027ve explored the lush region that cradles the sylvari and provides refuge to the asura.",
+  "requirement": "Explore all areas in Maguuma.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Caledon Forest: Mabon Market"
+    },
+    {
+      "type": "Text",
+      "text": "Caledon Forest: Quetzal Bay"
+    },
+    {
+      "type": "Text",
+      "text": "Caledon Forest: Ventry Bay"
+    },
+    {
+      "type": "Text",
+      "text": "Caledon Forest: Sandycove Beach"
+    },
+    {
+      "type": "Text",
+      "text": "Caledon Forest: Treemarch Estuary"
+    },
+    {
+      "type": "Text",
+      "text": "Caledon Forest: Titan\u0027s Staircase"
+    },
+    {
+      "type": "Text",
+      "text": "Caledon Forest: Glencarn Sperrins"
+    },
+    {
+      "type": "Text",
+      "text": "Caledon Forest: Sleive\u0027s Inlet"
+    },
+    {
+      "type": "Text",
+      "text": "Caledon Forest: The Verdence"
+    },
+    {
+      "type": "Text",
+      "text": "Caledon Forest: Village of Astorea"
+    },
+    {
+      "type": "Text",
+      "text": "Caledon Forest: Willowalk Groves"
+    },
+    {
+      "type": "Text",
+      "text": "Caledon Forest: Grenbrack Delves"
+    },
+    {
+      "type": "Text",
+      "text": "Caledon Forest: Dreamdark Enclave"
+    },
+    {
+      "type": "Text",
+      "text": "Caledon Forest: Trader\u0027s Green"
+    },
+    {
+      "type": "Text",
+      "text": "Caledon Forest: The Rootangles"
+    },
+    {
+      "type": "Text",
+      "text": "Caledon Forest: Morgan\u0027s Spiral"
+    },
+    {
+      "type": "Text",
+      "text": "Caledon Forest: Wychmire Swamp"
+    },
+    {
+      "type": "Text",
+      "text": "Caledon Forest: Ruins of the Unseen"
+    },
+    {
+      "type": "Text",
+      "text": "Caledon Forest: Dominion of Winds"
+    },
+    {
+      "type": "Text",
+      "text": "Brisban Wildlands: Aurora\u0027s Remains"
+    },
+    {
+      "type": "Text",
+      "text": "Caledon Forest: Ogham Wilds"
+    },
+    {
+      "type": "Text",
+      "text": "Caledon Forest: The Rowanwoods"
+    },
+    {
+      "type": "Text",
+      "text": "Mount Maelstrom: The Mire Sea"
+    },
+    {
+      "type": "Text",
+      "text": "Mount Maelstrom: Benthic Kelp Beds"
+    },
+    {
+      "type": "Text",
+      "text": "Mount Maelstrom: Sunken Droknah"
+    },
+    {
+      "type": "Text",
+      "text": "Mount Maelstrom: Irwin Isle"
+    },
+    {
+      "type": "Text",
+      "text": "Mount Maelstrom: The Stychs"
+    },
+    {
+      "type": "Text",
+      "text": "Mount Maelstrom: Dysphoric Rim"
+    },
+    {
+      "type": "Text",
+      "text": "Mount Maelstrom: Murkvale"
+    },
+    {
+      "type": "Text",
+      "text": "Mount Maelstrom: Cubular Fells"
+    },
+    {
+      "type": "Text",
+      "text": "Mount Maelstrom: Judgment Rock"
+    },
+    {
+      "type": "Text",
+      "text": "Mount Maelstrom: Gauntlet Gulch"
+    },
+    {
+      "type": "Text",
+      "text": "Mount Maelstrom: Govoran Terraces"
+    },
+    {
+      "type": "Text",
+      "text": "Mount Maelstrom: Broken Arrow River"
+    },
+    {
+      "type": "Text",
+      "text": "Mount Maelstrom: Quandry Scratch"
+    },
+    {
+      "type": "Text",
+      "text": "Mount Maelstrom: Bard\u0027s Valley"
+    },
+    {
+      "type": "Text",
+      "text": "Mount Maelstrom: Criterion Canyon"
+    },
+    {
+      "type": "Text",
+      "text": "Mount Maelstrom: Whitland Flats"
+    },
+    {
+      "type": "Text",
+      "text": "Mount Maelstrom: Unguent Den"
+    },
+    {
+      "type": "Text",
+      "text": "Mount Maelstrom: Dierdre\u0027s Steps"
+    },
+    {
+      "type": "Text",
+      "text": "Mount Maelstrom: Magmatic Conjury"
+    },
+    {
+      "type": "Text",
+      "text": "Mount Maelstrom: Maelstrom\u0027s Bile"
+    },
+    {
+      "type": "Text",
+      "text": "Mount Maelstrom: Sootberme"
+    },
+    {
+      "type": "Text",
+      "text": "Mount Maelstrom: Ashen Waste"
+    },
+    {
+      "type": "Text",
+      "text": "Mount Maelstrom: Avernan Volatile"
+    },
+    {
+      "type": "Text",
+      "text": "Mount Maelstrom: Mon Maelstrom"
+    },
+    {
+      "type": "Text",
+      "text": ""
+    },
+    {
+      "type": "Text",
+      "text": "Mount Maelstrom: Infinity Coil"
+    },
+    {
+      "type": "Text",
+      "text": "Rata Sum: Council Level"
+    },
+    {
+      "type": "Text",
+      "text": ""
+    },
+    {
+      "type": "Text",
+      "text": "Rata Sum: Riven Valley"
+    },
+    {
+      "type": "Text",
+      "text": "Rata Sum: Applied Development Lab (Home)"
+    },
+    {
+      "type": "Text",
+      "text": "Rata Sum: Snaff Memorial Lab"
+    },
+    {
+      "type": "Text",
+      "text": "Rata Sum: Advanced Metamystics Lab"
+    },
+    {
+      "type": "Text",
+      "text": "Rata Sum: Idea Incubation lab"
+    },
+    {
+      "type": "Text",
+      "text": "Rata Sum: Frick Hall"
+    },
+    {
+      "type": "Text",
+      "text": "Rata Sum: Apprentice Carrels"
+    },
+    {
+      "type": "Text",
+      "text": "Rata Sum: Lower Research Stacks"
+    },
+    {
+      "type": "Text",
+      "text": "Rata Sum: Auxiliary Study Rooms"
+    },
+    {
+      "type": "Text",
+      "text": "Rata Sum: Skibo Hall"
+    },
+    {
+      "type": "Text",
+      "text": "Rata Sum: Tark Hall"
+    },
+    {
+      "type": "Text",
+      "text": "Rata Sum: Interdisciplinary Accessium"
+    },
+    {
+      "type": "Text",
+      "text": "Rata Sum: Dynamics Union"
+    },
+    {
+      "type": "Text",
+      "text": "Rata Sum: Statics Union"
+    },
+    {
+      "type": "Text",
+      "text": "Rata Sum: Synergetics Union"
+    },
+    {
+      "type": "Text",
+      "text": "Rata Sum: Polymock Arenas"
+    },
+    {
+      "type": "Text",
+      "text": "Rata Sum: Rata Sum Port Authority"
+    },
+    {
+      "type": "Text",
+      "text": "Rata Sum: The Golem Mines"
+    },
+    {
+      "type": "Text",
+      "text": "Rata Sum: College of Dynamics"
+    },
+    {
+      "type": "Text",
+      "text": "Rata Sum: Creator\u0027s Commons"
+    },
+    {
+      "type": "Text",
+      "text": "Rata Sum: College of Statics"
+    },
+    {
+      "type": "Text",
+      "text": "Rata Sum: College of Synergetics"
+    },
+    {
+      "type": "Text",
+      "text": "Rata Sum: Arkentia Valley"
+    },
+    {
+      "type": "Text",
+      "text": "Rata Sum: Magus Valley"
+    },
+    {
+      "type": "Text",
+      "text": "Sparkfly Fen: Toade\u0027s Head"
+    },
+    {
+      "type": "Text",
+      "text": "Sparkfly Fen: Flamefrog Vale"
+    },
+    {
+      "type": "Text",
+      "text": "Sparkfly Fen: Karinn\u0027s Passage"
+    },
+    {
+      "type": "Text",
+      "text": "Sparkfly Fen: Shimmerstone Cave"
+    },
+    {
+      "type": "Text",
+      "text": "Sparkfly Fen: Astrozintli Forelands"
+    },
+    {
+      "type": "Text",
+      "text": "Sparkfly Fen: Diresight Caverns"
+    },
+    {
+      "type": "Text",
+      "text": "Sparkfly Fen: Fort Cadence"
+    },
+    {
+      "type": "Text",
+      "text": "Sparkfly Fen: Ocean\u0027s Gullet"
+    },
+    {
+      "type": "Text",
+      "text": "Sparkfly Fen: Saltflood Mire"
+    },
+    {
+      "type": "Text",
+      "text": "Sparkfly Fen: Uzanarin Depths"
+    },
+    {
+      "type": "Text",
+      "text": "Sparkfly Fen: Stone of Hazaan"
+    },
+    {
+      "type": "Text",
+      "text": "Sparkfly Fen: Floodwater Causeway"
+    },
+    {
+      "type": "Text",
+      "text": "Sparkfly Fen: Orvar\u0027s Glen"
+    },
+    {
+      "type": "Text",
+      "text": "Sparkfly Fen: Chokevine Gorge"
+    },
+    {
+      "type": "Text",
+      "text": "Sparkfly Fen: The Shattered Keep"
+    },
+    {
+      "type": "Text",
+      "text": "Sparkfly Fen: Darkweather Rise"
+    },
+    {
+      "type": "Text",
+      "text": "Sparkfly Fen: Aleem\u0027s Penance"
+    },
+    {
+      "type": "Text",
+      "text": "Sparkfly Fen: Shattercleft Hills"
+    },
+    {
+      "type": "Text",
+      "text": "Sparkfly Fen: Splintered Coast"
+    },
+    {
+      "type": "Text",
+      "text": "Sparkfly Fen: Thundertroll Swamp"
+    },
+    {
+      "type": "Text",
+      "text": "Sparkfly Fen: Leeshore Gauntlet"
+    },
+    {
+      "type": "Text",
+      "text": "Sparkfly Fen: Orvanic Shore"
+    },
+    {
+      "type": "Text",
+      "text": "Sparkfly Fen: Verarium Delves"
+    },
+    {
+      "type": "Text",
+      "text": "Brisban Wildlands: Koga Ruins"
+    },
+    {
+      "type": "Text",
+      "text": "Brisban Wildlands: The Wendon Steps"
+    },
+    {
+      "type": "Text",
+      "text": "Brisban Wildlands: Highwayman\u0027s Vale"
+    },
+    {
+      "type": "Text",
+      "text": "Brisban Wildlands: Gnashar\u0027s Hills"
+    },
+    {
+      "type": "Text",
+      "text": "Brisban Wildlands: The Gallowfields"
+    },
+    {
+      "type": "Text",
+      "text": "Brisban Wildlands: Lionshead Outcrops"
+    },
+    {
+      "type": "Text",
+      "text": "Brisban Wildlands: Vandal\u0027s Claim"
+    },
+    {
+      "type": "Text",
+      "text": "Brisban Wildlands: Karston Chambers"
+    },
+    {
+      "type": "Text",
+      "text": "Brisban Wildlands: Brilitine Swath"
+    },
+    {
+      "type": "Text",
+      "text": "Brisban Wildlands: Gotala Cascade"
+    },
+    {
+      "type": "Text",
+      "text": "Brisban Wildlands: Hidden Lake"
+    },
+    {
+      "type": "Text",
+      "text": "Brisban Wildlands: Venlin Vale"
+    },
+    {
+      "type": "Text",
+      "text": "Brisban Wildlands: Zinder Slope"
+    },
+    {
+      "type": "Text",
+      "text": "Brisban Wildlands: Skrittsburgh Center"
+    },
+    {
+      "type": "Text",
+      "text": "Brisban Wildlands: Skrittsburgh East End"
+    },
+    {
+      "type": "Text",
+      "text": "Brisban Wildlands: Skrittsburgh Tunnels"
+    },
+    {
+      "type": "Text",
+      "text": "Brisban Wildlands: Skrittsburgh Hillstead"
+    },
+    {
+      "type": "Text",
+      "text": ""
+    },
+    {
+      "type": "Text",
+      "text": "Brisban Wildlands: The Shattered Henge"
+    },
+    {
+      "type": "Text",
+      "text": "Brisban Wildlands: Duskstruck Moors"
+    },
+    {
+      "type": "Text",
+      "text": "Brisban Wildlands: Toxal Bog"
+    },
+    {
+      "type": "Text",
+      "text": "Brisban Wildlands: Nemeton Grove"
+    },
+    {
+      "type": "Text",
+      "text": "The Grove: Caledon Path"
+    },
+    {
+      "type": "Text",
+      "text": "The Grove: Constellation Shelter"
+    },
+    {
+      "type": "Text",
+      "text": "The Grove: Ronan\u0027s Bower"
+    },
+    {
+      "type": "Text",
+      "text": "The Grove: Garden of Noon"
+    },
+    {
+      "type": "Text",
+      "text": "The Grove: Dreamer\u0027s Terrace (Home)"
+    },
+    {
+      "type": "Text",
+      "text": "The Grove: Nightshade Garden"
+    },
+    {
+      "type": "Text",
+      "text": "The Grove: Garden of Dawn"
+    },
+    {
+      "type": "Text",
+      "text": "The Grove: Garden of Dusk"
+    },
+    {
+      "type": "Text",
+      "text": "The Grove: Garden of Night"
+    },
+    {
+      "type": "Text",
+      "text": "The Grove: Necrolith Bay"
+    },
+    {
+      "type": "Text",
+      "text": "The Grove: Seawatcher\u0027s Ledge"
+    },
+    {
+      "type": "Text",
+      "text": "The Grove: Privet Gardens"
+    },
+    {
+      "type": "Text",
+      "text": "The Grove: Reckoner\u0027s Terrace"
+    },
+    {
+      "type": "Text",
+      "text": "The Grove: Maker\u0027s Terrace"
+    },
+    {
+      "type": "Text",
+      "text": "The Grove: Tender\u0027s Terrace"
+    },
+    {
+      "type": "Text",
+      "text": "The Grove: Scholar\u0027s Terrace"
+    },
+    {
+      "type": "Text",
+      "text": "The Grove: Order\u0027s Terrace"
+    },
+    {
+      "type": "Text",
+      "text": "The Grove: The Omphalos Chamber"
+    },
+    {
+      "type": "Text",
+      "text": "The Grove: Great Helix"
+    },
+    {
+      "type": "Text",
+      "text": "The Grove: The Sea Rider\u0027s Gate"
+    },
+    {
+      "type": "Text",
+      "text": "The Grove: Upper Commons"
+    },
+    {
+      "type": "Text",
+      "text": "The Grove: The Quester\u0027s Terrace"
+    },
+    {
+      "type": "Text",
+      "text": "The Grove: Marshaling Field"
+    },
+    {
+      "type": "Text",
+      "text": "The Grove: The Song Bower"
+    },
+    {
+      "type": "Text",
+      "text": "The Grove: Envoy\u0027s Terrace"
+    },
+    {
+      "type": "Text",
+      "text": "Metrica Province: Luminates Plant"
+    },
+    {
+      "type": "Text",
+      "text": "Metrica Province: Cuatl Morass"
+    },
+    {
+      "type": "Text",
+      "text": "Metrica Province: Michoan Marsh"
+    },
+    {
+      "type": "Text",
+      "text": "Metrica Province: Voloxian Passage"
+    },
+    {
+      "type": "Text",
+      "text": "Metrica Province: Artergon Woods"
+    },
+    {
+      "type": "Text",
+      "text": "Metrica Province: Desider Atum"
+    },
+    {
+      "type": "Text",
+      "text": "Metrica Province: Akk Wilds"
+    },
+    {
+      "type": "Text",
+      "text": "Metrica Province: Wildflame Caverns"
+    },
+    {
+      "type": "Text",
+      "text": "Metrica Province: Obscura Incline"
+    },
+    {
+      "type": "Text",
+      "text": "Metrica Province: Calx\u0027s Hideout"
+    },
+    {
+      "type": "Text",
+      "text": "Metrica Province: Thaumanova Reactor"
+    },
+    {
+      "type": "Text",
+      "text": "Metrica Province: Soren Draa"
+    },
+    {
+      "type": "Text",
+      "text": "Metrica Province: Hexane Regrade"
+    },
+    {
+      "type": "Text",
+      "text": "Metrica Province: Greyfern Expanses"
+    },
+    {
+      "type": "Text",
+      "text": "Metrica Province: Muridian Uplands"
+    },
+    {
+      "type": "Text",
+      "text": "Metrica Province: Inquest Outer Complex"
+    },
+    {
+      "type": "Text",
+      "text": "Metrica Province: The Anthill"
+    },
+    {
+      "type": "Text",
+      "text": "Metrica Province: The Serpentwind"
+    },
+    {
+      "type": "Text",
+      "text": "Metrica Province: Jeztar Falls"
+    },
+    {
+      "type": "Text",
+      "text": "Metrica Province: Loch Jezt"
+    },
+    {
+      "type": "Text",
+      "text": "Metrica Province: The Hinterlabs"
+    },
+    {
+      "type": "Text",
+      "text": "Metrica Province: The Funhouse"
+    },
+    {
+      "type": "Text",
+      "text": "Metrica Province: Golemagical Institute"
+    },
+    {
+      "type": "Text",
+      "text": "Metrica Province: Fisher\u0027s Beach Bend"
+    },
+    {
+      "type": "Text",
+      "text": "Metrica Province: Sunshade Caves"
+    },
+    {
+      "type": "Text",
+      "text": "Brisban Wildlands: Proxemics Lab"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 50,
+      "points": 5
+    },
+    {
+      "count": 100,
+      "points": 5
+    },
+    {
+      "count": 150,
+      "points": 5
+    },
+    {
+      "count": 167,
+      "points": 10
+    }
+  ]
+}

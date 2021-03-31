@@ -1,0 +1,54 @@
+{
+  "name": "Minor Sigil of Fire",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003ePain\u003cbr\u003eDouble-click to apply to a weapon.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 16,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24547,
+  "chat_link": "[\u0026AgHjXwAA]",
+  "icon": "https://render.guildwars2.com/file/C37E722CFA07065001DC29BA390E0FCB675D6035/220973.png",
+  "details": {
+    "type": "Sigil",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 191,
+      "buff": {
+        "skill_id": 9280,
+        "description": "Trigger a flame blast with a 240 radius upon critically hitting a foe. \u003cbr\u003e\u003cc\u003d@reminder\u003e(Cooldown: 9 Seconds)\u003c/c\u003e"
+      },
+      "attributes": []
+    },
+    "suffix": "of Fire"
+  }
+}

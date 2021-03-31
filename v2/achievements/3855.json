@@ -1,0 +1,28 @@
+{
+  "id": 3855,
+  "name": "Legendary Sandstorm Player",
+  "description": "Collecting these cards is a popular diversion for citizens of Amnoon. Sandstorm cards are said to also reveal one\u0027s fortune, a prospect of dubious appeal in these turbulent times.",
+  "requirement": " Sandstorm Flush Hands Played",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 100,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 84440,
+      "count": 1
+    }
+  ]
+}

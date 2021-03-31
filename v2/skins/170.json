@@ -1,0 +1,30 @@
+{
+  "name": "Embroidered Mask",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 170,
+  "icon": "https://render.guildwars2.com/file/9C4E6FE93C032374AD0E90085B23193F9F4860E0/218928.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        null,
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

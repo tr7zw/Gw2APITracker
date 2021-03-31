@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Worn Scale Pauldrons of the Pack",
+  "description": "",
+  "type": "Armor",
+  "level": 39,
+  "rarity": "Masterwork",
+  "vendor_value": 82,
+  "default_skin": 66,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 2274,
+  "chat_link": "[\u0026AgHiCAAA]",
+  "icon": "https://render.guildwars2.com/file/5D13164D1B78F74DB252DFE3E80F9EA3FEA9F569/61078.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "defense": 40,
+    "infusion_slots": [],
+    "attribute_adjustment": 38.862,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 10
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 14
+        }
+      ]
+    },
+    "suffix_item_id": 24700
+  }
+}

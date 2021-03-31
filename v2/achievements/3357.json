@@ -1,0 +1,29 @@
+{
+  "id": 3357,
+  "name": "Dusk\u0027s Champion",
+  "description": "Do you have what it takes to battle alongside a champion?",
+  "requirement": "Earn glory in the Battle of Champion\u0027s Dusk by completing these achievements.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 260
+    },
+    {
+      "type": "Coins",
+      "count": 50000
+    }
+  ]
+}

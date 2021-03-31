@@ -1,0 +1,43 @@
+{
+  "name": "Firefly in a Jar",
+  "description": "\u003cc\u003d@flavor\u003eThe insect inside this vessel glows brightly.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 54,
+  "rarity": "Masterwork",
+  "vendor_value": 118,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23786,
+  "chat_link": "[\u0026AgHqXAAA]",
+  "icon": "https://render.guildwars2.com/file/2C49060C264F6843174B279C28A442F15A41C5D4/455965.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 99.9175,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 35
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 25
+        }
+      ]
+    }
+  }
+}

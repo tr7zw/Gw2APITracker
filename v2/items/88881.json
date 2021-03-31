@@ -1,0 +1,55 @@
+{
+  "name": "Qadim\u0027s Healer Pistol",
+  "description": "\u003cc\u003d@flavor\u003eHewn from the jaws of some strange beast, this pistol yearns for new victims of its malice.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 10000,
+  "default_skin": 8409,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "Unique",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 88881,
+  "chat_link": "[\u0026AgExWwEA]",
+  "icon": "https://render.guildwars2.com/file/1AC86C1C7F60F501D140BD689719D89E975C7364/2038671.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 920,
+    "max_power": 1080,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "stat_choices": [
+      605,
+      559,
+      155,
+      628,
+      156,
+      1226,
+      1230,
+      1539,
+      1377,
+      1378,
+      1484
+    ]
+  }
+}

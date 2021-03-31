@@ -1,0 +1,42 @@
+{
+  "name": "Watcher\u0027s Helmet",
+  "description": "\u003cc\u003d@flavor\u003e\"Trade can never stop.\"\u003cbr\u003e—Lionguard\u003c/c\u003e",
+  "type": "Armor",
+  "level": 16,
+  "rarity": "Fine",
+  "vendor_value": 25,
+  "default_skin": 875,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4680,
+  "chat_link": "[\u0026AgFIEgAA]",
+  "icon": "https://render.guildwars2.com/file/B114B716E5FA4CB445CEC13B333C725F9C1D01B1/61247.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 11,
+    "infusion_slots": [],
+    "attribute_adjustment": 16.768,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

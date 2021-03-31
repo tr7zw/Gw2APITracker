@@ -1,0 +1,46 @@
+{
+  "name": "Berserker\u0027s Pistol",
+  "description": "",
+  "type": "Weapon",
+  "level": 64,
+  "rarity": "Basic",
+  "vendor_value": 27,
+  "default_skin": 3864,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 28948,
+  "chat_link": "[\u0026AgEUcQAA]",
+  "icon": "https://render.guildwars2.com/file/B4BA303072A62C0AB73A0CBAF0632A38D8B4794A/66190.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 402,
+    "max_power": 472,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 148.356,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 52
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 37
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 37
+        }
+      ]
+    }
+  }
+}

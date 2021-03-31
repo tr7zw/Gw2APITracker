@@ -1,0 +1,47 @@
+{
+  "name": "Strong Jeweled Trident",
+  "description": "",
+  "type": "Weapon",
+  "level": 20,
+  "rarity": "Fine",
+  "vendor_value": 36,
+  "default_skin": 4774,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30758,
+  "chat_link": "[\u0026AgEmeAAA]",
+  "icon": "https://render.guildwars2.com/file/60D13E23AA2C99D2D12469D6C3BB53A93473009E/779954.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 206,
+    "max_power": 228,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 84.224,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 29
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 21
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Topaz Silver Band",
+  "description": "",
+  "type": "Trinket",
+  "level": 25,
+  "rarity": "Fine",
+  "vendor_value": 41,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix"
+  ],
+  "restrictions": [],
+  "id": 13370,
+  "chat_link": "[\u0026AgE6NAAA]",
+  "icon": "https://render.guildwars2.com/file/6C7692FAEBC4ECDD088078D70306C14B60A79AC6/340171.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [],
+    "attribute_adjustment": 39.6,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 10
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 14
+        }
+      ]
+    },
+    "suffix_item_id": 24535
+  }
+}

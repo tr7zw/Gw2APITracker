@@ -1,0 +1,43 @@
+{
+  "name": "Smashed Centaur Catapult Gear",
+  "description": "\u003cc\u003d@flavor\u003e\"One less weapon for the centaur war machine.\"\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 36,
+  "rarity": "Masterwork",
+  "vendor_value": 88,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23840,
+  "chat_link": "[\u0026AgEgXQAA]",
+  "icon": "https://render.guildwars2.com/file/FC637AA3031B585F5B025B12670C6CD5A5C1BA51/63130.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 58.1825,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 20
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 15
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Iron Shield of Blood",
+  "description": "",
+  "type": "Weapon",
+  "level": 73,
+  "rarity": "Exotic",
+  "vendor_value": 244,
+  "default_skin": 4012,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26546,
+  "chat_link": "[\u0026AgGyZwAA]",
+  "icon": "https://render.guildwars2.com/file/222F72EDEC31ACB7BC439499F4DD4AA4A94A6C48/65373.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 717,
+    "max_power": 809,
+    "defense": 53,
+    "infusion_slots": [],
+    "attribute_adjustment": 299.12,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 105
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 75
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 75
+        }
+      ]
+    },
+    "suffix_item_id": 24570
+  }
+}

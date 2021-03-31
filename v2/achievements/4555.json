@@ -1,0 +1,39 @@
+{
+  "id": 4555,
+  "name": "Chasing Tales: Savage Shield",
+  "description": "Being the largest dwarf to ever live has its perks.",
+  "requirement": "Defeat 30 enemies while wielding a shield in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Wossaul the Giant."
+    },
+    {
+      "type": "Text",
+      "text": "Defeated 30 enemies while wielding a shield in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89488,
+      "count": 1
+    }
+  ]
+}

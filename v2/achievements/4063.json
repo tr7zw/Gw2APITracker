@@ -1,0 +1,118 @@
+{
+  "id": 4063,
+  "name": "Dedicated Gardener",
+  "description": "\u003cc\u003d@flavor\u003eAll things have a right to grow.\u003c/c\u003e",
+  "requirement": "Collect all plantable seeds for your home garden. Seeds have a chance to drop while gathering from harvesting nodes that produce that resource. Resource synthesizers in Guild Halls and World vs. World don\u0027t create seeds.",
+  "locked_text": "Unlock your home garden to access this collection.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 86736
+    },
+    {
+      "type": "Item",
+      "id": 86753
+    },
+    {
+      "type": "Item",
+      "id": 86886
+    },
+    {
+      "type": "Item",
+      "id": 86805
+    },
+    {
+      "type": "Item",
+      "id": 86763
+    },
+    {
+      "type": "Item",
+      "id": 86801
+    },
+    {
+      "type": "Item",
+      "id": 86755
+    },
+    {
+      "type": "Item",
+      "id": 86769
+    },
+    {
+      "type": "Item",
+      "id": 86839
+    },
+    {
+      "type": "Item",
+      "id": 86849
+    },
+    {
+      "type": "Item",
+      "id": 86797
+    },
+    {
+      "type": "Item",
+      "id": 86823
+    },
+    {
+      "type": "Item",
+      "id": 86864
+    },
+    {
+      "type": "Item",
+      "id": 86741
+    },
+    {
+      "type": "Item",
+      "id": 86788
+    },
+    {
+      "type": "Item",
+      "id": 86765
+    },
+    {
+      "type": "Item",
+      "id": 86764
+    },
+    {
+      "type": "Item",
+      "id": 86877
+    },
+    {
+      "type": "Item",
+      "id": 86792
+    },
+    {
+      "type": "Item",
+      "id": 86752
+    },
+    {
+      "type": "Item",
+      "id": 86786
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 21,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 86847,
+      "count": 1
+    }
+  ]
+}

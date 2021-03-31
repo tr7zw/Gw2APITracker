@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Auxiliary Powered Helm",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 1250,
+  "default_skin": 278,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Asura"
+  ],
+  "id": 3605,
+  "chat_link": "[\u0026AgEVDgAA]",
+  "icon": "https://render.guildwars2.com/file/6B7EFA5FE901B65813555CAB50752B37D9E003BA/61165.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 58,
+    "infusion_slots": [],
+    "attribute_adjustment": 100.44,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 25
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 25
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 35
+        }
+      ]
+    }
+  }
+}

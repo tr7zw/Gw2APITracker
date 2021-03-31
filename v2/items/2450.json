@@ -1,0 +1,44 @@
+{
+  "name": "Carrion Cabalist Hood",
+  "description": "",
+  "type": "Armor",
+  "level": 62,
+  "rarity": "Fine",
+  "vendor_value": 67,
+  "default_skin": 103,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 2450,
+  "chat_link": "[\u0026AgGSCQAA]",
+  "icon": "https://render.guildwars2.com/file/16E5686EC33001A0D77FF5D4320EFBCA39130826/61411.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 39,
+    "infusion_slots": [],
+    "attribute_adjustment": 89.28,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 22
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 22
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 31
+        }
+      ]
+    }
+  }
+}

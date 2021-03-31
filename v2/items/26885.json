@@ -1,0 +1,45 @@
+{
+  "name": "Honed Iron Pistol of Air",
+  "description": "",
+  "type": "Weapon",
+  "level": 45,
+  "rarity": "Masterwork",
+  "vendor_value": 82,
+  "default_skin": 3875,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26885,
+  "chat_link": "[\u0026AgEFaQAA]",
+  "icon": "https://render.guildwars2.com/file/C43656C1551C9A5A1A931EAC2901BD0FBA3BE3E1/62830.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 374,
+    "max_power": 438,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 124.644,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 44
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 31
+        }
+      ]
+    },
+    "suffix_item_id": 24552
+  }
+}

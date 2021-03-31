@@ -1,0 +1,29 @@
+{
+  "id": 3566,
+  "name": "Crystalline Memories",
+  "description": "Journal: Crystalline Memories Completed",
+  "requirement": "Search for a relic from the past.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 83871,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 352
+    }
+  ]
+}

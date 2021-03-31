@@ -1,0 +1,39 @@
+{
+  "id": 4611,
+  "name": "Chasing Tales: Deadeye",
+  "description": "Durio had three rules: no sniveling, no witnesses, and never obey rules.",
+  "requirement": "Inflict blindness on 10 enemies while wielding a pistol in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Durio the Contemptuous."
+    },
+    {
+      "type": "Text",
+      "text": "Inflicted blindness on 10 enemies while wielding a pistol in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89516,
+      "count": 1
+    }
+  ]
+}

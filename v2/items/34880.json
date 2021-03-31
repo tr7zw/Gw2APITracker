@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Verdant Warhorn of Energy",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Rare",
+  "vendor_value": 183,
+  "default_skin": 5137,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34880,
+  "chat_link": "[\u0026AgFAiAAA]",
+  "icon": "https://render.guildwars2.com/file/1794FED209AA00EC58CDB6F552F3721817A6DA9A/434883.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 652,
+    "max_power": 721,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 269.208,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 67
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 67
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 94
+        }
+      ]
+    },
+    "suffix_item_id": 24606
+  }
+}

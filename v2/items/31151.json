@@ -1,0 +1,49 @@
+{
+  "name": "Pact Focus",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 198,
+  "default_skin": 4975,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 31151,
+  "chat_link": "[\u0026AgGveQAA]",
+  "icon": "https://render.guildwars2.com/file/2248BFC0074DA6319AC5EAE2F705AD33C2FA1AB8/456062.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 737,
+    "max_power": 782,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 301.824,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 75
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 75
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 106
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

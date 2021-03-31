@@ -1,0 +1,48 @@
+{
+  "name": "Grawl-String Short Bow",
+  "description": "\u003cc\u003d@flavor\u003e\"Grawl sure are odd creatures, but they know how to make a good bowstring.\"\u003cbr\u003e—Cleverblade\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 29,
+  "rarity": "Fine",
+  "vendor_value": 45,
+  "default_skin": 5113,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29466,
+  "chat_link": "[\u0026AgEacwAA]",
+  "icon": "https://render.guildwars2.com/file/A2662F69D17EECB037A84A62CDF8A0921CDB353F/534287.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 252,
+    "max_power": 279,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 127.872,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 32
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 45
+        }
+      ]
+    }
+  }
+}

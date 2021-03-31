@@ -1,0 +1,38 @@
+{
+  "name": "Mighty Green Wood Focus",
+  "description": "",
+  "type": "Weapon",
+  "level": 5,
+  "rarity": "Fine",
+  "vendor_value": 10,
+  "default_skin": 3880,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 14034,
+  "chat_link": "[\u0026AgHSNgAA]",
+  "icon": "https://render.guildwars2.com/file/EF62B7FE5B45A1181C362E635301E1BAA8FDCC44/65104.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 136,
+    "max_power": 144,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 15.744,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

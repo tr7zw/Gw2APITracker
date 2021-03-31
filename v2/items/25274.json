@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Norn Mace of Energy",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Rare",
+  "vendor_value": 183,
+  "default_skin": 5162,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25274,
+  "chat_link": "[\u0026AgG6YgAA]",
+  "icon": "https://render.guildwars2.com/file/10809A71367FA21EA8FE6338C00BBE05AE4C0ECE/575173.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 717,
+    "max_power": 809,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 269.208,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 94
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 67
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 67
+        }
+      ]
+    },
+    "suffix_item_id": 24606
+  }
+}

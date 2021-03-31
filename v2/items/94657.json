@@ -1,0 +1,54 @@
+{
+  "name": "Diviner\u0027s Refitted Aureate Short Bow",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 198,
+  "default_skin": 9859,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94657,
+  "chat_link": "[\u0026AgHBcQEA]",
+  "icon": "https://render.guildwars2.com/file/A7A444E87F76011E80682BB3D24C9DA1D5EE98E5/2393733.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 745,
+    "max_power": 823,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 559.912,
+    "infix_upgrade": {
+      "id": 1556,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 168
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 92
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 92
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 168
+        }
+      ]
+    }
+  }
+}

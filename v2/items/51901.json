@@ -1,0 +1,51 @@
+{
+  "name": "Apostate\u0027s Warleek",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Exotic",
+  "vendor_value": 220,
+  "default_skin": 5235,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 51901,
+  "chat_link": "[\u0026AgG9ygAA]",
+  "icon": "https://render.guildwars2.com/file/53CB05C635025823DE0531093B9FCBFFBA01C07D/575181.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 699,
+    "max_power": 772,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 254.64,
+    "infix_upgrade": {
+      "id": 1012,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 64
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 64
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 89
+        }
+      ]
+    }
+  }
+}

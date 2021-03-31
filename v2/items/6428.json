@@ -1,0 +1,44 @@
+{
+  "name": "Mending Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 49,
+  "rarity": "Fine",
+  "vendor_value": 40,
+  "default_skin": 945,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6428,
+  "chat_link": "[\u0026AgEcGQAA]",
+  "icon": "https://render.guildwars2.com/file/B406BAD3FFCC40D8F24DD5ACE1D9720CE95F9312/61447.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 62,
+    "infusion_slots": [],
+    "attribute_adjustment": 48.144,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 12
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 17
+        }
+      ]
+    }
+  }
+}

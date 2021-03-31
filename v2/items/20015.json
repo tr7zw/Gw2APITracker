@@ -1,0 +1,26 @@
+{
+  "name": "Speed Booster",
+  "description": "Double-click to gain a boon that increases your speed by 15% for one hour. Does not work in PvP, WvW, or raids.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 0,
+  "game_types": [
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 20015,
+  "chat_link": "[\u0026AgEvTgAA]",
+  "icon": "https://render.guildwars2.com/file/084BE7C2740C735DEA6F0FA4A6C4CA0639B49F4B/434414.png",
+  "details": {
+    "type": "Halloween"
+  }
+}

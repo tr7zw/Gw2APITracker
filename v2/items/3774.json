@@ -1,0 +1,48 @@
+{
+  "name": "Soldier\u0027s Havroun Gloves",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 1000,
+  "default_skin": 449,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Norn"
+  ],
+  "id": 3774,
+  "chat_link": "[\u0026AgG+DgAA]",
+  "icon": "https://render.guildwars2.com/file/F3ED00A9570AA435E25B6A53AD150D4836DD05F8/780933.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 80,
+    "infusion_slots": [],
+    "attribute_adjustment": 75.33,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 26
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 19
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 19
+        }
+      ]
+    }
+  }
+}

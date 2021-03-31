@@ -1,0 +1,43 @@
+{
+  "id": 191,
+  "name": "Citadel of Flame Foe",
+  "description": "Trouble in Baelfire\u0027s wake.",
+  "requirement": "Explored the Citadel of Flame.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Story Mode"
+    },
+    {
+      "type": "Text",
+      "text": "Explorable Mode—Ferrah\u0027s Path"
+    },
+    {
+      "type": "Text",
+      "text": "Explorable Mode—Magg\u0027s Path"
+    },
+    {
+      "type": "Text",
+      "text": "Explorable Mode—Rhiannon\u0027s Path"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 2,
+      "points": 5
+    },
+    {
+      "count": 3,
+      "points": 5
+    },
+    {
+      "count": 4,
+      "points": 5
+    }
+  ]
+}

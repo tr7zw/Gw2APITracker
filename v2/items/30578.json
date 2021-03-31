@@ -1,0 +1,45 @@
+{
+  "name": "Rifle",
+  "description": "\u003cc\u003d@flavor\u003e\"Don\u0027t want anything getting close to you? Then, you want this.\"\u003cbr\u003e—Nessi\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 17,
+  "rarity": "Masterwork",
+  "vendor_value": 63,
+  "default_skin": 3867,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30578,
+  "chat_link": "[\u0026AgFydwAA]",
+  "icon": "https://render.guildwars2.com/file/05909FE40ACD31F0201E02DD7E03C41ABD9CC401/66196.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 228,
+    "max_power": 279,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 80.376,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 28
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": 2325,
+  "name": "Machined Short Bow",
+  "description": "",
+  "requirement": "Collect all  items to forge your Machined Short Bow.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 6196
+    },
+    {
+      "type": "Item",
+      "id": 73069
+    },
+    {
+      "type": "Item",
+      "id": 74175
+    },
+    {
+      "type": "Item",
+      "id": 76596
+    },
+    {
+      "type": "Item",
+      "id": 75280
+    },
+    {
+      "type": "Item",
+      "id": 72399
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 76432,
+      "count": 1
+    }
+  ]
+}

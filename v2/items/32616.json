@@ -1,0 +1,45 @@
+{
+  "name": "Carrion Steam Scepter",
+  "type": "Weapon",
+  "level": 76,
+  "rarity": "Fine",
+  "vendor_value": 63,
+  "default_skin": 5210,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 32616,
+  "chat_link": "[\u0026AgFofwAA]",
+  "icon": "https://render.guildwars2.com/file/1C43079DB206A592B3170B7C09C0AEA956BEB772/68156.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 637,
+    "max_power": 719,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 239.296,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 60
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 60
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 84
+        }
+      ]
+    }
+  }
+}

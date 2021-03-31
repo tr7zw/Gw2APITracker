@@ -1,0 +1,28 @@
+{
+  "name": "Reading Glasses",
+  "description": "Double-click to apply this look to any other helmet. This skin will be unlocked in your wardrobe for future use.",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 1011,
+  "icon": "https://render.guildwars2.com/file/01DC5C169EBB7D2467FFC95F01B349FB0F52995B/220573.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        null,
+        null,
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

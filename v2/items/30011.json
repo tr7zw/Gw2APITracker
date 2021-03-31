@@ -1,0 +1,43 @@
+{
+  "name": "Charr Cleaver",
+  "description": "",
+  "type": "Weapon",
+  "level": 23,
+  "rarity": "Masterwork",
+  "vendor_value": 52,
+  "default_skin": 5208,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30011,
+  "chat_link": "[\u0026AgE7dQAA]",
+  "icon": "https://render.guildwars2.com/file/B606E3BEBF034E08D1DDEC54CA74E811F4284CD1/66427.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 226,
+    "max_power": 276,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 53.856,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 19
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

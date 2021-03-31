@@ -1,0 +1,49 @@
+{
+  "name": "Soldier\u0027s Chainmail Footgear",
+  "description": "",
+  "type": "Armor",
+  "level": 70,
+  "rarity": "Fine",
+  "vendor_value": 171,
+  "default_skin": 2041,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6633,
+  "chat_link": "[\u0026AgHpGQAA]",
+  "icon": "https://render.guildwars2.com/file/061CAE3A9244396F68B543089E43A11EC5E933C3/61096.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 114,
+    "infusion_slots": [],
+    "attribute_adjustment": 79.728,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 28
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 20
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 20
+        }
+      ]
+    }
+  }
+}

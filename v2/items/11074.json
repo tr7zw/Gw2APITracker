@@ -1,0 +1,42 @@
+{
+  "name": "Honed Student Circlet",
+  "description": "",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Masterwork",
+  "vendor_value": 85,
+  "default_skin": 171,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 11074,
+  "chat_link": "[\u0026AgFCKwAA]",
+  "icon": "https://render.guildwars2.com/file/9A12D620C162AAD56F48C6B52ED902A86EE93C93/61409.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 22,
+    "infusion_slots": [],
+    "attribute_adjustment": 44.812,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 16
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 11
+        }
+      ]
+    }
+  }
+}

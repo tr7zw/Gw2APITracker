@@ -1,0 +1,47 @@
+{
+  "name": "Lesser Shield of Absorption",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 24
+    },
+    {
+      "text": "Knockback Distance",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/9A6A02DCA260929CD14B4A4402266006981FF51B/648509.png",
+      "distance": 320
+    },
+    {
+      "text": "Shield Duration",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "duration": 3
+    },
+    {
+      "text": "Healing",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "value": 1300,
+      "target": "Healing"
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 300
+    },
+    {
+      "text": "Combo Field",
+      "type": "ComboField",
+      "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+      "field_type": "Light"
+    }
+  ],
+  "description": "Create a dome around you that pushes foes back and absorbs projectiles. After a duration, it detonates, healing nearby allies.",
+  "icon": "https://render.guildwars2.com/file/BC380F0749013D4B5272B8599A510D0099F945BB/103026.png",
+  "flags": [],
+  "id": 13688,
+  "chat_link": "[\u0026Bng1AAA\u003d]"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Forsaken Big Grin",
+  "type": "Weapon",
+  "level": 71,
+  "rarity": "Exotic",
+  "vendor_value": 366,
+  "default_skin": 5155,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 51841,
+  "chat_link": "[\u0026AgGBygAA]",
+  "icon": "https://render.guildwars2.com/file/C565D3253F4D6D32E1D89D462CD8B56003B8FABC/67832.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 833,
+    "max_power": 978,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 610.4,
+    "infix_upgrade": {
+      "id": 1011,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 214
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 153
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 153
+        }
+      ]
+    }
+  }
+}

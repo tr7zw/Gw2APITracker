@@ -1,0 +1,51 @@
+{
+  "name": "Riveted Jacket",
+  "description": "\u003cc\u003d@flavor\u003e\"We add extra rivets on the inside. You can\u0027t see them, but they help when you have a hundred-pound crystal claw coming down on you.\"\u003cbr\u003e—Helo Murkhaunt\u003c/c\u003e",
+  "type": "Armor",
+  "level": 59,
+  "rarity": "Masterwork",
+  "vendor_value": 153,
+  "default_skin": 925,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4300,
+  "chat_link": "[\u0026AgHMEAAA]",
+  "icon": "https://render.guildwars2.com/file/D76E7FD875F09590705F01E5FCB1D234AF4297CC/61235.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 182,
+    "infusion_slots": [],
+    "attribute_adjustment": 203.72,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 71
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 51
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 51
+        }
+      ]
+    },
+    "suffix_item_id": 24739
+  }
+}

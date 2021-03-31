@@ -1,0 +1,47 @@
+{
+  "name": "Sentinel Scout Badge",
+  "description": "\u003cc\u003d@flavor\u003e\"Thanks. You really helped us out.\"\u003cbr\u003e—Sentinel Staggerfoe\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 57,
+  "rarity": "Fine",
+  "vendor_value": 62,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23532,
+  "chat_link": "[\u0026AgHsWwAA]",
+  "icon": "https://render.guildwars2.com/file/09CF1C9B3FCF30206660E1B771B70F59FCB75AF8/455932.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 98.88,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 25
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 25
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 35
+        }
+      ]
+    }
+  }
+}

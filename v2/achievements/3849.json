@@ -1,0 +1,84 @@
+{
+  "id": 3849,
+  "name": "Equipment Tracker",
+  "description": "",
+  "requirement": "Find and return Master Sergeant Shadi\u0027s lost equipment.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Shadi\u0027s Sword"
+    },
+    {
+      "type": "Text",
+      "text": "Shadi\u0027s Helm"
+    },
+    {
+      "type": "Text",
+      "text": "Shadi\u0027s Gloves"
+    },
+    {
+      "type": "Text",
+      "text": "Shadi\u0027s Boots"
+    },
+    {
+      "type": "Text",
+      "text": "Shadi\u0027s Armor"
+    },
+    {
+      "type": "Text",
+      "text": "Shadi\u0027s Shopping List"
+    },
+    {
+      "type": "Text",
+      "text": "Shadi\u0027s Reward"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 0
+    },
+    {
+      "count": 3,
+      "points": 0
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 0
+    },
+    {
+      "count": 6,
+      "points": 0
+    },
+    {
+      "count": 7,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 84601,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 362
+    }
+  ]
+}

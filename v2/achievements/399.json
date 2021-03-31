@@ -1,0 +1,24 @@
+{
+  "id": 399,
+  "name": "Out of Cluck",
+  "description": "Nothing like roast chicken after a successful siege.",
+  "requirement": "While inside the Urban Battleground fractal, your team killed all the chickens in the city.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tyria",
+      "id": 245
+    }
+  ]
+}

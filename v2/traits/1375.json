@@ -1,0 +1,100 @@
+{
+  "id": 1375,
+  "tier": 3,
+  "order": 0,
+  "name": "Last Stand",
+  "description": "Cast Lesser Balanced Stance when you are disabled. \u003cc\u003d@abilitytype\u003eStances\u003c/c\u003e grant vigor when activated and have increased duration.\u003cbr\u003e\u003cc\u003d@reminder\u003eDisables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.\u003c/c\u003e",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Duration Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "percent": 25
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+      "duration": 6,
+      "status": "Vigor",
+      "description": "Endurance regeneration increased by 50%; stacks duration.",
+      "apply_count": 1
+    }
+  ],
+  "skills": [
+    {
+      "name": "Lesser Balanced Stance",
+      "facts": [
+        {
+          "text": "Recharge",
+          "type": "Recharge",
+          "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+          "value": 40
+        },
+        {
+          "text": "StunBreak",
+          "type": "StunBreak",
+          "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+          "value": true
+        },
+        {
+          "text": "Apply Buff/Condition",
+          "type": "Buff",
+          "icon": "https://render.guildwars2.com/file/EE276A936FB880E44B2B310D56E6A9E22034E301/104112.png",
+          "duration": 4,
+          "status": "Balanced Stance",
+          "description": "Periodically gain stability. Immune to critical hits.",
+          "apply_count": 1
+        },
+        {
+          "text": "Apply Buff/Condition",
+          "type": "Buff",
+          "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+          "duration": 1,
+          "status": "Stability",
+          "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
+          "apply_count": 2
+        },
+        {
+          "text": "Apply Buff/Condition",
+          "type": "Buff",
+          "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+          "duration": 3,
+          "status": "Swiftness",
+          "description": "Movement speed increased by 33%; stacks duration.",
+          "apply_count": 1
+        },
+        {
+          "text": "Boon Application Interval",
+          "type": "Time",
+          "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+          "duration": 1
+        }
+      ],
+      "description": "Stance. Gain stability and swiftness on an interval. Become immune to critical hits.",
+      "icon": "https://render.guildwars2.com/file/EE276A936FB880E44B2B310D56E6A9E22034E301/104112.png",
+      "flags": [],
+      "id": 14330,
+      "chat_link": "[\u0026Bvo3AAA\u003d]",
+      "categories": [
+        "Stance"
+      ],
+      "traited_facts": [
+        {
+          "text": "Apply Buff/Condition",
+          "type": "Buff",
+          "icon": "https://render.guildwars2.com/file/EE276A936FB880E44B2B310D56E6A9E22034E301/104112.png",
+          "duration": 5,
+          "status": "Balanced Stance",
+          "description": "Periodically gain stability. Immune to critical hits.",
+          "apply_count": 1,
+          "requires_trait": 1375,
+          "overrides": 2
+        }
+      ]
+    }
+  ],
+  "specialization": 22,
+  "icon": "https://render.guildwars2.com/file/E8BE056A0835F61B5672F4229D6022CA6E213857/1012789.png"
+}

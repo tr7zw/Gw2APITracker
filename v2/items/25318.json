@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Etched Blaster of Accuracy",
+  "type": "Weapon",
+  "level": 78,
+  "rarity": "Exotic",
+  "vendor_value": 384,
+  "default_skin": 5064,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25318,
+  "chat_link": "[\u0026AgHmYgAA]",
+  "icon": "https://render.guildwars2.com/file/469625010B1926BC6AC1DA0FDF46F0DB78BE09FA/526108.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 955,
+    "max_power": 1167,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 658.72,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 231
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 165
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 165
+        }
+      ]
+    },
+    "suffix_item_id": 24618
+  }
+}

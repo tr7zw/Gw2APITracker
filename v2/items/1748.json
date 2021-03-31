@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Worn Scale Helm of the Citadel",
+  "description": "",
+  "type": "Armor",
+  "level": 33,
+  "rarity": "Masterwork",
+  "vendor_value": 83,
+  "default_skin": 99,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 1748,
+  "chat_link": "[\u0026AgHUBgAA]",
+  "icon": "https://render.guildwars2.com/file/D8E21AB5F2F4FEEBC112E95B5C0C9406F725422E/61063.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 34,
+    "infusion_slots": [],
+    "attribute_adjustment": 41.718,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 10
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 15
+        }
+      ]
+    },
+    "suffix_item_id": 24739
+  }
+}

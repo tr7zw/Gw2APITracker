@@ -1,0 +1,28 @@
+{
+  "name": "Recipe: Irradiated Pistol",
+  "description": "A recipe to make a Pistol",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 9,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9599,
+  "chat_link": "[\u0026AgF/JQAA]",
+  "icon": "https://render.guildwars2.com/file/29025351ADAE08541A6F9D0980CD92D0F773A959/849383.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 5068
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": 2359,
+  "name": "Machined Mace",
+  "description": "",
+  "requirement": "Collect all  items to forge your Machined Mace.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 6274
+    },
+    {
+      "type": "Item",
+      "id": 74250
+    },
+    {
+      "type": "Item",
+      "id": 73574
+    },
+    {
+      "type": "Item",
+      "id": 75151
+    },
+    {
+      "type": "Item",
+      "id": 72440
+    },
+    {
+      "type": "Item",
+      "id": 70653
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 73302,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1833,
+  "name": "Unforgiving Infiltration",
+  "description": "Story Instance: Meeting the Asura",
+  "requirement": "Complete \"Meeting the Asura\" after speaking with the challenge mote to activate challenge mode.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 20
+    }
+  ],
+  "prerequisites": [
+    1826
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 44133,
+      "count": 3
+    }
+  ]
+}

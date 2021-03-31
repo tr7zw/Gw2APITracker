@@ -1,0 +1,44 @@
+{
+  "name": "Mending Norn Blade of Earth",
+  "type": "Weapon",
+  "level": 53,
+  "rarity": "Rare",
+  "vendor_value": 141,
+  "default_skin": 5235,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25591,
+  "chat_link": "[\u0026AgH3YwAA]",
+  "icon": "https://render.guildwars2.com/file/53CB05C635025823DE0531093B9FCBFFBA01C07D/575181.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 493,
+    "max_power": 545,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 169.272,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 42
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 59
+        }
+      ]
+    },
+    "suffix_item_id": 24559
+  }
+}

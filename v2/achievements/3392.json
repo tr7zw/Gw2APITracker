@@ -1,0 +1,41 @@
+{
+  "id": 3392,
+  "name": "The Real Raiders of Tyria",
+  "description": "\"Now, I\u0027m really free.\"",
+  "requirement": "Defeat every encounter in Bastion of the Penitent on both Normal and Challenge Mote difficulties.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Defeat Cairn the Indomitable Challenge Mote difficulty."
+    },
+    {
+      "type": "Text",
+      "text": "Defeat the Mursaat Overseer on Challenge Mote difficulty."
+    },
+    {
+      "type": "Text",
+      "text": "Defeat Samarog on Challenge Mote difficulty."
+    },
+    {
+      "type": "Text",
+      "text": "Defeat Deimos on Challenge Mote difficulty."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 4,
+      "points": 25
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 269
+    }
+  ]
+}

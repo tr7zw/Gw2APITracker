@@ -1,0 +1,122 @@
+{
+  "id": 3999,
+  "name": "Bookworm",
+  "description": "Or at least read the back cover.",
+  "requirement": "Put away and read  books in the main library.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "A Brief History of Cantha"
+    },
+    {
+      "type": "Text",
+      "text": "Behaviors of Risen Beasts"
+    },
+    {
+      "type": "Text",
+      "text": "Biography of Gwen Thackeray"
+    },
+    {
+      "type": "Text",
+      "text": "Biography of Ogden Stonehealer"
+    },
+    {
+      "type": "Text",
+      "text": "Eternal Alchemy of the Stars"
+    },
+    {
+      "type": "Text",
+      "text": "Everyday Healing: Gift of the Monk"
+    },
+    {
+      "type": "Text",
+      "text": "How Kormir Did It"
+    },
+    {
+      "type": "Text",
+      "text": "Humans of Elona"
+    },
+    {
+      "type": "Text",
+      "text": "Koss on Koss"
+    },
+    {
+      "type": "Text",
+      "text": "Malomedies\u0027s Observational Tips"
+    },
+    {
+      "type": "Text",
+      "text": "Raptor Training and Care"
+    },
+    {
+      "type": "Text",
+      "text": "Skies of Nightfall"
+    },
+    {
+      "type": "Text",
+      "text": "Spirits of the Wild"
+    },
+    {
+      "type": "Text",
+      "text": "Star Chart Basics"
+    },
+    {
+      "type": "Text",
+      "text": "Taming Elusive Beasts"
+    },
+    {
+      "type": "Text",
+      "text": "The Genius of Vekk"
+    },
+    {
+      "type": "Text",
+      "text": "The Grace of Melandru"
+    },
+    {
+      "type": "Text",
+      "text": "The Movement of the World"
+    },
+    {
+      "type": "Text",
+      "text": "The Reign of Palawa Joko"
+    },
+    {
+      "type": "Text",
+      "text": "You and Your Springer"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 0
+    },
+    {
+      "count": 10,
+      "points": 0
+    },
+    {
+      "count": 15,
+      "points": 0
+    },
+    {
+      "count": 20,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 86069,
+      "count": 5
+    }
+  ]
+}

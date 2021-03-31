@@ -1,0 +1,48 @@
+{
+  "name": "Ancient Focus",
+  "description": "\u003cc\u003d@flavor\u003e\"I\u0027m pretty sure the ghosts didn\u0027t mind me taking this. Well, sixty-four percent sure.\"\u003cbr\u003e—Ket\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 38,
+  "rarity": "Fine",
+  "vendor_value": 36,
+  "default_skin": 3887,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30489,
+  "chat_link": "[\u0026AgEZdwAA]",
+  "icon": "https://render.guildwars2.com/file/EF62B7FE5B45A1181C362E635301E1BAA8FDCC44/65104.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 283,
+    "max_power": 301,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 90.944,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 23
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 32
+        }
+      ]
+    }
+  }
+}

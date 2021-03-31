@@ -1,0 +1,39 @@
+{
+  "id": 4584,
+  "name": "Chasing Tales: Thundering Blow",
+  "description": "Katarin\u0027s foes learned to mistrust the ground beneath their feet.",
+  "requirement": "Knock down, stun, or launch opponents 20 times while wielding a hammer.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Katarin the Bonecrusher."
+    },
+    {
+      "type": "Text",
+      "text": "Knocked down, stunned, or launched opponents 20 times while wielding a hammer."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89466,
+      "count": 1
+    }
+  ]
+}

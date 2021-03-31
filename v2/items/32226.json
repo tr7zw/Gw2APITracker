@@ -1,0 +1,41 @@
+{
+  "name": "Avenger\u0027s Hammer",
+  "type": "Weapon",
+  "level": 8,
+  "rarity": "Fine",
+  "vendor_value": 20,
+  "default_skin": 5024,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32226,
+  "chat_link": "[\u0026AgHifQAA]",
+  "icon": "https://render.guildwars2.com/file/D804F663EC0D3E4B95485443106656EA9304E536/67681.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 172,
+    "max_power": 194,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 38.912,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 14
+        }
+      ]
+    }
+  }
+}

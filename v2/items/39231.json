@@ -1,0 +1,57 @@
+{
+  "name": "Fierceshot\u0027s Arrowhead",
+  "description": "\u003cc\u003d@flavor\u003eSaid to have belonged to the legendary charr archer Pyre Fierceshot.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 413,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 39231,
+  "chat_link": "[\u0026AgE/mQAA]",
+  "icon": "https://render.guildwars2.com/file/0EC50BA70DCC31056008209A2C9FFE7EEF0D0699/543878.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 224.07,
+    "infix_upgrade": {
+      "id": 585,
+      "buff": {
+        "skill_id": 15741,
+        "description": "+32 Condition Damage\n+18 Precision\n+18 Toughness"
+      },
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 74
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 74
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 110
+        }
+      ]
+    }
+  }
+}

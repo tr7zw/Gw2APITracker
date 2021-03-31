@@ -1,0 +1,52 @@
+{
+  "id": 3487,
+  "icon": "https://render.guildwars2.com/file/1B3B7103E5FFFEB4B94137CFEF6AC5A528AE1BA8/1730771.png",
+  "name": "Master Storyteller",
+  "description": "",
+  "requirement": "Complete all the parables of the gods.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Storyteller: Balthazar"
+    },
+    {
+      "type": "Text",
+      "text": "Storyteller: Dwayna"
+    },
+    {
+      "type": "Text",
+      "text": "Storyteller: Grenth"
+    },
+    {
+      "type": "Text",
+      "text": "Storyteller: Lyssa"
+    },
+    {
+      "type": "Text",
+      "text": "Storyteller: Melandru"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 326
+    },
+    {
+      "type": "Title",
+      "id": 274
+    }
+  ]
+}

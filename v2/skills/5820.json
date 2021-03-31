@@ -1,0 +1,58 @@
+{
+  "name": "Throw Junk",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 900
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 0.33
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+      "duration": 6,
+      "status": "Bleeding",
+      "description": "Deals damage every second; stacks intensity.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+      "duration": 3,
+      "status": "Chilled",
+      "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+      "duration": 3,
+      "status": "Weakness",
+      "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
+      "apply_count": 1
+    }
+  ],
+  "description": "Throw a bit of junk and inflict a random condition on your foe.",
+  "icon": "https://render.guildwars2.com/file/AEB21DB6955411BD270BCE9B4663D07C64A30673/103245.png",
+  "type": "Weapon",
+  "weapon_type": "None",
+  "professions": [
+    "Engineer"
+  ],
+  "slot": "Downed_1",
+  "flags": [
+    "NoUnderwater"
+  ],
+  "id": 5820,
+  "chat_link": "[\u0026BrwWAAA\u003d]"
+}

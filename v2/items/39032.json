@@ -1,0 +1,47 @@
+{
+  "name": "Rabid Verdant Shield",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 198,
+  "default_skin": 5110,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 39032,
+  "chat_link": "[\u0026AgF4mAAA]",
+  "icon": "https://render.guildwars2.com/file/022913A4986756B14F6743A0447D51D2AF599620/434878.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 714,
+    "max_power": 805,
+    "defense": 54,
+    "infusion_slots": [],
+    "attribute_adjustment": 301.824,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 75
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 75
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 106
+        }
+      ]
+    }
+  }
+}

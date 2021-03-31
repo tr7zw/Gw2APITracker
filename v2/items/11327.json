@@ -1,0 +1,46 @@
+{
+  "name": "Cleric\u0027s Feathered Mantle",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 80,
+  "default_skin": 163,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 11327,
+  "chat_link": "[\u0026AgE/LAAA]",
+  "icon": "https://render.guildwars2.com/file/6F7434D1BF2CF73C060ACC7B0E0180C543233206/61471.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 60,
+    "infusion_slots": [],
+    "attribute_adjustment": 104.983,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 26
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 26
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 37
+        }
+      ]
+    }
+  }
+}

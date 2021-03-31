@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Aureate Musket of Ogre Slaying",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Rare",
+  "vendor_value": 189,
+  "default_skin": 5029,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34017,
+  "chat_link": "[\u0026AgHhhAAA]",
+  "icon": "https://render.guildwars2.com/file/C940E434A3651816AFAAF60E0E496E4E17015394/67258.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 465,
+    "max_power": 569,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 280.512,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 98
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 70
+        }
+      ]
+    },
+    "suffix_item_id": 24656
+  }
+}

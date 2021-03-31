@@ -1,0 +1,57 @@
+{
+  "id": 3402,
+  "name": "The Druid Stone",
+  "description": "Melandru\u0027s blessing to the most devout of her followers was to become one with nature and leave behind their physical construct. Pay tribute to and learn from the druid spirits in Draconis Mons to cultivate your relationship with nature through the Druid Stone.",
+  "requirement": "",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 81102
+    },
+    {
+      "type": "Item",
+      "id": 81140
+    },
+    {
+      "type": "Item",
+      "id": 81073
+    },
+    {
+      "type": "Item",
+      "id": 81087
+    },
+    {
+      "type": "Item",
+      "id": 81178
+    },
+    {
+      "type": "Item",
+      "id": 81053
+    },
+    {
+      "type": "Item",
+      "id": 80996
+    }
+  ],
+  "tiers": [
+    {
+      "count": 7,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 81007,
+      "count": 1
+    }
+  ]
+}

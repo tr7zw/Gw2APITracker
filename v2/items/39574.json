@@ -1,0 +1,57 @@
+{
+  "name": "Petrified Skull Juju",
+  "description": "\u003cc\u003d@flavor\u003eAn ancient relic of the mystic beings of Echovald Forest.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 660,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 39574,
+  "chat_link": "[\u0026AgGWmgAA]",
+  "icon": "https://render.guildwars2.com/file/F461F3E03EB0C1F84175E7D7072F3C9F52B7664F/543905.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Enrichment"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "infix_upgrade": {
+      "id": 658,
+      "buff": {
+        "skill_id": 17071,
+        "description": "+32 Precision\n+18 Power\n+18 Condition Damage"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 108
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 157
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 108
+        }
+      ]
+    }
+  }
+}

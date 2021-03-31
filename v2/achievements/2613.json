@@ -1,0 +1,50 @@
+{
+  "id": 2613,
+  "name": "Honorary Ogre",
+  "description": "The ogres consider you one of their own. In this case, that\u0027s a compliment.",
+  "requirement": "Participate in every stage of the ogres\u0027 survival in Tangled Depths.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Helped Nokta Scout Chak"
+    },
+    {
+      "type": "Text",
+      "text": "Collected Chak Eggs"
+    },
+    {
+      "type": "Text",
+      "text": "Destroyed Ley-Combs"
+    },
+    {
+      "type": "Text",
+      "text": "Killed Enraged Chak"
+    },
+    {
+      "type": "Text",
+      "text": "Escorted Ogres to Blighting Tree"
+    },
+    {
+      "type": "Text",
+      "text": "Fought Mordrem with Ogres"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 6,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 80
+    }
+  ]
+}

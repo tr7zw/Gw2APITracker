@@ -1,0 +1,54 @@
+{
+  "name": "Glitched Adventure Rifle",
+  "description": "\u003cc\u003d@flavor\u003eERROR\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 9345,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 93300,
+  "chat_link": "[\u0026AgF0bAEA]",
+  "icon": "https://render.guildwars2.com/file/EE7513CE0C0AD7B50F4DF7781326A26B348036CC/2281968.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 986,
+    "max_power": 1205,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 1085,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 205
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 113
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 205
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 113
+        }
+      ]
+    }
+  }
+}

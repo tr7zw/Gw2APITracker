@@ -1,0 +1,42 @@
+{
+  "name": "Red-Capped Gauntlets",
+  "description": "\u003cc\u003d@flavor\u003e\"These help neutralize naturally occurring red-cap toxins.\"\u003cbr\u003e—Elain\u003c/c\u003e",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 7,
+  "default_skin": 891,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4911,
+  "chat_link": "[\u0026AgEvEwAA]",
+  "icon": "https://render.guildwars2.com/file/6A921C0335490C406B28FBA52C3ECE4862B94F2E/61246.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 13,
+    "infusion_slots": [],
+    "attribute_adjustment": 5.04,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 2
+        }
+      ]
+    }
+  }
+}

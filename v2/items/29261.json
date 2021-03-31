@@ -1,0 +1,40 @@
+{
+  "name": "Norn Pistol",
+  "description": "",
+  "type": "Weapon",
+  "level": 5,
+  "rarity": "Fine",
+  "vendor_value": 10,
+  "default_skin": 5153,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix"
+  ],
+  "restrictions": [],
+  "id": 29261,
+  "chat_link": "[\u0026AgFNcgAA]",
+  "icon": "https://render.guildwars2.com/file/5866D4E3A3B1E93A660166B9D3FF2BFD4C37B8B9/575174.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 143,
+    "max_power": 168,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 15.744,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

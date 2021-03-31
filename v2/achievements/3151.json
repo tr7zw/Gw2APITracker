@@ -1,0 +1,47 @@
+{
+  "id": 3151,
+  "icon": "https://render.guildwars2.com/file/FF6CE1381E924D445715A0A4D0085EE1A8F92F25/1494333.png",
+  "name": "Daily Ember Bay Rock Tour",
+  "description": "You\u0027ll get to see the island while doing these tasks.",
+  "requirement": "Complete two task regions in Ember Bay.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Daily"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Help the skritt encampment."
+    },
+    {
+      "type": "Text",
+      "text": "Assist the asuran researchers."
+    },
+    {
+      "type": "Text",
+      "text": "Win the favor of the circus"
+    },
+    {
+      "type": "Text",
+      "text": "Assist Scientist Vratt."
+    },
+    {
+      "type": "Text",
+      "text": "Investigate the mursaat fortress"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 2,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 79615,
+      "count": 3
+    }
+  ]
+}

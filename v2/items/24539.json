@@ -1,0 +1,45 @@
+{
+  "name": "Gilded Sunstone Jewel",
+  "description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 35,
+  "rarity": "Masterwork",
+  "vendor_value": 68,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24539,
+  "chat_link": "[\u0026AgHbXwAA]",
+  "icon": "https://render.guildwars2.com/file/F6E4F9AC3BC3DF582901AD307C3505E433F879C3/220965.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "Trinket"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 380,
+      "buff": {
+        "skill_id": 174,
+        "description": "+9 Precision\n+7 Power"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 7
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 9
+        }
+      ]
+    },
+    "suffix": "of Sunstone"
+  }
+}

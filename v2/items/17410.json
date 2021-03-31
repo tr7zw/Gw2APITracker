@@ -1,0 +1,48 @@
+{
+  "name": "Forgeman Jacket",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 676,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 17410,
+  "chat_link": "[\u0026AgECRAAA]",
+  "icon": "https://render.guildwars2.com/file/713D1DEF9730A180200061DA456C9A98BE484EB5/61461.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 338,
+    "infusion_slots": [],
+    "attribute_adjustment": 384.12,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 96
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 96
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 134
+        }
+      ]
+    },
+    "suffix_item_id": 24851
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Mountain Greatsword",
+  "description": "\u003cc\u003d@flavor\u003e\"The weight is more deadly than the blade.\"\u003cbr\u003e—Vigil Crusader Rugan\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 57,
+  "rarity": "Fine",
+  "vendor_value": 74,
+  "default_skin": 4015,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29442,
+  "chat_link": "[\u0026AgECcwAA]",
+  "icon": "https://render.guildwars2.com/file/1EA00FDAAD23FD1B1B9C4BD6E36EB30A43E21D06/64138.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 501,
+    "max_power": 554,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 316.416,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 79
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 79
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 111
+        }
+      ]
+    }
+  }
+}

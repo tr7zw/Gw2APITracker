@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Etched Cudgel of Accuracy",
+  "type": "Weapon",
+  "level": 78,
+  "rarity": "Exotic",
+  "vendor_value": 256,
+  "default_skin": 5028,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25238,
+  "chat_link": "[\u0026AgGWYgAA]",
+  "icon": "https://render.guildwars2.com/file/F7D5E636366FFC490B1F267C690FCD11EBC30D18/779891.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 867,
+    "max_power": 978,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 329.36,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 115
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 82
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 82
+        }
+      ]
+    },
+    "suffix_item_id": 24618
+  }
+}

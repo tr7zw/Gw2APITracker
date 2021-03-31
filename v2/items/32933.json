@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Flame Blade of Earth",
+  "type": "Weapon",
+  "level": 53,
+  "rarity": "Rare",
+  "vendor_value": 141,
+  "default_skin": 5232,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32933,
+  "chat_link": "[\u0026AgGlgAAA]",
+  "icon": "https://render.guildwars2.com/file/FF9C9423AEA40F1A2FE166390DC894139E57047C/67842.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 493,
+    "max_power": 545,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 169.272,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 42
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 59
+        }
+      ]
+    },
+    "suffix_item_id": 24559
+  }
+}

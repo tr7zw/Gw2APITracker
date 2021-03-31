@@ -1,0 +1,57 @@
+{
+  "name": "Artifact of the Sunless",
+  "description": "\u003cc\u003d@flavor\u003eCorrupted long ago by Tequatl\u0027s influence.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 330,
+  "default_skin": 5269,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 47853,
+  "chat_link": "[\u0026AgHtugAA]",
+  "icon": "https://render.guildwars2.com/file/AA03A59374AF5F23596A3AF90999D93748C9BF40/638257.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 873,
+    "max_power": 927,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 90
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 90
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 125
+        }
+      ]
+    },
+    "suffix_item_id": 24578
+  }
+}

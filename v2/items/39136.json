@@ -1,0 +1,31 @@
+{
+  "name": "Backpack Straps",
+  "description": "A simple back-slot item used to attach decorative packs.",
+  "type": "Back",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 1,
+  "default_skin": 2327,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "NotUpgradeable",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 39136,
+  "chat_link": "[\u0026AgHgmAAA]",
+  "icon": "https://render.guildwars2.com/file/BECDA349B3A9D13BA312452C33E4EF21492CB2EB/543792.png",
+  "details": {
+    "infusion_slots": [],
+    "attribute_adjustment": 1.95
+  }
+}

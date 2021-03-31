@@ -1,0 +1,44 @@
+{
+  "name": "Berserker\u0027s Apprentice Band",
+  "description": "",
+  "type": "Armor",
+  "level": 70,
+  "rarity": "Basic",
+  "vendor_value": 37,
+  "default_skin": 85,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 3374,
+  "chat_link": "[\u0026AgEuDQAA]",
+  "icon": "https://render.guildwars2.com/file/B8A925C49471F215F4AF6057D0B3B0F3BAA7CF19/61351.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 37,
+    "infusion_slots": [],
+    "attribute_adjustment": 84.578,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 30
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 21
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 21
+        }
+      ]
+    }
+  }
+}

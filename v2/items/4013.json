@@ -1,0 +1,48 @@
+{
+  "name": "Excavator\u0027s Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 55,
+  "rarity": "Masterwork",
+  "vendor_value": 87,
+  "default_skin": 902,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4013,
+  "chat_link": "[\u0026AgGtDwAA]",
+  "icon": "https://render.guildwars2.com/file/FE92E02C05FE05960E345BD85E5EFA042627061B/61231.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 66,
+    "infusion_slots": [],
+    "attribute_adjustment": 61.4295,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 22
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 15
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 15
+        }
+      ]
+    }
+  }
+}

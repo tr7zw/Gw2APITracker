@@ -1,0 +1,40 @@
+{
+  "name": "Strong Apprentice Pants",
+  "description": "",
+  "type": "Armor",
+  "level": 26,
+  "rarity": "Basic",
+  "vendor_value": 20,
+  "default_skin": 3,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 3383,
+  "chat_link": "[\u0026AgE3DQAA]",
+  "icon": "https://render.guildwars2.com/file/AAB41A903B03C7DEB833A8CC4E08CF0A02A67BD5/61404.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Light",
+    "defense": 32,
+    "infusion_slots": [],
+    "attribute_adjustment": 32.175,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 11
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

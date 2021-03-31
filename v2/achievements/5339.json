@@ -1,0 +1,25 @@
+{
+  "id": 5339,
+  "name": "Special Mission: Enjoy the Silence",
+  "description": "",
+  "requirement": "Destroy  propaganda speakers in Drizzlewood Coast.",
+  "locked_text": "Unlock by using Ash Legion Special Mission Documents.",
+  "type": "Default",
+  "flags": [
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 20,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 93525,
+      "count": 250
+    }
+  ]
+}

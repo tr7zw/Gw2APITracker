@@ -1,0 +1,40 @@
+{
+  "name": "Strong Apprentice Coat",
+  "description": "",
+  "type": "Armor",
+  "level": 24,
+  "rarity": "Basic",
+  "vendor_value": 20,
+  "default_skin": 4,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 2952,
+  "chat_link": "[\u0026AgGICwAA]",
+  "icon": "https://render.guildwars2.com/file/DB0264EE5C0079BB3996EC7B0297CEE1BD48EF07/61403.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 48,
+    "infusion_slots": [],
+    "attribute_adjustment": 44.343,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 16
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 11
+        }
+      ]
+    }
+  }
+}

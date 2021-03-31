@@ -1,0 +1,24 @@
+{
+  "id": 4515,
+  "name": "Honored Ritual",
+  "description": "",
+  "requirement": "Remind Niles about the honored ritual of the Zephyrites.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 455
+    }
+  ]
+}

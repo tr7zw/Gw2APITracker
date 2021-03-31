@@ -1,0 +1,44 @@
+{
+  "name": "Honed Warband Boots",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 425,
+  "default_skin": 342,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "id": 3532,
+  "chat_link": "[\u0026AgHMDQAA]",
+  "icon": "https://render.guildwars2.com/file/40B259BEDD6866797775201A0D0ED4983E72C769/455467.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 59,
+    "infusion_slots": [],
+    "attribute_adjustment": 36.963,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 13
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

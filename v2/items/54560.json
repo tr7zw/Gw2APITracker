@@ -1,0 +1,47 @@
+{
+  "name": "Survivor\u0027s Barnacle Scraper",
+  "type": "Weapon",
+  "level": 55,
+  "rarity": "Rare",
+  "vendor_value": 150,
+  "default_skin": 5073,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 54560,
+  "chat_link": "[\u0026AgEg1QAA]",
+  "icon": "https://render.guildwars2.com/file/0BDBF05817ECB1AE01900641AFA730A691BAF7BC/779961.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 515,
+    "max_power": 629,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 191.736,
+    "infix_upgrade": {
+      "id": 1013,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 48
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 67
+        }
+      ]
+    }
+  }
+}

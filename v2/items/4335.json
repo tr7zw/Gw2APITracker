@@ -1,0 +1,46 @@
+{
+  "name": "Witch Doctor\u0027s Slippers",
+  "description": "\u003cc\u003d@flavor\u003eDark foot protection.\u003c/c\u003e",
+  "type": "Armor",
+  "level": 37,
+  "rarity": "Fine",
+  "vendor_value": 35,
+  "default_skin": 904,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4335,
+  "chat_link": "[\u0026AgHvEAAA]",
+  "icon": "https://render.guildwars2.com/file/72997C3425C2339DF4E64A6B04DABD33B4DD1C02/61261.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 38,
+    "infusion_slots": [],
+    "attribute_adjustment": 32.856,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 8
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 11
+        }
+      ]
+    }
+  }
+}

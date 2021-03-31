@@ -1,0 +1,34 @@
+{
+  "id": 1816,
+  "name": "\"Tangled Paths\" Mastery",
+  "description": "",
+  "requirement": "Complete all  \"Tangled Paths\" achievements.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 6,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    1822
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 67906,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Tyria",
+      "id": 256
+    }
+  ]
+}

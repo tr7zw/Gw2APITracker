@@ -1,0 +1,31 @@
+{
+  "id": 2655,
+  "name": "RGB",
+  "description": "",
+  "requirement": "Obtain each pylon attunement once, and defeat the Vale Guardian.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Red Attunement"
+    },
+    {
+      "type": "Text",
+      "text": "Green Attunement"
+    },
+    {
+      "type": "Text",
+      "text": "Blue Attunement"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 1
+    }
+  ]
+}

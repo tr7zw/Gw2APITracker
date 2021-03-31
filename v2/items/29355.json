@@ -1,0 +1,49 @@
+{
+  "name": "Priory Focus",
+  "description": "\u003cc\u003d@flavor\u003e\"Think before you leap.\"\u003cbr\u003e—Bink\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 25,
+  "rarity": "Masterwork",
+  "vendor_value": 54,
+  "default_skin": 3887,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29355,
+  "chat_link": "[\u0026AgGrcgAA]",
+  "icon": "https://render.guildwars2.com/file/EF62B7FE5B45A1181C362E635301E1BAA8FDCC44/65104.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 228,
+    "max_power": 242,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 58.412,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 15
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 20
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

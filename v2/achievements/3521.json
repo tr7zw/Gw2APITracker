@@ -1,0 +1,30 @@
+{
+  "id": 3521,
+  "icon": "https://render.guildwars2.com/file/1B3B7103E5FFFEB4B94137CFEF6AC5A528AE1BA8/1730771.png",
+  "name": "Echolocation",
+  "description": "Be one with the sound.",
+  "requirement": "Fly through the wyvern\u0027s ring attack without getting hit.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 79187,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 118
+    }
+  ]
+}

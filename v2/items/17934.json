@@ -1,0 +1,48 @@
+{
+  "name": "Accursed Shoulders",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 291,
+  "default_skin": 642,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 17934,
+  "chat_link": "[\u0026AgEORgAA]",
+  "icon": "https://render.guildwars2.com/file/47732EABA9B8B1CC79FD0129CFC24126039A7901/61609.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Medium",
+    "defense": 97,
+    "infusion_slots": [],
+    "attribute_adjustment": 128.04,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 45
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 32
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 32
+        }
+      ]
+    },
+    "suffix_item_id": 24860
+  }
+}

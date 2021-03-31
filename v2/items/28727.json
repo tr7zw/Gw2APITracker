@@ -1,0 +1,49 @@
+{
+  "name": "Cleric\u0027s Black Earth Trident of Venom",
+  "description": "",
+  "type": "Weapon",
+  "level": 72,
+  "rarity": "Rare",
+  "vendor_value": 270,
+  "default_skin": 4712,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28727,
+  "chat_link": "[\u0026AgE3cAAA]",
+  "icon": "https://render.guildwars2.com/file/B8F4F953BC20F7A7FE9FF7459FD5534F0608730F/574969.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 701,
+    "max_power": 774,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 518.4,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 130
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 130
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 181
+        }
+      ]
+    },
+    "suffix_item_id": 24633
+  }
+}

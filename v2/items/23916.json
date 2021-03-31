@@ -1,0 +1,39 @@
+{
+  "name": "Seraph Medal of Stealth",
+  "description": "\u003cc\u003d@flavor\u003e\"Sneaking up on someone is easy. Keeping others from noticing you is the hard part.\"\u003cbr\u003e—Morina\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 60,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23916,
+  "chat_link": "[\u0026AgFsXQAA]",
+  "icon": "https://render.guildwars2.com/file/38224070F5DB15E89D2C9DABFE1958FE63D138F6/1424025.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 29.3675,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 10
+        }
+      ]
+    }
+  }
+}

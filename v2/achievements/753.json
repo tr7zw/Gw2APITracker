@@ -1,0 +1,27 @@
+{
+  "id": 753,
+  "name": "Keg Brawl Regular",
+  "description": "",
+  "requirement": "Participate in  rounds.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 30,
+      "points": 5
+    }
+  ],
+  "point_cap": 50,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 43913,
+      "count": 1
+    }
+  ]
+}

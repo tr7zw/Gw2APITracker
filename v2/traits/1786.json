@@ -1,0 +1,38 @@
+{
+  "id": 1786,
+  "tier": 2,
+  "order": 0,
+  "name": "Assassin\u0027s Presence",
+  "description": "Increase the ferocity of nearby allies.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/54C625037513112F94A93C6F1553447504C5AF60/1029955.png",
+      "duration": 9,
+      "status": "Assassin\u0027s Presence",
+      "description": "Increases ferocity of nearby allies.",
+      "apply_count": 1
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 600
+    },
+    {
+      "text": "Combat Only",
+      "type": "NoData",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png"
+    },
+    {
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
+      "value": 150,
+      "target": "CritDamage"
+    }
+  ],
+  "specialization": 15,
+  "icon": "https://render.guildwars2.com/file/54C625037513112F94A93C6F1553447504C5AF60/1029955.png"
+}

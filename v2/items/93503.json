@@ -1,0 +1,28 @@
+{
+  "name": "Salvage Pile Home Instance Node",
+  "description": "Activates a Salvage Pile node in your home instance.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 93503,
+  "chat_link": "[\u0026AgE/bQEA]",
+  "icon": "https://render.guildwars2.com/file/090DCF2997042B700DD99764A80ACF13062AFCA7/2292708.png",
+  "details": {
+    "type": "Immediate"
+  }
+}

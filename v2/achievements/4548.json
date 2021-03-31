@@ -1,0 +1,39 @@
+{
+  "id": 4548,
+  "name": "Chasing Tales: Bladed Justice",
+  "description": "Carver took out a lifetime of fury upon his enemies.",
+  "requirement": "Defeat 60 Branded enemies while wielding a sword in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Carver the Carver."
+    },
+    {
+      "type": "Text",
+      "text": "Defeated 60 Branded enemies while wielding a sword in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89631,
+      "count": 1
+    }
+  ]
+}

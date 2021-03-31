@@ -1,0 +1,43 @@
+{
+  "name": "Invader\u0027s Accessory",
+  "description": "",
+  "type": "Trinket",
+  "level": 30,
+  "rarity": "Rare",
+  "vendor_value": 1536,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 24022,
+  "chat_link": "[\u0026AgHWXQAA]",
+  "icon": "https://render.guildwars2.com/file/F4486E0A6651C27F5D720CFF30D8A9CA33A855C7/66808.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 51.12,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 18
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 13
+        }
+      ]
+    }
+  }
+}

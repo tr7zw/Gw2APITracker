@@ -1,0 +1,42 @@
+{
+  "name": "Strong Pistol",
+  "description": "",
+  "type": "Weapon",
+  "level": 36,
+  "rarity": "Basic",
+  "vendor_value": 18,
+  "default_skin": 3864,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 28941,
+  "chat_link": "[\u0026AgENcQAA]",
+  "icon": "https://render.guildwars2.com/file/B4BA303072A62C0AB73A0CBAF0632A38D8B4794A/66190.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 227,
+    "max_power": 267,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 66.144,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 23
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 17
+        }
+      ]
+    }
+  }
+}

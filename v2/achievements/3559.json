@@ -1,0 +1,56 @@
+{
+  "id": 3559,
+  "icon": "https://render.guildwars2.com/file/3FB1AE472DF109D022146F26B0F420140BFC26FE/1824200.png",
+  "name": "Washing the Brow",
+  "description": "\u003cc\u003d@Flavor\u003eIt was written, \"Burial should be as luxurious as life—or more, as it sets the tone by which a monarch is remembered forever.\"\u003c/c\u003e",
+  "requirement": "Gather  luxuries from renown merchants across the Elonian Desert.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 83487
+    },
+    {
+      "type": "Item",
+      "id": 84591
+    },
+    {
+      "type": "Item",
+      "id": 82658
+    },
+    {
+      "type": "Item",
+      "id": 84327
+    },
+    {
+      "type": "Item",
+      "id": 82636
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 2
+    }
+  ],
+  "prerequisites": [
+    3753
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 84013,
+      "count": 1
+    }
+  ]
+}

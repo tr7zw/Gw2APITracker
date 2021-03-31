@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Krytan Shield of Debility",
+  "type": "Weapon",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 90,
+  "default_skin": 5018,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33883,
+  "chat_link": "[\u0026AgFbhAAA]",
+  "icon": "https://render.guildwars2.com/file/5DA00DC8E6E6E7BE39B51B7F30D2314ECB33A5CF/61712.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 383,
+    "max_power": 432,
+    "defense": 27,
+    "infusion_slots": [],
+    "attribute_adjustment": 144.228,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 50
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 36
+        }
+      ]
+    },
+    "suffix_item_id": 24634
+  }
+}

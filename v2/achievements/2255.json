@@ -1,0 +1,94 @@
+{
+  "id": 2255,
+  "name": "Fix-r-Upper",
+  "description": "",
+  "requirement": "Collect these  items and skins to receive the scrapper\u0027s hammer, Fix-r-Upper.",
+  "locked_text": "Begin training the engineer\u0027s scrapper elite specialization.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 6447
+    },
+    {
+      "type": "Item",
+      "id": 70501
+    },
+    {
+      "type": "Item",
+      "id": 70587
+    },
+    {
+      "type": "Skin",
+      "id": 5349
+    },
+    {
+      "type": "Item",
+      "id": 70663
+    },
+    {
+      "type": "Item",
+      "id": 71144
+    },
+    {
+      "type": "Item",
+      "id": 72681
+    },
+    {
+      "type": "Item",
+      "id": 73195
+    },
+    {
+      "type": "Item",
+      "id": 75814
+    },
+    {
+      "type": "Item",
+      "id": 72474
+    },
+    {
+      "type": "Item",
+      "id": 74252
+    },
+    {
+      "type": "Skin",
+      "id": 6050
+    },
+    {
+      "type": "Item",
+      "id": 72050
+    },
+    {
+      "type": "Skin",
+      "id": 6335
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    },
+    {
+      "count": 14,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 69932,
+      "count": 1
+    }
+  ]
+}

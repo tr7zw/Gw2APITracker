@@ -1,0 +1,33 @@
+{
+  "id": 2009,
+  "tier": 2,
+  "order": 0,
+  "name": "Danger Time",
+  "description": "Gain additional critical-hit chance against slowed enemies. Critical hits deal additional damage to slowed enemies. This bonus also applies to your illusions.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
+      "duration": 0,
+      "status": "Slow",
+      "description": "Skills and actions are slower.",
+      "apply_count": 1
+    },
+    {
+      "text": "Critical Chance Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
+      "percent": 15
+    },
+    {
+      "text": "Critical Damage Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
+      "percent": 10
+    }
+  ],
+  "specialization": 40,
+  "icon": "https://render.guildwars2.com/file/E0A1FF012E170754030A0CB6DFDBAED3E81FAB5B/1012479.png"
+}

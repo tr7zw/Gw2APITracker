@@ -1,0 +1,71 @@
+{
+  "name": "Beryl Shard",
+  "description": "Double-click to apply to an item with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 50,
+  "rarity": "Fine",
+  "vendor_value": 45,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24872,
+  "chat_link": "[\u0026AgEoYQAA]",
+  "icon": "https://render.guildwars2.com/file/AE93DE9F1BDFEF18A63D9163B0EA3E5632BFF939/221173.png",
+  "details": {
+    "type": "Gem",
+    "flags": [
+      "ShortBow",
+      "HeavyArmor",
+      "LightArmor",
+      "Dagger",
+      "MediumArmor",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Trinket",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 505,
+      "buff": {
+        "skill_id": 296,
+        "description": "+11 Power\n+8 Ferocity\n+8 Vitality"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 11
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 8
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 8
+        }
+      ]
+    },
+    "suffix": "of Beryl"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Valkyrie Krait Slayer",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 297,
+  "default_skin": 4089,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 15471,
+  "chat_link": "[\u0026AgFvPAAA]",
+  "icon": "https://render.guildwars2.com/file/75E8103E4106F879A35D78B1EC0ED3BE78D5450F/574992.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 882,
+    "max_power": 975,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 603.648,
+    "infix_upgrade": {
+      "id": 157,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 211
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 151
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 151
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Oldgate Heavy Leggings",
+  "description": "",
+  "type": "Armor",
+  "level": 15,
+  "rarity": "Fine",
+  "vendor_value": 28,
+  "default_skin": 860,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4198,
+  "chat_link": "[\u0026AgFmEAAA]",
+  "icon": "https://render.guildwars2.com/file/1BE0D496A9C75AC89DD4275CFCBE2F08DB7B2F4D/61242.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Heavy",
+    "defense": 35,
+    "infusion_slots": [],
+    "attribute_adjustment": 23.808,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

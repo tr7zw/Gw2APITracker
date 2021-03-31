@@ -1,0 +1,56 @@
+{
+  "id": 3898,
+  "icon": "https://render.guildwars2.com/file/3FB1AE472DF109D022146F26B0F420140BFC26FE/1824200.png",
+  "name": "Walk the Land",
+  "description": "\u003cc\u003d@Flavor\u003eDynastic funeral rites often began with participants traveling the breadth of the kingdom to pay their respects.\u003c/c\u003e",
+  "requirement": "Earn map complete on all  Crystal Desert maps.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 85273
+    },
+    {
+      "type": "Item",
+      "id": 85153
+    },
+    {
+      "type": "Item",
+      "id": 85082
+    },
+    {
+      "type": "Item",
+      "id": 85096
+    },
+    {
+      "type": "Item",
+      "id": 84924
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 2
+    }
+  ],
+  "prerequisites": [
+    3753
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 82241,
+      "count": 1
+    }
+  ]
+}

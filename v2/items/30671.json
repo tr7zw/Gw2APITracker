@@ -1,0 +1,53 @@
+{
+  "name": "Stychs Dagger",
+  "description": "\u003cc\u003d@flavor\u003e\"These would be great for sabotage, so long as the sabotage involves stabbing.\"\u003cbr\u003e—Lightbringer Krentch\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 67,
+  "rarity": "Masterwork",
+  "vendor_value": 112,
+  "default_skin": 4009,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30671,
+  "chat_link": "[\u0026AgHPdwAA]",
+  "icon": "https://render.guildwars2.com/file/3254C66ED1675657E0B7C2FBBC09FBF2FBAA74A6/62762.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 607,
+    "max_power": 644,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 216.444,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 76
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 54
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 54
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": 1727,
+  "name": "Fine Dining",
+  "description": "",
+  "requirement": "Consume  various steaks from around Tyria.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 12468
+    },
+    {
+      "type": "Item",
+      "id": 8531
+    },
+    {
+      "type": "Item",
+      "id": 12737
+    },
+    {
+      "type": "Item",
+      "id": 12148
+    },
+    {
+      "type": "Item",
+      "id": 12359
+    },
+    {
+      "type": "Item",
+      "id": 12273
+    },
+    {
+      "type": "Item",
+      "id": 12429
+    },
+    {
+      "type": "Item",
+      "id": 12371
+    },
+    {
+      "type": "Item",
+      "id": 12198
+    },
+    {
+      "type": "Item",
+      "id": 12432
+    },
+    {
+      "type": "Item",
+      "id": 12467
+    },
+    {
+      "type": "Item",
+      "id": 12466
+    },
+    {
+      "type": "Item",
+      "id": 12641
+    },
+    {
+      "type": "Item",
+      "id": 12606
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    },
+    {
+      "count": 14,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 42877,
+      "count": 1
+    }
+  ]
+}

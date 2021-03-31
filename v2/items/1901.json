@@ -1,0 +1,43 @@
+{
+  "name": "Honed Privateer Gloves of Mercy",
+  "description": "",
+  "type": "Armor",
+  "level": 40,
+  "rarity": "Masterwork",
+  "vendor_value": 69,
+  "default_skin": 80,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 1901,
+  "chat_link": "[\u0026AgFtBwAA]",
+  "icon": "https://render.guildwars2.com/file/16670E161F58E8F86BE60ED3F83AA1D6C7210945/61045.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 54,
+    "infusion_slots": [],
+    "attribute_adjustment": 40.188,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 14
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 10
+        }
+      ]
+    },
+    "suffix_item_id": 24706
+  }
+}

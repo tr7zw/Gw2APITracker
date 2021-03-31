@@ -1,0 +1,45 @@
+{
+  "name": "Aethervolt Trident",
+  "description": "",
+  "type": "Weapon",
+  "level": 16,
+  "rarity": "Masterwork",
+  "vendor_value": 60,
+  "default_skin": 4712,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30570,
+  "chat_link": "[\u0026AgFqdwAA]",
+  "icon": "https://render.guildwars2.com/file/B8F4F953BC20F7A7FE9FF7459FD5534F0608730F/574969.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 205,
+    "max_power": 226,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 75.752,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 27
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

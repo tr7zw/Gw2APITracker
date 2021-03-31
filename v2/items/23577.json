@@ -1,0 +1,43 @@
+{
+  "name": "Ancient Vanguard Captain\u0027s Crest",
+  "description": "\u003cc\u003d@flavor\u003eA Vanguard Captain\u0027s adornment.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 32,
+  "rarity": "Masterwork",
+  "vendor_value": 128,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23577,
+  "chat_link": "[\u0026AgEZXAAA]",
+  "icon": "https://render.guildwars2.com/file/6A4462302556A1F5EC5B77AD6D63A4537E9022A1/63591.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 80.308,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 28
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 20
+        }
+      ]
+    }
+  }
+}

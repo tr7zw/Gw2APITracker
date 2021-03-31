@@ -1,0 +1,28 @@
+{
+  "id": 4187,
+  "name": "[FTT 401] Advanced Dynamics—Direct Damage Level 4",
+  "description": "",
+  "requirement": "Applied / Direct Damage Level 3 Upgrades",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 6,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    4226
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 87853,
+      "count": 1
+    }
+  ]
+}

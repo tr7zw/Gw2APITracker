@@ -1,0 +1,29 @@
+{
+  "id": 3019,
+  "name": "Down, Down, Downed",
+  "description": "Avoid the fiery ring.",
+  "requirement": "Survive the fight against the Keep Construct with a reduced playable space.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 77869,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 177
+    }
+  ]
+}

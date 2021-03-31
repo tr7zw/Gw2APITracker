@@ -1,0 +1,41 @@
+{
+  "name": "Penetrating Krytan Bow",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Fine",
+  "vendor_value": 63,
+  "default_skin": 4998,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 33615,
+  "chat_link": "[\u0026AgFPgwAA]",
+  "icon": "https://render.guildwars2.com/file/1FA1C0C722B9751C4C378055231E14FCB51517BF/61650.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 369,
+    "max_power": 433,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 234.624,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 82
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 59
+        }
+      ]
+    }
+  }
+}

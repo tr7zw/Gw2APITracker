@@ -1,0 +1,49 @@
+{
+  "name": "Cane\u0027s Justice",
+  "description": "\u003cc\u003d@flavor\u003e\"I\u0027ll stop when they\u0027re dead.\"\u003cbr\u003e—Broil Cane\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 34,
+  "rarity": "Masterwork",
+  "vendor_value": 66,
+  "default_skin": 5020,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30514,
+  "chat_link": "[\u0026AgEydwAA]",
+  "icon": "https://render.guildwars2.com/file/9AF522FA610E744803AE9F42063EABA5AA0F57B2/61730.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 307,
+    "max_power": 339,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 86.496,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 30
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 22
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

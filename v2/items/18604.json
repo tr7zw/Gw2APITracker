@@ -1,0 +1,49 @@
+{
+  "name": "Nightmare Court Legguards",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 370,
+  "default_skin": 695,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 18604,
+  "chat_link": "[\u0026AgGsSAAA]",
+  "icon": "https://render.guildwars2.com/file/3C9B7D0A17730AD49AB795CEC54B60A9B6CAE2C3/218946.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Heavy",
+    "defense": 242,
+    "infusion_slots": [],
+    "attribute_adjustment": 256.08,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 64
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 64
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 90
+        }
+      ]
+    },
+    "suffix_item_id": 24848
+  }
+}

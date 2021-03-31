@@ -1,0 +1,49 @@
+{
+  "name": "Rampager\u0027s Iron Spear of Air",
+  "description": "",
+  "type": "Weapon",
+  "level": 75,
+  "rarity": "Rare",
+  "vendor_value": 279,
+  "default_skin": 4000,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28783,
+  "chat_link": "[\u0026AgFvcAAA]",
+  "icon": "https://render.guildwars2.com/file/9AC302D1031B5C31806D0703FBC1944C01D4A240/561998.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 738,
+    "max_power": 815,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 549.36,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 137
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 192
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 137
+        }
+      ]
+    },
+    "suffix_item_id": 24553
+  }
+}

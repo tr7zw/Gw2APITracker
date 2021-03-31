@@ -1,0 +1,49 @@
+{
+  "name": "Embellished Ornate Emerald Jewel",
+  "description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 50,
+  "rarity": "Rare",
+  "vendor_value": 135,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24915,
+  "chat_link": "[\u0026AgFTYQAA]",
+  "icon": "https://render.guildwars2.com/file/5FC92B701040227E0E33DE1EB69E239CB172407D/340651.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "Trinket"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 541,
+      "buff": {
+        "skill_id": 330,
+        "description": "+16 Precision\n+10 Toughness\n+10 Power"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 10
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 16
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 10
+        }
+      ]
+    },
+    "suffix": "of Emerald"
+  }
+}

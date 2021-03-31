@@ -1,0 +1,27 @@
+{
+  "id": 1818,
+  "name": "Connect the Dots",
+  "description": "Story Instance: Into the Labyrinth",
+  "requirement": "Rescue your allies in this order: Rox, Braham, Marjory, and Kasmeer.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    1822
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 70000,
+      "count": 1
+    }
+  ]
+}

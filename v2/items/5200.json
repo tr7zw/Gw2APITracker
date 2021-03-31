@@ -1,0 +1,42 @@
+{
+  "name": "Strong Rawhide Boots",
+  "description": "",
+  "type": "Armor",
+  "level": 55,
+  "rarity": "Basic",
+  "vendor_value": 24,
+  "default_skin": 19,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 5200,
+  "chat_link": "[\u0026AgFQFAAA]",
+  "icon": "https://render.guildwars2.com/file/E6255C53689406A5E525394273ED04BEB3A0625E/61017.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 57,
+    "infusion_slots": [],
+    "attribute_adjustment": 44.7135,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 16
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 11
+        }
+      ]
+    }
+  }
+}

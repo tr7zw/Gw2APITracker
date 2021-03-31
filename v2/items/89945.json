@@ -1,0 +1,65 @@
+{
+  "name": "Steelstar\u0027s Spire",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of dwarven weaponsmith Frodak Steelstar.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 10000,
+  "default_skin": 4244,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 89945,
+  "chat_link": "[\u0026AgFZXwEA]",
+  "icon": "https://render.guildwars2.com/file/F86C3CD9FA20D20EE920590517993211C6F9B99C/631650.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 1034,
+    "max_power": 1166,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      },
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 717.024,
+    "infix_upgrade": {
+      "id": 1539,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 215
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 118
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 118
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 215
+        }
+      ]
+    }
+  }
+}

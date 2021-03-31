@@ -1,0 +1,41 @@
+{
+  "name": "Penetrating Krytan Axe",
+  "type": "Weapon",
+  "level": 21,
+  "rarity": "Fine",
+  "vendor_value": 24,
+  "default_skin": 5013,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 33514,
+  "chat_link": "[\u0026AgHqggAA]",
+  "icon": "https://render.guildwars2.com/file/FC26BFB3280B24576762056838F7BDCF6243E1BD/61644.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 200,
+    "max_power": 244,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 44.224,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 15
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 11
+        }
+      ]
+    }
+  }
+}

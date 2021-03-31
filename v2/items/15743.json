@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Ogre Breaker",
+  "description": "",
+  "type": "Weapon",
+  "level": 65,
+  "rarity": "Rare",
+  "vendor_value": 248,
+  "default_skin": 4095,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 15743,
+  "chat_link": "[\u0026AgF/PQAA]",
+  "icon": "https://render.guildwars2.com/file/F30EF7E37E706E72941D0BE64BC601966E3EF66F/68681.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 671,
+    "max_power": 757,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 448.272,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 112
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 112
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 157
+        }
+      ]
+    }
+  }
+}

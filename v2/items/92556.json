@@ -1,0 +1,31 @@
+{
+  "name": "Mote of Candied Karma",
+  "description": "Grants a large amount of karma. Affected by karma bonuses.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "BulkConsume",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92556,
+  "chat_link": "[\u0026AgGMaQEA]",
+  "icon": "https://render.guildwars2.com/file/E4CF61BED61BEE7B2829EDF766194CDF617A0F04/2236592.png",
+  "details": {
+    "type": "Immediate"
+  }
+}

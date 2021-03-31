@@ -1,0 +1,45 @@
+{
+  "name": "Enhanced Miner\u0027s Mace Mark G",
+  "description": "\u003cc\u003d@flavor\u003e\"My own invention. You probably can\u0027t see all the subtle enhancements I\u0027ve made, but your enemies will certainly feel them.\"\u003cbr\u003e—Gilli\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 18,
+  "rarity": "Masterwork",
+  "vendor_value": 44,
+  "default_skin": 3964,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30340,
+  "chat_link": "[\u0026AgGEdgAA]",
+  "icon": "https://render.guildwars2.com/file/415D42C379B3AE75721E59D76E5F170926C416C1/65228.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 212,
+    "max_power": 239,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 42.432,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 15
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Norn Spear of Energy",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Rare",
+  "vendor_value": 275,
+  "default_skin": 5089,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25194,
+  "chat_link": "[\u0026AgFqYgAA]",
+  "icon": "https://render.guildwars2.com/file/51FC57D2F234621A5F7A364C29EEFC531B6CF295/779981.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 725,
+    "max_power": 801,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 538.416,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 188
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 135
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 135
+        }
+      ]
+    },
+    "suffix_item_id": 24606
+  }
+}

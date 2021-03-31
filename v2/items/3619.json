@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Prototype Helm",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 25000,
+  "default_skin": 297,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Asura"
+  ],
+  "id": 3619,
+  "chat_link": "[\u0026AgEjDgAA]",
+  "icon": "https://render.guildwars2.com/file/260820A290CB7B17F7921B96225C1861F34EF06D/779799.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 86,
+    "infusion_slots": [],
+    "attribute_adjustment": 150.912,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 38
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 38
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 53
+        }
+      ]
+    }
+  }
+}

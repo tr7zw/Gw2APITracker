@@ -1,0 +1,44 @@
+{
+  "name": "Vigorous Sheepskin Circlet",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 500,
+  "default_skin": 428,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Norn"
+  ],
+  "id": 3763,
+  "chat_link": "[\u0026AgGzDgAA]",
+  "icon": "https://render.guildwars2.com/file/800AC1052A9C0A55EFA510DCF99D0FDB971F4E03/779824.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 24,
+    "infusion_slots": [],
+    "attribute_adjustment": 49.284,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 17
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

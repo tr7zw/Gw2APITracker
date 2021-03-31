@@ -1,0 +1,42 @@
+{
+  "name": "Honed Iron Greatsword",
+  "description": "",
+  "type": "Weapon",
+  "level": 47,
+  "rarity": "Fine",
+  "vendor_value": 63,
+  "default_skin": 4015,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 27414,
+  "chat_link": "[\u0026AgEWawAA]",
+  "icon": "https://render.guildwars2.com/file/1EA00FDAAD23FD1B1B9C4BD6E36EB30A43E21D06/64138.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 408,
+    "max_power": 451,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 242.048,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 85
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 61
+        }
+      ]
+    }
+  }
+}

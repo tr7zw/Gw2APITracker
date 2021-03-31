@@ -1,0 +1,27 @@
+{
+  "name": "Recipe: Owl Amulet",
+  "description": "Unlock yourself a recipe.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 11,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9565,
+  "chat_link": "[\u0026AgFdJQAA]",
+  "icon": "https://render.guildwars2.com/file/BCE40E765BCDE0EC7BCB3007AD7D7DFD05B9AA19/849381.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 3555
+  }
+}

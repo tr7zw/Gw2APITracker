@@ -1,0 +1,48 @@
+{
+  "name": "Soldier\u0027s Predatory Vest",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 2500,
+  "default_skin": 460,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Norn"
+  ],
+  "id": 3779,
+  "chat_link": "[\u0026AgHDDgAA]",
+  "icon": "https://render.guildwars2.com/file/E21499681A5208D92CC57E3D650733D10F3A1F09/779836.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 202,
+    "infusion_slots": [],
+    "attribute_adjustment": 225.99,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 79
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 56
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        }
+      ]
+    }
+  }
+}

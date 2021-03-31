@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Verdant Focus of Battle",
+  "type": "Weapon",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 111,
+  "default_skin": 5189,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34755,
+  "chat_link": "[\u0026AgHDhwAA]",
+  "icon": "https://render.guildwars2.com/file/EE72F14B09A29AFA0F999E1825BAD801471F0106/434870.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 340,
+    "max_power": 361,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 113.472,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 28
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 40
+        }
+      ]
+    },
+    "suffix_item_id": 24602
+  }
+}

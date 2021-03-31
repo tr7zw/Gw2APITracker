@@ -1,0 +1,78 @@
+{
+  "id": 4340,
+  "name": "Mini Springer Kit Collection",
+  "description": "",
+  "requirement": "Unlock all mini springer kits in your wardrobe.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Minipet",
+      "id": 710
+    },
+    {
+      "type": "Minipet",
+      "id": 716
+    },
+    {
+      "type": "Minipet",
+      "id": 711
+    },
+    {
+      "type": "Minipet",
+      "id": 704
+    },
+    {
+      "type": "Minipet",
+      "id": 706
+    },
+    {
+      "type": "Minipet",
+      "id": 702
+    },
+    {
+      "type": "Minipet",
+      "id": 707
+    },
+    {
+      "type": "Minipet",
+      "id": 703
+    },
+    {
+      "type": "Minipet",
+      "id": 708
+    },
+    {
+      "type": "Minipet",
+      "id": 705
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 3
+    },
+    {
+      "count": 10,
+      "points": 6
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 88433,
+      "count": 1
+    }
+  ]
+}

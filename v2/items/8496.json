@@ -1,0 +1,29 @@
+{
+  "name": "Prismatic Soylent",
+  "description": "\"I wonder what the green bits are...\"",
+  "type": "Consumable",
+  "level": 23,
+  "rarity": "Basic",
+  "vendor_value": 8,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 8496,
+  "chat_link": "[\u0026AgEwIQAA]",
+  "icon": "https://render.guildwars2.com/file/93105BB23858EADB613B0B24397C3795AA5BF727/63066.png",
+  "details": {
+    "type": "Food",
+    "duration_ms": 600000,
+    "apply_count": 1,
+    "name": "Nourishment",
+    "icon": "https://render.guildwars2.com/file/779D3F0ABE5B46C09CFC57374DA8CC3A495F291C/436367.png",
+    "description": "+30 Healing\n+10% Experience from Kills"
+  }
+}

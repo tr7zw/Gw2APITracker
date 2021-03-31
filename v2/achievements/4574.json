@@ -1,0 +1,39 @@
+{
+  "id": 4574,
+  "name": "Chasing Tales: Fracture",
+  "description": "\"Send my regards to your master!\"",
+  "requirement": "Defeat 60 Branded enemies while wielding a hammer in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Katarin the Bonecrusher."
+    },
+    {
+      "type": "Text",
+      "text": "Defeated 60 Branded enemies while wielding a hammer in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89755,
+      "count": 1
+    }
+  ]
+}

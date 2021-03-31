@@ -1,0 +1,39 @@
+{
+  "name": "Linen Garment",
+  "type": "Armor",
+  "level": 18,
+  "rarity": "Fine",
+  "vendor_value": 33,
+  "default_skin": 143,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6318,
+  "chat_link": "[\u0026AgGuGAAA]",
+  "icon": "https://render.guildwars2.com/file/E060CCD39DCAC84B0870359D03DE20E9802DA92E/61110.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 50,
+    "infusion_slots": [],
+    "attribute_adjustment": 42.552,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 15
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Carrion Privateer Coat",
+  "description": "",
+  "type": "Armor",
+  "level": 72,
+  "rarity": "Fine",
+  "vendor_value": 90,
+  "default_skin": 46,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 562,
+  "chat_link": "[\u0026AgEyAgAA]",
+  "icon": "https://render.guildwars2.com/file/9E384E500AE801DE793FFB0149BE330BDA542C58/61024.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 220,
+    "infusion_slots": [],
+    "attribute_adjustment": 249.192,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 62
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 62
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 87
+        }
+      ]
+    }
+  }
+}

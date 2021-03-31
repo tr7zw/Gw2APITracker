@@ -1,0 +1,41 @@
+{
+  "name": "Lapis Silver Amulet",
+  "description": "",
+  "type": "Trinket",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 204,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 13568,
+  "chat_link": "[\u0026AgEANQAA]",
+  "icon": "https://render.guildwars2.com/file/59580D095F99B238674EB50F5151DC47DCEDEC71/455632.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 98.568,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 25
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 34
+        }
+      ]
+    },
+    "suffix_item_id": 24900
+  }
+}

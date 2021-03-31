@@ -1,0 +1,40 @@
+{
+  "name": "Ravaging Studded Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 27,
+  "rarity": "Fine",
+  "vendor_value": 26,
+  "default_skin": 59,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 920,
+  "chat_link": "[\u0026AgGYAwAA]",
+  "icon": "https://render.guildwars2.com/file/07A941314810F9342BBBE2970450E1FFE2227430/61031.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 34,
+    "infusion_slots": [],
+    "attribute_adjustment": 21.792,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 5
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

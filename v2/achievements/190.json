@@ -1,0 +1,43 @@
+{
+  "id": 190,
+  "name": "Sanctuary Savior",
+  "description": "Floating glacier city, dead ahead.",
+  "requirement": "Explored Honor of the Waves.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Story Mode"
+    },
+    {
+      "type": "Text",
+      "text": "Explorable Mode—Butcher\u0027s Path"
+    },
+    {
+      "type": "Text",
+      "text": "Explorable Mode—Zealot\u0027s Path"
+    },
+    {
+      "type": "Text",
+      "text": "Explorable Mode—Plunderer\u0027s Path"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 2,
+      "points": 5
+    },
+    {
+      "count": 3,
+      "points": 5
+    },
+    {
+      "count": 4,
+      "points": 5
+    }
+  ]
+}

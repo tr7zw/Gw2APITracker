@@ -1,0 +1,42 @@
+{
+  "name": "Inquest Targeting Reticle",
+  "description": "\u003cc\u003d@flavor\u003e\"I\u0027ve already learned everything I can from it.\"\u003cbr\u003e—Wistt\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 25,
+  "rarity": "Masterwork",
+  "vendor_value": 68,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23949,
+  "chat_link": "[\u0026AgGNXQAA]",
+  "icon": "https://render.guildwars2.com/file/701826D2FCA61752AEECBDE80CF3BD361814FB33/62978.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 36.5075,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 13
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

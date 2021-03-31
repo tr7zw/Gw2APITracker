@@ -1,0 +1,46 @@
+{
+  "name": "Heavy De Molish Chestpiece",
+  "description": "\u003cc\u003d@flavor\u003e\"This chestplate could take a whole dredge tank round at point-blank range and still keep you from feeling it.\"\u003cbr\u003e—Explorer Brokkar\u003c/c\u003e",
+  "type": "Armor",
+  "level": 49,
+  "rarity": "Fine",
+  "vendor_value": 66,
+  "default_skin": 864,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4098,
+  "chat_link": "[\u0026AgECEAAA]",
+  "icon": "https://render.guildwars2.com/file/FA402B55E85FF4D9FF3F08B09E137428E0A3A5B2/61557.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 142,
+    "infusion_slots": [],
+    "attribute_adjustment": 144.432,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 36
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 51
+        }
+      ]
+    }
+  }
+}

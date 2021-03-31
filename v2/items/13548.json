@@ -1,0 +1,41 @@
+{
+  "name": "Topaz Gold Earring",
+  "description": "",
+  "type": "Trinket",
+  "level": 50,
+  "rarity": "Rare",
+  "vendor_value": 169,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 13548,
+  "chat_link": "[\u0026AgHsNAAA]",
+  "icon": "https://render.guildwars2.com/file/C66CC875E22B6075C42AF754A8CD0C6FCB7A1219/433714.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 98.01,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 25
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 34
+        }
+      ]
+    },
+    "suffix_item_id": 24911
+  }
+}

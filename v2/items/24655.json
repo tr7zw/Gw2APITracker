@@ -1,0 +1,54 @@
+{
+  "name": "Superior Sigil of Ogre Slaying",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003ePain\u003cbr\u003eDouble-click to apply to a weapon.",
+  "type": "UpgradeComponent",
+  "level": 60,
+  "rarity": "Exotic",
+  "vendor_value": 216,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24655,
+  "chat_link": "[\u0026AgFPYAAA]",
+  "icon": "https://render.guildwars2.com/file/D947B21C999C455E2EAF9FEDF8080197271CF7E4/221037.png",
+  "details": {
+    "type": "Sigil",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 303,
+      "buff": {
+        "skill_id": 9344,
+        "description": "+7% Damage vs. Ogres\n+3% Damage"
+      },
+      "attributes": []
+    },
+    "suffix": "of Ogre Slaying"
+  }
+}

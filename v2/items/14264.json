@@ -1,0 +1,38 @@
+{
+  "name": "Healing Green Wood Torch",
+  "description": "",
+  "type": "Weapon",
+  "level": 15,
+  "rarity": "Fine",
+  "vendor_value": 20,
+  "default_skin": 3883,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 14264,
+  "chat_link": "[\u0026AgG4NwAA]",
+  "icon": "https://render.guildwars2.com/file/FA56C5DD5D7494F25D980E432BA129F44209ED0E/63136.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 161,
+    "max_power": 189,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 31.744,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 11
+        }
+      ]
+    }
+  }
+}

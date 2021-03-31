@@ -1,0 +1,43 @@
+{
+  "name": "Moss-Covered Emblem",
+  "description": "\u003cc\u003d@flavor\u003e\"Got to admit, I get a weird feeling whenever I hold it.\"\u003cbr\u003e—Issa\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 25,
+  "rarity": "Fine",
+  "vendor_value": 34,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23940,
+  "chat_link": "[\u0026AgGEXQAA]",
+  "icon": "https://render.guildwars2.com/file/AB9731B1DA09D963465D0C9ECD14A6539DA9B44F/66857.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 33,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 8
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

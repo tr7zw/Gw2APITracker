@@ -1,0 +1,42 @@
+{
+  "name": "Recovered Heavy Leggings",
+  "description": "\u003cc\u003d@flavor\u003e\"I found these in some supplies here, which they probably stole from us first.\"\u003cbr\u003e—Seraph Elmder\u003c/c\u003e",
+  "type": "Armor",
+  "level": 9,
+  "rarity": "Fine",
+  "vendor_value": 20,
+  "default_skin": 860,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4665,
+  "chat_link": "[\u0026AgE5EgAA]",
+  "icon": "https://render.guildwars2.com/file/1BE0D496A9C75AC89DD4275CFCBE2F08DB7B2F4D/61242.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Heavy",
+    "defense": 28,
+    "infusion_slots": [],
+    "attribute_adjustment": 15.888,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

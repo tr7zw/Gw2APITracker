@@ -1,0 +1,29 @@
+{
+  "id": 5074,
+  "name": "Mercy of the Toymaker",
+  "description": "A special gift for a hardworking toymaker\u0027s apprentice.",
+  "requirement": "Open  Wintersday presents.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 50,
+      "points": 1
+    },
+    {
+      "count": 1000,
+      "points": 4
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 92586,
+      "count": 1
+    }
+  ]
+}

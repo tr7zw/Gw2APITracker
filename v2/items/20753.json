@@ -1,0 +1,27 @@
+{
+  "name": "Illumination Dye",
+  "description": "Double-click to unlock this dye color for all characters.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 50,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell"
+  ],
+  "restrictions": [],
+  "id": 20753,
+  "chat_link": "[\u0026AgERUQAA]",
+  "icon": "https://render.guildwars2.com/file/DFFC622FB06E0511A49C53961703331CE030E7BC/66649.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "Dye",
+    "color_id": -1
+  }
+}

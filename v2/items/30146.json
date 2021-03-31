@@ -1,0 +1,52 @@
+{
+  "name": "Forge Plains Greatsword",
+  "description": "\u003cc\u003d@flavor\u003e\"Some use water to extinguish flame. I prefer steel.\"\u003cbr\u003e—Corva Sharpclaw\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Fine",
+  "vendor_value": 80,
+  "default_skin": 5218,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30146,
+  "chat_link": "[\u0026AgHCdQAA]",
+  "icon": "https://render.guildwars2.com/file/D8325BBDF9DDCA3F422531492B0CEC7BA34C9ACB/66762.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 551,
+    "max_power": 609,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 357.12,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 89
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 89
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 125
+        }
+      ]
+    }
+  }
+}

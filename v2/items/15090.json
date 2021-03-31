@@ -1,0 +1,42 @@
+{
+  "name": "Honed Steel Shield",
+  "description": "",
+  "type": "Weapon",
+  "level": 45,
+  "rarity": "Fine",
+  "vendor_value": 41,
+  "default_skin": 5689,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 15090,
+  "chat_link": "[\u0026AgHyOgAA]",
+  "icon": "https://render.guildwars2.com/file/222F72EDEC31ACB7BC439499F4DD4AA4A94A6C48/65373.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 317,
+    "max_power": 358,
+    "defense": 22,
+    "infusion_slots": [],
+    "attribute_adjustment": 114.048,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 40
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 29
+        }
+      ]
+    }
+  }
+}

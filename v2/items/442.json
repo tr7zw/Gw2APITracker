@@ -1,0 +1,47 @@
+{
+  "name": "Shaman\u0027s Cabalist Coat of Strength",
+  "description": "",
+  "type": "Armor",
+  "level": 65,
+  "rarity": "Masterwork",
+  "vendor_value": 165,
+  "default_skin": 51,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 442,
+  "chat_link": "[\u0026AgG6AQAA]",
+  "icon": "https://render.guildwars2.com/file/73CEB0F9515E0627321A15DA1CA4A6F3F51A4CE6/61019.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 192,
+    "infusion_slots": [],
+    "attribute_adjustment": 232.866,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 82
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 58
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 58
+        }
+      ]
+    },
+    "suffix_item_id": 24712
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Iron Legion Gear",
+  "description": "\u003cc\u003d@flavor\u003e\"The power of the charr comes from Iron Legion ingenuity.\"\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 8,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23497,
+  "chat_link": "[\u0026AgHJWwAA]",
+  "icon": "https://render.guildwars2.com/file/FC637AA3031B585F5B025B12670C6CD5A5C1BA51/63130.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 7.92,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 3
+        }
+      ]
+    }
+  }
+}

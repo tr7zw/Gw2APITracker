@@ -1,0 +1,51 @@
+{
+  "name": "Trinity Hatchet",
+  "description": "",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Masterwork",
+  "vendor_value": 106,
+  "default_skin": 5017,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32199,
+  "chat_link": "[\u0026AgHHfQAA]",
+  "icon": "https://render.guildwars2.com/file/FC929DD20B9CF622B72E777D0349A225BE755A46/68531.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 514,
+    "max_power": 628,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 194.004,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 68
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 49
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 49
+        }
+      ]
+    },
+    "suffix_item_id": 24570
+  }
+}

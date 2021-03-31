@@ -1,0 +1,49 @@
+{
+  "name": "Pact Quarterstaff",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 297,
+  "default_skin": 4980,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 31161,
+  "chat_link": "[\u0026AgG5eQAA]",
+  "icon": "https://render.guildwars2.com/file/53354FB8DB792899B00AC6A5730F022941C1B305/456075.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 872,
+    "max_power": 984,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 603.648,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 151
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 151
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 211
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

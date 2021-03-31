@@ -1,0 +1,47 @@
+{
+  "name": "Fine Crusader\u0027s Heavy Helm",
+  "description": "\u003cc\u003d@flavor\u003e\"Always vigilant.\"\u003cbr\u003e—Crusader Brice\u003c/c\u003e",
+  "type": "Armor",
+  "level": 54,
+  "rarity": "Masterwork",
+  "vendor_value": 118,
+  "default_skin": 892,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 3982,
+  "chat_link": "[\u0026AgGODwAA]",
+  "icon": "https://render.guildwars2.com/file/E9EEB91BD00673FB2B0DBC04FFAB96A929FF23FB/61559.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 58,
+    "infusion_slots": [],
+    "attribute_adjustment": 79.934,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 20
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 28
+        }
+      ]
+    },
+    "suffix_item_id": 24727
+  }
+}

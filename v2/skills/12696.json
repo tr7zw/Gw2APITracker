@@ -1,0 +1,50 @@
+{
+  "name": "Frost Breath",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 250
+    },
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 25
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 5,
+      "dmg_multiplier": 0.25
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+      "duration": 1,
+      "status": "Chilled",
+      "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
+      "apply_count": 5
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    }
+  ],
+  "description": "Beast. Breathe a cone of frost, damaging and chilling foes.",
+  "icon": "https://render.guildwars2.com/file/C9CC5F16B1371B524005D5CB995797411A2F021A/104040.png",
+  "type": "Pet",
+  "weapon_type": "None",
+  "professions": [],
+  "slot": "Pet",
+  "flags": [
+    "NoUnderwater"
+  ],
+  "id": 12696,
+  "chat_link": "[\u0026BpgxAAA\u003d]"
+}

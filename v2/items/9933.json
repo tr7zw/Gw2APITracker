@@ -1,0 +1,28 @@
+{
+  "name": "Recipe: Godskull Targe",
+  "description": "Double-click to learn a Rare Grawl Recipe.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 33,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9933,
+  "chat_link": "[\u0026AgHNJgAA]",
+  "icon": "https://render.guildwars2.com/file/6908F665B1F1C7D1DBAD77DB24250D2D92A56B9C/849401.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 6290
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Devourer Toy",
+  "description": "\u003cc\u003d@flavor\u003e\"They love these sticks.\"\u003cbr\u003e—Braxa Scalehunter\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 54,
+  "rarity": "Masterwork",
+  "vendor_value": 118,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23546,
+  "chat_link": "[\u0026AgH6WwAA]",
+  "icon": "https://render.guildwars2.com/file/4D80EB58D2C83705292201DF58B3C76FDEB405C9/65906.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 99.9175,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 25
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 35
+        }
+      ]
+    }
+  }
+}

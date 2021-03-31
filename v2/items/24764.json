@@ -1,0 +1,40 @@
+{
+  "name": "Major Rune of Balthazar",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003ePotence\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 108,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24764,
+  "chat_link": "[\u0026AgG8YAAA]",
+  "icon": "https://render.guildwars2.com/file/2AEA022CAA75AF7907C9407E76544308795B2990/221100.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+15 Condition Damage",
+      "+6% Burning Duration",
+      "+30 Condition Damage",
+      "+9% Burning Duration"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of Balthazar"
+  }
+}

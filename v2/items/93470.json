@@ -1,0 +1,43 @@
+{
+  "name": "Ash Legion Backpack",
+  "type": "Back",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 9413,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 93470,
+  "chat_link": "[\u0026AgEebQEA]",
+  "icon": "https://render.guildwars2.com/file/30DE130706C6D271D7CBEBC5DC2565411EBA717C/2292653.png",
+  "details": {
+    "infusion_slots": [],
+    "attribute_adjustment": 85.36,
+    "infix_upgrade": {
+      "id": 753,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 21
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 30
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 21
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1822,
+  "name": "Tangled Paths",
+  "description": "Journal: \"Tangled Paths\" Completed",
+  "requirement": "Track the Aspect Masters across the Maguuma Wastes.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "MoveToTop",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 67980,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Tyria",
+      "id": 230
+    }
+  ]
+}

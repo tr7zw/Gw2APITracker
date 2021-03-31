@@ -1,0 +1,46 @@
+{
+  "name": "Knight\u0027s Noble Boots",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 160,
+  "default_skin": 238,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 11881,
+  "chat_link": "[\u0026AgFpLgAA]",
+  "icon": "https://render.guildwars2.com/file/B57B5B700AF63B1DA0C5739516D6191DFCCE5BF1/61440.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 139,
+    "infusion_slots": [],
+    "attribute_adjustment": 113.184,
+    "infix_upgrade": {
+      "id": 158,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 28
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 28
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 40
+        }
+      ]
+    }
+  }
+}

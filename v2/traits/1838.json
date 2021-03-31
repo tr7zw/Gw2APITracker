@@ -1,0 +1,27 @@
+{
+  "id": 1838,
+  "tier": 1,
+  "order": 0,
+  "name": "Delayed Reactions",
+  "description": "Disabling a foe slows them.\u003cbr\u003e\u003cc\u003d@reminder\u003eDisables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.\u003c/c\u003e\u003cbr\u003e\u003cc\u003d@reminder\u003eThis trait can only affect the same enemy with once per interval.\u003c/c\u003e",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
+      "duration": 3,
+      "status": "Slow",
+      "description": "Skills and actions are slower.",
+      "apply_count": 1
+    },
+    {
+      "text": "Interval",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+      "duration": 3
+    }
+  ],
+  "specialization": 40,
+  "icon": "https://render.guildwars2.com/file/C26CBECA553C29091F1D2C9B05732847E4C3457D/1012475.png"
+}

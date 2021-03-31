@@ -1,0 +1,63 @@
+{
+  "id": 3943,
+  "name": "Mad Mementos",
+  "description": "",
+  "requirement": "Track down firsthand accounts of Mad King Thorn\u0027s rule during Halloween, when the Mad Realm draws near.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 85493
+    },
+    {
+      "type": "Item",
+      "id": 85440
+    },
+    {
+      "type": "Item",
+      "id": 85502
+    },
+    {
+      "type": "Item",
+      "id": 85476
+    },
+    {
+      "type": "Item",
+      "id": 85453
+    },
+    {
+      "type": "Item",
+      "id": 85414
+    },
+    {
+      "type": "Item",
+      "id": 85400
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 7,
+      "points": 10
+    }
+  ],
+  "prerequisites": [
+    3939
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 85442,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Valiant\u0027s Speargun",
+  "description": "\u003cc\u003d@flavor\u003e\"Clean lines for a clean kill.\"\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 39,
+  "rarity": "Masterwork",
+  "vendor_value": 111,
+  "default_skin": 5122,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30130,
+  "chat_link": "[\u0026AgGydQAA]",
+  "icon": "https://render.guildwars2.com/file/0F286F119C53F275016502D17CFAC3E6D7990678/434763.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 342,
+    "max_power": 378,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 207.264,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 52
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 73
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": 4647,
+  "name": "Savage Scholar",
+  "description": "",
+  "requirement": "Collect pages of \"The Warclaw\" book.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 90064
+    },
+    {
+      "type": "Item",
+      "id": 90045
+    },
+    {
+      "type": "Item",
+      "id": 90077
+    },
+    {
+      "type": "Item",
+      "id": 90050
+    },
+    {
+      "type": "Item",
+      "id": 90033
+    },
+    {
+      "type": "Item",
+      "id": 90048
+    },
+    {
+      "type": "Item",
+      "id": 90054
+    },
+    {
+      "type": "Item",
+      "id": 90042
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 8,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 90075,
+      "count": 1
+    }
+  ]
+}

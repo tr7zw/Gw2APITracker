@@ -1,0 +1,48 @@
+{
+  "name": "Soldier\u0027s Lupine Leggings",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 31250,
+  "default_skin": 466,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Norn"
+  ],
+  "id": 3789,
+  "chat_link": "[\u0026AgHNDgAA]",
+  "icon": "https://render.guildwars2.com/file/2A6EC1029EA9B82A30E90414BE4E109ACC2AD903/779842.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Light",
+    "defense": 171,
+    "infusion_slots": [],
+    "attribute_adjustment": 226.368,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 79
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 57
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 57
+        }
+      ]
+    }
+  }
+}

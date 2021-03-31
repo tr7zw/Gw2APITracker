@@ -1,0 +1,27 @@
+{
+  "name": "Snowman Tonic",
+  "description": "Double-click to transform into a snowman. You will be unable to fight while transformed.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "NoUnderwater",
+    "DeleteWarning",
+    "Tonic"
+  ],
+  "restrictions": [],
+  "id": 38061,
+  "chat_link": "[\u0026AgGtlAAA]",
+  "icon": "https://render.guildwars2.com/file/E9B44F6B0ED104E8B8A4F309155999B6D502A774/526133.png",
+  "details": {
+    "type": "Generic"
+  }
+}

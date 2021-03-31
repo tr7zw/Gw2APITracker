@@ -1,0 +1,70 @@
+{
+  "id": 3594,
+  "name": "Lost Lore of Desert Highlands",
+  "description": "",
+  "requirement": "Collect all the pages to complete the book.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 84318
+    },
+    {
+      "type": "Item",
+      "id": 83625
+    },
+    {
+      "type": "Item",
+      "id": 82144
+    },
+    {
+      "type": "Item",
+      "id": 82908
+    },
+    {
+      "type": "Item",
+      "id": 83568
+    },
+    {
+      "type": "Item",
+      "id": 84126
+    },
+    {
+      "type": "Item",
+      "id": 83694
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 82910,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 387
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Soft Wood Staff",
+  "description": "",
+  "type": "Weapon",
+  "level": 35,
+  "rarity": "Masterwork",
+  "vendor_value": 102,
+  "default_skin": 4067,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 13842,
+  "chat_link": "[\u0026AgESNgAA]",
+  "icon": "https://render.guildwars2.com/file/04BE267A42B12DB00F0162639702BDEFC90F4A5D/62880.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 341,
+    "max_power": 384,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 179.248,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 45
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 63
+        }
+      ]
+    }
+  }
+}

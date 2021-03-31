@@ -1,0 +1,49 @@
+{
+  "name": "Nightmare Court Helmet",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 330,
+  "default_skin": 698,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 18603,
+  "chat_link": "[\u0026AgGrSAAA]",
+  "icon": "https://render.guildwars2.com/file/B2F4071080AAF4B1193FD3483F1720DCA2EE69DA/218945.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 121,
+    "infusion_slots": [],
+    "attribute_adjustment": 170.72,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 43
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 43
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 60
+        }
+      ]
+    },
+    "suffix_item_id": 24848
+  }
+}

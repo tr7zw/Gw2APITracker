@@ -1,0 +1,104 @@
+{
+  "name": "Unhindered Delivery",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 450
+    },
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 1
+    },
+    {
+      "text": "StunBreak",
+      "type": "StunBreak",
+      "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+      "value": true
+    },
+    {
+      "text": "Number of Allied Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    },
+    {
+      "text": "Charge Time",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "duration": 25
+    },
+    {
+      "text": "Charge Time",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "duration": 45
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/27F233F7D4CE4E9EFE040E3D665B7B0643557B6E/102883.png",
+      "duration": 8,
+      "status": "Retaliation",
+      "description": "Reflect incoming damage back to its source; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+      "duration": 8,
+      "status": "Stability",
+      "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
+      "apply_count": 5
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+      "duration": 5,
+      "status": "Swiftness",
+      "description": "Movement speed increased by 33%; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 180
+    }
+  ],
+  "description": "Final Charge.Your whispers guard your allies, stabilizing and breaking stuns on them while weakening enemies.",
+  "icon": "https://render.guildwars2.com/file/0E95796B56EC95DD4514457CDA50E962991E0D28/1770462.png",
+  "type": "Elite",
+  "weapon_type": "None",
+  "professions": [
+    "Guardian"
+  ],
+  "slot": "Elite",
+  "flags": [],
+  "specialization": 62,
+  "id": 41328,
+  "chat_link": "[\u0026BnChAAA\u003d]",
+  "traited_facts": [
+    {
+      "text": "Charge Recovery",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "duration": 20,
+      "requires_trait": 2063,
+      "overrides": 4
+    },
+    {
+      "text": "Charge Recovery",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "duration": 36,
+      "requires_trait": 2063,
+      "overrides": 5
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 863,
+  "name": "Minor in Achievement",
+  "description": "...And complete a senior capstone project on bauble theory.",
+  "requirement": "Complete 15 achievements in World 1.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 15,
+      "points": 15
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 46649,
+      "count": 1
+    },
+    {
+      "type": "Title",
+      "id": 134
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 3413,
+  "icon": "https://render.guildwars2.com/file/09DE0653ABAE58F8A048BB7F73D62AD9FCB70F41/1677315.png",
+  "name": "Daily Draconis Mons Event Completer",
+  "description": "Scour the volcano.",
+  "requirement": "Complete four events in Draconis Mons.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Daily"
+  ],
+  "tiers": [
+    {
+      "count": 4,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 81061,
+      "count": 3
+    }
+  ]
+}

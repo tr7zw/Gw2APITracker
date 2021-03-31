@@ -1,0 +1,42 @@
+{
+  "name": "Ravaging Masquerade Raiments",
+  "description": "",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 153,
+  "default_skin": 217,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 11436,
+  "chat_link": "[\u0026AgGsLAAA]",
+  "icon": "https://render.guildwars2.com/file/E156D2564805DE9757E839D3C1044B519E462C53/61355.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 101,
+    "infusion_slots": [],
+    "attribute_adjustment": 110.889,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 28
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 39
+        }
+      ]
+    }
+  }
+}

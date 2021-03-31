@@ -1,0 +1,42 @@
+{
+  "name": "Homespun Garb",
+  "description": "An enhanced version of the standard Homespun armor.",
+  "type": "Armor",
+  "level": 5,
+  "rarity": "Fine",
+  "vendor_value": 20,
+  "default_skin": 863,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92960,
+  "chat_link": "[\u0026AgEgawEA]",
+  "icon": "https://render.guildwars2.com/file/1EA708F67B9901A55B9F5B3AA36EA00EBAAD50F9/61245.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 35,
+    "infusion_slots": [],
+    "attribute_adjustment": 21.888,
+    "stat_choices": [
+      144,
+      145,
+      152,
+      142,
+      146,
+      149,
+      755
+    ]
+  }
+}

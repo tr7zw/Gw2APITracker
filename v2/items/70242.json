@@ -1,0 +1,30 @@
+{
+  "name": "Heroic Booster",
+  "description": "Grants both Experience Booster and Item Booster benefits for 30 minutes:\n• +50% Experience in All Game Types\n• +50% PvP Reward Track Gain\n• Up to 100% Bonus Experience for Kill Streaks\n• +50% Magic Find\n• +50% Chance of Critical Crafting Experience Gain\n• +33% Chance of Extra Gathering Strike\n• 10 seconds of Swiftness after Gathering \n• Summons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minute Cooldown)",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 70242,
+  "chat_link": "[\u0026AgFiEgEA]",
+  "icon": "https://render.guildwars2.com/file/04EB33ACD2E7E6764611DEEB33013D2C1328F8FA/1053298.png",
+  "details": {
+    "type": "Generic"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Deno\u0027s Rebreather",
+  "description": "\u003cc\u003d@flavor\u003e\"When things get too hot up here, you can always cool off down there.\"\u003cbr\u003e—Deno\u003c/c\u003e",
+  "type": "Armor",
+  "level": 41,
+  "rarity": "Masterwork",
+  "vendor_value": 95,
+  "default_skin": 857,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4415,
+  "chat_link": "[\u0026AgE/EQAA]",
+  "icon": "https://render.guildwars2.com/file/E9EEB91BD00673FB2B0DBC04FFAB96A929FF23FB/61559.png",
+  "details": {
+    "type": "HelmAquatic",
+    "weight_class": "Heavy",
+    "defense": 42,
+    "infusion_slots": [],
+    "attribute_adjustment": 55.318,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 14
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 19
+        }
+      ]
+    },
+    "suffix_item_id": 24739
+  }
+}

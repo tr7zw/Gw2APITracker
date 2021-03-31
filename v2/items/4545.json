@@ -1,0 +1,51 @@
+{
+  "name": "Doric Helm",
+  "description": "\u003cc\u003d@flavor\u003e\"Better gear up. After this is Arah itself.\"\u003cbr\u003e—Keeper Lyrda\u003c/c\u003e",
+  "type": "Armor",
+  "level": 79,
+  "rarity": "Masterwork",
+  "vendor_value": 163,
+  "default_skin": 1692,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4545,
+  "chat_link": "[\u0026AgHBEQAA]",
+  "icon": "https://render.guildwars2.com/file/F9C252C8560C035B3E1F0598085A5C32A6ECFA0A/61284.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 59,
+    "infusion_slots": [],
+    "attribute_adjustment": 137.394,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 34
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 34
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 48
+        }
+      ]
+    },
+    "suffix_item_id": 24685
+  }
+}

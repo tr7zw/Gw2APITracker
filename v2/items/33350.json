@@ -1,0 +1,37 @@
+{
+  "name": "Old Pistol",
+  "description": "",
+  "type": "Weapon",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 1,
+  "default_skin": 3864,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoMysticForge",
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 33350,
+  "chat_link": "[\u0026AgFGggAA]",
+  "icon": "https://render.guildwars2.com/file/B4BA303072A62C0AB73A0CBAF0632A38D8B4794A/66190.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 102,
+    "max_power": 120,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 7.8,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    }
+  }
+}

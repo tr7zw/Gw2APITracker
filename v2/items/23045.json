@@ -1,0 +1,30 @@
+{
+  "name": "Mystic Salvage Kit",
+  "description": "Double-click to salvage crafting materials from an item in your inventory. 25% chance of rarer materials. 80% chance of salvaging upgrades.",
+  "type": "Tool",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 192,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23045,
+  "chat_link": "[\u0026AgEFWgAA]",
+  "icon": "https://render.guildwars2.com/file/9F09ACD431CE4906631E271E650ABB0454F90705/63123.png",
+  "details": {
+    "type": "Salvage",
+    "charges": 250
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": 3090,
+  "name": "Bloodstone Harvest",
+  "description": "",
+  "requirement": "Recover the bloodstone slivers that have affected creatures, and collect the remaining slivers in the world before they can do more harm.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 79352
+    },
+    {
+      "type": "Item",
+      "id": 79333
+    },
+    {
+      "type": "Item",
+      "id": 79331
+    },
+    {
+      "type": "Item",
+      "id": 79347
+    },
+    {
+      "type": "Item",
+      "id": 79349
+    },
+    {
+      "type": "Item",
+      "id": 79350
+    },
+    {
+      "type": "Item",
+      "id": 79348
+    },
+    {
+      "type": "Item",
+      "id": 79330
+    },
+    {
+      "type": "Item",
+      "id": 79323
+    },
+    {
+      "type": "Item",
+      "id": 79308
+    },
+    {
+      "type": "Item",
+      "id": 79324
+    },
+    {
+      "type": "Item",
+      "id": 79355
+    },
+    {
+      "type": "Item",
+      "id": 79314
+    },
+    {
+      "type": "Item",
+      "id": 79359
+    },
+    {
+      "type": "Item",
+      "id": 79332
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 3
+    },
+    {
+      "count": 10,
+      "points": 6
+    },
+    {
+      "count": 15,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 79311,
+      "count": 1
+    }
+  ]
+}

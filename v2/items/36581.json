@@ -1,0 +1,44 @@
+{
+  "name": "Husk of the Destroyer",
+  "description": "\u003cc\u003d@flavor\u003eIt glows with hatred.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 36581,
+  "chat_link": "[\u0026AgHljgAA]",
+  "icon": "https://render.guildwars2.com/file/03E1C357EA05636A0801DF6FF94201CD67E001C9/511747.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [],
+    "attribute_adjustment": 256.08,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 64
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 64
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 90
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Seraph Scout Badge",
+  "description": "\u003cc\u003d@flavor\u003e\"The queen and the Seraph honor you.\"\u003cbr\u003e—Erika Rane\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 22,
+  "rarity": "Fine",
+  "vendor_value": 32,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23749,
+  "chat_link": "[\u0026AgHFXAAA]",
+  "icon": "https://render.guildwars2.com/file/5393A43CA27FBDE60D500102342BB21A5FC45910/455903.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 29,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 10
+        }
+      ]
+    }
+  }
+}

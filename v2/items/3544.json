@@ -1,0 +1,48 @@
+{
+  "name": "Berserker\u0027s Dreadnought Hauberk",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 37500,
+  "default_skin": 359,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "id": 3544,
+  "chat_link": "[\u0026AgHYDQAA]",
+  "icon": "https://render.guildwars2.com/file/2572F523D9DF46E9A874692E044E6CCEAB327F12/61131.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 321,
+    "infusion_slots": [],
+    "attribute_adjustment": 339.552,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 119
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 85
+        }
+      ]
+    }
+  }
+}

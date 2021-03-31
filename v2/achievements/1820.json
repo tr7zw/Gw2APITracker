@@ -1,0 +1,27 @@
+{
+  "id": 1820,
+  "name": "Light \u0027Em Up",
+  "description": "Story Instance: Tracking the Aspect Masters",
+  "requirement": "Find an alternative way to destroy the rooted Mordrem leeching thrasher blocking the pathway.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    1822
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 86314,
+      "count": 10
+    }
+  ]
+}

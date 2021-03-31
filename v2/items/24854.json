@@ -1,0 +1,46 @@
+{
+  "name": "Superior Rune of the Baelfire",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003ePotence\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 60,
+  "rarity": "Exotic",
+  "vendor_value": 216,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 24854,
+  "chat_link": "[\u0026AgEWYQAA]",
+  "icon": "https://render.guildwars2.com/file/BE044D76F2F1762634B00A5E4216E7B8C104D1FB/220741.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+25 Power",
+      "+10% Burning Duration",
+      "+50 Power",
+      "+10% Condition Duration",
+      "+100 Power",
+      "+20% Burning Duration; convert 7% of your power into expertise."
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Baelfire"
+  }
+}

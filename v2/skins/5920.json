@@ -1,0 +1,31 @@
+{
+  "name": "Mist Scrim",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe",
+    "HideIfLocked"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 5920,
+  "icon": "https://render.guildwars2.com/file/682023DE0CFF5A9F43B3A058170451B072206003/960112.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        null,
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

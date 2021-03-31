@@ -1,0 +1,49 @@
+{
+  "name": "Mournstone Earring",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 330,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 82478,
+  "chat_link": "[\u0026AgEuQgEA]",
+  "icon": "https://render.guildwars2.com/file/B53B083DDC090C015494E9B45CDF4D9AA84D1AA8/1876159.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 213.4,
+    "infix_upgrade": {
+      "id": 1344,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 64
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 35
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 35
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 64
+        }
+      ]
+    },
+    "suffix_item_id": 82495
+  }
+}

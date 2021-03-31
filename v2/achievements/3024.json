@@ -1,0 +1,29 @@
+{
+  "id": 3024,
+  "name": "Siege the Stronghold",
+  "description": "",
+  "requirement": "Assault the Stronghold of the Faithful and gain access to the courtyard.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 15
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 77869,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 167
+    }
+  ]
+}

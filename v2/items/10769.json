@@ -1,0 +1,42 @@
+{
+  "name": "Strong Gladiator Pauldrons",
+  "description": "",
+  "type": "Armor",
+  "level": 50,
+  "rarity": "Rare",
+  "vendor_value": 149,
+  "default_skin": 226,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 10769,
+  "chat_link": "[\u0026AgERKgAA]",
+  "icon": "https://render.guildwars2.com/file/912EF0F9D5B31F95ED30500AA559EB6AD9783778/61531.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "defense": 58,
+    "infusion_slots": [],
+    "attribute_adjustment": 58.806,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 21
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 15
+        }
+      ]
+    }
+  }
+}

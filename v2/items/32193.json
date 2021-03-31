@@ -1,0 +1,51 @@
+{
+  "name": "Hunting Harpoon",
+  "description": "",
+  "type": "Weapon",
+  "level": 68,
+  "rarity": "Masterwork",
+  "vendor_value": 171,
+  "default_skin": 5089,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32193,
+  "chat_link": "[\u0026AgHBfQAA]",
+  "icon": "https://render.guildwars2.com/file/51FC57D2F234621A5F7A364C29EEFC531B6CF295/779981.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 605,
+    "max_power": 669,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 442.408,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 155
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 111
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 111
+        }
+      ]
+    },
+    "suffix_item_id": 24560
+  }
+}

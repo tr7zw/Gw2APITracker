@@ -1,0 +1,38 @@
+{
+  "name": "Vital Black Earth Trident",
+  "description": "",
+  "type": "Weapon",
+  "level": 13,
+  "rarity": "Fine",
+  "vendor_value": 27,
+  "default_skin": 4712,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 28467,
+  "chat_link": "[\u0026AgEzbwAA]",
+  "icon": "https://render.guildwars2.com/file/B8F4F953BC20F7A7FE9FF7459FD5534F0608730F/574969.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 177,
+    "max_power": 195,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 56.448,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 20
+        }
+      ]
+    }
+  }
+}

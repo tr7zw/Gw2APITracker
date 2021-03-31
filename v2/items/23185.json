@@ -1,0 +1,44 @@
+{
+  "name": "Shaman\u0027s Amulet",
+  "description": "",
+  "type": "Trinket",
+  "level": 65,
+  "rarity": "Exotic",
+  "vendor_value": 440,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23185,
+  "chat_link": "[\u0026AgGRWgAA]",
+  "icon": "https://render.guildwars2.com/file/4D9C6F58C20F052359BA5D1D10B9E4B97ED5F012/66791.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 254.64,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 89
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 64
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 64
+        }
+      ]
+    }
+  }
+}

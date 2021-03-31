@@ -1,0 +1,47 @@
+{
+  "name": "Shaman\u0027s Reinforced Scale Boots of Infiltration",
+  "description": "",
+  "type": "Armor",
+  "level": 77,
+  "rarity": "Masterwork",
+  "vendor_value": 126,
+  "default_skin": 74,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 590,
+  "chat_link": "[\u0026AgFOAgAA]",
+  "icon": "https://render.guildwars2.com/file/17C9516D0F0B2EBA616ED794C00F59411E931702/61014.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 141,
+    "infusion_slots": [],
+    "attribute_adjustment": 99.195,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 35
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 25
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 25
+        }
+      ]
+    },
+    "suffix_item_id": 24705
+  }
+}

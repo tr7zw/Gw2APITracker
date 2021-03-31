@@ -1,0 +1,30 @@
+{
+  "name": "Tiny Sharpening Stone",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 4,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92865,
+  "chat_link": "[\u0026AgHBagEA]",
+  "icon": "https://render.guildwars2.com/file/B6770507DB40138072AA38C600B601222A1C3E3D/219356.png",
+  "details": {
+    "type": "Utility",
+    "duration_ms": 900000,
+    "apply_count": 1,
+    "name": "Enhancement",
+    "icon": "https://render.guildwars2.com/file/64976F59BF060718C9109D36C27AD0F40F06BB32/436368.png",
+    "description": "Gain Power Equal to 1% of Your Precision\n+10% Experience from Kills"
+  }
+}

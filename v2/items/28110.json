@@ -1,0 +1,49 @@
+{
+  "name": "Cleric\u0027s Steam Speargun of Purity",
+  "description": "",
+  "type": "Weapon",
+  "level": 64,
+  "rarity": "Exotic",
+  "vendor_value": 324,
+  "default_skin": 5091,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28110,
+  "chat_link": "[\u0026AgHObQAA]",
+  "icon": "https://render.guildwars2.com/file/935CD7A5037BB9F3C46E0D770D2DD9730ED74A18/62495.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 685,
+    "max_power": 758,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 498.08,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 125
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 125
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 174
+        }
+      ]
+    },
+    "suffix_item_id": 24571
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Dredge Spring",
+  "description": "\u003cc\u003d@flavor\u003eA spring salvaged from a dredge machine.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 16,
+  "rarity": "Masterwork",
+  "vendor_value": 50,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23485,
+  "chat_link": "[\u0026AgG9WwAA]",
+  "icon": "https://render.guildwars2.com/file/FC637AA3031B585F5B025B12670C6CD5A5C1BA51/63130.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 23.6725,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

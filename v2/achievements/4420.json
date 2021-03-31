@@ -1,0 +1,55 @@
+{
+  "id": 4420,
+  "icon": "https://render.guildwars2.com/file/3FB1AE472DF109D022146F26B0F420140BFC26FE/1824200.png",
+  "name": "Requiem: Experiment 3",
+  "description": "\u003cc\u003d@Flavor\u003eIt\u0027s about time.\u003c/c\u003e",
+  "requirement": "Untangle this item from the Mists.",
+  "locked_text": "Acquire a Mist-entangled item.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 88842
+    },
+    {
+      "type": "Item",
+      "id": 88805
+    },
+    {
+      "type": "Item",
+      "id": 88719
+    },
+    {
+      "type": "Item",
+      "id": 88623
+    },
+    {
+      "type": "Item",
+      "id": 88539
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 5,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 88508,
+      "count": 1
+    }
+  ]
+}

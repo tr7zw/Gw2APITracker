@@ -1,0 +1,28 @@
+{
+  "name": "Recipe: Enchanted Rock Pendant",
+  "description": "Double-click to learn a recipe",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 4,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9408,
+  "chat_link": "[\u0026AgHAJAAA]",
+  "icon": "https://render.guildwars2.com/file/29131FB604A414025BD9B15AA04B0FA8F9144370/849349.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 3393
+  }
+}

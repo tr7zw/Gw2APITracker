@@ -1,0 +1,28 @@
+{
+  "id": 4219,
+  "name": "[FTT 202] Intermediate Dynamics—Area Damage Level 2",
+  "description": "",
+  "requirement": "Built / Area Damage Level 1 Turrets",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 10,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    4216
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 87995,
+      "count": 1
+    }
+  ]
+}

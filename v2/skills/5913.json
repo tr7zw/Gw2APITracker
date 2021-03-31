@@ -1,0 +1,71 @@
+{
+  "name": "Explosive Rockets",
+  "facts": [
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 2.75
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 0.01
+    },
+    {
+      "text": "Rate of Fire",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "duration": 4
+    },
+    {
+      "text": "Knockdown",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/61A6A8A161FB7124336A6ED1FBAF9B1E030166A6/156664.png",
+      "duration": 2
+    },
+    {
+      "text": "Duration",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "duration": 4
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 360
+    },
+    {
+      "text": "Attack Range",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "distance": 1000
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 1
+    },
+    {
+      "text": "Explosion",
+      "type": "NoData",
+      "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png"
+    }
+  ],
+  "description": "Overcharge your turret to fire explosive rockets.",
+  "icon": "https://render.guildwars2.com/file/0F727C525F44EE69B2F07696C4D313B9A05DAECA/103432.png",
+  "type": "Utility",
+  "weapon_type": "None",
+  "professions": [
+    "Engineer"
+  ],
+  "slot": "Utility",
+  "flags": [],
+  "id": 5913,
+  "chat_link": "[\u0026BhkXAAA\u003d]"
+}

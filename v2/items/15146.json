@@ -1,0 +1,42 @@
+{
+  "name": "Hearty Iron Hammer",
+  "description": "",
+  "type": "Weapon",
+  "level": 30,
+  "rarity": "Fine",
+  "vendor_value": 47,
+  "default_skin": 4060,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 15146,
+  "chat_link": "[\u0026AgEqOwAA]",
+  "icon": "https://render.guildwars2.com/file/2F4509F15B48B1A9F1579D08539F4109972A31A4/65162.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 281,
+    "max_power": 317,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 133.76,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 33
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 47
+        }
+      ]
+    }
+  }
+}

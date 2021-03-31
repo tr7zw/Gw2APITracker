@@ -1,0 +1,51 @@
+{
+  "name": "Bringer\u0027s Rimed Verdant Mace of Ice",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 9060,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92600,
+  "chat_link": "[\u0026AgG4aQEA]",
+  "icon": "https://render.guildwars2.com/file/01F0E4611EB4A9B8C09DE3F0B0E4ED03C4267B5F/2236560.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 895,
+    "max_power": 1010,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1032,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 85
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 120
+        }
+      ]
+    },
+    "suffix_item_id": 24555
+  }
+}

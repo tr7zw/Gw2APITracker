@@ -1,0 +1,42 @@
+{
+  "name": "Hearty Iron Shield",
+  "description": "",
+  "type": "Weapon",
+  "level": 28,
+  "rarity": "Fine",
+  "vendor_value": 29,
+  "default_skin": 4012,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 26613,
+  "chat_link": "[\u0026AgH1ZwAA]",
+  "icon": "https://render.guildwars2.com/file/222F72EDEC31ACB7BC439499F4DD4AA4A94A6C48/65373.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 219,
+    "max_power": 247,
+    "defense": 14,
+    "infusion_slots": [],
+    "attribute_adjustment": 61.056,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 15
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 21
+        }
+      ]
+    }
+  }
+}

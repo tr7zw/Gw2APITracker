@@ -1,0 +1,46 @@
+{
+  "name": "Light Scout Shoulderguards",
+  "description": "\u003cc\u003d@flavor\u003e\"We had to modify these to free us up during scouting expeditions.\"\u003cbr\u003e—Fahrtak \u003c/c\u003e",
+  "type": "Armor",
+  "level": 50,
+  "rarity": "Fine",
+  "vendor_value": 50,
+  "default_skin": 888,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4425,
+  "chat_link": "[\u0026AgFJEQAA]",
+  "icon": "https://render.guildwars2.com/file/76C75441B9FF20EB323AE15407ED97DDDC789330/61234.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 30,
+    "infusion_slots": [],
+    "attribute_adjustment": 49.512,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 17
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

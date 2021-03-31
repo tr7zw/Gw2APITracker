@@ -1,0 +1,39 @@
+{
+  "id": 2427,
+  "name": "Powered Up",
+  "description": "Those outposts won\u0027t start themselves.",
+  "requirement": "Participate in powering up each of the outposts around Auric Basin.",
+  "locked_text": "Unlock /3 outposts around Tarir.",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Southwatch Creep"
+    },
+    {
+      "type": "Text",
+      "text": "Westwatch Patch"
+    },
+    {
+      "type": "Text",
+      "text": "Northwatch Descent"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    }
+  ]
+}

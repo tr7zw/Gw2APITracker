@@ -1,0 +1,65 @@
+{
+  "name": "Thackeray\u0027s Crusader",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of the Seraph commander, Logan Thackeray.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 10000,
+  "default_skin": 4224,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 80226,
+  "chat_link": "[\u0026AgFiOQEA]",
+  "icon": "https://render.guildwars2.com/file/D5671E9B115F3515E6BAB0D7144B25E41FED1C30/631945.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 1045,
+    "max_power": 1155,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      },
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 717.024,
+    "infix_upgrade": {
+      "id": 1222,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 215
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 118
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 215
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 118
+        }
+      ]
+    }
+  }
+}

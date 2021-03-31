@@ -1,0 +1,48 @@
+{
+  "name": "Rabid Oaken Helm",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 25000,
+  "default_skin": 514,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Sylvari"
+  ],
+  "id": 3676,
+  "chat_link": "[\u0026AgFcDgAA]",
+  "icon": "https://render.guildwars2.com/file/BA3E2F28BAA901E83C66DDEBE065722B4051F973/780939.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 107,
+    "infusion_slots": [],
+    "attribute_adjustment": 150.912,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 38
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 38
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 53
+        }
+      ]
+    }
+  }
+}

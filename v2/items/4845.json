@@ -1,0 +1,46 @@
+{
+  "name": "Pickins\u0027s Light Rebreather",
+  "description": "\u003cc\u003d@flavor\u003e\"What did they think I\u0027d be doing at Seraph\u0027s Landing?\"\u003cbr\u003e—Lieutenant Pickins\u003c/c\u003e",
+  "type": "Armor",
+  "level": 39,
+  "rarity": "Fine",
+  "vendor_value": 47,
+  "default_skin": 855,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4845,
+  "chat_link": "[\u0026AgHtEgAA]",
+  "icon": "https://render.guildwars2.com/file/FA1D042B0845BED8DA3CFA0FAA0837D5EB0207A6/61297.png",
+  "details": {
+    "type": "HelmAquatic",
+    "weight_class": "Light",
+    "defense": 22,
+    "infusion_slots": [],
+    "attribute_adjustment": 47.104,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 12
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 16
+        }
+      ]
+    }
+  }
+}

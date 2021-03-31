@@ -1,0 +1,34 @@
+{
+  "name": "Luminous Medium Pauldrons",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe",
+    "HideIfLocked"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 8249,
+  "icon": "https://render.guildwars2.com/file/91C39FA56007B505F457ECB7A921B50BFBA90B69/2022507.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Medium",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        null,
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        }
+      ],
+      "overrides": {}
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Manifest of Kalla Scorchrazor",
+  "description": "\u003cc\u003d@flavor\u003e\"All are equal when measured under the blade.\"\u003cbr\u003e—Kalla Scorchrazor\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 60,
+  "rarity": "Masterwork",
+  "vendor_value": 130,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23554,
+  "chat_link": "[\u0026AgECXAAA]",
+  "icon": "https://render.guildwars2.com/file/30FF0164E2C800230DE929AD053B9A335D03C2F7/455933.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 115.855,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 29
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 29
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 41
+        }
+      ]
+    }
+  }
+}

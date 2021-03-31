@@ -1,0 +1,29 @@
+{
+  "name": "Tome of Influence",
+  "description": "Add 5 Guild Commendations to your account that can be spent at guild vendors.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Legendary",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse",
+    "DeleteWarning"
+  ],
+  "restrictions": [],
+  "id": 21046,
+  "chat_link": "[\u0026AgE2UgAA]",
+  "icon": "https://render.guildwars2.com/file/1DB12CF3E9D8D3CF77DA805B2008D417EA32C172/699005.png",
+  "details": {
+    "type": "Generic"
+  }
+}

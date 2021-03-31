@@ -1,0 +1,72 @@
+{
+  "id": 4426,
+  "name": "Good, Better, Nest",
+  "description": "\"I find that old friends will come through in a pinch.\"—Taimi",
+  "requirement": "Collect at least 5 gifts for the nest Taimi is building.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Speak to Taimi about Aurene\u0027s nest."
+    },
+    {
+      "type": "Text",
+      "text": "Retrieve a gift from the Free Awakened recruiter at Vabbi\u0027s Necropolis."
+    },
+    {
+      "type": "Text",
+      "text": "Retrieve a gift from Warmaster Steelburn at the Pact Vanguard camp."
+    },
+    {
+      "type": "Text",
+      "text": "Retrieve a gift from Sayida the Sly in Istan."
+    },
+    {
+      "type": "Text",
+      "text": "Retrieve a gift from Zalambur in his office at the Grand Sahil."
+    },
+    {
+      "type": "Text",
+      "text": "Retrieve a gift from Imann in Amnoon\u0027s council chambers."
+    },
+    {
+      "type": "Text",
+      "text": "Retrieve a gift from Mal at Atholma Farms."
+    },
+    {
+      "type": "Text",
+      "text": "Retrieve a gift from Azi at Yatendi Village."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 88714,
+      "count": 1
+    }
+  ]
+}

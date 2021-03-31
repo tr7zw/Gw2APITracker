@@ -1,0 +1,31 @@
+{
+  "name": "Can of Snow Truffle Soup",
+  "type": "Consumable",
+  "level": 70,
+  "rarity": "Fine",
+  "vendor_value": 31,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 78588,
+  "chat_link": "[\u0026AgH8MgEA]",
+  "icon": "https://render.guildwars2.com/file/EE61B8950CBAAC10487EA971A54F093EE9206146/1423815.png",
+  "details": {
+    "type": "Food",
+    "duration_ms": 1800000,
+    "apply_count": 1,
+    "name": "Nourishment",
+    "icon": "https://render.guildwars2.com/file/779D3F0ABE5B46C09CFC57374DA8CC3A495F291C/436367.png",
+    "description": "+80 Condition Damage\n+60 Vitality"
+  }
+}

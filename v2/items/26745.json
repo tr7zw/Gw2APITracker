@@ -1,0 +1,45 @@
+{
+  "name": "Hearty Iron Shield of Venom",
+  "description": "",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Masterwork",
+  "vendor_value": 84,
+  "default_skin": 4012,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26745,
+  "chat_link": "[\u0026AgF5aAAA]",
+  "icon": "https://render.guildwars2.com/file/222F72EDEC31ACB7BC439499F4DD4AA4A94A6C48/65373.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 351,
+    "max_power": 396,
+    "defense": 24,
+    "infusion_slots": [],
+    "attribute_adjustment": 128.588,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 32
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 45
+        }
+      ]
+    },
+    "suffix_item_id": 24631
+  }
+}

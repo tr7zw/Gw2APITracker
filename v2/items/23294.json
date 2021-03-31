@@ -1,0 +1,43 @@
+{
+  "name": "Large Horn",
+  "description": "",
+  "type": "Trinket",
+  "level": 25,
+  "rarity": "Fine",
+  "vendor_value": 34,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23294,
+  "chat_link": "[\u0026AgH+WgAA]",
+  "icon": "https://render.guildwars2.com/file/AA31662624F92ADF714F9FADC8D35C9FE06D5FF3/66804.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 33,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 12
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

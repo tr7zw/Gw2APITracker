@@ -1,0 +1,48 @@
+{
+  "name": "Gaze of the Lich",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 330,
+  "default_skin": 639,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 17950,
+  "chat_link": "[\u0026AgEeRgAA]",
+  "icon": "https://render.guildwars2.com/file/AE2E5FF3E0AD3DE4453C2D910ACEE00FC0E3C948/61517.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 73,
+    "infusion_slots": [],
+    "attribute_adjustment": 170.72,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 60
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 43
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 43
+        }
+      ]
+    },
+    "suffix_item_id": 24860
+  }
+}

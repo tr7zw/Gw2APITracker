@@ -1,0 +1,40 @@
+{
+  "name": "Spinel Silver Amulet",
+  "description": "",
+  "type": "Trinket",
+  "level": 30,
+  "rarity": "Fine",
+  "vendor_value": 62,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix"
+  ],
+  "restrictions": [],
+  "id": 13513,
+  "chat_link": "[\u0026AgHJNAAA]",
+  "icon": "https://render.guildwars2.com/file/C3CEDB4249676D5BF4FA0D5E94A427713CC50A0B/340241.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 66.88,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 17
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 23
+        }
+      ]
+    },
+    "suffix_item_id": 24889
+  }
+}

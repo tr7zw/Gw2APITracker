@@ -1,0 +1,42 @@
+{
+  "id": 23,
+  "name": "Raven Attunement",
+  "requirement": "Travel to Bjora Marches to unlock.",
+  "order": 1,
+  "background": "https://render.guildwars2.com/file/05B8DBF70702F6D598E17199D56B4172C0D836BB/2221483.png",
+  "region": "Tundra",
+  "levels": [
+    {
+      "name": "Raven Bond",
+      "description": "Master your bond with Raven Spirit to open Raven locks.",
+      "instruction": "You can now unlock Raven locks.",
+      "icon": "https://render.guildwars2.com/file/0EC978B80A6ED4BAE178C509275F91530158BB06/2221453.png",
+      "point_cost": 1,
+      "exp_cost": 127000
+    },
+    {
+      "name": "Raven\u0027s Light",
+      "description": "Master your bond with Raven to activate Raven barriers and Raven light shrines.",
+      "instruction": "You can now activate Raven barriers and Raven light shrines.",
+      "icon": "https://render.guildwars2.com/file/1B172CF84525EBB14C1305E4790495E87D104B91/2221454.png",
+      "point_cost": 1,
+      "exp_cost": 635000
+    },
+    {
+      "name": "Raven\u0027s Flight",
+      "description": "Master your bond with Raven to pass through Raven gates.",
+      "instruction": "Use the Raven\u0027s Lens to interact with Raven gates.",
+      "icon": "https://render.guildwars2.com/file/544FB2F2767E4F720B44ED02089DFF3058536200/2248219.png",
+      "point_cost": 2,
+      "exp_cost": 1270000
+    },
+    {
+      "name": "Raven Bright",
+      "description": "Master your bond with Raven and receive greater bonuses from Raven gates and barrier shrines.",
+      "instruction": "Barrier duration doubled. Using Raven gates grants a speed boost.",
+      "icon": "https://render.guildwars2.com/file/10FD02186A03250406F86F6B4414951AF67D5451/2248218.png",
+      "point_cost": 2,
+      "exp_cost": 1600000
+    }
+  ]
+}

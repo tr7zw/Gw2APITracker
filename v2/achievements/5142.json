@@ -1,0 +1,33 @@
+{
+  "id": 5142,
+  "icon": "https://render.guildwars2.com/file/4B6BDF0614656A310E5041F454AA0AE40B26B709/2248191.png",
+  "name": "Strong, Like Ox",
+  "description": "",
+  "requirement": "While performing rites at the Ox Shrine or while fighting Drakkar, prove your bravery to Ox and absorb damage from falling ice orbs.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 2
+    },
+    {
+      "count": 20,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tundra",
+      "id": 488
+    }
+  ]
+}

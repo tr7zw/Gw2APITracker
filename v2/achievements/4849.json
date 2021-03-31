@@ -1,0 +1,40 @@
+{
+  "id": 4849,
+  "name": "Zhaitasty",
+  "description": "",
+  "requirement": "Consume zhaitaffy, the official candy of Dragon Bash.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1000,
+      "points": 3
+    },
+    {
+      "count": 2000,
+      "points": 3
+    },
+    {
+      "count": 3000,
+      "points": 3
+    },
+    {
+      "count": 4000,
+      "points": 3
+    },
+    {
+      "count": 5000,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 43357,
+      "count": 10
+    }
+  ]
+}

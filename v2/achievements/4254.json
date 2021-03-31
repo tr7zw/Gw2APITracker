@@ -1,0 +1,28 @@
+{
+  "id": 4254,
+  "name": "[FTT 206] Intermediate Dynamics—Speed Wall Level 2",
+  "description": "",
+  "requirement": "Built / Speed Wall Level 1 Turrets",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 10,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    4216
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 87848,
+      "count": 1
+    }
+  ]
+}

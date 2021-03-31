@@ -1,0 +1,25 @@
+{
+  "id": 4634,
+  "name": "Warclaw Emblem",
+  "description": "A detailed emblem featuring the warclaw.",
+  "requirement": "Acquire a warclaw emblem by spending one World Ability Point in the Warclaw Mastery section of the WvW menu.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 90041
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ]
+}

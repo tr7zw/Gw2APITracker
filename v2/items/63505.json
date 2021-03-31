@@ -1,0 +1,48 @@
+{
+  "name": "Priory\u0027s Historical Short Bow",
+  "type": "Weapon",
+  "level": 30,
+  "rarity": "Masterwork",
+  "vendor_value": 6900,
+  "default_skin": 4961,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 63505,
+  "chat_link": "[\u0026AgER+AAA]",
+  "icon": "https://render.guildwars2.com/file/A25199553306CD98C6D07D322ADED7017C592010/534347.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 281,
+    "max_power": 310,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 148.24,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 37
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 52
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

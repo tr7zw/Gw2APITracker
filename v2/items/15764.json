@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Ogre Javelin",
+  "description": "",
+  "type": "Weapon",
+  "level": 65,
+  "rarity": "Rare",
+  "vendor_value": 248,
+  "default_skin": 4064,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 15764,
+  "chat_link": "[\u0026AgGUPQAA]",
+  "icon": "https://render.guildwars2.com/file/C196C3BE6E5F99432A6572B47E42DF75D580C206/779901.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 617,
+    "max_power": 682,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 448.272,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 112
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 112
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 157
+        }
+      ]
+    }
+  }
+}

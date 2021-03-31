@@ -1,0 +1,69 @@
+{
+  "id": 3663,
+  "name": "Shadow of a Shadow",
+  "description": "To earn this title, one must prove their commitment to freeing Elona by aiding the Order of Shadows.",
+  "requirement": "Complete all six Order of Shadows achievements.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Achievement: A Redeemer\u0027s Friend"
+    },
+    {
+      "type": "Text",
+      "text": "Achievement: Shadow Patroller"
+    },
+    {
+      "type": "Text",
+      "text": "Achievement: Realm-Portal Spiker"
+    },
+    {
+      "type": "Text",
+      "text": "Achievement: Shadow Sprinter"
+    },
+    {
+      "type": "Text",
+      "text": "Achievement: Sulfur Shooter"
+    },
+    {
+      "type": "Text",
+      "text": "Achievement: Shadows Provisions"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 3
+    },
+    {
+      "count": 6,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 285
+    }
+  ]
+}

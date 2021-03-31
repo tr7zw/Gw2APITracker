@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Krytan Speargun of the Hydromancer",
+  "type": "Weapon",
+  "level": 56,
+  "rarity": "Masterwork",
+  "vendor_value": 147,
+  "default_skin": 4990,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33892,
+  "chat_link": "[\u0026AgFkhAAA]",
+  "icon": "https://render.guildwars2.com/file/A44FA6A23E80D5519D279012FA0B257135EA75C1/61718.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 484,
+    "max_power": 535,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 336.192,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 118
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 84
+        }
+      ]
+    },
+    "suffix_item_id": 24595
+  }
+}

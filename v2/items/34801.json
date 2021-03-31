@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Verdant Trident of Ogre Slaying",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Rare",
+  "vendor_value": 189,
+  "default_skin": 5054,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34801,
+  "chat_link": "[\u0026AgHxhwAA]",
+  "icon": "https://render.guildwars2.com/file/6D126635BBC9073DD91750273A03797490A093F4/434899.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 427,
+    "max_power": 472,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 280.512,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 70
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 98
+        }
+      ]
+    },
+    "suffix_item_id": 24656
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": 75,
+  "name": "From Howl to Silence",
+  "description": "Your honor is restored. However, you must prepare for a greater danger.",
+  "requirement": "Complete the charr personal story step \"Ever Vigilant,\" \"Research and Destroy,\" or \"Whispers of Vengeance.\"",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tyria",
+      "id": 217
+    }
+  ]
+}

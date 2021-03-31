@@ -1,0 +1,51 @@
+{
+  "name": "Settler\u0027s Conjurer Shoes of Divinity",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 88,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 42435,
+  "chat_link": "[\u0026AgHDpQAA]",
+  "icon": "https://render.guildwars2.com/file/1E4E050554D30302E21164155F653E07D80B9A3D/61042.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 133,
+    "infusion_slots": [],
+    "attribute_adjustment": 128.04,
+    "infix_upgrade": {
+      "id": 693,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 45
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 32
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 32
+        }
+      ]
+    },
+    "suffix_item_id": 24732
+  }
+}

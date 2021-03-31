@@ -1,0 +1,57 @@
+{
+  "id": 4709,
+  "name": "Skyscale Saddle",
+  "description": "",
+  "requirement": "Gather components for Gorrik to make a saddle so that you can ride your skyscale.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 90756
+    },
+    {
+      "type": "Item",
+      "id": 90571
+    },
+    {
+      "type": "Item",
+      "id": 90333
+    },
+    {
+      "type": "Item",
+      "id": 90684
+    },
+    {
+      "type": "Item",
+      "id": 90498
+    },
+    {
+      "type": "Item",
+      "id": 90572
+    },
+    {
+      "type": "Item",
+      "id": 90342
+    }
+  ],
+  "tiers": [
+    {
+      "count": 7,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 90824,
+      "count": 1
+    }
+  ]
+}

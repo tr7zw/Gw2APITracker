@@ -1,0 +1,48 @@
+{
+  "name": "Skinning Knife",
+  "description": "\u003cc\u003d@flavor\u003e\"For those large hides that you just can\u0027t get clean.\"\u003cbr\u003e—Lyot\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 33,
+  "rarity": "Fine",
+  "vendor_value": 33,
+  "default_skin": 5114,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29455,
+  "chat_link": "[\u0026AgEPcwAA]",
+  "icon": "https://render.guildwars2.com/file/FDFA591D37EE36CF7DE4D50A49D3C8C80E246A5D/534279.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 282,
+    "max_power": 300,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 75.584,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 26
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 19
+        }
+      ]
+    }
+  }
+}

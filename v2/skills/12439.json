@@ -1,0 +1,40 @@
+{
+  "name": "Eat Owl Egg",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 30
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+      "duration": 6,
+      "status": "Regeneration",
+      "description": "Gain health every second; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+      "duration": 6,
+      "status": "Swiftness",
+      "description": "Movement speed increased by 33%; stacks duration.",
+      "apply_count": 1
+    }
+  ],
+  "description": "Eat an owl\u0027s egg to gain swiftnesss and regeneration.",
+  "icon": "https://render.guildwars2.com/file/23A3644A7C25F9ACCD64C00AE90858C2C2F2A61C/102934.png",
+  "type": "Toolbelt",
+  "weapon_type": "None",
+  "slot": "Toolbelt",
+  "professions": [
+    "Engineer"
+  ],
+  "flags": [],
+  "id": 12439,
+  "chat_link": "[\u0026BpcwAAA\u003d]"
+}

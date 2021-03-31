@@ -1,0 +1,40 @@
+{
+  "name": "Honed Acolyte Mantle",
+  "description": "",
+  "type": "Armor",
+  "level": 45,
+  "rarity": "Fine",
+  "vendor_value": 46,
+  "default_skin": 157,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 11006,
+  "chat_link": "[\u0026AgH+KgAA]",
+  "icon": "https://render.guildwars2.com/file/035B7F50F3E7A8DC75FF29EF0306011A3650A55D/61094.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 26,
+    "infusion_slots": [],
+    "attribute_adjustment": 42.768,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 15
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 11
+        }
+      ]
+    }
+  }
+}

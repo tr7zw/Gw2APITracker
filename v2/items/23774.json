@@ -1,0 +1,43 @@
+{
+  "name": "Order of Whispers Secret Note",
+  "description": "\u003cc\u003d@flavor\u003e\"B2 12 89 12 92\"\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 48,
+  "rarity": "Masterwork",
+  "vendor_value": 108,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23774,
+  "chat_link": "[\u0026AgHeXAAA]",
+  "icon": "https://render.guildwars2.com/file/2BD5FC4332E7236F46282C5BEDCC0F2CE97A905E/65589.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 85.255,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 21
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 30
+        }
+      ]
+    }
+  }
+}

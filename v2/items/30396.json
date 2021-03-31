@@ -1,0 +1,44 @@
+{
+  "name": "Tamini Shield",
+  "description": "\u003cc\u003d@flavor\u003e\"It doesn\u0027t look like much, but it\u0027ll stop a blow.\"\u003cbr\u003e—Seraph\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 8,
+  "rarity": "Fine",
+  "vendor_value": 13,
+  "default_skin": 4595,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30396,
+  "chat_link": "[\u0026AgG8dgAA]",
+  "icon": "https://render.guildwars2.com/file/40D42193932BDD2F953B5A1D26C6650C7E2DBE99/64925.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 141,
+    "max_power": 158,
+    "defense": 7,
+    "infusion_slots": [],
+    "attribute_adjustment": 19.456,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 7
+        }
+      ]
+    }
+  }
+}

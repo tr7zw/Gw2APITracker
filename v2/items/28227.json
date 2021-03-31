@@ -1,0 +1,49 @@
+{
+  "name": "Cleric\u0027s Iron Rifle of Grawl Slaying",
+  "description": "",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Rare",
+  "vendor_value": 239,
+  "default_skin": 4092,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28227,
+  "chat_link": "[\u0026AgFDbgAA]",
+  "icon": "https://render.guildwars2.com/file/167018D742BBF5120BE4ACE80DE5B049089D20F2/62700.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 637,
+    "max_power": 778,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 420.048,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 105
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 105
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 147
+        }
+      ]
+    },
+    "suffix_item_id": 24647
+  }
+}

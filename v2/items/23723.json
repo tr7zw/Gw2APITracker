@@ -1,0 +1,39 @@
+{
+  "name": "Measuring Spoon",
+  "description": "\u003cc\u003d@flavor\u003e\"Make sure to use heaping spoonfuls.\"\u003cbr\u003e—Eda\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 4,
+  "rarity": "Fine",
+  "vendor_value": 12,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23723,
+  "chat_link": "[\u0026AgGrXAAA]",
+  "icon": "https://render.guildwars2.com/file/6F2215EB6E98B707DA6214AABF510667A6CE6609/66821.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 9.36,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 3
+        }
+      ]
+    }
+  }
+}

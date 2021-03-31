@@ -1,0 +1,24 @@
+{
+  "id": 2634,
+  "name": "Tarir Challenge Winner",
+  "description": "Win one of the challenges during the Invasion of Tarir.",
+  "requirement": "Place first in / of the Tarir challenges.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 87
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Pineapple Dye",
+  "description": "Double-click to unlock this dye color for all characters.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "DeleteWarning"
+  ],
+  "restrictions": [],
+  "id": 94033,
+  "chat_link": "[\u0026AgFRbwEA]",
+  "icon": "https://render.guildwars2.com/file/A9C5C9AD4595ADE6270A5AFD72D4E653B8529548/2332434.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "Dye",
+    "color_id": -1
+  }
+}

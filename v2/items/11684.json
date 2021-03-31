@@ -1,0 +1,42 @@
+{
+  "name": "Ravaging Outlaw Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Masterwork",
+  "vendor_value": 62,
+  "default_skin": 251,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 11684,
+  "chat_link": "[\u0026AgGkLQAA]",
+  "icon": "https://render.guildwars2.com/file/E20CE44079D7F3CD5C3850302AA1DB5A06F9B391/61424.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 47,
+    "infusion_slots": [],
+    "attribute_adjustment": 33.609,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 8
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

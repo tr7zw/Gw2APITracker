@@ -1,0 +1,38 @@
+{
+  "name": "Healing Seeker Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 44,
+  "default_skin": 250,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 11681,
+  "chat_link": "[\u0026AgGhLQAA]",
+  "icon": "https://render.guildwars2.com/file/F3AB3D9EACF432D77B6BCC2F5FA0B3DE9D11E042/61418.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 30,
+    "infusion_slots": [],
+    "attribute_adjustment": 17.6205,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

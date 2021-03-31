@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Glyphic Ward of Smoldering",
+  "type": "Weapon",
+  "level": 44,
+  "rarity": "Masterwork",
+  "vendor_value": 80,
+  "default_skin": 5207,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34642,
+  "chat_link": "[\u0026AgFShwAA]",
+  "icon": "https://render.guildwars2.com/file/A2B7C080B75DCC1C65DB50746CB0E90356240667/434774.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 337,
+    "max_power": 380,
+    "defense": 23,
+    "infusion_slots": [],
+    "attribute_adjustment": 121.176,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 30
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 42
+        }
+      ]
+    },
+    "suffix_item_id": 24622
+  }
+}

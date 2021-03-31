@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Soft Wood Staff of Smoldering",
+  "description": "",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Masterwork",
+  "vendor_value": 159,
+  "default_skin": 4067,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27698,
+  "chat_link": "[\u0026AgEybAAA]",
+  "icon": "https://render.guildwars2.com/file/04BE267A42B12DB00F0162639702BDEFC90F4A5D/62880.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 590,
+    "max_power": 666,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 388.008,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 136
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 97
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 97
+        }
+      ]
+    },
+    "suffix_item_id": 24622
+  }
+}

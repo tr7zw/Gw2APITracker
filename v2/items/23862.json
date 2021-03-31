@@ -1,0 +1,39 @@
+{
+  "name": "Deputy Peacemaker Badge",
+  "description": "\u003cc\u003d@flavor\u003e\"This badge confers upon you all of the responsibilites of a peacemaker with none of the credit.\"\u003cbr\u003e—Peacemaker Owta\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 13,
+  "rarity": "Fine",
+  "vendor_value": 23,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23862,
+  "chat_link": "[\u0026AgE2XQAA]",
+  "icon": "https://render.guildwars2.com/file/5192966328AD06F3A33812C0C3056CDD1E9EBC66/66848.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 17.64,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

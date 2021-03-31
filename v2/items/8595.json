@@ -1,0 +1,28 @@
+{
+  "name": "Crab Cake",
+  "type": "Consumable",
+  "level": 49,
+  "rarity": "Basic",
+  "vendor_value": 12,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 8595,
+  "chat_link": "[\u0026AgGTIQAA]",
+  "icon": "https://render.guildwars2.com/file/0D58AC75D4C3BE195CBD7CE714B00A5CDDD92E66/63080.png",
+  "details": {
+    "type": "Food",
+    "duration_ms": 600000,
+    "apply_count": 1,
+    "name": "Nourishment",
+    "icon": "https://render.guildwars2.com/file/779D3F0ABE5B46C09CFC57374DA8CC3A495F291C/436367.png",
+    "description": "+60 Vitality\n+120 Power When Health below 50%\n+10% Experience from Kills"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Mark of Penetration",
+  "description": "Double-click to apply to an item with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 20,
+  "rarity": "Fine",
+  "vendor_value": 24,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24887,
+  "chat_link": "[\u0026AgE3YQAA]",
+  "icon": "https://render.guildwars2.com/file/993CCAB067058053C0CE1B10BF096EDE2C670B49/223401.png",
+  "details": {
+    "type": "Gem",
+    "flags": [
+      "ShortBow",
+      "HeavyArmor",
+      "LightArmor",
+      "Dagger",
+      "MediumArmor",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Trinket",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 475,
+      "buff": {
+        "skill_id": 266,
+        "description": "+5 Precision\n+2 Ferocity"
+      },
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 5
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 2
+        }
+      ]
+    },
+    "suffix": "of Penetration"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Ash Legion Crafting Box",
+  "description": "Double-click to open.\nContains a choice of Stormcaller weapon recipes (dagger, pistol, short bow, or sword), crafting material coffers, mission documents, or charr salvage.",
+  "type": "Container",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 93378,
+  "chat_link": "[\u0026AgHCbAEA]",
+  "icon": "https://render.guildwars2.com/file/65AEE33144CC0E692494800D38E1D79A036CCB02/2292729.png",
+  "details": {
+    "type": "Default"
+  }
+}

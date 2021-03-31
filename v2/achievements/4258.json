@@ -1,0 +1,34 @@
+{
+  "id": 4258,
+  "name": "Valor Beyond Valor",
+  "description": "",
+  "requirement": "Receive the Gandaran Service Medal and the Tyrian Service Medal.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Awarded the Gandaran Service Medal for exemplary valor."
+    },
+    {
+      "type": "Text",
+      "text": "Awarded the Tyrian Service Medal for indomitable courage."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 87904,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Tribal Shield of Vision",
+  "type": "Weapon",
+  "level": 70,
+  "rarity": "Exotic",
+  "vendor_value": 236,
+  "default_skin": 5197,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34167,
+  "chat_link": "[\u0026AgF3hQAA]",
+  "icon": "https://render.guildwars2.com/file/EC179D7A530DED2405B82D09F076A5F5F5C55367/61006.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 682,
+    "max_power": 768,
+    "defense": 51,
+    "infusion_slots": [],
+    "attribute_adjustment": 282.48,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 71
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 71
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 99
+        }
+      ]
+    },
+    "suffix_item_id": 24600
+  }
+}

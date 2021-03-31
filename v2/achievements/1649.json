@@ -1,0 +1,27 @@
+{
+  "id": 1649,
+  "name": "A Shocking Development",
+  "description": "Story Instance: Disturbance in Brisban Wildlands",
+  "requirement": "Use the Golemites against their master.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    1641
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 66605,
+      "count": 1
+    }
+  ]
+}

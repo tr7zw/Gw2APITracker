@@ -1,0 +1,26 @@
+{
+  "name": "Guild Banquet",
+  "description": "Spawns a banquet table, keg and various other party items which players can eat and drink from. Lasts 1 hour.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 0,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 39703,
+  "chat_link": "[\u0026AgEXmwAA]",
+  "icon": "https://render.guildwars2.com/file/67B5A0E1799E30733001FF0D330317340AB03210/543936.png",
+  "details": {
+    "type": "Generic"
+  }
+}

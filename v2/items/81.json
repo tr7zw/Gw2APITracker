@@ -1,0 +1,38 @@
+{
+  "name": "Mighty Studded Boots",
+  "description": "",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 4,
+  "default_skin": 48,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NotUpgradeable"
+  ],
+  "restrictions": [],
+  "id": 81,
+  "chat_link": "[\u0026AgFRAAAA]",
+  "icon": "https://render.guildwars2.com/file/C05DCA62E84D18EF46D5357C217956C55BC3063E/61013.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 12,
+    "infusion_slots": [],
+    "attribute_adjustment": 3.861,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 1
+        }
+      ]
+    }
+  }
+}

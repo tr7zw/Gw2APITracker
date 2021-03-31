@@ -1,0 +1,51 @@
+{
+  "name": "Truyere Legwraps",
+  "description": "\u003cc\u003d@flavor\u003e\"You\u0027d think it would be easier to clean the tar off these.\"\u003cbr\u003e-Legionnaire Kress Rustmaw\u003c/c\u003e",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Masterwork",
+  "vendor_value": 146,
+  "default_skin": 903,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4356,
+  "chat_link": "[\u0026AgEEEQAA]",
+  "icon": "https://render.guildwars2.com/file/286FF8C0AB4C43C0FBB194BB4403657DA075E1C0/61276.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Light",
+    "defense": 107,
+    "infusion_slots": [],
+    "attribute_adjustment": 139.026,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 35
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 35
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 49
+        }
+      ]
+    },
+    "suffix_item_id": 24739
+  }
+}

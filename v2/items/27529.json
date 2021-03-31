@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Iron Greatsword of Peril",
+  "description": "",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Masterwork",
+  "vendor_value": 159,
+  "default_skin": 4015,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27529,
+  "chat_link": "[\u0026AgGJawAA]",
+  "icon": "https://render.guildwars2.com/file/1EA00FDAAD23FD1B1B9C4BD6E36EB30A43E21D06/64138.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 597,
+    "max_power": 659,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 388.008,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 136
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 97
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 97
+        }
+      ]
+    },
+    "suffix_item_id": 24619
+  }
+}

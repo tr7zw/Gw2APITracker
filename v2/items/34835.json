@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Verdant Mace of Corruption",
+  "type": "Weapon",
+  "level": 67,
+  "rarity": "Rare",
+  "vendor_value": 168,
+  "default_skin": 5190,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34835,
+  "chat_link": "[\u0026AgETiAAA]",
+  "icon": "https://render.guildwars2.com/file/649CA05D9835F6BF1615DEBD3006660829F41B7D/434873.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 634,
+    "max_power": 715,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 234.216,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 59
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 59
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 82
+        }
+      ]
+    },
+    "suffix_item_id": 24577
+  }
+}

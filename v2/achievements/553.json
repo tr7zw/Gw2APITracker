@@ -1,0 +1,43 @@
+{
+  "id": 553,
+  "name": "Bachelor of Secrets, World 1",
+  "description": "Bombs not included.",
+  "requirement": "Find all of the hidden rooms (excluding furniture shops) in World 1, Zone 2.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Next to a shop."
+    },
+    {
+      "type": "Text",
+      "text": "Near rushing water."
+    },
+    {
+      "type": "Text",
+      "text": "Low, underneath the trees."
+    },
+    {
+      "type": "Text",
+      "text": "Past the big hollow log."
+    },
+    {
+      "type": "Text",
+      "text": "Ground level, before a checkpoint."
+    },
+    {
+      "type": "Text",
+      "text": "This water tastes improper."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 6,
+      "points": 5
+    }
+  ]
+}

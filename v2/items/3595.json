@@ -1,0 +1,44 @@
+{
+  "name": "Lingering Protean Leggings",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 750,
+  "default_skin": 274,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Asura"
+  ],
+  "id": 3595,
+  "chat_link": "[\u0026AgELDgAA]",
+  "icon": "https://render.guildwars2.com/file/E9BB45A3ED2F3070ACE672B0D0C56A09BB3B9462/339729.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Medium",
+    "defense": 70,
+    "infusion_slots": [],
+    "attribute_adjustment": 73.926,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 18
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 26
+        }
+      ]
+    }
+  }
+}

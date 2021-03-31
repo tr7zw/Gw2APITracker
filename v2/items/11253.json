@@ -1,0 +1,46 @@
+{
+  "name": "Valkyrie Masquerade Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 160,
+  "default_skin": 247,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 11253,
+  "chat_link": "[\u0026AgH1KwAA]",
+  "icon": "https://render.guildwars2.com/file/6329B19E9F9603C1AD46D0A4C347DA0604A0DAAB/61358.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 118,
+    "infusion_slots": [],
+    "attribute_adjustment": 113.184,
+    "infix_upgrade": {
+      "id": 157,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 40
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 28
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 28
+        }
+      ]
+    }
+  }
+}

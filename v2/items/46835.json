@@ -1,0 +1,56 @@
+{
+  "name": "Occam\u0027s Reaver",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of the renowned Sylvari smith, Occam.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 10000,
+  "default_skin": 4184,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 46835,
+  "chat_link": "[\u0026AgHztgAA]",
+  "icon": "https://render.guildwars2.com/file/A619984ED5E67B5FC9C2310776AF071B1A4C3CB8/631923.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 900,
+    "max_power": 1100,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 90
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 90
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 125
+        }
+      ]
+    }
+  }
+}

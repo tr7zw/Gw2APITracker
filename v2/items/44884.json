@@ -1,0 +1,28 @@
+{
+  "name": "Basic Ore Node Pack",
+  "description": "Double-click to create copper, silver, and gold mining nodes in your home instance. Each node can be mined once per day.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 44884,
+  "chat_link": "[\u0026AgFUrwAA]",
+  "icon": "https://render.guildwars2.com/file/116DD826056B64F35AA13AB3EE111594EB62B50D/699313.png",
+  "details": {
+    "type": "Generic"
+  }
+}

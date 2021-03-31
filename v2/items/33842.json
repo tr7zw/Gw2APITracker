@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Krytan Dagger of Smoldering",
+  "type": "Weapon",
+  "level": 44,
+  "rarity": "Masterwork",
+  "vendor_value": 80,
+  "default_skin": 4997,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33842,
+  "chat_link": "[\u0026AgEyhAAA]",
+  "icon": "https://render.guildwars2.com/file/C625750CE2F7D60366E594CEBC20697439F92A19/61659.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 386,
+    "max_power": 410,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 121.176,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 42
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 30
+        }
+      ]
+    },
+    "suffix_item_id": 24622
+  }
+}

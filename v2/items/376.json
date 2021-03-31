@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Magician Coat of Vampirism",
+  "description": "",
+  "type": "Armor",
+  "level": 39,
+  "rarity": "Masterwork",
+  "vendor_value": 111,
+  "default_skin": 37,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 376,
+  "chat_link": "[\u0026AgF4AQAA]",
+  "icon": "https://render.guildwars2.com/file/D1BBAB94232E2AD1F1253D573D45C4DCECDF0E02/61018.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 104,
+    "infusion_slots": [],
+    "attribute_adjustment": 116.586,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 29
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 41
+        }
+      ]
+    },
+    "suffix_item_id": 24709
+  }
+}

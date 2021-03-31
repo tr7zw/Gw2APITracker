@@ -1,0 +1,62 @@
+{
+  "id": 2332,
+  "name": "Machined Longbow",
+  "description": "",
+  "requirement": "Collect all  items to forge your Machined Longbow.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 6448
+    },
+    {
+      "type": "Item",
+      "id": 76308
+    },
+    {
+      "type": "Item",
+      "id": 76373
+    },
+    {
+      "type": "Item",
+      "id": 73650
+    },
+    {
+      "type": "Item",
+      "id": 75842
+    },
+    {
+      "type": "Item",
+      "id": 71967
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 74535,
+      "count": 1
+    }
+  ]
+}

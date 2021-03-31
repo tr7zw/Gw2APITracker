@@ -1,0 +1,28 @@
+{
+  "name": "Upgrade Extractor",
+  "description": "This tool will remove the upgrades from any item, without destroying either the upgrade or the item.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 20349,
+  "chat_link": "[\u0026AgF9TwAA]",
+  "icon": "https://render.guildwars2.com/file/0E92A458B335144232EB357A3C96DB273B09AD3B/674829.png",
+  "details": {
+    "type": "UpgradeRemoval"
+  }
+}

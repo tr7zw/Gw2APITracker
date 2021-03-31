@@ -1,0 +1,51 @@
+{
+  "name": "Mirage Thrust",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 600
+    },
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 1
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 1
+    },
+    {
+      "text": "Daze",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
+      "duration": 0
+    },
+    {
+      "text": "Combo Finisher",
+      "type": "ComboFinisher",
+      "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+      "percent": 100,
+      "finisher_type": "Leap"
+    }
+  ],
+  "description": "Ambush. Lunge at your foe and strike them with your sword, briefly dazing them. Leave behind a clone at your original location.",
+  "icon": "https://render.guildwars2.com/file/609505304F1D0AB548710E92335E5F550D7E396E/1770511.png",
+  "type": "Weapon",
+  "weapon_type": "Sword",
+  "professions": [
+    "Mesmer"
+  ],
+  "slot": "Weapon_1",
+  "flags": [
+    "NoUnderwater"
+  ],
+  "specialization": 59,
+  "id": 45230,
+  "chat_link": "[\u0026Bq6wAAA\u003d]"
+}

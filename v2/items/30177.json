@@ -1,0 +1,49 @@
+{
+  "name": "Duskrend Dagger",
+  "description": "\u003cc\u003d@flavor\u003e\"A good spy needs a sharp blade and a quicker tongue.\"\u003cbr\u003e—Jahr Duskrend\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 49,
+  "rarity": "Masterwork",
+  "vendor_value": 88,
+  "default_skin": 4009,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30177,
+  "chat_link": "[\u0026AgHhdQAA]",
+  "icon": "https://render.guildwars2.com/file/3254C66ED1675657E0B7C2FBBC09FBF2FBAA74A6/62762.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 430,
+    "max_power": 457,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 140.284,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 35
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 49
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

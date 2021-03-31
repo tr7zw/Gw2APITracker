@@ -1,0 +1,42 @@
+{
+  "name": "Vigorous Gladiator Boots",
+  "description": "",
+  "type": "Armor",
+  "level": 50,
+  "rarity": "Rare",
+  "vendor_value": 135,
+  "default_skin": 229,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 10812,
+  "chat_link": "[\u0026AgE8KgAA]",
+  "icon": "https://render.guildwars2.com/file/E203A0B67642F814299FD622DF2F522A13B321B3/61526.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 86,
+    "infusion_slots": [],
+    "attribute_adjustment": 58.806,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 21
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 15
+        }
+      ]
+    }
+  }
+}

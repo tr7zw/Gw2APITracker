@@ -1,0 +1,42 @@
+{
+  "name": "Ravaging Scale Pauldrons",
+  "description": "",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Masterwork",
+  "vendor_value": 75,
+  "default_skin": 224,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 10442,
+  "chat_link": "[\u0026AgHKKAAA]",
+  "icon": "https://render.guildwars2.com/file/1DAB2F089B95C809E9B042EA6F63ABCF7D32CC4F/61389.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "defense": 36,
+    "infusion_slots": [],
+    "attribute_adjustment": 33.609,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 8
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

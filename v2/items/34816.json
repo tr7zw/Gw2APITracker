@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Verdant Focus of Energy",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Rare",
+  "vendor_value": 183,
+  "default_skin": 5189,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34816,
+  "chat_link": "[\u0026AgEAiAAA]",
+  "icon": "https://render.guildwars2.com/file/EE72F14B09A29AFA0F999E1825BAD801471F0106/434870.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 666,
+    "max_power": 707,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 269.208,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 67
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 67
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 94
+        }
+      ]
+    },
+    "suffix_item_id": 24606
+  }
+}

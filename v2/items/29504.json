@@ -1,0 +1,48 @@
+{
+  "name": "Travelen Greatsword",
+  "description": "\u003cc\u003d@flavor\u003e\"My dad makes the sharpest blades around. Try one for yourself.\"\u003cbr\u003e—Disa\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 43,
+  "rarity": "Fine",
+  "vendor_value": 60,
+  "default_skin": 4015,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29504,
+  "chat_link": "[\u0026AgFAcwAA]",
+  "icon": "https://render.guildwars2.com/file/1EA00FDAAD23FD1B1B9C4BD6E36EB30A43E21D06/64138.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 377,
+    "max_power": 416,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 214.912,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 54
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 75
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Carrion Banded Helm of Hoelbrak",
+  "description": "",
+  "type": "Armor",
+  "level": 75,
+  "rarity": "Rare",
+  "vendor_value": 233,
+  "default_skin": 104,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 1832,
+  "chat_link": "[\u0026AgEoBwAA]",
+  "icon": "https://render.guildwars2.com/file/0AA7D7BCDD5D55B99E162197BF27439BF52EA4AF/61066.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 98,
+    "infusion_slots": [],
+    "attribute_adjustment": 137.34,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 34
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 34
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 48
+        }
+      ]
+    },
+    "suffix_item_id": 24728
+  }
+}

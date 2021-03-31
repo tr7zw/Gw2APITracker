@@ -1,0 +1,40 @@
+{
+  "name": "Major Rune of the Eagle",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eBrilliance\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 108,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24722,
+  "chat_link": "[\u0026AgGSYAAA]",
+  "icon": "https://render.guildwars2.com/file/B8565FC81408905306730C07E4311309D4F612F0/221072.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+15 Precision",
+      "+21 Ferocity",
+      "+30 Precision",
+      "+39 Ferocity"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Eagle"
+  }
+}

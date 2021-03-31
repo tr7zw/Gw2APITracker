@@ -1,0 +1,50 @@
+{
+  "name": "Doric Mask",
+  "description": "\u003cc\u003d@flavor\u003e\"Better gear up. After this is Arah itself.\"\u003cbr\u003e—Keeper Lyrda\u003c/c\u003e",
+  "type": "Armor",
+  "level": 79,
+  "rarity": "Fine",
+  "vendor_value": 82,
+  "default_skin": 927,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4531,
+  "chat_link": "[\u0026AgGzEQAA]",
+  "icon": "https://render.guildwars2.com/file/65A30FD6F92209F4CE27C439682740F5B2F60D3A/61236.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 72,
+    "infusion_slots": [],
+    "attribute_adjustment": 126.912,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 32
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 32
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 44
+        }
+      ]
+    }
+  }
+}

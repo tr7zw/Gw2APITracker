@@ -1,0 +1,29 @@
+{
+  "name": "Laureate Coin Booster",
+  "description": "Double-click to gain an enhancement that increases your coins from kills by 30% for one hour.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 39111,
+  "chat_link": "[\u0026AgHHmAAA]",
+  "icon": "https://render.guildwars2.com/file/539147152917010369E5146C09324AB5A502B8E3/534202.png",
+  "details": {
+    "type": "Halloween"
+  }
+}

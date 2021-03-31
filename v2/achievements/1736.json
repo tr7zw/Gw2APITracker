@@ -1,0 +1,66 @@
+{
+  "id": 1736,
+  "name": "Acolyte of Dwayna",
+  "description": "\u003cc\u003d@flavor\u003e\"Give solace and shelter to those who need it. Be ye a salve to the wounded.\"\u003c/c\u003e\n—Scriptures of Dwayna, 115 BE",
+  "requirement": "Prove your piety by collecting all of the vestments of Dwayna.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 39476
+    },
+    {
+      "type": "Item",
+      "id": 39479
+    },
+    {
+      "type": "Item",
+      "id": 67197
+    },
+    {
+      "type": "Skin",
+      "id": 2382
+    },
+    {
+      "type": "Skin",
+      "id": 4766
+    },
+    {
+      "type": "Skin",
+      "id": 4756
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 2
+    },
+    {
+      "count": 3,
+      "points": 3
+    },
+    {
+      "count": 6,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 67221,
+      "count": 1
+    },
+    {
+      "type": "Title",
+      "id": 205
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Terebinth Leaf",
+  "description": "\u003cc\u003d@flavor\u003e\"You can still feel magic pulsing through it\u0027s veins.\"\u003cbr\u003e—Leigheara\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 17,
+  "rarity": "Fine",
+  "vendor_value": 27,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23902,
+  "chat_link": "[\u0026AgFeXQAA]",
+  "icon": "https://render.guildwars2.com/file/CDB7C0030CF276C418EF0E3AB54A03EFF36EC5FA/223879.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 22.28,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Soldier\u0027s Duelist Pauldrons",
+  "description": "",
+  "type": "Armor",
+  "level": 70,
+  "rarity": "Fine",
+  "vendor_value": 152,
+  "default_skin": 909,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6889,
+  "chat_link": "[\u0026AgHpGgAA]",
+  "icon": "https://render.guildwars2.com/file/74ED3739EB2161422FB3FA0F786FD6A33BE069B7/61030.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Medium",
+    "defense": 61,
+    "infusion_slots": [],
+    "attribute_adjustment": 79.728,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 28
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 20
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 20
+        }
+      ]
+    }
+  }
+}

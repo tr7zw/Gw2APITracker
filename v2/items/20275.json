@@ -1,0 +1,42 @@
+{
+  "name": "Primeval Warboots",
+  "description": "",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "default_skin": 1102,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 20275,
+  "chat_link": "[\u0026AgEzTwAA]",
+  "icon": "https://render.guildwars2.com/file/F5F9DE17A53529FBAD23E2557752ED9CBBB16579/625774.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 18,
+    "infusion_slots": [],
+    "attribute_adjustment": 5.346,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 2
+        }
+      ]
+    }
+  }
+}

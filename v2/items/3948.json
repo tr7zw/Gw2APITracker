@@ -1,0 +1,45 @@
+{
+  "name": "Shadow Leggings",
+  "description": "",
+  "type": "Armor",
+  "level": 25,
+  "rarity": "Masterwork",
+  "vendor_value": 76,
+  "default_skin": 882,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 3948,
+  "chat_link": "[\u0026AgFsDwAA]",
+  "icon": "https://render.guildwars2.com/file/E0B6B62791B577CCFED135210A44464D2AB36C6B/61264.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Light",
+    "defense": 42,
+    "infusion_slots": [],
+    "attribute_adjustment": 43.809,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 11
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 15
+        }
+      ]
+    },
+    "suffix_item_id": 24727
+  }
+}

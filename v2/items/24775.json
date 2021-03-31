@@ -1,0 +1,40 @@
+{
+  "name": "Major Rune of Lyssa",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eBrilliance\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 108,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24775,
+  "chat_link": "[\u0026AgHHYAAA]",
+  "icon": "https://render.guildwars2.com/file/6D2AF76A2CEE6031FBE610B1BCB949B246D4FE4E/221106.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+15 Precision",
+      "+3% Condition Duration",
+      "+30 Precision",
+      "+6% Boon Duration"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of Lyssa"
+  }
+}

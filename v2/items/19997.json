@@ -1,0 +1,27 @@
+{
+  "name": "Experience Booster",
+  "description": "Double-click to gain an enhancement that grants an additional 50% experience from kills for one hour.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 0,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 19997,
+  "chat_link": "[\u0026AgEdTgAA]",
+  "icon": "https://render.guildwars2.com/file/433FE6E01CDA243EDBDC24F96F06D5FC2FAF195A/66584.png",
+  "details": {
+    "type": "Halloween"
+  }
+}

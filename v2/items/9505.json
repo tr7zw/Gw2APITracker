@@ -1,0 +1,28 @@
+{
+  "name": "Recipe: Greatsword",
+  "description": "A recipe to make a Greatsword",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 18,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9505,
+  "chat_link": "[\u0026AgEhJQAA]",
+  "icon": "https://render.guildwars2.com/file/121CF546B9A8A6F20F142E95BF07CC5118A0D6B1/849356.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 5417
+  }
+}

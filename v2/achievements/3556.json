@@ -1,0 +1,43 @@
+{
+  "id": 3556,
+  "name": "Domain of Vabbi Bounty Tour",
+  "description": "",
+  "requirement": "Complete a bounty from each bounty board location in the Domain of Vabbi.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Academy Bounty Board"
+    },
+    {
+      "type": "Text",
+      "text": "Garden Bounty Board"
+    },
+    {
+      "type": "Text",
+      "text": "Necropolis Bounty Board"
+    },
+    {
+      "type": "Text",
+      "text": "Vehjin Bounty Board"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 2
+    },
+    {
+      "count": 4,
+      "points": 5
+    }
+  ]
+}

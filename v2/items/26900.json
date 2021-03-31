@@ -1,0 +1,45 @@
+{
+  "name": "Strong Iron Pistol of Smoldering",
+  "description": "",
+  "type": "Weapon",
+  "level": 59,
+  "rarity": "Masterwork",
+  "vendor_value": 102,
+  "default_skin": 3875,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26900,
+  "chat_link": "[\u0026AgEUaQAA]",
+  "icon": "https://render.guildwars2.com/file/C43656C1551C9A5A1A931EAC2901BD0FBA3BE3E1/62830.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 497,
+    "max_power": 583,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 181.084,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 63
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 45
+        }
+      ]
+    },
+    "suffix_item_id": 24622
+  }
+}

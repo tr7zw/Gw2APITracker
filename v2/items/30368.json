@@ -1,0 +1,44 @@
+{
+  "name": "Portal Shatterer",
+  "description": "\u003cc\u003d@flavor\u003e\"Perhaps now they\u0027ll stay closed.\"\u003cbr\u003e—Historian Garrod\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 15,
+  "rarity": "Fine",
+  "vendor_value": 20,
+  "default_skin": 3892,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30368,
+  "chat_link": "[\u0026AgGgdgAA]",
+  "icon": "https://render.guildwars2.com/file/2696C7FBBB99549E700204A9A11F75B0D50CEC2E/65334.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 182,
+    "max_power": 206,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 31.744,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 11
+        }
+      ]
+    }
+  }
+}

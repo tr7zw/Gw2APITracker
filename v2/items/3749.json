@@ -1,0 +1,44 @@
+{
+  "name": "Strong Scout\u0027s Gloves",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 425,
+  "default_skin": 384,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Human"
+  ],
+  "id": 3749,
+  "chat_link": "[\u0026AgGlDgAA]",
+  "icon": "https://render.guildwars2.com/file/42A6F138712EC04E632F0B163C18DBA4C41FEBE1/218909.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 51,
+    "infusion_slots": [],
+    "attribute_adjustment": 36.963,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 13
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

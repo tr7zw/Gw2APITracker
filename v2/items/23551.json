@@ -1,0 +1,47 @@
+{
+  "name": "Sentinel Survival Badge",
+  "description": "\u003cc\u003d@flavor\u003e\"Live to fight another day.\"\u003cbr\u003e—Sentinel Jaggedclaw\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 58,
+  "rarity": "Masterwork",
+  "vendor_value": 125,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23551,
+  "chat_link": "[\u0026AgH/WwAA]",
+  "icon": "https://render.guildwars2.com/file/09CF1C9B3FCF30206660E1B771B70F59FCB75AF8/455932.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 110.458,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 28
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 28
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 39
+        }
+      ]
+    }
+  }
+}

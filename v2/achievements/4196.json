@@ -1,0 +1,28 @@
+{
+  "id": 4196,
+  "name": "[FTT 306] Proficient Dynamics—Speed Wall Level 3",
+  "description": "",
+  "requirement": "Applied / Speed Wall Level 2 Upgrades",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 8,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    4254
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 87813,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 3214,
+  "name": "Quirky Quaggan Quest",
+  "description": "",
+  "requirement": "Find all seven stanzas of the quaggan epic poem.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Found the First Stanza"
+    },
+    {
+      "type": "Text",
+      "text": "Found the Second Stanza"
+    },
+    {
+      "type": "Text",
+      "text": "Found the Third Stanza"
+    },
+    {
+      "type": "Text",
+      "text": "Found the Fourth Stanza"
+    },
+    {
+      "type": "Text",
+      "text": "Found the Fifth Stanza"
+    },
+    {
+      "type": "Text",
+      "text": "Found the Sixth Stanza"
+    },
+    {
+      "type": "Text",
+      "text": "Delivered All Lost Stanzas to Neekoolaa and Obtained the Seventh Stanza"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 7,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 292
+    }
+  ]
+}

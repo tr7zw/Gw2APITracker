@@ -1,0 +1,42 @@
+{
+  "name": "Honed Noble Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 50,
+  "rarity": "Rare",
+  "vendor_value": 122,
+  "default_skin": 252,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 12053,
+  "chat_link": "[\u0026AgEVLwAA]",
+  "icon": "https://render.guildwars2.com/file/04D6DAB3CCB0CF65A2CEE2F7BAA4CFC44CBA369C/61442.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 75,
+    "infusion_slots": [],
+    "attribute_adjustment": 58.806,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 21
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 15
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Doric Horn",
+  "description": "\u003cc\u003d@flavor\u003e\"We are here. You need only call.\"\u003cbr\u003e—Keeper Lyrda\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 75,
+  "rarity": "Masterwork",
+  "vendor_value": 124,
+  "default_skin": 5135,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30303,
+  "chat_link": "[\u0026AgFfdgAA]",
+  "icon": "https://render.guildwars2.com/file/C53447B67026644C55327A0C420A16A7A33468CB/62795.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 616,
+    "max_power": 681,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 254.252,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 64
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 64
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 89
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

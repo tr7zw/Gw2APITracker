@@ -1,0 +1,47 @@
+{
+  "name": "Superior Rune of the Krait",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eBrilliance\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 60,
+  "rarity": "Legendary",
+  "vendor_value": 0,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse",
+    "DeleteWarning"
+  ],
+  "restrictions": [],
+  "id": 91435,
+  "chat_link": "[\u0026AgErZQEA]",
+  "icon": "https://render.guildwars2.com/file/3CEECEBACCC4E7D25DBC79C7A4B5B2933AB01DE3/2179567.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+25 Condition Damage",
+      "+10% Bleeding Duration",
+      "+50 Condition Damage",
+      "+20% Bleeding Duration",
+      "+100 Condition Damage",
+      "+20% Bleeding Duration; inflict bleeding, torment, and poison to nearby foes for 8 seconds after using an elite skill . \u003cc\u003d@reminder\u003e(Cooldown: 30 Seconds)\u003c/c\u003e"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Krait"
+  }
+}

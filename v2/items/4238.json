@@ -1,0 +1,40 @@
+{
+  "name": "Iron Legion\u0027s Helm",
+  "description": "",
+  "type": "Armor",
+  "level": 17,
+  "rarity": "Masterwork",
+  "vendor_value": 53,
+  "default_skin": 869,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4238,
+  "chat_link": "[\u0026AgGOEAAA]",
+  "icon": "https://render.guildwars2.com/file/0B476306B2C800456645D324E4EBF19AC2AA4EBE/61241.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 21,
+    "infusion_slots": [],
+    "attribute_adjustment": 20.094,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 7
+        }
+      ]
+    }
+  }
+}

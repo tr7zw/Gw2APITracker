@@ -1,0 +1,51 @@
+{
+  "name": "Wren Pauldrons",
+  "description": "\u003cc\u003d@flavor\u003e\"We\u0027re under constant attack, so we have to be constantly on our guard.\"\u003cbr\u003e—Lightbringer Zykk\u003c/c\u003e",
+  "type": "Armor",
+  "level": 77,
+  "rarity": "Masterwork",
+  "vendor_value": 139,
+  "default_skin": 911,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4540,
+  "chat_link": "[\u0026AgG8EQAA]",
+  "icon": "https://render.guildwars2.com/file/28F97A1A446918DA29AF051C59D0F4D293DDA9B1/61272.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "defense": 94,
+    "infusion_slots": [],
+    "attribute_adjustment": 99.195,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 25
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 25
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 35
+        }
+      ]
+    },
+    "suffix_item_id": 24685
+  }
+}

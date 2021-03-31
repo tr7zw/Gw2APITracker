@@ -1,0 +1,43 @@
+{
+  "name": "Incendio Pauldrons",
+  "description": "\u003cc\u003d@flavor\u003e\"These will come in handy during a long battle.\"\u003cbr\u003e—Remaris Earshot\u003c/c\u003e",
+  "type": "Armor",
+  "level": 24,
+  "rarity": "Masterwork",
+  "vendor_value": 58,
+  "default_skin": 871,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4193,
+  "chat_link": "[\u0026AgFhEAAA]",
+  "icon": "https://render.guildwars2.com/file/6E60FB219D0308B954EAF4FFC85B2ED0BF6E6B00/61243.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "defense": 26,
+    "infusion_slots": [],
+    "attribute_adjustment": 21.0375,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 7
+        }
+      ]
+    },
+    "suffix_item_id": 24739
+  }
+}

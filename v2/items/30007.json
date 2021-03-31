@@ -1,0 +1,45 @@
+{
+  "name": "Blood Legion Shield",
+  "description": "\u003cc\u003d@flavor\u003e\"Conquer all.\"\u003cbr\u003e—Blood Legion Motto\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 15,
+  "rarity": "Masterwork",
+  "vendor_value": 40,
+  "default_skin": 4698,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30007,
+  "chat_link": "[\u0026AgE3dQAA]",
+  "icon": "https://render.guildwars2.com/file/9D9E6377F81F671F46BCCDF46776560FFD0C08E8/63704.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 178,
+    "max_power": 201,
+    "defense": 10,
+    "infusion_slots": [],
+    "attribute_adjustment": 35.632,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 12
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

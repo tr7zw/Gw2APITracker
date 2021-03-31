@@ -1,0 +1,42 @@
+{
+  "name": "Hearty Soft Wood Torch",
+  "description": "",
+  "type": "Weapon",
+  "level": 33,
+  "rarity": "Fine",
+  "vendor_value": 33,
+  "default_skin": 3890,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 27242,
+  "chat_link": "[\u0026AgFqagAA]",
+  "icon": "https://render.guildwars2.com/file/FA56C5DD5D7494F25D980E432BA129F44209ED0E/63136.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 241,
+    "max_power": 283,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 75.584,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 19
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 26
+        }
+      ]
+    }
+  }
+}

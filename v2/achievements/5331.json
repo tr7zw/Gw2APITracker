@@ -1,0 +1,31 @@
+{
+  "id": 5331,
+  "name": "Mysterious Journal",
+  "description": "",
+  "requirement": "Collect  scraps of paper in the Drizzlewood Coast.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 8,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 93421,
+      "count": 1
+    }
+  ]
+}

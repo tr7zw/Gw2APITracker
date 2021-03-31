@@ -1,0 +1,29 @@
+{
+  "id": 3355,
+  "name": "Lord Slayer",
+  "description": "A legacy earned in blood.",
+  "requirement": "Earn glory in Legacy of the Foefire by completing these achievements.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 267
+    },
+    {
+      "type": "Coins",
+      "count": 50000
+    }
+  ]
+}

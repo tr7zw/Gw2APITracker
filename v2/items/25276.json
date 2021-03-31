@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Etched Revolver of Blood",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Exotic",
+  "vendor_value": 212,
+  "default_skin": 5046,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25276,
+  "chat_link": "[\u0026AgG8YgAA]",
+  "icon": "https://render.guildwars2.com/file/64C61748E9C62469980CB2EEEC67B3D737FFB75D/779892.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 640,
+    "max_power": 751,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 238.4,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 83
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 60
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 60
+        }
+      ]
+    },
+    "suffix_item_id": 24570
+  }
+}

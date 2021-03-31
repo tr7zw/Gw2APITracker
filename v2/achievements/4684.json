@@ -1,0 +1,45 @@
+{
+  "id": 4684,
+  "name": "Skyscale of Blood",
+  "description": "",
+  "requirement": "Infuse your skyscale egg with blood.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 90337
+    },
+    {
+      "type": "Item",
+      "id": 90469
+    },
+    {
+      "type": "Item",
+      "id": 90761
+    },
+    {
+      "type": "Item",
+      "id": 90941
+    }
+  ],
+  "tiers": [
+    {
+      "count": 4,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 90425,
+      "count": 1
+    }
+  ]
+}

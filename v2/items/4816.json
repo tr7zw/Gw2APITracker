@@ -1,0 +1,47 @@
+{
+  "name": "Private Felix\u0027s Cloth Gloves",
+  "description": "\u003cc\u003d@flavor\u003e\"I should have had these on for that ambush.\"\u003cbr\u003e—Private Felix\u003c/c\u003e",
+  "type": "Armor",
+  "level": 37,
+  "rarity": "Masterwork",
+  "vendor_value": 63,
+  "default_skin": 918,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4816,
+  "chat_link": "[\u0026AgHQEgAA]",
+  "icon": "https://render.guildwars2.com/file/A94A90E821ED20EA0839D396D36F0E28424D80BE/61263.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 42,
+    "infusion_slots": [],
+    "attribute_adjustment": 36.2355,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 13
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 9
+        }
+      ]
+    },
+    "suffix_item_id": 24730
+  }
+}

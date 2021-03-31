@@ -1,0 +1,51 @@
+{
+  "name": "Soldier\u0027s Bandit Demolisher",
+  "description": "",
+  "type": "Weapon",
+  "level": 65,
+  "rarity": "Masterwork",
+  "vendor_value": 1148,
+  "default_skin": 4066,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 35395,
+  "chat_link": "[\u0026AgFDigAA]",
+  "icon": "https://render.guildwars2.com/file/9F2A3E0B0459DECE750DD093742720B1F49E9F9A/66735.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 622,
+    "max_power": 701,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 413.984,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 145
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 103
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 103
+        }
+      ]
+    }
+  }
+}

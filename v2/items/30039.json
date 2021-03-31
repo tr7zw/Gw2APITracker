@@ -1,0 +1,44 @@
+{
+  "name": "Ash Legion Shield",
+  "description": "\u003cc\u003d@flavor\u003e\"Don\u0027t be seen.\"\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 12,
+  "rarity": "Fine",
+  "vendor_value": 17,
+  "default_skin": 4723,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30039,
+  "chat_link": "[\u0026AgFXdQAA]",
+  "icon": "https://render.guildwars2.com/file/EA12EBFE13169A64BF70EF460C0E37C91035FDAD/68224.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 154,
+    "max_power": 174,
+    "defense": 8,
+    "infusion_slots": [],
+    "attribute_adjustment": 26.496,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

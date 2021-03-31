@@ -1,0 +1,29 @@
+{
+  "id": 4460,
+  "name": "Favored by the Djinn",
+  "description": "You\u0027ve proven yourself a valiant warrior in Djinn\u0027s Dominion.",
+  "requirement": "Gain Yasmi\u0027s favor by completing these achievements.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 320
+    },
+    {
+      "type": "Coins",
+      "count": 50000
+    }
+  ]
+}

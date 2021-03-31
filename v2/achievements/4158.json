@@ -1,0 +1,46 @@
+{
+  "id": 4158,
+  "name": "(Annual) World 1 Classic",
+  "description": "For when you want to relive the original experience.",
+  "requirement": "Complete Zone 1, Zone 2, and Zone 3 in World 1.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Zone 01"
+    },
+    {
+      "type": "Text",
+      "text": "Zone 02"
+    },
+    {
+      "type": "Text",
+      "text": "Zone 03"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 2,
+      "points": 0
+    },
+    {
+      "count": 3,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 41886,
+      "count": 2
+    }
+  ]
+}

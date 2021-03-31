@@ -1,0 +1,27 @@
+{
+  "name": "Recipe: Arctodus Amulet",
+  "description": "Unlock yourself a recipe.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 40,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9607,
+  "chat_link": "[\u0026AgGHJQAA]",
+  "icon": "https://render.guildwars2.com/file/B8091D3A3FF0C21E315559B2B276100CB8247D4A/849372.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 3722
+  }
+}

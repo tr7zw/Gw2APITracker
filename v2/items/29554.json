@@ -1,0 +1,53 @@
+{
+  "name": "Inka Focus",
+  "description": "\u003cc\u003d@flavor\u003e\"Sometimes you to need to invent your own scientific method. I call mine \u0027The Alchemical Method of Summoning Stones, by Inka.\u0027 It\u0027s a little wordy, but then, so am I.\"\u003cbr\u003e—Scholar Inka\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 73,
+  "rarity": "Masterwork",
+  "vendor_value": 122,
+  "default_skin": 3887,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29554,
+  "chat_link": "[\u0026AgFycwAA]",
+  "icon": "https://render.guildwars2.com/file/EF62B7FE5B45A1181C362E635301E1BAA8FDCC44/65104.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 608,
+    "max_power": 646,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 244.8,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 61
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 61
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 86
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

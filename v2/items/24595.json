@@ -1,0 +1,54 @@
+{
+  "name": "Minor Sigil of Hydromancy",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eControl\u003cbr\u003eDouble-click to apply to a weapon.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 16,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24595,
+  "chat_link": "[\u0026AgETYAAA]",
+  "icon": "https://render.guildwars2.com/file/0729CED7DFF7F9DBD548E7A2420776DF1E33590B/221000.png",
+  "details": {
+    "type": "Sigil",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 246,
+      "buff": {
+        "skill_id": 9426,
+        "description": "Damage nearby foes and chill them for 1 second when you swap to this weapon while in combat.\u003cbr\u003e\u003cc\u003d@reminder\u003e(Cooldown: 9 Seconds)\u003c/c\u003e"
+      },
+      "attributes": []
+    },
+    "suffix": "of the Hydromancer"
+  }
+}

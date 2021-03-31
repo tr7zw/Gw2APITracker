@@ -1,0 +1,52 @@
+{
+  "name": "Modniir Impaler",
+  "description": "",
+  "type": "Weapon",
+  "level": 43,
+  "rarity": "Masterwork",
+  "vendor_value": 120,
+  "default_skin": 4645,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29218,
+  "chat_link": "[\u0026AgEicgAA]",
+  "icon": "https://render.guildwars2.com/file/B657AA1B42B1539114B194A4A44EA60A46556657/67729.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 371,
+    "max_power": 410,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 235.28,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 82
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 59
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 59
+        }
+      ]
+    }
+  }
+}

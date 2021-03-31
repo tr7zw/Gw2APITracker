@@ -1,0 +1,49 @@
+{
+  "name": "Cleric\u0027s Soft Wood Focus of Debility",
+  "description": "",
+  "type": "Weapon",
+  "level": 79,
+  "rarity": "Rare",
+  "vendor_value": 195,
+  "default_skin": 3887,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27309,
+  "chat_link": "[\u0026AgGtagAA]",
+  "icon": "https://render.guildwars2.com/file/EF62B7FE5B45A1181C362E635301E1BAA8FDCC44/65104.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 725,
+    "max_power": 770,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 296.424,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 74
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 74
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 104
+        }
+      ]
+    },
+    "suffix_item_id": 24635
+  }
+}

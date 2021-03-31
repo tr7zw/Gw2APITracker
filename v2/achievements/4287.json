@@ -1,0 +1,27 @@
+{
+  "id": 4287,
+  "name": "Boss of Bosses",
+  "description": "",
+  "requirement": "Complete  Boss Blitz meta-event in the Crown Pavilion.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 5
+    }
+  ],
+  "point_cap": 25,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 66224,
+      "count": 20
+    }
+  ]
+}

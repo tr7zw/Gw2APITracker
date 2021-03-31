@@ -1,0 +1,47 @@
+{
+  "name": "Survivor\u0027s Kessene Wreath",
+  "type": "Weapon",
+  "level": 23,
+  "rarity": "Masterwork",
+  "vendor_value": 56,
+  "default_skin": 4994,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 52586,
+  "chat_link": "[\u0026AgFqzQAA]",
+  "icon": "https://render.guildwars2.com/file/BBFD79A8C5A7AF067FF2B9BF385E713291465869/61665.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 234,
+    "max_power": 249,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 61.744,
+    "infix_upgrade": {
+      "id": 1013,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 15
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 22
+        }
+      ]
+    }
+  }
+}

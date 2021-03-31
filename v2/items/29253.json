@@ -1,0 +1,40 @@
+{
+  "name": "Norn Axe",
+  "description": "",
+  "type": "Weapon",
+  "level": 5,
+  "rarity": "Fine",
+  "vendor_value": 10,
+  "default_skin": 5084,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix"
+  ],
+  "restrictions": [],
+  "id": 29253,
+  "chat_link": "[\u0026AgFFcgAA]",
+  "icon": "https://render.guildwars2.com/file/C7DFB75197D3DF2D94D4275A7832293B2A5EDF63/575160.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 140,
+    "max_power": 171,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 15.744,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

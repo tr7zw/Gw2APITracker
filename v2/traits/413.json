@@ -1,0 +1,31 @@
+{
+  "id": 413,
+  "tier": 3,
+  "order": 0,
+  "name": "Compounding Chemicals",
+  "description": "Heal yourself when you grant yourself a boon. Gain increased concentration.",
+  "slot": "Minor",
+  "facts": [
+    {
+      "text": "Healing",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "value": 37,
+      "target": "Healing"
+    },
+    {
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/6574560606F6BA1B32E9CF0F6C9709D1C1F2D9A6/2207782.png",
+      "value": 240,
+      "target": "BoonDuration"
+    },
+    {
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/6574560606F6BA1B32E9CF0F6C9709D1C1F2D9A6/2207782.png",
+      "value": 75,
+      "target": "BoonDuration"
+    }
+  ],
+  "specialization": 29,
+  "icon": "https://render.guildwars2.com/file/D40DB82F69C6750822C6750A9705ECFA4051B64B/1012341.png"
+}

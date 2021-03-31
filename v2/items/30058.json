@@ -1,0 +1,48 @@
+{
+  "name": "Hellion Focus",
+  "description": "\u003cc\u003d@flavor\u003e\"We designed this specifically to put spirits to rest. Most times you will also need something in your main hand.\"\u003cbr\u003e—Scholar Worfmir\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 50,
+  "rarity": "Fine",
+  "vendor_value": 45,
+  "default_skin": 5202,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30058,
+  "chat_link": "[\u0026AgFqdQAA]",
+  "icon": "https://render.guildwars2.com/file/12F6B21033F0962C25A76AAC31EB2757149CFBA3/68137.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 364,
+    "max_power": 387,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 132.032,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 33
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 46
+        }
+      ]
+    }
+  }
+}

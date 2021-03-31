@@ -1,0 +1,44 @@
+{
+  "name": "Vigorous Sheepskin Gloves",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 425,
+  "default_skin": 435,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Norn"
+  ],
+  "id": 3762,
+  "chat_link": "[\u0026AgGyDgAA]",
+  "icon": "https://render.guildwars2.com/file/E96A76D46AD1CEFFDBEB5B2765422D670451BC92/779823.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 43,
+    "infusion_slots": [],
+    "attribute_adjustment": 36.963,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 13
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

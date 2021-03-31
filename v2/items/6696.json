@@ -1,0 +1,49 @@
+{
+  "name": "Soldier\u0027s Chainmail Leggings",
+  "description": "",
+  "type": "Armor",
+  "level": 65,
+  "rarity": "Fine",
+  "vendor_value": 216,
+  "default_skin": 1,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6696,
+  "chat_link": "[\u0026AgEoGgAA]",
+  "icon": "https://render.guildwars2.com/file/9321FD09DF90E8D10D80B5C41D722F357FE5970A/61104.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Heavy",
+    "defense": 136,
+    "infusion_slots": [],
+    "attribute_adjustment": 143.04,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 50
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 36
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 36
+        }
+      ]
+    }
+  }
+}

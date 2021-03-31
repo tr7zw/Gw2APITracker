@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Swindler Boots of the Grove",
+  "description": "",
+  "type": "Armor",
+  "level": 39,
+  "rarity": "Masterwork",
+  "vendor_value": 74,
+  "default_skin": 67,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 1356,
+  "chat_link": "[\u0026AgFMBQAA]",
+  "icon": "https://render.guildwars2.com/file/63400BA1F7ED75D7B720D4ED91F30AA6FF2DD6AB/61028.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 52,
+    "infusion_slots": [],
+    "attribute_adjustment": 38.862,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 10
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 14
+        }
+      ]
+    },
+    "suffix_item_id": 24733
+  }
+}

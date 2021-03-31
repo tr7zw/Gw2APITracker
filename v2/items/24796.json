@@ -1,0 +1,40 @@
+{
+  "name": "Major Rune of the Flame Legion",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003ePotence\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 108,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24796,
+  "chat_link": "[\u0026AgHcYAAA]",
+  "icon": "https://render.guildwars2.com/file/60B7099FF1AE75359F6AE6AF9AA6EDC32511DA3C/221120.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+15 Power",
+      "+6% Burning Duration",
+      "+30 Power",
+      "+9% Burning Duration"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Flame Legion"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Arborist Helm",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 500,
+  "default_skin": 483,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Sylvari"
+  ],
+  "id": 3641,
+  "chat_link": "[\u0026AgE5DgAA]",
+  "icon": "https://render.guildwars2.com/file/E406AB4C224FF2F7299BB8625C9E4CA727957F05/779804.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 39,
+    "infusion_slots": [],
+    "attribute_adjustment": 49.284,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 12
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 17
+        }
+      ]
+    }
+  }
+}

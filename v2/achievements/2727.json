@@ -1,0 +1,30 @@
+{
+  "id": 2727,
+  "name": "League Thief—Recruit",
+  "description": "Completing this achievement advances the League Professional—Recruit achievement.",
+  "requirement": "Win 5 ranked matches as a thief.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    2740
+  ]
+}

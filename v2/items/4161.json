@@ -1,0 +1,43 @@
+{
+  "name": "Oldgate Heavy Helm",
+  "description": "\u003cc\u003d@flavor\u003e\"Protects what\u0027s between the ears.\"\u003cbr\u003e—Zalvax Brokenclaw\u003c/c\u003e",
+  "type": "Armor",
+  "level": 15,
+  "rarity": "Masterwork",
+  "vendor_value": 50,
+  "default_skin": 869,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4161,
+  "chat_link": "[\u0026AgFBEAAA]",
+  "icon": "https://render.guildwars2.com/file/0B476306B2C800456645D324E4EBF19AC2AA4EBE/61241.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 19,
+    "infusion_slots": [],
+    "attribute_adjustment": 17.816,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 6
+        }
+      ]
+    },
+    "suffix_item_id": 24739
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Stained Glass Wings Glider",
+  "description": "This will unlock the glider skin in your account wardrobe.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94098,
+  "chat_link": "[\u0026AgGSbwEA]",
+  "icon": "https://render.guildwars2.com/file/EAC4549195ED02AE08EC60664345AA3ED773A8DE/2338686.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "GliderSkin"
+  }
+}

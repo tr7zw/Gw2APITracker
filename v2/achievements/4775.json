@@ -1,0 +1,30 @@
+{
+  "id": 4775,
+  "name": "Mystic Forge \"Researcher\"",
+  "description": "",
+  "requirement": "Donate goods to the \"very scientific\" research into the Mystic Forge\u0027s secrets in Lion\u0027s Arch.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1000,
+      "points": 3
+    }
+  ],
+  "prerequisites": [
+    4759
+  ],
+  "point_cap": 15,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 90997,
+      "count": 3
+    }
+  ]
+}

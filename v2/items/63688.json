@@ -1,0 +1,47 @@
+{
+  "name": "Inquisitor\u0027s Pants",
+  "description": "",
+  "type": "Armor",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 126,
+  "default_skin": 145,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 63688,
+  "chat_link": "[\u0026AgHI+AAA]",
+  "icon": "https://render.guildwars2.com/file/E5E9B8B5C86603C9A00B05539C47FA15E64F95E7/61116.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Light",
+    "defense": 85,
+    "infusion_slots": [],
+    "attribute_adjustment": 108.171,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 27
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 38
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 27
+        }
+      ]
+    }
+  }
+}

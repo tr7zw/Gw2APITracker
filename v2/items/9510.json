@@ -1,0 +1,28 @@
+{
+  "name": "Recipe: Longbow",
+  "description": "A recipe to make a Longbow",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 18,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9510,
+  "chat_link": "[\u0026AgEmJQAA]",
+  "icon": "https://render.guildwars2.com/file/E2F2C7194EF1B323D90A52785AAC15EDCF7F2425/849361.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 4497
+  }
+}

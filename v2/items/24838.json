@@ -1,0 +1,40 @@
+{
+  "name": "Major Rune of the Water",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eSkill\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 30,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24838,
+  "chat_link": "[\u0026AgEGYQAA]",
+  "icon": "https://render.guildwars2.com/file/BF001AE4ED5BD7335A49D64D2AD1090E1CA19E09/221147.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+15 Healing",
+      "+3% Boon Duration",
+      "+30 Healing",
+      "Remove a condition when you are struck. \u003cc\u003d@reminder\u003e(Cooldown: 30 Seconds)\u003c/c\u003e"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Water"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Strong Magician Boots of Vampirism",
+  "description": "",
+  "type": "Armor",
+  "level": 26,
+  "rarity": "Masterwork",
+  "vendor_value": 56,
+  "default_skin": 69,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 857,
+  "chat_link": "[\u0026AgFZAwAA]",
+  "icon": "https://render.guildwars2.com/file/561D59C81D1BAC16DA6AC470C256A7C53566DF5D/61032.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 30,
+    "infusion_slots": [],
+    "attribute_adjustment": 23.154,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 8
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 6
+        }
+      ]
+    },
+    "suffix_item_id": 24709
+  }
+}

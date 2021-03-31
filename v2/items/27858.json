@@ -1,0 +1,49 @@
+{
+  "name": "Cleric\u0027s Iron Hammer of Debility",
+  "description": "",
+  "type": "Weapon",
+  "level": 70,
+  "rarity": "Masterwork",
+  "vendor_value": 177,
+  "default_skin": 4060,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27858,
+  "chat_link": "[\u0026AgHSbAAA]",
+  "icon": "https://render.guildwars2.com/file/2F4509F15B48B1A9F1579D08539F4109972A31A4/65162.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 683,
+    "max_power": 771,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 461.312,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 115
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 115
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 161
+        }
+      ]
+    },
+    "suffix_item_id": 24634
+  }
+}

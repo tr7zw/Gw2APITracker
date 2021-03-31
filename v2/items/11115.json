@@ -1,0 +1,44 @@
+{
+  "name": "Carrion Feathered Boots",
+  "description": "",
+  "type": "Armor",
+  "level": 70,
+  "rarity": "Fine",
+  "vendor_value": 72,
+  "default_skin": 164,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 11115,
+  "chat_link": "[\u0026AgFrKwAA]",
+  "icon": "https://render.guildwars2.com/file/117D0308052D5F72F8C5EF9D69CFFF5B060CC2EC/61466.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 83,
+    "infusion_slots": [],
+    "attribute_adjustment": 79.728,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 20
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 20
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 28
+        }
+      ]
+    }
+  }
+}

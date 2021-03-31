@@ -1,0 +1,31 @@
+{
+  "name": "Explorer\u0027s Booster",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92932,
+  "chat_link": "[\u0026AgEEawEA]",
+  "icon": "https://render.guildwars2.com/file/3E7F1AC0FA31962906EF014F5C5BB2DE49C4B4C1/2261370.png",
+  "details": {
+    "type": "Generic",
+    "duration_ms": 1800000,
+    "apply_count": 1,
+    "name": "Explorer Boost",
+    "icon": "https://render.guildwars2.com/file/36435FCC05151BA46EB9ED23D7085BBAF00B3B60/665805.png",
+    "description": "Increase movement speed by 15%.\nGain 10 seconds of swiftness when gathering.\n33% chance at extra resources when gathering.\nIncrease experience gained from kills by 50%\n\u003cc\u003d@reminder\u003eWill be removed if you enter competitive PvP or a raid.\u003c/c\u003e"
+  }
+}

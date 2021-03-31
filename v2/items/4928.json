@@ -1,0 +1,50 @@
+{
+  "name": "Brackwater Helm",
+  "description": "\u003cc\u003d@flavor\u003e\"Thanks for helping to get our supplies back. Here, take something you need from them.\"\u003cbr\u003e—Quennida\u003c/c\u003e",
+  "type": "Armor",
+  "level": 63,
+  "rarity": "Fine",
+  "vendor_value": 68,
+  "default_skin": 892,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4928,
+  "chat_link": "[\u0026AgFAEwAA]",
+  "icon": "https://render.guildwars2.com/file/E9EEB91BD00673FB2B0DBC04FFAB96A929FF23FB/61559.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 66,
+    "infusion_slots": [],
+    "attribute_adjustment": 91.296,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 32
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 23
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 23
+        }
+      ]
+    }
+  }
+}

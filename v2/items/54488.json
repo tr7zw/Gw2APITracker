@@ -1,0 +1,47 @@
+{
+  "name": "Deserter\u0027s Weatherwrack",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 162,
+  "default_skin": 5055,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 54488,
+  "chat_link": "[\u0026AgHY1AAA]",
+  "icon": "https://render.guildwars2.com/file/F22AE61370065C2134F10F04E7BC09A65001EE76/223563.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 576,
+    "max_power": 676,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 214.56,
+    "infix_upgrade": {
+      "id": 1014,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 54
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 75
+        }
+      ]
+    }
+  }
+}

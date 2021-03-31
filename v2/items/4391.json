@@ -1,0 +1,47 @@
+{
+  "name": "Heavy Sentinel\u0027s Gloves",
+  "description": "\u003cc\u003d@flavor\u003e\"You don\u0027t want to get any of this stuff on your hands. Crystal or ghost. Trust me.\"\u003cbr\u003e—Erria\u003c/c\u003e",
+  "type": "Armor",
+  "level": 42,
+  "rarity": "Masterwork",
+  "vendor_value": 71,
+  "default_skin": 896,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4391,
+  "chat_link": "[\u0026AgEnEQAA]",
+  "icon": "https://render.guildwars2.com/file/2D04F4B417D82BD6AB4714010CE23071A9489961/61558.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 65,
+    "infusion_slots": [],
+    "attribute_adjustment": 42.8145,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 11
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 15
+        }
+      ]
+    },
+    "suffix_item_id": 24739
+  }
+}

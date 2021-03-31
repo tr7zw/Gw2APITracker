@@ -1,0 +1,53 @@
+{
+  "name": "Firebreak Greatsword",
+  "description": "\u003cc\u003d@flavor\u003e\"The less you train with these, the more dangerous you are, to everyone.\"\u003cbr\u003e—Vigil Tactician Blazefur\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 64,
+  "rarity": "Masterwork",
+  "vendor_value": 162,
+  "default_skin": 4015,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30666,
+  "chat_link": "[\u0026AgHKdwAA]",
+  "icon": "https://render.guildwars2.com/file/1EA00FDAAD23FD1B1B9C4BD6E36EB30A43E21D06/64138.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 618,
+    "max_power": 683,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 405.28,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 101
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 101
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 142
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

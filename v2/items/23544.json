@@ -1,0 +1,43 @@
+{
+  "name": "Wall Fragment",
+  "description": "\u003cc\u003d@flavor\u003e\"What is it with people collecting pieces of this ghost cursed wall? Stone is stone. I prefer it when its not in my way.\"\u003cbr\u003e—Legionnaire Bladechipper\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 52,
+  "rarity": "Masterwork",
+  "vendor_value": 115,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23544,
+  "chat_link": "[\u0026AgH4WwAA]",
+  "icon": "https://render.guildwars2.com/file/80CC5AAC2E1C0EF93A0624EC0CF0E7535EB30A37/62196.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 95.03,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 33
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 24
+        }
+      ]
+    }
+  }
+}

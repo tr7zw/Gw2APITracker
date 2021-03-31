@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Soft Wood Torch of Corruption",
+  "description": "",
+  "type": "Weapon",
+  "level": 77,
+  "rarity": "Rare",
+  "vendor_value": 189,
+  "default_skin": 3890,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27465,
+  "chat_link": "[\u0026AgFJawAA]",
+  "icon": "https://render.guildwars2.com/file/FA56C5DD5D7494F25D980E432BA129F44209ED0E/63136.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 665,
+    "max_power": 781,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 285.552,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 100
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 71
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 71
+        }
+      ]
+    },
+    "suffix_item_id": 24577
+  }
+}

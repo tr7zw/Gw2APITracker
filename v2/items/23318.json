@@ -1,0 +1,39 @@
+{
+  "name": "Quaggan Friendship Bracelet",
+  "description": "\u003cc\u003d@flavor\u003e\"oOooo Friend?\"—Guard Lugung\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 60,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23318,
+  "chat_link": "[\u0026AgEWWwAA]",
+  "icon": "https://render.guildwars2.com/file/D204A5DD7F56E2E27ED3CC55A3B83ABBE94CEA4F/455899.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 29.3675,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 10
+        }
+      ]
+    }
+  }
+}

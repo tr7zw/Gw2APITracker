@@ -1,0 +1,45 @@
+{
+  "name": "Vigorous Apprentice Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 30,
+  "rarity": "Rare",
+  "vendor_value": 828,
+  "default_skin": 25,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 7004,
+  "chat_link": "[\u0026AgFcGwAA]",
+  "icon": "https://render.guildwars2.com/file/09805A08A8D6325CC60AF26F4C3A903534C1B0E5/61349.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 38,
+    "infusion_slots": [],
+    "attribute_adjustment": 30.672,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 11
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

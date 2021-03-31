@@ -1,0 +1,44 @@
+{
+  "name": "Skale-Fin Focus",
+  "description": "\u003cc\u003d@flavor\u003e\"Skale seem to respond oddly when you mess with their fins.\"\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 13,
+  "rarity": "Fine",
+  "vendor_value": 18,
+  "default_skin": 3887,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30024,
+  "chat_link": "[\u0026AgFIdQAA]",
+  "icon": "https://render.guildwars2.com/file/EF62B7FE5B45A1181C362E635301E1BAA8FDCC44/65104.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 163,
+    "max_power": 173,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 28.224,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 10
+        }
+      ]
+    }
+  }
+}

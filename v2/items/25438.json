@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Etched Short Bow of Accuracy",
+  "type": "Weapon",
+  "level": 78,
+  "rarity": "Exotic",
+  "vendor_value": 384,
+  "default_skin": 5112,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25438,
+  "chat_link": "[\u0026AgFeYwAA]",
+  "icon": "https://render.guildwars2.com/file/5798DBFE5946BD19A959EC9C4497B41446D6AE99/780414.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 876,
+    "max_power": 969,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 658.72,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 231
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 165
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 165
+        }
+      ]
+    },
+    "suffix_item_id": 24618
+  }
+}

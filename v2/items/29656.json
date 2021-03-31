@@ -1,0 +1,53 @@
+{
+  "name": "Wolfborn Shield",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 9000,
+  "default_skin": 4304,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29656,
+  "chat_link": "[\u0026AgHYcwAA]",
+  "icon": "https://render.guildwars2.com/file/69B7C3C4BDBC9CB85E11D4EBC66F80ECEE6B3B19/67984.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 714,
+    "max_power": 805,
+    "defense": 54,
+    "infusion_slots": [],
+    "attribute_adjustment": 301.824,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 75
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 106
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 75
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

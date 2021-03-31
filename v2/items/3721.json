@@ -1,0 +1,44 @@
+{
+  "name": "Honed Invoker\u0027s Boots",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 425,
+  "default_skin": 352,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "id": 3721,
+  "chat_link": "[\u0026AgGJDgAA]",
+  "icon": "https://render.guildwars2.com/file/614E6A31FAAF1BDFCA461F79459E0B9A520FEB5E/455474.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 43,
+    "infusion_slots": [],
+    "attribute_adjustment": 36.963,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 13
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

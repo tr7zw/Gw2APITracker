@@ -1,0 +1,36 @@
+{
+  "id": 3268,
+  "name": "Finders Keepers",
+  "description": "Your greed ruined someone else\u0027s Wintersday. Jerk.",
+  "requirement": "Pick up a dropped present while escorting a donation dolyak in Divinity\u0027s Reach.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 2
+    },
+    {
+      "count": 25,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 77666,
+      "count": 1
+    },
+    {
+      "type": "Title",
+      "id": 178
+    }
+  ]
+}

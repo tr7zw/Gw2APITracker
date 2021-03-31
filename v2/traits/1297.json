@@ -1,0 +1,38 @@
+{
+  "id": 1297,
+  "tier": 2,
+  "order": 0,
+  "name": "Shadow Savior",
+  "description": "After completing a shadowstep, you are healed. Nearby allies are also healed for a larger amount.\u003cbr\u003e\u003cc\u003d@reminder\u003eOnly affects thief shadowsteps.\u003c/c\u003e",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Self-Healing",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "value": 298,
+      "target": "Healing"
+    },
+    {
+      "text": "Ally Healing",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "value": 596,
+      "target": "Healing"
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 360
+    },
+    {
+      "text": "Number of Allied Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    }
+  ],
+  "specialization": 20,
+  "icon": "https://render.guildwars2.com/file/D3070EE4956FF44628AD3ED06FD60C7D94F20296/2175055.png"
+}

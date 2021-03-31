@@ -1,0 +1,42 @@
+{
+  "name": "Superior Rune of the Flock",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eBrilliance\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 60,
+  "rarity": "Exotic",
+  "vendor_value": 216,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24696,
+  "chat_link": "[\u0026AgF4YAAA]",
+  "icon": "https://render.guildwars2.com/file/F9D5AFF9E79806AF490FA1E6DD73041D15D401A7/220704.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+25 Healing",
+      "+35 Vitality",
+      "+50 Healing",
+      "+65 Vitality",
+      "+100 Healing",
+      "+10% Increased Maximum Health; you and nearby allies are healed for an additional amount after you use a healing skill. \u003cc\u003d@reminder\u003e(Cooldown: 10 Seconds)\u003c/c\u003e"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Flock"
+  }
+}

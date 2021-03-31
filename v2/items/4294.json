@@ -1,0 +1,47 @@
+{
+  "name": "Gunner\u0027s Pauldrons",
+  "description": "\u003cc\u003d@flavor\u003e\"These help deflect the spent casings from a rapid rate of fire.\"\u003cbr\u003e—Legionnaire Sleekfur\u003c/c\u003e",
+  "type": "Armor",
+  "level": 54,
+  "rarity": "Masterwork",
+  "vendor_value": 104,
+  "default_skin": 937,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4294,
+  "chat_link": "[\u0026AgHGEAAA]",
+  "icon": "https://render.guildwars2.com/file/25122C2F03BE4EC09459FC112EB226ECF89235BC/61237.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Medium",
+    "defense": 47,
+    "infusion_slots": [],
+    "attribute_adjustment": 59.9505,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 21
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 15
+        }
+      ]
+    },
+    "suffix_item_id": 24739
+  }
+}

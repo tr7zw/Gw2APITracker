@@ -1,0 +1,48 @@
+{
+  "name": "Rabid Nightshade Coat",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 2500,
+  "default_skin": 508,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Sylvari"
+  ],
+  "id": 3649,
+  "chat_link": "[\u0026AgFBDgAA]",
+  "icon": "https://render.guildwars2.com/file/E0F3EBE3B32B2646A6A7E550CB260A975D2F0BA7/414942.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 202,
+    "infusion_slots": [],
+    "attribute_adjustment": 225.99,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 56
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 79
+        }
+      ]
+    }
+  }
+}

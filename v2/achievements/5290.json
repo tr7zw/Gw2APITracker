@@ -1,0 +1,33 @@
+{
+  "id": 5290,
+  "name": "Special Mission: Cache Collector",
+  "description": "",
+  "requirement": "Use cache keys to open enemy supply caches in the Drizzlewood Coast.",
+  "locked_text": "Unlock using special mission documents.",
+  "type": "Default",
+  "flags": [
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 10,
+      "points": 0
+    },
+    {
+      "count": 25,
+      "points": 0
+    },
+    {
+      "count": 100,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 93627,
+      "count": 250
+    }
+  ]
+}

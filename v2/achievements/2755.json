@@ -1,0 +1,30 @@
+{
+  "id": 2755,
+  "name": "League Professional—Elite",
+  "description": "Completing this achievement awards an item for Path of the Ascension IV: Hymn of Glory.",
+  "requirement": "Complete 3 profession achievements.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    2736
+  ]
+}

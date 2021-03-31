@@ -1,0 +1,45 @@
+{
+  "name": "Carrion Glyphic Edge",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Fine",
+  "vendor_value": 66,
+  "default_skin": 5239,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 34505,
+  "chat_link": "[\u0026AgHJhgAA]",
+  "icon": "https://render.guildwars2.com/file/10DEC3A0EB435E9015260E0C2B34EF2DD36ABEEB/434566.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 690,
+    "max_power": 762,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 258.624,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 65
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 65
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 91
+        }
+      ]
+    }
+  }
+}

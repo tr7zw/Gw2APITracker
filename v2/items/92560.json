@@ -1,0 +1,48 @@
+{
+  "name": "Festive Sweater",
+  "description": "\u003cc\u003d@flavor\u003eThe height of form, function, and fashion for the wintry season.\u003c/c\u003e",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 9089,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92560,
+  "chat_link": "[\u0026AgGQaQEA]",
+  "icon": "https://render.guildwars2.com/file/5BDEA293D2ED9F5BF6A2E470009626AB2C6E2ABD/2237435.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 363,
+    "infusion_slots": [],
+    "attribute_adjustment": 384.12,
+    "infix_upgrade": {
+      "id": 628,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 134
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 96
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 96
+        }
+      ]
+    }
+  }
+}

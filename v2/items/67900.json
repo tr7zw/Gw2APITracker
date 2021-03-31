@@ -1,0 +1,57 @@
+{
+  "name": "Jurah\u0027s Jewel",
+  "description": "\u003cc\u003d@flavor\u003e\"Victory does not go to the loudest, but to the most effective.\"\u003cbr\u003e—Master of Whispers\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 660,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 67900,
+  "chat_link": "[\u0026AgE8CQEA]",
+  "icon": "https://render.guildwars2.com/file/699EB7CA63EB1BFE2BC29A44E9D0D61A099723BE/931175.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Enrichment"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "infix_upgrade": {
+      "id": 1064,
+      "buff": {
+        "skill_id": 25666,
+        "description": "+32 Condition Damage\n+18 Power\n+18 Precision"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 108
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 108
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 157
+        }
+      ]
+    }
+  }
+}

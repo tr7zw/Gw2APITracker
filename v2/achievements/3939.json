@@ -1,0 +1,63 @@
+{
+  "id": 3939,
+  "name": "Mad Mysteries",
+  "description": "",
+  "requirement": "Track down firsthand accounts of Mad King Thorn\u0027s childhood during Halloween, when the Mad Realm draws near.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 85402
+    },
+    {
+      "type": "Item",
+      "id": 85381
+    },
+    {
+      "type": "Item",
+      "id": 85416
+    },
+    {
+      "type": "Item",
+      "id": 85438
+    },
+    {
+      "type": "Item",
+      "id": 85409
+    },
+    {
+      "type": "Item",
+      "id": 85488
+    },
+    {
+      "type": "Item",
+      "id": 85468
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 7,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    3938
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 85422,
+      "count": 1
+    }
+  ]
+}

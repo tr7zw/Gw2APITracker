@@ -1,0 +1,48 @@
+{
+  "name": "Granite Staff",
+  "description": "\u003cc\u003d@flavor\u003e\"We had to see what would happen if you created a weapon using some of the ore.\"\u003cbr\u003e—Arcanist Vance\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 47,
+  "rarity": "Fine",
+  "vendor_value": 63,
+  "default_skin": 4067,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29506,
+  "chat_link": "[\u0026AgFCcwAA]",
+  "icon": "https://render.guildwars2.com/file/04BE267A42B12DB00F0162639702BDEFC90F4A5D/62880.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 404,
+    "max_power": 456,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 242.048,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 61
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 85
+        }
+      ]
+    }
+  }
+}

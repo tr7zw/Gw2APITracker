@@ -1,0 +1,43 @@
+{
+  "name": "Strong Banded Helm of Balthazar",
+  "description": "",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 195,
+  "default_skin": 104,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 1819,
+  "chat_link": "[\u0026AgEbBwAA]",
+  "icon": "https://render.guildwars2.com/file/0AA7D7BCDD5D55B99E162197BF27439BF52EA4AF/61066.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 72,
+    "infusion_slots": [],
+    "attribute_adjustment": 100.44,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 35
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 25
+        }
+      ]
+    },
+    "suffix_item_id": 24764
+  }
+}

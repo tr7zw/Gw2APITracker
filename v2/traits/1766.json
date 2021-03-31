@@ -1,0 +1,36 @@
+{
+  "id": 1766,
+  "tier": 2,
+  "order": 0,
+  "name": "Eye for an Eye",
+  "description": "Gain protection when you are disabled. Gain might when you break out of a stun.\u003cbr\u003e\u003cc\u003d@reminder\u003eDisables include stun, daze, knockback, pull, knockdown, sink, float, fear, launch, and taunt.\u003c/c\u003e",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 35
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+      "duration": 10,
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
+      "apply_count": 5
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+      "duration": 5,
+      "status": "Protection",
+      "description": "Incoming damage decreased by 33%; stacks duration.",
+      "apply_count": 1
+    }
+  ],
+  "specialization": 9,
+  "icon": "https://render.guildwars2.com/file/CEBB22E824DE1A024A4DC8907C5C3D795E01AEDA/1012692.png"
+}

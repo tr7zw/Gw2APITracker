@@ -1,0 +1,44 @@
+{
+  "name": "Opticalium Focusing Stick",
+  "description": "\u003cc\u003d@flavor\u003e\"This is an Opticalium-approved energy-focusing device.\"\u003cbr\u003e—Opticalium Researcher Oisha\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 3,
+  "rarity": "Fine",
+  "vendor_value": 12,
+  "default_skin": 3872,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30565,
+  "chat_link": "[\u0026AgFldwAA]",
+  "icon": "https://render.guildwars2.com/file/FA1C40555C74D2BAAED3729F7B2560F517E2171A/66214.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 156,
+    "max_power": 176,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 28.416,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 10
+        }
+      ]
+    }
+  }
+}

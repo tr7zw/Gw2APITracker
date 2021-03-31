@@ -1,0 +1,42 @@
+{
+  "name": "Primeval Gauntlets",
+  "description": "",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "default_skin": 1154,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 20279,
+  "chat_link": "[\u0026AgE3TwAA]",
+  "icon": "https://render.guildwars2.com/file/9D7E98F614CADD420817F35070985A030B3994F1/625776.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 18,
+    "infusion_slots": [],
+    "attribute_adjustment": 5.346,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 2
+        }
+      ]
+    }
+  }
+}

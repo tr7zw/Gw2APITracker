@@ -1,0 +1,43 @@
+{
+  "id": 5014,
+  "name": "Raven Lens Scholar",
+  "description": "Story Instance: Silence",
+  "requirement": "Find all of Jhavi\u0027s Raven lens research notes.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Jhavi\u0027s First Research Note"
+    },
+    {
+      "type": "Text",
+      "text": "Jhavi\u0027s Second Research Note"
+    },
+    {
+      "type": "Text",
+      "text": "Jhavi\u0027s Third Research Note"
+    },
+    {
+      "type": "Text",
+      "text": "Jhavi\u0027s Fourth Research Note"
+    },
+    {
+      "type": "Text",
+      "text": "Jhavi\u0027s Fifth Research Note"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 2
+    }
+  ]
+}

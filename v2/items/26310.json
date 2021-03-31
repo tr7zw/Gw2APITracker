@@ -1,0 +1,49 @@
+{
+  "name": "Cleric\u0027s Iron Dagger of Fire",
+  "description": "",
+  "type": "Weapon",
+  "level": 70,
+  "rarity": "Masterwork",
+  "vendor_value": 118,
+  "default_skin": 4009,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26310,
+  "chat_link": "[\u0026AgHGZgAA]",
+  "icon": "https://render.guildwars2.com/file/3254C66ED1675657E0B7C2FBBC09FBF2FBAA74A6/62762.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 641,
+    "max_power": 681,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 230.656,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 58
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 58
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 81
+        }
+      ]
+    },
+    "suffix_item_id": 24547
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Hood of the Nightguard",
+  "description": "\u003cc\u003d@flavor\u003eGenuine, lightly used helm from the Seraph special ops at Nightguard Beach.\u003c/c\u003e",
+  "type": "Armor",
+  "level": 33,
+  "rarity": "Masterwork",
+  "vendor_value": 83,
+  "default_skin": 907,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4834,
+  "chat_link": "[\u0026AgHiEgAA]",
+  "icon": "https://render.guildwars2.com/file/6C127B202AE612DCB8CE9AF6EA0CBF500042FF0C/61267.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 21,
+    "infusion_slots": [],
+    "attribute_adjustment": 41.718,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 10
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 15
+        }
+      ]
+    },
+    "suffix_item_id": 24730
+  }
+}

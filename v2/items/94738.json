@@ -1,0 +1,63 @@
+{
+  "name": "Marauder Icy Dragon Slayer Axe of Destroyer Slaying",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 330,
+  "default_skin": 9921,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94738,
+  "chat_link": "[\u0026AgEScgEA]",
+  "icon": "https://render.guildwars2.com/file/0307E9549CC05B25750F1E320F0721B518CFAAC4/2412823.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 900,
+    "max_power": 1100,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "infix_upgrade": {
+      "id": 1145,
+      "buff": {
+        "skill_id": 31930
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 133
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 133
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 71
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 71
+        }
+      ]
+    },
+    "suffix_item_id": 24654
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Vigorous Iron Dagger",
+  "description": "",
+  "type": "Weapon",
+  "level": 29,
+  "rarity": "Fine",
+  "vendor_value": 30,
+  "default_skin": 4009,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 26183,
+  "chat_link": "[\u0026AgFHZgAA]",
+  "icon": "https://render.guildwars2.com/file/3254C66ED1675657E0B7C2FBBC09FBF2FBAA74A6/62762.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 257,
+    "max_power": 273,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 63.936,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 22
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 16
+        }
+      ]
+    }
+  }
+}

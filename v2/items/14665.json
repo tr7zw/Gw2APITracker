@@ -1,0 +1,46 @@
+{
+  "name": "Carrion Elder Wood Harpoon Gun",
+  "description": "",
+  "type": "Weapon",
+  "level": 70,
+  "rarity": "Fine",
+  "vendor_value": 89,
+  "default_skin": 3972,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 14665,
+  "chat_link": "[\u0026AgFJOQAA]",
+  "icon": "https://render.guildwars2.com/file/73B70408A1C99BA37B50DA72EA4BCC6AC9384E2B/561999.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 580,
+    "max_power": 641,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 425.216,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 106
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 106
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 149
+        }
+      ]
+    }
+  }
+}

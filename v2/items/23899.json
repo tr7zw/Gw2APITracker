@@ -1,0 +1,39 @@
+{
+  "name": "Amulet of Thorns",
+  "description": "\u003cc\u003d@flavor\u003e\"A thorn is only as dangerous as you are careless.\"\u003cbr\u003e—Diantha\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 16,
+  "rarity": "Masterwork",
+  "vendor_value": 80,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23899,
+  "chat_link": "[\u0026AgFbXQAA]",
+  "icon": "https://render.guildwars2.com/file/F2D20755F15F39F7EC9CAF5DF8370650DB41697A/222398.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 37.876,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 13
+        }
+      ]
+    }
+  }
+}

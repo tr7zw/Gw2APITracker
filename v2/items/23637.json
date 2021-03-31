@@ -1,0 +1,43 @@
+{
+  "name": "Sweptweave Schematic",
+  "description": "\u003cc\u003d@flavor\u003e\"Everything starts with a plan, but nothing ever goes according to it.\"\u003cbr\u003e—Torruh Sweptweave\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 42,
+  "rarity": "Fine",
+  "vendor_value": 49,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23637,
+  "chat_link": "[\u0026AgFVXAAA]",
+  "icon": "https://render.guildwars2.com/file/B6745C0DA4CB49665746CA04022E244606115B9F/65628.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 65.08,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 16
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 23
+        }
+      ]
+    }
+  }
+}

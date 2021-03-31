@@ -1,0 +1,52 @@
+{
+  "name": "Virtual Box",
+  "description": "\u003cc\u003d@flavor\u003eIt\u0027s like you\u0027re really there.\u003c/c\u003e",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 330,
+  "default_skin": 9349,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 93293,
+  "chat_link": "[\u0026AgFtbAEA]",
+  "icon": "https://render.guildwars2.com/file/2C939D0DEDD0B46D071FE2CE9E9BCC9C6C05F5C3/2282051.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 121,
+    "infusion_slots": [],
+    "attribute_adjustment": 170.72,
+    "infix_upgrade": {
+      "id": 1140,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 51
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 28
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 51
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 28
+        }
+      ]
+    }
+  }
+}

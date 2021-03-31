@@ -1,0 +1,42 @@
+{
+  "name": "Strong Rawhide Vest",
+  "description": "",
+  "type": "Armor",
+  "level": 50,
+  "rarity": "Basic",
+  "vendor_value": 34,
+  "default_skin": 6,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 5183,
+  "chat_link": "[\u0026AgE/FAAA]",
+  "icon": "https://render.guildwars2.com/file/D39FF60AFE11FF260A3F0B24484CA8BCB909E0B0/61015.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 108,
+    "infusion_slots": [],
+    "attribute_adjustment": 117.351,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 41
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 29
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": 4723,
+  "name": "Life in the Underworld",
+  "description": "",
+  "requirement": "Complete 10 events for the Olmakhan in the Underworld.\nRequired to gain access to the Olmakhan quartermaster.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 90311,
+      "count": 1
+    }
+  ]
+}

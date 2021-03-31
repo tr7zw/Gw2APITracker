@@ -1,0 +1,28 @@
+{
+  "name": "Bank Access Express",
+  "description": "Double-click to access your account bank from anywhere. Single use.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 4,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 19984,
+  "chat_link": "[\u0026AgEQTgAA]",
+  "icon": "https://render.guildwars2.com/file/B0BBF3DF137745A6BEFFAC3E72DB95F899137B07/66553.png",
+  "details": {
+    "type": "Generic"
+  }
+}

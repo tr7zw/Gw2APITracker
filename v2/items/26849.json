@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Soft Wood Warhorn of Hobbling",
+  "description": "",
+  "type": "Weapon",
+  "level": 78,
+  "rarity": "Exotic",
+  "vendor_value": 256,
+  "default_skin": 3907,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26849,
+  "chat_link": "[\u0026AgHhaAAA]",
+  "icon": "https://render.guildwars2.com/file/5A0593B5164DE87591029323F7D90775D716001D/65530.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 789,
+    "max_power": 872,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 329.36,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 115
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 82
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 82
+        }
+      ]
+    },
+    "suffix_item_id": 24627
+  }
+}

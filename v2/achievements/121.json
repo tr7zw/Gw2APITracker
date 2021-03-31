@@ -1,0 +1,86 @@
+{
+  "id": 121,
+  "name": "Dungeons Discovered",
+  "description": "Chasing evil out of the dark places where it hides.",
+  "requirement": "Complete 8 dungeon stories.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Ascalonian Catacombs Story"
+    },
+    {
+      "type": "Text",
+      "text": "Sorrow\u0027s Embrace Story"
+    },
+    {
+      "type": "Text",
+      "text": "Honor of the Waves Story"
+    },
+    {
+      "type": "Text",
+      "text": "Crucible of Eternity Story"
+    },
+    {
+      "type": "Text",
+      "text": "Twilight Arbor Story"
+    },
+    {
+      "type": "Text",
+      "text": "Caudecus\u0027s Manor Story"
+    },
+    {
+      "type": "Text",
+      "text": "The Ruined City of Arah Story"
+    },
+    {
+      "type": "Text",
+      "text": "Citadel of Flame Story"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    },
+    {
+      "count": 2,
+      "points": 5
+    },
+    {
+      "count": 3,
+      "points": 5
+    },
+    {
+      "count": 4,
+      "points": 5
+    },
+    {
+      "count": 5,
+      "points": 5
+    },
+    {
+      "count": 6,
+      "points": 5
+    },
+    {
+      "count": 7,
+      "points": 5
+    },
+    {
+      "count": 8,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tyria",
+      "id": 231
+    }
+  ]
+}

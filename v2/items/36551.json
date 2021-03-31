@@ -1,0 +1,44 @@
+{
+  "name": "Infinity Loop",
+  "description": "\u003cc\u003d@flavor\u003eA single twist in the band creates a continuous surface.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 36551,
+  "chat_link": "[\u0026AgHHjgAA]",
+  "icon": "https://render.guildwars2.com/file/A3473FFC3353576C2EF60C5A9CC47CDA6AB562C1/63613.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [],
+    "attribute_adjustment": 256.08,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 90
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 64
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 64
+        }
+      ]
+    }
+  }
+}

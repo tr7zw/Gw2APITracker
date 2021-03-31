@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Verdant Shield of Energy",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Rare",
+  "vendor_value": 183,
+  "default_skin": 5110,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34852,
+  "chat_link": "[\u0026AgEkiAAA]",
+  "icon": "https://render.guildwars2.com/file/022913A4986756B14F6743A0447D51D2AF599620/434878.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 645,
+    "max_power": 728,
+    "defense": 48,
+    "infusion_slots": [],
+    "attribute_adjustment": 269.208,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 67
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 67
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 94
+        }
+      ]
+    },
+    "suffix_item_id": 24606
+  }
+}

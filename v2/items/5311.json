@@ -1,0 +1,50 @@
+{
+  "name": "Priory\u0027s Historical Mask",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 1900,
+  "default_skin": 1389,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 5311,
+  "chat_link": "[\u0026AgG/FAAA]",
+  "icon": "https://render.guildwars2.com/file/FD13C017D870540DDCBA5C0A476F18A6E9300B93/61313.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 86,
+    "infusion_slots": [],
+    "attribute_adjustment": 150.912,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 38
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 38
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 53
+        }
+      ]
+    }
+  }
+}

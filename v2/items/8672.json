@@ -1,0 +1,25 @@
+{
+  "name": "Wood Plank",
+  "description": "Double-click to gain a wood plank.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 16,
+  "game_types": [
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 8672,
+  "chat_link": "[\u0026AgHgIQAA]",
+  "icon": "https://render.guildwars2.com/file/6CFF221BAA7877C54B243D1DE9C8A211BB6AE170/65938.png",
+  "details": {
+    "type": "Generic"
+  }
+}

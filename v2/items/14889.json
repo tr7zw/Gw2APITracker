@@ -1,0 +1,48 @@
+{
+  "name": "Rabid Beaded Morning Star",
+  "description": "",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 156,
+  "default_skin": 3910,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 14889,
+  "chat_link": "[\u0026AgEpOgAA]",
+  "icon": "https://render.guildwars2.com/file/80F71C96121BEA750D31D63B0EF771A63D2124AA/534147.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 558,
+    "max_power": 629,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 200.88,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 50
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 50
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 70
+        }
+      ]
+    }
+  }
+}

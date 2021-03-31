@@ -1,0 +1,57 @@
+{
+  "name": "Molten Ore",
+  "description": "\u003cc\u003d@flavor\u003eA dark artifact of the combined forces of the Flame Legion and dredge. This ore seems too impure to properly refine, but it gleams with dark potential.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 413,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 39562,
+  "chat_link": "[\u0026AgGKmgAA]",
+  "icon": "https://render.guildwars2.com/file/05BBDC6F1C34F70A3C0E180C1B3A09D301FEF16D/543899.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 224.07,
+    "infix_upgrade": {
+      "id": 660,
+      "buff": {
+        "skill_id": 17072,
+        "description": "+32 Precision\n+18 Toughness\n+18 Power"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 74
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 110
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 74
+        }
+      ]
+    }
+  }
+}

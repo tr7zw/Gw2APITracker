@@ -1,0 +1,29 @@
+{
+  "id": 3331,
+  "name": "Silent Killer",
+  "description": "The blood of your enemies stains the snow.",
+  "requirement": "Earn glory in the Temple of the Silent Storm by completing these achievements.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 266
+    },
+    {
+      "type": "Coins",
+      "count": 50000
+    }
+  ]
+}

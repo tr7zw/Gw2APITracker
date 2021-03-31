@@ -1,0 +1,35 @@
+{
+  "id": 1785,
+  "name": "\"Echoes of the Past\" Mastery",
+  "description": "",
+  "requirement": "Complete all  \"Echoes of the Past\" achievements.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 7,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    1783
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 67896,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Tyria",
+      "id": 265
+    }
+  ]
+}

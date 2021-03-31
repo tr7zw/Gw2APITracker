@@ -1,0 +1,38 @@
+{
+  "name": "Vital Soft Wood Warhorn",
+  "description": "",
+  "type": "Weapon",
+  "level": 18,
+  "rarity": "Fine",
+  "vendor_value": 22,
+  "default_skin": 3907,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 26897,
+  "chat_link": "[\u0026AgERaQAA]",
+  "icon": "https://render.guildwars2.com/file/5A0593B5164DE87591029323F7D90775D716001D/65530.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 178,
+    "max_power": 196,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 37.824,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 13
+        }
+      ]
+    }
+  }
+}

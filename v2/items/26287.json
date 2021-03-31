@@ -1,0 +1,45 @@
+{
+  "name": "Strong Iron Dagger of Bloodlust",
+  "description": "",
+  "type": "Weapon",
+  "level": 53,
+  "rarity": "Masterwork",
+  "vendor_value": 94,
+  "default_skin": 4009,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26287,
+  "chat_link": "[\u0026AgGvZgAA]",
+  "icon": "https://render.guildwars2.com/file/3254C66ED1675657E0B7C2FBBC09FBF2FBAA74A6/62762.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 466,
+    "max_power": 495,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 155.924,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 55
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 39
+        }
+      ]
+    },
+    "suffix_item_id": 24573
+  }
+}

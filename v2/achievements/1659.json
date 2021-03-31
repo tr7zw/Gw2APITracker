@@ -1,0 +1,30 @@
+{
+  "id": 1659,
+  "name": "Entanglement",
+  "description": "Journal: \"Entanglement\" Completed",
+  "requirement": "Follow Scarlet\u0027s trail to uncover what she was after in Dry Top.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "MoveToTop",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 66760,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Tyria",
+      "id": 212
+    }
+  ]
+}

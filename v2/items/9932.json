@@ -1,0 +1,28 @@
+{
+  "name": "Recipe: Godskull Cesta",
+  "description": "Double-click to learn a Rare Grawl Recipe.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 33,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9932,
+  "chat_link": "[\u0026AgHMJgAA]",
+  "icon": "https://render.guildwars2.com/file/1DF40E64280CBDED75F16DB5FD644C7849C6F3E5/849400.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 4423
+  }
+}

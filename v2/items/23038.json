@@ -1,0 +1,30 @@
+{
+  "name": "Crude Salvage Kit",
+  "description": "Double-click to salvage crafting materials from an item in your inventory. Has a small chance of salvaging upgrades.",
+  "type": "Tool",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 4,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23038,
+  "chat_link": "[\u0026AgH+WQAA]",
+  "icon": "https://render.guildwars2.com/file/9F09ACD431CE4906631E271E650ABB0454F90705/63123.png",
+  "details": {
+    "type": "Salvage",
+    "charges": 15
+  }
+}

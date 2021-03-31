@@ -1,0 +1,62 @@
+{
+  "id": 4205,
+  "icon": "https://render.guildwars2.com/file/4477BAA7620C4C3B0826E70F1843E0D9DDF4214B/1999734.png",
+  "name": "Beetle Saddle",
+  "description": "Acquire the enhancements necessary to maximize your roller beetle\u0027s speed.",
+  "requirement": "Collect  saddle parts and bring them to Blish for assembly.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 87906
+    },
+    {
+      "type": "Item",
+      "id": 87752
+    },
+    {
+      "type": "Item",
+      "id": 87983
+    },
+    {
+      "type": "Item",
+      "id": 87798
+    },
+    {
+      "type": "Item",
+      "id": 87933
+    },
+    {
+      "type": "Item",
+      "id": 87678
+    },
+    {
+      "type": "Item",
+      "id": 87733
+    },
+    {
+      "type": "Item",
+      "id": 87755
+    },
+    {
+      "type": "Item",
+      "id": 87893
+    }
+  ],
+  "tiers": [
+    {
+      "count": 9,
+      "points": 3
+    }
+  ],
+  "prerequisites": [
+    4265
+  ]
+}

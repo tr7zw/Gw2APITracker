@@ -1,0 +1,52 @@
+{
+  "name": "Colonnade Hammer",
+  "description": "\u003cc\u003d@flavor\u003e\"One of the finest hammers the Vigil has to offer.\"\u003cbr\u003e—Supply Sergeant Mattimer\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 75,
+  "rarity": "Fine",
+  "vendor_value": 93,
+  "default_skin": 5222,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30297,
+  "chat_link": "[\u0026AgFZdgAA]",
+  "icon": "https://render.guildwars2.com/file/C5B365D6105F76470106A61F4AB96F3E39D10E18/60991.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 690,
+    "max_power": 778,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 469.76,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 164
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 117
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 117
+        }
+      ]
+    }
+  }
+}

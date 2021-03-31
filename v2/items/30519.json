@@ -1,0 +1,49 @@
+{
+  "name": "Pickins\u0027s Harpoon",
+  "description": "\u003cc\u003d@flavor\u003e\"Seriously, I don\u0027t want this thing.\"\u003cbr\u003e—Lieutenant Pickins\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 39,
+  "rarity": "Masterwork",
+  "vendor_value": 111,
+  "default_skin": 5164,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30519,
+  "chat_link": "[\u0026AgE3dwAA]",
+  "icon": "https://render.guildwars2.com/file/3B43A2B3024DB30DAE3E930176080946B2E23BC1/780562.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 342,
+    "max_power": 378,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 207.264,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 52
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 73
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

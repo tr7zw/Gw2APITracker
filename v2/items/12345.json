@@ -1,0 +1,27 @@
+{
+  "name": "Strawberry Cookie",
+  "type": "Consumable",
+  "level": 15,
+  "rarity": "Fine",
+  "vendor_value": 12,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell"
+  ],
+  "restrictions": [],
+  "id": 12345,
+  "chat_link": "[\u0026AgE5MAAA]",
+  "icon": "https://render.guildwars2.com/file/7F2C5C0BA51605BD3006020AFD2906D4B1D3F942/219435.png",
+  "details": {
+    "type": "Food",
+    "duration_ms": 1800000,
+    "apply_count": 1,
+    "name": "Nourishment",
+    "icon": "https://render.guildwars2.com/file/779D3F0ABE5B46C09CFC57374DA8CC3A495F291C/436367.png",
+    "description": "+30 Healing\n+10% Experience from Kills"
+  }
+}

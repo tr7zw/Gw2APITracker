@@ -1,0 +1,62 @@
+{
+  "id": 2641,
+  "name": "Machined Pistol",
+  "description": "",
+  "requirement": "Collect all  items to forge your Machined Pistol.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 6468
+    },
+    {
+      "type": "Item",
+      "id": 74461
+    },
+    {
+      "type": "Item",
+      "id": 74891
+    },
+    {
+      "type": "Item",
+      "id": 71270
+    },
+    {
+      "type": "Item",
+      "id": 71177
+    },
+    {
+      "type": "Item",
+      "id": 71976
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 75774,
+      "count": 1
+    }
+  ]
+}

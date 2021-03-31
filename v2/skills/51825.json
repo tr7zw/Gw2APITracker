@@ -1,0 +1,37 @@
+{
+  "name": "Tidal Surge",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 5
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/FB5C627D1A6A46807AF77165604A27FE804B056F/2039793.png",
+      "duration": 15,
+      "status": "Waterlogged",
+      "description": "As you become more waterlogged, you become more susceptible to the largos\u0027 water magic. If you become fully waterlogged at maximum stacks, you will be assassinated.",
+      "apply_count": 1
+    },
+    {
+      "text": "Interval",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+      "duration": 1
+    },
+    {
+      "text": "Duration",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "duration": 5
+    }
+  ],
+  "description": "The platform is covered in water, allowing the largos to hunt down anyone who remains in it for too long.",
+  "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+  "flags": [],
+  "id": 51825,
+  "chat_link": "[\u0026BnHKAAA\u003d]"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 5420,
+  "name": "Citadel Crasher",
+  "description": "",
+  "requirement": "Siege the Frost Citadel and defeat the Claw of Jormag.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 3
+    },
+    {
+      "count": 6,
+      "points": 4
+    },
+    {
+      "count": 10,
+      "points": 7
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tundra",
+      "id": 518
+    }
+  ]
+}

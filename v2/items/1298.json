@@ -1,0 +1,47 @@
+{
+  "name": "Shaman\u0027s Banded Coat of Lyssa",
+  "description": "",
+  "type": "Armor",
+  "level": 70,
+  "rarity": "Rare",
+  "vendor_value": 266,
+  "default_skin": 54,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 1298,
+  "chat_link": "[\u0026AgESBQAA]",
+  "icon": "https://render.guildwars2.com/file/AF109C52710CF3B5640E08B22F28A9D6479453A3/61052.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 266,
+    "infusion_slots": [],
+    "attribute_adjustment": 280.341,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 98
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 70
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 70
+        }
+      ]
+    },
+    "suffix_item_id": 24775
+  }
+}

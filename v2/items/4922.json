@@ -1,0 +1,42 @@
+{
+  "name": "Duelist\u0027s Patrol Breastplate",
+  "description": "\u003cc\u003d@flavor\u003e\"Designed to keep you nimble while out on patrol.\"\u003cbr\u003e—Lionguard Cern\u003c/c\u003e",
+  "type": "Armor",
+  "level": 13,
+  "rarity": "Fine",
+  "vendor_value": 27,
+  "default_skin": 861,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4922,
+  "chat_link": "[\u0026AgE6EwAA]",
+  "icon": "https://render.guildwars2.com/file/CCCD69DAF43C71D30E77255C3C530601CFD247FE/61239.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 49,
+    "infusion_slots": [],
+    "attribute_adjustment": 31.752,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 11
+        }
+      ]
+    }
+  }
+}

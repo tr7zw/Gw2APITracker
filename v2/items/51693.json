@@ -1,0 +1,51 @@
+{
+  "name": "Apostate\u0027s Mournsword",
+  "type": "Weapon",
+  "level": 65,
+  "rarity": "Exotic",
+  "vendor_value": 228,
+  "default_skin": 5105,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 51693,
+  "chat_link": "[\u0026AgHtyQAA]",
+  "icon": "https://render.guildwars2.com/file/AD1FC9C6440313F8A8D53C26BC80BA334F7DDED4/779924.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 739,
+    "max_power": 816,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 271.36,
+    "infix_upgrade": {
+      "id": 1012,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 68
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 68
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 95
+        }
+      ]
+    }
+  }
+}

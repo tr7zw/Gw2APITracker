@@ -1,0 +1,28 @@
+{
+  "name": "Recipe: Mace",
+  "description": "A recipe to make a Mace",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 18,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9508,
+  "chat_link": "[\u0026AgEkJQAA]",
+  "icon": "https://render.guildwars2.com/file/B0696DD3F813E5F63809BC6ADFE171D2CC104AAE/849359.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 5419
+  }
+}

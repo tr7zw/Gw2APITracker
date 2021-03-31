@@ -1,0 +1,48 @@
+{
+  "name": "Rampager\u0027s Hard Wood Focus",
+  "description": "",
+  "type": "Weapon",
+  "level": 65,
+  "rarity": "Masterwork",
+  "vendor_value": 110,
+  "default_skin": 3919,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 13954,
+  "chat_link": "[\u0026AgGCNgAA]",
+  "icon": "https://render.guildwars2.com/file/EF62B7FE5B45A1181C362E635301E1BAA8FDCC44/65104.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 525,
+    "max_power": 558,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 206.992,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 52
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 72
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 52
+        }
+      ]
+    }
+  }
+}

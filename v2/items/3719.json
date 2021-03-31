@@ -1,0 +1,44 @@
+{
+  "name": "Honed Drover Leggings",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 750,
+  "default_skin": 325,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "id": 3719,
+  "chat_link": "[\u0026AgGHDgAA]",
+  "icon": "https://render.guildwars2.com/file/03471BDBFDF63209AE0EDF49705446C4105B973C/61220.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Medium",
+    "defense": 70,
+    "infusion_slots": [],
+    "attribute_adjustment": 73.926,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 26
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 18
+        }
+      ]
+    }
+  }
+}

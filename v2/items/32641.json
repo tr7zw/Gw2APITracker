@@ -1,0 +1,45 @@
+{
+  "name": "Carrion Steamblade",
+  "type": "Weapon",
+  "level": 76,
+  "rarity": "Fine",
+  "vendor_value": 63,
+  "default_skin": 5241,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 32641,
+  "chat_link": "[\u0026AgGBfwAA]",
+  "icon": "https://render.guildwars2.com/file/562B6309B40701CE654E9E0C4C56C857B4A4022D/60983.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 644,
+    "max_power": 712,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 239.296,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 60
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 60
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 84
+        }
+      ]
+    }
+  }
+}

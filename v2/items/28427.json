@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Black Earth Trident of Ice",
+  "description": "",
+  "type": "Weapon",
+  "level": 65,
+  "rarity": "Exotic",
+  "vendor_value": 330,
+  "default_skin": 4712,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28427,
+  "chat_link": "[\u0026AgELbwAA]",
+  "icon": "https://render.guildwars2.com/file/B8F4F953BC20F7A7FE9FF7459FD5534F0608730F/574969.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 699,
+    "max_power": 772,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 509.28,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 178
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 127
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 127
+        }
+      ]
+    },
+    "suffix_item_id": 24555
+  }
+}

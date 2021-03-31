@@ -1,0 +1,42 @@
+{
+  "name": "Honed Masquerade Boots",
+  "description": "",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 102,
+  "default_skin": 234,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 11417,
+  "chat_link": "[\u0026AgGZLAAA]",
+  "icon": "https://render.guildwars2.com/file/A22A4903606FC878B701FFE973532BB3669A02B3/61354.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 43,
+    "infusion_slots": [],
+    "attribute_adjustment": 36.963,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 13
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

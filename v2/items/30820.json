@@ -1,0 +1,44 @@
+{
+  "name": "Strong Hammer",
+  "description": "",
+  "type": "Weapon",
+  "level": 40,
+  "rarity": "Basic",
+  "vendor_value": 29,
+  "default_skin": 3869,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 30820,
+  "chat_link": "[\u0026AgFkeAAA]",
+  "icon": "https://render.guildwars2.com/file/993ED9650B92F3589ED0D350F8370170F329F450/66178.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 279,
+    "max_power": 314,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 153.088,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 54
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 38
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "name": "Call of the Renegade",
+  "facts": [
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 0.5
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 240
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/4DDE151C71EDB6120E3454036C4C3504EADB02D8/1770161.png",
+      "duration": 8,
+      "status": "Kalla\u0027s Fervor",
+      "description": "Kalla\u0027s legend inspires you, increasing your critical strike and condition damage; stacks intensity.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/4DDE151C71EDB6120E3454036C4C3504EADB02D8/1770161.png",
+      "duration": 8,
+      "status": "Kalla\u0027s Fervor",
+      "description": "Kalla\u0027s legend inspires you, increasing your critical strike and condition damage; stacks intensity.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+      "duration": 8,
+      "status": "Bleeding",
+      "description": "Deals damage every second; stacks intensity.",
+      "apply_count": 2
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+      "duration": 5,
+      "status": "Bleeding",
+      "description": "Deals damage every second; stacks intensity.",
+      "apply_count": 2
+    }
+  ],
+  "description": "Strike enemies around you, inflicting bleeding and gaining Kalla\u0027s Fervor. Gain additional fervor stacks for each foe you hit.",
+  "icon": "https://render.guildwars2.com/file/6B3205EF5ED0802DB74BBF7F0CAE04FAA2089B74/1770592.png",
+  "flags": [],
+  "id": 46849,
+  "chat_link": "[\u0026BgG3AAA\u003d]",
+  "traited_facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/4DDE151C71EDB6120E3454036C4C3504EADB02D8/1770161.png",
+      "duration": 12,
+      "status": "Improved Kalla\u0027s Fervor",
+      "description": "Kalla\u0027s legend inspires you, increasing your critical strike damage and condition damage; stacks intensity.",
+      "apply_count": 1,
+      "requires_trait": 2100,
+      "overrides": 3
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/4DDE151C71EDB6120E3454036C4C3504EADB02D8/1770161.png",
+      "duration": 12,
+      "status": "Improved Kalla\u0027s Fervor",
+      "description": "Kalla\u0027s legend inspires you, increasing your critical strike damage and condition damage; stacks intensity.",
+      "apply_count": 1,
+      "requires_trait": 2100,
+      "overrides": 4
+    }
+  ]
+}

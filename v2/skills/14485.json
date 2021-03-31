@@ -1,0 +1,49 @@
+{
+  "name": "Smash",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 130
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 1.6
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+      "duration": 2,
+      "status": "Crippled",
+      "description": "Movement speed decreased by 50%; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 3
+    }
+  ],
+  "description": "Physical. Smash your foe.",
+  "icon": "https://render.guildwars2.com/file/99F6AAF605E943FB14F3A9386EE9999E51E54700/104130.png",
+  "type": "Weapon",
+  "weapon_type": "Staff",
+  "professions": [],
+  "slot": "Weapon_1",
+  "next_chain": 14486,
+  "flip_skill": 14486,
+  "flags": [
+    "NoUnderwater"
+  ],
+  "id": 14485,
+  "chat_link": "[\u0026BpU4AAA\u003d]",
+  "categories": [
+    "Physical"
+  ]
+}

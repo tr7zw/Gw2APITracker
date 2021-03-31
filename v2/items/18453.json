@@ -1,0 +1,48 @@
+{
+  "name": "Flame Legion Breastplate",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 721,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 18453,
+  "chat_link": "[\u0026AgEVSAAA]",
+  "icon": "https://render.guildwars2.com/file/D02D186E147DC0149BC97760D0A20F1BD0999B01/61539.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 363,
+    "infusion_slots": [],
+    "attribute_adjustment": 384.12,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 96
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 96
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 134
+        }
+      ]
+    },
+    "suffix_item_id": 24854
+  }
+}

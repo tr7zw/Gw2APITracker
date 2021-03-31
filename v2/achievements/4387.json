@@ -1,0 +1,96 @@
+{
+  "id": 4387,
+  "name": "Readathon",
+  "description": "Joko didn\u0027t discourage literacy, but the choice of reading materials was somewhat constrained.",
+  "requirement": "Find enough books in Jahai Bluffs to make a library for the children of Sun\u0027s Refuge.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Met Laila and agreed to her request."
+    },
+    {
+      "type": "Text",
+      "text": "A book about the history of another continent."
+    },
+    {
+      "type": "Text",
+      "text": "A book about a spiny creature\u0027s friends."
+    },
+    {
+      "type": "Text",
+      "text": "A book about the alphabet, approved by Joko."
+    },
+    {
+      "type": "Text",
+      "text": "A book about growing your own potted cactus."
+    },
+    {
+      "type": "Text",
+      "text": "A book about the history of a great people."
+    },
+    {
+      "type": "Text",
+      "text": "A book about loving...but not too much."
+    },
+    {
+      "type": "Text",
+      "text": "A book about reading the skies."
+    },
+    {
+      "type": "Text",
+      "text": "A book about the goddess of nature."
+    },
+    {
+      "type": "Text",
+      "text": "A book about a magical feline."
+    },
+    {
+      "type": "Text",
+      "text": "A book about rampaging choya."
+    },
+    {
+      "type": "Text",
+      "text": "A book about the hunger and yearning of dolyaks."
+    },
+    {
+      "type": "Text",
+      "text": "A book that teaches children about springer safety."
+    },
+    {
+      "type": "Text",
+      "text": "A book about honoring your elders."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 8,
+      "points": 1
+    },
+    {
+      "count": 14,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 88664,
+      "count": 1
+    }
+  ]
+}

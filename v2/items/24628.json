@@ -1,0 +1,54 @@
+{
+  "name": "Minor Sigil of Chilling",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eEnhancement\u003cbr\u003eDouble-click to apply to a weapon.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 16,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24628,
+  "chat_link": "[\u0026AgE0YAAA]",
+  "icon": "https://render.guildwars2.com/file/4FD122E5B800B308FC962558D302191C37B80B33/221020.png",
+  "details": {
+    "type": "Sigil",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 274,
+      "buff": {
+        "skill_id": 9303,
+        "description": "Increase Inflicted Chill Duration: 10%"
+      },
+      "attributes": []
+    },
+    "suffix": "of Chilling"
+  }
+}

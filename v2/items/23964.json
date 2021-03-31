@@ -1,0 +1,47 @@
+{
+  "name": "Lionguard Shipwreck Souvenir",
+  "description": "\u003cc\u003d@flavor\u003e\"These wrecks were from Lion\u0027s Arch. I\u0027d not mistake the mark of the Lionguard.\" -Danu\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 61,
+  "rarity": "Fine",
+  "vendor_value": 65,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23964,
+  "chat_link": "[\u0026AgGcXQAA]",
+  "icon": "https://render.guildwars2.com/file/6F2215EB6E98B707DA6214AABF510667A6CE6609/66821.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 109.04,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 38
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 27
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 27
+        }
+      ]
+    }
+  }
+}

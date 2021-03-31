@@ -1,0 +1,43 @@
+{
+  "name": "Strong Privateer Hat of Infiltration",
+  "description": "",
+  "type": "Armor",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 139,
+  "default_skin": 102,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 533,
+  "chat_link": "[\u0026AgEVAgAA]",
+  "icon": "https://render.guildwars2.com/file/746AA96A7C3E3136087451094F7D4DC403B526E7/61020.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 35,
+    "infusion_slots": [],
+    "attribute_adjustment": 56.736,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 20
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 14
+        }
+      ]
+    },
+    "suffix_item_id": 24704
+  }
+}

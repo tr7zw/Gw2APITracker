@@ -1,0 +1,43 @@
+{
+  "name": "Smashed Inquest Capacitor",
+  "description": "\u003cc\u003d@flavor\u003eThe capacitor is broken, but it might be useful elsewhere.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 46,
+  "rarity": "Masterwork",
+  "vendor_value": 105,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23768,
+  "chat_link": "[\u0026AgHYXAAA]",
+  "icon": "https://render.guildwars2.com/file/ACAB265A3CC65F0F7A9BCA3051D528B478546EC8/455962.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 80.3675,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 20
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 28
+        }
+      ]
+    }
+  }
+}

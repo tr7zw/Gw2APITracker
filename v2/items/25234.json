@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Norn Bow of Energy",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Rare",
+  "vendor_value": 275,
+  "default_skin": 5047,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25234,
+  "chat_link": "[\u0026AgGSYgAA]",
+  "icon": "https://render.guildwars2.com/file/B80D335967A4365B4EDB6D39B60E74C96917AD4F/575172.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 737,
+    "max_power": 865,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 538.416,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 188
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 135
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 135
+        }
+      ]
+    },
+    "suffix_item_id": 24606
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Carapace Shoes",
+  "description": "Obtained from lost bandit chests in the Silverwastes. Extra pieces can be purchased with bandit crests once a boot requisition order is obtained.",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 5733,
+  "icon": "https://render.guildwars2.com/file/C377544B0D0A5A3634F10309BE5779A625BB91A2/904649.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

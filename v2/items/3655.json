@@ -1,0 +1,48 @@
+{
+  "name": "Rabid Warden Boots",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 1000,
+  "default_skin": 527,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Sylvari"
+  ],
+  "id": 3655,
+  "chat_link": "[\u0026AgFHDgAA]",
+  "icon": "https://render.guildwars2.com/file/EDC2558007B69239E1020B2A91C5C7FEDA146357/61169.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 108,
+    "infusion_slots": [],
+    "attribute_adjustment": 75.33,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 19
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 19
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 26
+        }
+      ]
+    }
+  }
+}

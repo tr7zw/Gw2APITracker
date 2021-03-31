@@ -1,0 +1,34 @@
+{
+  "name": "Luminous Heavy Pauldrons",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe",
+    "HideIfLocked"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 8299,
+  "icon": "https://render.guildwars2.com/file/D3A4B0673F1E12CF37A54F04980135CAA6EDFD08/2022494.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        null,
+        {
+          "color_id": -1,
+          "material": "metal"
+        }
+      ],
+      "overrides": {}
+    }
+  }
+}

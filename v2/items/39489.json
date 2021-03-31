@@ -1,0 +1,31 @@
+{
+  "name": "Limited-Use Sanctified Finisher",
+  "description": "Send your opponents to the afterlife with this spirit-infused finishing move in PvP and WvW.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 39489,
+  "chat_link": "[\u0026AgFBmgAA]",
+  "icon": "https://render.guildwars2.com/file/9C3A6EF03A90612FEB0939280CA737CF76D5B0E5/619685.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "Content"
+  }
+}

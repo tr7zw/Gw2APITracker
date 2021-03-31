@@ -1,0 +1,40 @@
+{
+  "name": "Darkened Vine",
+  "type": "Trinket",
+  "level": 55,
+  "rarity": "Masterwork",
+  "vendor_value": 120,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 36657,
+  "chat_link": "[\u0026AgExjwAA]",
+  "icon": "https://render.guildwars2.com/file/0FFCB6F430ECDD6DCD58BFCFA9147D0EC677CC9F/223873.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 102.382,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 26
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 36
+        }
+      ]
+    },
+    "suffix_item_id": 24490
+  }
+}

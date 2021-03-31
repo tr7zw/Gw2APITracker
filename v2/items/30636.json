@@ -1,0 +1,53 @@
+{
+  "name": "Improved Brackwater Village Focus",
+  "description": "\u003cc\u003d@flavor\u003e\"You act with the honor of Wardens. Thank you for your help.\" \u003cbr\u003e—Quennida\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 63,
+  "rarity": "Masterwork",
+  "vendor_value": 108,
+  "default_skin": 5178,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30636,
+  "chat_link": "[\u0026AgGsdwAA]",
+  "icon": "https://render.guildwars2.com/file/2344244016425D02CE90BC950B366B7FC0183C37/62837.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 507,
+    "max_power": 539,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 198.356,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 50
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 50
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 69
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

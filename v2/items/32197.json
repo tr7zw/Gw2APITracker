@@ -1,0 +1,51 @@
+{
+  "name": "Hunting Trident",
+  "description": "",
+  "type": "Weapon",
+  "level": 68,
+  "rarity": "Masterwork",
+  "vendor_value": 171,
+  "default_skin": 5108,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32197,
+  "chat_link": "[\u0026AgHFfQAA]",
+  "icon": "https://render.guildwars2.com/file/CCA6E8F6C61EC8671054E280D12C59DA5AA060F3/780416.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 605,
+    "max_power": 669,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 442.408,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 155
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 111
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 111
+        }
+      ]
+    },
+    "suffix_item_id": 24560
+  }
+}

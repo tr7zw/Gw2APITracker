@@ -1,0 +1,88 @@
+{
+  "id": 5020,
+  "name": "The Hunger",
+  "description": "",
+  "requirement": "Collect all the food Bright Shore desires.",
+  "locked_text": "Find Bright Shore in the forest.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "MoveToTop",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 92247
+    },
+    {
+      "type": "Item",
+      "id": 92407
+    },
+    {
+      "type": "Item",
+      "id": 92220
+    },
+    {
+      "type": "Item",
+      "id": 92268
+    },
+    {
+      "type": "Item",
+      "id": 92350
+    },
+    {
+      "type": "Item",
+      "id": 92294
+    },
+    {
+      "type": "Item",
+      "id": 92234
+    },
+    {
+      "type": "Item",
+      "id": 92263
+    },
+    {
+      "type": "Item",
+      "id": 92295
+    },
+    {
+      "type": "Item",
+      "id": 92228
+    },
+    {
+      "type": "Item",
+      "id": 92246
+    },
+    {
+      "type": "Item",
+      "id": 92310
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 4
+    },
+    {
+      "count": 12,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    5060
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tundra",
+      "id": 473
+    }
+  ]
+}

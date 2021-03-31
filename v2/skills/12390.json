@@ -1,0 +1,64 @@
+{
+  "name": "Howl",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 10
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+      "duration": 10,
+      "status": "Fury",
+      "description": "Critical Chance increased by 20%; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+      "duration": 10,
+      "status": "Regeneration",
+      "description": "Gain health every second; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Launch",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/CB330EF25C62C05F1800A1C507B6AE4944551746/156653.png",
+      "distance": 300
+    },
+    {
+      "text": "Boon Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 1200
+    },
+    {
+      "text": "Blowout Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 150
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 10
+    }
+  ],
+  "description": "Howl wildly, giving allies fury and regeneration.",
+  "icon": "https://render.guildwars2.com/file/C063E7C2D7C69F6BC50593DF92964FEE66934FFD/103957.png",
+  "type": "Monster",
+  "weapon_type": "Hammer",
+  "professions": [],
+  "slot": "Weapon_4",
+  "flags": [
+    "NoUnderwater"
+  ],
+  "id": 12390,
+  "chat_link": "[\u0026BmYwAAA\u003d]"
+}

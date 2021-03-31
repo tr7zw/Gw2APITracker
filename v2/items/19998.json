@@ -1,0 +1,30 @@
+{
+  "name": "Dye Pack",
+  "description": "Each dye box contains 7 random dyes (5 common and 2 uncommon or rare). \n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.",
+  "type": "Container",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 19998,
+  "chat_link": "[\u0026AgEeTgAA]",
+  "icon": "https://render.guildwars2.com/file/09206A087606CFC674AC19E1E5CCADB6B3302061/66601.png",
+  "details": {
+    "type": "GiftBox"
+  }
+}

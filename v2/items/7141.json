@@ -1,0 +1,45 @@
+{
+  "name": "Vigorous Apprentice Coat",
+  "description": "",
+  "type": "Armor",
+  "level": 25,
+  "rarity": "Masterwork",
+  "vendor_value": 286,
+  "default_skin": 4,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 7141,
+  "chat_link": "[\u0026AgHlGwAA]",
+  "icon": "https://render.guildwars2.com/file/DB0264EE5C0079BB3996EC7B0297CEE1BD48EF07/61403.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 68,
+    "infusion_slots": [],
+    "attribute_adjustment": 65.7135,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 23
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 16
+        }
+      ]
+    }
+  }
+}

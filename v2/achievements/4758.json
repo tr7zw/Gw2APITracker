@@ -1,0 +1,52 @@
+{
+  "id": 4758,
+  "name": "Mystic Benefactor",
+  "description": "",
+  "requirement": "Donate to each of the  tiers of giving to the Mystic Forge research in Lion\u0027s Arch.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 90990
+    },
+    {
+      "type": "Item",
+      "id": 91005
+    },
+    {
+      "type": "Item",
+      "id": 91001
+    },
+    {
+      "type": "Item",
+      "id": 91028
+    },
+    {
+      "type": "Item",
+      "id": 91027
+    }
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 90997,
+      "count": 10
+    },
+    {
+      "type": "Title",
+      "id": 326
+    }
+  ]
+}

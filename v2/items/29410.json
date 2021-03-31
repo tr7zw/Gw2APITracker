@@ -1,0 +1,41 @@
+{
+  "name": "Copper Mace",
+  "description": "\u003cc\u003d@flavor\u003e\"My own special design.\"\u003cbr\u003e—Foreman Agvior\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 5,
+  "rarity": "Fine",
+  "vendor_value": 10,
+  "default_skin": 3945,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell"
+  ],
+  "restrictions": [],
+  "id": 29410,
+  "chat_link": "[\u0026AgHicgAA]",
+  "icon": "https://render.guildwars2.com/file/415D42C379B3AE75721E59D76E5F170926C416C1/65228.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 146,
+    "max_power": 165,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 15.744,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

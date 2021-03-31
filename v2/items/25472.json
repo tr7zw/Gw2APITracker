@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Norn Short Bow of Water",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 234,
+  "default_skin": 5117,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25472,
+  "chat_link": "[\u0026AgGAYwAA]",
+  "icon": "https://render.guildwars2.com/file/01BA17EB097060C3A5EAD0F5129D0A32CA59BF47/575179.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 564,
+    "max_power": 623,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 401.76,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 141
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 100
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 100
+        }
+      ]
+    },
+    "suffix_item_id": 24550
+  }
+}

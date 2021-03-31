@@ -1,0 +1,43 @@
+{
+  "name": "Ebonhawke Cease-Fire Agreement",
+  "description": "\u003cc\u003d@flavor\u003eThis is a copy of the declaration of cease-fire between humans and charr, putting a pause on a war that has lasted for generations.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 35,
+  "rarity": "Masterwork",
+  "vendor_value": 85,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23581,
+  "chat_link": "[\u0026AgEdXAAA]",
+  "icon": "https://render.guildwars2.com/file/5DDF09ED3C0A7CD4026DA5293F07A41C9178EC0C/66878.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 56.015,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 14
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 20
+        }
+      ]
+    }
+  }
+}

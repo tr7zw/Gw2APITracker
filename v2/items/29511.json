@@ -1,0 +1,49 @@
+{
+  "name": "Patient Sword",
+  "description": "\u003cc\u003d@flavor\u003e\"What they lack in common sense, they make up for in their ability to collect scraps. In this case, magical scraps.\"\u003cbr\u003e—Scholar Antal the Patient\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 41,
+  "rarity": "Masterwork",
+  "vendor_value": 76,
+  "default_skin": 4062,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29511,
+  "chat_link": "[\u0026AgFHcwAA]",
+  "icon": "https://render.guildwars2.com/file/D10679012504F6AD5829D1DF9F36303FE2EB46B4/64343.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 357,
+    "max_power": 394,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 110.636,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 28
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 39
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

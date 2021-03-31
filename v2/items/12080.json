@@ -1,0 +1,46 @@
+{
+  "name": "Cleric\u0027s Noble Boots",
+  "description": "",
+  "type": "Armor",
+  "level": 65,
+  "rarity": "Rare",
+  "vendor_value": 165,
+  "default_skin": 238,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 12080,
+  "chat_link": "[\u0026AgEwLwAA]",
+  "icon": "https://render.guildwars2.com/file/B57B5B700AF63B1DA0C5739516D6191DFCCE5BF1/61440.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 104,
+    "infusion_slots": [],
+    "attribute_adjustment": 84.051,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 21
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 21
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 29
+        }
+      ]
+    }
+  }
+}

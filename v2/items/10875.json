@@ -1,0 +1,42 @@
+{
+  "name": "Vigorous Gladiator Helm",
+  "description": "",
+  "type": "Armor",
+  "level": 50,
+  "rarity": "Rare",
+  "vendor_value": 169,
+  "default_skin": 259,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 10875,
+  "chat_link": "[\u0026AgF7KgAA]",
+  "icon": "https://render.guildwars2.com/file/3B50937F62A523EEA40BD876F51BEEFA4811E46A/61529.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 58,
+    "infusion_slots": [],
+    "attribute_adjustment": 78.408,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 27
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 20
+        }
+      ]
+    }
+  }
+}

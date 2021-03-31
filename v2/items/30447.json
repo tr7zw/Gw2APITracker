@@ -1,0 +1,53 @@
+{
+  "name": "Sylvari Long Bow",
+  "description": "\u003cc\u003d@flavor\u003e\"This bow will make quick work of your enemy!\"\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 55,
+  "rarity": "Masterwork",
+  "vendor_value": 144,
+  "default_skin": 3942,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30447,
+  "chat_link": "[\u0026AgHvdgAA]",
+  "icon": "https://render.guildwars2.com/file/C6110F52DF5AFE0F00A56F9E143E9732176DDDE9/65015.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 482,
+    "max_power": 566,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 327.624,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 82
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 82
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 115
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

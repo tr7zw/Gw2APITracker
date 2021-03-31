@@ -1,0 +1,50 @@
+{
+  "name": "Berserker\u0027s Duelist Pants",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 2724,
+  "default_skin": 873,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 40610,
+  "chat_link": "[\u0026AgGingAA]",
+  "icon": "https://render.guildwars2.com/file/CD30B04F5B3E7417BFAD0208B3BED9295A010B59/61050.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Medium",
+    "defense": 193,
+    "infusion_slots": [],
+    "attribute_adjustment": 226.368,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 79
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 57
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 57
+        }
+      ]
+    }
+  }
+}

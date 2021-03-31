@@ -1,0 +1,53 @@
+{
+  "name": "Meddler\u0027s Rifle",
+  "description": "\u003cc\u003d@flavor\u003e\"This here is my very favorite rifle. Try it for yourself.\"\u003cbr\u003e—Maakel The Immortal\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 198,
+  "default_skin": 5033,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30273,
+  "chat_link": "[\u0026AgFBdgAA]",
+  "icon": "https://render.guildwars2.com/file/50113CEAABC198949852AE1979C1B9F6E000AA4B/63882.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 812,
+    "max_power": 992,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 559.912,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 140
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 140
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 196
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

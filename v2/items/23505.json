@@ -1,0 +1,39 @@
+{
+  "name": "Sealed Iron Legion Ghost Trap",
+  "description": "\u003cc\u003d@flavor\u003e\"Putting your ear close to it, you can hear something trying to get out.\"\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 8,
+  "rarity": "Fine",
+  "vendor_value": 17,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23505,
+  "chat_link": "[\u0026AgHRWwAA]",
+  "icon": "https://render.guildwars2.com/file/E8C206B0F7969078E325589D14D31B110DC4D662/63604.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 12.16,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

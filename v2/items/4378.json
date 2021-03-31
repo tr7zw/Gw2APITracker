@@ -1,0 +1,50 @@
+{
+  "name": "Severed Breach Mask",
+  "description": "\u003cc\u003d@flavor\u003e\"You can\u0027t beat your enemy if you have your skull caved in, can you?\"\u003cbr\u003e—Legionnaire Neverburn\u003c/c\u003e",
+  "type": "Armor",
+  "level": 61,
+  "rarity": "Fine",
+  "vendor_value": 65,
+  "default_skin": 927,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4378,
+  "chat_link": "[\u0026AgEaEQAA]",
+  "icon": "https://render.guildwars2.com/file/65A30FD6F92209F4CE27C439682740F5B2F60D3A/61236.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 50,
+    "infusion_slots": [],
+    "attribute_adjustment": 87.232,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 22
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 22
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 31
+        }
+      ]
+    }
+  }
+}

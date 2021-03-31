@@ -1,0 +1,49 @@
+{
+  "name": "Sentinel\u0027s Iron Rifle of Peril",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 198,
+  "default_skin": 4092,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 41685,
+  "chat_link": "[\u0026AgHVogAA]",
+  "icon": "https://render.guildwars2.com/file/167018D742BBF5120BE4ACE80DE5B049089D20F2/62700.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 812,
+    "max_power": 992,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 559.912,
+    "infix_upgrade": {
+      "id": 686,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 140
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 140
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 196
+        }
+      ]
+    },
+    "suffix_item_id": 24619
+  }
+}

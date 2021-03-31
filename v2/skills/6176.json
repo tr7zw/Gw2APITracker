@@ -1,0 +1,61 @@
+{
+  "name": "Regenerating Mist",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 21
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+      "duration": 3,
+      "status": "Regeneration",
+      "description": "Gain health every second; stacks duration.",
+      "apply_count": 2
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 480
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    },
+    {
+      "text": "Combo Field",
+      "type": "ComboField",
+      "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+      "field_type": "Water"
+    }
+  ],
+  "description": "Release a mist of healing liquid to regenerate nearby allies.",
+  "icon": "https://render.guildwars2.com/file/D7F356D2A7C6B42FF295CDA6765B0B45F508541A/103463.png",
+  "type": "Toolbelt",
+  "weapon_type": "None",
+  "slot": "Toolbelt",
+  "professions": [
+    "Engineer"
+  ],
+  "flags": [],
+  "id": 6176,
+  "chat_link": "[\u0026BiAYAAA\u003d]",
+  "traited_facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+      "duration": 7,
+      "status": "Superspeed",
+      "description": "Movement speed is greatly increased.",
+      "apply_count": 1,
+      "requires_trait": 2014
+    }
+  ]
+}

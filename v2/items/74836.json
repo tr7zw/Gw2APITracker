@@ -1,0 +1,58 @@
+{
+  "name": "Ossa\u0027s Wristguards",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of the famous ruler, Turai Ossa.\u003c/c\u003e",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 240,
+  "default_skin": 118,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 74836,
+  "chat_link": "[\u0026AgFUJAEA]",
+  "icon": "https://render.guildwars2.com/file/5859B5CF97C0D394CF5CB5B3042775C6E6C1A1EB/699211.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 140,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 134.442,
+    "infix_upgrade": {
+      "id": 1109,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 40
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 40
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 22
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 22
+        }
+      ]
+    }
+  }
+}

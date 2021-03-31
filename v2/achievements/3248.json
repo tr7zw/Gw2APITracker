@@ -1,0 +1,27 @@
+{
+  "id": 3248,
+  "name": "Snowball Mayhem Participant",
+  "description": "Your hands must be freezing by now.",
+  "requirement": "Complete  round of Snowball Mayhem.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 30,
+      "points": 0
+    }
+  ],
+  "point_cap": -1,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 77604,
+      "count": 3
+    }
+  ]
+}

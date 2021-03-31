@@ -1,0 +1,45 @@
+{
+  "name": "Ruby Platinum Amulet",
+  "description": "",
+  "type": "Trinket",
+  "level": 65,
+  "rarity": "Masterwork",
+  "vendor_value": 220,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 13470,
+  "chat_link": "[\u0026AgGeNAAA]",
+  "icon": "https://render.guildwars2.com/file/1EB07006DF201DBB171ADACE0944A397BBA59991/340220.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 206.992,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 72
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 52
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 52
+        }
+      ]
+    },
+    "suffix_item_id": 24877
+  }
+}

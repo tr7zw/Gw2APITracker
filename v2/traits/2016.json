@@ -1,0 +1,25 @@
+{
+  "id": 2016,
+  "tier": 1,
+  "order": 1,
+  "name": "Cultivated Synergy",
+  "description": "Using your heal skill, heals allies around you and your pet.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Healing",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "value": 1000,
+      "target": "Healing"
+    },
+    {
+      "text": "Number of Allied Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    }
+  ],
+  "specialization": 5,
+  "icon": "https://render.guildwars2.com/file/9DAD4D2E74CDD1C5196848BCBE63BC12CE534B68/1128531.png"
+}

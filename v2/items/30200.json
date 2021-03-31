@@ -1,0 +1,48 @@
+{
+  "name": "Deno\u0027s Harpoon",
+  "description": "\u003cc\u003d@flavor\u003e\"Sometimes I get bored waiting on shore for the nets to fill up. Out here you shouldn\u0027t be afraid to take what you want.\"\u003cbr\u003e—Deno\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 41,
+  "rarity": "Fine",
+  "vendor_value": 57,
+  "default_skin": 4156,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30200,
+  "chat_link": "[\u0026AgH4dQAA]",
+  "icon": "https://render.guildwars2.com/file/DCAD6461D629BBB5417CD8B6170E7CE27EB4DEF8/65195.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 329,
+    "max_power": 363,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 201.728,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 50
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 71
+        }
+      ]
+    }
+  }
+}

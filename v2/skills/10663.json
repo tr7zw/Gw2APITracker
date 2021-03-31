@@ -1,0 +1,66 @@
+{
+  "name": "Plague of Pestilence",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 1
+    },
+    {
+      "text": "Damage Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 100
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+      "duration": 3,
+      "status": "Crippled",
+      "description": "Movement speed decreased by 50%; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+      "duration": 3,
+      "status": "Weakness",
+      "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 240
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    }
+  ],
+  "description": "Add cripple and weakness to your plague and increase its damage dealt.",
+  "icon": "https://render.guildwars2.com/file/6DA0DEA012B8E32B9F361F269CA7F54F2906C3AF/103845.png",
+  "type": "Bundle",
+  "weapon_type": "None",
+  "professions": [
+    "Thief",
+    "Mesmer",
+    "Warrior",
+    "Elementalist",
+    "Necromancer",
+    "Guardian",
+    "Ranger",
+    "Engineer",
+    "Revenant"
+  ],
+  "slot": "Weapon_3",
+  "flags": [],
+  "id": 10663,
+  "chat_link": "[\u0026BqcpAAA\u003d]"
+}

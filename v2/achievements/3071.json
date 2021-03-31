@@ -1,0 +1,97 @@
+{
+  "id": 3071,
+  "name": "The Memoirs of Justiciar Bauer",
+  "description": "The ninth of his name.",
+  "requirement": "Find the scattered pages in Bloodstone Fen.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 79299
+    },
+    {
+      "type": "Item",
+      "id": 79057
+    },
+    {
+      "type": "Item",
+      "id": 79081
+    },
+    {
+      "type": "Item",
+      "id": 79127
+    },
+    {
+      "type": "Item",
+      "id": 79126
+    },
+    {
+      "type": "Item",
+      "id": 79244
+    },
+    {
+      "type": "Item",
+      "id": 79170
+    },
+    {
+      "type": "Item",
+      "id": 79223
+    },
+    {
+      "type": "Item",
+      "id": 79202
+    },
+    {
+      "type": "Item",
+      "id": 79228
+    },
+    {
+      "type": "Item",
+      "id": 79256
+    },
+    {
+      "type": "Item",
+      "id": 79147
+    },
+    {
+      "type": "Item",
+      "id": 79267
+    },
+    {
+      "type": "Item",
+      "id": 79226
+    },
+    {
+      "type": "Item",
+      "id": 79198
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    },
+    {
+      "count": 15,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 79279,
+      "count": 1
+    }
+  ]
+}

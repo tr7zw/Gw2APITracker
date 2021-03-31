@@ -1,0 +1,95 @@
+{
+  "id": 3012,
+  "icon": "https://render.guildwars2.com/file/B0564CD9E97C6D630EA6C6A593DC6CDCC903F42D/1302678.png",
+  "name": "Envoy Armor II: Refined Armor",
+  "description": "To improve your Envoy Armor, it will take an incredible amount of aspected magical energy collected from across Tyria and the Mists.",
+  "requirement": "",
+  "locked_text": "Complete the Envoy Armor I collection, and then speak with a crafter in Lion\u0027s Arch who matches your chosen discipline: Muireall (Armorsmith), Giita (Tailor), or Hamil (Leatherworker).",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 78797
+    },
+    {
+      "type": "Item",
+      "id": 78882
+    },
+    {
+      "type": "Item",
+      "id": 78891
+    },
+    {
+      "type": "Item",
+      "id": 78851
+    },
+    {
+      "type": "Item",
+      "id": 78998
+    },
+    {
+      "type": "Item",
+      "id": 78825
+    },
+    {
+      "type": "Item",
+      "id": 78962
+    },
+    {
+      "type": "Item",
+      "id": 78937
+    },
+    {
+      "type": "Item",
+      "id": 78947
+    },
+    {
+      "type": "Item",
+      "id": 78982
+    },
+    {
+      "type": "Item",
+      "id": 78899
+    },
+    {
+      "type": "Item",
+      "id": 78933
+    },
+    {
+      "type": "Item",
+      "id": 78898
+    },
+    {
+      "type": "Item",
+      "id": 78836
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 3
+    },
+    {
+      "count": 14,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 78938,
+      "count": 1
+    }
+  ]
+}

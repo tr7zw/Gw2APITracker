@@ -1,0 +1,46 @@
+{
+  "name": "Bear Ceremonial Hood",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 248,
+  "default_skin": 9382,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 93446,
+  "chat_link": "[\u0026AgEGbQEA]",
+  "icon": "https://render.guildwars2.com/file/0759FDCB7CC7CF522B91C74CF4BAE9D498179192/2293321.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 107,
+    "infusion_slots": [],
+    "attribute_adjustment": 150.912,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 53
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 38
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 38
+        }
+      ]
+    }
+  }
+}

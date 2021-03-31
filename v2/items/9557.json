@@ -1,0 +1,28 @@
+{
+  "name": "Recipe: Skale Repeater",
+  "description": "Double-click to learn a recipe",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 11,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9557,
+  "chat_link": "[\u0026AgFVJQAA]",
+  "icon": "https://render.guildwars2.com/file/42946C022F7262302F26B546050CA0FAC1249D76/849347.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 4504
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Exquisite Azurite Jewel",
+  "description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 42008,
+  "chat_link": "[\u0026AgEYpAAA]",
+  "icon": "https://render.guildwars2.com/file/96966E9606695638B2A126EBC0F70F6DF0952B1D/561996.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "Trinket"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 684,
+      "buff": {
+        "skill_id": 17761,
+        "description": "+25 Vitality\n+15 Power\n+15 Toughness"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 15
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 15
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 25
+        }
+      ]
+    },
+    "suffix": "of Azurite"
+  }
+}

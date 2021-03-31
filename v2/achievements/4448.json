@@ -1,0 +1,38 @@
+{
+  "id": 4448,
+  "name": "(Annual) Masters of the Labyrinth",
+  "description": "",
+  "requirement": "Defeat all 3 champions in the Mad King\u0027s Labyrinth. Achievement can be completed once every year.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Skeletal Lich"
+    },
+    {
+      "type": "Text",
+      "text": "Grand High Viscount of Candy Corn"
+    },
+    {
+      "type": "Text",
+      "text": "Labyrinthine Horror"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 36038,
+      "count": 10
+    }
+  ]
+}

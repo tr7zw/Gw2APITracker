@@ -1,0 +1,67 @@
+{
+  "name": "Mark of Lingering",
+  "description": "Double-click to apply to an item with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 20,
+  "rarity": "Fine",
+  "vendor_value": 24,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24885,
+  "chat_link": "[\u0026AgE1YQAA]",
+  "icon": "https://render.guildwars2.com/file/359C31A35D9BBF356508545B77566F24B86F4B29/223397.png",
+  "details": {
+    "type": "Gem",
+    "flags": [
+      "ShortBow",
+      "HeavyArmor",
+      "LightArmor",
+      "Dagger",
+      "MediumArmor",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Trinket",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 479,
+      "buff": {
+        "skill_id": 270,
+        "description": "+5 Condition Damage\n+2 Vitality"
+      },
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 2
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 5
+        }
+      ]
+    },
+    "suffix": "of Lingering"
+  }
+}

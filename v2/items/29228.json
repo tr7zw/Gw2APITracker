@@ -1,0 +1,52 @@
+{
+  "name": "Modniir Effigy",
+  "description": "",
+  "type": "Weapon",
+  "level": 43,
+  "rarity": "Fine",
+  "vendor_value": 40,
+  "default_skin": 4652,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29228,
+  "chat_link": "[\u0026AgEscgAA]",
+  "icon": "https://render.guildwars2.com/file/027833F7B4DB65057C590726A418BD3F59CEA7F2/63480.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 315,
+    "max_power": 334,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 107.456,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 38
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 27
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 27
+        }
+      ]
+    }
+  }
+}

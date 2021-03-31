@@ -1,0 +1,57 @@
+{
+  "name": "Adelbern\u0027s Burden",
+  "description": "\u003cc\u003d@flavor\u003e\"You will join my kingdom! You and all the world of the living!\"—King Adelbern\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 413,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 67294,
+  "chat_link": "[\u0026AgHeBgEA]",
+  "icon": "https://render.guildwars2.com/file/59FBD6C721C264E678D3D81B6F0E99C758BC1693/866835.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 224.07,
+    "infix_upgrade": {
+      "id": 1035,
+      "buff": {
+        "skill_id": 25440,
+        "description": "+32 Vitality\n+18 Power\n+18 Toughness"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 74
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 74
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 110
+        }
+      ]
+    }
+  }
+}

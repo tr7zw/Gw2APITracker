@@ -1,0 +1,42 @@
+{
+  "name": "Ravaging Soft Wood Scepter",
+  "description": "",
+  "type": "Weapon",
+  "level": 25,
+  "rarity": "Fine",
+  "vendor_value": 27,
+  "default_skin": 3892,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 13852,
+  "chat_link": "[\u0026AgEcNgAA]",
+  "icon": "https://render.guildwars2.com/file/2696C7FBBB99549E700204A9A11F75B0D50CEC2E/65334.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 227,
+    "max_power": 256,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 52.8,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 13
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 18
+        }
+      ]
+    }
+  }
+}

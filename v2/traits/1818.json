@@ -1,0 +1,33 @@
+{
+  "id": 1818,
+  "tier": 2,
+  "order": 2,
+  "name": "Invoking Harmony",
+  "description": "Healing done to other allies is increased for a short duration after invoking a legend.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/4BA0B6F2AD93F72CA3D5C3C40D30B40B14920825/2128015.png",
+      "duration": 10,
+      "status": "Invoking Harmony",
+      "description": "Healing done to other allies is increased for a short duration after invoking a legend.",
+      "apply_count": 1
+    },
+    {
+      "text": "Effectiveness Increased",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "percent": 20
+    },
+    {
+      "text": "Effectiveness Increased",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "percent": 10
+    }
+  ],
+  "specialization": 12,
+  "icon": "https://render.guildwars2.com/file/4BA0B6F2AD93F72CA3D5C3C40D30B40B14920825/2128015.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": 2058,
+  "tier": 3,
+  "order": 1,
+  "name": "Lingering Light",
+  "description": "When you enter celestial avatar form, your next strike will blind your foe and heal you. While in celestial avatar form, your healing of others is significantly increased.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Healing Increase to Others",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "percent": 50
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/01BBD8CADBC6E9BBED46A2D9026976316CA8EAD9/1128537.png",
+      "duration": 5,
+      "status": "Lingering Light",
+      "description": "Your next attack heals you and inflicts blind on your enemy.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+      "duration": 4,
+      "status": "Blinded",
+      "description": "Next outgoing attack misses; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Healing",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "value": 596,
+      "target": "Healing"
+    }
+  ],
+  "specialization": 5,
+  "icon": "https://render.guildwars2.com/file/01BBD8CADBC6E9BBED46A2D9026976316CA8EAD9/1128537.png"
+}

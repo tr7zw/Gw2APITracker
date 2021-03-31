@@ -1,0 +1,52 @@
+{
+  "name": "Voxite Rifle",
+  "description": "\u003cc\u003d@flavor\u003e\"We modified this gear with techniques that should make us famous—if we survive.\"\u003cbr\u003e—Asuran Inventor\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 71,
+  "rarity": "Fine",
+  "vendor_value": 89,
+  "default_skin": 5033,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30308,
+  "chat_link": "[\u0026AgFkdgAA]",
+  "icon": "https://render.guildwars2.com/file/50113CEAABC198949852AE1979C1B9F6E000AA4B/63882.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 644,
+    "max_power": 787,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 434.176,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 152
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 109
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 109
+        }
+      ]
+    }
+  }
+}

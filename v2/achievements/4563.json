@@ -1,0 +1,39 @@
+{
+  "id": 4563,
+  "name": "Chasing Tales: Rallying Cry",
+  "description": "\"This next one is called \u0027We\u0027re Comrades, Not Friends, Don\u0027t Talk to Me After This Is Over,\u0027 and it goes a little something like this...\"",
+  "requirement": "Gain 30 boons while wielding a warhorn in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Codd the Cheerful."
+    },
+    {
+      "type": "Text",
+      "text": "Gained 30 boons while wielding a warhorn in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89868,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Tactical Torch",
+  "description": "\u003cc\u003d@flavor\u003e\"They said it couldn\u0027t be done, but I did it. The legions first tactical torch.\"\u003cbr\u003e—Tactician Lyan\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 67,
+  "rarity": "Masterwork",
+  "vendor_value": 112,
+  "default_skin": 5141,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30167,
+  "chat_link": "[\u0026AgHXdQAA]",
+  "icon": "https://render.guildwars2.com/file/B9BCAA2F79C29066BBA81255E31B223B5A735B3A/68169.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 518,
+    "max_power": 608,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 216.444,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 76
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 54
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 54
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

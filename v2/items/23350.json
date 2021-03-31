@@ -1,0 +1,47 @@
+{
+  "name": "Stone Summit Dwarf Badge",
+  "description": "\u003cc\u003d@flavor\u003e\"These badges are amazing. There are so many interesting ranks, positions, honors. It was quite a complex military organization.\"\u003cbr\u003e—Researcher Raekk\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 55,
+  "rarity": "Fine",
+  "vendor_value": 60,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23350,
+  "chat_link": "[\u0026AgE2WwAA]",
+  "icon": "https://render.guildwars2.com/file/0F69C2D7C004F3D4FCD0F3750D7AD6CFD0333014/455913.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 94.04,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 24
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 24
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 33
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Priory Field Guide to Dredge",
+  "description": "\u003cc\u003d@flavor\u003e\"Dredge are among the most industrious of all the races of Tyria. Their singular ability to dig is second to none.\"\u003cbr\u003e—Priory Field Guide to Dredge\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 46,
+  "rarity": "Masterwork",
+  "vendor_value": 105,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23419,
+  "chat_link": "[\u0026AgF7WwAA]",
+  "icon": "https://render.guildwars2.com/file/095B9410F480575B7EAF9CDA9F05163FB8530251/220884.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 80.3675,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 28
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 20
+        }
+      ]
+    }
+  }
+}

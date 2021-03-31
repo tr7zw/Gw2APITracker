@@ -1,0 +1,36 @@
+{
+  "name": "Malign Studded Boots",
+  "description": "",
+  "type": "Armor",
+  "level": 19,
+  "rarity": "Fine",
+  "vendor_value": 23,
+  "default_skin": 48,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 581,
+  "chat_link": "[\u0026AgFFAgAA]",
+  "icon": "https://render.guildwars2.com/file/C05DCA62E84D18EF46D5357C217956C55BC3063E/61013.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 26,
+    "infusion_slots": [],
+    "attribute_adjustment": 14.976,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 5
+        }
+      ]
+    }
+  }
+}

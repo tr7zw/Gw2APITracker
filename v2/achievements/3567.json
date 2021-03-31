@@ -1,0 +1,24 @@
+{
+  "id": 3567,
+  "name": "Fleet of Foot",
+  "description": "",
+  "requirement": "Unlock the springer mount by completing the Highjump Ranch task region in the Desert Highlands, and by purchasing a springer saddle from Unja.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 342
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Mending Shiverpeak Speargun",
+  "type": "Weapon",
+  "level": 56,
+  "rarity": "Fine",
+  "vendor_value": 74,
+  "default_skin": 5058,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 25491,
+  "chat_link": "[\u0026AgGTYwAA]",
+  "icon": "https://render.guildwars2.com/file/B144EAD21C1A0A030A79B6A3D5050BFB34C97BFB/534288.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 447,
+    "max_power": 494,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 308.352,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 77
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 108
+        }
+      ]
+    }
+  }
+}

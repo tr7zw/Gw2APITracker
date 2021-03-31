@@ -1,0 +1,49 @@
+{
+  "name": "Shaman\u0027s Seer Pants",
+  "description": "",
+  "type": "Armor",
+  "level": 65,
+  "rarity": "Exotic",
+  "vendor_value": 308,
+  "default_skin": 10,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 64571,
+  "chat_link": "[\u0026AgE7/AAA]",
+  "icon": "https://render.guildwars2.com/file/1920ACA302E656B60C38605521760351F147809D/61088.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Light",
+    "defense": 145,
+    "infusion_slots": [],
+    "attribute_adjustment": 190.98,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 67
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 48
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 48
+        }
+      ]
+    }
+  }
+}

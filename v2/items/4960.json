@@ -1,0 +1,51 @@
+{
+  "name": "Brackwater Mask",
+  "description": "\u003cc\u003d@flavor\u003e\"Thanks for helping to get our supplies back. Here, take something you need from them.\"\u003cbr\u003e—Quennida\u003c/c\u003e",
+  "type": "Armor",
+  "level": 63,
+  "rarity": "Masterwork",
+  "vendor_value": 135,
+  "default_skin": 941,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4960,
+  "chat_link": "[\u0026AgFgEwAA]",
+  "icon": "https://render.guildwars2.com/file/40B4D696039F9E06A11BF913FF66FDFB3DD57CEA/61253.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 57,
+    "infusion_slots": [],
+    "attribute_adjustment": 99.178,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 25
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 25
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 35
+        }
+      ]
+    },
+    "suffix_item_id": 24733
+  }
+}

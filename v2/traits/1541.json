@@ -1,0 +1,42 @@
+{
+  "id": 1541,
+  "tier": 3,
+  "order": 0,
+  "name": "Flashbang",
+  "description": "Explosive Entrance inflicts blindness when it hits. Additionally it dazes foes above the health threshold.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Daze above Health Threshold",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "percent": 90
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+      "duration": 3,
+      "status": "Blinded",
+      "description": "Next outgoing attack misses; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+      "duration": 2,
+      "status": "Blinded",
+      "description": "Next outgoing attack misses; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Daze",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
+      "duration": 1
+    }
+  ],
+  "specialization": 6,
+  "icon": "https://render.guildwars2.com/file/7093569DA52A64BE5C42AE0A0D0A700BAA320C0C/2261505.png"
+}

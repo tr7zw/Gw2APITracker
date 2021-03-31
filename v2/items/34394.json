@@ -1,0 +1,41 @@
+{
+  "name": "Ravaging Glyphic Ward",
+  "type": "Weapon",
+  "level": 41,
+  "rarity": "Fine",
+  "vendor_value": 38,
+  "default_skin": 5207,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 34394,
+  "chat_link": "[\u0026AgFahgAA]",
+  "icon": "https://render.guildwars2.com/file/A2B7C080B75DCC1C65DB50746CB0E90356240667/434774.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 293,
+    "max_power": 330,
+    "defense": 20,
+    "infusion_slots": [],
+    "attribute_adjustment": 100.864,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 25
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 35
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": 4652,
+  "name": "Super Adventurer\u0027s Quest",
+  "description": "",
+  "requirement": "Find secret items in the Adventure Box to trade your way to a new upgrade!",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 90109
+    },
+    {
+      "type": "Item",
+      "id": 90105
+    },
+    {
+      "type": "Item",
+      "id": 90108
+    },
+    {
+      "type": "Item",
+      "id": 90097
+    },
+    {
+      "type": "Item",
+      "id": 90112
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 5,
+      "points": 5
+    }
+  ]
+}

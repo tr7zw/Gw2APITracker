@@ -1,0 +1,46 @@
+{
+  "name": "Apothecary\u0027s Barbaric Pauldrons",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 80,
+  "default_skin": 206,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 36749,
+  "chat_link": "[\u0026AgGNjwAA]",
+  "icon": "https://render.guildwars2.com/file/742B082701940B4AE9F9696A60455B68150546EB/61365.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "defense": 100,
+    "infusion_slots": [],
+    "attribute_adjustment": 104.983,
+    "infix_upgrade": {
+      "id": 605,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 26
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 37
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 26
+        }
+      ]
+    }
+  }
+}

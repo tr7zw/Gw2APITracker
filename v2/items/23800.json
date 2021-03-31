@@ -1,0 +1,43 @@
+{
+  "name": "Feather Duster",
+  "description": "\u003cc\u003d@flavor\u003eGood for cleaning those nooks and crannies.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 29,
+  "rarity": "Fine",
+  "vendor_value": 38,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23800,
+  "chat_link": "[\u0026AgH4XAAA]",
+  "icon": "https://render.guildwars2.com/file/21FF236A656E0BAA217C6E2E5AEBD2D1A6E3B7BC/66426.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 39.96,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 14
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 10
+        }
+      ]
+    }
+  }
+}

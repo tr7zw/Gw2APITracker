@@ -1,0 +1,51 @@
+{
+  "name": "Tactical Pauldrons",
+  "description": "\u003cc\u003d@flavor\u003e\"Dye these black for the ultimate in tactical armor.\"\u003cbr\u003e—Tactician Lyan\u003c/c\u003e",
+  "type": "Armor",
+  "level": 67,
+  "rarity": "Masterwork",
+  "vendor_value": 124,
+  "default_skin": 911,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4361,
+  "chat_link": "[\u0026AgEJEQAA]",
+  "icon": "https://render.guildwars2.com/file/28F97A1A446918DA29AF051C59D0F4D293DDA9B1/61272.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "defense": 77,
+    "infusion_slots": [],
+    "attribute_adjustment": 81.1665,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 20
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 20
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 28
+        }
+      ]
+    },
+    "suffix_item_id": 24739
+  }
+}

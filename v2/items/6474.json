@@ -1,0 +1,37 @@
+{
+  "name": "Wraith Masque",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 1,
+  "default_skin": 2047,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoMysticForge",
+    "NoSalvage",
+    "NotUpgradeable",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6474,
+  "chat_link": "[\u0026AgFKGQAA]",
+  "icon": "https://render.guildwars2.com/file/A3657D415E6796AF15A195BF44752D734EBE054A/61640.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 5,
+    "infusion_slots": [],
+    "attribute_adjustment": 3.9,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    }
+  }
+}

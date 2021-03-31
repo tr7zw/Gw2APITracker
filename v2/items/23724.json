@@ -1,0 +1,39 @@
+{
+  "name": "Moa Collar",
+  "description": "\u003cc\u003d@flavor\u003e\"Our moas prefer the spiked collars.\"\u003cbr\u003e—Cassie\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 5,
+  "rarity": "Fine",
+  "vendor_value": 13,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23724,
+  "chat_link": "[\u0026AgGsXAAA]",
+  "icon": "https://render.guildwars2.com/file/BF37B370A2F404A9DBCF773CB7CF536C6A543901/220900.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 9.84,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 3
+        }
+      ]
+    }
+  }
+}

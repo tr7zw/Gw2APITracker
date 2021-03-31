@@ -1,0 +1,53 @@
+{
+  "name": "Drakkar Mace",
+  "description": "\u003cc\u003d@flavor\u003e\"We must each bring balance in our own ways.\"\u003cbr\u003e—Worthy Burden\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 79,
+  "rarity": "Masterwork",
+  "vendor_value": 130,
+  "default_skin": 3964,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29542,
+  "chat_link": "[\u0026AgFmcwAA]",
+  "icon": "https://render.guildwars2.com/file/415D42C379B3AE75721E59D76E5F170926C416C1/65228.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 725,
+    "max_power": 818,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 274.788,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 69
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 69
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 96
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

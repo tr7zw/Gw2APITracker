@@ -1,0 +1,27 @@
+{
+  "id": 1769,
+  "tier": 3,
+  "order": 0,
+  "name": "Contained Temper",
+  "description": "Gain fury when you disable a foe.\u003cbr\u003e\u003cc\u003d@reminder\u003eDisables include stun, daze, knockback, pull, knockdown, sink, float, fear, launch, and taunt.\u003c/c\u003e",
+  "slot": "Minor",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+      "duration": 8,
+      "status": "Fury",
+      "description": "Critical Chance increased by 20%; stacks duration.",
+      "apply_count": 1
+    }
+  ],
+  "specialization": 3,
+  "icon": "https://render.guildwars2.com/file/6DD65C66DD0E56A3150AC74D621DE90C260FA5B9/1012687.png"
+}

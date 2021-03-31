@@ -1,0 +1,46 @@
+{
+  "name": "First Haven Gauntlets",
+  "description": "\u003cc\u003d@flavor\u003e\"Excellent quality First Haven handwear.\"\u003cbr\u003e—Clerk Ulva\u003c/c\u003e",
+  "type": "Armor",
+  "level": 26,
+  "rarity": "Fine",
+  "vendor_value": 26,
+  "default_skin": 915,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4742,
+  "chat_link": "[\u0026AgGGEgAA]",
+  "icon": "https://render.guildwars2.com/file/072193AD5A74191DB5586EF1C9DC17D5F9729634/61258.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 37,
+    "infusion_slots": [],
+    "attribute_adjustment": 20.616,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 5
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 7
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": 4000,
+  "name": "Brandstone Research",
+  "description": "Istan is being bombarded by Brandstones, which may have unique and useful properties.",
+  "requirement": "",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 85639
+    },
+    {
+      "type": "Item",
+      "id": 85663
+    },
+    {
+      "type": "Item",
+      "id": 86126
+    },
+    {
+      "type": "Item",
+      "id": 85851
+    },
+    {
+      "type": "Item",
+      "id": 86386
+    },
+    {
+      "type": "Item",
+      "id": 86078
+    },
+    {
+      "type": "Item",
+      "id": 85973
+    }
+  ],
+  "tiers": [
+    {
+      "count": 7,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 86069,
+      "count": 50
+    }
+  ]
+}

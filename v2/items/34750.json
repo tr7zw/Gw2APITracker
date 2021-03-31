@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Verdant Axe of Ogre Slaying",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Rare",
+  "vendor_value": 126,
+  "default_skin": 5079,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34750,
+  "chat_link": "[\u0026AgG+hwAA]",
+  "icon": "https://render.guildwars2.com/file/606030E1F59700B41538A20D4A9D459806CCF645/434869.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 405,
+    "max_power": 495,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 140.256,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 35
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 49
+        }
+      ]
+    },
+    "suffix_item_id": 24656
+  }
+}

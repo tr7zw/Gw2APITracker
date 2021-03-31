@@ -1,0 +1,43 @@
+{
+  "name": "Strong Reinforced Scale Helm of Strength",
+  "description": "",
+  "type": "Armor",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 139,
+  "default_skin": 101,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 1811,
+  "chat_link": "[\u0026AgETBwAA]",
+  "icon": "https://render.guildwars2.com/file/6F30FEDA2B1405EEB10426E1200522E29D7C3ECB/61064.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 44,
+    "infusion_slots": [],
+    "attribute_adjustment": 56.736,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 20
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 14
+        }
+      ]
+    },
+    "suffix_item_id": 24713
+  }
+}

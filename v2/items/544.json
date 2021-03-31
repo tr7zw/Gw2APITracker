@@ -1,0 +1,36 @@
+{
+  "name": "Vital Studded Boots",
+  "description": "",
+  "type": "Armor",
+  "level": 18,
+  "rarity": "Fine",
+  "vendor_value": 22,
+  "default_skin": 48,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 544,
+  "chat_link": "[\u0026AgEgAgAA]",
+  "icon": "https://render.guildwars2.com/file/C05DCA62E84D18EF46D5357C217956C55BC3063E/61013.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 25,
+    "infusion_slots": [],
+    "attribute_adjustment": 14.184,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 5
+        }
+      ]
+    }
+  }
+}

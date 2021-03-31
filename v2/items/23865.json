@@ -1,0 +1,39 @@
+{
+  "name": "Lightning Rod",
+  "description": "\u003cc\u003d@flavor\u003e\"Can you feel the rod vibrate? It also makes a faint humming sound.\"\u003cbr\u003e—Opticalium Researcher Oisha\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 3,
+  "rarity": "Fine",
+  "vendor_value": 10,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23865,
+  "chat_link": "[\u0026AgE5XQAA]",
+  "icon": "https://render.guildwars2.com/file/C4750F260C3C112B710BC333F05A58FFAE42269D/65597.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 8.88,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 3
+        }
+      ]
+    }
+  }
+}

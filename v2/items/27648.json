@@ -1,0 +1,49 @@
+{
+  "name": "Cleric\u0027s Iron Hammer of Stamina",
+  "description": "",
+  "type": "Weapon",
+  "level": 75,
+  "rarity": "Exotic",
+  "vendor_value": 372,
+  "default_skin": 4060,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27648,
+  "chat_link": "[\u0026AgEAbAAA]",
+  "icon": "https://render.guildwars2.com/file/2F4509F15B48B1A9F1579D08539F4109972A31A4/65162.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 907,
+    "max_power": 1023,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 622.4,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 156
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 156
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 218
+        }
+      ]
+    },
+    "suffix_item_id": 24592
+  }
+}

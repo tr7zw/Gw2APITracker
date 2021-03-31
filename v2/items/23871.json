@@ -1,0 +1,39 @@
+{
+  "name": "Golem Prototype Ankle Crystal",
+  "description": "\u003cc\u003d@flavor\u003e\"Judging from the condition of this crystal, I\u0027d say the golem this came from took quite a beating before being disassembled.\"—Calcutician Doola\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 2,
+  "rarity": "Fine",
+  "vendor_value": 9,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23871,
+  "chat_link": "[\u0026AgE/XQAA]",
+  "icon": "https://render.guildwars2.com/file/045C05C2F83A59FC4B6F15073465C5D3040E4DF5/65674.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 8.4,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 3
+        }
+      ]
+    }
+  }
+}

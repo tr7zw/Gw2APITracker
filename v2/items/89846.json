@@ -1,0 +1,60 @@
+{
+  "name": "Steelstar\u0027s Artifact",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of dwarven weaponsmith Frodak Steelstar.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 10000,
+  "default_skin": 4170,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 89846,
+  "chat_link": "[\u0026AgH2XgEA]",
+  "icon": "https://render.guildwars2.com/file/3F2F9F46E00592FE966F0E976445A87536743513/631554.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 873,
+    "max_power": 927,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "infix_upgrade": {
+      "id": 1539,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 108
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 59
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 59
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 108
+        }
+      ]
+    }
+  }
+}

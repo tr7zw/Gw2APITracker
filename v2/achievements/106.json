@@ -1,0 +1,25 @@
+{
+  "id": 106,
+  "name": "Speargun Master",
+  "description": "A mighty hunter cuts through the water.",
+  "requirement": "Deliver  killing blows with a speargun.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 100,
+      "points": 1
+    },
+    {
+      "count": 500,
+      "points": 5
+    },
+    {
+      "count": 5000,
+      "points": 5
+    }
+  ]
+}

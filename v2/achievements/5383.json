@@ -1,0 +1,57 @@
+{
+  "id": 5383,
+  "name": "Confer with Bangar",
+  "description": "Even in his captivity, Bangar is shrewd enough not to share all of his thoughts at once. I need to wait until the right time to get information from him.",
+  "requirement": "Speak with Bangar Ruinbringer at the Eye of the North.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Check in with Bangar at the Eye of the North."
+    },
+    {
+      "type": "Text",
+      "text": "Bangar\u0027s rebuke."
+    },
+    {
+      "type": "Text",
+      "text": "Bangar\u0027s ego."
+    },
+    {
+      "type": "Text",
+      "text": "Rytlock speaks his mind."
+    },
+    {
+      "type": "Text",
+      "text": "Aurene versus Jormag."
+    },
+    {
+      "type": "Text",
+      "text": "Jormag\u0027s secret."
+    },
+    {
+      "type": "Text",
+      "text": "Crecia weighs in."
+    },
+    {
+      "type": "Text",
+      "text": "Jormag\u0027s enemy."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 8,
+      "points": 1
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Razor-Sharp Dagger",
+  "description": "\u003cc\u003d@flavor\u003e\"Not my fault if you cut yourself!\"\u003cbr\u003e—Bordekka\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 19,
+  "rarity": "Masterwork",
+  "vendor_value": 46,
+  "default_skin": 3871,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30584,
+  "chat_link": "[\u0026AgF4dwAA]",
+  "icon": "https://render.guildwars2.com/file/BDAAF7437FD44F2AA7592F0A1EC5F9EEC690F635/66164.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 224,
+    "max_power": 238,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 44.744,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 16
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

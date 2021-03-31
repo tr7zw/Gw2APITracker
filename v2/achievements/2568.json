@@ -1,0 +1,46 @@
+{
+  "id": 2568,
+  "name": "Forgotten City Arches",
+  "description": "Use your glider to experience the beauty of Tarir.",
+  "requirement": "Glide through / arches below the waterfall on the eastern side of Tarir.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Glide below the highest set of arches."
+    },
+    {
+      "type": "Text",
+      "text": "Glide below the medium set of arches."
+    },
+    {
+      "type": "Text",
+      "text": "Glide below the lowest set of arches."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 63
+    }
+  ]
+}

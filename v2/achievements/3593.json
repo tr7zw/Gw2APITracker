@@ -1,0 +1,78 @@
+{
+  "id": 3593,
+  "name": "Path of the Gods",
+  "description": "There WOULD be eight, but nobody could find any statues of Dhuum.",
+  "requirement": "Kneel at the statues of each human god.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Statue of Dwayna"
+    },
+    {
+      "type": "Text",
+      "text": "Statue of Melandru"
+    },
+    {
+      "type": "Text",
+      "text": "Statue of Lyssa"
+    },
+    {
+      "type": "Text",
+      "text": "Statue of Grenth"
+    },
+    {
+      "type": "Text",
+      "text": "Statue of Balthazar"
+    },
+    {
+      "type": "Text",
+      "text": "Statue of Kormir"
+    },
+    {
+      "type": "Text",
+      "text": "Statue of Abaddon"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 332
+    }
+  ]
+}

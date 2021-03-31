@@ -1,0 +1,44 @@
+{
+  "name": "Militia Sword",
+  "description": "\u003cc\u003d@flavor\u003e\"Remember, attack as they lower their guard.\"\u003cbr\u003e—Sergeant Neal\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 8,
+  "rarity": "Fine",
+  "vendor_value": 13,
+  "default_skin": 4062,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30356,
+  "chat_link": "[\u0026AgGUdgAA]",
+  "icon": "https://render.guildwars2.com/file/D10679012504F6AD5829D1DF9F36303FE2EB46B4/64343.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 158,
+    "max_power": 174,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 19.456,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 7
+        }
+      ]
+    }
+  }
+}

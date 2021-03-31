@@ -1,0 +1,60 @@
+{
+  "name": "Scarab Choker",
+  "description": "\u003cc\u003d@flavor\u003eThis choker is rumored to provide protection against the deadly Scarab Plague.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 660,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "NotUpgradeable",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 87860,
+  "chat_link": "[\u0026AgE0VwEA]",
+  "icon": "https://render.guildwars2.com/file/C29108A213A008E2F7939EBDD5CC5409B3DF94EA/1998744.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Enrichment"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "infix_upgrade": {
+      "id": 1486,
+      "buff": {
+        "skill_id": 50864
+      },
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 133
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 71
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 133
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 71
+        }
+      ]
+    }
+  }
+}

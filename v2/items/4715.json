@@ -1,0 +1,47 @@
+{
+  "name": "Seraph-Issue Shoulderpads",
+  "description": "\u003cc\u003d@flavor\u003e\"People should take shoulder protection more seriously. One arrow volley will change your opinion on a good pair of pauldrons.\"\u003cbr\u003e—Tripp\u003c/c\u003e",
+  "type": "Armor",
+  "level": 25,
+  "rarity": "Masterwork",
+  "vendor_value": 60,
+  "default_skin": 909,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4715,
+  "chat_link": "[\u0026AgFrEgAA]",
+  "icon": "https://render.guildwars2.com/file/74ED3739EB2161422FB3FA0F786FD6A33BE069B7/61030.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Medium",
+    "defense": 21,
+    "infusion_slots": [],
+    "attribute_adjustment": 21.9045,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 5
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 8
+        }
+      ]
+    },
+    "suffix_item_id": 24730
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Snapdragon Coat",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 1000,
+  "default_skin": 490,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Sylvari"
+  ],
+  "id": 3629,
+  "chat_link": "[\u0026AgEtDgAA]",
+  "icon": "https://render.guildwars2.com/file/03C74C66060050CCBBEF0522451419316F9EE942/433400.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 101,
+    "infusion_slots": [],
+    "attribute_adjustment": 110.889,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 28
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 39
+        }
+      ]
+    }
+  }
+}

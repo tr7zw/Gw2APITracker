@@ -1,0 +1,28 @@
+{
+  "id": 3919,
+  "name": "Courtly Service",
+  "description": "",
+  "requirement": "Tithe  gold commissioning services for the Mad King\u0027s Labyrinth.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 4
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 36038,
+      "count": 10
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": 188,
+  "name": "Sorrow\u0027s Subjugator",
+  "description": "The mighty moletariat unites in deed and song!",
+  "requirement": "Explored Sorrow\u0027s Embrace.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Story Mode"
+    },
+    {
+      "type": "Text",
+      "text": "Explorable Mode—Koptev\u0027s Path"
+    },
+    {
+      "type": "Text",
+      "text": "Explorable Mode—Rasolov\u0027s Path"
+    },
+    {
+      "type": "Text",
+      "text": "Explorable Mode—Fergg\u0027s Path"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 2,
+      "points": 5
+    },
+    {
+      "count": 3,
+      "points": 5
+    },
+    {
+      "count": 4,
+      "points": 5
+    }
+  ]
+}

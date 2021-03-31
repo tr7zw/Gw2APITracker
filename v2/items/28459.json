@@ -1,0 +1,45 @@
+{
+  "name": "Hearty Soft Wood Longbow of Serpent Slaying",
+  "description": "",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Masterwork",
+  "vendor_value": 126,
+  "default_skin": 3942,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28459,
+  "chat_link": "[\u0026AgErbwAA]",
+  "icon": "https://render.guildwars2.com/file/C6110F52DF5AFE0F00A56F9E143E9732176DDDE9/65015.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 401,
+    "max_power": 471,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 257.176,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 64
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 90
+        }
+      ]
+    },
+    "suffix_item_id": 24660
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Leather Sentinel\u0027s Gloves",
+  "description": "\u003cc\u003d@flavor\u003e\"You don\u0027t want to get any of this stuff on your hands. Crystal or ghost. Trust me.\"\u003cbr\u003e—Erria\u003c/c\u003e",
+  "type": "Armor",
+  "level": 42,
+  "rarity": "Masterwork",
+  "vendor_value": 71,
+  "default_skin": 908,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4393,
+  "chat_link": "[\u0026AgEpEQAA]",
+  "icon": "https://render.guildwars2.com/file/CC4C6AF2CD591F48C0655460F657EE52CA4A6CBA/61040.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 56,
+    "infusion_slots": [],
+    "attribute_adjustment": 42.8145,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 11
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 15
+        }
+      ]
+    },
+    "suffix_item_id": 24739
+  }
+}

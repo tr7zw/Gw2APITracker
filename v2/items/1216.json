@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Reinforced Scale Coat of the Afflicted",
+  "description": "",
+  "type": "Armor",
+  "level": 45,
+  "rarity": "Masterwork",
+  "vendor_value": 123,
+  "default_skin": 42,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 1216,
+  "chat_link": "[\u0026AgHABAAA]",
+  "icon": "https://render.guildwars2.com/file/19F90C0019AF1F763A972B2C01FF424CA63D049C/61048.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 139,
+    "infusion_slots": [],
+    "attribute_adjustment": 140.225,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 35
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 49
+        }
+      ]
+    },
+    "suffix_item_id": 24685
+  }
+}

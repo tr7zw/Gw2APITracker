@@ -1,0 +1,29 @@
+{
+  "name": "Recipe: Bloodstone Fragment",
+  "description": "Double-click to learn a recipe.",
+  "type": "Consumable",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 132,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSalvage",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 36598,
+  "chat_link": "[\u0026AgH2jgAA]",
+  "icon": "https://render.guildwars2.com/file/01CC2C735674EF3E77AA48FE5EBADED5F109B873/849332.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 6512
+  }
+}

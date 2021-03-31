@@ -1,0 +1,42 @@
+{
+  "name": "Profane Pants",
+  "description": "",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "default_skin": 1069,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 20295,
+  "chat_link": "[\u0026AgFHTwAA]",
+  "icon": "https://render.guildwars2.com/file/937619042A5043459497610FF6C81BB0664560FD/625784.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Light",
+    "defense": 20,
+    "infusion_slots": [],
+    "attribute_adjustment": 10.692,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": 2368,
+  "name": "Ad Infinitum III: Unbound",
+  "description": "Unlock all 11 fractal tier 3 components to work towards building the legendary fractal backpack.",
+  "requirement": "Collect all  fractal tier 3 components.",
+  "locked_text": "Complete Ad Infinitum II, then talk to Kelvei in the Fractals of the Mists.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 74878
+    },
+    {
+      "type": "Item",
+      "id": 70980
+    },
+    {
+      "type": "Item",
+      "id": 74889
+    },
+    {
+      "type": "Item",
+      "id": 71427
+    },
+    {
+      "type": "Item",
+      "id": 72120
+    },
+    {
+      "type": "Item",
+      "id": 73929
+    },
+    {
+      "type": "Item",
+      "id": 72521
+    },
+    {
+      "type": "Item",
+      "id": 74474
+    },
+    {
+      "type": "Skin",
+      "id": 2379
+    },
+    {
+      "type": "Item",
+      "id": 77266
+    },
+    {
+      "type": "Item",
+      "id": 75018
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 2
+    },
+    {
+      "count": 11,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 72116,
+      "count": 1
+    }
+  ]
+}

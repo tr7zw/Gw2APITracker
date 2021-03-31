@@ -1,0 +1,67 @@
+{
+  "name": "Lapis Nugget",
+  "description": "Double-click to apply to an item with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 20,
+  "rarity": "Fine",
+  "vendor_value": 24,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24470,
+  "chat_link": "[\u0026AgGWXwAA]",
+  "icon": "https://render.guildwars2.com/file/98345E1004EBC610B76092D27DFFC673F539BD4F/220913.png",
+  "details": {
+    "type": "Gem",
+    "flags": [
+      "ShortBow",
+      "HeavyArmor",
+      "LightArmor",
+      "Dagger",
+      "MediumArmor",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Trinket",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 472,
+      "buff": {
+        "skill_id": 262,
+        "description": "+5 Vitality\n+2 Toughness"
+      },
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 2
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 5
+        }
+      ]
+    },
+    "suffix": "of Lapis"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1698,
+  "name": "Can\u0027t Knock Me Down",
+  "description": "Story Instance: The World Summit",
+  "requirement": "Complete \"The World Summit\" while jumping to avoid all stomp attacks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    }
+  ],
+  "prerequisites": [
+    1700
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 66604,
+      "count": 1
+    }
+  ]
+}

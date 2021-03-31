@@ -1,0 +1,70 @@
+{
+  "id": 3632,
+  "name": "Lost Lore of Elon Riverlands",
+  "description": "",
+  "requirement": "Collect all pages to complete the book.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 83651
+    },
+    {
+      "type": "Item",
+      "id": 82623
+    },
+    {
+      "type": "Item",
+      "id": 82741
+    },
+    {
+      "type": "Item",
+      "id": 84256
+    },
+    {
+      "type": "Item",
+      "id": 82328
+    },
+    {
+      "type": "Item",
+      "id": 84038
+    },
+    {
+      "type": "Item",
+      "id": 83645
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 84059,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 398
+    }
+  ]
+}

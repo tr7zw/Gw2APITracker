@@ -1,0 +1,46 @@
+{
+  "name": "Dolyak Rancher\u0027s Cloth Shoes",
+  "description": "\u003cc\u003d@flavor\u003e\"Working with Dolyaks takes good boots. You never know what you might step in.\"\u003cbr\u003e—Lyot\u003c/c\u003e",
+  "type": "Armor",
+  "level": 33,
+  "rarity": "Fine",
+  "vendor_value": 33,
+  "default_skin": 904,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4020,
+  "chat_link": "[\u0026AgG0DwAA]",
+  "icon": "https://render.guildwars2.com/file/72997C3425C2339DF4E64A6B04DABD33B4DD1C02/61261.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 34,
+    "infusion_slots": [],
+    "attribute_adjustment": 28.344,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 7
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 10
+        }
+      ]
+    }
+  }
+}

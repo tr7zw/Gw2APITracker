@@ -1,0 +1,27 @@
+{
+  "name": "Garnet Dye",
+  "description": "Double-click to unlock this dye color for all characters.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "DeleteWarning"
+  ],
+  "restrictions": [],
+  "id": 93306,
+  "chat_link": "[\u0026AgF6bAEA]",
+  "icon": "https://render.guildwars2.com/file/D8E1DC7A6BD70AC6B04699E2FCF773F4C141DC27/2281914.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "Dye",
+    "color_id": -1
+  }
+}

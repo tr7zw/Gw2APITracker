@@ -1,0 +1,45 @@
+{
+  "name": "Gilded Carnelian Jewel",
+  "description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 35,
+  "rarity": "Masterwork",
+  "vendor_value": 68,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24479,
+  "chat_link": "[\u0026AgGfXwAA]",
+  "icon": "https://render.guildwars2.com/file/6A77ACF63C322BBBDDD3A6C73C5CF19A1F6DF202/220921.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "Trinket"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 360,
+      "buff": {
+        "skill_id": 138,
+        "description": "+9 Power\n+7 Precision"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 9
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 7
+        }
+      ]
+    },
+    "suffix": "of Carnelian"
+  }
+}

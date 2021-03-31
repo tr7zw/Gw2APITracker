@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Iron Shield of Fire",
+  "description": "",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Masterwork",
+  "vendor_value": 122,
+  "default_skin": 4012,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26759,
+  "chat_link": "[\u0026AgGHaAAA]",
+  "icon": "https://render.guildwars2.com/file/222F72EDEC31ACB7BC439499F4DD4AA4A94A6C48/65373.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 600,
+    "max_power": 676,
+    "defense": 45,
+    "infusion_slots": [],
+    "attribute_adjustment": 249.56,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 87
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 62
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 62
+        }
+      ]
+    },
+    "suffix_item_id": 24547
+  }
+}

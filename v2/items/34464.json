@@ -1,0 +1,45 @@
+{
+  "name": "Carrion Glyphic Mace",
+  "type": "Weapon",
+  "level": 76,
+  "rarity": "Fine",
+  "vendor_value": 63,
+  "default_skin": 5188,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 34464,
+  "chat_link": "[\u0026AgGghgAA]",
+  "icon": "https://render.guildwars2.com/file/DB447716F108A4EC3BEA5C3995B569D83B6DA327/62417.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 637,
+    "max_power": 719,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 239.296,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 60
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 60
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 84
+        }
+      ]
+    }
+  }
+}

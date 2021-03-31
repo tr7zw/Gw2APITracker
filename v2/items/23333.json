@@ -1,0 +1,39 @@
+{
+  "name": "Dented Dredge Gear",
+  "description": "\u003cc\u003d@flavor\u003e\"This had to be important for something.\"—Molesmasher\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 5,
+  "rarity": "Fine",
+  "vendor_value": 13,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23333,
+  "chat_link": "[\u0026AgElWwAA]",
+  "icon": "https://render.guildwars2.com/file/EEA4CFB52C08E67E9461A09F3C040D20CE94FA09/66816.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 9.84,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 3
+        }
+      ]
+    }
+  }
+}

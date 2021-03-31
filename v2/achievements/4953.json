@@ -1,0 +1,25 @@
+{
+  "id": 4953,
+  "name": "Grothmar Legionnaire",
+  "description": "",
+  "requirement": "Complete daily achievements in Grothmar Valley.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "MoveToTop",
+    "Daily"
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 92072,
+      "count": 5
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Rampager\u0027s Iron Hammer of Energy",
+  "description": "",
+  "type": "Weapon",
+  "level": 66,
+  "rarity": "Exotic",
+  "vendor_value": 336,
+  "default_skin": 4060,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27645,
+  "chat_link": "[\u0026AgH9awAA]",
+  "icon": "https://render.guildwars2.com/file/2F4509F15B48B1A9F1579D08539F4109972A31A4/65162.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 775,
+    "max_power": 874,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 520.48,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 130
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 182
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 130
+        }
+      ]
+    },
+    "suffix_item_id": 24607
+  }
+}

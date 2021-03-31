@@ -1,0 +1,47 @@
+{
+  "name": "Pact Weapon Blueprints",
+  "description": "\u003cc\u003d@flavor\u003e\"I don\u0027t expect you to understand the details, just the high level genius behind these designs.\"\u003cbr\u003e—Whispers Creator Pixtor\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 65,
+  "rarity": "Fine",
+  "vendor_value": 69,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23992,
+  "chat_link": "[\u0026AgG4XQAA]",
+  "icon": "https://render.guildwars2.com/file/3051F33C563C03799510BF6160E591D134D1167A/220454.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 119.2,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 30
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 30
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 42
+        }
+      ]
+    }
+  }
+}

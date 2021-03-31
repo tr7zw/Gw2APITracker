@@ -1,0 +1,40 @@
+{
+  "name": "Grawl Staff",
+  "type": "Weapon",
+  "level": 13,
+  "rarity": "Fine",
+  "vendor_value": 27,
+  "default_skin": 4115,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell"
+  ],
+  "restrictions": [],
+  "id": 29408,
+  "chat_link": "[\u0026AgHgcgAA]",
+  "icon": "https://render.guildwars2.com/file/124FC01555801E727670D208323C0C5E0ECAF795/68499.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 192,
+    "max_power": 217,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 56.448,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 20
+        }
+      ]
+    }
+  }
+}

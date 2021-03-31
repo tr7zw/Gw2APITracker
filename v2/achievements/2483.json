@@ -1,0 +1,58 @@
+{
+  "id": 2483,
+  "name": "Kraitkin I: The Experimental Trident",
+  "description": "Versatile, flexible, and strong; tentacles invoke a feeling of strangeness and otherworldliness. Meditate on the virtues of such tentacled beasts as wind riders and jellyfish as you take your first steps in attaining the legendary precursor Venom.",
+  "requirement": "",
+  "locked_text": "Unlock the Mastery ability Revered Antiquarian in the Legendary Crafting Mastery line, and speak to Grandmaster Craftsman Hobbs in Lion\u0027s Arch.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 72906
+    },
+    {
+      "type": "Item",
+      "id": 71682
+    },
+    {
+      "type": "Item",
+      "id": 77224
+    },
+    {
+      "type": "Item",
+      "id": 75121
+    },
+    {
+      "type": "Item",
+      "id": 71476
+    },
+    {
+      "type": "Item",
+      "id": 73066
+    },
+    {
+      "type": "Item",
+      "id": 75150
+    }
+  ],
+  "tiers": [
+    {
+      "count": 7,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 75599,
+      "count": 1
+    }
+  ]
+}

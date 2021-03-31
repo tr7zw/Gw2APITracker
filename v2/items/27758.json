@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Soft Wood Staff of Blood",
+  "description": "",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Rare",
+  "vendor_value": 275,
+  "default_skin": 4067,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27758,
+  "chat_link": "[\u0026AgFubAAA]",
+  "icon": "https://render.guildwars2.com/file/04BE267A42B12DB00F0162639702BDEFC90F4A5D/62880.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 789,
+    "max_power": 889,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 538.416,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 188
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 135
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 135
+        }
+      ]
+    },
+    "suffix_item_id": 24569
+  }
+}

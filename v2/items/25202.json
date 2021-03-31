@@ -1,0 +1,37 @@
+{
+  "name": "Healing Shiverpeak Bow",
+  "type": "Weapon",
+  "level": 11,
+  "rarity": "Fine",
+  "vendor_value": 24,
+  "default_skin": 5172,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 25202,
+  "chat_link": "[\u0026AgFyYgAA]",
+  "icon": "https://render.guildwars2.com/file/4BDBBAFF2A590F1663241BF2C733D208A6E40BF2/534282.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 172,
+    "max_power": 202,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 49.408,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 17
+        }
+      ]
+    }
+  }
+}

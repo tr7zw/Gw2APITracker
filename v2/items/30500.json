@@ -1,0 +1,48 @@
+{
+  "name": "Pickins\u0027s Speargun",
+  "description": "\u003cc\u003d@flavor\u003e\"Gift this speargun to your friend that hates water. Hilarious.\"\u003cbr\u003e—Lieutenant Pickins\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 39,
+  "rarity": "Fine",
+  "vendor_value": 56,
+  "default_skin": 5091,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30500,
+  "chat_link": "[\u0026AgEkdwAA]",
+  "icon": "https://render.guildwars2.com/file/935CD7A5037BB9F3C46E0D770D2DD9730ED74A18/62495.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 315,
+    "max_power": 348,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 188.416,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 47
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 66
+        }
+      ]
+    }
+  }
+}

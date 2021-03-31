@@ -1,0 +1,53 @@
+{
+  "name": "Rich Treasure Hunter\u0027s Pistol",
+  "description": "\u003cc\u003d@flavor\u003e\"There, see? Isn\u0027t this pistol worth all the explosions, monstrous wurms, giant mosquitoes, and undead you had to go through?\" —Admiral Clarinda Demard\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 59,
+  "rarity": "Masterwork",
+  "vendor_value": 102,
+  "default_skin": 5095,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30630,
+  "chat_link": "[\u0026AgGmdwAA]",
+  "icon": "https://render.guildwars2.com/file/05C3631739167BDC0867BECE80C0BE39C0B8B63B/62986.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 497,
+    "max_power": 583,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 181.084,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 45
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 45
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 63
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

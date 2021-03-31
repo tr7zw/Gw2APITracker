@@ -1,0 +1,38 @@
+{
+  "name": "Mighty Country Boots",
+  "description": "",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 5,
+  "default_skin": 53,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NotUpgradeable"
+  ],
+  "restrictions": [],
+  "id": 555,
+  "chat_link": "[\u0026AgErAgAA]",
+  "icon": "https://render.guildwars2.com/file/0CC3CC0819042C9692916BE0132CDB0E2E0325AA/61026.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 11,
+    "infusion_slots": [],
+    "attribute_adjustment": 4.329,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 2
+        }
+      ]
+    }
+  }
+}

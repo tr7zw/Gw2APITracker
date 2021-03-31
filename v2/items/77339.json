@@ -1,0 +1,30 @@
+{
+  "name": "Mini Sabetha",
+  "description": "Double-click to summon this mini to follow you around. Only one mini may be in use at a time.",
+  "type": "MiniPet",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 50,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 77339,
+  "chat_link": "[\u0026AgEbLgEA]",
+  "icon": "https://render.guildwars2.com/file/1C96C03C385529A818E9E14ED7BB7E47F10154F5/1301795.png",
+  "details": {
+    "minipet_id": 378
+  }
+}

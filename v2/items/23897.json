@@ -1,0 +1,39 @@
+{
+  "name": "Dried Seed Pod",
+  "description": "\u003cc\u003d@flavor\u003e\"Even the tallest tree starts as a tiny seed.\"\u003cbr\u003e—Diantha\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 16,
+  "rarity": "Masterwork",
+  "vendor_value": 50,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23897,
+  "chat_link": "[\u0026AgFZXQAA]",
+  "icon": "https://render.guildwars2.com/file/5206713FF14917631B0674CA6440DA7BE25391F9/220906.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 23.6725,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

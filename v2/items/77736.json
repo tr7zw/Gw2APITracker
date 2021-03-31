@@ -1,0 +1,30 @@
+{
+  "name": "Gold Shatterer Trophy",
+  "description": "A decoration schematic that is processed by the guild\u0027s assembly device to make the decoration.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 0,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 77736,
+  "chat_link": "[\u0026AgGoLwEA]",
+  "icon": "https://render.guildwars2.com/file/B32FE2DBDCBECEF42EA9556006526B5350B421B6/1341356.png",
+  "details": {
+    "type": "Generic",
+    "guild_upgrade_id": 667
+  }
+}

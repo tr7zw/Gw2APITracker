@@ -1,0 +1,47 @@
+{
+  "name": "Superior Rune of Thorns",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eSkill\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 60,
+  "rarity": "Exotic",
+  "vendor_value": 216,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 72912,
+  "chat_link": "[\u0026AgHQHAEA]",
+  "icon": "https://render.guildwars2.com/file/32DA0B5704E8DEC0F36B6C460734C496C603541C/1201523.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+25 Condition Damage",
+      "+10% Poison Duration",
+      "+50 Condition Damage",
+      "+20% Poison Duration",
+      "+100 Condition Damage",
+      "+20% Poison Duration; +125 Condition Damage"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of Thorns"
+  }
+}

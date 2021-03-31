@@ -1,0 +1,51 @@
+{
+  "name": "Apostate\u0027s Dutiful Armament",
+  "type": "Weapon",
+  "level": 71,
+  "rarity": "Exotic",
+  "vendor_value": 244,
+  "default_skin": 5015,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 52088,
+  "chat_link": "[\u0026AgF4ywAA]",
+  "icon": "https://render.guildwars2.com/file/51EE9324F663CC66F37A69BE06EAFA0A7494B6D0/67685.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 794,
+    "max_power": 931,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 305.2,
+    "infix_upgrade": {
+      "id": 1012,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 76
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 76
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 107
+        }
+      ]
+    }
+  }
+}

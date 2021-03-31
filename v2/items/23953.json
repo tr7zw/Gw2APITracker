@@ -1,0 +1,38 @@
+{
+  "name": "Otherworldly Shadow Gear",
+  "description": "\u003cc\u003d@flavor\u003e\"This looks unlike any type of gear we\u0027ve seen before.\"\u003cbr\u003e—Gatekeeper\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 24,
+  "rarity": "Masterwork",
+  "vendor_value": 65,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23953,
+  "chat_link": "[\u0026AgGRXQAA]",
+  "icon": "https://render.guildwars2.com/file/A64CDE12565E07F00470D710377A5EAB5E953816/62264.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 35.0625,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

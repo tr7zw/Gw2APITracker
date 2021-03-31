@@ -1,0 +1,27 @@
+{
+  "id": 2587,
+  "name": "Conservation of Resources",
+  "description": "Story Instance: \"Torn from the Sky\"",
+  "requirement": "Keep the turret operational during the night attack.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    2264
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 73034,
+      "count": 10
+    }
+  ]
+}

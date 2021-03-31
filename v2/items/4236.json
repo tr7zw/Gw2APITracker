@@ -1,0 +1,40 @@
+{
+  "name": "Iron Legion\u0027s Breastplate",
+  "description": "",
+  "type": "Armor",
+  "level": 17,
+  "rarity": "Masterwork",
+  "vendor_value": 63,
+  "default_skin": 861,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4236,
+  "chat_link": "[\u0026AgGMEAAA]",
+  "icon": "https://render.guildwars2.com/file/CCCD69DAF43C71D30E77255C3C530601CFD247FE/61239.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 62,
+    "infusion_slots": [],
+    "attribute_adjustment": 45.2115,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 16
+        }
+      ]
+    }
+  }
+}

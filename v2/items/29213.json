@@ -1,0 +1,52 @@
+{
+  "name": "Modniir Punisher",
+  "description": "",
+  "type": "Weapon",
+  "level": 43,
+  "rarity": "Masterwork",
+  "vendor_value": 80,
+  "default_skin": 4651,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29213,
+  "chat_link": "[\u0026AgEdcgAA]",
+  "icon": "https://render.guildwars2.com/file/30A116B671740C4EDCC4A17BD8679C0B2EAAEDBC/67623.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 367,
+    "max_power": 414,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 117.64,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 41
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 29
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 29
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Flame Trident of Energy",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Rare",
+  "vendor_value": 275,
+  "default_skin": 5086,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33013,
+  "chat_link": "[\u0026AgH1gAAA]",
+  "icon": "https://render.guildwars2.com/file/7E156706AA79B8F16D357C71AC02029EDACE300F/780045.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 725,
+    "max_power": 801,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 538.416,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 135
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 135
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 188
+        }
+      ]
+    },
+    "suffix_item_id": 24606
+  }
+}

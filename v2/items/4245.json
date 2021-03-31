@@ -1,0 +1,40 @@
+{
+  "name": "Bloodsaw Leather Work Leggings",
+  "description": "",
+  "type": "Armor",
+  "level": 23,
+  "rarity": "Masterwork",
+  "vendor_value": 73,
+  "default_skin": 57,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4245,
+  "chat_link": "[\u0026AgGVEAAA]",
+  "icon": "https://render.guildwars2.com/file/7FD55648CD1BD8D8C532D06B07A55FBB6467EE9A/61254.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Medium",
+    "defense": 45,
+    "infusion_slots": [],
+    "attribute_adjustment": 40.392,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 14
+        }
+      ]
+    }
+  }
+}

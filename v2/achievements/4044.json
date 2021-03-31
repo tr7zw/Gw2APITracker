@@ -1,0 +1,27 @@
+{
+  "id": 4044,
+  "name": "The Giving Spirit",
+  "description": "",
+  "requirement": "Donate enough snowflakes to cheer up Drooburt for the holidays.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1000,
+      "points": 5
+    }
+  ],
+  "point_cap": 25,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 77604,
+      "count": 5
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Bone Pick",
+  "description": "Used to mine all metals. Unlimited use.",
+  "type": "Gathering",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "NotUpgradeable",
+    "DeleteWarning",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 43527,
+  "chat_link": "[\u0026AgEHqgAA]",
+  "icon": "https://render.guildwars2.com/file/9827C507181C6B305EA026C2F1EB7448AA390CD5/638367.png",
+  "details": {
+    "type": "Mining"
+  }
+}

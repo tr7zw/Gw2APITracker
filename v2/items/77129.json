@@ -1,0 +1,30 @@
+{
+  "name": "Recipe: Guild Insignia",
+  "description": "Unlocks the Guild Insignia recipe, used to craft ornate guild armor.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 132,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 77129,
+  "chat_link": "[\u0026AgFJLQEA]",
+  "icon": "https://render.guildwars2.com/file/9E676FEA12E7780C35A223FA12E10F542A0F7818/1201549.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 11270,
+    "extra_recipe_ids": [
+      11202
+    ]
+  }
+}

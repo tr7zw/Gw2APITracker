@@ -1,0 +1,46 @@
+{
+  "name": "Chieftan\u0027s Mace",
+  "description": "\u003cc\u003d@flavor\u003e\"Comes in handy if you get spotted sneaking.\"\u003cbr\u003e—Avarr\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 47,
+  "rarity": "Masterwork",
+  "vendor_value": 84,
+  "default_skin": 4033,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30214,
+  "chat_link": "[\u0026AgEGdgAA]",
+  "icon": "https://render.guildwars2.com/file/7DD1BDF8716FB571A8EB156C6CB9DD0826790974/68694.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 399,
+    "max_power": 450,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 132.464,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 46
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 33
+        }
+      ]
+    }
+  }
+}

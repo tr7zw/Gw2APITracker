@@ -1,0 +1,52 @@
+{
+  "name": "Nrocroc Axe",
+  "description": "\u003cc\u003d@flavor\u003e\"Cuts enemies, not plants.\"\u003cbr\u003e—Nrocroc Chief\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 64,
+  "rarity": "Fine",
+  "vendor_value": 54,
+  "default_skin": 5208,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30154,
+  "chat_link": "[\u0026AgHKdQAA]",
+  "icon": "https://render.guildwars2.com/file/B606E3BEBF034E08D1DDEC54CA74E811F4284CD1/66427.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 492,
+    "max_power": 602,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 186.688,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 47
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 47
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 65
+        }
+      ]
+    }
+  }
+}

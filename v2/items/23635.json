@@ -1,0 +1,43 @@
+{
+  "name": "Bomb Fuse",
+  "description": "\u003cc\u003d@flavor\u003e\"Careful what sparks you create.\"\u003cbr\u003e—Jahr Duskrend\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 49,
+  "rarity": "Fine",
+  "vendor_value": 55,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23635,
+  "chat_link": "[\u0026AgFTXAAA]",
+  "icon": "https://render.guildwars2.com/file/FE3280996C7B53BDB497143268031C117592DD14/62483.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 80.24,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 20
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 28
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Slice of Buttered Toast",
+  "type": "Consumable",
+  "level": 5,
+  "rarity": "Basic",
+  "vendor_value": 4,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell"
+  ],
+  "restrictions": [],
+  "id": 12187,
+  "chat_link": "[\u0026AgGbLwAA]",
+  "icon": "https://render.guildwars2.com/file/C42F031F7AF1B4766D5B0404392C9B2026B760E8/63283.png",
+  "details": {
+    "type": "Food",
+    "duration_ms": 900000,
+    "apply_count": 1,
+    "name": "Nourishment",
+    "icon": "https://render.guildwars2.com/file/779D3F0ABE5B46C09CFC57374DA8CC3A495F291C/436367.png",
+    "description": "-6% Incoming Damage While Stunned, Knocked Down, or Knocked Back\n+10% Experience from Kills"
+  }
+}

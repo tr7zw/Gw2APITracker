@@ -1,0 +1,29 @@
+{
+  "id": 3996,
+  "name": "The First City",
+  "description": "Journal: The First City Completed",
+  "requirement": "Travel to the First City in pursuit of your friend.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 86167,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 424
+    }
+  ]
+}

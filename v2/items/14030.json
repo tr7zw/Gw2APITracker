@@ -1,0 +1,51 @@
+{
+  "name": "Magi\u0027s Soft Wood Scepter",
+  "description": "",
+  "type": "Weapon",
+  "level": 47,
+  "rarity": "Masterwork",
+  "vendor_value": 84,
+  "default_skin": 3892,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 14030,
+  "chat_link": "[\u0026AgHONgAA]",
+  "icon": "https://render.guildwars2.com/file/2696C7FBBB99549E700204A9A11F75B0D50CEC2E/65334.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 399,
+    "max_power": 450,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 132.464,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 33
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 33
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 46
+        }
+      ]
+    }
+  }
+}

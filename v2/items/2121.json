@@ -1,0 +1,40 @@
+{
+  "name": "Honed Country Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 23,
+  "rarity": "Fine",
+  "vendor_value": 24,
+  "default_skin": 56,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 2121,
+  "chat_link": "[\u0026AgFJCAAA]",
+  "icon": "https://render.guildwars2.com/file/C5E6FBE6C802BC12035D38FE0D3216EA2917D930/61072.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 25,
+    "infusion_slots": [],
+    "attribute_adjustment": 18.192,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 6
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 5
+        }
+      ]
+    }
+  }
+}

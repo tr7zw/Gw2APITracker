@@ -1,0 +1,42 @@
+{
+  "name": "Oldgate Cloth Leggings",
+  "description": "",
+  "type": "Armor",
+  "level": 15,
+  "rarity": "Fine",
+  "vendor_value": 28,
+  "default_skin": 862,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4204,
+  "chat_link": "[\u0026AgFsEAAA]",
+  "icon": "https://render.guildwars2.com/file/7E7B65B507E108A520CA31AA9158060A1F5E5861/61248.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Light",
+    "defense": 28,
+    "infusion_slots": [],
+    "attribute_adjustment": 23.808,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

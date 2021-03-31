@@ -1,0 +1,42 @@
+{
+  "name": "Primeval Legplates",
+  "description": "",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "default_skin": 1066,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 20283,
+  "chat_link": "[\u0026AgE7TwAA]",
+  "icon": "https://render.guildwars2.com/file/F5B7FB3415D4052E5CB61FAAAED5F797014AA27F/625778.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Heavy",
+    "defense": 24,
+    "infusion_slots": [],
+    "attribute_adjustment": 10.692,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": 2258,
+  "name": "Mistward Legguards",
+  "description": "",
+  "requirement": "Collect all  items and skins to forge your Mistward Legguards.",
+  "locked_text": "Complete the Invocation revenant specialization to unlock the Mistward Legguards collection.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 208
+    },
+    {
+      "type": "Skin",
+      "id": 197
+    },
+    {
+      "type": "Skin",
+      "id": 211
+    },
+    {
+      "type": "Skin",
+      "id": 132
+    },
+    {
+      "type": "Item",
+      "id": 70502
+    },
+    {
+      "type": "Item",
+      "id": 70944
+    },
+    {
+      "type": "Item",
+      "id": 74774
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 70598,
+      "count": 1
+    }
+  ]
+}

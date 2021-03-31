@@ -1,0 +1,47 @@
+{
+  "name": "Steam-Touched Sturdy Coat",
+  "description": "\u003cc\u003d@flavor\u003e\"Take care when fighting those steam beasts; who knows where they\u0027ve been.\"\u003cbr\u003e—Agent Kaukiri\u003c/c\u003e",
+  "type": "Armor",
+  "level": 31,
+  "rarity": "Masterwork",
+  "vendor_value": 93,
+  "default_skin": 879,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4067,
+  "chat_link": "[\u0026AgHjDwAA]",
+  "icon": "https://render.guildwars2.com/file/0555C8427C0A7FB990C82C62380073ED3E91CFB4/61022.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 90,
+    "infusion_slots": [],
+    "attribute_adjustment": 86.904,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 22
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 30
+        }
+      ]
+    },
+    "suffix_item_id": 24727
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Mending Circlet",
+  "description": "",
+  "type": "Armor",
+  "level": 30,
+  "rarity": "Masterwork",
+  "vendor_value": 78,
+  "default_skin": 894,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 63558,
+  "chat_link": "[\u0026AgFG+AAA]",
+  "icon": "https://render.guildwars2.com/file/194C7741DF019D27A9B0D7680C0D3F2F1409D127/61232.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 19,
+    "infusion_slots": [],
+    "attribute_adjustment": 37.06,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 9
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 13
+        }
+      ]
+    }
+  }
+}

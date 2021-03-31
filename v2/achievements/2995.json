@@ -1,0 +1,28 @@
+{
+  "id": 2995,
+  "name": "Magic Dispersed",
+  "description": "",
+  "requirement": "Defeat  coalescences to disperse their magic back to the ley-lines.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 2
+    },
+    {
+      "count": 5,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 78740,
+      "count": 1
+    }
+  ]
+}

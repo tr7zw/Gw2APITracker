@@ -1,0 +1,51 @@
+{
+  "name": "Apostate\u0027s Lantern of the Lost",
+  "type": "Weapon",
+  "level": 59,
+  "rarity": "Exotic",
+  "vendor_value": 212,
+  "default_skin": 5043,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 51630,
+  "chat_link": "[\u0026AgGuyQAA]",
+  "icon": "https://render.guildwars2.com/file/EA4A167CC76ED3BFDC794795D9700F53A2C266A7/779925.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 576,
+    "max_power": 676,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 238.4,
+    "infix_upgrade": {
+      "id": 1012,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 60
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 60
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 83
+        }
+      ]
+    }
+  }
+}

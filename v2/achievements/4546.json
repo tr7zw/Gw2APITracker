@@ -1,0 +1,39 @@
+{
+  "id": 4546,
+  "name": "Chasing Tales: Crush Them",
+  "description": "No hammer fell as hard as Katarin\u0027s.",
+  "requirement": "Defeat 30 enemies while wielding a hammer in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Katarin the Bonecrusher."
+    },
+    {
+      "type": "Text",
+      "text": "Defeated 30 enemies while wielding a hammer in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89728,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1643,
+  "name": "No Rock Unturned",
+  "description": "Story Instance: Fallen Hopes",
+  "requirement": "Find and destroy the hidden Inquest survey equipment.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    1641
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 66609,
+      "count": 1
+    }
+  ]
+}

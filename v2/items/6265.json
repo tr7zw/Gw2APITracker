@@ -1,0 +1,40 @@
+{
+  "name": "Cloth Pants",
+  "description": "",
+  "type": "Armor",
+  "level": 5,
+  "rarity": "Fine",
+  "vendor_value": 14,
+  "default_skin": 18,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6265,
+  "chat_link": "[\u0026AgF5GAAA]",
+  "icon": "https://render.guildwars2.com/file/1CE056916131A73FCE22D7BC24090AC577CA6773/61087.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Light",
+    "defense": 20,
+    "infusion_slots": [],
+    "attribute_adjustment": 11.808,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

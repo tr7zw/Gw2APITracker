@@ -1,0 +1,41 @@
+{
+  "name": "Avenger\u0027s Short Bow",
+  "type": "Weapon",
+  "level": 8,
+  "rarity": "Fine",
+  "vendor_value": 20,
+  "default_skin": 5154,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32223,
+  "chat_link": "[\u0026AgHffQAA]",
+  "icon": "https://render.guildwars2.com/file/C3F7CBA2520FB39678B86830341AA21A5A0BB7E1/67683.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 158,
+    "max_power": 174,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 38.912,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 14
+        }
+      ]
+    }
+  }
+}

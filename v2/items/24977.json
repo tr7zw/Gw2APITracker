@@ -1,0 +1,40 @@
+{
+  "name": "Healing Shiverpeak Hatchet of Agony",
+  "type": "Weapon",
+  "level": 14,
+  "rarity": "Masterwork",
+  "vendor_value": 38,
+  "default_skin": 5159,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 24977,
+  "chat_link": "[\u0026AgGRYQAA]",
+  "icon": "https://render.guildwars2.com/file/1B9503F466E464B34620340FEC65CFE7BBC69231/534278.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 186,
+    "max_power": 227,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 33.728,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 12
+        }
+      ]
+    },
+    "suffix_item_id": 24610
+  }
+}

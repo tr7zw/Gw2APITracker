@@ -1,0 +1,27 @@
+{
+  "name": "Recipe: Copper Sword",
+  "description": "Double-click to learn a recipe",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 9,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9556,
+  "chat_link": "[\u0026AgFUJQAA]",
+  "icon": "https://render.guildwars2.com/file/145FAAA40BAD48C5EAD8C205CEF427CDAEB39019/849377.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 5422
+  }
+}

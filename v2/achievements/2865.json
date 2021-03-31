@@ -1,0 +1,58 @@
+{
+  "id": 2865,
+  "name": "Master of Decor, World 1",
+  "description": "Only the finest from the finest.",
+  "requirement": "Find all the furniture shops in World 1. Completing this achievement along with the one for World 2 will unlock a vendor tab on Moto\u0027s assistants.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "A-MAZE-ing hiding spot."
+    },
+    {
+      "type": "Text",
+      "text": "Hot hot hot!"
+    },
+    {
+      "type": "Text",
+      "text": "Drain the improper water."
+    },
+    {
+      "type": "Text",
+      "text": "Just when you thought it was over!"
+    },
+    {
+      "type": "Text",
+      "text": "Too big to flail."
+    },
+    {
+      "type": "Text",
+      "text": "Shopception."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 2,
+      "points": 2
+    },
+    {
+      "count": 4,
+      "points": 2
+    },
+    {
+      "count": 6,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 78018,
+      "count": 1
+    }
+  ]
+}

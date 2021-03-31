@@ -1,0 +1,28 @@
+{
+  "id": 11,
+  "name": "Burning Oil Mastery",
+  "description": "Improves all Burning Oil skills and unlocks new abilities",
+  "icon": "https://render.guildwars2.com/file/F5AC92A6AE1503EE3B0A940EEE6768C928396663/587138.png",
+  "ranks": [
+    {
+      "cost": 3,
+      "effect": "Increases Burning Oil radius by 25%"
+    },
+    {
+      "cost": 7,
+      "effect": "Increases burning oil damage"
+    },
+    {
+      "cost": 10,
+      "effect": "Reduces the damage received by the oil pot and the user. The user cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted."
+    },
+    {
+      "cost": 15,
+      "effect": "Basic Burning Oil attacks burn one supply from target"
+    },
+    {
+      "cost": 25,
+      "effect": "Burning Shell: Creates a fiery dome that reflects projectiles"
+    }
+  ]
+}

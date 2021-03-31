@@ -1,0 +1,44 @@
+{
+  "name": "Owl Staff",
+  "description": "\u003cc\u003d@flavor\u003e\"Be wise.\"\u003cbr\u003e—Lahri\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 20,
+  "rarity": "Fine",
+  "vendor_value": 36,
+  "default_skin": 4067,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29378,
+  "chat_link": "[\u0026AgHCcgAA]",
+  "icon": "https://render.guildwars2.com/file/04BE267A42B12DB00F0162639702BDEFC90F4A5D/62880.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 225,
+    "max_power": 253,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 84.224,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 29
+        }
+      ]
+    }
+  }
+}

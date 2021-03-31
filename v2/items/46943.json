@@ -1,0 +1,61 @@
+{
+  "name": "Angchu Harpoon Gun",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of the ancient Angchu tengu tribe.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 10000,
+  "default_skin": 4123,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 46943,
+  "chat_link": "[\u0026AgFftwAA]",
+  "icon": "https://render.guildwars2.com/file/D2DF65E0B9CBB568D6D6F302C513240FB27A025B/631886.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 950,
+    "max_power": 1050,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      },
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 717.024,
+    "infix_upgrade": {
+      "id": 616,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 179
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 251
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 179
+        }
+      ]
+    }
+  }
+}

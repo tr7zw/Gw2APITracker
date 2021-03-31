@@ -1,0 +1,51 @@
+{
+  "name": "Cloth Oxbow Aquabreather",
+  "description": "\u003cc\u003d@flavor\u003e\"Great for deep diving or shallow snorkeling.\"\u003cbr\u003e—Agent Rjoda\u003c/c\u003e",
+  "type": "Armor",
+  "level": 66,
+  "rarity": "Masterwork",
+  "vendor_value": 140,
+  "default_skin": 855,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4983,
+  "chat_link": "[\u0026AgF3EwAA]",
+  "icon": "https://render.guildwars2.com/file/FA1D042B0845BED8DA3CFA0FAA0837D5EB0207A6/61297.png",
+  "details": {
+    "type": "HelmAquatic",
+    "weight_class": "Light",
+    "defense": 46,
+    "infusion_slots": [],
+    "attribute_adjustment": 105.842,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 26
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 26
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 37
+        }
+      ]
+    },
+    "suffix_item_id": 24724
+  }
+}

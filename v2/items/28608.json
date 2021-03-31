@@ -1,0 +1,45 @@
+{
+  "name": "Honed Black Earth Trident of Ice",
+  "description": "",
+  "type": "Weapon",
+  "level": 27,
+  "rarity": "Masterwork",
+  "vendor_value": 84,
+  "default_skin": 4712,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28608,
+  "chat_link": "[\u0026AgHAbwAA]",
+  "icon": "https://render.guildwars2.com/file/B8F4F953BC20F7A7FE9FF7459FD5534F0608730F/574969.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 261,
+    "max_power": 289,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 129.744,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 45
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 32
+        }
+      ]
+    },
+    "suffix_item_id": 24557
+  }
+}

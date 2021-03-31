@@ -1,0 +1,58 @@
+{
+  "name": "Yassith\u0027s Leather Breather",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of the Forgotten, Sariss Yassith.\u003c/c\u003e",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 240,
+  "default_skin": 856,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 88420,
+  "chat_link": "[\u0026AgFkWQEA]",
+  "icon": "https://render.guildwars2.com/file/FA1D042B0845BED8DA3CFA0FAA0837D5EB0207A6/61297.png",
+  "details": {
+    "type": "HelmAquatic",
+    "weight_class": "Medium",
+    "defense": 102,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 179.256,
+    "infix_upgrade": {
+      "id": 1153,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 54
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 30
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 54
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 30
+        }
+      ]
+    }
+  }
+}

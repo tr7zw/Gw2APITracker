@@ -1,0 +1,35 @@
+{
+  "id": 3827,
+  "name": "The Pied Piper",
+  "description": "Tame four different species of animals for the ogres.",
+  "requirement": "",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Tamed a Hyena"
+    },
+    {
+      "type": "Text",
+      "text": "Tamed a Sand Shark"
+    },
+    {
+      "type": "Text",
+      "text": "Tamed a Sand Eel"
+    },
+    {
+      "type": "Text",
+      "text": "Tamed a Gazelle"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 4,
+      "points": 1
+    }
+  ]
+}

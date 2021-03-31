@@ -1,0 +1,40 @@
+{
+  "name": "Ravaging Country Coat",
+  "description": "",
+  "type": "Armor",
+  "level": 24,
+  "rarity": "Fine",
+  "vendor_value": 39,
+  "default_skin": 13,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 202,
+  "chat_link": "[\u0026AgHKAAAA]",
+  "icon": "https://render.guildwars2.com/file/F03808FFE89B40044671EED2E427053B389BE0A1/61007.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 61,
+    "infusion_slots": [],
+    "attribute_adjustment": 57.024,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 14
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 20
+        }
+      ]
+    }
+  }
+}

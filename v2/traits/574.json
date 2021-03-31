@@ -1,0 +1,27 @@
+{
+  "id": 574,
+  "tier": 1,
+  "order": 2,
+  "name": "Healer\u0027s Retribution",
+  "description": "Gain retaliation when using a heal skill.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 20
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/27F233F7D4CE4E9EFE040E3D665B7B0643557B6E/102883.png",
+      "duration": 8,
+      "status": "Retaliation",
+      "description": "Reflect incoming damage back to its source; stacks duration.",
+      "apply_count": 1
+    }
+  ],
+  "specialization": 16,
+  "icon": "https://render.guildwars2.com/file/27F73C39699117B22DA74EF60E40C9B67D737C0D/1012414.png"
+}

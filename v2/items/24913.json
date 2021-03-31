@@ -1,0 +1,49 @@
+{
+  "name": "Embellished Ornate Chrysocola Jewel",
+  "description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 50,
+  "rarity": "Rare",
+  "vendor_value": 135,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24913,
+  "chat_link": "[\u0026AgFRYQAA]",
+  "icon": "https://render.guildwars2.com/file/BDEDA235B223FF924EDF5FEA07CD61FF2DAC02A6/340649.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "Trinket"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 535,
+      "buff": {
+        "skill_id": 324,
+        "description": "+16 Condition Damage\n+10 Power\n+10 Vitality"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 10
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 10
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 16
+        }
+      ]
+    },
+    "suffix": "of Chrysocola"
+  }
+}

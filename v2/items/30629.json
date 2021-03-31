@@ -1,0 +1,53 @@
+{
+  "name": "Improved Pirate Handblade",
+  "description": "\u003cc\u003d@flavor\u003e\"Don\u0027t wait for shadows to make the first move. Stab them first.\" \u003cbr\u003e—Mate Watt\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 59,
+  "rarity": "Masterwork",
+  "vendor_value": 102,
+  "default_skin": 5234,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30629,
+  "chat_link": "[\u0026AgGldwAA]",
+  "icon": "https://render.guildwars2.com/file/EED3DD9C78A29772084A56DFD91AA95A0CBB49CA/62843.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 524,
+    "max_power": 556,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 181.084,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 63
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 45
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 45
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

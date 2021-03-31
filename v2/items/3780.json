@@ -1,0 +1,48 @@
+{
+  "name": "Soldier\u0027s Predatory Bracers",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 1000,
+  "default_skin": 457,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Norn"
+  ],
+  "id": 3780,
+  "chat_link": "[\u0026AgHEDgAA]",
+  "icon": "https://render.guildwars2.com/file/D69B320A02F3C213EF4EF0C3C3CA04946735FE43/779837.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 94,
+    "infusion_slots": [],
+    "attribute_adjustment": 75.33,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 26
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 19
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 19
+        }
+      ]
+    }
+  }
+}

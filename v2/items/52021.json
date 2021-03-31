@@ -1,0 +1,51 @@
+{
+  "name": "Apostate\u0027s Centaur\u0027s Doom",
+  "type": "Weapon",
+  "level": 59,
+  "rarity": "Exotic",
+  "vendor_value": 318,
+  "default_skin": 5006,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 52021,
+  "chat_link": "[\u0026AgE1ywAA]",
+  "icon": "https://render.guildwars2.com/file/EEEBC3E05BF5D2FE1B0245A1C0EF07CF0F32506D/67680.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 727,
+    "max_power": 803,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 476.8,
+    "infix_upgrade": {
+      "id": 1012,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 119
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 119
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 167
+        }
+      ]
+    }
+  }
+}

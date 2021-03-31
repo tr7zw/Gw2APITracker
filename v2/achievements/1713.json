@@ -1,0 +1,118 @@
+{
+  "id": 1713,
+  "name": "Ogre Expert",
+  "description": "",
+  "requirement": "Unlock all of the ogre weapons in your wardrobe, and collect an Ogre Tooth.",
+  "locked_text": "Loot an Ogre Tooth from ogres throughout Tyria.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 67272
+    },
+    {
+      "type": "Skin",
+      "id": 4035
+    },
+    {
+      "type": "Skin",
+      "id": 4065
+    },
+    {
+      "type": "Skin",
+      "id": 3941
+    },
+    {
+      "type": "Skin",
+      "id": 4071
+    },
+    {
+      "type": "Skin",
+      "id": 4095
+    },
+    {
+      "type": "Skin",
+      "id": 4025
+    },
+    {
+      "type": "Skin",
+      "id": 3993
+    },
+    {
+      "type": "Skin",
+      "id": 4033
+    },
+    {
+      "type": "Skin",
+      "id": 4039
+    },
+    {
+      "type": "Skin",
+      "id": 4110
+    },
+    {
+      "type": "Skin",
+      "id": 3954
+    },
+    {
+      "type": "Skin",
+      "id": 4068
+    },
+    {
+      "type": "Skin",
+      "id": 4007
+    },
+    {
+      "type": "Skin",
+      "id": 4064
+    },
+    {
+      "type": "Skin",
+      "id": 4101
+    },
+    {
+      "type": "Skin",
+      "id": 4100
+    },
+    {
+      "type": "Skin",
+      "id": 3929
+    },
+    {
+      "type": "Skin",
+      "id": 4001
+    },
+    {
+      "type": "Skin",
+      "id": 4014
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 1
+    },
+    {
+      "count": 20,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 67220,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Mighty Country Pants",
+  "description": "",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 5,
+  "default_skin": 18,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NotUpgradeable"
+  ],
+  "restrictions": [],
+  "id": 2534,
+  "chat_link": "[\u0026AgHmCQAA]",
+  "icon": "https://render.guildwars2.com/file/1CE056916131A73FCE22D7BC24090AC577CA6773/61087.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Light",
+    "defense": 14,
+    "infusion_slots": [],
+    "attribute_adjustment": 7.722,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 3
+        }
+      ]
+    }
+  }
+}

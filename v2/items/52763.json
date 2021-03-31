@@ -1,0 +1,47 @@
+{
+  "name": "Deserter\u0027s Legion\u0027s Light",
+  "type": "Weapon",
+  "level": 31,
+  "rarity": "Masterwork",
+  "vendor_value": 66,
+  "default_skin": 5141,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 52763,
+  "chat_link": "[\u0026AgEbzgAA]",
+  "icon": "https://render.guildwars2.com/file/B9BCAA2F79C29066BBA81255E31B223B5A735B3A/68169.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 267,
+    "max_power": 314,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 86.496,
+    "infix_upgrade": {
+      "id": 1014,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 22
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 30
+        }
+      ]
+    }
+  }
+}

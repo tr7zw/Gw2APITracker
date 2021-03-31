@@ -1,0 +1,47 @@
+{
+  "name": "Survivor\u0027s Majestic Hand",
+  "type": "Weapon",
+  "level": 31,
+  "rarity": "Masterwork",
+  "vendor_value": 66,
+  "default_skin": 4989,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 52775,
+  "chat_link": "[\u0026AgEnzgAA]",
+  "icon": "https://render.guildwars2.com/file/0D30D70499EDAC01D6C925470200BF2906E364CB/61706.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 303,
+    "max_power": 342,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 86.496,
+    "infix_upgrade": {
+      "id": 1013,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 22
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 30
+        }
+      ]
+    }
+  }
+}

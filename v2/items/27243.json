@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Soft Wood Focus of Corruption",
+  "description": "",
+  "type": "Weapon",
+  "level": 77,
+  "rarity": "Masterwork",
+  "vendor_value": 126,
+  "default_skin": 3887,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27243,
+  "chat_link": "[\u0026AgFragAA]",
+  "icon": "https://render.guildwars2.com/file/EF62B7FE5B45A1181C362E635301E1BAA8FDCC44/65104.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 651,
+    "max_power": 692,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 264.52,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 93
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 66
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 66
+        }
+      ]
+    },
+    "suffix_item_id": 24576
+  }
+}

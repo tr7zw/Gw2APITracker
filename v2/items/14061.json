@@ -1,0 +1,44 @@
+{
+  "name": "Vigorous Dredge Pillar",
+  "description": "",
+  "type": "Weapon",
+  "level": 50,
+  "rarity": "Rare",
+  "vendor_value": 203,
+  "default_skin": 4088,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 14061,
+  "chat_link": "[\u0026AgHtNgAA]",
+  "icon": "https://render.guildwars2.com/file/944E38E41DC9B541F6D9A8785635F3B2E547DDEE/574971.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 506,
+    "max_power": 570,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 313.632,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 110
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 78
+        }
+      ]
+    }
+  }
+}

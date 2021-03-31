@@ -1,0 +1,54 @@
+{
+  "name": "Diviner\u0027s Refitted Aureate Musket",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 198,
+  "default_skin": 9846,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94679,
+  "chat_link": "[\u0026AgHXcQEA]",
+  "icon": "https://render.guildwars2.com/file/56D43AF0A49F0E4906C46C01B1749C649F37960C/2393765.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 812,
+    "max_power": 992,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 559.912,
+    "infix_upgrade": {
+      "id": 1556,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 168
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 92
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 92
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 168
+        }
+      ]
+    }
+  }
+}

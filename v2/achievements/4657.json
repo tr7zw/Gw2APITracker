@@ -1,0 +1,112 @@
+{
+  "id": 4657,
+  "name": "Helpful Hero",
+  "description": "",
+  "requirement": "While a rift is closing, escape through a portal with a lost keepsake and return it to its owner.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 90120
+    },
+    {
+      "type": "Item",
+      "id": 90144
+    },
+    {
+      "type": "Item",
+      "id": 90125
+    },
+    {
+      "type": "Item",
+      "id": 90131
+    },
+    {
+      "type": "Item",
+      "id": 90123
+    },
+    {
+      "type": "Item",
+      "id": 90132
+    },
+    {
+      "type": "Item",
+      "id": 90150
+    },
+    {
+      "type": "Item",
+      "id": 90129
+    },
+    {
+      "type": "Item",
+      "id": 90118
+    },
+    {
+      "type": "Item",
+      "id": 90147
+    },
+    {
+      "type": "Item",
+      "id": 90126
+    },
+    {
+      "type": "Item",
+      "id": 90116
+    },
+    {
+      "type": "Item",
+      "id": 90135
+    },
+    {
+      "type": "Item",
+      "id": 90119
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    },
+    {
+      "count": 8,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 1
+    },
+    {
+      "count": 12,
+      "points": 1
+    },
+    {
+      "count": 14,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 90141,
+      "count": 1
+    }
+  ]
+}

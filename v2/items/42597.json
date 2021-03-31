@@ -1,0 +1,32 @@
+{
+  "name": "Swim Speed Boost",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 0,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 42597,
+  "chat_link": "[\u0026AgFlpgAA]",
+  "icon": "https://render.guildwars2.com/file/32637E5E0DF9A175D129E7E767F54651EFD9A667/582351.png",
+  "details": {
+    "type": "Utility",
+    "duration_ms": 3600000,
+    "apply_count": 0,
+    "name": "Underwater Swiftness",
+    "icon": "https://render.guildwars2.com/file/AC4F027829AFCA1B6FC0C258C3D2F827271491F7/582467.png",
+    "description": "Your movement speed is increased by 15% while swimming."
+  }
+}

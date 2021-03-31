@@ -1,0 +1,53 @@
+{
+  "name": "Roar",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 10
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+      "duration": 10,
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
+      "apply_count": 3
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 1200
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 10
+    }
+  ],
+  "description": "Roar, giving allies might.",
+  "icon": "https://render.guildwars2.com/file/4415914BB242219426B7A33B9B35DA053ED6F4CD/103981.png",
+  "type": "Bundle",
+  "weapon_type": "None",
+  "professions": [
+    "Thief",
+    "Mesmer",
+    "Warrior",
+    "Elementalist",
+    "Necromancer",
+    "Guardian",
+    "Ranger",
+    "Engineer",
+    "Revenant"
+  ],
+  "slot": "Weapon_4",
+  "flags": [
+    "NoUnderwater"
+  ],
+  "id": 12435,
+  "chat_link": "[\u0026BpMwAAA\u003d]"
+}

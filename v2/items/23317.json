@@ -1,0 +1,39 @@
+{
+  "name": "Charred Owl Totem",
+  "description": "\u003cc\u003d@flavor\u003eThis object bears Owl\u0027s visage and is also slightly singed.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 19,
+  "rarity": "Masterwork",
+  "vendor_value": 58,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23317,
+  "chat_link": "[\u0026AgEVWwAA]",
+  "icon": "https://render.guildwars2.com/file/D2A40203DC055BDD75783DFDD4BAA39FFE171B05/455896.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 27.965,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 10
+        }
+      ]
+    }
+  }
+}

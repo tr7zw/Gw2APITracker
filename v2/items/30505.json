@@ -1,0 +1,49 @@
+{
+  "name": "Brikk\u0027s Hammer",
+  "description": "\u003cc\u003d@flavor\u003e\"This one\u0027s for my favorite experiment: Will it smash?\"\u003cbr\u003e—Brikk\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 35,
+  "rarity": "Masterwork",
+  "vendor_value": 102,
+  "default_skin": 4060,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30505,
+  "chat_link": "[\u0026AgEpdwAA]",
+  "icon": "https://render.guildwars2.com/file/2F4509F15B48B1A9F1579D08539F4109972A31A4/65162.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 341,
+    "max_power": 384,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 179.248,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 45
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 63
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

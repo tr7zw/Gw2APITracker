@@ -1,0 +1,24 @@
+{
+  "id": 80,
+  "name": "A Friend In Deed",
+  "description": "You came to the aid of another race under threat by the dragons.",
+  "requirement": "Complete the story step \"Attempted Deicide,\" \"Evacuation,\" \"Set to Blow,\" \"The Lost Chieftain\u0027s Return,\" or \"Unholy Grounds.\"",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tyria",
+      "id": 228
+    }
+  ]
+}

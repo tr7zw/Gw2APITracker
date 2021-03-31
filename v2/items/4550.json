@@ -1,0 +1,51 @@
+{
+  "name": "Pagga\u0027s Coat",
+  "description": "\u003cc\u003d@flavor\u003e\"Armor up.\"\u003cbr\u003e—Magister Pagga\u003c/c\u003e",
+  "type": "Armor",
+  "level": 75,
+  "rarity": "Masterwork",
+  "vendor_value": 186,
+  "default_skin": 900,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4550,
+  "chat_link": "[\u0026AgHGEQAA]",
+  "icon": "https://render.guildwars2.com/file/721A28A9C92CE732074AABAF040BFFB8B8995716/61279.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 253,
+    "infusion_slots": [],
+    "attribute_adjustment": 286.034,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 72
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 72
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 100
+        }
+      ]
+    },
+    "suffix_item_id": 24685
+  }
+}

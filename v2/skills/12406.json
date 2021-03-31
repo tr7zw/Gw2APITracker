@@ -1,0 +1,47 @@
+{
+  "name": "Wind Blast",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 600
+    },
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 5
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 1.56
+    },
+    {
+      "text": "Knockback",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/9A6A02DCA260929CD14B4A4402266006981FF51B/648509.png",
+      "distance": 300
+    },
+    {
+      "text": "Number of Projectiles",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 3
+    }
+  ],
+  "description": "Blast foes with wind.",
+  "icon": "https://render.guildwars2.com/file/2439134AA00790244FA55D249E1B32105638E7D4/103964.png",
+  "type": "Monster",
+  "weapon_type": "Hammer",
+  "professions": [],
+  "slot": "Weapon_2",
+  "flags": [
+    "NoUnderwater"
+  ],
+  "id": 12406,
+  "chat_link": "[\u0026BnYwAAA\u003d]"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Linen Pants",
+  "description": "",
+  "type": "Armor",
+  "level": 5,
+  "rarity": "Fine",
+  "vendor_value": 14,
+  "default_skin": 145,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6279,
+  "chat_link": "[\u0026AgGHGAAA]",
+  "icon": "https://render.guildwars2.com/file/E5E9B8B5C86603C9A00B05539C47FA15E64F95E7/61116.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Light",
+    "defense": 20,
+    "infusion_slots": [],
+    "attribute_adjustment": 11.808,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

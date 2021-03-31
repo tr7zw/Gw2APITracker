@@ -1,0 +1,30 @@
+{
+  "name": "Kodan Incense",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 5,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 8638,
+  "chat_link": "[\u0026AgG+IQAA]",
+  "icon": "https://render.guildwars2.com/file/1C0AF9FCE9CCF6C844E3280DDD23AE36060A0AD8/63068.png",
+  "details": {
+    "type": "Food",
+    "duration_ms": 600000,
+    "apply_count": 1,
+    "name": "Nourishment",
+    "icon": "https://render.guildwars2.com/file/779D3F0ABE5B46C09CFC57374DA8CC3A495F291C/436367.png",
+    "description": "+20 Precision\n+10% Experience from Kills"
+  }
+}

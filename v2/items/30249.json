@@ -1,0 +1,53 @@
+{
+  "name": "Stentor Scepter",
+  "description": "\u003cc\u003d@flavor\u003e\"The eternal alchemy works in mysterious ways.\"\u003cbr\u003e—Explorer Trebb\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 72,
+  "rarity": "Masterwork",
+  "vendor_value": 120,
+  "default_skin": 5061,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30249,
+  "chat_link": "[\u0026AgEpdgAA]",
+  "icon": "https://render.guildwars2.com/file/B0E409A76215A744756C7E98790F9B06F1489F1F/62814.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 644,
+    "max_power": 726,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 240.108,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 60
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 60
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 84
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

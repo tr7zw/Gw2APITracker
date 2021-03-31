@@ -1,0 +1,38 @@
+{
+  "name": "Practical Weaponsmith\u0027s Backpack",
+  "description": "This equipment can hold an additional upgrade. Unequip this backpack to use it as a crafting ingredient. Using this as a crafting ingredient will destroy any upgrades held within.",
+  "type": "Back",
+  "level": 30,
+  "rarity": "Rare",
+  "vendor_value": 120,
+  "default_skin": 2317,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 62923,
+  "chat_link": "[\u0026AgHL9QAA]",
+  "icon": "https://render.guildwars2.com/file/2E0C489D6557572D9ED5DB43FD57A6AC9A11BF47/866650.png",
+  "details": {
+    "infusion_slots": [],
+    "attribute_adjustment": 32.076,
+    "stat_choices": [
+      144,
+      145,
+      152,
+      142,
+      146,
+      149,
+      755
+    ]
+  }
+}

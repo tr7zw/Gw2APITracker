@@ -1,0 +1,24 @@
+{
+  "id": 2347,
+  "name": "Mushroom Musterer",
+  "description": "You helped grow the skritt a mushroom army!",
+  "requirement": "Raise a mushroom army for the skritt.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 98
+    }
+  ]
+}

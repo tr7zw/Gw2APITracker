@@ -1,0 +1,47 @@
+{
+  "name": "Superior Rune of Snowfall",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eBrilliance\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 60,
+  "rarity": "Legendary",
+  "vendor_value": 0,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse",
+    "DeleteWarning"
+  ],
+  "restrictions": [],
+  "id": 91512,
+  "chat_link": "[\u0026AgF4ZQEA]",
+  "icon": "https://render.guildwars2.com/file/3CEECEBACCC4E7D25DBC79C7A4B5B2933AB01DE3/2179567.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+25 Toughness",
+      "Gain 15 seconds of regeneration when you take falling damage. \u003cc\u003d@reminder\u003e(Cooldown: 20 Seconds)\u003c/c\u003e",
+      "+50 Toughness",
+      "Gain 3 seconds of superspeed when you take falling damage. 5% of your toughness is converted into healing power. \u003cc\u003d@reminder\u003e(Cooldown: 10s)\u003c/c\u003e",
+      "+100 Toughness",
+      "Create a pile of snow that chills enemies when you take falling damage. \u003cc\u003d@reminder\u003e(Cooldown: 20 Seconds)\u003c/c\u003e"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of Snowfall"
+  }
+}

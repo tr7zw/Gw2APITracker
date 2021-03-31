@@ -1,0 +1,42 @@
+{
+  "name": "Haven Cloth Helm",
+  "description": "\u003cc\u003d@flavor\u003e\"I had a few extra helms lying around. I think they were my son\u0027s.\"\u003cbr\u003e—Bulsa\u003c/c\u003e",
+  "type": "Armor",
+  "level": 16,
+  "rarity": "Fine",
+  "vendor_value": 25,
+  "default_skin": 907,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 3925,
+  "chat_link": "[\u0026AgFVDwAA]",
+  "icon": "https://render.guildwars2.com/file/6C127B202AE612DCB8CE9AF6EA0CBF500042FF0C/61267.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 11,
+    "infusion_slots": [],
+    "attribute_adjustment": 16.768,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

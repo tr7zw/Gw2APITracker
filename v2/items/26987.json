@@ -1,0 +1,46 @@
+{
+  "name": "Rampager\u0027s Soft Wood Warhorn",
+  "description": "",
+  "type": "Weapon",
+  "level": 72,
+  "rarity": "Fine",
+  "vendor_value": 60,
+  "default_skin": 3907,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 26987,
+  "chat_link": "[\u0026AgFraQAA]",
+  "icon": "https://render.guildwars2.com/file/5A0593B5164DE87591029323F7D90775D716001D/65530.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 542,
+    "max_power": 598,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 221.504,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 55
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 78
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 55
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": 3871,
+  "name": "Jackal Reconnaissance",
+  "description": "",
+  "requirement": "Now that you have your jackal, you can gain tasty treats for it as a reward for helping locals.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 82816
+    },
+    {
+      "type": "Item",
+      "id": 83766
+    },
+    {
+      "type": "Item",
+      "id": 82720
+    },
+    {
+      "type": "Item",
+      "id": 83958
+    },
+    {
+      "type": "Item",
+      "id": 82215
+    },
+    {
+      "type": "Item",
+      "id": 84157
+    },
+    {
+      "type": "Item",
+      "id": 84587
+    },
+    {
+      "type": "Item",
+      "id": 82672
+    }
+  ],
+  "tiers": [
+    {
+      "count": 8,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    3818
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 407
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Rejuvenating Black Earth Aquabreather",
+  "description": "\u003cc\u003d@flavor\u003e\"Never know when you\u0027ll need one of these.\"\u003cbr\u003e—Magister Roslin\u003c/c\u003e",
+  "type": "Armor",
+  "level": 48,
+  "rarity": "Fine",
+  "vendor_value": 54,
+  "default_skin": 857,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4086,
+  "chat_link": "[\u0026AgH2DwAA]",
+  "icon": "https://render.guildwars2.com/file/E9EEB91BD00673FB2B0DBC04FFAB96A929FF23FB/61559.png",
+  "details": {
+    "type": "HelmAquatic",
+    "weight_class": "Heavy",
+    "defense": 46,
+    "infusion_slots": [],
+    "attribute_adjustment": 62.336,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 16
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 22
+        }
+      ]
+    }
+  }
+}

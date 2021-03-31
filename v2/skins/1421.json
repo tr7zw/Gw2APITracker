@@ -1,0 +1,34 @@
+{
+  "name": "Whisper\u0027s Secret Cowl",
+  "description": "This head gear will hide all other shoulder art.",
+  "type": "Armor",
+  "flags": [
+    "ShowInWardrobe"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 1421,
+  "icon": "https://render.guildwars2.com/file/AB42E75C334E20D85A5CC6D054DD20AA22C1C40A/339737.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        null
+      ],
+      "overrides": {}
+    }
+  }
+}

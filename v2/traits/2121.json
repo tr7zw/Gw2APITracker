@@ -1,0 +1,36 @@
+{
+  "id": 2121,
+  "tier": 2,
+  "order": 0,
+  "name": "Sand Sage",
+  "description": "Gain concentration and expertise for each of your active sand shades.",
+  "slot": "Minor",
+  "facts": [
+    {
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/6574560606F6BA1B32E9CF0F6C9709D1C1F2D9A6/2207782.png",
+      "value": 75,
+      "target": "BoonDuration"
+    },
+    {
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/6574560606F6BA1B32E9CF0F6C9709D1C1F2D9A6/2207782.png",
+      "value": 45,
+      "target": "BoonDuration"
+    },
+    {
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/4977CD5BAF0A7B6412DCC775C3909F7D4EFE4C65/2229319.png",
+      "value": 75,
+      "target": "ConditionDuration"
+    },
+    {
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/4977CD5BAF0A7B6412DCC775C3909F7D4EFE4C65/2229319.png",
+      "value": 45,
+      "target": "ConditionDuration"
+    }
+  ],
+  "specialization": 60,
+  "icon": "https://render.guildwars2.com/file/EC99779F63204EBAC00C37147BC43B0643F64091/1769973.png"
+}

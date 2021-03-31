@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Banded Coat of the Eagle",
+  "description": "",
+  "type": "Armor",
+  "level": 54,
+  "rarity": "Rare",
+  "vendor_value": 212,
+  "default_skin": 54,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 1283,
+  "chat_link": "[\u0026AgEDBQAA]",
+  "icon": "https://render.guildwars2.com/file/AF109C52710CF3B5640E08B22F28A9D6479453A3/61052.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 189,
+    "infusion_slots": [],
+    "attribute_adjustment": 195.129,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 49
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 68
+        }
+      ]
+    },
+    "suffix_item_id": 24722
+  }
+}

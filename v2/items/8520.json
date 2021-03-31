@@ -1,0 +1,28 @@
+{
+  "name": "Aquatic Elixir",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 3,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 8520,
+  "chat_link": "[\u0026AgFIIQAA]",
+  "icon": "https://render.guildwars2.com/file/C23FA1EA0827E97312D6064F4A08B402FE9943B9/63071.png",
+  "details": {
+    "type": "Food",
+    "duration_ms": 600000,
+    "apply_count": 1,
+    "name": "Nourishment",
+    "icon": "https://render.guildwars2.com/file/779D3F0ABE5B46C09CFC57374DA8CC3A495F291C/436367.png",
+    "description": "20% Chance to Gain Swiftness on Kill\n+10% Experience from Kills"
+  }
+}

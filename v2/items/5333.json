@@ -1,0 +1,50 @@
+{
+  "name": "Whisper\u0027s Secret Breastplate",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 2350,
+  "default_skin": 1416,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 5333,
+  "chat_link": "[\u0026AgHVFAAA]",
+  "icon": "https://render.guildwars2.com/file/555F6C76516CA793D65CED606CCBD16CF5A6EFAF/61299.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 321,
+    "infusion_slots": [],
+    "attribute_adjustment": 339.552,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 85
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 119
+        }
+      ]
+    }
+  }
+}

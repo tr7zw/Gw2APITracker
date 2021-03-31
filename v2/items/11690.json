@@ -1,0 +1,42 @@
+{
+  "name": "Ravaging Outlaw Boots",
+  "description": "",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Masterwork",
+  "vendor_value": 68,
+  "default_skin": 237,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 11690,
+  "chat_link": "[\u0026AgGqLQAA]",
+  "icon": "https://render.guildwars2.com/file/2D346FFED65F7151FA906B95E7EBB67CA71560D1/61422.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 47,
+    "infusion_slots": [],
+    "attribute_adjustment": 33.609,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 8
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

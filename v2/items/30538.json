@@ -1,0 +1,44 @@
+{
+  "name": "Charged Focus",
+  "description": "\u003cc\u003d@flavor\u003e\"A good focus is essential for the accurate channeling of energy.\"\u003cbr\u003e—Ahjj\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 12,
+  "rarity": "Fine",
+  "vendor_value": 17,
+  "default_skin": 3863,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30538,
+  "chat_link": "[\u0026AgFKdwAA]",
+  "icon": "https://render.guildwars2.com/file/0F3FED6ECD0A990BBC5B29501F590FC7052776CF/66170.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 159,
+    "max_power": 169,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 26.496,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

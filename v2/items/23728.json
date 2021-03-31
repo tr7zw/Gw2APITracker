@@ -1,0 +1,39 @@
+{
+  "name": "Claypool Militia Badge",
+  "description": "\u003cc\u003d@flavor\u003e\"Trained Member of the Claypool Militia\"\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 8,
+  "rarity": "Fine",
+  "vendor_value": 17,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23728,
+  "chat_link": "[\u0026AgGwXAAA]",
+  "icon": "https://render.guildwars2.com/file/596749EC03A1D6B69F05AF90DE26FBF4B4A15FAA/455942.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 12.16,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

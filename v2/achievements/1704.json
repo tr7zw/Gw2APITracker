@@ -1,0 +1,27 @@
+{
+  "id": 1704,
+  "name": "Sneaky Sleuth",
+  "description": "Story Instance: Party Politics",
+  "requirement": "Complete the party investigation without arousing any suspicion.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    }
+  ],
+  "prerequisites": [
+    1700
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 66605,
+      "count": 1
+    }
+  ]
+}

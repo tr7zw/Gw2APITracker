@@ -1,0 +1,29 @@
+{
+  "name": "Frost Legion Crafting Box",
+  "description": "Double-click to open.\nContains a choice of Charged Stormcaller weapon recipes (axe, greatsword, hammer, longbow, mace, rifle, shield, or warhorn), crafting material coffers, mission documents, or charr salvage.",
+  "type": "Container",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 93741,
+  "chat_link": "[\u0026AgEtbgEA]",
+  "icon": "https://render.guildwars2.com/file/3C999527AAD3EE4961CB5198FDCEBF4AA501CCD3/2314072.png",
+  "details": {
+    "type": "Default"
+  }
+}

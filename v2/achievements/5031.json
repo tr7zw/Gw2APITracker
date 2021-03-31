@@ -1,0 +1,29 @@
+{
+  "id": 5031,
+  "name": "The Invitation",
+  "description": "Journal: The Invitation Completed",
+  "requirement": "Complete the Invitation.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 92321,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Tundra",
+      "id": 478
+    }
+  ]
+}

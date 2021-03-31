@@ -1,0 +1,50 @@
+{
+  "id": 5410,
+  "name": "Impressive Pugilist",
+  "description": "",
+  "requirement": "Use impressive maneuvers to impress the Spirit of the Wild with your fighting prowess while inside the Arena of the Wolverine.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Break the Wolverine Spirit\u0027s Defiance."
+    },
+    {
+      "type": "Text",
+      "text": "Dodge two attacks back-to-back."
+    },
+    {
+      "type": "Text",
+      "text": "Dodge an attack, and then land a critical hit immediately after."
+    },
+    {
+      "type": "Text",
+      "text": "Avoid taking damage from fire fields."
+    },
+    {
+      "type": "Text",
+      "text": "Avoid being snared."
+    },
+    {
+      "type": "Text",
+      "text": "Avoid being hit by shock waves."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 6,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tundra",
+      "id": 516
+    }
+  ]
+}

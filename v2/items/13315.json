@@ -1,0 +1,40 @@
+{
+  "name": "Lapis Silver Earring",
+  "description": "",
+  "type": "Trinket",
+  "level": 30,
+  "rarity": "Fine",
+  "vendor_value": 39,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix"
+  ],
+  "restrictions": [],
+  "id": 13315,
+  "chat_link": "[\u0026AgEDNAAA]",
+  "icon": "https://render.guildwars2.com/file/9E5E9578A1519963DF56DC3E3C34090BF1AE72B0/340146.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 41.8,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 10
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 15
+        }
+      ]
+    },
+    "suffix_item_id": 24470
+  }
+}

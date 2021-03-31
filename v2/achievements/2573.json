@@ -1,0 +1,62 @@
+{
+  "id": 2573,
+  "name": "Bronzer",
+  "description": "It won\u0027t turn your skin orange, unless you already are...",
+  "requirement": "Earn a bronze medal or better on all 5 adventures in Verdant Brink.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Bugs in the Branches"
+    },
+    {
+      "type": "Text",
+      "text": "Tendril Torchers"
+    },
+    {
+      "type": "Text",
+      "text": "Shooting Gallery"
+    },
+    {
+      "type": "Text",
+      "text": "Flying Circus"
+    },
+    {
+      "type": "Text",
+      "text": "Salvage Pit"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 108
+    }
+  ]
+}

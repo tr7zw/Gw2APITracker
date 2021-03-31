@@ -1,0 +1,25 @@
+{
+  "id": 5008,
+  "name": "Daily Trial of Koda",
+  "description": "",
+  "requirement": "Complete a Trial of Koda event in Bjora Marches.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Daily"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 92338,
+      "count": 1
+    }
+  ]
+}

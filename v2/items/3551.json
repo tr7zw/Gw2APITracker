@@ -1,0 +1,44 @@
+{
+  "name": "Strong Commander\u0027s Helm",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 500,
+  "default_skin": 371,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Human"
+  ],
+  "id": 3551,
+  "chat_link": "[\u0026AgHfDQAA]",
+  "icon": "https://render.guildwars2.com/file/5B504D0E93E17E282EABF8FE1E0EDD0ABE1C4A5D/61143.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 39,
+    "infusion_slots": [],
+    "attribute_adjustment": 49.284,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 17
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

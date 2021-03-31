@@ -1,0 +1,27 @@
+{
+  "id": 1793,
+  "name": "Exposed Weaknesses",
+  "description": "Story Instance: Hidden Arcana",
+  "requirement": "Reduce the health of the facet of darkness from 75% to 0 in less than 15 seconds.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    }
+  ],
+  "prerequisites": [
+    1783
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 67802,
+      "count": 1
+    }
+  ]
+}

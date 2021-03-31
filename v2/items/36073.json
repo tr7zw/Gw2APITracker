@@ -1,0 +1,29 @@
+{
+  "name": "Candied Apple",
+  "type": "Consumable",
+  "level": 5,
+  "rarity": "Fine",
+  "vendor_value": 4,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "NoUnderwater",
+    "Tonic"
+  ],
+  "restrictions": [],
+  "id": 36073,
+  "chat_link": "[\u0026AgHpjAAA]",
+  "icon": "https://render.guildwars2.com/file/126F2009CEA469CD26192D49304E73F9F5F01BB6/499403.png",
+  "details": {
+    "type": "Food",
+    "duration_ms": 1800000,
+    "apply_count": 1,
+    "name": "Nourishment",
+    "icon": "https://render.guildwars2.com/file/779D3F0ABE5B46C09CFC57374DA8CC3A495F291C/436367.png",
+    "description": "3% Magic Find While under the Effect of a Boon\n+15% Experience from Kills"
+  }
+}

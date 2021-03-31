@@ -1,0 +1,46 @@
+{
+  "name": "Knight\u0027s Gladiator Boots",
+  "description": "",
+  "type": "Armor",
+  "level": 65,
+  "rarity": "Rare",
+  "vendor_value": 165,
+  "default_skin": 229,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 10820,
+  "chat_link": "[\u0026AgFEKgAA]",
+  "icon": "https://render.guildwars2.com/file/E203A0B67642F814299FD622DF2F522A13B321B3/61526.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 120,
+    "infusion_slots": [],
+    "attribute_adjustment": 84.051,
+    "infix_upgrade": {
+      "id": 158,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 21
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 21
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 29
+        }
+      ]
+    }
+  }
+}

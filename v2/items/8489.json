@@ -1,0 +1,28 @@
+{
+  "name": "Extended Potion of Flame Legion Slaying",
+  "type": "Consumable",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 1,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 8489,
+  "chat_link": "[\u0026AgEpIQAA]",
+  "icon": "https://render.guildwars2.com/file/11CF3D6BF000C19FFAD9800A0B01080B5149A1D0/222674.png",
+  "details": {
+    "type": "Utility",
+    "duration_ms": 7200000,
+    "apply_count": 1,
+    "name": "Enhancement",
+    "icon": "https://render.guildwars2.com/file/64976F59BF060718C9109D36C27AD0F40F06BB32/436368.png",
+    "description": "+10% Damage vs. Flame Legion\n-10% Damage from Flame Legion\n+10% Experience from Kills"
+  }
+}

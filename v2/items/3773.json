@@ -1,0 +1,48 @@
+{
+  "name": "Soldier\u0027s Havroun Doublet",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 2500,
+  "default_skin": 456,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Norn"
+  ],
+  "id": 3773,
+  "chat_link": "[\u0026AgG9DgAA]",
+  "icon": "https://render.guildwars2.com/file/7555550C479C36D87D1CA7DDCF747F9CD24EF51A/779834.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 187,
+    "infusion_slots": [],
+    "attribute_adjustment": 225.99,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 79
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 56
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        }
+      ]
+    }
+  }
+}

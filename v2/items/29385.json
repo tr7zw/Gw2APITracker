@@ -1,0 +1,44 @@
+{
+  "name": "Shrengra\u0027s Warhorn",
+  "description": "\u003cc\u003d@flavor\u003e\"These can also hold ale.\"\u003cbr\u003e—Shengra\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 20,
+  "rarity": "Fine",
+  "vendor_value": 24,
+  "default_skin": 3907,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29385,
+  "chat_link": "[\u0026AgHJcgAA]",
+  "icon": "https://render.guildwars2.com/file/5A0593B5164DE87591029323F7D90775D716001D/65530.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 186,
+    "max_power": 205,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 42.112,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 15
+        }
+      ]
+    }
+  }
+}

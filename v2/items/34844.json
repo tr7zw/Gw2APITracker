@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Verdant Rifle of Energy",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Rare",
+  "vendor_value": 275,
+  "default_skin": 5203,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34844,
+  "chat_link": "[\u0026AgEciAAA]",
+  "icon": "https://render.guildwars2.com/file/58579456F005C2967AEF7566C7530D99BBB45864/434876.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 789,
+    "max_power": 965,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 538.416,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 135
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 135
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 188
+        }
+      ]
+    },
+    "suffix_item_id": 24606
+  }
+}

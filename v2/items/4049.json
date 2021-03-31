@@ -1,0 +1,47 @@
+{
+  "name": "Steam-Touched Breastplate",
+  "description": "\u003cc\u003d@flavor\u003e\"Take care when fighting those steam beasts; who knows where they\u0027ve been.\"\u003cbr\u003e—Agent Kaukiri\u003c/c\u003e",
+  "type": "Armor",
+  "level": 31,
+  "rarity": "Masterwork",
+  "vendor_value": 93,
+  "default_skin": 870,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4049,
+  "chat_link": "[\u0026AgHRDwAA]",
+  "icon": "https://render.guildwars2.com/file/D0E60BC603B7B9C00E44D94F00BC6901BAC8C904/61257.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 96,
+    "infusion_slots": [],
+    "attribute_adjustment": 86.904,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 22
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 30
+        }
+      ]
+    },
+    "suffix_item_id": 24727
+  }
+}

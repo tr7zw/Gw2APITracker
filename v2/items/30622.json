@@ -1,0 +1,52 @@
+{
+  "name": "Chum Trispear",
+  "description": "\u003cc\u003d@flavor\u003e\"OOOoah! Quaggan saw what came for the chum and ate the krait! Quaggans use these to fill chum buckets.\" \u003cbr\u003e—Leemoola\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 63,
+  "rarity": "Fine",
+  "vendor_value": 81,
+  "default_skin": 5050,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30622,
+  "chat_link": "[\u0026AgGedwAA]",
+  "icon": "https://render.guildwars2.com/file/F670E526546CD1E9E2029B14DD9810ECDBE9001D/434765.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 510,
+    "max_power": 564,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 365.184,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 128
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 91
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 91
+        }
+      ]
+    }
+  }
+}

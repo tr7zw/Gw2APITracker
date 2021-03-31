@@ -1,0 +1,42 @@
+{
+  "name": "Strong Noble Pants",
+  "description": "",
+  "type": "Armor",
+  "level": 50,
+  "rarity": "Rare",
+  "vendor_value": 189,
+  "default_skin": 221,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 12013,
+  "chat_link": "[\u0026AgHtLgAA]",
+  "icon": "https://render.guildwars2.com/file/FD9AC895AEEAEFE5BD92335E76465F3EA375CCB7/61444.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Medium",
+    "defense": 104,
+    "infusion_slots": [],
+    "attribute_adjustment": 117.612,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 41
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 29
+        }
+      ]
+    }
+  }
+}

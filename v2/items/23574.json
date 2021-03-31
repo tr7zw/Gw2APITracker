@@ -1,0 +1,43 @@
+{
+  "name": "Red Cape Piece",
+  "description": "\u003cc\u003d@flavor\u003eA torn piece of a red cape.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 31,
+  "rarity": "Masterwork",
+  "vendor_value": 78,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23574,
+  "chat_link": "[\u0026AgEWXAAA]",
+  "icon": "https://render.guildwars2.com/file/9B2F7DF8C5BE57A257D16FB64AD474B63F1FC2AE/66788.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 48.28,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 12
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 17
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Berserker\u0027s Chainmail Chestpiece",
+  "description": "",
+  "type": "Armor",
+  "level": 75,
+  "rarity": "Basic",
+  "vendor_value": 47,
+  "default_skin": 2,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 5261,
+  "chat_link": "[\u0026AgGNFAAA]",
+  "icon": "https://render.guildwars2.com/file/A2D0D6DA90056E76F1BE244F0C9EF333F95D9746/61098.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 200,
+    "infusion_slots": [],
+    "attribute_adjustment": 210.6,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 74
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 53
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 53
+        }
+      ]
+    }
+  }
+}

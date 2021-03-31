@@ -1,0 +1,69 @@
+{
+  "id": 4106,
+  "name": "Lasting Bonds: What We Do Here",
+  "description": "",
+  "requirement": "Collect  items to help Efi.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 87217
+    },
+    {
+      "type": "Item",
+      "id": 86992
+    },
+    {
+      "type": "Item",
+      "id": 87187
+    },
+    {
+      "type": "Item",
+      "id": 87173
+    },
+    {
+      "type": "Item",
+      "id": 87197
+    },
+    {
+      "type": "Item",
+      "id": 87161
+    },
+    {
+      "type": "Item",
+      "id": 87014
+    },
+    {
+      "type": "Item",
+      "id": 87163
+    },
+    {
+      "type": "Item",
+      "id": 87064
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 9,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 86993,
+      "count": 1
+    }
+  ]
+}

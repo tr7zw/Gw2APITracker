@@ -1,0 +1,42 @@
+{
+  "name": "Primeval Warhelm",
+  "description": "",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "default_skin": 1198,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 20281,
+  "chat_link": "[\u0026AgE5TwAA]",
+  "icon": "https://render.guildwars2.com/file/2C920EBA24C2C560D603FBD22873EB6C0C56DAC9/625777.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 12,
+    "infusion_slots": [],
+    "attribute_adjustment": 7.128,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 2
+        }
+      ]
+    }
+  }
+}

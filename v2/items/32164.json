@@ -1,0 +1,46 @@
+{
+  "name": "Strong Hero\u0027s Longsword",
+  "type": "Weapon",
+  "level": 45,
+  "rarity": "Masterwork",
+  "vendor_value": 123,
+  "default_skin": 4015,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32164,
+  "chat_link": "[\u0026AgGkfQAA]",
+  "icon": "https://render.guildwars2.com/file/1EA00FDAAD23FD1B1B9C4BD6E36EB30A43E21D06/64138.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 424,
+    "max_power": 469,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 249.288,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 87
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 62
+        }
+      ]
+    },
+    "suffix_item_id": 24614
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Enduring Garb",
+  "description": "\u003cc\u003d@flavor\u003e\"Offense and defense. Both are needed to be triumphant.\"\u003cbr\u003e—Enduring Protector\u003c/c\u003e",
+  "type": "Armor",
+  "level": 66,
+  "rarity": "Masterwork",
+  "vendor_value": 168,
+  "default_skin": 898,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4350,
+  "chat_link": "[\u0026AgH+EAAA]",
+  "icon": "https://render.guildwars2.com/file/335BFBF46A5D046169E2600218FAE2252C279BD5/61274.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 196,
+    "infusion_slots": [],
+    "attribute_adjustment": 238.145,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 60
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 60
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 83
+        }
+      ]
+    },
+    "suffix_item_id": 24739
+  }
+}

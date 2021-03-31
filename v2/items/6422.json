@@ -1,0 +1,44 @@
+{
+  "name": "Mending Gauntlets",
+  "description": "",
+  "type": "Armor",
+  "level": 49,
+  "rarity": "Fine",
+  "vendor_value": 40,
+  "default_skin": 943,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6422,
+  "chat_link": "[\u0026AgEWGQAA]",
+  "icon": "https://render.guildwars2.com/file/69C5D5B52BF7370C134E3171411BD4C6695AA469/61225.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 71,
+    "infusion_slots": [],
+    "attribute_adjustment": 48.144,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 12
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 17
+        }
+      ]
+    }
+  }
+}

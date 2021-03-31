@@ -1,0 +1,51 @@
+{
+  "name": "Improved Excavator\u0027s Gauntlets",
+  "description": "\u003cc\u003d@flavor\u003e\"You don\u0027t want your hands to damage the artifacts.\"\u003cbr\u003e—Priory Researcher Raekk\u003c/c\u003e",
+  "type": "Armor",
+  "level": 55,
+  "rarity": "Masterwork",
+  "vendor_value": 87,
+  "default_skin": 896,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4009,
+  "chat_link": "[\u0026AgGpDwAA]",
+  "icon": "https://render.guildwars2.com/file/2D04F4B417D82BD6AB4714010CE23071A9489961/61558.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 89,
+    "infusion_slots": [],
+    "attribute_adjustment": 61.4295,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 15
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 15
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 22
+        }
+      ]
+    },
+    "suffix_item_id": 24727
+  }
+}

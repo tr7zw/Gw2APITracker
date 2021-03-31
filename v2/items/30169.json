@@ -1,0 +1,53 @@
+{
+  "name": "Tactical Warhorn",
+  "description": "\u003cc\u003d@flavor\u003e\"The grip is made from my own special design, and it even has an extra compartment for extra mouth pieces.\"\u003cbr\u003e—Tactician Lyan\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 67,
+  "rarity": "Masterwork",
+  "vendor_value": 112,
+  "default_skin": 5149,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30169,
+  "chat_link": "[\u0026AgHZdQAA]",
+  "icon": "https://render.guildwars2.com/file/E40BED1EC22C9F5C5BAC0F432724A5CDE416A109/68175.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 535,
+    "max_power": 591,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 216.444,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 76
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 54
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 54
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

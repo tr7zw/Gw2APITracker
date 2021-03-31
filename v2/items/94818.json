@@ -1,0 +1,63 @@
+{
+  "name": "Viper\u0027s Fiery Dragon Slayer Scepter of Icebrood Slaying",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 330,
+  "default_skin": 9931,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94818,
+  "chat_link": "[\u0026AgFicgEA]",
+  "icon": "https://render.guildwars2.com/file/CC07D09F359CAF02C12E15A4F703C1BF4D18AF52/2412982.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 940,
+    "max_power": 1060,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "infix_upgrade": {
+      "id": 1130,
+      "buff": {
+        "skill_id": 32391
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 133
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 71
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 133
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 71
+        }
+      ]
+    },
+    "suffix_item_id": 24651
+  }
+}

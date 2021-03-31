@@ -1,0 +1,52 @@
+{
+  "name": "Shadowcleft Covert Dagger",
+  "description": "\u003cc\u003d@flavor\u003e\"What does the \u0027covert\u0027 mean? It means this blade disappears, into whatever enemy you want it to.\"\u003cbr\u003e—Solita Miststalker\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 65,
+  "rarity": "Fine",
+  "vendor_value": 55,
+  "default_skin": 5225,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30161,
+  "chat_link": "[\u0026AgHRdQAA]",
+  "icon": "https://render.guildwars2.com/file/07C80D35A4D00331B203B60D04F390BC09680523/66756.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 540,
+    "max_power": 573,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 190.72,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 48
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 48
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 67
+        }
+      ]
+    }
+  }
+}

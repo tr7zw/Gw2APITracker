@@ -1,0 +1,63 @@
+{
+  "name": "Viper\u0027s Fiery Dragon Slayer Mace of Icebrood Slaying",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 330,
+  "default_skin": 9899,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94841,
+  "chat_link": "[\u0026AgF5cgEA]",
+  "icon": "https://render.guildwars2.com/file/4F566B36717070EAE0269523D4EF4B2FF9559B98/2412881.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 940,
+    "max_power": 1060,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "infix_upgrade": {
+      "id": 1130,
+      "buff": {
+        "skill_id": 32391
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 133
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 71
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 133
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 71
+        }
+      ]
+    },
+    "suffix_item_id": 24651
+  }
+}

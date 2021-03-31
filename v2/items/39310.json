@@ -1,0 +1,61 @@
+{
+  "name": "Bud of the Pale Tree",
+  "description": "\u003cc\u003d@flavor\u003eA delicate gift from the Grove.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 660,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 39310,
+  "chat_link": "[\u0026AgGOmQAA]",
+  "icon": "https://render.guildwars2.com/file/9CD80DEDD0C0B2CF599815B8C619E30ADAA8C7A4/534266.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Enrichment"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "infix_upgrade": {
+      "id": 591,
+      "buff": {
+        "skill_id": 15744,
+        "description": "+32 Power\n+18 Ferocity\n+18 Vitality"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 157
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 90
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 18
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 108
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Legionnaire Assault Badge",
+  "description": "\u003cc\u003d@flavor\u003e\"With a hero like you around the Flame Legion here wont last long.\"\u003cbr\u003e—Legionnaire Neverburn\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 61,
+  "rarity": "Masterwork",
+  "vendor_value": 130,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23605,
+  "chat_link": "[\u0026AgE1XAAA]",
+  "icon": "https://render.guildwars2.com/file/596749EC03A1D6B69F05AF90DE26FBF4B4A15FAA/455942.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 118.575,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 42
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 30
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 30
+        }
+      ]
+    }
+  }
+}

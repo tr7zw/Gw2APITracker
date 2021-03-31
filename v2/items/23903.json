@@ -1,0 +1,39 @@
+{
+  "name": "Terebinth Leaf",
+  "description": "\u003cc\u003d@flavor\u003e\"Just holding it makes me feel better.\"\u003cbr\u003e—Leigheara\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 17,
+  "rarity": "Masterwork",
+  "vendor_value": 53,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23903,
+  "chat_link": "[\u0026AgFfXQAA]",
+  "icon": "https://render.guildwars2.com/file/CDB7C0030CF276C418EF0E3AB54A03EFF36EC5FA/223879.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 25.1175,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

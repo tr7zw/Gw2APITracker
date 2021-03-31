@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Iron Rifle of Accuracy",
+  "description": "",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Rare",
+  "vendor_value": 275,
+  "default_skin": 4092,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28215,
+  "chat_link": "[\u0026AgE3bgAA]",
+  "icon": "https://render.guildwars2.com/file/167018D742BBF5120BE4ACE80DE5B049089D20F2/62700.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 789,
+    "max_power": 965,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 538.416,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 188
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 135
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 135
+        }
+      ]
+    },
+    "suffix_item_id": 24617
+  }
+}

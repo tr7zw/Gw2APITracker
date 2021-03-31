@@ -1,0 +1,40 @@
+{
+  "name": "Ogre Trinket",
+  "type": "Trinket",
+  "level": 43,
+  "rarity": "Masterwork",
+  "vendor_value": 100,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23280,
+  "chat_link": "[\u0026AgHwWgAA]",
+  "icon": "https://render.guildwars2.com/file/927747D7FF36EC5D7807AA80FF307D0A6D78F661/66789.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 73.525,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 18
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 26
+        }
+      ]
+    }
+  }
+}

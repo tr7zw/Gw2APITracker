@@ -1,0 +1,77 @@
+{
+  "name": "Wupwup Warhammer",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of the ancient Wupwup grawl tribe.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 10000,
+  "default_skin": 4235,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 47010,
+  "chat_link": "[\u0026AgGitwAA]",
+  "icon": "https://render.guildwars2.com/file/A21C2A3AA930CD6F245AC248C0A5F5362833626C/632317.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 1034,
+    "max_power": 1166,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      },
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 717.024,
+    "infix_upgrade": {
+      "id": 559,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 118
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 118
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 118
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 118
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 118
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 118
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 118
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": 3896,
+  "name": "Hidden Carrot Hunt",
+  "description": "Someone from Highjump Ranch has hidden carrots. Find them to win the game.",
+  "requirement": "Use your springer to find and collect carrots in the Brightwater Inlet.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Brightwater Inlet 01"
+    },
+    {
+      "type": "Text",
+      "text": "Brightwater Inlet 02"
+    },
+    {
+      "type": "Text",
+      "text": "Brightwater Inlet 03"
+    },
+    {
+      "type": "Text",
+      "text": "Brightwater Inlet 04"
+    },
+    {
+      "type": "Text",
+      "text": "Brightwater Inlet 05"
+    },
+    {
+      "type": "Text",
+      "text": "Brightwater Inlet 06"
+    },
+    {
+      "type": "Text",
+      "text": "Brightwater Inlet 07"
+    },
+    {
+      "type": "Text",
+      "text": "Brightwater Inlet 08"
+    },
+    {
+      "type": "Text",
+      "text": "Brightwater Inlet 09"
+    },
+    {
+      "type": "Text",
+      "text": "Brightwater Inlet 10"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 2
+    },
+    {
+      "count": 10,
+      "points": 3
+    }
+  ],
+  "prerequisites": [
+    3766
+  ]
+}

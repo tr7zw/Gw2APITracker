@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Auxiliary Powered Gloves",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 1000,
+  "default_skin": 288,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Asura"
+  ],
+  "id": 3604,
+  "chat_link": "[\u0026AgEUDgAA]",
+  "icon": "https://render.guildwars2.com/file/40447BFD58FE7161C30BBB5A1C36429B40019FE7/61164.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 94,
+    "infusion_slots": [],
+    "attribute_adjustment": 75.33,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 19
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 19
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 26
+        }
+      ]
+    }
+  }
+}

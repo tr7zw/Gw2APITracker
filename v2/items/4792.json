@@ -1,0 +1,47 @@
+{
+  "name": "Heavy Vigil Chestpiece",
+  "description": "\u003cc\u003d@flavor\u003e\"Sometimes skritt find the strangest things.\"\u003cbr\u003e—Crusader Aisling\u003c/c\u003e",
+  "type": "Armor",
+  "level": 51,
+  "rarity": "Masterwork",
+  "vendor_value": 135,
+  "default_skin": 864,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4792,
+  "chat_link": "[\u0026AgG4EgAA]",
+  "icon": "https://render.guildwars2.com/file/FA402B55E85FF4D9FF3F08B09E137428E0A3A5B2/61557.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 163,
+    "infusion_slots": [],
+    "attribute_adjustment": 166.617,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 58
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 42
+        }
+      ]
+    },
+    "suffix_item_id": 24730
+  }
+}

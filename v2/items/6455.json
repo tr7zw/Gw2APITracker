@@ -1,0 +1,45 @@
+{
+  "name": "Mending Jacket",
+  "description": "",
+  "type": "Armor",
+  "level": 57,
+  "rarity": "Masterwork",
+  "vendor_value": 147,
+  "default_skin": 925,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6455,
+  "chat_link": "[\u0026AgE3GQAA]",
+  "icon": "https://render.guildwars2.com/file/D76E7FD875F09590705F01E5FCB1D234AF4297CC/61235.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 174,
+    "infusion_slots": [],
+    "attribute_adjustment": 194.004,
+    "infix_upgrade": {
+      "id": 147,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 49
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 68
+        }
+      ]
+    },
+    "suffix_item_id": 24707
+  }
+}

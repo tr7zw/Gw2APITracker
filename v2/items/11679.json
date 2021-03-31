@@ -1,0 +1,42 @@
+{
+  "name": "Hearty Outlaw Coat",
+  "description": "",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Masterwork",
+  "vendor_value": 102,
+  "default_skin": 220,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 11679,
+  "chat_link": "[\u0026AgGfLQAA]",
+  "icon": "https://render.guildwars2.com/file/F75CBD4A7903080464AA1775A466F71EA1BBF266/61423.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 100,
+    "infusion_slots": [],
+    "attribute_adjustment": 100.827,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 25
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 35
+        }
+      ]
+    }
+  }
+}

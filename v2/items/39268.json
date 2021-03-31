@@ -1,0 +1,57 @@
+{
+  "name": "Collar of the First Commissar",
+  "description": "\u003cc\u003d@flavor\u003eRumored to be worn by the first dredge to break free from dwarven slavery.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 660,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 39268,
+  "chat_link": "[\u0026AgFkmQAA]",
+  "icon": "https://render.guildwars2.com/file/77B73F19A90A57A13CB1241BE09254E923F4B364/534247.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Enrichment"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "infix_upgrade": {
+      "id": 583,
+      "buff": {
+        "skill_id": 15743,
+        "description": "+32 Toughness\n+18 Power\n+18 Ferocity"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 108
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 157
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 108
+        }
+      ]
+    }
+  }
+}

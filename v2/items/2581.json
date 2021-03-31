@@ -1,0 +1,40 @@
+{
+  "name": "Ravaging Country Pants",
+  "description": "",
+  "type": "Armor",
+  "level": 24,
+  "rarity": "Fine",
+  "vendor_value": 37,
+  "default_skin": 18,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 2581,
+  "chat_link": "[\u0026AgEVCgAA]",
+  "icon": "https://render.guildwars2.com/file/1CE056916131A73FCE22D7BC24090AC577CA6773/61087.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Light",
+    "defense": 38,
+    "infusion_slots": [],
+    "attribute_adjustment": 38.016,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 10
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 13
+        }
+      ]
+    }
+  }
+}

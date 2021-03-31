@@ -1,0 +1,38 @@
+{
+  "name": "Mighty Axe",
+  "description": "",
+  "type": "Weapon",
+  "level": 16,
+  "rarity": "Basic",
+  "vendor_value": 10,
+  "default_skin": 3865,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 28801,
+  "chat_link": "[\u0026AgGBcAAA]",
+  "icon": "https://render.guildwars2.com/file/F0386CA4B7B424B01B54D7724D12A3DF09203E6D/66151.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 142,
+    "max_power": 174,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 25.792,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Junction Haven Shield",
+  "description": "\u003cc\u003d@flavor\u003e\"The edges have been sharpened a bit in order to give the shield a counter-offensive nature. After all, a good offense is the best defense.\"\u003cbr\u003e—Sheriff Bloodclaw\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 28,
+  "rarity": "Masterwork",
+  "vendor_value": 58,
+  "default_skin": 5018,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30476,
+  "chat_link": "[\u0026AgEMdwAA]",
+  "icon": "https://render.guildwars2.com/file/5DA00DC8E6E6E7BE39B51B7F30D2314ECB33A5CF/61712.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 239,
+    "max_power": 269,
+    "defense": 15,
+    "infusion_slots": [],
+    "attribute_adjustment": 67.932,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 17
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 24
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

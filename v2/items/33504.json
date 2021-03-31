@@ -1,0 +1,37 @@
+{
+  "name": "Resilient Krytan Torch",
+  "type": "Weapon",
+  "level": 11,
+  "rarity": "Fine",
+  "vendor_value": 16,
+  "default_skin": 4992,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 33504,
+  "chat_link": "[\u0026AgHgggAA]",
+  "icon": "https://render.guildwars2.com/file/D0AAAB4B0AD3FCC3B3735C08CA5ED074B9440EDB/61736.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 148,
+    "max_power": 173,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 24.704,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

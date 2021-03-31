@@ -1,0 +1,62 @@
+{
+  "id": 2282,
+  "name": "Machined Staff",
+  "description": "",
+  "requirement": "Collect all  items to forge your Machined Staff.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 6193
+    },
+    {
+      "type": "Item",
+      "id": 74758
+    },
+    {
+      "type": "Item",
+      "id": 76382
+    },
+    {
+      "type": "Item",
+      "id": 74732
+    },
+    {
+      "type": "Item",
+      "id": 72661
+    },
+    {
+      "type": "Item",
+      "id": 74208
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 72877,
+      "count": 1
+    }
+  ]
+}

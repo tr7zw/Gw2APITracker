@@ -1,0 +1,30 @@
+{
+  "id": 2744,
+  "name": "League Elementalist—Veteran",
+  "description": "Completing this achievement advances the League Profession—Veteran achievement.",
+  "requirement": "Win 5 ranked matches as an elementalist.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    2687
+  ]
+}

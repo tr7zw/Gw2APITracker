@@ -1,0 +1,44 @@
+{
+  "name": "Vigorous Bandit Short Bow",
+  "description": "",
+  "type": "Weapon",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 153,
+  "default_skin": 3926,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 14740,
+  "chat_link": "[\u0026AgGUOQAA]",
+  "icon": "https://render.guildwars2.com/file/F5BDB6EACB072894E577079D6457F40C72927E08/66742.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 339,
+    "max_power": 375,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 197.136,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 69
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 49
+        }
+      ]
+    }
+  }
+}

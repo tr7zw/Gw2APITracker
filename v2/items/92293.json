@@ -1,0 +1,29 @@
+{
+  "name": "Mini Icebrood Construct",
+  "description": "Double-click to summon this mini to follow you around. Only one mini may be in use at a time.",
+  "type": "MiniPet",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 50,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 92293,
+  "chat_link": "[\u0026AgGFaAEA]",
+  "icon": "https://render.guildwars2.com/file/C60210D24C06F59B43A05F225393355852D244C3/2221486.png",
+  "details": {
+    "minipet_id": 789
+  }
+}

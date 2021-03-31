@@ -1,0 +1,51 @@
+{
+  "name": "Apostate\u0027s Verteth Edge",
+  "type": "Weapon",
+  "level": 71,
+  "rarity": "Exotic",
+  "vendor_value": 366,
+  "default_skin": 5083,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 51509,
+  "chat_link": "[\u0026AgE1yQAA]",
+  "icon": "https://render.guildwars2.com/file/4BC52199DBDEEF5D4D90736B582DDA0F092B0DE4/434780.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 901,
+    "max_power": 996,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 610.4,
+    "infix_upgrade": {
+      "id": 1012,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 153
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 153
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 214
+        }
+      ]
+    }
+  }
+}

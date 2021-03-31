@@ -1,0 +1,45 @@
+{
+  "name": "Honed Soft Wood Staff of Ogre Slaying",
+  "description": "",
+  "type": "Weapon",
+  "level": 39,
+  "rarity": "Masterwork",
+  "vendor_value": 111,
+  "default_skin": 4067,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27680,
+  "chat_link": "[\u0026AgEgbAAA]",
+  "icon": "https://render.guildwars2.com/file/04BE267A42B12DB00F0162639702BDEFC90F4A5D/62880.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 372,
+    "max_power": 420,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 207.264,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 73
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 52
+        }
+      ]
+    },
+    "suffix_item_id": 24657
+  }
+}

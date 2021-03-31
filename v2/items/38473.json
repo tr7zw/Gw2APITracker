@@ -1,0 +1,45 @@
+{
+  "name": "Toymaker\u0027s Bag",
+  "description": "A gift bag!\u003cbr\u003e\u003cc\u003d@flavor\u003e\"Care is taken with every toy. A small gift given will bring great joy.\"\u003c/c\u003e",
+  "type": "Back",
+  "level": 10,
+  "rarity": "Rare",
+  "vendor_value": 45,
+  "default_skin": 2374,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 38473,
+  "chat_link": "[\u0026AgFJlgAA]",
+  "icon": "https://render.guildwars2.com/file/7226E4077B7A96A602B1E5C42B4EAB19C1DC2698/526341.png",
+  "details": {
+    "infusion_slots": [],
+    "attribute_adjustment": 7.452,
+    "infix_upgrade": {
+      "id": 629,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 3
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 2
+        }
+      ]
+    }
+  }
+}

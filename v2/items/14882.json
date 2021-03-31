@@ -1,0 +1,48 @@
+{
+  "name": "Rabid Beaded Greataxe",
+  "description": "",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 156,
+  "default_skin": 3904,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 14882,
+  "chat_link": "[\u0026AgEiOgAA]",
+  "icon": "https://render.guildwars2.com/file/0525941AFA5399365C5D56922042043231260F24/534140.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 534,
+    "max_power": 653,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 200.88,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 50
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 50
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 70
+        }
+      ]
+    }
+  }
+}

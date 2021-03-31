@@ -1,0 +1,42 @@
+{
+  "name": "Companion\u0027s Ring",
+  "description": "\u003cc\u003d@flavor\u003eThe inscription on the inside reads: \"Because the Cap said so.\"\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 36,
+  "rarity": "Masterwork",
+  "vendor_value": 105,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23848,
+  "chat_link": "[\u0026AgEoXQAA]",
+  "icon": "https://render.guildwars2.com/file/B9595BAFC57D70621D0A0C745C6E475FC540707C/66230.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [],
+    "attribute_adjustment": 69.819,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 17
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 24
+        }
+      ]
+    }
+  }
+}

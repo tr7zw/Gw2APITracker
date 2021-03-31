@@ -1,0 +1,41 @@
+{
+  "name": "Snowflake Silver Amulet",
+  "description": "",
+  "type": "Trinket",
+  "level": 35,
+  "rarity": "Rare",
+  "vendor_value": 204,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 38148,
+  "chat_link": "[\u0026AgEElQAA]",
+  "icon": "https://render.guildwars2.com/file/EDA7729B2011422566ED47B607BB9200F3DC0BD7/526256.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 98.568,
+    "infix_upgrade": {
+      "id": 626,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 34
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 25
+        }
+      ]
+    },
+    "suffix_item_id": 38139
+  }
+}

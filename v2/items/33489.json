@@ -1,0 +1,37 @@
+{
+  "name": "Resilient Krytan Short Bow",
+  "type": "Weapon",
+  "level": 16,
+  "rarity": "Fine",
+  "vendor_value": 30,
+  "default_skin": 5000,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 33489,
+  "chat_link": "[\u0026AgHRggAA]",
+  "icon": "https://render.guildwars2.com/file/4BCEF9E3C9D95E3F95EF0130F9AFE7DE680D9242/68100.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 188,
+    "max_power": 208,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 67.072,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 23
+        }
+      ]
+    }
+  }
+}

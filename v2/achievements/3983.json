@@ -1,0 +1,39 @@
+{
+  "id": 3983,
+  "name": "Mutiny!",
+  "description": "",
+  "requirement": "Defeat the three hostile captains of the corsairs.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Powderkeg Captain Barud"
+    },
+    {
+      "type": "Text",
+      "text": "Stonefist Captain Randa"
+    },
+    {
+      "type": "Text",
+      "text": "Alehound Captain Asef"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    }
+  ]
+}

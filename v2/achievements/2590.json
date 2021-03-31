@@ -1,0 +1,24 @@
+{
+  "id": 2590,
+  "name": "Fire Jumper",
+  "description": "You\u0027ve reached the highest heights and found your flame.",
+  "requirement": "Use a jump mushroom to gather flamethrower supplies.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 88
+    }
+  ]
+}

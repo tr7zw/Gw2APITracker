@@ -1,0 +1,46 @@
+{
+  "id": 5357,
+  "name": "Drizzlewood Historian",
+  "description": "",
+  "requirement": "Find all hidden history books around Drizzlewood Coast.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "A Brief Reflection on Olaf Olafson"
+    },
+    {
+      "type": "Text",
+      "text": "Norn/Human Diplomacy"
+    },
+    {
+      "type": "Text",
+      "text": "The Legacy and Mythos of the Olafson Sword"
+    },
+    {
+      "type": "Text",
+      "text": "The Great Drunken Debauchery of Sven Liefson"
+    },
+    {
+      "type": "Text",
+      "text": "The Betrayal of Olaf Olafson"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 93772,
+      "count": 1
+    }
+  ]
+}

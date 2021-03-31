@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Auxiliary Powered Coat",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 2500,
+  "default_skin": 296,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Asura"
+  ],
+  "id": 3603,
+  "chat_link": "[\u0026AgETDgAA]",
+  "icon": "https://render.guildwars2.com/file/6257AB26395C35DF46C5A30A1E7793024F72CE60/61163.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 202,
+    "infusion_slots": [],
+    "attribute_adjustment": 225.99,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 56
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 79
+        }
+      ]
+    }
+  }
+}

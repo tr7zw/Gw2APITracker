@@ -1,0 +1,31 @@
+{
+  "id": 555,
+  "name": "Doctor of Secrets, World 1",
+  "description": "That\u0027s Doctor of Secrets to you!",
+  "requirement": "Find all of the hidden rooms (excluding furniture shops) located in World 1.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Zone 01"
+    },
+    {
+      "type": "Text",
+      "text": "Zone 02"
+    },
+    {
+      "type": "Text",
+      "text": "Zone 03"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 10
+    }
+  ]
+}

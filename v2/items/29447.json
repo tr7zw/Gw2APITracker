@@ -1,0 +1,53 @@
+{
+  "name": "Fine Caer Warhorn",
+  "description": "\u003cc\u003d@flavor\u003e\"Battlefield communication is essential to our tactics, especially when you are working side-by-side with the Vigil.\"\u003cbr\u003e—Priory Explorer Cyara\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 58,
+  "rarity": "Masterwork",
+  "vendor_value": 100,
+  "default_skin": 3907,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29447,
+  "chat_link": "[\u0026AgEHcwAA]",
+  "icon": "https://render.guildwars2.com/file/5A0593B5164DE87591029323F7D90775D716001D/65530.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 453,
+    "max_power": 501,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 176.732,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 62
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 44
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 44
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

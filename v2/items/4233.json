@@ -1,0 +1,40 @@
+{
+  "name": "Devout Leggings",
+  "description": "",
+  "type": "Armor",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 68,
+  "default_skin": 862,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4233,
+  "chat_link": "[\u0026AgGJEAAA]",
+  "icon": "https://render.guildwars2.com/file/7E7B65B507E108A520CA31AA9158060A1F5E5861/61248.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Light",
+    "defense": 37,
+    "infusion_slots": [],
+    "attribute_adjustment": 35.241,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 12
+        }
+      ]
+    }
+  }
+}

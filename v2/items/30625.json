@@ -1,0 +1,53 @@
+{
+  "name": "Perfected Fort Cadence Maul",
+  "description": "\u003cc\u003d@flavor\u003e\"This destroys just about anything: artifacts, grubs, even undead. Just keep hitting them until they stop moving.\" \u003cbr\u003e—Jezza\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 55,
+  "rarity": "Masterwork",
+  "vendor_value": 144,
+  "default_skin": 5222,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30625,
+  "chat_link": "[\u0026AgGhdwAA]",
+  "icon": "https://render.guildwars2.com/file/C5B365D6105F76470106A61F4AB96F3E39D10E18/60991.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 516,
+    "max_power": 582,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 327.624,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 82
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 82
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 115
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

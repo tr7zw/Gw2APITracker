@@ -1,0 +1,46 @@
+{
+  "id": 4154,
+  "name": "(Annual) World 1 Warm-Up",
+  "description": "For when you just want to see the story.",
+  "requirement": "Play Zone 1, Zone 2, and Zone 3 in World 1 in Infantile Mode.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Complete World 1, Zone 1 on Infantile Mode."
+    },
+    {
+      "type": "Text",
+      "text": "Complete World 1, Zone 2 on Infantile Mode."
+    },
+    {
+      "type": "Text",
+      "text": "Complete World 1, Zone 3 on Infantile Mode."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 2,
+      "points": 0
+    },
+    {
+      "count": 3,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 41886,
+      "count": 1
+    }
+  ]
+}

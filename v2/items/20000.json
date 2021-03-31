@@ -1,0 +1,29 @@
+{
+  "name": "Box o\u0027 Fun",
+  "description": "Double-click to create a box full of random goofs and gags! Lasts 15 minutes.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 4,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "NoUnderwater",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 20000,
+  "chat_link": "[\u0026AgEgTgAA]",
+  "icon": "https://render.guildwars2.com/file/BE034CD0E694AE0677B5A268446C4BBC30046660/220568.png",
+  "details": {
+    "type": "Generic"
+  }
+}

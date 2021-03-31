@@ -1,0 +1,42 @@
+{
+  "name": "Superior Rune of the Grove",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eSkill\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 60,
+  "rarity": "Exotic",
+  "vendor_value": 216,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24735,
+  "chat_link": "[\u0026AgGfYAAA]",
+  "icon": "https://render.guildwars2.com/file/1A4B11313EA4B3076232AAA10D0F2F62A50A6179/220707.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+25 Healing",
+      "+10% Protection Duration",
+      "+50 Healing",
+      "+20% Protection Duration",
+      "+100 Healing",
+      "+20% Protection Duration; when struck by a foe, a meadow blooms at your location, granting vigor, regeneration, and protection to allies within it. \u003cc\u003d@reminder\u003e(Cooldown: 90 Seconds)\u003c/c\u003e"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Grove"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Rabid Beaded Torch",
+  "description": "",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 156,
+  "default_skin": 3996,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 14898,
+  "chat_link": "[\u0026AgEyOgAA]",
+  "icon": "https://render.guildwars2.com/file/AA98B53EC897E10477FA0F6DA59D2013E6BD2074/534156.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 492,
+    "max_power": 577,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 200.88,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 50
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 50
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 70
+        }
+      ]
+    }
+  }
+}

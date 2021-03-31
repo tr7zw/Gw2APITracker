@@ -1,0 +1,48 @@
+{
+  "name": "Inquest Boots",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 746,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 17744,
+  "chat_link": "[\u0026AgFQRQAA]",
+  "icon": "https://render.guildwars2.com/file/B3053E2B50C26452AE9199099C6B301D3E92F53C/61592.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Medium",
+    "defense": 157,
+    "infusion_slots": [],
+    "attribute_adjustment": 128.04,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 45
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 32
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 32
+        }
+      ]
+    },
+    "suffix_item_id": 24785
+  }
+}

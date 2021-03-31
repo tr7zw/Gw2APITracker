@@ -1,0 +1,35 @@
+{
+  "id": 2651,
+  "name": "Loot Finder",
+  "description": "",
+  "requirement": "Find all the hidden chests.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Greed will be your undoing."
+    },
+    {
+      "type": "Text",
+      "text": "You\u0027ll miss it the first time."
+    },
+    {
+      "type": "Text",
+      "text": "The prize before the fight."
+    },
+    {
+      "type": "Text",
+      "text": "If you can\u0027t stand the heat..."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 4,
+      "points": 1
+    }
+  ]
+}

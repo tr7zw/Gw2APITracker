@@ -1,0 +1,48 @@
+{
+  "name": "Berserker\u0027s Wrangler Coat",
+  "type": "Armor",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 2500,
+  "default_skin": 351,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "id": 3728,
+  "chat_link": "[\u0026AgGQDgAA]",
+  "icon": "https://render.guildwars2.com/file/51D60A39CFC9BD65CF697330B1093AF80454F476/779811.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 202,
+    "infusion_slots": [],
+    "attribute_adjustment": 225.99,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 79
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 56
+        }
+      ]
+    }
+  }
+}

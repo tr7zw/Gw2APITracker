@@ -1,0 +1,38 @@
+{
+  "name": "Precise Iron Rifle",
+  "description": "",
+  "type": "Weapon",
+  "level": 12,
+  "rarity": "Fine",
+  "vendor_value": 26,
+  "default_skin": 4092,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 27973,
+  "chat_link": "[\u0026AgFFbQAA]",
+  "icon": "https://render.guildwars2.com/file/167018D742BBF5120BE4ACE80DE5B049089D20F2/62700.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 188,
+    "max_power": 230,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 52.992,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 19
+        }
+      ]
+    }
+  }
+}

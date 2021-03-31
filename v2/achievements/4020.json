@@ -1,0 +1,65 @@
+{
+  "id": 4020,
+  "name": "Silencer",
+  "description": "\"...\"",
+  "requirement": "Complete all other achievements in the Hall of Chains raid instance.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Defeat the Soulless Horror."
+    },
+    {
+      "type": "Text",
+      "text": "Defeat the Soulless Horror in Challenge Mode."
+    },
+    {
+      "type": "Text",
+      "text": "Defeat the Soulless Horror without being hit by Vortex Slash or Hurricane Slash."
+    },
+    {
+      "type": "Text",
+      "text": "Complete the River of Souls event."
+    },
+    {
+      "type": "Text",
+      "text": "Complete the Statue of Ice event."
+    },
+    {
+      "type": "Text",
+      "text": "Complete the Statue of Darkness event."
+    },
+    {
+      "type": "Text",
+      "text": "Complete the Statue of Death and Resurrection event."
+    },
+    {
+      "type": "Text",
+      "text": "Complete all three statue events within 5 minutes."
+    },
+    {
+      "type": "Text",
+      "text": "Defeat the Voice in the Void."
+    },
+    {
+      "type": "Text",
+      "text": "Defeat the Voice in the Void on challenge mode."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 10,
+      "points": 25
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 300
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 2343,
+  "name": "Dive Master: Verdant Brink",
+  "description": "Abandon ship without a chute!",
+  "requirement": "Use the diving goggles found in the Pact fleet wreckage in Verdant Brink.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 91
+    }
+  ]
+}

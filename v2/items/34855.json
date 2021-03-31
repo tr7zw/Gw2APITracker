@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Verdant Short Bow of Corruption",
+  "type": "Weapon",
+  "level": 67,
+  "rarity": "Rare",
+  "vendor_value": 252,
+  "default_skin": 5156,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34855,
+  "chat_link": "[\u0026AgEniAAA]",
+  "icon": "https://render.guildwars2.com/file/80B1CACED21E0F6031157609D24794B2D7C602EB/434894.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 641,
+    "max_power": 708,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 468.432,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 117
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 117
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 164
+        }
+      ]
+    },
+    "suffix_item_id": 24577
+  }
+}

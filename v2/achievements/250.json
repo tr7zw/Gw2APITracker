@@ -1,0 +1,65 @@
+{
+  "id": 250,
+  "name": "Ransacker",
+  "description": "People want you on their team.",
+  "requirement": "Obtain  rank points.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 138500,
+      "points": 10
+    },
+    {
+      "count": 153500,
+      "points": 10
+    },
+    {
+      "count": 168500,
+      "points": 10
+    },
+    {
+      "count": 183500,
+      "points": 10
+    },
+    {
+      "count": 198500,
+      "points": 10
+    },
+    {
+      "count": 213500,
+      "points": 10
+    },
+    {
+      "count": 228500,
+      "points": 10
+    },
+    {
+      "count": 243500,
+      "points": 10
+    },
+    {
+      "count": 258500,
+      "points": 10
+    },
+    {
+      "count": 273500,
+      "points": 10
+    }
+  ],
+  "prerequisites": [
+    249
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 120
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Funerary Mask",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 330,
+  "default_skin": 7708,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "DeleteWarning",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 84375,
+  "chat_link": "[\u0026AgGXSQEA]",
+  "icon": "https://render.guildwars2.com/file/EAE3043E18B2C69C55A6C9320E032F0A22DD05F3/1768394.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Medium",
+    "defense": 97,
+    "infusion_slots": [],
+    "attribute_adjustment": 170.72,
+    "infix_upgrade": {
+      "id": 1344,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 51
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 28
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 28
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 51
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": 123,
+  "name": "Hobby Dungeon Explorer",
+  "description": "You return to the depths for adventure\u0027s sake.",
+  "requirement": "Complete  explorable dungeon.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    122
+  ],
+  "point_cap": 200
+}

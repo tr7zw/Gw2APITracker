@@ -1,0 +1,44 @@
+{
+  "name": "Strong Shield",
+  "description": "",
+  "type": "Weapon",
+  "level": 50,
+  "rarity": "Basic",
+  "vendor_value": 23,
+  "default_skin": 3855,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 30975,
+  "chat_link": "[\u0026AgH/eAAA]",
+  "icon": "https://render.guildwars2.com/file/7DB35F1B7E15540C901650FE08B635FC7F01C852/66208.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 281,
+    "max_power": 317,
+    "defense": 20,
+    "infusion_slots": [],
+    "attribute_adjustment": 104.312,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 37
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 26
+        }
+      ]
+    }
+  }
+}

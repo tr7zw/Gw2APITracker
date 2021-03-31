@@ -1,0 +1,45 @@
+{
+  "name": "Honed Iron Sword of Serpent Slaying",
+  "description": "",
+  "type": "Weapon",
+  "level": 39,
+  "rarity": "Masterwork",
+  "vendor_value": 74,
+  "default_skin": 4062,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26409,
+  "chat_link": "[\u0026AgEpZwAA]",
+  "icon": "https://render.guildwars2.com/file/D10679012504F6AD5829D1DF9F36303FE2EB46B4/64343.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 342,
+    "max_power": 378,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 103.632,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 36
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 26
+        }
+      ]
+    },
+    "suffix_item_id": 24660
+  }
+}

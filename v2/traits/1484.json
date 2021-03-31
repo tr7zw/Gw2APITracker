@@ -1,0 +1,27 @@
+{
+  "id": 1484,
+  "tier": 2,
+  "order": 0,
+  "name": "Doubled Standards",
+  "description": "Unique \u003cc\u003d@abilitytype\u003ebanner\u003c/c\u003e effects applied to you are stronger. Gain swiftness when you summon or pick up a banner.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Banner Effect Improvement",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "percent": 100
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+      "duration": 5,
+      "status": "Swiftness",
+      "description": "Movement speed increased by 33%; stacks duration.",
+      "apply_count": 1
+    }
+  ],
+  "specialization": 51,
+  "icon": "https://render.guildwars2.com/file/3DD095F41404F7F043C70854AB944116F45570F7/1012801.png"
+}

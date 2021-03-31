@@ -1,0 +1,61 @@
+{
+  "id": 1729,
+  "name": "Utility Utilizer",
+  "description": "",
+  "requirement": "Use one of each of these  utility boost items.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 9476
+    },
+    {
+      "type": "Item",
+      "id": 9461
+    },
+    {
+      "type": "Item",
+      "id": 9443
+    },
+    {
+      "type": "Item",
+      "id": 48917
+    },
+    {
+      "type": "Item",
+      "id": 48916
+    },
+    {
+      "type": "Item",
+      "id": 48915
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 8469,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Vital Bronze Rifle",
+  "description": "",
+  "type": "Weapon",
+  "level": 10,
+  "rarity": "Fine",
+  "vendor_value": 23,
+  "default_skin": 4076,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 14175,
+  "chat_link": "[\u0026AgFfNwAA]",
+  "icon": "https://render.guildwars2.com/file/167018D742BBF5120BE4ACE80DE5B049089D20F2/62700.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 180,
+    "max_power": 220,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 45.952,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 16
+        }
+      ]
+    }
+  }
+}

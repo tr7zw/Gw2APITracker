@@ -1,0 +1,38 @@
+{
+  "name": "Mighty Studded Pants",
+  "description": "",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 5,
+  "default_skin": 22,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NotUpgradeable"
+  ],
+  "restrictions": [],
+  "id": 1164,
+  "chat_link": "[\u0026AgGMBAAA]",
+  "icon": "https://render.guildwars2.com/file/9EDA0D4C957DA89F653E9D27695592B139ECD035/61049.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Medium",
+    "defense": 16,
+    "infusion_slots": [],
+    "attribute_adjustment": 7.722,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 3
+        }
+      ]
+    }
+  }
+}

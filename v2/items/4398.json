@@ -1,0 +1,47 @@
+{
+  "name": "Cloth Duskmade Boots",
+  "description": "\u003cc\u003d@flavor\u003e\"You hear that? No? Of course not. Not with these on. Quiet as a moa feather in the breeze.\"\u003cbr\u003e—Fina Duskmaker\u003c/c\u003e",
+  "type": "Armor",
+  "level": 48,
+  "rarity": "Masterwork",
+  "vendor_value": 86,
+  "default_skin": 904,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4398,
+  "chat_link": "[\u0026AgEuEQAA]",
+  "icon": "https://render.guildwars2.com/file/72997C3425C2339DF4E64A6B04DABD33B4DD1C02/61261.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 56,
+    "infusion_slots": [],
+    "attribute_adjustment": 51.153,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 18
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 13
+        }
+      ]
+    },
+    "suffix_item_id": 24739
+  }
+}

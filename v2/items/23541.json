@@ -1,0 +1,47 @@
+{
+  "name": "Iron Legion Gunner\u0027s Ring",
+  "description": "\u003cc\u003d@flavor\u003e\"Looks like your heroics qualified you. You have the Iron Legion\u0027s thanks.\"\u003cbr\u003e—Legionnaire Sleekfur\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 56,
+  "rarity": "Masterwork",
+  "vendor_value": 141,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23541,
+  "chat_link": "[\u0026AgH1WwAA]",
+  "icon": "https://render.guildwars2.com/file/C91B26DAC0E9C2B60F0C1E18ED35E0B39F3F4B20/63594.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [],
+    "attribute_adjustment": 119.901,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 30
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 30
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 42
+        }
+      ]
+    }
+  }
+}

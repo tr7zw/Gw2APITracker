@@ -1,0 +1,43 @@
+{
+  "name": "Stout Privateer Coat",
+  "type": "Armor",
+  "level": 45,
+  "rarity": "Rare",
+  "vendor_value": 185,
+  "default_skin": 46,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 18207,
+  "chat_link": "[\u0026AgEfRwAA]",
+  "icon": "https://render.guildwars2.com/file/9E384E500AE801DE793FFB0149BE330BDA542C58/61024.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 142,
+    "infusion_slots": [],
+    "attribute_adjustment": 153.171,
+    "infix_upgrade": {
+      "id": 148,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 54
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 38
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Inquest Bracers",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 238,
+  "default_skin": 753,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 17752,
+  "chat_link": "[\u0026AgFYRQAA]",
+  "icon": "https://render.guildwars2.com/file/EE3B1CBAF6F951F893141655C520F75CEB2C139A/61594.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 157,
+    "infusion_slots": [],
+    "attribute_adjustment": 128.04,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 32
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 45
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 32
+        }
+      ]
+    },
+    "suffix_item_id": 24785
+  }
+}

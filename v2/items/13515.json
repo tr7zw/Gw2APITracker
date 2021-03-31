@@ -1,0 +1,40 @@
+{
+  "name": "Spinel Gold Amulet",
+  "description": "",
+  "type": "Trinket",
+  "level": 45,
+  "rarity": "Fine",
+  "vendor_value": 82,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix"
+  ],
+  "restrictions": [],
+  "id": 13515,
+  "chat_link": "[\u0026AgHLNAAA]",
+  "icon": "https://render.guildwars2.com/file/58B2052EC6FD80BBED7F0A0CC21F6DB719E22792/340242.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 114.048,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 29
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 40
+        }
+      ]
+    },
+    "suffix_item_id": 24526
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Pyre Fierceshot Arrowhead",
+  "description": "\u003cc\u003d@flavor\u003e\"This arrowhead once belonged to Pyre Fierceshot.\"\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 6,
+  "rarity": "Fine",
+  "vendor_value": 14,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23512,
+  "chat_link": "[\u0026AgHYWwAA]",
+  "icon": "https://render.guildwars2.com/file/C56364EF0CD5F8D8FE110C9CA93C285E4FEFA7E0/455928.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 10.32,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Norn Torch of Corruption",
+  "type": "Weapon",
+  "level": 67,
+  "rarity": "Rare",
+  "vendor_value": 168,
+  "default_skin": 5103,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25633,
+  "chat_link": "[\u0026AgEhZAAA]",
+  "icon": "https://render.guildwars2.com/file/3A589D3C7DEF91572159A33E324A4E975CCC011D/575182.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 559,
+    "max_power": 656,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 234.216,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 82
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 59
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 59
+        }
+      ]
+    },
+    "suffix_item_id": 24577
+  }
+}

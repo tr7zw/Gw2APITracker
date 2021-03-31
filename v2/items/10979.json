@@ -1,0 +1,42 @@
+{
+  "name": "Vigorous Acolyte Coat",
+  "description": "",
+  "type": "Armor",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 52,
+  "default_skin": 146,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 10979,
+  "chat_link": "[\u0026AgHjKgAA]",
+  "icon": "https://render.guildwars2.com/file/0E430BC85D287EE957900398A8B3AD4E06562352/61413.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 138,
+    "infusion_slots": [],
+    "attribute_adjustment": 162.257,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 57
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 41
+        }
+      ]
+    }
+  }
+}

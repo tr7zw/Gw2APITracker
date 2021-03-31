@@ -1,0 +1,23 @@
+{
+  "id": 129,
+  "name": "Agent of Entropy",
+  "description": "The world is composed of certain base elements.",
+  "requirement": "Salvage  items.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 200,
+      "points": 2
+    }
+  ],
+  "prerequisites": [
+    127
+  ],
+  "point_cap": 250
+}

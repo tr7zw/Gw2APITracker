@@ -1,0 +1,28 @@
+{
+  "name": "Recipe: Godskull Slayer",
+  "description": "Double-click to learn a Rare Grawl Recipe.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 33,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9925,
+  "chat_link": "[\u0026AgHFJgAA]",
+  "icon": "https://render.guildwars2.com/file/DCDFD3D77C4291321A77ECB1D608AEB8CFCEE665/849393.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 6286
+  }
+}

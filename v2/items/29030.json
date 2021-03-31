@@ -1,0 +1,46 @@
+{
+  "name": "Berserker\u0027s Speargun",
+  "description": "",
+  "type": "Weapon",
+  "level": 52,
+  "rarity": "Basic",
+  "vendor_value": 35,
+  "default_skin": 3858,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 29030,
+  "chat_link": "[\u0026AgFmcQAA]",
+  "icon": "https://render.guildwars2.com/file/491298E66504934335705E5091CCCF29C2925B47/66246.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 329,
+    "max_power": 364,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 220.584,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 77
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 55
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 55
+        }
+      ]
+    }
+  }
+}

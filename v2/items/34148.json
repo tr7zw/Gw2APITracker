@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Tribal Bow of Accuracy",
+  "type": "Weapon",
+  "level": 78,
+  "rarity": "Exotic",
+  "vendor_value": 384,
+  "default_skin": 5195,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34148,
+  "chat_link": "[\u0026AgFkhQAA]",
+  "icon": "https://render.guildwars2.com/file/A51ADB360705467301EC46B62D39BECFDEDE4810/67297.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 891,
+    "max_power": 1046,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 658.72,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 165
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 165
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 231
+        }
+      ]
+    },
+    "suffix_item_id": 24618
+  }
+}

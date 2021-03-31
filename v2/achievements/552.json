@@ -1,0 +1,47 @@
+{
+  "id": 552,
+  "name": "Associate of Secrets, World 1",
+  "description": "Even the one in the...",
+  "requirement": "Find all of the hidden rooms (excluding furniture shops) in World 1, Zone 1.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Suspiciously spaced rubble."
+    },
+    {
+      "type": "Text",
+      "text": "Rushing water."
+    },
+    {
+      "type": "Text",
+      "text": "Between two checkpoints."
+    },
+    {
+      "type": "Text",
+      "text": "Tucked away in a corner."
+    },
+    {
+      "type": "Text",
+      "text": "Left before the checkpoint."
+    },
+    {
+      "type": "Text",
+      "text": "The mountain has a back door."
+    },
+    {
+      "type": "Text",
+      "text": "At last, a customer!"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 7,
+      "points": 5
+    }
+  ]
+}

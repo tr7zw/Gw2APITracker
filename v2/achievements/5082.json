@@ -1,0 +1,58 @@
+{
+  "id": 5082,
+  "name": "Party Guardian",
+  "description": "",
+  "requirement": "Defeat all possible threats to Grothmar\u0027s festivities.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Devourer"
+    },
+    {
+      "type": "Text",
+      "text": "Parasite Devourer"
+    },
+    {
+      "type": "Text",
+      "text": "River Drake"
+    },
+    {
+      "type": "Text",
+      "text": "Ghost Captain"
+    },
+    {
+      "type": "Text",
+      "text": "Ghost Mage"
+    },
+    {
+      "type": "Text",
+      "text": "Rogue Prisoner"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tundra",
+      "id": 480
+    }
+  ]
+}

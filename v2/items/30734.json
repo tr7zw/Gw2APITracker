@@ -1,0 +1,48 @@
+{
+  "name": "Berserker\u0027s Longbow",
+  "description": "",
+  "type": "Weapon",
+  "level": 65,
+  "rarity": "Basic",
+  "vendor_value": 42,
+  "default_skin": 3854,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 30734,
+  "chat_link": "[\u0026AgEOeAAA]",
+  "icon": "https://render.guildwars2.com/file/4FA22FDDFD0A2BE9654504E608FB6D5D0295CE0C/66157.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 429,
+    "max_power": 504,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 303.368,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 106
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 76
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 76
+        }
+      ]
+    }
+  }
+}

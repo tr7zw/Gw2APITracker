@@ -1,0 +1,64 @@
+{
+  "name": "Book of Secrets",
+  "description": "\u003cc\u003d@flavor\u003eFirst edition. This book appears to be written in the author\u0027s own hand.\u003c/c\u003e",
+  "type": "Back",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 330,
+  "default_skin": 2325,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 37009,
+  "chat_link": "[\u0026AgGRkAAA]",
+  "icon": "https://render.guildwars2.com/file/7B6AAFCE03BC3461207425B1FC91DB463AC3F79D/511799.png",
+  "details": {
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 89.628,
+    "infix_upgrade": {
+      "id": 584,
+      "buff": {
+        "skill_id": 15742,
+        "description": "+32 Power\n+18 Ferocity\n+18 Precision"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 63
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 40
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 40
+        }
+      ]
+    }
+  },
+  "upgrades_into": [
+    {
+      "upgrade": "Infusion",
+      "item_id": 49370
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Carnelian Gold Pendant",
+  "description": "",
+  "type": "Trinket",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 180,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 13321,
+  "chat_link": "[\u0026AgEJNAAA]",
+  "icon": "https://render.guildwars2.com/file/66C72C4B46B713FF14C895490D0B2B0AE4043C9A/340152.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 144.228,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 50
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 36
+        }
+      ]
+    },
+    "suffix_item_id": 24479
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Vital Embroidered Mantle",
+  "type": "Armor",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 53,
+  "default_skin": 153,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 11063,
+  "chat_link": "[\u0026AgE3KwAA]",
+  "icon": "https://render.guildwars2.com/file/AEEC0A9B6F2DFC7404D8F27CEE945D7DD72D2D21/218930.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 14,
+    "infusion_slots": [],
+    "attribute_adjustment": 17.6205,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

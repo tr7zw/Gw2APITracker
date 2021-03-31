@@ -1,0 +1,43 @@
+{
+  "name": "Mighty Bandit Sunderer",
+  "description": "",
+  "type": "Weapon",
+  "level": 15,
+  "rarity": "Fine",
+  "vendor_value": 108,
+  "default_skin": 4020,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 35125,
+  "chat_link": "[\u0026AgE1iQAA]",
+  "icon": "https://render.guildwars2.com/file/F420E407B7FE087204E10619B140E440FF3FEDF7/63052.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 203,
+    "max_power": 224,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 63.488,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 22
+        }
+      ]
+    }
+  }
+}

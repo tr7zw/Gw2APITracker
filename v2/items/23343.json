@@ -1,0 +1,39 @@
+{
+  "name": "Frozen Ballista Arrowhead",
+  "description": "\u003cc\u003d@flavor\u003e\"That has to hurt.\"\u003cbr\u003e—Lionscout Alli\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 15,
+  "rarity": "Fine",
+  "vendor_value": 25,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23343,
+  "chat_link": "[\u0026AgEvWwAA]",
+  "icon": "https://render.guildwars2.com/file/400A0174D4115E336FEF0DB2F51B561FE0C8C496/65905.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 19.84,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 7
+        }
+      ]
+    }
+  }
+}

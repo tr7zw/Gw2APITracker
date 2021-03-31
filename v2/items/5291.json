@@ -1,0 +1,46 @@
+{
+  "name": "Berserker\u0027s Rawhide Vest",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Basic",
+  "vendor_value": 50,
+  "default_skin": 6,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 5291,
+  "chat_link": "[\u0026AgGrFAAA]",
+  "icon": "https://render.guildwars2.com/file/D39FF60AFE11FF260A3F0B24484CA8BCB909E0B0/61015.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 205,
+    "infusion_slots": [],
+    "attribute_adjustment": 232.011,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 81
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 58
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 58
+        }
+      ]
+    }
+  }
+}

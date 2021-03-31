@@ -1,0 +1,43 @@
+{
+  "name": "Steam Sprocket",
+  "description": "\u003cc\u003d@flavor\u003e\"This is a part from a steam creature, I\u0027ve studied it all I could maybe you\u0027ll find it more useful.\"\u003cbr\u003e—Garrius\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 32,
+  "rarity": "Masterwork",
+  "vendor_value": 80,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23383,
+  "chat_link": "[\u0026AgFXWwAA]",
+  "icon": "https://render.guildwars2.com/file/A64CDE12565E07F00470D710377A5EAB5E953816/62264.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 50.1925,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 18
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 13
+        }
+      ]
+    }
+  }
+}

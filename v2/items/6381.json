@@ -1,0 +1,47 @@
+{
+  "name": "Outrider\u0027s Mantle",
+  "type": "Armor",
+  "level": 74,
+  "rarity": "Fine",
+  "vendor_value": 68,
+  "default_skin": 169,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6381,
+  "chat_link": "[\u0026AgHtGAAA]",
+  "icon": "https://render.guildwars2.com/file/CB1168666B9D67CBF119DF365333327B72226E06/61525.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 50,
+    "infusion_slots": [],
+    "attribute_adjustment": 86.4,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 30
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 22
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 22
+        }
+      ]
+    }
+  }
+}

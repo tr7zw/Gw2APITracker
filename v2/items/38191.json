@@ -1,0 +1,42 @@
+{
+  "name": "Giver\u0027s Splint Coat",
+  "description": "",
+  "type": "Armor",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 52,
+  "default_skin": 125,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 38191,
+  "chat_link": "[\u0026AgEvlQAA]",
+  "icon": "https://render.guildwars2.com/file/D7260FB9E8342701BFFCD4482AAE3F06142F28A6/61391.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 159,
+    "infusion_slots": [],
+    "attribute_adjustment": 162.257,
+    "infix_upgrade": {
+      "id": 629,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 57
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 41
+        }
+      ]
+    }
+  }
+}

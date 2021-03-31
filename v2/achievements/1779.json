@@ -1,0 +1,77 @@
+{
+  "id": 1779,
+  "name": "Luminescent Footwear",
+  "description": "",
+  "requirement": "Collect the  parts required to assemble Luminescent Boots.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 67821
+    },
+    {
+      "type": "Item",
+      "id": 67822
+    },
+    {
+      "type": "Item",
+      "id": 67819
+    },
+    {
+      "type": "Item",
+      "id": 67820
+    },
+    {
+      "type": "Item",
+      "id": 67807
+    },
+    {
+      "type": "Item",
+      "id": 67806
+    },
+    {
+      "type": "Item",
+      "id": 67898
+    },
+    {
+      "type": "Skin",
+      "id": 5741
+    },
+    {
+      "type": "Skin",
+      "id": 5712
+    },
+    {
+      "type": "Skin",
+      "id": 5733
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 67798,
+      "count": 1
+    }
+  ]
+}

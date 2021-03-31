@@ -1,0 +1,47 @@
+{
+  "name": "Carrion Rogue Pauldrons of Strength",
+  "description": "",
+  "type": "Armor",
+  "level": 61,
+  "rarity": "Rare",
+  "vendor_value": 172,
+  "default_skin": 86,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 1100,
+  "chat_link": "[\u0026AgFMBAAA]",
+  "icon": "https://render.guildwars2.com/file/A90B3C403757375541C2A1E6AAA4D11FE8ED34B1/61255.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Medium",
+    "defense": 59,
+    "infusion_slots": [],
+    "attribute_adjustment": 77.031,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 19
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 19
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 27
+        }
+      ]
+    },
+    "suffix_item_id": 24713
+  }
+}

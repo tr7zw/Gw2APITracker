@@ -1,0 +1,43 @@
+{
+  "name": "Readreave Heavy Helm",
+  "description": "\u003cc\u003d@flavor\u003e\"This mill is a dangerous place. A sturdy helm will help cut down on any \u0027accidents.\u0027\"\u003cbr\u003e—Tamor Woodreave\u003c/c\u003e",
+  "type": "Armor",
+  "level": 22,
+  "rarity": "Masterwork",
+  "vendor_value": 63,
+  "default_skin": 869,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4185,
+  "chat_link": "[\u0026AgFZEAAA]",
+  "icon": "https://render.guildwars2.com/file/0B476306B2C800456645D324E4EBF19AC2AA4EBE/61241.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 24,
+    "infusion_slots": [],
+    "attribute_adjustment": 25.772,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 9
+        }
+      ]
+    },
+    "suffix_item_id": 24739
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Conjurer Gloves of Mercy",
+  "description": "",
+  "type": "Armor",
+  "level": 54,
+  "rarity": "Rare",
+  "vendor_value": 127,
+  "default_skin": 93,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 2356,
+  "chat_link": "[\u0026AgE0CQAA]",
+  "icon": "https://render.guildwars2.com/file/76276EDA2390224335093F0C48B20AC367CCB997/61082.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 70,
+    "infusion_slots": [],
+    "attribute_adjustment": 65.043,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 16
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 23
+        }
+      ]
+    },
+    "suffix_item_id": 24707
+  }
+}

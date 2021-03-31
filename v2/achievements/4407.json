@@ -1,0 +1,27 @@
+{
+  "id": 4407,
+  "name": "Watchful Eyes",
+  "description": "Sunspears and griffons share a strong bond.",
+  "requirement": "Pay respect to all the griffons watching over Sun\u0027s Refuge.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 11,
+      "points": 1
+    },
+    {
+      "count": 22,
+      "points": 1
+    }
+  ]
+}

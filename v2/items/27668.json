@@ -1,0 +1,38 @@
+{
+  "name": "Vital Iron Hammer",
+  "description": "",
+  "type": "Weapon",
+  "level": 18,
+  "rarity": "Fine",
+  "vendor_value": 33,
+  "default_skin": 4060,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 27668,
+  "chat_link": "[\u0026AgEUbAAA]",
+  "icon": "https://render.guildwars2.com/file/2F4509F15B48B1A9F1579D08539F4109972A31A4/65162.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 215,
+    "max_power": 242,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 75.648,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 26
+        }
+      ]
+    }
+  }
+}

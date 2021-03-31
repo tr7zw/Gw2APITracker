@@ -1,0 +1,65 @@
+{
+  "id": 249,
+  "name": "Avenger",
+  "description": "You\u0027re making a name for yourself.",
+  "requirement": "Obtain  rank points.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 56000,
+      "points": 10
+    },
+    {
+      "count": 63500,
+      "points": 10
+    },
+    {
+      "count": 71000,
+      "points": 10
+    },
+    {
+      "count": 78500,
+      "points": 10
+    },
+    {
+      "count": 86000,
+      "points": 10
+    },
+    {
+      "count": 93500,
+      "points": 10
+    },
+    {
+      "count": 101000,
+      "points": 10
+    },
+    {
+      "count": 108500,
+      "points": 10
+    },
+    {
+      "count": 116000,
+      "points": 10
+    },
+    {
+      "count": 123500,
+      "points": 10
+    }
+  ],
+  "prerequisites": [
+    248
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 119
+    }
+  ]
+}

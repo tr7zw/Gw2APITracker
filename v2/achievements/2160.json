@@ -1,0 +1,24 @@
+{
+  "id": 2160,
+  "name": "Pact Pilot Protector",
+  "description": "They\u0027ll never escape, unless...",
+  "requirement": "Help the captured Pact pilots escape from Toadstool Mire.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 16
+    }
+  ]
+}

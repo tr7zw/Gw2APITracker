@@ -1,0 +1,50 @@
+{
+  "name": "Caer Garb",
+  "description": "\u003cc\u003d@flavor\u003e\"There\u0027s dried flowers in the padding to cover up that after-battle stench. It doesn\u0027t help much, but I try.\"\u003cbr\u003e—Priory Explorer Cyara\u003c/c\u003e",
+  "type": "Armor",
+  "level": 56,
+  "rarity": "Fine",
+  "vendor_value": 74,
+  "default_skin": 866,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4004,
+  "chat_link": "[\u0026AgGkDwAA]",
+  "icon": "https://render.guildwars2.com/file/13B530319E9A2D0151670C590B37C69A20DB1B98/61230.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 145,
+    "infusion_slots": [],
+    "attribute_adjustment": 173.448,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 43
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 43
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 61
+        }
+      ]
+    }
+  }
+}

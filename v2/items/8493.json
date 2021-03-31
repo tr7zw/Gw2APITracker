@@ -1,0 +1,28 @@
+{
+  "name": "Extended Potion of Ghost Slaying",
+  "type": "Consumable",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 1,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 8493,
+  "chat_link": "[\u0026AgEtIQAA]",
+  "icon": "https://render.guildwars2.com/file/5820BA34BBED9C17C6A9CCF79EC9C8A0E2C7D53C/63247.png",
+  "details": {
+    "type": "Utility",
+    "duration_ms": 7200000,
+    "apply_count": 1,
+    "name": "Enhancement",
+    "icon": "https://render.guildwars2.com/file/64976F59BF060718C9109D36C27AD0F40F06BB32/436368.png",
+    "description": "+10% Damage vs. Ghosts\n-10% Damage from Ghosts\n+10% Experience from Kills"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Resilient Krytan Trident of Force",
+  "type": "Weapon",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 72,
+  "default_skin": 5129,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33796,
+  "chat_link": "[\u0026AgEEhAAA]",
+  "icon": "https://render.guildwars2.com/file/7BAE7EA0DAD1BAB0FA0EFA17A1587E031F550CBB/62778.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 224,
+    "max_power": 248,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 93.976,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 33
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

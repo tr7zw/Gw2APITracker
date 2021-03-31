@@ -1,0 +1,45 @@
+{
+  "name": "Rabid Spineguard",
+  "type": "Back",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 6000,
+  "default_skin": 2329,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 39150,
+  "chat_link": "[\u0026AgHumAAA]",
+  "icon": "https://render.guildwars2.com/file/03B65C435B15EB2C10E04F3454B03718AAF3AE90/61004.png",
+  "details": {
+    "infusion_slots": [],
+    "attribute_adjustment": 85.36,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 21
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 21
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 30
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Hearty Soft Wood Short Bow of Chilling",
+  "description": "",
+  "type": "Weapon",
+  "level": 58,
+  "rarity": "Masterwork",
+  "vendor_value": 150,
+  "default_skin": 3906,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28006,
+  "chat_link": "[\u0026AgFmbQAA]",
+  "icon": "https://render.guildwars2.com/file/0EFDC626FD430DA00CD9240C95EC6DF0500DB45E/67068.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 504,
+    "max_power": 557,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 353.464,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 88
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 124
+        }
+      ]
+    },
+    "suffix_item_id": 24628
+  }
+}

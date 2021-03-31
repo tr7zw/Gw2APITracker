@@ -1,0 +1,43 @@
+{
+  "name": "Sentinel Chemistry Set",
+  "description": "\u003cc\u003d@flavor\u003eUsed in the field by Sentinel engineers to study the Brand.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 40,
+  "rarity": "Fine",
+  "vendor_value": 48,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23568,
+  "chat_link": "[\u0026AgEQXAAA]",
+  "icon": "https://render.guildwars2.com/file/2AD7D2CD06E537BC4D50E60A0A2632C90474543A/455938.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 60.96,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 15
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 21
+        }
+      ]
+    }
+  }
+}

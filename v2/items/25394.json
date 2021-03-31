@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Norn Scepter of Energy",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Rare",
+  "vendor_value": 183,
+  "default_skin": 5174,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25394,
+  "chat_link": "[\u0026AgEyYwAA]",
+  "icon": "https://render.guildwars2.com/file/0BEC26E2F211461437476BAD1611F827FDE22F9E/575177.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 717,
+    "max_power": 809,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 269.208,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 94
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 67
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 67
+        }
+      ]
+    },
+    "suffix_item_id": 24606
+  }
+}

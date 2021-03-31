@@ -1,0 +1,28 @@
+{
+  "name": "Bowl of Fly Soup",
+  "type": "Consumable",
+  "level": 50,
+  "rarity": "Basic",
+  "vendor_value": 12,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 8615,
+  "chat_link": "[\u0026AgGnIQAA]",
+  "icon": "https://render.guildwars2.com/file/BCB5AD905BC4C60A707C6699621CEBF8B42829AD/219354.png",
+  "details": {
+    "type": "Food",
+    "duration_ms": 600000,
+    "apply_count": 1,
+    "name": "Nourishment",
+    "icon": "https://render.guildwars2.com/file/779D3F0ABE5B46C09CFC57374DA8CC3A495F291C/436367.png",
+    "description": "+60 Expertise\n+50 Condition Damage\n+10% Experience from Kills"
+  }
+}

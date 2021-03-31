@@ -1,0 +1,44 @@
+{
+  "name": "Hearty Dredge Barricade",
+  "description": "",
+  "type": "Weapon",
+  "level": 50,
+  "rarity": "Rare",
+  "vendor_value": 135,
+  "default_skin": 4041,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 15679,
+  "chat_link": "[\u0026AgE/PQAA]",
+  "icon": "https://render.guildwars2.com/file/5D2FB3D8A357060ED1359FEDA15436489CADAE38/575002.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 414,
+    "max_power": 467,
+    "defense": 29,
+    "infusion_slots": [],
+    "attribute_adjustment": 156.816,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 39
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 55
+        }
+      ]
+    }
+  }
+}

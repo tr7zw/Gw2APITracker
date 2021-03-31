@@ -1,0 +1,27 @@
+{
+  "name": "Golem Banker",
+  "description": "Double-click to access your account bank from anywhere. Reusable.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 21043,
+  "chat_link": "[\u0026AgEzUgAA]",
+  "icon": "https://render.guildwars2.com/file/244608C3097CD11527B67F1013F959072D277F15/340548.png",
+  "details": {
+    "type": "ContractNpc"
+  }
+}

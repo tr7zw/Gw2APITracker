@@ -1,0 +1,53 @@
+{
+  "id": 4558,
+  "name": "Chasing Tales: Azra the Sunslayer",
+  "description": "",
+  "requirement": "Acquire a Dragonsblood longbow and perform tasks to re-create Azra\u0027s legend.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Acquire the tome entry Chasing Tales: Azra the Sunslayer."
+    },
+    {
+      "type": "Text",
+      "text": "Acquire the heroic spirit of Azra: deed #1."
+    },
+    {
+      "type": "Text",
+      "text": "Acquire the heroic spirit of Azra: deed #2."
+    },
+    {
+      "type": "Text",
+      "text": "Acquire the heroic spirit of Azra: deed #3."
+    },
+    {
+      "type": "Text",
+      "text": "Meet with the spirit of Azra at a heroic font."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 322
+    }
+  ]
+}

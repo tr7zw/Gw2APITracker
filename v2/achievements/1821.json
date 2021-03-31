@@ -1,0 +1,27 @@
+{
+  "id": 1821,
+  "name": "No Teragriff Pack Snack",
+  "description": "Story Instance: Tracking the Aspect Masters",
+  "requirement": "Defeat the Mordrem teragriff without being hit by its malformed allies.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    }
+  ],
+  "prerequisites": [
+    1822
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 67813,
+      "count": 3
+    }
+  ]
+}

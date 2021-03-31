@@ -1,0 +1,47 @@
+{
+  "id": 2431,
+  "name": "Ordnance Corps Auxiliary",
+  "description": "Raze some hell!",
+  "requirement": "Complete the Ordnance Corps outpost.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Cleared Outpost"
+    },
+    {
+      "type": "Text",
+      "text": "Constructed Tower"
+    },
+    {
+      "type": "Text",
+      "text": "Defended Outpost"
+    },
+    {
+      "type": "Text",
+      "text": "Secured Airship Crash Site"
+    },
+    {
+      "type": "Text",
+      "text": "Defended Airship Crash Site"
+    },
+    {
+      "type": "Text",
+      "text": "Collected Bomb Parts"
+    },
+    {
+      "type": "Text",
+      "text": "Destroyed Blighting Tree"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 7,
+      "points": 5
+    }
+  ]
+}

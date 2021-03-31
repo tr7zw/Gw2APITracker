@@ -1,0 +1,46 @@
+{
+  "name": "Johan\u0027s Cloth Mantle",
+  "description": "\u003cc\u003d@flavor\u003e\"This piece was anointed by Vollym himself. Wear it proudly!\"\u003cbr\u003e—Johan\u003c/c\u003e",
+  "type": "Armor",
+  "level": 26,
+  "rarity": "Fine",
+  "vendor_value": 31,
+  "default_skin": 901,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4740,
+  "chat_link": "[\u0026AgGEEgAA]",
+  "icon": "https://render.guildwars2.com/file/7325942230DDD92AB59428800B1F34FFDD336091/61265.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 15,
+    "infusion_slots": [],
+    "attribute_adjustment": 20.616,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 5
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 7
+        }
+      ]
+    }
+  }
+}

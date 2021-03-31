@@ -1,0 +1,39 @@
+{
+  "id": 1675,
+  "name": "Mordrem Problems",
+  "description": "",
+  "requirement": "Successfully complete all five Mordrem events in Iron Marches.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Defeat the Gravelash and its cluster of tendrils."
+    },
+    {
+      "type": "Text",
+      "text": "Gather Mordrem samples from the vine chambers."
+    },
+    {
+      "type": "Text",
+      "text": "Rescue the captured workers."
+    },
+    {
+      "type": "Text",
+      "text": "Defeat the Mordrem wolves."
+    },
+    {
+      "type": "Text",
+      "text": "Defeat the Mordrem champion."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 5
+    }
+  ]
+}

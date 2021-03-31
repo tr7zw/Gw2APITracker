@@ -1,0 +1,24 @@
+{
+  "id": 81,
+  "name": "This Far, No Further",
+  "description": "You liberated Claw Island from the undead and swore to strike back at the heart of Orr.",
+  "requirement": "Complete the personal story step \"Retribution.\"",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tyria",
+      "id": 220
+    }
+  ]
+}

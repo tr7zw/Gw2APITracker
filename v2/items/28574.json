@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Iron Spear of Agony",
+  "description": "",
+  "type": "Weapon",
+  "level": 78,
+  "rarity": "Exotic",
+  "vendor_value": 384,
+  "default_skin": 4000,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28574,
+  "chat_link": "[\u0026AgGebwAA]",
+  "icon": "https://render.guildwars2.com/file/9AC302D1031B5C31806D0703FBC1944C01D4A240/561998.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 876,
+    "max_power": 969,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 658.72,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 231
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 165
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 165
+        }
+      ]
+    },
+    "suffix_item_id": 24612
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Ravaging Student Coat",
+  "description": "",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Masterwork",
+  "vendor_value": 102,
+  "default_skin": 143,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 11032,
+  "chat_link": "[\u0026AgEYKwAA]",
+  "icon": "https://render.guildwars2.com/file/E060CCD39DCAC84B0870359D03DE20E9802DA92E/61110.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 93,
+    "infusion_slots": [],
+    "attribute_adjustment": 100.827,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 25
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 35
+        }
+      ]
+    }
+  }
+}

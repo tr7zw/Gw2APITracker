@@ -1,0 +1,67 @@
+{
+  "id": 2118,
+  "tier": 2,
+  "order": 0,
+  "name": "Silent Scope",
+  "description": "Gain precision. Gain additional precision while wielding a rifle. Enter stealth when you dodge roll with a rifle equipped.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
+      "duration": 3,
+      "status": "Stealth",
+      "description": "Currently invisible. Ends if you deal damage.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
+      "duration": 1,
+      "status": "Stealth",
+      "description": "Currently invisible. Ends if you deal damage.",
+      "apply_count": 1
+    },
+    {
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
+      "value": 120,
+      "target": "Precision"
+    },
+    {
+      "text": "Additional Precision",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
+      "value": 120,
+      "target": "Precision"
+    }
+  ],
+  "traited_facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
+      "duration": 4,
+      "status": "Stealth",
+      "description": "Currently invisible. Ends if you deal damage.",
+      "apply_count": 1,
+      "requires_trait": 1136,
+      "overrides": 0
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
+      "duration": 2,
+      "status": "Stealth",
+      "description": "Currently invisible. Ends if you deal damage.",
+      "apply_count": 1,
+      "requires_trait": 1136,
+      "overrides": 1
+    }
+  ],
+  "specialization": 58,
+  "icon": "https://render.guildwars2.com/file/589A60502EB2EE62CABC78F43321045FE037ABD1/1770003.png"
+}

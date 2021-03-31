@@ -1,0 +1,37 @@
+{
+  "name": "Mighty Worn Chain Greaves",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 4,
+  "default_skin": 40,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NotUpgradeable"
+  ],
+  "restrictions": [],
+  "id": 148,
+  "chat_link": "[\u0026AgGUAAAA]",
+  "icon": "https://render.guildwars2.com/file/044D675DA29AFB786E32612D6B9141CA08D1EFEA/61009.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 13,
+    "infusion_slots": [],
+    "attribute_adjustment": 3.861,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 1
+        }
+      ]
+    }
+  }
+}

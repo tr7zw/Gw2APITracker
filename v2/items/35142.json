@@ -1,0 +1,43 @@
+{
+  "name": "Mighty Bandit Focus",
+  "description": "",
+  "type": "Weapon",
+  "level": 20,
+  "rarity": "Fine",
+  "vendor_value": 70,
+  "default_skin": 3903,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 35142,
+  "chat_link": "[\u0026AgFGiQAA]",
+  "icon": "https://render.guildwars2.com/file/920324A8CC464AC205D62208E75C70CF7FE6A492/63483.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 190,
+    "max_power": 201,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 42.112,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 15
+        }
+      ]
+    }
+  }
+}

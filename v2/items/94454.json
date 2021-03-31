@@ -1,0 +1,28 @@
+{
+  "name": "Draught of Central Tyria Mastery",
+  "description": "Grants a small amount of Central Tyria Mastery experience.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 5000,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94454,
+  "chat_link": "[\u0026AgH2cAEA]",
+  "icon": "https://render.guildwars2.com/file/ADE03D7D4E451BF60A522755B4CABA9AFB270DDD/2384388.png",
+  "details": {
+    "type": "Food"
+  }
+}

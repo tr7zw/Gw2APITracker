@@ -1,0 +1,46 @@
+{
+  "name": "Cleric\u0027s Hard Wood Trident",
+  "description": "",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Fine",
+  "vendor_value": 78,
+  "default_skin": 3988,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 14016,
+  "chat_link": "[\u0026AgHANgAA]",
+  "icon": "https://render.guildwars2.com/file/195C62FCE31ECE47100E4020CE6C909AB69FEA9C/562000.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 483,
+    "max_power": 534,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 340.864,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 85
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 85
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 119
+        }
+      ]
+    }
+  }
+}

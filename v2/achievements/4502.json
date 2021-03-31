@@ -1,0 +1,53 @@
+{
+  "id": 4502,
+  "name": "Chasing Tales: Wossaul the Giant",
+  "description": "",
+  "requirement": "Acquire a Dragonsblood shield and perform tasks to re-create Wossaul\u0027s legend.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Acquire the tome entry Chasing Tales: Wossaul the Giant."
+    },
+    {
+      "type": "Text",
+      "text": "Acquire the heroic spirit of Wossaul: deed #1."
+    },
+    {
+      "type": "Text",
+      "text": "Acquire the heroic spirit of Wossaul: deed #2."
+    },
+    {
+      "type": "Text",
+      "text": "Acquire the heroic spirit of Wossaul: deed #3."
+    },
+    {
+      "type": "Text",
+      "text": "Meet with the spirit of Wossaul at a heroic font."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 322
+    }
+  ]
+}

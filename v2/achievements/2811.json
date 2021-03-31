@@ -1,0 +1,82 @@
+{
+  "id": 2811,
+  "name": "Eldvin Monastery Brew of the Month Club",
+  "description": "Each month, Eldvin Monastery sends out a finely crafted beer to members of the Brew of the Month Club. Each beer\u0027s availability is limited to that particular month. After a new months begins, visit a major city to receive your package from Eldvin Monastery.",
+  "requirement": "",
+  "locked_text": "Purchase a membership from Master Brewer Desch at the Eldvin Monastery in Queensdale.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 77740
+    },
+    {
+      "type": "Item",
+      "id": 77768
+    },
+    {
+      "type": "Item",
+      "id": 77775
+    },
+    {
+      "type": "Item",
+      "id": 77735
+    },
+    {
+      "type": "Item",
+      "id": 77771
+    },
+    {
+      "type": "Item",
+      "id": 77719
+    },
+    {
+      "type": "Item",
+      "id": 77689
+    },
+    {
+      "type": "Item",
+      "id": 77694
+    },
+    {
+      "type": "Item",
+      "id": 77781
+    },
+    {
+      "type": "Item",
+      "id": 77716
+    },
+    {
+      "type": "Item",
+      "id": 77776
+    },
+    {
+      "type": "Item",
+      "id": 77766
+    }
+  ],
+  "tiers": [
+    {
+      "count": 12,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 77720,
+      "count": 1
+    },
+    {
+      "type": "Title",
+      "id": 236
+    }
+  ]
+}

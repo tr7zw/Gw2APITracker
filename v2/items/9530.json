@@ -1,0 +1,28 @@
+{
+  "name": "Recipe: Flame Legion Staff",
+  "description": "A recipe to make a Flame Legion Staff",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 26,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9530,
+  "chat_link": "[\u0026AgE6JQAA]",
+  "icon": "https://render.guildwars2.com/file/7407B922333B45E97AB7BB93CE259DB20F4BC5CF/849344.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 3866
+  }
+}

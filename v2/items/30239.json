@@ -1,0 +1,53 @@
+{
+  "name": "Sarayi Sword",
+  "description": "\u003cc\u003d@flavor\u003e\"You will need a good blade.\"\u003cbr\u003e—Recruit Tochacatl\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 73,
+  "rarity": "Masterwork",
+  "vendor_value": 122,
+  "default_skin": 5239,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30239,
+  "chat_link": "[\u0026AgEfdgAA]",
+  "icon": "https://render.guildwars2.com/file/10DEC3A0EB435E9015260E0C2B34EF2DD36ABEEB/434566.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 662,
+    "max_power": 731,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 244.8,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 61
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 61
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 86
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

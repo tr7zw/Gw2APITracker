@@ -1,0 +1,51 @@
+{
+  "name": "Colonnade Gloves",
+  "description": "\u003cc\u003d@flavor\u003e\"Keeping your hands clean in war can be difficult.\"\u003cbr\u003e—Supply Sergeant Mattimer\u003c/c\u003e",
+  "type": "Armor",
+  "level": 75,
+  "rarity": "Masterwork",
+  "vendor_value": 112,
+  "default_skin": 935,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4551,
+  "chat_link": "[\u0026AgHHEQAA]",
+  "icon": "https://render.guildwars2.com/file/92C9AD5F330111974B3E3D08052510B8BE08FF9C/61280.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 118,
+    "infusion_slots": [],
+    "attribute_adjustment": 95.3445,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 24
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 24
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 33
+        }
+      ]
+    },
+    "suffix_item_id": 24685
+  }
+}

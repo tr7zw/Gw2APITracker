@@ -1,0 +1,47 @@
+{
+  "name": "Icedevil Helm",
+  "description": "\u003cc\u003d@flavor\u003e\"Always wear a sturdy helm when fighting skritt. There\u0027s no telling what they\u0027ll throw at you.\"\u003cbr\u003e—Kelgg\u003c/c\u003e",
+  "type": "Armor",
+  "level": 28,
+  "rarity": "Masterwork",
+  "vendor_value": 73,
+  "default_skin": 905,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4052,
+  "chat_link": "[\u0026AgHUDwAA]",
+  "icon": "https://render.guildwars2.com/file/0ABC6BB856952944E212107A019FA948B325F3D2/61266.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 29,
+    "infusion_slots": [],
+    "attribute_adjustment": 33.966,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 8
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 12
+        }
+      ]
+    },
+    "suffix_item_id": 24727
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Lionguard Gauntlets",
+  "description": "\u003cc\u003d@flavor\u003e\"Keep your fingers tight on your weapon, solider.\"\u003cbr\u003e—Nadel\u003c/c\u003e",
+  "type": "Armor",
+  "level": 18,
+  "rarity": "Masterwork",
+  "vendor_value": 40,
+  "default_skin": 915,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 3908,
+  "chat_link": "[\u0026AgFEDwAA]",
+  "icon": "https://render.guildwars2.com/file/072193AD5A74191DB5586EF1C9DC17D5F9729634/61258.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 32,
+    "infusion_slots": [],
+    "attribute_adjustment": 15.912,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 6
+        }
+      ]
+    },
+    "suffix_item_id": 24727
+  }
+}

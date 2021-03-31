@@ -1,0 +1,42 @@
+{
+  "name": "Ebonshore Cloth Leggings",
+  "description": "",
+  "type": "Armor",
+  "level": 20,
+  "rarity": "Fine",
+  "vendor_value": 34,
+  "default_skin": 862,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4221,
+  "chat_link": "[\u0026AgF9EAAA]",
+  "icon": "https://render.guildwars2.com/file/7E7B65B507E108A520CA31AA9158060A1F5E5861/61248.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Light",
+    "defense": 33,
+    "infusion_slots": [],
+    "attribute_adjustment": 31.584,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 11
+        }
+      ]
+    }
+  }
+}

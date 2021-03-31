@@ -1,0 +1,38 @@
+{
+  "name": "Mighty Rawhide Leggings",
+  "description": "",
+  "type": "Armor",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 7,
+  "default_skin": 5,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 5028,
+  "chat_link": "[\u0026AgGkEwAA]",
+  "icon": "https://render.guildwars2.com/file/5AEBD46A0ACC3C3CE1EBB60F0445322D14049171/61348.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Medium",
+    "defense": 18,
+    "infusion_slots": [],
+    "attribute_adjustment": 9.126,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 3
+        }
+      ]
+    }
+  }
+}

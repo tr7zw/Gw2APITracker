@@ -1,0 +1,24 @@
+{
+  "id": 394,
+  "name": "Fancy Footwork",
+  "description": "You can\u0027t be caught that easily.",
+  "requirement": "You\u0027ve made it through the Swampland fractal in the Fractals of the Mists without triggering a single trap.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tyria",
+      "id": 270
+    }
+  ]
+}

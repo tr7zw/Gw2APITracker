@@ -1,0 +1,27 @@
+{
+  "id": 2056,
+  "name": "Distorted Reflection",
+  "description": "Story Instance: Arcana Obscura",
+  "requirement": "Use the torch of divine fire to defeat your doppelganger from the old mirror in the Durmand Priory\u0027s special collections.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    }
+  ],
+  "prerequisites": [
+    2060
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 35987,
+      "count": 1
+    }
+  ]
+}

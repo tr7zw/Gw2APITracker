@@ -1,0 +1,45 @@
+{
+  "name": "Carrion Glyphic Speargun",
+  "type": "Weapon",
+  "level": 71,
+  "rarity": "Fine",
+  "vendor_value": 89,
+  "default_skin": 5122,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 34493,
+  "chat_link": "[\u0026AgG9hgAA]",
+  "icon": "https://render.guildwars2.com/file/0F286F119C53F275016502D17CFAC3E6D7990678/434763.png",
+  "details": {
+    "type": "Speargun",
+    "damage_type": "Physical",
+    "min_power": 591,
+    "max_power": 653,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 434.176,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 109
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 109
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 152
+        }
+      ]
+    }
+  }
+}

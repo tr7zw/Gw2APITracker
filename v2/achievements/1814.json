@@ -1,0 +1,77 @@
+{
+  "id": 1814,
+  "name": "Luminescent Gloves",
+  "description": "",
+  "requirement": "Collect the  parts required to assemble Luminescent Gloves.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 67975
+    },
+    {
+      "type": "Item",
+      "id": 67969
+    },
+    {
+      "type": "Item",
+      "id": 67978
+    },
+    {
+      "type": "Item",
+      "id": 67974
+    },
+    {
+      "type": "Item",
+      "id": 67968
+    },
+    {
+      "type": "Item",
+      "id": 67972
+    },
+    {
+      "type": "Item",
+      "id": 67906
+    },
+    {
+      "type": "Skin",
+      "id": 5736
+    },
+    {
+      "type": "Skin",
+      "id": 5711
+    },
+    {
+      "type": "Skin",
+      "id": 5742
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 67794,
+      "count": 1
+    }
+  ]
+}

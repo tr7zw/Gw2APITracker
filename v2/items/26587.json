@@ -1,0 +1,38 @@
+{
+  "name": "Mighty Iron Shield",
+  "description": "",
+  "type": "Weapon",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 9,
+  "default_skin": 4012,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 26587,
+  "chat_link": "[\u0026AgHbZwAA]",
+  "icon": "https://render.guildwars2.com/file/222F72EDEC31ACB7BC439499F4DD4AA4A94A6C48/65373.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 130,
+    "max_power": 146,
+    "defense": 6,
+    "infusion_slots": [],
+    "attribute_adjustment": 14.976,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 5
+        }
+      ]
+    }
+  }
+}

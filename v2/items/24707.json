@@ -1,0 +1,40 @@
+{
+  "name": "Major Rune of Mercy",
+  "description": "\u003cc\u003d@abilitytype\u003eElement: \u003c/c\u003eBrilliance\u003cbr\u003eDouble-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 108,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 24707,
+  "chat_link": "[\u0026AgGDYAAA]",
+  "icon": "https://render.guildwars2.com/file/769D6A2A4DDD1D666FB3012CE2560963015F9693/221062.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+15 Toughness",
+      "+21 Healing Power",
+      "+30 Toughness",
+      "-20% incoming damage while reviving an ally."
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of Mercy"
+  }
+}

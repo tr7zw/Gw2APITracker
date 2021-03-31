@@ -1,0 +1,43 @@
+{
+  "name": "Hunting Trophy",
+  "description": "\u003cc\u003d@flavor\u003e\"This was taken from a large jotun.\"\u003cbr\u003e—Neida\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 38,
+  "rarity": "Fine",
+  "vendor_value": 45,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23375,
+  "chat_link": "[\u0026AgFPWwAA]",
+  "icon": "https://render.guildwars2.com/file/76063254FF6022ED7F4A759601F84BE9F702D05F/66825.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 56.84,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 14
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 20
+        }
+      ]
+    }
+  }
+}

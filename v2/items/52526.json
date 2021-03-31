@@ -1,0 +1,47 @@
+{
+  "name": "Survivor\u0027s Concordance",
+  "type": "Weapon",
+  "level": 14,
+  "rarity": "Masterwork",
+  "vendor_value": 63,
+  "default_skin": 5019,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 52526,
+  "chat_link": "[\u0026AgEuzQAA]",
+  "icon": "https://render.guildwars2.com/file/97DDBDF3D871A7773BF12210205A27057AD253DA/61724.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 228,
+    "max_power": 257,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 80.376,
+    "infix_upgrade": {
+      "id": 1013,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 20
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 28
+        }
+      ]
+    }
+  }
+}

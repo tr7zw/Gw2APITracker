@@ -1,0 +1,49 @@
+{
+  "name": "Soldier\u0027s Diviner Leggings",
+  "description": "",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 370,
+  "default_skin": 2261,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6943,
+  "chat_link": "[\u0026AgEfGwAA]",
+  "icon": "https://render.guildwars2.com/file/CCBF100F6C622FC0B6C4E154A16F633461023246/61374.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Light",
+    "defense": 194,
+    "infusion_slots": [],
+    "attribute_adjustment": 256.08,
+    "infix_upgrade": {
+      "id": 162,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 90
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 64
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 64
+        }
+      ]
+    }
+  }
+}

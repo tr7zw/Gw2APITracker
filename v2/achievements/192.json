@@ -1,0 +1,43 @@
+{
+  "id": 192,
+  "name": "Eternity\u0027s Epitome",
+  "description": "Just how many Subject Alphas are there?",
+  "requirement": "Explored the Crucible of Eternity.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Story Mode"
+    },
+    {
+      "type": "Text",
+      "text": "Explorable Mode—Submarine Path"
+    },
+    {
+      "type": "Text",
+      "text": "Explorable Mode—Teleporter Path"
+    },
+    {
+      "type": "Text",
+      "text": "Explorable Mode—Front Door Path"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 2,
+      "points": 5
+    },
+    {
+      "count": 3,
+      "points": 5
+    },
+    {
+      "count": 4,
+      "points": 5
+    }
+  ]
+}

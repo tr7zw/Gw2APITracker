@@ -1,0 +1,28 @@
+{
+  "name": "Recipe: Irradiated Sword",
+  "description": "Double-click to learn a recipe",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 17,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9597,
+  "chat_link": "[\u0026AgF9JQAA]",
+  "icon": "https://render.guildwars2.com/file/2C421DFDF00F9FFE26BF25F9711612AB301404CD/849341.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 6058
+  }
+}

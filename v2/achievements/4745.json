@@ -1,0 +1,45 @@
+{
+  "id": 4745,
+  "name": "Riding Skyscales",
+  "description": "",
+  "requirement": "Learn to fly on your skyscale.",
+  "locked_text": "Unlocks a short time after completing the Troublesome Skyscales collection.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 90514
+    },
+    {
+      "type": "Item",
+      "id": 90824
+    },
+    {
+      "type": "Item",
+      "id": 90881
+    },
+    {
+      "type": "Item",
+      "id": 90504
+    }
+  ],
+  "tiers": [
+    {
+      "count": 4,
+      "points": 25
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 457
+    }
+  ]
+}

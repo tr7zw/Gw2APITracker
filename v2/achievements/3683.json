@@ -1,0 +1,94 @@
+{
+  "id": 3683,
+  "name": "Cleansing Tormented Remnants",
+  "description": "Generations have passed since Abaddon was defeated, but his tormented energies remain.",
+  "requirement": "Use your jackal to clear tormented remnants from the Poisoned Outcrops and Helcoid Seeps.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Poisoned Outcrops Remnant 1"
+    },
+    {
+      "type": "Text",
+      "text": "Poisoned Outcrops Remnant 2"
+    },
+    {
+      "type": "Text",
+      "text": "Poisoned Outcrops Remnant 3"
+    },
+    {
+      "type": "Text",
+      "text": "Poisoned Outcrops Remnant 4"
+    },
+    {
+      "type": "Text",
+      "text": "Helcoid Seeps Remnant 1"
+    },
+    {
+      "type": "Text",
+      "text": "Poisoned Outcrops Remnant 5"
+    },
+    {
+      "type": "Text",
+      "text": "Poisoned Outcrops Remnant 6"
+    },
+    {
+      "type": "Text",
+      "text": "Helcoid Seeps Remnant 2"
+    },
+    {
+      "type": "Text",
+      "text": "Poisoned Outcrops Remnant 7"
+    },
+    {
+      "type": "Text",
+      "text": "Helcoid Seeps Remnant 3"
+    },
+    {
+      "type": "Text",
+      "text": "Helcoid Seeps Remnant 5"
+    },
+    {
+      "type": "Text",
+      "text": "Poisoned Outcrops Remnant 8"
+    },
+    {
+      "type": "Text",
+      "text": "Poisoned Outcrops Remnant 9"
+    },
+    {
+      "type": "Text",
+      "text": "Poisoned Outcrops Remnant 10"
+    },
+    {
+      "type": "Text",
+      "text": "Helcoid Seeps Remnant 4"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 1
+    },
+    {
+      "count": 15,
+      "points": 2
+    }
+  ],
+  "prerequisites": [
+    3818
+  ]
+}

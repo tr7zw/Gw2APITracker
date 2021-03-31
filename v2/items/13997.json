@@ -1,0 +1,46 @@
+{
+  "name": "Carrion Elder Wood Trident",
+  "description": "",
+  "type": "Weapon",
+  "level": 70,
+  "rarity": "Fine",
+  "vendor_value": 89,
+  "default_skin": 3956,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 13997,
+  "chat_link": "[\u0026AgGtNgAA]",
+  "icon": "https://render.guildwars2.com/file/195C62FCE31ECE47100E4020CE6C909AB69FEA9C/562000.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 580,
+    "max_power": 641,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 425.216,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 106
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 106
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 149
+        }
+      ]
+    }
+  }
+}

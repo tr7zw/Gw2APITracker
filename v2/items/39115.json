@@ -1,0 +1,29 @@
+{
+  "name": "Piece of Ranger Gear",
+  "description": "Contains a rare or exotic piece of level 78-80 gear for rangers. Double-click to open.",
+  "type": "Container",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 39115,
+  "chat_link": "[\u0026AgHLmAAA]",
+  "icon": "https://render.guildwars2.com/file/F22C450ED578DA500C76FBD673FA49162AB5BA0A/534206.png",
+  "details": {
+    "type": "GiftBox"
+  }
+}

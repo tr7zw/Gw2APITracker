@@ -1,0 +1,36 @@
+{
+  "name": "Amber Copper Amulet",
+  "description": "",
+  "type": "Trinket",
+  "level": 20,
+  "rarity": "Fine",
+  "vendor_value": 48,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix"
+  ],
+  "restrictions": [],
+  "id": 13361,
+  "chat_link": "[\u0026AgExNAAA]",
+  "icon": "https://render.guildwars2.com/file/DA5D774D3103E1240B12A05D5AE409B557D70391/340168.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [],
+    "attribute_adjustment": 42.112,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 15
+        }
+      ]
+    },
+    "suffix_item_id": 24534
+  }
+}

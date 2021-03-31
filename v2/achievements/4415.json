@@ -1,0 +1,39 @@
+{
+  "id": 4415,
+  "name": "Hard Hats Required beyond This Point",
+  "description": "It has been ZERO days without an accident.",
+  "requirement": "Stand under every column of falling junk.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Accident-Prone"
+    },
+    {
+      "type": "Text",
+      "text": "Look Out Below!"
+    },
+    {
+      "type": "Text",
+      "text": "Hazardous Work Conditions"
+    },
+    {
+      "type": "Text",
+      "text": "Watch for Falling Debris!"
+    },
+    {
+      "type": "Text",
+      "text": "Occupational Hazard"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 2
+    }
+  ]
+}

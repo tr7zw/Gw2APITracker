@@ -1,0 +1,39 @@
+{
+  "name": "Shocking Bolt",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 1200
+    },
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 15
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
+      "duration": 2,
+      "status": "Stun",
+      "description": "Unable to act.",
+      "apply_count": 1
+    }
+  ],
+  "description": "Command your air elemental to fire a stunning bolt at its target.",
+  "icon": "https://render.guildwars2.com/file/1CB108C5E259FC460F2904D66F1517ADFB182B42/867434.png",
+  "type": "Elite",
+  "weapon_type": "None",
+  "professions": [
+    "Elementalist"
+  ],
+  "slot": "Elite",
+  "flags": [
+    "NoUnderwater"
+  ],
+  "id": 25480,
+  "chat_link": "[\u0026BohjAAA\u003d]"
+}

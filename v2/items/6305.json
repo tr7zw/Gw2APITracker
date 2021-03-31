@@ -1,0 +1,39 @@
+{
+  "name": "Chainmail Helm",
+  "description": "",
+  "type": "Armor",
+  "level": 13,
+  "rarity": "Fine",
+  "vendor_value": 23,
+  "default_skin": 257,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6305,
+  "chat_link": "[\u0026AgGhGAAA]",
+  "icon": "https://render.guildwars2.com/file/4571AFDB3F60093B93C03105CB05DD95E1082908/63237.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 17,
+    "infusion_slots": [],
+    "attribute_adjustment": 14.112,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 5
+        }
+      ]
+    }
+  }
+}

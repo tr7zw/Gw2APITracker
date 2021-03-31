@@ -1,0 +1,42 @@
+{
+  "name": "Oldgate Mantle",
+  "description": "\u003cc\u003d@flavor\u003e\"It\u0027s the helm of the upper arm.\"\u003cbr\u003e—Zalvax Brokenclaw\u003c/c\u003e",
+  "type": "Armor",
+  "level": 15,
+  "rarity": "Fine",
+  "vendor_value": 22,
+  "default_skin": 876,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4205,
+  "chat_link": "[\u0026AgFtEAAA]",
+  "icon": "https://render.guildwars2.com/file/166578339A266E05646411729003525FC815C7DE/61249.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 11,
+    "infusion_slots": [],
+    "attribute_adjustment": 11.904,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

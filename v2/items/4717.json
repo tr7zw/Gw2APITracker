@@ -1,0 +1,47 @@
+{
+  "name": "Seraph-Issue Pauldrons",
+  "description": "\u003cc\u003d@flavor\u003e\"People should take shoulder protection more seriously. One arrow volley will change your opinion on a good pair of pauldrons.\"\u003cbr\u003e—Tripp\u003c/c\u003e",
+  "type": "Armor",
+  "level": 25,
+  "rarity": "Masterwork",
+  "vendor_value": 60,
+  "default_skin": 897,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4717,
+  "chat_link": "[\u0026AgFtEgAA]",
+  "icon": "https://render.guildwars2.com/file/E2910F0838E7171E0FADE1971407FD66525917A3/61260.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Heavy",
+    "defense": 27,
+    "infusion_slots": [],
+    "attribute_adjustment": 21.9045,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 8
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 5
+        }
+      ]
+    },
+    "suffix_item_id": 24730
+  }
+}

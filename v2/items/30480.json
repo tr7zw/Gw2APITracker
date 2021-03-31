@@ -1,0 +1,49 @@
+{
+  "name": "Farmer\u0027s Rusty Dagger",
+  "description": "\u003cc\u003d@flavor\u003e\"The blade of this weapon looks as though it could cause disease.\"\u003cbr\u003e—Abhean\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 27,
+  "rarity": "Masterwork",
+  "vendor_value": 56,
+  "default_skin": 4009,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30480,
+  "chat_link": "[\u0026AgEQdwAA]",
+  "icon": "https://render.guildwars2.com/file/3254C66ED1675657E0B7C2FBBC09FBF2FBAA74A6/62762.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 267,
+    "max_power": 283,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 64.872,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 16
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 23
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

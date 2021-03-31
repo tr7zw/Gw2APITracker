@@ -1,0 +1,42 @@
+{
+  "name": "Oldgate Cloth Helm",
+  "description": "\u003cc\u003d@flavor\u003e\"Protects what\u0027s between the ears.\"\u003cbr\u003e—Zalvax Brokenclaw\u003c/c\u003e",
+  "type": "Armor",
+  "level": 15,
+  "rarity": "Fine",
+  "vendor_value": 25,
+  "default_skin": 875,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4203,
+  "chat_link": "[\u0026AgFrEAAA]",
+  "icon": "https://render.guildwars2.com/file/B114B716E5FA4CB445CEC13B333C725F9C1D01B1/61247.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 11,
+    "infusion_slots": [],
+    "attribute_adjustment": 15.872,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 6
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Rifle Turret",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 900
+    },
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 20
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 0.75
+    },
+    {
+      "text": "Rate of Fire",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "duration": 2
+    },
+    {
+      "text": "Attack Range",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "distance": 1000
+    }
+  ],
+  "description": "Turret. Build a rifle turret that shoots at foes.",
+  "icon": "https://render.guildwars2.com/file/FE750EEBB19017A516C521E3F2754F970318206D/103401.png",
+  "type": "Utility",
+  "weapon_type": "None",
+  "professions": [
+    "Engineer"
+  ],
+  "slot": "Utility",
+  "toolbelt_skill": 6178,
+  "flip_skill": 5957,
+  "flags": [
+    "GroundTargeted",
+    "NoUnderwater"
+  ],
+  "id": 5989,
+  "chat_link": "[\u0026BmUXAAA\u003d]",
+  "categories": [
+    "Turret"
+  ]
+}

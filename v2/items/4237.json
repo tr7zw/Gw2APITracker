@@ -1,0 +1,40 @@
+{
+  "name": "Iron Legion\u0027s Gauntlets",
+  "description": "",
+  "type": "Armor",
+  "level": 17,
+  "rarity": "Masterwork",
+  "vendor_value": 38,
+  "default_skin": 883,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4237,
+  "chat_link": "[\u0026AgGNEAAA]",
+  "icon": "https://render.guildwars2.com/file/F192FC9EF771A87F7EB743686F0B7BDABA59BB19/61240.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 31,
+    "infusion_slots": [],
+    "attribute_adjustment": 15.0705,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 5
+        }
+      ]
+    }
+  }
+}

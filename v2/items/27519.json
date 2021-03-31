@@ -1,0 +1,45 @@
+{
+  "name": "Hearty Iron Greatsword of Chilling",
+  "description": "",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Masterwork",
+  "vendor_value": 126,
+  "default_skin": 4015,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27519,
+  "chat_link": "[\u0026AgF/awAA]",
+  "icon": "https://render.guildwars2.com/file/1EA00FDAAD23FD1B1B9C4BD6E36EB30A43E21D06/64138.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 434,
+    "max_power": 480,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 257.176,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 64
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 90
+        }
+      ]
+    },
+    "suffix_item_id": 24628
+  }
+}

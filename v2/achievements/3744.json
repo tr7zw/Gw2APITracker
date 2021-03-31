@@ -1,0 +1,24 @@
+{
+  "id": 3744,
+  "name": "Just a Sip",
+  "description": "It isn\u0027t even that good...",
+  "requirement": "Convince Master Chef Laraib in Amnoon that you are a worthy sous-chef.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 333
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Aureate Staff of Battle",
+  "type": "Weapon",
+  "level": 39,
+  "rarity": "Rare",
+  "vendor_value": 167,
+  "default_skin": 5027,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34031,
+  "chat_link": "[\u0026AgHvhAAA]",
+  "icon": "https://render.guildwars2.com/file/D4E855D925AEB21D5A0F66E40C6A343D580E0F49/64330.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 403,
+    "max_power": 454,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 226.944,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 79
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 57
+        }
+      ]
+    },
+    "suffix_item_id": 24602
+  }
+}

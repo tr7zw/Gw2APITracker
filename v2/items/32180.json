@@ -1,0 +1,50 @@
+{
+  "name": "Light Dagger",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Masterwork",
+  "vendor_value": 122,
+  "default_skin": 5012,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32180,
+  "chat_link": "[\u0026AgG0fQAA]",
+  "icon": "https://render.guildwars2.com/file/24366D15FF0DC9F1F61AE4EE33AA3EE35948A0B3/67679.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 687,
+    "max_power": 730,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 249.56,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 87
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 62
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 62
+        }
+      ]
+    },
+    "suffix_item_id": 24554
+  }
+}

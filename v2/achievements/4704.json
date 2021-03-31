@@ -1,0 +1,45 @@
+{
+  "id": 4704,
+  "name": "Skyscale of Water",
+  "description": "",
+  "requirement": "Infuse your skyscale egg with water.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 90752
+    },
+    {
+      "type": "Item",
+      "id": 90495
+    },
+    {
+      "type": "Item",
+      "id": 90457
+    },
+    {
+      "type": "Item",
+      "id": 90245
+    }
+  ],
+  "tiers": [
+    {
+      "count": 4,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 90683,
+      "count": 1
+    }
+  ]
+}

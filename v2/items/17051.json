@@ -1,0 +1,43 @@
+{
+  "name": "Penetrating Reinforced Scale Gauntlets",
+  "type": "Armor",
+  "level": 45,
+  "rarity": "Rare",
+  "vendor_value": 111,
+  "default_skin": 77,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 17051,
+  "chat_link": "[\u0026AgGbQgAA]",
+  "icon": "https://render.guildwars2.com/file/A13610BD05B1ABA9A804C7C8789F04F8BD51BEE8/61057.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 76,
+    "infusion_slots": [],
+    "attribute_adjustment": 51.057,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 18
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 13
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": 2170,
+  "tier": 2,
+  "order": 2,
+  "name": "Bolstered Elements",
+  "description": "Gain barrier when activating a \u003cc\u003d@abilitytype\u003eStance\u003c/c\u003e. Activate Lesser Stone Resonance when struck while below the health threshold.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 70
+    },
+    {
+      "text": "Health Threshold",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "percent": 50
+    },
+    {
+      "text": "Barrier",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+      "value": 680,
+      "target": "Healing"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Lesser Stone Resonance",
+      "facts": [
+        {
+          "text": "Apply Buff/Condition",
+          "type": "Buff",
+          "icon": "https://render.guildwars2.com/file/FD3E5345025CBBB73C3F04E1997EDCBDD09C08F3/1770329.png",
+          "duration": 5,
+          "status": "Stone Resonance",
+          "description": "Periodically gain shield.",
+          "apply_count": 1
+        },
+        {
+          "text": "Barrier",
+          "type": "AttributeAdjust",
+          "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+          "value": 1069,
+          "target": "Healing"
+        },
+        {
+          "text": "Barrier",
+          "type": "AttributeAdjust",
+          "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+          "value": 535,
+          "target": "Healing"
+        },
+        {
+          "text": "Pulses",
+          "type": "Number",
+          "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+          "value": 5
+        },
+        {
+          "text": "Interval",
+          "type": "Time",
+          "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+          "duration": 1
+        }
+      ],
+      "description": "Stance. Enter an earthen state, gaining barrier periodically over the course of the stance.",
+      "icon": "https://render.guildwars2.com/file/FD3E5345025CBBB73C3F04E1997EDCBDD09C08F3/1770329.png",
+      "flags": [],
+      "id": 42913,
+      "chat_link": "[\u0026BqGnAAA\u003d]",
+      "categories": [
+        "Stance"
+      ]
+    }
+  ],
+  "specialization": 56,
+  "icon": "https://render.guildwars2.com/file/BE23D1F64BA73B9837C87A2059EA531BBE65D52B/1769920.png"
+}

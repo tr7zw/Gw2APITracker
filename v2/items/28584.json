@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Iron Spear of Blood",
+  "description": "",
+  "type": "Weapon",
+  "level": 65,
+  "rarity": "Exotic",
+  "vendor_value": 330,
+  "default_skin": 4000,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28584,
+  "chat_link": "[\u0026AgGobwAA]",
+  "icon": "https://render.guildwars2.com/file/9AC302D1031B5C31806D0703FBC1944C01D4A240/561998.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 699,
+    "max_power": 772,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 509.28,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 178
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 127
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 127
+        }
+      ]
+    },
+    "suffix_item_id": 24570
+  }
+}

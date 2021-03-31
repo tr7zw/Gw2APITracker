@@ -1,0 +1,44 @@
+{
+  "name": "Fireman\u0027s Axe",
+  "description": "\u003cc\u003d@flavor\u003e\"For emergencies only.\"\u003cbr\u003e—Krewe Leader Pachoo\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 14,
+  "rarity": "Fine",
+  "vendor_value": 19,
+  "default_skin": 3865,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 30527,
+  "chat_link": "[\u0026AgE/dwAA]",
+  "icon": "https://render.guildwars2.com/file/F0386CA4B7B424B01B54D7724D12A3DF09203E6D/66151.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 171,
+    "max_power": 209,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 30.016,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 11
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 14,
+  "name": "All You Can Eat",
+  "description": "No stranger to Tyrian cuisine.",
+  "requirement": "Consume  items of food.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 10,
+      "points": 1
+    },
+    {
+      "count": 100,
+      "points": 5
+    },
+    {
+      "count": 200,
+      "points": 10
+    },
+    {
+      "count": 400,
+      "points": 10
+    },
+    {
+      "count": 800,
+      "points": 10
+    }
+  ]
+}

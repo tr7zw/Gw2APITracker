@@ -1,0 +1,49 @@
+{
+  "name": "Dire Scallywag Greaves",
+  "description": "",
+  "type": "Armor",
+  "level": 75,
+  "rarity": "Exotic",
+  "vendor_value": 248,
+  "default_skin": 27,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 64546,
+  "chat_link": "[\u0026AgEi/AAA]",
+  "icon": "https://render.guildwars2.com/file/B1C7DC687A5492E42AF06680931D7635DB022C91/61037.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 166,
+    "infusion_slots": [],
+    "attribute_adjustment": 116.7,
+    "infix_upgrade": {
+      "id": 754,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 29
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 29
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 41
+        }
+      ]
+    }
+  }
+}

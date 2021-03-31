@@ -1,0 +1,39 @@
+{
+  "name": "Seraph Medal of Stealth",
+  "description": "\u003cc\u003d@flavor\u003e\"Being quiet means staying alive.\"\u003cbr\u003e—Morina\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 20,
+  "rarity": "Fine",
+  "vendor_value": 30,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23917,
+  "chat_link": "[\u0026AgFtXQAA]",
+  "icon": "https://render.guildwars2.com/file/090BC3B0D80614C50918DC3AB402D196A6581FEA/63606.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 26.32,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

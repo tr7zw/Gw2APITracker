@@ -1,0 +1,47 @@
+{
+  "name": "Lionguard Heavy Footguards",
+  "description": "\u003cc\u003d@flavor\u003e\"Shoes wear out quickly when you travel often. Travel twice as far with your own set of Lionguard shoes!\"\u003cbr\u003e—Lionguard Rhyn\u003c/c\u003e",
+  "type": "Armor",
+  "level": 27,
+  "rarity": "Masterwork",
+  "vendor_value": 56,
+  "default_skin": 899,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4753,
+  "chat_link": "[\u0026AgGREgAA]",
+  "icon": "https://render.guildwars2.com/file/D466065466F3EDE0020C9B5A0B68F5551B1837AE/61256.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 43,
+    "infusion_slots": [],
+    "attribute_adjustment": 24.327,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 9
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 6
+        }
+      ]
+    },
+    "suffix_item_id": 24730
+  }
+}

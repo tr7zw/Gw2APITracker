@@ -1,0 +1,49 @@
+{
+  "name": "Rampager\u0027s Iron Dagger of Ice",
+  "description": "",
+  "type": "Weapon",
+  "level": 61,
+  "rarity": "Rare",
+  "vendor_value": 156,
+  "default_skin": 4009,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26354,
+  "chat_link": "[\u0026AgHyZgAA]",
+  "icon": "https://render.guildwars2.com/file/3254C66ED1675657E0B7C2FBBC09FBF2FBAA74A6/62762.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 586,
+    "max_power": 623,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 205.416,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 51
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 72
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 51
+        }
+      ]
+    },
+    "suffix_item_id": 24556
+  }
+}

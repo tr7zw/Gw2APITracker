@@ -1,0 +1,46 @@
+{
+  "name": "Outrider\u0027s Coat",
+  "type": "Armor",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 135,
+  "default_skin": 161,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 63696,
+  "chat_link": "[\u0026AgHQ+AAA]",
+  "icon": "https://render.guildwars2.com/file/072F6E4D010C68014D725D9066AEE7EECB2CC1CA/61521.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 138,
+    "infusion_slots": [],
+    "attribute_adjustment": 162.257,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 57
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 41
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 41
+        }
+      ]
+    }
+  }
+}

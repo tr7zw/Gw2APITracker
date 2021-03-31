@@ -1,0 +1,49 @@
+{
+  "id": 3570,
+  "name": "Reins of the Raptor",
+  "description": "",
+  "requirement": "Now that you have your raptor, take it out to help those in need at renown hearts, and gain tasty treats for your raptor as a reward.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 82931
+    },
+    {
+      "type": "Item",
+      "id": 83131
+    },
+    {
+      "type": "Item",
+      "id": 83947
+    },
+    {
+      "type": "Item",
+      "id": 82281
+    },
+    {
+      "type": "Item",
+      "id": 82347
+    }
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 338
+    }
+  ]
+}

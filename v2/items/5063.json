@@ -1,0 +1,38 @@
+{
+  "name": "Mighty Chainmail Chestpiece",
+  "description": "",
+  "type": "Armor",
+  "level": 20,
+  "rarity": "Basic",
+  "vendor_value": 18,
+  "default_skin": 2,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 5063,
+  "chat_link": "[\u0026AgHHEwAA]",
+  "icon": "https://render.guildwars2.com/file/A2D0D6DA90056E76F1BE244F0C9EF333F95D9746/61098.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 49,
+    "infusion_slots": [],
+    "attribute_adjustment": 36.504,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 13
+        }
+      ]
+    }
+  }
+}

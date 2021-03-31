@@ -1,0 +1,65 @@
+{
+  "id": 253,
+  "name": "Reaper",
+  "description": "Enemies lose all hope when they see you.",
+  "requirement": "Obtain  rank points.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 693500,
+      "points": 10
+    },
+    {
+      "count": 713500,
+      "points": 10
+    },
+    {
+      "count": 733500,
+      "points": 10
+    },
+    {
+      "count": 753500,
+      "points": 10
+    },
+    {
+      "count": 773500,
+      "points": 10
+    },
+    {
+      "count": 793500,
+      "points": 10
+    },
+    {
+      "count": 813500,
+      "points": 10
+    },
+    {
+      "count": 833500,
+      "points": 10
+    },
+    {
+      "count": 853500,
+      "points": 10
+    },
+    {
+      "count": 873500,
+      "points": 10
+    }
+  ],
+  "prerequisites": [
+    252
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 123
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Cavalier\u0027s Black Earth Trident",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 198,
+  "default_skin": 4712,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 37715,
+  "chat_link": "[\u0026AgFTkwAA]",
+  "icon": "https://render.guildwars2.com/file/B8F4F953BC20F7A7FE9FF7459FD5534F0608730F/574969.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 745,
+    "max_power": 823,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 559.912,
+    "infix_upgrade": {
+      "id": 616,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 140
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 196
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 140
+        }
+      ]
+    }
+  }
+}

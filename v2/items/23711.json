@@ -1,0 +1,46 @@
+{
+  "name": "Orrian Royal Ring",
+  "description": "",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Fine",
+  "vendor_value": 99,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23711,
+  "chat_link": "[\u0026AgGfXAAA]",
+  "icon": "https://render.guildwars2.com/file/EBCEDABB02974DF76E21F730F834C150E8A5159C/455954.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [],
+    "attribute_adjustment": 193.968,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 48
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 48
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 68
+        }
+      ]
+    }
+  }
+}

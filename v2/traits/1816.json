@@ -1,0 +1,47 @@
+{
+  "id": 1816,
+  "tier": 1,
+  "order": 0,
+  "name": "Healer\u0027s Gift",
+  "description": "Create a healing orb at the end of your dodge roll.",
+  "slot": "Minor",
+  "skills": [
+    {
+      "name": "Healing Orb",
+      "facts": [
+        {
+          "text": "Healing",
+          "type": "AttributeAdjust",
+          "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+          "value": 197,
+          "target": "Healing"
+        },
+        {
+          "text": "Number of Targets",
+          "type": "Number",
+          "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+          "value": 5
+        },
+        {
+          "text": "Radius",
+          "type": "Distance",
+          "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+          "distance": 120
+        },
+        {
+          "text": "Duration",
+          "type": "Time",
+          "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+          "duration": 3
+        }
+      ],
+      "description": "Create a healing orb near your target. When an ally touches the orb, nearby allies are healed.",
+      "icon": "https://render.guildwars2.com/file/5CEC75C6494329457DC36C972204952ECF80E5C3/1012995.png",
+      "flags": [],
+      "id": 29373,
+      "chat_link": "[\u0026Br1yAAA\u003d]"
+    }
+  ],
+  "specialization": 12,
+  "icon": "https://render.guildwars2.com/file/1CF0A1D20DF765AC21B31A5AB6E7305073A851DB/2128017.png"
+}

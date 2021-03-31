@@ -1,0 +1,39 @@
+{
+  "id": 4593,
+  "name": "Chasing Tales: Storm of Feathers",
+  "description": "\"What\u0027s combat without style?\"",
+  "requirement": "Defeat 30 enemies while wielding a short bow in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Mosa the Majestic."
+    },
+    {
+      "type": "Text",
+      "text": "Defeated 30 enemies with a short bow in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89604,
+      "count": 1
+    }
+  ]
+}

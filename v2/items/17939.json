@@ -1,0 +1,48 @@
+{
+  "name": "Accursed Leggings",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 370,
+  "default_skin": 640,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 17939,
+  "chat_link": "[\u0026AgETRgAA]",
+  "icon": "https://render.guildwars2.com/file/9D0804BBF23E0F341E5667E2D80A69E11B2BB211/61608.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Medium",
+    "defense": 218,
+    "infusion_slots": [],
+    "attribute_adjustment": 256.08,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 64
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 64
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 90
+        }
+      ]
+    },
+    "suffix_item_id": 24860
+  }
+}

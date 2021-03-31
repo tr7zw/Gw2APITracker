@@ -1,0 +1,42 @@
+{
+  "name": "Strong Leather Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 50,
+  "rarity": "Masterwork",
+  "vendor_value": 81,
+  "default_skin": 253,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 11585,
+  "chat_link": "[\u0026AgFBLQAA]",
+  "icon": "https://render.guildwars2.com/file/E3BE061DE9B536415FED3C96BFE6A6BDF00527C5/61430.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 69,
+    "infusion_slots": [],
+    "attribute_adjustment": 54.0855,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 19
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 14
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": 4680,
+  "name": "Skyscale of Earth",
+  "description": "",
+  "requirement": "Infuse your skyscale egg with earth.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 90214
+    },
+    {
+      "type": "Item",
+      "id": 90455
+    },
+    {
+      "type": "Item",
+      "id": 90482
+    },
+    {
+      "type": "Item",
+      "id": 90421
+    },
+    {
+      "type": "Item",
+      "id": 90825
+    }
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 90640,
+      "count": 1
+    }
+  ]
+}

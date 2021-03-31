@@ -1,0 +1,39 @@
+{
+  "id": 4547,
+  "name": "Chasing Tales: Anatomy and Physiology",
+  "description": "A good butcher must know his medium.",
+  "requirement": "Inflict 60 conditions while wielding a sword in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Carver the Carver."
+    },
+    {
+      "type": "Text",
+      "text": "Inflicted 60 conditions with a sword in Thunderhead Peaks."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89711,
+      "count": 1
+    }
+  ]
+}

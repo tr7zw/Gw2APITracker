@@ -1,0 +1,24 @@
+{
+  "id": 3627,
+  "name": "Skimming the Surface",
+  "description": "",
+  "requirement": "Unlock the skimmer by completing the Skimmer Ranch task region in the Elon Riverlands and purchasing a skimmer saddle from Ardra.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Desert",
+      "id": 369
+    }
+  ]
+}

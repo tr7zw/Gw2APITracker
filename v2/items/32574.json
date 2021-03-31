@@ -1,0 +1,45 @@
+{
+  "name": "Carrion Steam Gizmo",
+  "type": "Weapon",
+  "level": 66,
+  "rarity": "Fine",
+  "vendor_value": 56,
+  "default_skin": 5202,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 32574,
+  "chat_link": "[\u0026AgE+fwAA]",
+  "icon": "https://render.guildwars2.com/file/12F6B21033F0962C25A76AAC31EB2757149CFBA3/68137.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 494,
+    "max_power": 525,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 194.816,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 49
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 49
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 68
+        }
+      ]
+    }
+  }
+}

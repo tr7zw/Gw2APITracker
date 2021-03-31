@@ -1,0 +1,46 @@
+{
+  "name": "Rampager\u0027s Iron Axe",
+  "description": "",
+  "type": "Weapon",
+  "level": 62,
+  "rarity": "Fine",
+  "vendor_value": 53,
+  "default_skin": 3962,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 25843,
+  "chat_link": "[\u0026AgHzZAAA]",
+  "icon": "https://render.guildwars2.com/file/C8EAC643C02F41B918D79031B6060B0CBFE40CAD/64967.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 475,
+    "max_power": 580,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 178.56,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 45
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 62
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 45
+        }
+      ]
+    }
+  }
+}

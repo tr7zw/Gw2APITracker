@@ -1,0 +1,42 @@
+{
+  "id": 19,
+  "name": "Crystal Champion",
+  "requirement": "Travel to the Domain of Istan to unlock.",
+  "order": 8,
+  "background": "https://render.guildwars2.com/file/020C6454737408ED437D9D7E6D096872F5D66B73/1896046.png",
+  "region": "Desert",
+  "levels": [
+    {
+      "name": "Volatile Magic Resonance",
+      "description": "Master your bond with Aurene so that you can safely collect Volatile Magic.",
+      "instruction": "Aurene has gifted you the ability to harvest Volatile Magic, which would otherwise be hazardous to touch.",
+      "icon": "https://render.guildwars2.com/file/FB3B072FAF616538166C5802BCB701313BB8A47B/1896038.png",
+      "point_cost": 2,
+      "exp_cost": 508000
+    },
+    {
+      "name": "Bond of Life",
+      "description": "Master your bond with Aurene so that she can let you share your health with your mount.",
+      "instruction": "Aurene has granted you the ability to temporarily share your health pool with your active mount.",
+      "icon": "https://render.guildwars2.com/file/B36BD2E2A82367F40C280B47787C164A9BF2D9D1/1948147.png",
+      "point_cost": 3,
+      "exp_cost": 1016000
+    },
+    {
+      "name": "Bond of Vigor",
+      "description": "Master your bond with Aurene so that she can let you rejuvenate your mount\u0027s endurance.",
+      "instruction": "Aurene has granted you the ability to rejuvenate the endurance of your active mount.",
+      "icon": "https://render.guildwars2.com/file/A02FB23C6FDD08E00FBFAD55BFB912904F04B572/2039796.png",
+      "point_cost": 4,
+      "exp_cost": 1016000
+    },
+    {
+      "name": "Bond of Faith",
+      "description": "Master your bond with Aurene so that she can lend you magical wings, allowing you to launch from your mounts.",
+      "instruction": "Your bond with Aurene has granted you the ability to launch off of mounts.",
+      "icon": "https://render.guildwars2.com/file/1566A00060ECB0D93DFBADB22542CF6B0C0ED540/2084754.png",
+      "point_cost": 5,
+      "exp_cost": 1016000
+    }
+  ]
+}

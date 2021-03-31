@@ -1,0 +1,48 @@
+{
+  "name": "Rabid Beaded Warstaff",
+  "description": "",
+  "type": "Weapon",
+  "level": 60,
+  "rarity": "Rare",
+  "vendor_value": 234,
+  "default_skin": 4118,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 14896,
+  "chat_link": "[\u0026AgEwOgAA]",
+  "icon": "https://render.guildwars2.com/file/2FBE4B11ABC0380570C92FAA95E5C10AA320C0BD/534154.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 614,
+    "max_power": 692,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 401.76,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 100
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 100
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 141
+        }
+      ]
+    }
+  }
+}

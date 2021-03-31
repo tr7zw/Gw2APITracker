@@ -1,0 +1,36 @@
+{
+  "name": "Abomination Hammer",
+  "type": "Weapon",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 0,
+  "default_skin": 5014,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 15,
+  "chat_link": "[\u0026AgEPAAAA]",
+  "icon": "https://render.guildwars2.com/file/E8507FFB6CF3C9094A69956344CEDBD9B47D95B6/434872.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 146,
+    "max_power": 165,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 20.736,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    }
+  }
+}

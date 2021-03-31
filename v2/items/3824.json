@@ -1,0 +1,41 @@
+{
+  "name": "Devout Helm",
+  "type": "Armor",
+  "level": 8,
+  "rarity": "Masterwork",
+  "vendor_value": 33,
+  "default_skin": 875,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 3824,
+  "chat_link": "[\u0026AgHwDgAA]",
+  "icon": "https://render.guildwars2.com/file/B114B716E5FA4CB445CEC13B333C725F9C1D01B1/61247.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 9,
+    "infusion_slots": [],
+    "attribute_adjustment": 11.254,
+    "infix_upgrade": {
+      "id": 138,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

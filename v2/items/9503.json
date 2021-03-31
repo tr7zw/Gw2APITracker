@@ -1,0 +1,28 @@
+{
+  "name": "Recipe: Cleaver",
+  "description": "A recipe to make a Cleaver",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 18,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 9503,
+  "chat_link": "[\u0026AgEfJQAA]",
+  "icon": "https://render.guildwars2.com/file/AE55240C95150112B00C17C97319603B6E02E0D6/849355.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 5415
+  }
+}

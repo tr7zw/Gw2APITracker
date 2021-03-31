@@ -1,0 +1,46 @@
+{
+  "name": "Witch Doctor\u0027s Leggings",
+  "description": "\u003cc\u003d@flavor\u003e\"Keep your legs safe when channeling ancient spirits.\"\u003cbr\u003e—Old Witch Doctor\u0027s Saying\u003c/c\u003e",
+  "type": "Armor",
+  "level": 38,
+  "rarity": "Fine",
+  "vendor_value": 51,
+  "default_skin": 882,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4332,
+  "chat_link": "[\u0026AgHsEAAA]",
+  "icon": "https://render.guildwars2.com/file/E0B6B62791B577CCFED135210A44464D2AB36C6B/61264.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Light",
+    "defense": 57,
+    "infusion_slots": [],
+    "attribute_adjustment": 68.208,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 17
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 24
+        }
+      ]
+    }
+  }
+}

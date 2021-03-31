@@ -1,0 +1,45 @@
+{
+  "name": "Strong Iron Spear of Force",
+  "description": "",
+  "type": "Weapon",
+  "level": 59,
+  "rarity": "Masterwork",
+  "vendor_value": 153,
+  "default_skin": 4000,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28749,
+  "chat_link": "[\u0026AgFNcAAA]",
+  "icon": "https://render.guildwars2.com/file/9AC302D1031B5C31806D0703FBC1944C01D4A240/561998.png",
+  "details": {
+    "type": "Harpoon",
+    "damage_type": "Physical",
+    "min_power": 513,
+    "max_power": 567,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 362.168,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 127
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 91
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}

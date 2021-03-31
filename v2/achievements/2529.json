@@ -1,0 +1,73 @@
+{
+  "id": 2529,
+  "name": "Mistward Headwrap",
+  "description": "",
+  "requirement": "Unlock the rest of the Mistward armor set to earn your headwrap.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 6280
+    },
+    {
+      "type": "Skin",
+      "id": 6523
+    },
+    {
+      "type": "Skin",
+      "id": 6467
+    },
+    {
+      "type": "Skin",
+      "id": 6300
+    },
+    {
+      "type": "Skin",
+      "id": 6511
+    },
+    {
+      "type": "Item",
+      "id": 72534
+    },
+    {
+      "type": "Item",
+      "id": 71496
+    },
+    {
+      "type": "Item",
+      "id": 73805
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 8,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 74322,
+      "count": 1
+    },
+    {
+      "type": "Title",
+      "id": 218
+    }
+  ]
+}

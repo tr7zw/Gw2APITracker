@@ -1,0 +1,45 @@
+{
+  "id": 4730,
+  "name": "Skyscale of Life",
+  "description": "",
+  "requirement": "Infuse your skyscale egg with life.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 90443
+    },
+    {
+      "type": "Item",
+      "id": 90844
+    },
+    {
+      "type": "Item",
+      "id": 90316
+    },
+    {
+      "type": "Item",
+      "id": 90418
+    }
+  ],
+  "tiers": [
+    {
+      "count": 4,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 90851,
+      "count": 1
+    }
+  ]
+}

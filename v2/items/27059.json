@@ -1,0 +1,45 @@
+{
+  "name": "Hearty Soft Wood Warhorn of Hobbling",
+  "description": "",
+  "type": "Weapon",
+  "level": 46,
+  "rarity": "Masterwork",
+  "vendor_value": 84,
+  "default_skin": 3907,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27059,
+  "chat_link": "[\u0026AgGzaQAA]",
+  "icon": "https://render.guildwars2.com/file/5A0593B5164DE87591029323F7D90775D716001D/65530.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 355,
+    "max_power": 392,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 128.588,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 32
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 45
+        }
+      ]
+    },
+    "suffix_item_id": 24625
+  }
+}

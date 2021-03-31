@@ -1,0 +1,49 @@
+{
+  "name": "Cleric\u0027s Iron Greatsword of Venom",
+  "description": "",
+  "type": "Weapon",
+  "level": 64,
+  "rarity": "Masterwork",
+  "vendor_value": 162,
+  "default_skin": 4015,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27543,
+  "chat_link": "[\u0026AgGXawAA]",
+  "icon": "https://render.guildwars2.com/file/1EA00FDAAD23FD1B1B9C4BD6E36EB30A43E21D06/64138.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 618,
+    "max_power": 683,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 405.28,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 101
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 101
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 142
+        }
+      ]
+    },
+    "suffix_item_id": 24631
+  }
+}

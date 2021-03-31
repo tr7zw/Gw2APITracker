@@ -1,0 +1,27 @@
+{
+  "id": 1671,
+  "name": "Nary a Pitfall",
+  "description": "Story Instance: The Waypoint Conundrum",
+  "requirement": "Help Taimi gather parts for her device without triggering any traps.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 10
+    }
+  ],
+  "prerequisites": [
+    1674
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 66607,
+      "count": 1
+    }
+  ]
+}

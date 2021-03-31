@@ -1,0 +1,44 @@
+{
+  "name": "Penetrating Krytan Short Bow of the Hydromancer",
+  "type": "Weapon",
+  "level": 56,
+  "rarity": "Masterwork",
+  "vendor_value": 147,
+  "default_skin": 5000,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33888,
+  "chat_link": "[\u0026AgFghAAA]",
+  "icon": "https://render.guildwars2.com/file/4BCEF9E3C9D95E3F95EF0130F9AFE7DE680D9242/68100.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 484,
+    "max_power": 535,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 336.192,
+    "infix_upgrade": {
+      "id": 151,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 118
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 84
+        }
+      ]
+    },
+    "suffix_item_id": 24595
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": 3018,
+  "name": "Long Arm of the Light II",
+  "description": "",
+  "requirement": "Defeat bandit leaders lurking in the darkness.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Varre the Underhanded"
+    },
+    {
+      "type": "Text",
+      "text": "Temvay the Arrogant"
+    },
+    {
+      "type": "Text",
+      "text": "Ezal the Quick"
+    },
+    {
+      "type": "Text",
+      "text": "Ulssen the Anvil"
+    },
+    {
+      "type": "Text",
+      "text": "Lenner the Eagle-Eyed"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    },
+    {
+      "count": 5,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 78742,
+      "count": 1
+    }
+  ]
+}

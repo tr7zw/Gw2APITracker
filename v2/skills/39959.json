@@ -1,0 +1,57 @@
+{
+  "name": "Wave of Panic",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 600
+    },
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 1
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 0.8
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
+      "duration": 4,
+      "status": "Confusion",
+      "description": "Damage received on skill activation; stacks intensity.",
+      "apply_count": 2
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    },
+    {
+      "text": "Stun",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
+      "duration": 1
+    }
+  ],
+  "description": "Ambush. Release a wave of energy that interrupts and confuses foes.",
+  "icon": "https://render.guildwars2.com/file/593B1809A7E01ED6DD02CBD5B1B10FF0C9103F49/1770512.png",
+  "type": "Weapon",
+  "weapon_type": "Trident",
+  "professions": [
+    "Mesmer"
+  ],
+  "slot": "Weapon_1",
+  "flags": [],
+  "specialization": 59,
+  "id": 39959,
+  "chat_link": "[\u0026BhecAAA\u003d]"
+}

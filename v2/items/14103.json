@@ -1,0 +1,44 @@
+{
+  "name": "Vigorous Dredge Baton",
+  "description": "",
+  "type": "Weapon",
+  "level": 50,
+  "rarity": "Rare",
+  "vendor_value": 135,
+  "default_skin": 3922,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 14103,
+  "chat_link": "[\u0026AgEXNwAA]",
+  "icon": "https://render.guildwars2.com/file/A479EDDF7B9F17069DCE16D217B1EF927E436524/574972.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 460,
+    "max_power": 519,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 156.816,
+    "infix_upgrade": {
+      "id": 146,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 55
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 39
+        }
+      ]
+    }
+  }
+}

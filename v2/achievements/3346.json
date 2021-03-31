@@ -1,0 +1,39 @@
+{
+  "id": 3346,
+  "icon": "https://render.guildwars2.com/file/ACA2511FEFBDCA54DB256CF8F50AE7EA80231FED/1635142.png",
+  "name": "Daily Lake Doric Bosses",
+  "description": "",
+  "requirement": "Destroy one of the legendary bosses patrolling Doric\u0027s Landing.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Daily"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Siegemaster Immelhoof"
+    },
+    {
+      "type": "Text",
+      "text": "Justiciar Agatha"
+    },
+    {
+      "type": "Text",
+      "text": "Cairn the Queenslayer"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 80170,
+      "count": 3
+    }
+  ]
+}

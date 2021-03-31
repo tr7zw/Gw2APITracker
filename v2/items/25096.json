@@ -1,0 +1,45 @@
+{
+  "name": "Shaman\u0027s Zweihänder",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Fine",
+  "vendor_value": 99,
+  "default_skin": 5193,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 25096,
+  "chat_link": "[\u0026AgEIYgAA]",
+  "icon": "https://render.guildwars2.com/file/FB620EAB7AF45A0E3CC6DEFE7807030B1CE80D0F/68181.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 759,
+    "max_power": 839,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 517.248,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 181
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 129
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 129
+        }
+      ]
+    }
+  }
+}

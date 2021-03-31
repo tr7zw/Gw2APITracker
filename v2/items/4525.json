@@ -1,0 +1,50 @@
+{
+  "name": "Shelter Leggings",
+  "description": "\u003cc\u003d@flavor\u003e\"You need to learn all you can about your enemy if you\u0027re going to defeat them.\"\u003cbr\u003e—Scholar Maroola\u003c/c\u003e",
+  "type": "Armor",
+  "level": 75,
+  "rarity": "Fine",
+  "vendor_value": 87,
+  "default_skin": 903,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4525,
+  "chat_link": "[\u0026AgGtEQAA]",
+  "icon": "https://render.guildwars2.com/file/286FF8C0AB4C43C0FBB194BB4403657DA075E1C0/61276.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Light",
+    "defense": 134,
+    "infusion_slots": [],
+    "attribute_adjustment": 176.16,
+    "infix_upgrade": {
+      "id": 156,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 44
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 44
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 62
+        }
+      ]
+    }
+  }
+}

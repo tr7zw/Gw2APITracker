@@ -1,0 +1,40 @@
+{
+  "name": "Strong Apprentice Gloves",
+  "description": "",
+  "type": "Armor",
+  "level": 24,
+  "rarity": "Basic",
+  "vendor_value": 12,
+  "default_skin": 25,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 2968,
+  "chat_link": "[\u0026AgGYCwAA]",
+  "icon": "https://render.guildwars2.com/file/09805A08A8D6325CC60AF26F4C3A903534C1B0E5/61349.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Light",
+    "defense": 21,
+    "infusion_slots": [],
+    "attribute_adjustment": 14.781,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 5
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

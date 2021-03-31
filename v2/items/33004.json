@@ -1,0 +1,48 @@
+{
+  "name": "Carrion Flame Blade of Corruption",
+  "type": "Weapon",
+  "level": 67,
+  "rarity": "Rare",
+  "vendor_value": 168,
+  "default_skin": 5232,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 33004,
+  "chat_link": "[\u0026AgHsgAAA]",
+  "icon": "https://render.guildwars2.com/file/FF9C9423AEA40F1A2FE166390DC894139E57047C/67842.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 641,
+    "max_power": 708,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 234.216,
+    "infix_upgrade": {
+      "id": 160,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 59
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 59
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 82
+        }
+      ]
+    },
+    "suffix_item_id": 24577
+  }
+}

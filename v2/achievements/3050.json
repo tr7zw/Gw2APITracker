@@ -1,0 +1,39 @@
+{
+  "id": 3050,
+  "name": "\"Out of the Shadows\" Mastery",
+  "description": "",
+  "requirement": "Complete all  \"Out of the Shadows\" achievements.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 4
+    },
+    {
+      "count": 10,
+      "points": 8
+    },
+    {
+      "count": 18,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 79225,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 5157,
+  "name": "PvP League Completionist",
+  "description": "",
+  "requirement": "Complete  PvP seasonal achievement.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "CategoryDisplay",
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "point_cap": 360
+}

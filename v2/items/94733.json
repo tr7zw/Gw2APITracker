@@ -1,0 +1,68 @@
+{
+  "name": "Viper\u0027s Fiery Dragon Slayer Longbow of Icebrood Slaying",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 495,
+  "default_skin": 9922,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94733,
+  "chat_link": "[\u0026AgENcgEA]",
+  "icon": "https://render.guildwars2.com/file/31701FDB31FE0114B80D040569D5EE68419506FA/2412826.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 966,
+    "max_power": 1134,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      },
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 717.024,
+    "infix_upgrade": {
+      "id": 1130,
+      "buff": {
+        "skill_id": 32391
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 240
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 130
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 240
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 130
+        }
+      ]
+    },
+    "suffix_item_id": 24651
+  }
+}

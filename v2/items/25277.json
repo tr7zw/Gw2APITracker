@@ -1,0 +1,48 @@
+{
+  "name": "Shaman\u0027s Etched Revolver of Vision",
+  "type": "Weapon",
+  "level": 70,
+  "rarity": "Exotic",
+  "vendor_value": 236,
+  "default_skin": 5046,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 25277,
+  "chat_link": "[\u0026AgG9YgAA]",
+  "icon": "https://render.guildwars2.com/file/64C61748E9C62469980CB2EEEC67B3D737FFB75D/779892.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 741,
+    "max_power": 870,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 282.48,
+    "infix_upgrade": {
+      "id": 153,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 99
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 71
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 71
+        }
+      ]
+    },
+    "suffix_item_id": 24600
+  }
+}

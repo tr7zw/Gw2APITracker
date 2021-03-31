@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Iron Rifle of the Geomancer",
+  "description": "",
+  "type": "Weapon",
+  "level": 78,
+  "rarity": "Exotic",
+  "vendor_value": 384,
+  "default_skin": 4092,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 27946,
+  "chat_link": "[\u0026AgEqbQAA]",
+  "icon": "https://render.guildwars2.com/file/167018D742BBF5120BE4ACE80DE5B049089D20F2/62700.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 955,
+    "max_power": 1167,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 658.72,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 231
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 165
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 165
+        }
+      ]
+    },
+    "suffix_item_id": 24605
+  }
+}

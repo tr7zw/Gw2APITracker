@@ -1,0 +1,46 @@
+{
+  "name": "Lingering Black Earth Aquabreather",
+  "description": "\u003cc\u003d@flavor\u003e\"Never know when you\u0027ll need one of these.\"\u003cbr\u003e—Magister Roslin\u003c/c\u003e",
+  "type": "Armor",
+  "level": 48,
+  "rarity": "Fine",
+  "vendor_value": 54,
+  "default_skin": 859,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4088,
+  "chat_link": "[\u0026AgH4DwAA]",
+  "icon": "https://render.guildwars2.com/file/40B4D696039F9E06A11BF913FF66FDFB3DD57CEA/61253.png",
+  "details": {
+    "type": "HelmAquatic",
+    "weight_class": "Medium",
+    "defense": 37,
+    "infusion_slots": [],
+    "attribute_adjustment": 62.336,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 16
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 22
+        }
+      ]
+    }
+  }
+}

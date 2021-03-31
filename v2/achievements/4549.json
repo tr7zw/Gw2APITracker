@@ -1,0 +1,39 @@
+{
+  "id": 4549,
+  "name": "Chasing Tales: Storm\u0027s Eye",
+  "description": "Asaliea was known for an unbreakable resolve, no matter the circumstance.",
+  "requirement": "Defeat the temporal storm elemental in Thunderhead Peaks.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Asaliea the Channeler."
+    },
+    {
+      "type": "Text",
+      "text": "Defeated the temporal storm elemental in Thunderhead Peaks while wielding a focus."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89793,
+      "count": 1
+    }
+  ]
+}

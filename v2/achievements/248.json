@@ -1,0 +1,65 @@
+{
+  "id": 248,
+  "name": "Mercenary",
+  "description": "You aren\u0027t a total liability anymore.",
+  "requirement": "Obtain  rank points.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 12500,
+      "points": 5
+    },
+    {
+      "count": 16500,
+      "points": 5
+    },
+    {
+      "count": 20500,
+      "points": 5
+    },
+    {
+      "count": 24500,
+      "points": 5
+    },
+    {
+      "count": 28500,
+      "points": 5
+    },
+    {
+      "count": 32500,
+      "points": 5
+    },
+    {
+      "count": 36500,
+      "points": 5
+    },
+    {
+      "count": 40500,
+      "points": 5
+    },
+    {
+      "count": 44500,
+      "points": 5
+    },
+    {
+      "count": 48500,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    247
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 118
+    }
+  ]
+}

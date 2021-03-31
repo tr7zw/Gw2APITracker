@@ -1,0 +1,47 @@
+{
+  "name": "Company Cloth Mantle",
+  "description": "\u003cc\u003d@flavor\u003eA small tag reads: \"Warning: No amount of shoulder protection can prevent serious or fatal injuries that may occur while in service of the Company.\"\u003c/c\u003e",
+  "type": "Armor",
+  "level": 35,
+  "rarity": "Masterwork",
+  "vendor_value": 75,
+  "default_skin": 901,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4817,
+  "chat_link": "[\u0026AgHREgAA]",
+  "icon": "https://render.guildwars2.com/file/7325942230DDD92AB59428800B1F34FFDD336091/61265.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 22,
+    "infusion_slots": [],
+    "attribute_adjustment": 33.609,
+    "infix_upgrade": {
+      "id": 145,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 8
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 12
+        }
+      ]
+    },
+    "suffix_item_id": 24730
+  }
+}

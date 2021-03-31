@@ -1,0 +1,39 @@
+{
+  "id": 4609,
+  "name": "Chasing Tales: Enduring Hatred",
+  "description": "On the battlefield, Hakson was a maelstrom of violence.",
+  "requirement": "Slay four enemies sequentially within 20 seconds of one another.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Learned of Harkon Hakson."
+    },
+    {
+      "type": "Text",
+      "text": "Defeated four enemies sequentially within 20 seconds of one another."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 89918,
+      "count": 1
+    }
+  ]
+}

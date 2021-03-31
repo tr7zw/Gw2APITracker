@@ -1,0 +1,30 @@
+{
+  "id": 1641,
+  "name": "Gates of Maguuma",
+  "description": "Journal: \"Gates of Maguuma\" Completed",
+  "requirement": "Investigate the airship crash.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "MoveToTop",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 66611,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Tyria",
+      "id": 224
+    }
+  ]
+}

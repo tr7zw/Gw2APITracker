@@ -1,0 +1,27 @@
+{
+  "name": "Heirloom Dye",
+  "description": "Double-click to unlock this dye color for all characters.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 10,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell"
+  ],
+  "restrictions": [],
+  "id": 20747,
+  "chat_link": "[\u0026AgELUQAA]",
+  "icon": "https://render.guildwars2.com/file/33DA50C5A7FD9D670F2D53C11C9254A3B7AB37DC/66651.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "Dye",
+    "color_id": -1
+  }
+}

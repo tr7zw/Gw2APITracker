@@ -1,0 +1,40 @@
+{
+  "name": "Mighty Greatsword",
+  "description": "",
+  "type": "Weapon",
+  "level": 15,
+  "rarity": "Basic",
+  "vendor_value": 15,
+  "default_skin": 3868,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage"
+  ],
+  "restrictions": [],
+  "id": 30798,
+  "chat_link": "[\u0026AgFOeAAA]",
+  "icon": "https://render.guildwars2.com/file/67B2C9A40C0E963567B7B42359A327B19F56195D/66176.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 161,
+    "max_power": 178,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 48.776,
+    "infix_upgrade": {
+      "id": 137,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 17
+        }
+      ]
+    }
+  }
+}

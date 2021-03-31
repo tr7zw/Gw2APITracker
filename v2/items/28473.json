@@ -1,0 +1,49 @@
+{
+  "name": "Berserker\u0027s Soft Wood Longbow of Debility",
+  "description": "",
+  "type": "Weapon",
+  "level": 74,
+  "rarity": "Masterwork",
+  "vendor_value": 183,
+  "default_skin": 3942,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 28473,
+  "chat_link": "[\u0026AgE5bwAA]",
+  "icon": "https://render.guildwars2.com/file/C6110F52DF5AFE0F00A56F9E143E9732176DDDE9/65015.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 684,
+    "max_power": 803,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 499.12,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 175
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 125
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 125
+        }
+      ]
+    },
+    "suffix_item_id": 24634
+  }
+}

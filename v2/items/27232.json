@@ -1,0 +1,42 @@
+{
+  "name": "Honed Soft Wood Torch",
+  "description": "",
+  "type": "Weapon",
+  "level": 27,
+  "rarity": "Fine",
+  "vendor_value": 28,
+  "default_skin": 3890,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 27232,
+  "chat_link": "[\u0026AgFgagAA]",
+  "icon": "https://render.guildwars2.com/file/FA56C5DD5D7494F25D980E432BA129F44209ED0E/63136.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Physical",
+    "min_power": 209,
+    "max_power": 245,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 58.112,
+    "infix_upgrade": {
+      "id": 152,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 20
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 15
+        }
+      ]
+    }
+  }
+}

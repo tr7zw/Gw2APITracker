@@ -1,0 +1,47 @@
+{
+  "name": "Dried Poisonous Swamp Fungi",
+  "description": "\u003cc\u003d@flavor\u003e\"It\u0027s dried, so the poison won\u0027t affect you. Just don\u0027t get it wet.\"\u003cbr\u003e—Laudren\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 62,
+  "rarity": "Masterwork",
+  "vendor_value": 133,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23978,
+  "chat_link": "[\u0026AgGqXQAA]",
+  "icon": "https://render.guildwars2.com/file/A3725FE7524F4D983FFB7FE9D263189BB8C2D4F8/65714.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 121.253,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 30
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 30
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 42
+        }
+      ]
+    }
+  }
+}

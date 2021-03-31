@@ -1,0 +1,50 @@
+{
+  "name": "Strong Avenger\u0027s Short Bow",
+  "type": "Weapon",
+  "level": 78,
+  "rarity": "Rare",
+  "vendor_value": 288,
+  "default_skin": 4785,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32250,
+  "chat_link": "[\u0026AgH6fQAA]",
+  "icon": "https://render.guildwars2.com/file/2EDBDE37FCEBDFE3FABF0760060B085A6C091BBA/415052.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 776,
+    "max_power": 858,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 581.904,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 204
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 145
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 145
+        }
+      ]
+    },
+    "suffix_item_id": 24615
+  }
+}

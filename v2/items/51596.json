@@ -1,0 +1,51 @@
+{
+  "name": "Apostate\u0027s Branch of Oneiru",
+  "type": "Weapon",
+  "level": 68,
+  "rarity": "Exotic",
+  "vendor_value": 354,
+  "default_skin": 5094,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 51596,
+  "chat_link": "[\u0026AgGMyQAA]",
+  "icon": "https://render.guildwars2.com/file/B5C1D65B9BFC0E1A019535FD06E69DA966AF4F1A/434880.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 847,
+    "max_power": 955,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 576,
+    "infix_upgrade": {
+      "id": 1012,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 144
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 144
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 202
+        }
+      ]
+    }
+  }
+}

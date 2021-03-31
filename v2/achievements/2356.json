@@ -1,0 +1,87 @@
+{
+  "id": 2356,
+  "name": "Bolt II: The Perfected Sword",
+  "description": "Your first attempt at crafting the legendary precursor Zap has been modestly successful but has not yet yielded the weapon you ultimately desire. This journey has only just begun. Find a teacher, research your procedures, and hone your skills before you try a second time.",
+  "requirement": "",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 74503
+    },
+    {
+      "type": "Item",
+      "id": 76021
+    },
+    {
+      "type": "Item",
+      "id": 74368
+    },
+    {
+      "type": "Item",
+      "id": 75361
+    },
+    {
+      "type": "Item",
+      "id": 75547
+    },
+    {
+      "type": "Item",
+      "id": 74690
+    },
+    {
+      "type": "Item",
+      "id": 74036
+    },
+    {
+      "type": "Item",
+      "id": 75790
+    },
+    {
+      "type": "Item",
+      "id": 73033
+    },
+    {
+      "type": "Item",
+      "id": 75271
+    },
+    {
+      "type": "Item",
+      "id": 75803
+    },
+    {
+      "type": "Item",
+      "id": 75836
+    },
+    {
+      "type": "Item",
+      "id": 74093
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 13,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 75891,
+      "count": 1
+    }
+  ]
+}

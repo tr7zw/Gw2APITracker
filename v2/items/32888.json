@@ -1,0 +1,44 @@
+{
+  "name": "Ravaging Flame Cleaver of Earth",
+  "type": "Weapon",
+  "level": 53,
+  "rarity": "Rare",
+  "vendor_value": 141,
+  "default_skin": 5152,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32888,
+  "chat_link": "[\u0026AgF4gAAA]",
+  "icon": "https://render.guildwars2.com/file/DCF12F43C72FDFC44600425DFB6B9F4FC1CA5342/67831.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 467,
+    "max_power": 571,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 169.272,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 42
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 59
+        }
+      ]
+    },
+    "suffix_item_id": 24559
+  }
+}

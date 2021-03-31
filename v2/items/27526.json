@@ -1,0 +1,38 @@
+{
+  "name": "Vital Soft Wood Staff",
+  "description": "",
+  "type": "Weapon",
+  "level": 18,
+  "rarity": "Fine",
+  "vendor_value": 33,
+  "default_skin": 4067,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 27526,
+  "chat_link": "[\u0026AgGGawAA]",
+  "icon": "https://render.guildwars2.com/file/04BE267A42B12DB00F0162639702BDEFC90F4A5D/62880.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 215,
+    "max_power": 242,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 75.648,
+    "infix_upgrade": {
+      "id": 139,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 26
+        }
+      ]
+    }
+  }
+}

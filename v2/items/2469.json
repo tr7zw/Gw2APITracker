@@ -1,0 +1,43 @@
+{
+  "name": "Strong Magician Mask of Mercy",
+  "description": "",
+  "type": "Armor",
+  "level": 38,
+  "rarity": "Masterwork",
+  "vendor_value": 90,
+  "default_skin": 100,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 2469,
+  "chat_link": "[\u0026AgGlCQAA]",
+  "icon": "https://render.guildwars2.com/file/E06A970CAD5A0FDBA4F49C01B168F5D1D2254419/526097.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 24,
+    "infusion_slots": [],
+    "attribute_adjustment": 50.048,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 18
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 13
+        }
+      ]
+    },
+    "suffix_item_id": 24706
+  }
+}

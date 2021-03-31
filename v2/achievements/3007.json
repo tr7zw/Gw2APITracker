@@ -1,0 +1,31 @@
+{
+  "id": 3007,
+  "name": "Ley-Line \"Research\"",
+  "description": "",
+  "requirement": "Assist the Consortium in collecting accumulated ley energy.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 15,
+      "points": 1
+    },
+    {
+      "count": 30,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Coins",
+      "count": 10000
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": 4406,
+  "name": "In a Grain of Sand",
+  "description": "Eventually all greatness crumbles to sand. Some great things start from sand, however.",
+  "requirement": "Gather samples of corrupted sand from around Elona for Ziya\u0027s research.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Spoke to Ziya and accepted her request."
+    },
+    {
+      "type": "Text",
+      "text": "Somewhere in Jahai Bluffs"
+    },
+    {
+      "type": "Text",
+      "text": "Somewhere in Jahai Bluffs"
+    },
+    {
+      "type": "Text",
+      "text": "Somewhere in Jahai Bluffs"
+    },
+    {
+      "type": "Text",
+      "text": "Somewhere in Jahai Bluffs"
+    },
+    {
+      "type": "Text",
+      "text": "Somewhere in the Desolation"
+    },
+    {
+      "type": "Text",
+      "text": "Somewhere in the Desolation"
+    },
+    {
+      "type": "Text",
+      "text": "Somewhere in the Desert Highlands"
+    },
+    {
+      "type": "Text",
+      "text": "Somewhere in the Elon Riverlands"
+    },
+    {
+      "type": "Text",
+      "text": "Somewhere in the Domain of Vabbi"
+    },
+    {
+      "type": "Text",
+      "text": "Somewhere in the Domain of Vabbi"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    },
+    {
+      "count": 11,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 88883,
+      "count": 1
+    }
+  ]
+}

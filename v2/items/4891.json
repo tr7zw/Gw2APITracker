@@ -1,0 +1,42 @@
+{
+  "name": "Stealthy Studded Pants",
+  "description": "\u003cc\u003d@flavor\u003e\"Amazingly quiet for how much protection they offer.\"\u003cbr\u003e—Morina\u003c/c\u003e",
+  "type": "Armor",
+  "level": 20,
+  "rarity": "Fine",
+  "vendor_value": 34,
+  "default_skin": 22,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4891,
+  "chat_link": "[\u0026AgEbEwAA]",
+  "icon": "https://render.guildwars2.com/file/9EDA0D4C957DA89F653E9D27695592B139ECD035/61049.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Medium",
+    "defense": 38,
+    "infusion_slots": [],
+    "attribute_adjustment": 31.584,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 11
+        }
+      ]
+    }
+  }
+}

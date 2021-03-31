@@ -1,0 +1,44 @@
+{
+  "name": "Hearty Soft Wood Trident",
+  "description": "",
+  "type": "Weapon",
+  "level": 35,
+  "rarity": "Masterwork",
+  "vendor_value": 102,
+  "default_skin": 3899,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 13847,
+  "chat_link": "[\u0026AgEXNgAA]",
+  "icon": "https://render.guildwars2.com/file/195C62FCE31ECE47100E4020CE6C909AB69FEA9C/562000.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 313,
+    "max_power": 346,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 179.248,
+    "infix_upgrade": {
+      "id": 149,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 45
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 63
+        }
+      ]
+    }
+  }
+}

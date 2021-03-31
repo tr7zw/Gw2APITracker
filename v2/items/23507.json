@@ -1,0 +1,39 @@
+{
+  "name": "Separatist Wanted Poster",
+  "description": "\u003cc\u003d@flavor\u003e\"Remember: \u0027dead or alive\u0027 means dead.\"\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 9,
+  "rarity": "Fine",
+  "vendor_value": 18,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23507,
+  "chat_link": "[\u0026AgHTWwAA]",
+  "icon": "https://render.guildwars2.com/file/D86B26AEC9D9EB1EADF17E417BC0D95FE34A51E3/455927.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 13.24,
+    "infix_upgrade": {
+      "id": 175,
+      "attributes": [
+        {
+          "attribute": "Healing",
+          "modifier": 5
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Ravaging Privateer Gloves of the Dolyak",
+  "description": "",
+  "type": "Armor",
+  "level": 40,
+  "rarity": "Rare",
+  "vendor_value": 103,
+  "default_skin": 80,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 1970,
+  "chat_link": "[\u0026AgGyBwAA]",
+  "icon": "https://render.guildwars2.com/file/16670E161F58E8F86BE60ED3F83AA1D6C7210945/61045.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 58,
+    "infusion_slots": [],
+    "attribute_adjustment": 43.929,
+    "infix_upgrade": {
+      "id": 144,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 11
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 15
+        }
+      ]
+    },
+    "suffix_item_id": 24698
+  }
+}

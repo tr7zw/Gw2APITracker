@@ -1,0 +1,46 @@
+{
+  "name": "Ancient Orrian Urn",
+  "description": "",
+  "type": "Trinket",
+  "level": 75,
+  "rarity": "Fine",
+  "vendor_value": 78,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23706,
+  "chat_link": "[\u0026AgGaXAAA]",
+  "icon": "https://render.guildwars2.com/file/9E323FFE450FD1D1B22014A8F74074ADED8015B7/455951.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 146.8,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 37
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 37
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 51
+        }
+      ]
+    }
+  }
+}

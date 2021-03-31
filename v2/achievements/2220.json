@@ -1,0 +1,94 @@
+{
+  "id": 2220,
+  "name": "Horologicus",
+  "description": "",
+  "requirement": "Collect these  items and skins to receive the chronomancer\u0027s shield, Horologicus.",
+  "locked_text": "Begin training the mesmer\u0027s chronomancer elite specialization.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 6222
+    },
+    {
+      "type": "Item",
+      "id": 74559
+    },
+    {
+      "type": "Item",
+      "id": 72263
+    },
+    {
+      "type": "Skin",
+      "id": 5242
+    },
+    {
+      "type": "Item",
+      "id": 71809
+    },
+    {
+      "type": "Item",
+      "id": 76355
+    },
+    {
+      "type": "Item",
+      "id": 77251
+    },
+    {
+      "type": "Item",
+      "id": 72541
+    },
+    {
+      "type": "Item",
+      "id": 73864
+    },
+    {
+      "type": "Item",
+      "id": 72298
+    },
+    {
+      "type": "Item",
+      "id": 73525
+    },
+    {
+      "type": "Skin",
+      "id": 6043
+    },
+    {
+      "type": "Item",
+      "id": 75093
+    },
+    {
+      "type": "Skin",
+      "id": 6257
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    },
+    {
+      "count": 14,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 74858,
+      "count": 1
+    }
+  ]
+}

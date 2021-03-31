@@ -1,0 +1,48 @@
+{
+  "id": 3104,
+  "name": "Hungry Hal",
+  "description": "An apple a day...",
+  "requirement": "Find and feed this poor hungry soul on the island.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 1
+    },
+    {
+      "count": 20,
+      "points": 1
+    },
+    {
+      "count": 30,
+      "points": 1
+    },
+    {
+      "count": 40,
+      "points": 1
+    },
+    {
+      "count": 50,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Maguuma",
+      "id": 284
+    },
+    {
+      "type": "Title",
+      "id": 249
+    }
+  ]
+}

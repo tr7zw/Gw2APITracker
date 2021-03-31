@@ -1,0 +1,46 @@
+{
+  "name": "Airship Captain\u0027s Badge",
+  "description": "",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Fine",
+  "vendor_value": 83,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23710,
+  "chat_link": "[\u0026AgGeXAAA]",
+  "icon": "https://render.guildwars2.com/file/596749EC03A1D6B69F05AF90DE26FBF4B4A15FAA/455942.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 161.64,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 40
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 40
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 57
+        }
+      ]
+    }
+  }
+}

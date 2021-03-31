@@ -1,0 +1,39 @@
+{
+  "name": "Shrunken Head",
+  "description": "\u003cc\u003d@flavor\u003e\"And I thought I had a headache. We don\u0027t know what these are made of, but those Ettins drop them all over the place.\"\u003cbr\u003e—Deputy Jenks\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 20,
+  "rarity": "Fine",
+  "vendor_value": 30,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23744,
+  "chat_link": "[\u0026AgHAXAAA]",
+  "icon": "https://render.guildwars2.com/file/52613CCCD852025DB4367E0996661EBE71B8E001/455958.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 26.32,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 9
+        }
+      ]
+    }
+  }
+}

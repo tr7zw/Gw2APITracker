@@ -1,0 +1,68 @@
+{
+  "name": "Marauder Icy Dragon Slayer Short Bow of Destroyer Slaying",
+  "description": "",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 495,
+  "default_skin": 9937,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94821,
+  "chat_link": "[\u0026AgFlcgEA]",
+  "icon": "https://render.guildwars2.com/file/57B12C1104EC736D96E7E43E9CEA03A23C6C46C2/2412831.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 950,
+    "max_power": 1050,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      },
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 717.024,
+    "infix_upgrade": {
+      "id": 1145,
+      "buff": {
+        "skill_id": 31930
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 240
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 240
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 130
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 130
+        }
+      ]
+    },
+    "suffix_item_id": 24654
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": 2572,
+  "name": "Warmaster\u0027s Pack",
+  "description": "",
+  "requirement": "Collect all  items to construct your Warmaster\u0027s Pack.",
+  "locked_text": "Complete the Crusader\u0027s Pack collection.",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 6246
+    },
+    {
+      "type": "Item",
+      "id": 72529
+    },
+    {
+      "type": "Item",
+      "id": 74568
+    },
+    {
+      "type": "Item",
+      "id": 70889
+    },
+    {
+      "type": "Item",
+      "id": 76499
+    },
+    {
+      "type": "Item",
+      "id": 72949
+    },
+    {
+      "type": "Item",
+      "id": 75094
+    },
+    {
+      "type": "Item",
+      "id": 73901
+    },
+    {
+      "type": "Item",
+      "id": 76404
+    },
+    {
+      "type": "Item",
+      "id": 72916
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 72416,
+      "count": 1
+    }
+  ]
+}

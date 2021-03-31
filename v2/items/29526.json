@@ -1,0 +1,48 @@
+{
+  "name": "Black Earth Trident",
+  "description": "\u003cc\u003d@flavor\u003e\"The Priory sent us this shipment of underwater weapons. Must have been a mix-up somewhere.\"\u003cbr\u003e—Magister Roslin\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 48,
+  "rarity": "Fine",
+  "vendor_value": 65,
+  "default_skin": 4712,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 29526,
+  "chat_link": "[\u0026AgFWcwAA]",
+  "icon": "https://render.guildwars2.com/file/B8F4F953BC20F7A7FE9FF7459FD5534F0608730F/574969.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 380,
+    "max_power": 420,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 249.344,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 62
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 87
+        }
+      ]
+    }
+  }
+}

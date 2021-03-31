@@ -1,0 +1,43 @@
+{
+  "name": "Vigil Scout Medal",
+  "description": "\u003cc\u003d@flavor\u003e\"The Vigil recognizes your steadfastness in battle.\"\u003cbr\u003e—Crusader Rugan\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 57,
+  "rarity": "Fine",
+  "vendor_value": 62,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23349,
+  "chat_link": "[\u0026AgE1WwAA]",
+  "icon": "https://render.guildwars2.com/file/E81974AFE544A89E0F9F9D08A87DD06594C10561/66772.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 98.88,
+    "infix_upgrade": {
+      "id": 150,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 35
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 25
+        }
+      ]
+    }
+  }
+}

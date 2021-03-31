@@ -1,0 +1,49 @@
+{
+  "name": "Cleric\u0027s Iron Dagger of Corruption",
+  "description": "",
+  "type": "Weapon",
+  "level": 72,
+  "rarity": "Rare",
+  "vendor_value": 180,
+  "default_skin": 4009,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 26374,
+  "chat_link": "[\u0026AgEGZwAA]",
+  "icon": "https://render.guildwars2.com/file/3254C66ED1675657E0B7C2FBBC09FBF2FBAA74A6/62762.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 715,
+    "max_power": 760,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 259.2,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 65
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 65
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 91
+        }
+      ]
+    },
+    "suffix_item_id": 24577
+  }
+}

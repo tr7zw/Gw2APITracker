@@ -1,0 +1,43 @@
+{
+  "name": "Hardened Destroyer Core",
+  "description": "\u003cc\u003d@flavor\u003e\"This core has cooled making it too hard to work with.\"\u003cbr\u003e—Kruppa\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 36,
+  "rarity": "Masterwork",
+  "vendor_value": 88,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 23387,
+  "chat_link": "[\u0026AgFbWwAA]",
+  "icon": "https://render.guildwars2.com/file/3EB374296D313F5C59EDDAD03F16CE0A9E5BBCC7/66827.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 58.1825,
+    "infix_upgrade": {
+      "id": 141,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 15
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 20
+        }
+      ]
+    }
+  }
+}

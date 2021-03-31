@@ -1,0 +1,46 @@
+{
+  "id": 5112,
+  "name": "Koda Be Praised",
+  "description": "",
+  "requirement": "Complete each unique Trial of Koda challenge.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Destabilize the Champions"
+    },
+    {
+      "type": "Text",
+      "text": "Plant Banners to Challenge the Svanir"
+    },
+    {
+      "type": "Text",
+      "text": "Save the Kodan Scouts"
+    },
+    {
+      "type": "Text",
+      "text": "Bait the Icy Waters"
+    },
+    {
+      "type": "Text",
+      "text": "Close the Rifts"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Tundra",
+      "id": 482
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Malign Glyphic Ward of Force",
+  "type": "Weapon",
+  "level": 20,
+  "rarity": "Masterwork",
+  "vendor_value": 48,
+  "default_skin": 5207,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 34544,
+  "chat_link": "[\u0026AgHwhgAA]",
+  "icon": "https://render.guildwars2.com/file/A2B7C080B75DCC1C65DB50746CB0E90356240667/434774.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 200,
+    "max_power": 225,
+    "defense": 12,
+    "infusion_slots": [],
+    "attribute_adjustment": 46.988,
+    "infix_upgrade": {
+      "id": 176,
+      "attributes": [
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 16
+        }
+      ]
+    },
+    "suffix_item_id": 24613
+  }
+}
