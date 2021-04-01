@@ -1,0 +1,27 @@
+{
+  "id": 5675,
+  "name": "Choya Response Mission",
+  "description": "Note: This achievement functions on the honor system.",
+  "requirement": "While under the effects of the Choya Elixir, slay as many dragons or dragon minions as you can. Then, and only then, report your accomplishments to the choya sage in Lion\u0027s Arch.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    }
+  ],
+  "prerequisites": [
+    5673
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 82527,
+      "count": 11
+    }
+  ]
+}
