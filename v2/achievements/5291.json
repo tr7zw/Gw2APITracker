@@ -7,6 +7,7 @@
   "type": "Default",
   "flags": [
     "Pvp",
+    "RepairOnLogin",
     "CategoryDisplay",
     "Permanent"
   ],
@@ -24,15 +25,20 @@
       "points": 5
     },
     {
-      "count": 19,
+      "count": 15,
       "points": 7
     },
     {
-      "count": 22,
+      "count": 17,
       "points": 10
     }
   ],
   "rewards": [
+    {
+      "type": "Item",
+      "id": 93507,
+      "count": 1
+    },
     {
       "type": "Mastery",
       "region": "Tundra",
