@@ -1,0 +1,46 @@
+{
+  "id": 5683,
+  "name": "(Weekly) World 1 Replay",
+  "description": "Weekly achievement. Progress resets on Monday morning.",
+  "requirement": "Complete Zone 1, Zone 2, and Zone 3 in World 1.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Weekly"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Zone 01"
+    },
+    {
+      "type": "Text",
+      "text": "Zone 02"
+    },
+    {
+      "type": "Text",
+      "text": "Zone 03"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 2,
+      "points": 0
+    },
+    {
+      "count": 3,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 80862,
+      "count": 2
+    }
+  ]
+}

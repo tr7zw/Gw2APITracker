@@ -60,6 +60,13 @@
           "target": "Healing"
         },
         {
+          "text": "Barrier on Detonation",
+          "type": "AttributeAdjust",
+          "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+          "value": 1684,
+          "target": "Healing"
+        },
+        {
           "text": "Damage",
           "type": "Damage",
           "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
@@ -134,7 +141,7 @@
           "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
           "value": 5,
           "requires_trait": 2112,
-          "overrides": 9
+          "overrides": 10
         }
       ]
     }

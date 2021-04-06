@@ -1,0 +1,50 @@
+{
+  "id": 5682,
+  "name": "Ooze Herding",
+  "description": "Safe ooze handling is an important lesson in any curriculum.",
+  "requirement": "Return an ooze to the ooze farmer in each zone.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "World 1 Zone 1"
+    },
+    {
+      "type": "Text",
+      "text": "World 1 Zone 2"
+    },
+    {
+      "type": "Text",
+      "text": "World 1 Zone 3"
+    },
+    {
+      "type": "Text",
+      "text": "World 2 Zone 1"
+    },
+    {
+      "type": "Text",
+      "text": "World 2 Zone 2"
+    },
+    {
+      "type": "Text",
+      "text": "World 2 Zone 3"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 6,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 41886,
+      "count": 8
+    }
+  ]
+}
