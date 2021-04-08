@@ -1,0 +1,45 @@
+{
+  "name": "Rune of the Monk",
+  "description": "Double-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 21217,
+  "chat_link": "[\u0026AgHhUgAA]",
+  "icon": "https://render.guildwars2.com/file/E028F4BC03E9EC36A368712463D824CEC30FCCDA/220738.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+25 Healing",
+      "+2% Boon Duration",
+      "+50 Healing",
+      "+3% Boon Duration",
+      "+100 Healing",
+      "+10% Healing effectiveness to other allies; increase healing effectiveness to other allies by an additional 1% for 3 seconds after granting a boon to any ally (up to a maximum of 10 stacks)."
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Monk"
+  }
+}

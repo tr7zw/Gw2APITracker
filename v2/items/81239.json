@@ -1,0 +1,56 @@
+{
+  "name": "Sigil of Stagnation",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 81239,
+  "chat_link": "[\u0026AgFXPQEA]",
+  "icon": "https://render.guildwars2.com/file/163CB7D90EE74C390E9F9EDC162DC6283AE65F55/1691882.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 1239,
+      "buff": {
+        "skill_id": 38737,
+        "description": "Cripple nearby foes when swapping to this weapon while in combat.\u003cbr\u003e\u003cc\u003d@reminder\u003e(Cooldown: 9 seconds)\u003c/c\u003e"
+      },
+      "attributes": []
+    },
+    "suffix": "of Stagnation"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Sigil of Battle",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 21155,
+  "chat_link": "[\u0026AgGjUgAA]",
+  "icon": "https://render.guildwars2.com/file/A25A5E7D74A6B293B5C6B8EC7EDA1A06C649CBEF/220691.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 1255,
+      "buff": {
+        "skill_id": 38781,
+        "description": "Gain 4 stacks of might (5 seconds) when you swap to this weapon while in combat. \u003cc\u003d@reminder\u003e(Cooldown: 9 seconds)\u003c/c\u003e"
+      },
+      "attributes": []
+    },
+    "suffix": "of Battle"
+  }
+}

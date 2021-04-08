@@ -1,0 +1,56 @@
+{
+  "name": "Sigil of Smoldering",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 21122,
+  "chat_link": "[\u0026AgGCUgAA]",
+  "icon": "https://render.guildwars2.com/file/60AAB7109E5D679901E00DC066774EE5FB3E6052/220659.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 1236,
+      "buff": {
+        "skill_id": 38733,
+        "description": "Increase Inflicted Burning Duration: 25%"
+      },
+      "attributes": []
+    },
+    "suffix": "of Smoldering"
+  }
+}

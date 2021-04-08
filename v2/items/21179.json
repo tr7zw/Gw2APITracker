@@ -1,0 +1,45 @@
+{
+  "name": "Rune of Earth",
+  "description": "Double-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 21179,
+  "chat_link": "[\u0026AgG7UgAA]",
+  "icon": "https://render.guildwars2.com/file/93A53AB1F304354ED1981AB465BCDD51B2F4D857/220701.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+25 Toughness",
+      "+4% Protection Duration",
+      "+50 Toughness",
+      "+6% Protection Duration",
+      "+100 Toughness",
+      "+5% Incoming heal effectiveness; gain protection when struck by a foe. \u003cc\u003d@reminder\u003e(Cooldown: 60 seconds)\u003cc/\u003e"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of Earth"
+  }
+}

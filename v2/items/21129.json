@@ -1,0 +1,56 @@
+{
+  "name": "Sigil of Peril",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 21129,
+  "chat_link": "[\u0026AgGJUgAA]",
+  "icon": "https://render.guildwars2.com/file/F9D2B90F653C555D08B2C62CAC7605AA2793929B/220666.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 1251,
+      "buff": {
+        "skill_id": 38783,
+        "description": "Increase Inflicted Vulnerability Duration: 25%"
+      },
+      "attributes": []
+    },
+    "suffix": "of Peril"
+  }
+}

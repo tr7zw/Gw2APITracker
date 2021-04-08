@@ -1,0 +1,45 @@
+{
+  "name": "Rune of the Krait",
+  "description": "Double-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 21189,
+  "chat_link": "[\u0026AgHFUgAA]",
+  "icon": "https://render.guildwars2.com/file/F0932EF967413023BE0CC1EEF5E2536B2764E65A/220711.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+25 Condition Damage",
+      "+4% Bleeding Duration",
+      "+50 Condition Damage",
+      "+6% Bleeding Duration",
+      "+100 Condition Damage",
+      "+10% Bleeding Duration; inflict bleeding, torment, and poison on nearby foes for 8 seconds after using an elite skill. \u003cc\u003d@reminder\u003e(Cooldown: 30 Seconds)\u003c/c\u003e"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Krait"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Sigil of Compounding",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 81257,
+  "chat_link": "[\u0026AgFpPQEA]",
+  "icon": "https://render.guildwars2.com/file/BD4F2A1A1B7D1D20B640C03BDC4A2125A558147E/1691866.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 1254,
+      "buff": {
+        "skill_id": 38754,
+        "description": "Deal 1% extra damage per condition on your foe."
+      },
+      "attributes": []
+    },
+    "suffix": "of Compounding"
+  }
+}

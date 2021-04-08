@@ -1,0 +1,56 @@
+{
+  "name": "Sigil of Enhancement",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 81267,
+  "chat_link": "[\u0026AgFzPQEA]",
+  "icon": "https://render.guildwars2.com/file/1949610A474B483C03DBF8D0D03D5BBFC3D0D3CC/1691869.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 1234,
+      "buff": {
+        "skill_id": 38782,
+        "description": "Deal .5% extra damage per boon on yourself."
+      },
+      "attributes": []
+    },
+    "suffix": "of Enhancement"
+  }
+}

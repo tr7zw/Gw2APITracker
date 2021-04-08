@@ -1,0 +1,56 @@
+{
+  "name": "Sigil of Exploitation",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 81245,
+  "chat_link": "[\u0026AgFdPQEA]",
+  "icon": "https://render.guildwars2.com/file/495BB24037929BDFB1AF1FBC3A140CE757DEE707/1691871.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 1243,
+      "buff": {
+        "skill_id": 38761,
+        "description": "Deal 5% extra damage to targets below 50% health."
+      },
+      "attributes": []
+    },
+    "suffix": "of Exploitation"
+  }
+}

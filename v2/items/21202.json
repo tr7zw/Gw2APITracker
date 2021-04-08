@@ -1,0 +1,45 @@
+{
+  "name": "Rune of Vampirism",
+  "description": "Double-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 21202,
+  "chat_link": "[\u0026AgHSUgAA]",
+  "icon": "https://render.guildwars2.com/file/F13EECC6AED473604A097A5DBB0861E3410702EF/220724.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+25 Power",
+      "+35 Vitality",
+      "+50 Power",
+      "+65 Vitality",
+      "+100 Power",
+      "+10% Maximum Health; restore 10% of your health upon killing a foe."
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of Vampirism"
+  }
+}

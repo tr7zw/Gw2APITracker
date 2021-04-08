@@ -1,0 +1,45 @@
+{
+  "name": "Rune of the Elementalist",
+  "description": "",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 21208,
+  "chat_link": "[\u0026AgHYUgAA]",
+  "icon": "https://render.guildwars2.com/file/F321ABCA3954145A4A17046D6170767740674866/220730.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+25 Power",
+      "+35 Condition Damage",
+      "+50 Power",
+      "+65 Condition Damage",
+      "+100 Power",
+      "+125 Condition Damage; +5% Condition Duration"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Elementalist"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Rune of the Ranger",
+  "description": "Double-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 21207,
+  "chat_link": "[\u0026AgHXUgAA]",
+  "icon": "https://render.guildwars2.com/file/74190770191950B5CD9439B93B487816959E9D3B/220729.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+25 Precision",
+      "+35 Ferocity",
+      "+50 Precision",
+      "+65 Ferocity",
+      "+100 Precision",
+      "+7% damage while you have an active companion."
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Ranger"
+  }
+}

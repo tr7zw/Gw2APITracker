@@ -1,0 +1,56 @@
+{
+  "name": "Sigil of Agility",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 81238,
+  "chat_link": "[\u0026AgFWPQEA]",
+  "icon": "https://render.guildwars2.com/file/EBC49ABB26A3097F0A4E4C359CDD0B3804BF7D3D/1201534.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 1260,
+      "buff": {
+        "skill_id": 38747,
+        "description": "Gain 5 seconds of swiftness and 1 second of quickness when you swap to this weapon while in combat.\u003cbr\u003e\u003cc\u003d@reminder\u003e(Cooldown: 18 seconds)\u003c/c\u003e"
+      },
+      "attributes": []
+    },
+    "suffix": "of Agility"
+  }
+}

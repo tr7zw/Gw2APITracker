@@ -1,0 +1,45 @@
+{
+  "name": "Rune of the Revenant",
+  "description": "Double-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 70651,
+  "chat_link": "[\u0026AgH7EwEA]",
+  "icon": "https://render.guildwars2.com/file/3C07D12B7B55004FA51C5D4DC20794329BE023B5/1201526.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+8 to All Stats",
+      "+10 to All Stats",
+      "+12 to All Stats",
+      "+14 to All Stats",
+      "+16 to All Stats",
+      "+18 to All Stats; gain 2 seconds of resistance after using a healing skill. \u003cc\u003d@reminder\u003e(Cooldown: 10 Seconds)\u003c/c\u003e"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Revenant"
+  }
+}

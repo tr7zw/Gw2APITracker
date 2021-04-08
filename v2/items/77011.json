@@ -1,0 +1,45 @@
+{
+  "name": "Rune of the Reaper",
+  "description": "Double-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 77011,
+  "chat_link": "[\u0026AgHTLAEA]",
+  "icon": "https://render.guildwars2.com/file/4A990939E313EC37284DF1B1435435A7CE036930/1201525.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+25 Power",
+      "+35 Toughness",
+      "+50 Power",
+      "+65 Toughness",
+      "+100 Power",
+      "+125 Toughness; chill enemies within a 360 radius for 1 second after executing a shout skill."
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Reaper"
+  }
+}

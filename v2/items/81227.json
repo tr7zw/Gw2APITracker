@@ -1,0 +1,56 @@
+{
+  "name": "Sigil of Purging",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 81227,
+  "chat_link": "[\u0026AgFLPQEA]",
+  "icon": "https://render.guildwars2.com/file/A80E0697385EAA40B245B752A13A322AAA795BB6/1691877.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 1242,
+      "buff": {
+        "skill_id": 38753,
+        "description": "On hit remove a condition.\u003cbr\u003e\u003cc\u003d@reminder\u003e(Cooldown: 10 seconds)\u003c/c\u003e"
+      },
+      "attributes": []
+    },
+    "suffix": "of Purging"
+  }
+}

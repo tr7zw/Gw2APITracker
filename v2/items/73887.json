@@ -1,0 +1,45 @@
+{
+  "name": "Rune of the Dragonhunter",
+  "description": "Double-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 73887,
+  "chat_link": "[\u0026AgGfIAEA]",
+  "icon": "https://render.guildwars2.com/file/E698E699D9A75AC90CA47A3FBA0259216C29041D/1201528.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+25 Ferocity",
+      "+35 Power",
+      "+50 Ferocity",
+      "+65 Power",
+      "+100 Ferocity",
+      "Apply 5 stacks of might for 8 seconds when you place a trap."
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Dragonhunter"
+  }
+}

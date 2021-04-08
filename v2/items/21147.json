@@ -1,0 +1,56 @@
+{
+  "name": "Sigil of Fallibility",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 21147,
+  "chat_link": "[\u0026AgGbUgAA]",
+  "icon": "https://render.guildwars2.com/file/AA98FEEFAA64E140F7FEBB09505E3CCB516B3BE3/1691873.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 1241,
+      "buff": {
+        "skill_id": 38759,
+        "description": "On Hit: Inflict Vulnerability (10 seconds)\u003cbr\u003e\u003cc\u003d@reminder\u003e(Cooldown: 2 seconds)\u003c/c\u003e"
+      },
+      "attributes": []
+    },
+    "suffix": "of Fallibility"
+  }
+}

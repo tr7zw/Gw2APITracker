@@ -1,0 +1,56 @@
+{
+  "name": "Sigil of Separation",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 81244,
+  "chat_link": "[\u0026AgFcPQEA]",
+  "icon": "https://render.guildwars2.com/file/FBB0B5BC442470D22CE90F17FEBC67F23D55729E/1691881.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 1256,
+      "buff": {
+        "skill_id": 38770,
+        "description": "Deal 5% extra damage to targets more than 500 distance away."
+      },
+      "attributes": []
+    },
+    "suffix": "of Separation"
+  }
+}

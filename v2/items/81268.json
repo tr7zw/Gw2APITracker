@@ -1,0 +1,56 @@
+{
+  "name": "Sigil of Exposure",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 81268,
+  "chat_link": "[\u0026AgF0PQEA]",
+  "icon": "https://render.guildwars2.com/file/DC928014E60A7B7E49E5B9944EE9F175516FF7CA/1691872.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 1253,
+      "buff": {
+        "skill_id": 38741,
+        "description": "Your next attack after you swap to this weapon while in combat inflicts 5 stacks of vulnerability for 5 seconds.\u003cbr\u003e\u003cc\u003d@reminder\u003e(Cooldown: 9 seconds)\u003c/c\u003e"
+      },
+      "attributes": []
+    },
+    "suffix": "of Exposure"
+  }
+}

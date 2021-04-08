@@ -1,0 +1,45 @@
+{
+  "name": "Rune of the Scholar",
+  "description": "Double-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 21215,
+  "chat_link": "[\u0026AgHfUgAA]",
+  "icon": "https://render.guildwars2.com/file/4378ABC0415950DAC6A05C76920392D72E242EC2/220736.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+25 Power",
+      "+35 Ferocity",
+      "+50 Power",
+      "+65 Ferocity",
+      "+100 Power",
+      "+125 Ferocity; increase damage by 5% while your health is above 90%."
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Scholar"
+  }
+}

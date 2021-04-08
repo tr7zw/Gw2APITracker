@@ -1,0 +1,45 @@
+{
+  "name": "Rune of Evasion",
+  "description": "Double-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 73911,
+  "chat_link": "[\u0026AgG3IAEA]",
+  "icon": "https://render.guildwars2.com/file/32C4042A0F1D53041C4190760B7BCA1FDADA90E1/866849.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+25 Ferocity",
+      "+4% Swiftness Duration",
+      "+50 Ferocity",
+      "+6% Swiftness Duration",
+      "+100 Ferocity",
+      "+125 ferocity; gain swiftness for 6 seconds after evading an attack. \u003cc\u003d@reminder\u003e Cooldown: 1 second.\u003c/c\u003e"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of Evasion"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Rune of Fire",
+  "description": "Double-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 21180,
+  "chat_link": "[\u0026AgG8UgAA]",
+  "icon": "https://render.guildwars2.com/file/6967534DA6E09150241DC411B0F4A4B415520FF7/220702.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+25 Power",
+      "+4% Might Duration",
+      "+50 Power",
+      "Gain fire aura for 4 seconds when entering combat.",
+      "+100 Power",
+      "+10% Burning Duration; increase damage by 10% while fire aura is active."
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of Fire"
+  }
+}

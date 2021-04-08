@@ -1,0 +1,56 @@
+{
+  "name": "Sigil of Confusion",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 81235,
+  "chat_link": "[\u0026AgFTPQEA]",
+  "icon": "https://render.guildwars2.com/file/145FBDBD9303C0FCCA2B2AE27D363691A8B74995/1691867.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 1246,
+      "buff": {
+        "skill_id": 38779,
+        "description": "Increase Inflicted Confusion Duration: 25%"
+      },
+      "attributes": []
+    },
+    "suffix": "of Confusion"
+  }
+}

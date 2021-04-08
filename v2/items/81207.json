@@ -1,0 +1,56 @@
+{
+  "name": "Sigil of Revocation",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 81207,
+  "chat_link": "[\u0026AgE3PQEA]",
+  "icon": "https://render.guildwars2.com/file/9E580940533E081ED864DCDA6860169AD60ED77F/1691879.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 1244,
+      "buff": {
+        "skill_id": 38763,
+        "description": "On hit, remove a boon.\u003cbr\u003e\u003cc\u003d@reminder\u003e(Cooldown: 10 seconds)\u003c/c\u003e"
+      },
+      "attributes": []
+    },
+    "suffix": "of Revocation"
+  }
+}

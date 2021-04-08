@@ -1,0 +1,45 @@
+{
+  "name": "Rune of Scavenging",
+  "description": "",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 65235,
+  "chat_link": "[\u0026AgHT/gAA]",
+  "icon": "https://render.guildwars2.com/file/C9BEBEB9D8ADA51C1D9DEB67A3C079B5037E9833/221082.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+25 Condition Damage",
+      "+35 Vitality",
+      "+50 Condition Damage",
+      "+65 Vitality",
+      "+100 Condition Damage",
+      "+10% Poison Duration; convert 7% of your vitality into condition damage."
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of Scavenging"
+  }
+}

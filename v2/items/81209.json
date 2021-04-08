@@ -1,0 +1,56 @@
+{
+  "name": "Sigil of Opportunity",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 81209,
+  "chat_link": "[\u0026AgE5PQEA]",
+  "icon": "https://render.guildwars2.com/file/F4167663DA46B54E02B91BC4EF390C0C95DAA866/1691876.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 1237,
+      "buff": {
+        "skill_id": 38755,
+        "description": "Deal 5% extra damage to movement-impaired foes."
+      },
+      "attributes": []
+    },
+    "suffix": "of Opportunity"
+  }
+}

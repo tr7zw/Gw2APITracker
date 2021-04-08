@@ -1,0 +1,56 @@
+{
+  "name": "Sigil of Ruthlessness",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 216,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 81221,
+  "chat_link": "[\u0026AgFFPQEA]",
+  "icon": "https://render.guildwars2.com/file/2ACE6E1BF2372CD3BEBE541666A7070BA90F5114/1201530.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 1238,
+      "buff": {
+        "skill_id": 38752,
+        "description": "Gain might when interrupting a foe. \u003cc\u003d@reminder\u003e(Cooldown: 3 seconds)\u003c/c\u003e"
+      },
+      "attributes": []
+    },
+    "suffix": "of Ruthlessness"
+  }
+}

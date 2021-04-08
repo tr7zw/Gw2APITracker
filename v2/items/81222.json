@@ -1,0 +1,56 @@
+{
+  "name": "Sigil of Courage",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 81222,
+  "chat_link": "[\u0026AgFGPQEA]",
+  "icon": "https://render.guildwars2.com/file/A0B9B13A050096A07D960D0AA249F1941F0A65C0/1691868.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 1259,
+      "buff": {
+        "skill_id": 38778,
+        "description": "On hit gain might for 10 seconds.\u003cbr\u003e\u003cc\u003d@reminder\u003e(Cooldown: 2 seconds)\u003c/c\u003e"
+      },
+      "attributes": []
+    },
+    "suffix": "of Courage"
+  }
+}

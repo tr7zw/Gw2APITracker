@@ -1,0 +1,45 @@
+{
+  "name": "Rune of Tormenting",
+  "description": "",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 65233,
+  "chat_link": "[\u0026AgHR/gAA]",
+  "icon": "https://render.guildwars2.com/file/F8BC046221EA49EB3D349B5D3C50DDF33213D8B3/619715.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+25 Condition Damage",
+      "+10% Torment Duration",
+      "+50 Condition Damage",
+      "+20% Torment Duration",
+      "+100 Condition Damage",
+      "+20% Torment Duration; recover a small amount of health after inflicting a foe with torment."
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of Tormenting"
+  }
+}

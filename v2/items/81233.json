@@ -1,0 +1,56 @@
+{
+  "name": "Sigil of Annulment",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 81233,
+  "chat_link": "[\u0026AgFRPQEA]",
+  "icon": "https://render.guildwars2.com/file/036EF1369521B3FD01D7C7F0FA2E61D54C7E3456/1691864.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 1240,
+      "buff": {
+        "skill_id": 38735,
+        "description": "Your next attack after swapping to this weapon while in combat will remove 2 boons from your target.\u003cc\u003d@reminder\u003e(Cooldown: 18 seconds)\u003c/c\u003e"
+      },
+      "attributes": []
+    },
+    "suffix": "of Annulment"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Rune of the Deadeye",
+  "description": "Double-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 85573,
+  "chat_link": "[\u0026AgFFTgEA]",
+  "icon": "https://render.guildwars2.com/file/17E6C846E62E51AFF8B8AF5A33FD53B391BD7E75/1766386.png",
+  "details": {
+    "type": "Rune",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+25 Power",
+      "+35 Ferocity",
+      "+50 Power",
+      "+65 Ferocity",
+      "+100 Power",
+      "Apply 2 stacks of might for 15 seconds when you use a cantrip."
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Deadeye"
+  }
+}

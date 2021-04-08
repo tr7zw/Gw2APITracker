@@ -1,0 +1,45 @@
+{
+  "name": "Rune of the Necromancer",
+  "description": "",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 21204,
+  "chat_link": "[\u0026AgHUUgAA]",
+  "icon": "https://render.guildwars2.com/file/653A411208E7310CDCE628750C39A5C237F5F220/220726.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+25 Condition Damage",
+      "+35 Vitality",
+      "+50 Condition Damage",
+      "+65 Vitality",
+      "+100 Condition Damage",
+      "+125 Condition Damage; +10% Fear Duration"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Necromancer"
+  }
+}

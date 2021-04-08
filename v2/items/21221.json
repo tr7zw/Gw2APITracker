@@ -1,0 +1,45 @@
+{
+  "name": "Rune of Sanctuary",
+  "description": "Double-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 21221,
+  "chat_link": "[\u0026AgHlUgAA]",
+  "icon": "https://render.guildwars2.com/file/7C142C0B6558D2DCDB01E580A04321302F4F5B40/220742.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+25 Vitality",
+      "+2% Boon Duration",
+      "+50 Vitality",
+      "+3% Boon Duration",
+      "+100 Vitality",
+      "Gain a barrier with health equal to 20% of any heals you receive."
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of Sanctuary"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Rune of Exuberance",
+  "description": "",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 65237,
+  "chat_link": "[\u0026AgHV/gAA]",
+  "icon": "https://render.guildwars2.com/file/5FBA08E65429F5AF91CE4776F6AC4972FCF93E50/619710.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+25 Vitality",
+      "3% of vitality is converted to healing power.",
+      "+50 Vitality",
+      "5% of vitality is converted to precision.",
+      "+100 Vitality",
+      "7% of vitality is converted to power."
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of Exuberance"
+  }
+}

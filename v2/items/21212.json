@@ -1,0 +1,45 @@
+{
+  "name": "Rune of the Soldier",
+  "description": "Double-click to apply to a piece of armor.",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 21212,
+  "chat_link": "[\u0026AgHcUgAA]",
+  "icon": "https://render.guildwars2.com/file/643A3C23647EF27F520860F0EFC7FEEB29766B1A/220734.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "HeavyArmor",
+      "LightArmor",
+      "MediumArmor"
+    ],
+    "infusion_upgrade_flags": [],
+    "bonuses": [
+      "+25 Vitality",
+      "+35 Toughness",
+      "+50 Vitality",
+      "+65 Toughness",
+      "+100 Vitality",
+      "+125 Toughness; remove a condition from each affected ally after using a shout skill."
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    },
+    "suffix": "of the Trooper"
+  }
+}

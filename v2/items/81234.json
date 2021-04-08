@@ -1,0 +1,56 @@
+{
+  "name": "Sigil of Misery",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 81234,
+  "chat_link": "[\u0026AgFSPQEA]",
+  "icon": "https://render.guildwars2.com/file/7C5CAECA02B7561C7AB912D511D1093F3F3EF9D0/1691875.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 1235,
+      "buff": {
+        "skill_id": 38784,
+        "description": "Increase Inflicted Torment Duration: 25%"
+      },
+      "attributes": []
+    },
+    "suffix": "of Misery"
+  }
+}

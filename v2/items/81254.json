@@ -1,0 +1,56 @@
+{
+  "name": "Sigil of Cleansing",
+  "type": "UpgradeComponent",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 216,
+  "game_types": [
+    "Pvp",
+    "PvpLobby"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 81254,
+  "chat_link": "[\u0026AgFmPQEA]",
+  "icon": "https://render.guildwars2.com/file/207299F19E3DA1BB9E5F037D277DA2933FD2D65E/1691865.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "ShortBow",
+      "Dagger",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 1247,
+      "buff": {
+        "skill_id": 38731,
+        "description": "Remove 1 condition when you swap to this weapon while in combat. \u003cc\u003d@reminder\u003e(Cooldown: 9 Seconds)\u003c/c\u003e"
+      },
+      "attributes": []
+    },
+    "suffix": "of Cleansing"
+  }
+}
