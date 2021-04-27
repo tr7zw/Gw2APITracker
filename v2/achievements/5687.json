@@ -1,0 +1,64 @@
+{
+  "id": 5687,
+  "name": "Cloaked in Scales",
+  "description": "",
+  "requirement": "Collect the necessary materials to complete the Dragonscale Cape.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 94956
+    },
+    {
+      "type": "Item",
+      "id": 94927
+    },
+    {
+      "type": "Item",
+      "id": 94953
+    },
+    {
+      "type": "Item",
+      "id": 94959
+    },
+    {
+      "type": "Item",
+      "id": 94973
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 94947,
+      "count": 1
+    }
+  ]
+}

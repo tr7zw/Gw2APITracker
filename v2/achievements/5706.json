@@ -1,0 +1,27 @@
+{
+  "id": 5706,
+  "name": "\"Champions\" Mastery",
+  "description": "",
+  "requirement": "Complete  specific \"Champions\" achievement.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "CategoryDisplay",
+    "MoveToTop",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 24,
+      "points": 25
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 94956,
+      "count": 1
+    }
+  ]
+}
