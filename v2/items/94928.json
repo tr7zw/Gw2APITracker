@@ -1,0 +1,75 @@
+{
+  "name": "Primordus Right Eye Infusion",
+  "description": "Double-click to apply to an unused infusion slot. May cause slight discomfort.",
+  "type": "UpgradeComponent",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 10000,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 94928,
+  "chat_link": "[\u0026AgHQcgEA]",
+  "icon": "https://render.guildwars2.com/file/F86B9BD3A92D2D31211274F908F0CC91B0DCD055/2433079.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "ShortBow",
+      "HeavyArmor",
+      "LightArmor",
+      "Dagger",
+      "MediumArmor",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Trinket",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [
+      "Infusion"
+    ],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 1651,
+      "buff": {
+        "skill_id": 62333,
+        "description": "+5 Concentration\n+5 Agony Resistance"
+      },
+      "attributes": [
+        {
+          "attribute": "BoonDuration",
+          "modifier": 5
+        },
+        {
+          "attribute": "AgonyResistance",
+          "modifier": 9
+        }
+      ]
+    },
+    "suffix": ""
+  }
+}
