@@ -1,0 +1,32 @@
+{
+  "name": "Foil-Wrapped Candy",
+  "description": "\u003cc\u003d@flavor\u003eThe sugar in this candy will go straight to your head.\u003c/c\u003e\nConsuming this item leaves a shiny foil candy wrapper, which is highly prized by skritt.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 67352,
+  "chat_link": "[\u0026AgEYBwEA]",
+  "icon": "https://render.guildwars2.com/file/FAACF848A03A6AEA7FE4F50321B57C3347EC0EAA/888390.png",
+  "details": {
+    "type": "Food",
+    "duration_ms": 600000,
+    "apply_count": 1,
+    "name": "",
+    "icon": "https://render.guildwars2.com/file/1EEF9BEF72F9662224E16A947C1852475DF5F104/888391.png",
+    "description": "Grants a random boost that stacks duration if the same boost is awarded more than once."
+  }
+}
