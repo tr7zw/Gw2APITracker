@@ -3,7 +3,7 @@
   "tier": 3,
   "order": 2,
   "name": "Applied Force",
-  "description": "Gain quickness when you gain might at or above the threshold. Quickness grants bonus power.",
+  "description": "Gain stability when you gain might at or above the threshold. Might grants bonus power.",
   "slot": "Major",
   "facts": [
     {
@@ -13,12 +13,18 @@
       "value": 10
     },
     {
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
+      "value": 10,
+      "target": "Power"
+    },
+    {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+      "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
       "duration": 3,
-      "status": "Quickness",
-      "description": "Skills and actions are faster.",
+      "status": "Stability",
+      "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
       "apply_count": 1
     },
     {
@@ -35,12 +41,6 @@
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "value": 10
-    },
-    {
-      "type": "AttributeAdjust",
-      "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
-      "value": 200,
-      "target": "Power"
     }
   ],
   "specialization": 43,

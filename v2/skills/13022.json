@@ -15,17 +15,19 @@
       "dmg_multiplier": 0.55
     },
     {
-      "text": "Damage to Poisoned Enemies",
-      "type": "Damage",
-      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-      "hit_count": 1,
-      "dmg_multiplier": 0.6875
-    },
-    {
       "text": "Number of Bounces",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "value": 3
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+      "duration": 4,
+      "status": "Bleeding",
+      "description": "Deals damage every second; stacks intensity.",
+      "apply_count": 1
     },
     {
       "text": "Combo Finisher",
@@ -35,7 +37,7 @@
       "finisher_type": "Projectile"
     }
   ],
-  "description": "Fire an arrow that bounces between nearby foes and deals increased damage to poisoned enemies.",
+  "description": "Fire an arrow that bounces between nearby foes and inflicts bleeding when striking poisoned enemies.",
   "icon": "https://render.guildwars2.com/file/714625F60FDF0850FAA644B641D90867C1D37B74/103561.png",
   "type": "Weapon",
   "weapon_type": "Shortbow",

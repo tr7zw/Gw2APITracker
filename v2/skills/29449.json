@@ -11,7 +11,7 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
-      "duration": 15,
+      "duration": 5,
       "status": "Fury",
       "description": "Critical Chance increased by 20%; stacks duration.",
       "apply_count": 1
@@ -29,52 +29,40 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-      "duration": 15,
-      "status": "Might",
-      "description": "Increased outgoing damage; stacks intensity.",
-      "apply_count": 3
-    },
-    {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-      "duration": 6,
-      "status": "Might",
-      "description": "Increased outgoing damage; stacks intensity.",
-      "apply_count": 1
-    },
-    {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
-      "duration": 15,
-      "status": "Swiftness",
-      "description": "Movement speed increased by 33%; stacks duration.",
-      "apply_count": 1
-    },
-    {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
-      "duration": 6,
-      "status": "Swiftness",
-      "description": "Movement speed increased by 33%; stacks duration.",
-      "apply_count": 1
-    },
-    {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/BD6C4CEEC95711F20FC62A4CA310C5A6574F9664/2261523.png",
       "duration": 5,
-      "status": "Unblockable",
-      "description": "Your attacks are unblockable",
-      "apply_count": 2
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
+      "apply_count": 6
     },
     {
-      "text": "Radius",
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+      "duration": 5,
+      "status": "Swiftness",
+      "description": "Movement speed increased by 33%; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Allied Target Radius",
       "type": "Distance",
       "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
       "distance": 900
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+      "duration": 5,
+      "status": "Weakness",
+      "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Enemy Target Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 240
     },
     {
       "text": "Number of Targets",
@@ -90,7 +78,7 @@
       "finisher_type": "Blast"
     }
   ],
-  "description": "Grant fury, might, and swiftness to yourself and nearby allies. Your pet\u0027s next few attacks become unblockable.",
+  "description": "Weaken nearby enemies. Grant fury, might, and swiftness to yourself and nearby allies.",
   "icon": "https://render.guildwars2.com/file/2BBB18C54A01FF1D5FF9473EB1059AE491AA98FF/103310.png",
   "flags": [],
   "id": 29449,

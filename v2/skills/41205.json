@@ -30,9 +30,18 @@
       "apply_count": 1
     },
     {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/62BFF65D1CE99B1B2B0928152BCC596EAC0D372B/102887.png",
+      "duration": 3,
+      "status": "Revealed",
+      "description": "You cannot stealth",
+      "apply_count": 1
+    },
+    {
       "text": "Knockdown",
       "type": "Time",
-      "icon": "https://render.guildwars2.com/file/61A6A8A161FB7124336A6ED1FBAF9B1E030166A6/156664.png",
+      "icon": "https://render.guildwars2.com/file/7632087376D36B0D100F1B07BE53F154BC337D7C/2440716.png",
       "duration": 3
     },
     {
@@ -60,7 +69,7 @@
       "value": 2
     }
   ],
-  "description": "Cantrip. Immobilize your target after a short delay and remove their boons. If the foe is your marked target, it is also knocked down.",
+  "description": "Cantrip. Reveal yourself if you are stealthed and immobilize your target after a short delay, while also removing boons. If the foe is your marked target, it is also knocked down.",
   "icon": "https://render.guildwars2.com/file/7A5BD448F1522426E745A539F6200918145AF1A0/1770633.png",
   "type": "Utility",
   "weapon_type": "None",

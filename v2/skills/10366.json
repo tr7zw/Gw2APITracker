@@ -5,7 +5,7 @@
       "text": "Range",
       "type": "Range",
       "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-      "value": 900
+      "value": 360
     },
     {
       "text": "Recharge",
@@ -23,7 +23,7 @@
       "apply_count": 1
     }
   ],
-  "description": "Clone. Create a downed clone of yourself to attack your target.",
+  "description": "Clone. Shadowstep and create a downed clone of yourself to attack foes in range.",
   "icon": "https://render.guildwars2.com/file/317BE10A960E59E65F341518792F71101422E8B4/103762.png",
   "type": "Weapon",
   "weapon_type": "None",
@@ -31,7 +31,9 @@
     "Mesmer"
   ],
   "slot": "Downed_2",
-  "flags": [],
+  "flags": [
+    "GroundTargeted"
+  ],
   "id": 10366,
   "chat_link": "[\u0026Bn4oAAA\u003d]",
   "categories": [

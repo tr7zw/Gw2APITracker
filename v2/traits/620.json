@@ -3,14 +3,16 @@
   "tier": 3,
   "order": 0,
   "name": "Power of the Virtuous",
-  "description": "Deal increased damage for each boon on you. \u003cc\u003d@abilitytype\u003eVirtues\u003c/c\u003e gain reduced recharge.",
+  "description": "Gain condition damage based on your vitality. \u003cc\u003d@abilitytype\u003eVirtues\u003c/c\u003e gain reduced recharge.",
   "slot": "Minor",
   "facts": [
     {
-      "text": "Damage Increase",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-      "percent": 1
+      "text": "Attribute Conversion",
+      "type": "BuffConversion",
+      "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
+      "percent": 10,
+      "source": "Vitality",
+      "target": "ConditionDamage"
     },
     {
       "text": "Recharge Reduced",

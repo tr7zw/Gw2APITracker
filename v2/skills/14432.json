@@ -15,10 +15,25 @@
       "dmg_multiplier": 0.605
     },
     {
-      "text": "Bonus Adrenaline",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/E1E7C4D3A6E62F3D5C9F627CE8175BFB0C614CBE/156652.png",
-      "value": 1
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 0.605
+    },
+    {
+      "text": "Pierces",
+      "type": "NoData",
+      "icon": "https://render.guildwars2.com/file/F833590B593E0C2D4948DFFE9951B91655250052/1770207.png"
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+      "duration": 5,
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
+      "apply_count": 1
     },
     {
       "text": "Combo Finisher",
@@ -28,7 +43,7 @@
       "finisher_type": "Projectile"
     }
   ],
-  "description": "Fire a shot at your target, gaining bonus adrenaline against vulnerable targets.",
+  "description": "Fire a shot at your target. Gain might if you strike a vulnerable target.",
   "icon": "https://render.guildwars2.com/file/FBBFE42D0BD0745F56BF30483240E67F0994562C/103254.png",
   "type": "Weapon",
   "weapon_type": "Rifle",
@@ -43,11 +58,22 @@
   "chat_link": "[\u0026BmA4AAA\u003d]",
   "traited_facts": [
     {
-      "text": "Adrenaline",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/E1E7C4D3A6E62F3D5C9F627CE8175BFB0C614CBE/156652.png",
-      "value": 1,
-      "requires_trait": 1329
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "requires_trait": 1329,
+      "hit_count": 1,
+      "dmg_multiplier": 0.6655,
+      "overrides": 1
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "requires_trait": 1329,
+      "hit_count": 1,
+      "dmg_multiplier": 0.4433,
+      "overrides": 2
     }
   ]
 }

@@ -56,13 +56,19 @@
       "target": "Healing"
     },
     {
+      "text": "Interval",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+      "duration": 1
+    },
+    {
       "text": "Combo Field",
       "type": "ComboField",
       "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
       "field_type": "Fire"
     }
   ],
-  "description": "Legendary Renegade. Summon Lieutenant Ofela Soulcleave to grant your allies\u0027 strikes incredible bloodthirst, inflicting damage and restoring health.\nLieutenant Soulcleave can only empower players.",
+  "description": "Legendary Renegade. Summon Lieutenant Ofela Soulcleave to grant your allies\u0027 strikes incredible bloodthirst, inflicting damage and restoring health.\nLieutenant Soulcleave can only empower players to siphon life once per interval, and does not benefit nonplayers.",
   "icon": "https://render.guildwars2.com/file/CFD1582E6B180CA2DE6AD205981CBBAFC7480294/1770589.png",
   "type": "Elite",
   "weapon_type": "None",

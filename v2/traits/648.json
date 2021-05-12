@@ -2,8 +2,8 @@
   "id": 648,
   "tier": 1,
   "order": 0,
-  "name": "Zealot\u0027s Speed",
-  "description": "Cast Lesser Symbol of Wrath when you are struck while below the health threshold.",
+  "name": "Zealot\u0027s Resolution",
+  "description": "Cast Lesser Symbol of Resolution when you are struck while below the health threshold.",
   "slot": "Minor",
   "facts": [
     {
@@ -15,7 +15,7 @@
   ],
   "skills": [
     {
-      "name": "Lesser Symbol of Wrath",
+      "name": "Lesser Symbol of Resolution",
       "facts": [
         {
           "text": "Recharge",
@@ -40,10 +40,10 @@
         {
           "text": "Apply Buff/Condition",
           "type": "Buff",
-          "icon": "https://render.guildwars2.com/file/27F233F7D4CE4E9EFE040E3D665B7B0643557B6E/102883.png",
+          "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
           "duration": 2,
-          "status": "Retaliation",
-          "description": "Reflect incoming damage back to its source; stacks duration.",
+          "status": "Resolution",
+          "description": "Incoming condition damage decreased by 33%; stacks duration.",
           "apply_count": 1
         },
         {
@@ -77,7 +77,7 @@
           "field_type": "Light"
         }
       ],
-      "description": "Symbol. Sear a mystic symbol into the target area, damaging foes and granting retaliation to allies.",
+      "description": "Symbol. Sear a mystic symbol into the target area, damaging foes and granting resolution to allies.",
       "icon": "https://render.guildwars2.com/file/E315FF56624F5B2BB8BF51D00FA716FA4936F037/103268.png",
       "flags": [],
       "id": 13677,
@@ -107,10 +107,10 @@
         {
           "text": "Apply Buff/Condition",
           "type": "Buff",
-          "icon": "https://render.guildwars2.com/file/27F233F7D4CE4E9EFE040E3D665B7B0643557B6E/102883.png",
+          "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
           "duration": 2,
-          "status": "Retaliation",
-          "description": "Reflect incoming damage back to its source; stacks duration.",
+          "status": "Resolution",
+          "description": "Incoming condition damage decreased by 33%; stacks duration.",
           "apply_count": 1,
           "requires_trait": 604,
           "overrides": 3

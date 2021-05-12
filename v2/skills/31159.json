@@ -5,37 +5,13 @@
       "text": "Recharge",
       "type": "Recharge",
       "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 35
-    },
-    {
-      "text": "Pulses",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "value": 6
+      "value": 25
     },
     {
       "text": "Conditions Removed",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "value": 3
-    },
-    {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-      "duration": 8,
-      "status": "Burning",
-      "description": "Deals damage every second; stacks intensity.",
-      "apply_count": 2
-    },
-    {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/646CD9EA044A959A0A0D6143B29707EADB31B2B9/103675.png",
-      "duration": 0,
-      "status": "Purging Flames",
-      "description": "Condition duration is reduced by 33%.",
-      "apply_count": 1
+      "value": 1
     },
     {
       "text": "Duration",
@@ -47,7 +23,7 @@
       "text": "Radius",
       "type": "Distance",
       "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-      "distance": 240
+      "distance": 180
     },
     {
       "text": "Number of Targets",
@@ -56,13 +32,28 @@
       "value": 5
     },
     {
+      "text": "Pulses",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 6
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+      "duration": 4,
+      "status": "Burning",
+      "description": "Deals damage every second; stacks intensity.",
+      "apply_count": 6
+    },
+    {
       "text": "Combo Field",
       "type": "ComboField",
       "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
       "field_type": "Fire"
     }
   ],
-  "description": "Consecration. Create a ring of fire that burns foes when it first forms and again whenever foes cross it. Allies inside the ring lose conditions every pulse.",
+  "description": "Consecration. Create a ring of fire. With each pulse, burn foes while removing conditions from allies inside the area of effect.",
   "icon": "https://render.guildwars2.com/file/646CD9EA044A959A0A0D6143B29707EADB31B2B9/103675.png",
   "type": "Utility",
   "weapon_type": "None",
@@ -78,20 +69,31 @@
   ],
   "traited_facts": [
     {
-      "text": "Pulses",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "value": 8,
-      "requires_trait": 617,
-      "overrides": 1
-    },
-    {
       "text": "Duration",
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
       "duration": 7,
       "requires_trait": 617,
+      "overrides": 2
+    },
+    {
+      "text": "Pulses",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 8,
+      "requires_trait": 617,
       "overrides": 5
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+      "duration": 4,
+      "status": "Burning",
+      "description": "Deals damage every second; stacks intensity.",
+      "apply_count": 8,
+      "requires_trait": 617,
+      "overrides": 6
     }
   ]
 }

@@ -3,7 +3,7 @@
   "tier": 2,
   "order": 2,
   "name": "Great Fortitude",
-  "description": "Gain vitality based on a percentage of your power.",
+  "description": "Gain vitality and ferocity based on a percentage of your power.",
   "slot": "Major",
   "facts": [
     {
@@ -13,6 +13,14 @@
       "percent": 10,
       "source": "Power",
       "target": "Vitality"
+    },
+    {
+      "text": "Attribute Conversion",
+      "type": "BuffConversion",
+      "icon": "https://render.guildwars2.com/file/CAE8B4C43FF9D203FA55016700420A0454DFFE02/2229325.png",
+      "percent": 10,
+      "source": "Power",
+      "target": "CritDamage"
     }
   ],
   "specialization": 4,

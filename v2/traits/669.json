@@ -2,8 +2,8 @@
   "id": 669,
   "tier": 2,
   "order": 2,
-  "name": "Chaotic Dampening",
-  "description": "Chaos armor grants protection. Staff and trident skills gain reduced recharge.",
+  "name": "Chaotic Potency",
+  "description": "Gain condition damage. Gain additional condition damage while wielding a staff. Staff and trident skills gain reduced recharge.",
   "slot": "Major",
   "facts": [
     {
@@ -13,31 +13,16 @@
       "percent": 20
     },
     {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/FEF378D8A91D0523A04A380ED0547F0BF944A967/2261518.png",
-      "duration": 0,
-      "status": "Chaos Aura",
-      "description": "Give yourself random boons and your foe random conditions whenever you are struck.",
-      "apply_count": 1
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
+      "value": 120,
+      "target": "ConditionDamage"
     },
     {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
-      "duration": 4,
-      "status": "Protection",
-      "description": "Incoming damage decreased by 33%; stacks duration.",
-      "apply_count": 1
-    },
-    {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
-      "duration": 3,
-      "status": "Protection",
-      "description": "Incoming damage decreased by 33%; stacks duration.",
-      "apply_count": 1
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
+      "value": 120,
+      "target": "ConditionDamage"
     }
   ],
   "specialization": 45,

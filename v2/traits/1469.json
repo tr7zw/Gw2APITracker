@@ -3,7 +3,7 @@
   "tier": 1,
   "order": 0,
   "name": "Leg Specialist",
-  "description": "Immobilize a target when you cripple them with a skill. Deal more damage to foes affected with movement-impairing conditions.",
+  "description": "Immobilize a target when you cripple them with a skill. Deal increased strike damage to foes affected with movement-impairing conditions.",
   "slot": "Major",
   "facts": [
     {
@@ -20,6 +20,12 @@
       "status": "Immobile",
       "description": "Unable to move; stacks duration.",
       "apply_count": 1
+    },
+    {
+      "text": "Damage Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 10
     },
     {
       "text": "Damage Increase",

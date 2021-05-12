@@ -3,9 +3,15 @@
   "tier": 1,
   "order": 0,
   "name": "Inspired Virtue",
-  "description": "\u003cc\u003d@abilitytype\u003eVirtues\u003c/c\u003e apply boons to allies when activated.",
+  "description": "\u003cc\u003d@abilitytype\u003eVirtues\u003c/c\u003e apply boons to allies when activated. Deal increased strike damage for each boon on you.",
   "slot": "Minor",
   "facts": [
+    {
+      "text": "Bonus Damage per Boon",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "percent": 1
+    },
     {
       "text": "Apply Buff/Condition",
       "type": "PrefixedBuff",
@@ -42,7 +48,7 @@
       "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
       "duration": 5,
       "status": "Protection",
-      "description": "Incoming damage decreased by 33%; stacks duration.",
+      "description": "Incoming strike damage decreased by 33%; stacks duration.",
       "apply_count": 1,
       "prefix": {
         "text": "Apply Buff/Condition",

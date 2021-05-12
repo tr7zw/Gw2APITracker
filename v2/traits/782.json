@@ -3,14 +3,26 @@
   "tier": 3,
   "order": 0,
   "name": "Blood Bank",
-  "description": "Health gained over your maximum health is converted to barrier.\u003cbr\u003e\u003cc\u003d@reminder\u003eRegeneration effects do not trigger this trait.\u003c/c\u003e",
+  "description": "Gaining health grants a proportionate amount of barrier. Conversion amount increases while at full health.\u003cbr\u003e\u003cc\u003d@reminder\u003eRegeneration effects do not trigger this trait.\u003c/c\u003e",
   "slot": "Major",
   "facts": [
+    {
+      "text": "Full Health Healing Conversion Rate",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "percent": 100
+    },
     {
       "text": "Healing Conversion Rate",
       "type": "Percent",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "percent": 100
+      "percent": 15
+    },
+    {
+      "text": "Healing Conversion Rate",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "percent": 10
     }
   ],
   "specialization": 19,

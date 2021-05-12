@@ -3,16 +3,8 @@
   "tier": 1,
   "order": 2,
   "name": "Blood Bond",
-  "description": "Cast Lesser Signet of Vampirism on your foe when you inflict bleeding on them that matches or exceeds the threshold.",
+  "description": "Cast Lesser Signet of Vampirism when you inflict bleeding on a foe that already has at least three stacks of bleeding.",
   "slot": "Major",
-  "facts": [
-    {
-      "text": "Number of Bleeding Stacks",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "value": 4
-    }
-  ],
   "skills": [
     {
       "name": "Lesser Signet of Vampirism",
@@ -27,7 +19,7 @@
           "text": "Recharge",
           "type": "Recharge",
           "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-          "value": 20
+          "value": 16
         },
         {
           "text": "Apply Buff/Condition",

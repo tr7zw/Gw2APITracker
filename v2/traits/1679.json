@@ -133,7 +133,7 @@
         {
           "text": "Knockdown",
           "type": "Time",
-          "icon": "https://render.guildwars2.com/file/61A6A8A161FB7124336A6ED1FBAF9B1E030166A6/156664.png",
+          "icon": "https://render.guildwars2.com/file/7632087376D36B0D100F1B07BE53F154BC337D7C/2440716.png",
           "duration": 2
         },
         {
@@ -230,7 +230,7 @@
         {
           "text": "Knockback",
           "type": "Distance",
-          "icon": "https://render.guildwars2.com/file/9A6A02DCA260929CD14B4A4402266006981FF51B/648509.png",
+          "icon": "https://render.guildwars2.com/file/400B7FD39724FBD700B94AB8AB52B5B9167646F4/2440715.png",
           "distance": 300
         },
         {
@@ -306,7 +306,7 @@
           "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
           "duration": 5,
           "status": "Protection",
-          "description": "Incoming damage decreased by 33%; stacks duration.",
+          "description": "Incoming strike damage decreased by 33%; stacks duration.",
           "apply_count": 1
         },
         {
@@ -315,16 +315,16 @@
           "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
           "duration": 3,
           "status": "Protection",
-          "description": "Incoming damage decreased by 33%; stacks duration.",
+          "description": "Incoming strike damage decreased by 33%; stacks duration.",
           "apply_count": 1
         },
         {
           "text": "Apply Buff/Condition",
           "type": "Buff",
           "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
-          "duration": 2,
+          "duration": 3,
           "status": "Resistance",
-          "description": "Conditions currently on you are ineffective; stacks duration.",
+          "description": "Nondamaging conditions currently on you are ineffective; stacks duration.",
           "apply_count": 1
         },
         {
@@ -350,7 +350,7 @@
           "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
           "duration": 5,
           "status": "Protection",
-          "description": "Incoming damage decreased by 33%; stacks duration.",
+          "description": "Incoming strike damage decreased by 33%; stacks duration.",
           "apply_count": 1,
           "requires_trait": 1679,
           "overrides": 2
@@ -361,7 +361,7 @@
           "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
           "duration": 3,
           "status": "Protection",
-          "description": "Incoming damage decreased by 33%; stacks duration.",
+          "description": "Incoming strike damage decreased by 33%; stacks duration.",
           "apply_count": 1,
           "requires_trait": 1679,
           "overrides": 3
@@ -393,7 +393,7 @@
         {
           "text": "Launch",
           "type": "Distance",
-          "icon": "https://render.guildwars2.com/file/CB330EF25C62C05F1800A1C507B6AE4944551746/156653.png",
+          "icon": "https://render.guildwars2.com/file/B4087CEB5CC006172E0A09DADC5452807A0CA3F7/2440712.png",
           "distance": 600
         },
         {
@@ -447,7 +447,7 @@
         {
           "text": "Launch",
           "type": "Distance",
-          "icon": "https://render.guildwars2.com/file/CB330EF25C62C05F1800A1C507B6AE4944551746/156653.png",
+          "icon": "https://render.guildwars2.com/file/B4087CEB5CC006172E0A09DADC5452807A0CA3F7/2440712.png",
           "distance": 600,
           "requires_trait": 1679,
           "overrides": 3
@@ -570,7 +570,7 @@
           "type": "Buff",
           "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
           "status": "Torment",
-          "description": "Deals damage every second. Deals additional damage to moving foes. Stacks intensity."
+          "description": "Deals damage every second. Deals additional damage to foes that aren\u0027t moving. Stacks intensity."
         }
       ],
       "description": "Gadget. Activate your A.E.D., enabling the system to heal you after a brief period of time. If you take lethal damage while A.E.D. is active, it ends and heals you for a large amount, grants shock aura, and removes conditions.",

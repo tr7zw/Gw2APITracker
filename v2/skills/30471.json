@@ -24,10 +24,15 @@
       "apply_count": 1
     },
     {
-      "text": "Maximum Additional Bounces",
+      "text": "Number of Targets",
       "type": "Number",
-      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "value": 1
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    },
+    {
+      "text": "Pierces",
+      "type": "NoData",
+      "icon": "https://render.guildwars2.com/file/F833590B593E0C2D4948DFFE9951B91655250052/1770207.png"
     },
     {
       "text": "Combo Finisher",
@@ -37,7 +42,7 @@
       "finisher_type": "Projectile"
     }
   ],
-  "description": "Fire an arrow that can bounce to enemies behind your target. If an arrow hits a second target, all enemies struck are crippled.",
+  "description": "Fire an arrow that pierces enemies. If the arrow hits a second target, all enemies struck are crippled.",
   "icon": "https://render.guildwars2.com/file/080363673FCB09916AF7D035C31327C105EE219E/1012869.png",
   "type": "Weapon",
   "weapon_type": "Longbow",

@@ -36,7 +36,7 @@
       "id": 588,
       "buff": {
         "skill_id": 15750,
-        "description": "+13 Condition Damage\n+13 Precision\n+13 Toughness\n+13 Power\n+13 Vitality\n+13 Healing Power\n+13 Ferocity"
+        "description": "+13 Condition Damage\n+13 Precision\n+13 Toughness\n+13 Power\n+13 Vitality\n+13 Healing Power\n+13 Ferocity\n+13 Concentration\n+13 Expertise"
       },
       "attributes": [
         {
@@ -65,6 +65,14 @@
         },
         {
           "attribute": "ConditionDamage",
+          "modifier": 50
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 50
+        },
+        {
+          "attribute": "ConditionDuration",
           "modifier": 50
         }
       ]

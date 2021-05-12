@@ -2,27 +2,33 @@
   "id": 1706,
   "tier": 3,
   "order": 2,
-  "name": "Bewildering Ambush",
-  "description": "Stealing also applies confusion.",
+  "name": "Deadly Ambush",
+  "description": "Stealing also applies bleeding. Bleeding you inflict deals more damage.",
   "slot": "Major",
   "facts": [
     {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
-      "duration": 5,
-      "status": "Confusion",
-      "description": "Damage received on skill activation; stacks intensity.",
-      "apply_count": 5
+      "text": "Damage Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 25
     },
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
-      "duration": 3,
-      "status": "Confusion",
-      "description": "Damage received on skill activation; stacks intensity.",
-      "apply_count": 6
+      "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+      "duration": 10,
+      "status": "Bleeding",
+      "description": "Deals damage every second; stacks intensity.",
+      "apply_count": 3
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+      "duration": 6,
+      "status": "Bleeding",
+      "description": "Deals damage every second; stacks intensity.",
+      "apply_count": 3
     }
   ],
   "specialization": 44,

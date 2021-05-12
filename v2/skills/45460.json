@@ -2,19 +2,58 @@
   "name": "Mantra of Lore",
   "facts": [
     {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 450
+    },
+    {
       "text": "Recharge",
       "type": "Recharge",
       "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 25
+      "value": 1
     },
     {
-      "text": "Number of Casts",
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 180
+    },
+    {
+      "text": "Number of Allied Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    },
+    {
+      "text": "Charge Recovery",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "duration": 12
+    },
+    {
+      "text": "Conditions Removed",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "value": 3
+      "value": 2
+    },
+    {
+      "text": "Conditions Removed",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+      "duration": 5,
+      "status": "Regeneration",
+      "description": "Gain health every second; stacks duration.",
+      "apply_count": 1
     }
   ],
-  "description": "Mantra. Recite the ritual of cleansing, removing conditions and speeding recovery.\nThe final charge of this ability is more powerful.",
+  "description": "Mantra. Chant the ritual of cleansing, removing conditions and speeding recovery.",
   "icon": "https://render.guildwars2.com/file/B304FBFE03030A1E2A07D8150CFB2A9EA24BE37E/1770487.png",
   "type": "Utility",
   "weapon_type": "None",
@@ -22,12 +61,21 @@
     "Guardian"
   ],
   "slot": "Utility",
-  "flip_skill": 42864,
   "flags": [],
   "specialization": 62,
   "id": 45460,
   "chat_link": "[\u0026BpSxAAA\u003d]",
   "categories": [
     "Mantra"
+  ],
+  "traited_facts": [
+    {
+      "text": "Charge Recovery",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "duration": 10,
+      "requires_trait": 2063,
+      "overrides": 4
+    }
   ]
 }

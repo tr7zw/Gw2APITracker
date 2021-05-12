@@ -3,40 +3,32 @@
   "tier": 2,
   "order": 1,
   "name": "Chaotic Transference",
-  "description": "Gain condition damage based on your toughness. Gain expertise based on your concentration.",
+  "description": "Chaos Armor grants protection when cast. When you gain protection, also gain regeneration.",
   "slot": "Major",
   "facts": [
     {
-      "text": "Attribute Conversion",
-      "type": "BuffConversion",
-      "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
-      "percent": 7,
-      "source": "Toughness",
-      "target": "ConditionDamage"
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 15
     },
     {
-      "text": "Attribute Conversion",
-      "type": "BuffConversion",
-      "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
-      "percent": 13,
-      "source": "Toughness",
-      "target": "ConditionDamage"
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+      "duration": 5,
+      "status": "Regeneration",
+      "description": "Gain health every second; stacks duration.",
+      "apply_count": 1
     },
     {
-      "text": "Attribute Conversion",
-      "type": "BuffConversion",
-      "icon": "https://render.guildwars2.com/file/4977CD5BAF0A7B6412DCC775C3909F7D4EFE4C65/2229319.png",
-      "percent": 13,
-      "source": "BoonDuration",
-      "target": "ConditionDuration"
-    },
-    {
-      "text": "Attribute Conversion",
-      "type": "BuffConversion",
-      "icon": "https://render.guildwars2.com/file/4977CD5BAF0A7B6412DCC775C3909F7D4EFE4C65/2229319.png",
-      "percent": 5,
-      "source": "BoonDuration",
-      "target": "ConditionDuration"
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+      "duration": 3,
+      "status": "Protection",
+      "description": "Incoming strike damage decreased by 33%; stacks duration.",
+      "apply_count": 1
     }
   ],
   "specialization": 45,
