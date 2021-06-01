@@ -1,0 +1,39 @@
+{
+  "id": 5807,
+  "name": "Legacy of the Llama Locator",
+  "description": "",
+  "requirement": "Find the legendary llamas hidden in Dry Top.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Abandoned Mine Llama"
+    },
+    {
+      "type": "Text",
+      "text": "Uplands Llama"
+    },
+    {
+      "type": "Text",
+      "text": "Challenger Cliffs Llama"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 20323,
+      "count": 3
+    }
+  ]
+}

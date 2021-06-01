@@ -1,0 +1,43 @@
+{
+  "name": "Slayer\u0027s Armor",
+  "type": "Armor",
+  "level": 39,
+  "rarity": "Fine",
+  "vendor_value": 56,
+  "default_skin": 1501,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6342,
+  "chat_link": "[\u0026AgHGGAAA]",
+  "icon": "https://render.guildwars2.com/file/06BB90BDF7AEC6C575BEB1A32C0D704BE25AE7A8/61099.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 110,
+    "infusion_slots": [],
+    "attribute_adjustment": 105.984,
+    "infix_upgrade": {
+      "id": 142,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 37
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 26
+        }
+      ]
+    }
+  }
+}
