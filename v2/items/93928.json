@@ -1,7 +1,7 @@
 {
   "name": "Draconic Wings Backpack and Glider Combo",
   "description": "This package contains the Draconic Wings Glider and Draconic Wings Backpack.",
-  "type": "Container",
+  "type": "Consumable",
   "level": 0,
   "rarity": "Masterwork",
   "vendor_value": 0,
@@ -25,6 +25,9 @@
   "chat_link": "[\u0026AgHobgEA]",
   "icon": "https://render.guildwars2.com/file/4562523065C14AC6E9B9A67D0EB4C0BF9660356D/2286354.png",
   "details": {
-    "type": "Immediate"
+    "type": "Transmutation",
+    "skins": [
+      9364
+    ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "Macaw Wings Glider Combo",
   "description": "This package contains the Macaw Feather Wings Glider and Macaw Feather Wings Backpiece.",
-  "type": "Container",
+  "type": "Consumable",
   "level": 0,
   "rarity": "Masterwork",
   "vendor_value": 0,
@@ -25,6 +25,9 @@
   "chat_link": "[\u0026AgHNWAEA]",
   "icon": "https://render.guildwars2.com/file/5ABD981B00C0D80DFAF246EBDDA23FBA1DB8F79D/1431703.png",
   "details": {
-    "type": "Immediate"
+    "type": "Transmutation",
+    "skins": [
+      6744
+    ]
   }
 }

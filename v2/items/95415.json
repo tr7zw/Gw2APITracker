@@ -1,0 +1,55 @@
+{
+  "name": "Dreambound Scepter",
+  "description": "\u003cc\u003d@flavor\u003eGains strength based on the wielder\u0027s level.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "default_skin": 6006,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "NotUpgradeable",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95415,
+  "chat_link": "[\u0026AgG3dAEA]",
+  "icon": "https://render.guildwars2.com/file/293D191D73D6733B3AF80EA296FB2A510E7B7529/991469.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 133,
+    "max_power": 150,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 329.36,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 6
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 4
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

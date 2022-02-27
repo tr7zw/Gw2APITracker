@@ -1,7 +1,7 @@
 {
   "name": "Dynamics Exo-Suit Glider Backpack Combo",
   "description": "This package contains the Dynamics Glider Module and Dynamics Backpiece.",
-  "type": "Container",
+  "type": "Consumable",
   "level": 0,
   "rarity": "Masterwork",
   "vendor_value": 0,
@@ -25,6 +25,9 @@
   "chat_link": "[\u0026AgHDWAEA]",
   "icon": "https://render.guildwars2.com/file/575C023916452AFB942F03040B56F2B36AC738FE/1710883.png",
   "details": {
-    "type": "Immediate"
+    "type": "Transmutation",
+    "skins": [
+      7285
+    ]
   }
 }

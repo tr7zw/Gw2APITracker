@@ -1,7 +1,7 @@
 {
   "name": "Alchemist Backpack and Glider Combo",
   "description": "This package contains the Alchemist Glider and Alchemist Backpack.",
-  "type": "Container",
+  "type": "Consumable",
   "level": 0,
   "rarity": "Masterwork",
   "vendor_value": 0,
@@ -25,6 +25,9 @@
   "chat_link": "[\u0026AgENbwEA]",
   "icon": "https://render.guildwars2.com/file/0CA2FA4248E1180847D070C4AF92C5FCF1097B6C/2256359.png",
   "details": {
-    "type": "Immediate"
+    "type": "Transmutation",
+    "skins": [
+      9211
+    ]
   }
 }

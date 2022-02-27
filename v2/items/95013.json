@@ -1,0 +1,65 @@
+{
+  "name": "Fractal Troubleshooter\u0027s Star",
+  "description": "\u003cc\u003d@flavor\u003eThis badge deputizes the bearer as a Consortium Troubleshooter (Unpaid) for purposes of fractal stabilization.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 413,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "NotUpgradeable",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95013,
+  "chat_link": "[\u0026AgElcwEA]",
+  "icon": "https://render.guildwars2.com/file/001DD0CE6CC0A1D17E0E47E66B1041C29E2DA04F/1767530.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ],
+        "item_id": 49433
+      }
+    ],
+    "attribute_adjustment": 224.07,
+    "infix_upgrade": {
+      "id": 591,
+      "buff": {
+        "skill_id": 15744,
+        "description": "+32 Power\n+18 Ferocity\n+18 Vitality"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 110
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 18
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 74
+        }
+      ]
+    }
+  }
+}

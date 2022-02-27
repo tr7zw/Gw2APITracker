@@ -58,5 +58,18 @@
   "chat_link": "[\u0026BkI4AAA\u003d]",
   "categories": [
     "Shout"
+  ],
+  "traited_facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/E1E7C4D3A6E62F3D5C9F627CE8175BFB0C614CBE/156652.png",
+      "duration": 15,
+      "status": "Positive Flow",
+      "description": "Gain flow per second.",
+      "apply_count": 1,
+      "requires_trait": 2226,
+      "overrides": 6
+    }
   ]
 }

@@ -109,6 +109,23 @@
       "status": "Might",
       "description": "Increased outgoing damage; stacks intensity.",
       "apply_count": 5,
+      "requires_trait": 2216,
+      "prefix": {
+        "text": "Apply Buff/Condition",
+        "icon": "https://render.guildwars2.com/file/656A0C59523A4D9D935316EA93F1EA6247C32106/2479382.png",
+        "status": "Bladesong Harmony",
+        "description": "\u003cc\u003d@abilitytype\u003eBladesong.\u003c/c\u003e Fire all stocked blades at your target."
+      },
+      "overrides": 0
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "PrefixedBuff",
+      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+      "duration": 8,
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
+      "apply_count": 5,
       "requires_trait": 2030,
       "prefix": {
         "text": "Apply Buff/Condition",
@@ -117,6 +134,23 @@
         "description": "\u003cc\u003d@abilitytype\u003eShatter.\u003c/c\u003e Destroy all your clones, damaging nearby foes. Strikes again after a delay.\u003cbr\u003e\u003cc\u003d@reminder\u003eShatter traits only affect the first strike of this skill.\u003c/c\u003e"
       },
       "overrides": 0
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "PrefixedBuff",
+      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+      "duration": 6,
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
+      "apply_count": 3,
+      "requires_trait": 2216,
+      "prefix": {
+        "text": "Apply Buff/Condition",
+        "icon": "https://render.guildwars2.com/file/656A0C59523A4D9D935316EA93F1EA6247C32106/2479382.png",
+        "status": "Bladesong Harmony",
+        "description": "\u003cc\u003d@abilitytype\u003eBladesong.\u003c/c\u003e Fire all stocked blades at your target."
+      },
+      "overrides": 1
     },
     {
       "text": "Apply Buff/Condition",
@@ -143,6 +177,23 @@
       "status": "Vigor",
       "description": "Endurance regeneration increased by 50%; stacks duration.",
       "apply_count": 1,
+      "requires_trait": 2216,
+      "prefix": {
+        "text": "Apply Buff/Condition",
+        "icon": "https://render.guildwars2.com/file/EF9223543A66B8B5A8FD1C4BC4E7A218277C15C4/2479383.png",
+        "status": "Bladesong Sorrow",
+        "description": "\u003cc\u003d@abilitytype\u003eBladesong.\u003c/c\u003e Fire all stocked blades, inflicting your target with conditions."
+      },
+      "overrides": 2
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "PrefixedBuff",
+      "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+      "duration": 8,
+      "status": "Vigor",
+      "description": "Endurance regeneration increased by 50%; stacks duration.",
+      "apply_count": 1,
       "requires_trait": 2030,
       "prefix": {
         "text": "Apply Buff/Condition",
@@ -160,6 +211,23 @@
       "status": "Fury",
       "description": "Critical Chance increased by 20%; stacks duration.",
       "apply_count": 1,
+      "requires_trait": 2216,
+      "prefix": {
+        "text": "Apply Buff/Condition",
+        "icon": "https://render.guildwars2.com/file/D96E115ADAB14D610215EC185C3C21B4611DC292/2479381.png",
+        "status": "Bladesong Dissonance",
+        "description": "\u003cc\u003d@abilitytype\u003eBladesong.\u003c/c\u003e Combine all your blades into one large blade that dazes targets based on the number of blades consumed."
+      },
+      "overrides": 3
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "PrefixedBuff",
+      "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+      "duration": 10,
+      "status": "Fury",
+      "description": "Critical Chance increased by 20%; stacks duration.",
+      "apply_count": 1,
       "requires_trait": 2030,
       "prefix": {
         "text": "Apply Buff/Condition",
@@ -168,6 +236,23 @@
         "description": "\u003cc\u003d@abilitytype\u003eShatter.\u003c/c\u003e Destroy all your clones, dazing and slowing their targets."
       },
       "overrides": 3
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "PrefixedBuff",
+      "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+      "duration": 10,
+      "status": "Regeneration",
+      "description": "Gain health every second; stacks duration.",
+      "apply_count": 1,
+      "requires_trait": 2216,
+      "prefix": {
+        "text": "Apply Buff/Condition",
+        "icon": "https://render.guildwars2.com/file/040192EDDE9D2492D2428027E50DFC12B9044D39/2479384.png",
+        "status": "Bladeturn Requiem",
+        "description": "\u003cc\u003d@abilitytype\u003eBladesong.\u003c/c\u003e Block incoming attacks and send your blades spinning around you to hit nearby foes. Spinning blade duration scales with number of blades consumed."
+      },
+      "overrides": 4
     },
     {
       "text": "Apply Buff/Condition",

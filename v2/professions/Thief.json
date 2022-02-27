@@ -10,7 +10,8 @@
     54,
     44,
     7,
-    58
+    58,
+    71
   ],
   "weapons": {
     "Dagger": {
@@ -144,6 +145,36 @@
         {
           "id": 40600,
           "slot": "Weapon_5"
+        }
+      ]
+    },
+    "Scepter": {
+      "specialization": 71,
+      "flags": [
+        "Mainhand"
+      ],
+      "skills": [
+        {
+          "id": 63066,
+          "slot": "Weapon_1"
+        },
+        {
+          "id": 63351,
+          "slot": "Weapon_2"
+        },
+        {
+          "id": 63254,
+          "slot": "Weapon_3",
+          "offhand": "Dagger"
+        },
+        {
+          "id": 63267,
+          "slot": "Weapon_3",
+          "offhand": "Pistol"
+        },
+        {
+          "id": 63154,
+          "slot": "Weapon_3"
         }
       ]
     },
@@ -467,6 +498,36 @@
       "id": 43390,
       "slot": "Profession_1",
       "type": "Profession"
+    },
+    {
+      "id": 63292,
+      "slot": "Heal",
+      "type": "Heal"
+    },
+    {
+      "id": 63275,
+      "slot": "Elite",
+      "type": "Elite"
+    },
+    {
+      "id": 63323,
+      "slot": "Utility",
+      "type": "Utility"
+    },
+    {
+      "id": 63294,
+      "slot": "Utility",
+      "type": "Utility"
+    },
+    {
+      "id": 63230,
+      "slot": "Utility",
+      "type": "Utility"
+    },
+    {
+      "id": 63276,
+      "slot": "Utility",
+      "type": "Utility"
     },
     {
       "id": 1131,
@@ -1297,6 +1358,108 @@
           "cost": 250,
           "type": "Skill",
           "skill_id": 45508
+        }
+      ]
+    },
+    {
+      "id": 472,
+      "category": "EliteSpecializations",
+      "name": "Specter",
+      "track": [
+        {
+          "cost": 30,
+          "type": "Trait",
+          "trait_id": 2295
+        },
+        {
+          "cost": 40,
+          "type": "Trait",
+          "trait_id": 2184
+        },
+        {
+          "cost": 50,
+          "type": "Trait",
+          "trait_id": 2299
+        },
+        {
+          "cost": 60,
+          "type": "Trait",
+          "trait_id": 2272
+        },
+        {
+          "cost": 70,
+          "type": "Trait",
+          "trait_id": 2288
+        },
+        {
+          "cost": 80,
+          "type": "Trait",
+          "trait_id": 2280
+        },
+        {
+          "cost": 90,
+          "type": "Trait",
+          "trait_id": 2300
+        },
+        {
+          "cost": 105,
+          "type": "Skill",
+          "skill_id": 63292
+        },
+        {
+          "cost": 120,
+          "type": "Skill",
+          "skill_id": 63323
+        },
+        {
+          "cost": 130,
+          "type": "Trait",
+          "trait_id": 2284
+        },
+        {
+          "cost": 140,
+          "type": "Trait",
+          "trait_id": 2290
+        },
+        {
+          "cost": 150,
+          "type": "Trait",
+          "trait_id": 2264
+        },
+        {
+          "cost": 165,
+          "type": "Skill",
+          "skill_id": 63294
+        },
+        {
+          "cost": 180,
+          "type": "Skill",
+          "skill_id": 63230
+        },
+        {
+          "cost": 190,
+          "type": "Trait",
+          "trait_id": 2275
+        },
+        {
+          "cost": 200,
+          "type": "Trait",
+          "trait_id": 2285
+        },
+        {
+          "cost": 210,
+          "type": "Trait",
+          "trait_id": 2289
+        },
+        {
+          "cost": 225,
+          "type": "Skill",
+          "skill_id": 63276
+        },
+        {
+          "cost": 250,
+          "type": "Skill",
+          "skill_id": 63275
         }
       ]
     }

@@ -1,0 +1,51 @@
+{
+  "name": "Forsaken Chiminea Ward",
+  "type": "Weapon",
+  "level": 59,
+  "rarity": "Exotic",
+  "vendor_value": 212,
+  "default_skin": 5128,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 51787,
+  "chat_link": "[\u0026AgFLygAA]",
+  "icon": "https://render.guildwars2.com/file/9AEC99D35450EEC8F691C97F7770303BF759D9ED/67840.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 588,
+    "max_power": 664,
+    "defense": 43,
+    "infusion_slots": [],
+    "attribute_adjustment": 238.4,
+    "infix_upgrade": {
+      "id": 1011,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 83
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 60
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 60
+        }
+      ]
+    }
+  }
+}

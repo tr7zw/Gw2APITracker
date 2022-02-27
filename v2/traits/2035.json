@@ -12,7 +12,7 @@
       "icon": "https://render.guildwars2.com/file/52619C5D4F9A61C8F37A0705AE36602F19E164C2/103732.png",
       "duration": 0,
       "status": "Mind Wrack",
-      "description": "25% Increased Critical-Hit Chance",
+      "description": "Increases critical-hit chance by 25%.",
       "apply_count": 1
     },
     {
@@ -47,13 +47,35 @@
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/656A0C59523A4D9D935316EA93F1EA6247C32106/2479382.png",
+      "duration": 0,
+      "status": "Bladesong Harmony",
+      "description": "Increases critical-hit chance by 25%.",
+      "apply_count": 1,
+      "requires_trait": 2216,
+      "overrides": 0
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
       "icon": "https://render.guildwars2.com/file/14090D7A6472AB06125662EB12E6EC51EDE2EEBB/2175059.png",
       "duration": 0,
       "status": "Split Second",
-      "description": "25% Increased Critical-Hit Chance",
+      "description": "Increases critical-hit chance by 25%.",
       "apply_count": 1,
       "requires_trait": 2030,
       "overrides": 0
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/EF9223543A66B8B5A8FD1C4BC4E7A218277C15C4/2479383.png",
+      "duration": 0,
+      "status": "Bladesong Sorrow",
+      "description": "Cripples foes on hit.",
+      "apply_count": 1,
+      "requires_trait": 2216,
+      "overrides": 1
     },
     {
       "text": "Apply Buff/Condition",
@@ -69,6 +91,17 @@
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/D96E115ADAB14D610215EC185C3C21B4611DC292/2479381.png",
+      "duration": 0,
+      "status": "Bladesong Dissonance",
+      "description": "Strikes up to five targets within range.",
+      "apply_count": 1,
+      "requires_trait": 2216,
+      "overrides": 2
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
       "icon": "https://render.guildwars2.com/file/3A0CF805A4359A10766D1DD04FF0E7D20A05BD17/2175060.png",
       "duration": 0,
       "status": "Time Sink",
@@ -76,6 +109,16 @@
       "apply_count": 1,
       "requires_trait": 2030,
       "overrides": 2
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/040192EDDE9D2492D2428027E50DFC12B9044D39/2479384.png",
+      "duration": 0,
+      "status": "Bladeturn Requiem",
+      "description": "Duration increased by 1 second.",
+      "apply_count": 1,
+      "requires_trait": 2216
     },
     {
       "text": "Apply Buff/Condition",

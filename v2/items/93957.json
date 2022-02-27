@@ -1,7 +1,7 @@
 {
   "name": "Shiverpeaks Hunter Backpack Glider Combo",
   "description": "This package contains the Shiverpeaks Hunter Glider and Shiverpeaks Hunter Backpack.",
-  "type": "Container",
+  "type": "Consumable",
   "level": 0,
   "rarity": "Masterwork",
   "vendor_value": 0,
@@ -25,6 +25,9 @@
   "chat_link": "[\u0026AgEFbwEA]",
   "icon": "https://render.guildwars2.com/file/2F660F52BDF57865E6A1375DD96009D4D17ACEF5/2220654.png",
   "details": {
-    "type": "Immediate"
+    "type": "Transmutation",
+    "skins": [
+      9021
+    ]
   }
 }

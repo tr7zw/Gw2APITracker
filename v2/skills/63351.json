@@ -1,0 +1,36 @@
+{
+  "name": "Shadow Sap",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 900
+    }
+  ],
+  "description": "Hurl a bolt that hinders foes and helps allies.",
+  "icon": "https://render.guildwars2.com/file/C7F90ED7C6D2944A3258CFF1B75CC2D4EE36384A/2503746.png",
+  "type": "Weapon",
+  "weapon_type": "Scepter",
+  "professions": [
+    "Thief"
+  ],
+  "slot": "Weapon_2",
+  "initiative": 3,
+  "flags": [
+    "NoUnderwater"
+  ],
+  "specialization": 71,
+  "id": 63351,
+  "chat_link": "[\u0026Bnf3AAA\u003d]",
+  "traited_facts": [
+    {
+      "text": "Healing",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "value": 306,
+      "requires_trait": 1238,
+      "target": "Healing"
+    }
+  ]
+}

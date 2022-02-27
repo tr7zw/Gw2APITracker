@@ -1,0 +1,27 @@
+{
+  "id": 5820,
+  "name": "Local Response: Dry Top 2",
+  "description": "",
+  "requirement": "Complete  events in Dry Top.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 10,
+      "points": 0
+    }
+  ],
+  "prerequisites": [
+    5788
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 36457,
+      "count": 1
+    }
+  ]
+}

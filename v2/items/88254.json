@@ -1,7 +1,7 @@
 {
   "name": "Forged Backpack and Glider Combo",
   "description": "This package contains the Forged Glider and Forged Backpiece.",
-  "type": "Container",
+  "type": "Consumable",
   "level": 0,
   "rarity": "Masterwork",
   "vendor_value": 0,
@@ -25,6 +25,9 @@
   "chat_link": "[\u0026AgG+WAEA]",
   "icon": "https://render.guildwars2.com/file/F2203408E54454C2D61CE0B3E0334BC7B96EFE03/1947231.png",
   "details": {
-    "type": "Immediate"
+    "type": "Transmutation",
+    "skins": [
+      8038
+    ]
   }
 }

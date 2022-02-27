@@ -1,7 +1,7 @@
 {
   "name": "Scaled Dragon Wings Backpack Glider Combo",
   "description": "This package contains the Scaled Dragon Wings Glider and Scaled Dragon Wings Backpack.",
-  "type": "Container",
+  "type": "Consumable",
   "level": 0,
   "rarity": "Masterwork",
   "vendor_value": 0,
@@ -25,6 +25,9 @@
   "chat_link": "[\u0026AgE2YAEA]",
   "icon": "https://render.guildwars2.com/file/023FAC1A9E4809147806F7CE0A43C12F36F5AEA4/2051634.png",
   "details": {
-    "type": "Immediate"
+    "type": "Transmutation",
+    "skins": [
+      8434
+    ]
   }
 }

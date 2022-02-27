@@ -3,11 +3,23 @@
   "tier": 2,
   "order": 0,
   "name": "Destructive Impulses",
-  "description": "Increase all damage dealt for each weapon you are currently wielding.",
+  "description": "All damage dealt is increased, and increased additionally if you have an off-hand weapon equipped.",
   "slot": "Minor",
   "facts": [
     {
-      "text": "Damage Increase per Weapon",
+      "text": "Damage Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 5
+    },
+    {
+      "text": "Bonus Damage from Off Hand",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 2.5
+    },
+    {
+      "text": "Bonus Damage from Off Hand",
       "type": "Percent",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "percent": 5

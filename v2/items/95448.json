@@ -1,0 +1,73 @@
+{
+  "name": "Celestial Winged Tunic of the Necromancer",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "default_skin": 158,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95448,
+  "chat_link": "[\u0026AgHYdAEA]",
+  "icon": "https://render.guildwars2.com/file/462FF624C12F05C350635BE10DA4479E4DC64B61/61509.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Light",
+    "defense": 314,
+    "infusion_slots": [],
+    "attribute_adjustment": 384.12,
+    "infix_upgrade": {
+      "id": 559,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 63
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 63
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 63
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 63
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 63
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 63
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 63
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 63
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 63
+        }
+      ]
+    },
+    "suffix_item_id": 24806
+  }
+}

@@ -300,6 +300,15 @@
         {
           "text": "Apply Buff/Condition",
           "type": "Buff",
+          "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+          "duration": 8,
+          "status": "Bleeding",
+          "description": "Deals damage every second; stacks intensity.",
+          "apply_count": 1
+        },
+        {
+          "text": "Apply Buff/Condition",
+          "type": "Buff",
           "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
           "duration": 8,
           "status": "Confusion",
@@ -309,10 +318,10 @@
         {
           "text": "Apply Buff/Condition",
           "type": "Buff",
-          "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-          "duration": 8,
-          "status": "Bleeding",
-          "description": "Deals damage every second; stacks intensity.",
+          "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
+          "duration": 3,
+          "status": "Confusion",
+          "description": "Damage received on skill activation; stacks intensity.",
           "apply_count": 1
         },
         {

@@ -56,6 +56,17 @@
       "type": "NoData",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "requires_trait": 1376
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/E1E7C4D3A6E62F3D5C9F627CE8175BFB0C614CBE/156652.png",
+      "duration": 3,
+      "status": "Positive Flow",
+      "description": "Gain flow per second.",
+      "apply_count": 1,
+      "requires_trait": 2226,
+      "overrides": 4
     }
   ]
 }

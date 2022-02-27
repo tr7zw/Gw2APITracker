@@ -1,0 +1,58 @@
+{
+  "name": "Summer Light",
+  "description": "\u003cc\u003d@flavor\u003eNew life envelops the horizon.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 10033,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95056,
+  "chat_link": "[\u0026AgFQcwEA]",
+  "icon": "https://render.guildwars2.com/file/6850D361B75D6A5A9C6F77BEC971A254DE5DDF0D/2461183.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 986,
+    "max_power": 1205,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 1162,
+      "buff": {
+        "skill_id": 33399
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 230
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 125
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 230
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 125
+        }
+      ]
+    }
+  }
+}

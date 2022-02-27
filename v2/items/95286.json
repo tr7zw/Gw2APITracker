@@ -1,0 +1,28 @@
+{
+  "name": "Elixir of Central Tyria Mastery",
+  "description": "Grants a large amount of Central Tyria Mastery experience.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 10000,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95286,
+  "chat_link": "[\u0026AgE2dAEA]",
+  "icon": "https://render.guildwars2.com/file/ADE03D7D4E451BF60A522755B4CABA9AFB270DDD/2384388.png",
+  "details": {
+    "type": "Food"
+  }
+}

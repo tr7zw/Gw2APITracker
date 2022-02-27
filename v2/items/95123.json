@@ -1,0 +1,26 @@
+{
+  "name": "Single-Use Eye of the North Portal Scroll",
+  "description": "Double-click to teleport to the Eye of the North. This item cannot be used while in combat.",
+  "type": "Consumable",
+  "level": 80,
+  "rarity": "Masterwork",
+  "vendor_value": 64,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95123,
+  "chat_link": "[\u0026AgGTcwEA]",
+  "icon": "https://render.guildwars2.com/file/16E2F7B8059DF123A8E70F6D9E6830D252D106C6/2261373.png",
+  "details": {
+    "type": "Generic"
+  }
+}

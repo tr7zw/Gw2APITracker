@@ -1,0 +1,29 @@
+{
+  "name": "Toymaker\u0027s Machine",
+  "description": "A decoration schematic that is processed by the guild\u0027s assembly device to make the decoration.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 0,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95565,
+  "chat_link": "[\u0026AgFNdQEA]",
+  "icon": "https://render.guildwars2.com/file/387DCB1958DCB9F3382D63CA274E77B3B84604A3/2571010.png",
+  "details": {
+    "type": "Generic",
+    "guild_upgrade_id": 1196
+  }
+}

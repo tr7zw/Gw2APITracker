@@ -1,0 +1,55 @@
+{
+  "name": "Dreambound Longbow",
+  "description": "\u003cc\u003d@flavor\u003eGains strength based on the wielder\u0027s level.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "default_skin": 5995,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "NotUpgradeable",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95388,
+  "chat_link": "[\u0026AgGcdAEA]",
+  "icon": "https://render.guildwars2.com/file/B061D3D22950B3A6F93BAD90554DA07BEC6A4B20/991390.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 137,
+    "max_power": 160,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 658.72,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 11
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 8
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

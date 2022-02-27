@@ -1,0 +1,55 @@
+{
+  "name": "Dreambound Sword",
+  "description": "\u003cc\u003d@flavor\u003eGains strength based on the wielder\u0027s level.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "default_skin": 5994,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "NotUpgradeable",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95355,
+  "chat_link": "[\u0026AgF7dAEA]",
+  "icon": "https://render.guildwars2.com/file/74F5C0215656C941F53440EED75B32C408FDB95B/991499.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 134,
+    "max_power": 148,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 329.36,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 6
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 4
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

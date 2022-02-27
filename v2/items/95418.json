@@ -1,0 +1,55 @@
+{
+  "name": "Dreambound Rifle",
+  "description": "\u003cc\u003d@flavor\u003eGains strength based on the wielder\u0027s level.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "default_skin": 5996,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "NotUpgradeable",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95418,
+  "chat_link": "[\u0026AgG6dAEA]",
+  "icon": "https://render.guildwars2.com/file/5ACE426D569E65711418046B1636F97DC277553F/991461.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 146,
+    "max_power": 179,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 658.72,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 11
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 8
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 8
+        }
+      ]
+    }
+  }
+}

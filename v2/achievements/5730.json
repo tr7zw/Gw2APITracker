@@ -1,0 +1,25 @@
+{
+  "id": 5730,
+  "name": "Crop Harvester: Silverwastes",
+  "description": "",
+  "requirement": "Harvest plants  times in the Silverwastes.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 20,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 68138,
+      "count": 3
+    }
+  ]
+}

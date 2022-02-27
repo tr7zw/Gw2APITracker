@@ -1,0 +1,51 @@
+{
+  "name": "Apostate\u0027s Cauterizer",
+  "type": "Weapon",
+  "level": 59,
+  "rarity": "Exotic",
+  "vendor_value": 212,
+  "default_skin": 5152,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 52096,
+  "chat_link": "[\u0026AgGAywAA]",
+  "icon": "https://render.guildwars2.com/file/DCF12F43C72FDFC44600425DFB6B9F4FC1CA5342/67831.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 626,
+    "max_power": 765,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 238.4,
+    "infix_upgrade": {
+      "id": 1012,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 60
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 60
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 83
+        }
+      ]
+    }
+  }
+}

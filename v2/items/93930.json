@@ -1,7 +1,7 @@
 {
   "name": "Skeletal Wings Backpack and Glider Combo",
   "description": "This package contains the Skeletal Wings Glider and Skeletal Wings Backpack.",
-  "type": "Container",
+  "type": "Consumable",
   "level": 0,
   "rarity": "Masterwork",
   "vendor_value": 0,
@@ -25,6 +25,9 @@
   "chat_link": "[\u0026AgHqbgEA]",
   "icon": "https://render.guildwars2.com/file/6B7458070B414B550D7E38E975CA93DD0F4BEE95/2212742.png",
   "details": {
-    "type": "Immediate"
+    "type": "Transmutation",
+    "skins": [
+      8979
+    ]
   }
 }

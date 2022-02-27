@@ -1,0 +1,51 @@
+{
+  "name": "Commander\u0027s Holographic Dragon Gloves",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 238,
+  "default_skin": 10026,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95040,
+  "chat_link": "[\u0026AgFAcwEA]",
+  "icon": "https://render.guildwars2.com/file/579FD9B300F32129BC4329FA25B718D6A092684F/2461198.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Heavy",
+    "defense": 182,
+    "infusion_slots": [],
+    "attribute_adjustment": 128.04,
+    "infix_upgrade": {
+      "id": 1131,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 38
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 38
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 21
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 21
+        }
+      ]
+    }
+  }
+}

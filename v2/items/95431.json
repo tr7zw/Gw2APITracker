@@ -1,0 +1,55 @@
+{
+  "name": "Dreambound Pistol",
+  "description": "\u003cc\u003d@flavor\u003eGains strength based on the wielder\u0027s level.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "default_skin": 5991,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "NotUpgradeable",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95431,
+  "chat_link": "[\u0026AgHHdAEA]",
+  "icon": "https://render.guildwars2.com/file/23FEA5041AC8C6A6D4805B18A6965578009A6439/991453.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 130,
+    "max_power": 153,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 329.36,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 6
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 4
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

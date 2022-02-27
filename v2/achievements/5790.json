@@ -1,0 +1,38 @@
+{
+  "id": 5790,
+  "name": "Seasons of the Dragons",
+  "description": "",
+  "requirement": "Complete  Return meta-achievements. Return meta-achievements will become available over time, and they are permanently available once introduced.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 4,
+      "points": 25
+    },
+    {
+      "count": 10,
+      "points": 25
+    },
+    {
+      "count": 16,
+      "points": 25
+    },
+    {
+      "count": 24,
+      "points": 25
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 369
+    }
+  ]
+}

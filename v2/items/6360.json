@@ -1,0 +1,47 @@
+{
+  "name": "Outrider\u0027s Armor",
+  "type": "Armor",
+  "level": 77,
+  "rarity": "Fine",
+  "vendor_value": 95,
+  "default_skin": 917,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6360,
+  "chat_link": "[\u0026AgHYGAAA]",
+  "icon": "https://render.guildwars2.com/file/B1631025954E439A0B2F4925F3E2AA5DC5A73902/61224.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 260,
+    "infusion_slots": [],
+    "attribute_adjustment": 274.68,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 96
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 69
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 69
+        }
+      ]
+    }
+  }
+}

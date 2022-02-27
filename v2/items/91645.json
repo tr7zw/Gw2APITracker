@@ -1,7 +1,7 @@
 {
   "name": "Legion Jetpack Backpack and Glider Combo",
   "description": "This package contains the Legion Jetpack Glider and Legion Jetpack Backpack.",
-  "type": "Container",
+  "type": "Consumable",
   "level": 0,
   "rarity": "Masterwork",
   "vendor_value": 0,
@@ -25,6 +25,9 @@
   "chat_link": "[\u0026AgH9ZQEA]",
   "icon": "https://render.guildwars2.com/file/A14D61B918F9FB80EE7D01CF5ADAEFCBF35751EB/2117560.png",
   "details": {
-    "type": "Immediate"
+    "type": "Transmutation",
+    "skins": [
+      8647
+    ]
   }
 }

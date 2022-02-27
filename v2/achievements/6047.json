@@ -1,0 +1,44 @@
+{
+  "id": 6047,
+  "name": "Court Duty: The King\u0027s Guest",
+  "description": "",
+  "requirement": "Visit the Mad King\u0027s Labyrinth for some...festive fun. Then follow up on developments observed in the Mad Realm.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "1. In the Mad King\u0027s Labyrinth, overhear an exchange between Mad King Thorn and a visitor."
+    },
+    {
+      "type": "Text",
+      "text": "3. Demand answers from Brigadier General Kernel in Lion\u0027s Arch."
+    },
+    {
+      "type": "Text",
+      "text": "4. Press Brigadier General Kernel for details on the Lunatic Court\u0027s quest."
+    },
+    {
+      "type": "Text",
+      "text": "2. Report to Magister Tassi in Lion\u0027s Arch on the latest crisis in the Mad Realm."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 4,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 95336,
+      "count": 1
+    }
+  ]
+}

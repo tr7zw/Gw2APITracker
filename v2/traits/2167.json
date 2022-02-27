@@ -3,23 +3,20 @@
   "tier": 1,
   "order": 0,
   "name": "Abrasive Grit",
-  "description": "Granting an ally a barrier removes conditions afflicting them and grants might. \u003cbr\u003e\u003cc\u003d@reminder\u003eThis effect only occurs with barrier from scourge skills and traits.\u003c/c\u003e",
+  "description": "Sand Flare now also grants barrier to nearby allies. Granting an ally a barrier removes conditions afflicting them.\u003cbr\u003e\u003cc\u003d@reminder\u003eThis effect only occurs with barrier from scourge skills and traits.\u003c/c\u003e",
   "slot": "Major",
   "facts": [
-    {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-      "duration": 6,
-      "status": "Might",
-      "description": "Increased outgoing damage; stacks intensity.",
-      "apply_count": 2
-    },
     {
       "text": "Conditions Removed",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "value": 1
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
     }
   ],
   "specialization": 60,

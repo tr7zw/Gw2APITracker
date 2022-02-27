@@ -1,6 +1,6 @@
 {
   "name": "Black Lion Claim Ticket",
-  "description": "Take this ticket to a Black Lion Weapons Specialist.",
+  "description": "Double-click to exchange for items, or take this ticket to a Black Lion Weapons Specialist.",
   "type": "Gizmo",
   "level": 0,
   "rarity": "Rare",
@@ -25,7 +25,8 @@
   "details": {
     "type": "Default",
     "vendor_ids": [
-      203
+      206,
+      192
     ]
   }
 }

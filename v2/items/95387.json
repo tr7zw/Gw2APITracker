@@ -1,0 +1,55 @@
+{
+  "name": "Dreambound Dagger",
+  "description": "\u003cc\u003d@flavor\u003eGains strength based on the wielder\u0027s level.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "default_skin": 5989,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "NotUpgradeable",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95387,
+  "chat_link": "[\u0026AgGbdAEA]",
+  "icon": "https://render.guildwars2.com/file/E11E243A2803E4E4A7ABA808255D5EBF75323297/991410.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 137,
+    "max_power": 146,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 329.36,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 6
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 4
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

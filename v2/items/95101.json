@@ -1,0 +1,29 @@
+{
+  "name": "Astralaria",
+  "description": "Double click to receive your returned legendary weapon.",
+  "type": "Container",
+  "level": 0,
+  "rarity": "Legendary",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95101,
+  "chat_link": "[\u0026AgF9cwEA]",
+  "icon": "https://render.guildwars2.com/file/13B9B1A4A85E775E267D33B6B7FA2D436DEA0BA1/1200325.png",
+  "details": {
+    "type": "Default"
+  }
+}

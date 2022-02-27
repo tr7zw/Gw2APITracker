@@ -1,0 +1,43 @@
+{
+  "id": 2289,
+  "tier": 3,
+  "order": 2,
+  "name": "Shadestep",
+  "description": "\u003cc\u003d@abilitytype\u003eSiphon\u003c/c\u003e now grants you barrier when targeting enemies, and it revives allies when targeting them. Shadowstepping breaks your barrier and grants it to nearby allies, proportional to the number of allies affected.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Revive Percentage",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "percent": 33
+    },
+    {
+      "text": "Revive Percentage",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "percent": 15
+    },
+    {
+      "text": "Barrier",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+      "value": 1980,
+      "target": "Healing"
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 240
+    },
+    {
+      "text": "Number of Allied Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    }
+  ],
+  "specialization": 71,
+  "icon": "https://render.guildwars2.com/file/5C3F020C08045735BAA12A92A3FF9674EEAE4672/2503652.png"
+}

@@ -1,7 +1,7 @@
 {
   "name": "Shining Blade Backpack Glider Combo",
   "description": "This package contains the Shining Blade Glider and Shining Blade Backpack.",
-  "type": "Container",
+  "type": "Consumable",
   "level": 0,
   "rarity": "Masterwork",
   "vendor_value": 0,
@@ -25,6 +25,9 @@
   "chat_link": "[\u0026AgEGWQEA]",
   "icon": "https://render.guildwars2.com/file/B7D86F23F7BEE26B0A34EBA906A504A0A64B3735/1465615.png",
   "details": {
-    "type": "Immediate"
+    "type": "Transmutation",
+    "skins": [
+      6854
+    ]
   }
 }

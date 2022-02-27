@@ -1,0 +1,55 @@
+{
+  "name": "Dreambound Axe",
+  "description": "\u003cc\u003d@flavor\u003eGains strength based on the wielder\u0027s level.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "default_skin": 5997,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "NotUpgradeable",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95348,
+  "chat_link": "[\u0026AgF0dAEA]",
+  "icon": "https://render.guildwars2.com/file/97E214D7D63AFB2A4CFC01A41C370DE405079E07/991372.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 127,
+    "max_power": 155,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 329.36,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 6
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 4
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 4
+        }
+      ]
+    }
+  }
+}

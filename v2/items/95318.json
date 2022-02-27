@@ -1,0 +1,64 @@
+{
+  "name": "Plush Zhaia",
+  "description": "\u003cc\u003d@flavor\u003eEveryone\u0027s other favorite stuffed dragon friend! Huggably ragged and wriggly. Meticulous about recycling.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 413,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "NotUpgradeable",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95318,
+  "chat_link": "[\u0026AgFWdAEA]",
+  "icon": "https://render.guildwars2.com/file/CF09C04199EBE5E7D2EEB8DCC604484A97C2626C/2498618.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 224.07,
+    "infix_upgrade": {
+      "id": 1329,
+      "buff": {
+        "skill_id": 41338,
+        "description": "+25 Power\n+25 Condition Damage\n+12 Ferocity\n+12 Precision"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 92
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 49
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 49
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 92
+        }
+      ]
+    }
+  }
+}

@@ -10,7 +10,8 @@
     25,
     32,
     5,
-    55
+    55,
+    72
   ],
   "weapons": {
     "Axe": {
@@ -93,6 +94,34 @@
         },
         {
           "id": 12475,
+          "slot": "Weapon_5"
+        }
+      ]
+    },
+    "Hammer": {
+      "specialization": 72,
+      "flags": [
+        "TwoHand"
+      ],
+      "skills": [
+        {
+          "id": 63118,
+          "slot": "Weapon_1"
+        },
+        {
+          "id": 63366,
+          "slot": "Weapon_2"
+        },
+        {
+          "id": 63075,
+          "slot": "Weapon_3"
+        },
+        {
+          "id": 63073,
+          "slot": "Weapon_4"
+        },
+        {
+          "id": 63330,
           "slot": "Weapon_5"
         }
       ]
@@ -706,6 +735,36 @@
       "id": 43014,
       "slot": "Profession_5",
       "type": "Profession"
+    },
+    {
+      "id": 63319,
+      "slot": "Heal",
+      "type": "Heal"
+    },
+    {
+      "id": 63163,
+      "slot": "Elite",
+      "type": "Elite"
+    },
+    {
+      "id": 63157,
+      "slot": "Utility",
+      "type": "Utility"
+    },
+    {
+      "id": 63256,
+      "slot": "Utility",
+      "type": "Utility"
+    },
+    {
+      "id": 63195,
+      "slot": "Utility",
+      "type": "Utility"
+    },
+    {
+      "id": 63130,
+      "slot": "Utility",
+      "type": "Utility"
     }
   ],
   "training": [
@@ -1410,6 +1469,108 @@
           "cost": 250,
           "type": "Skill",
           "skill_id": 45717
+        }
+      ]
+    },
+    {
+      "id": 471,
+      "category": "EliteSpecializations",
+      "name": "Untamed",
+      "track": [
+        {
+          "cost": 30,
+          "type": "Trait",
+          "trait_id": 2273
+        },
+        {
+          "cost": 40,
+          "type": "Trait",
+          "trait_id": 2268
+        },
+        {
+          "cost": 50,
+          "type": "Trait",
+          "trait_id": 2277
+        },
+        {
+          "cost": 60,
+          "type": "Trait",
+          "trait_id": 2286
+        },
+        {
+          "cost": 70,
+          "type": "Trait",
+          "trait_id": 2287
+        },
+        {
+          "cost": 80,
+          "type": "Trait",
+          "trait_id": 2269
+        },
+        {
+          "cost": 90,
+          "type": "Trait",
+          "trait_id": 2283
+        },
+        {
+          "cost": 105,
+          "type": "Skill",
+          "skill_id": 63319
+        },
+        {
+          "cost": 120,
+          "type": "Skill",
+          "skill_id": 63157
+        },
+        {
+          "cost": 130,
+          "type": "Trait",
+          "trait_id": 2297
+        },
+        {
+          "cost": 140,
+          "type": "Trait",
+          "trait_id": 2263
+        },
+        {
+          "cost": 150,
+          "type": "Trait",
+          "trait_id": 2271
+        },
+        {
+          "cost": 165,
+          "type": "Skill",
+          "skill_id": 63256
+        },
+        {
+          "cost": 180,
+          "type": "Skill",
+          "skill_id": 63195
+        },
+        {
+          "cost": 190,
+          "type": "Trait",
+          "trait_id": 2301
+        },
+        {
+          "cost": 200,
+          "type": "Trait",
+          "trait_id": 2278
+        },
+        {
+          "cost": 210,
+          "type": "Trait",
+          "trait_id": 2274
+        },
+        {
+          "cost": 225,
+          "type": "Skill",
+          "skill_id": 63130
+        },
+        {
+          "cost": 250,
+          "type": "Skill",
+          "skill_id": 63163
         }
       ]
     }

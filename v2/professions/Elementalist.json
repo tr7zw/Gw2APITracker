@@ -10,7 +10,8 @@
     17,
     37,
     48,
-    56
+    56,
+    67
   ],
   "weapons": {
     "Dagger": {
@@ -193,6 +194,114 @@
         },
         {
           "id": 5521,
+          "slot": "Weapon_5",
+          "attunement": "Earth"
+        }
+      ]
+    },
+    "Hammer": {
+      "specialization": 67,
+      "flags": [
+        "TwoHand"
+      ],
+      "skills": [
+        {
+          "id": 62925,
+          "slot": "Weapon_1",
+          "attunement": "Fire"
+        },
+        {
+          "id": 62865,
+          "slot": "Weapon_1",
+          "attunement": "Water"
+        },
+        {
+          "id": 62747,
+          "slot": "Weapon_1",
+          "attunement": "Air"
+        },
+        {
+          "id": 62683,
+          "slot": "Weapon_1",
+          "attunement": "Earth"
+        },
+        {
+          "id": 62884,
+          "slot": "Weapon_2",
+          "attunement": "Fire"
+        },
+        {
+          "id": 62958,
+          "slot": "Weapon_2",
+          "attunement": "Water"
+        },
+        {
+          "id": 62812,
+          "slot": "Weapon_2",
+          "attunement": "Air"
+        },
+        {
+          "id": 62976,
+          "slot": "Weapon_2",
+          "attunement": "Earth"
+        },
+        {
+          "id": 62758,
+          "slot": "Weapon_3",
+          "attunement": "Fire"
+        },
+        {
+          "id": 62834,
+          "slot": "Weapon_3",
+          "attunement": "Water"
+        },
+        {
+          "id": 62887,
+          "slot": "Weapon_3",
+          "attunement": "Air"
+        },
+        {
+          "id": 62975,
+          "slot": "Weapon_3",
+          "attunement": "Earth"
+        },
+        {
+          "id": 62807,
+          "slot": "Weapon_4",
+          "attunement": "Fire"
+        },
+        {
+          "id": 62948,
+          "slot": "Weapon_4",
+          "attunement": "Water"
+        },
+        {
+          "id": 62947,
+          "slot": "Weapon_4",
+          "attunement": "Air"
+        },
+        {
+          "id": 62992,
+          "slot": "Weapon_4",
+          "attunement": "Earth"
+        },
+        {
+          "id": 62910,
+          "slot": "Weapon_5",
+          "attunement": "Fire"
+        },
+        {
+          "id": 62843,
+          "slot": "Weapon_5",
+          "attunement": "Water"
+        },
+        {
+          "id": 62716,
+          "slot": "Weapon_5",
+          "attunement": "Air"
+        },
+        {
+          "id": 62778,
           "slot": "Weapon_5",
           "attunement": "Earth"
         }
@@ -939,6 +1048,36 @@
       "id": 40183,
       "slot": "Utility",
       "type": "Utility"
+    },
+    {
+      "id": 62827,
+      "slot": "Heal",
+      "type": "Heal"
+    },
+    {
+      "id": 62725,
+      "slot": "Elite",
+      "type": "Elite"
+    },
+    {
+      "id": 62965,
+      "slot": "Utility",
+      "type": "Utility"
+    },
+    {
+      "id": 62698,
+      "slot": "Utility",
+      "type": "Utility"
+    },
+    {
+      "id": 62982,
+      "slot": "Utility",
+      "type": "Utility"
+    },
+    {
+      "id": 62826,
+      "slot": "Utility",
+      "type": "Utility"
     }
   ],
   "training": [
@@ -1643,6 +1782,108 @@
           "cost": 250,
           "type": "Skill",
           "skill_id": 43638
+        }
+      ]
+    },
+    {
+      "id": 467,
+      "category": "EliteSpecializations",
+      "name": "Catalyst",
+      "track": [
+        {
+          "cost": 30,
+          "type": "Trait",
+          "trait_id": 2246
+        },
+        {
+          "cost": 40,
+          "type": "Trait",
+          "trait_id": 2227
+        },
+        {
+          "cost": 50,
+          "type": "Trait",
+          "trait_id": 2252
+        },
+        {
+          "cost": 60,
+          "type": "Trait",
+          "trait_id": 2250
+        },
+        {
+          "cost": 70,
+          "type": "Trait",
+          "trait_id": 2249
+        },
+        {
+          "cost": 80,
+          "type": "Trait",
+          "trait_id": 2231
+        },
+        {
+          "cost": 90,
+          "type": "Trait",
+          "trait_id": 2241
+        },
+        {
+          "cost": 105,
+          "type": "Skill",
+          "skill_id": 62827
+        },
+        {
+          "cost": 120,
+          "type": "Skill",
+          "skill_id": 62826
+        },
+        {
+          "cost": 130,
+          "type": "Trait",
+          "trait_id": 2230
+        },
+        {
+          "cost": 140,
+          "type": "Trait",
+          "trait_id": 2247
+        },
+        {
+          "cost": 150,
+          "type": "Trait",
+          "trait_id": 2233
+        },
+        {
+          "cost": 165,
+          "type": "Skill",
+          "skill_id": 62982
+        },
+        {
+          "cost": 180,
+          "type": "Skill",
+          "skill_id": 62698
+        },
+        {
+          "cost": 190,
+          "type": "Trait",
+          "trait_id": 2224
+        },
+        {
+          "cost": 200,
+          "type": "Trait",
+          "trait_id": 2234
+        },
+        {
+          "cost": 210,
+          "type": "Trait",
+          "trait_id": 2251
+        },
+        {
+          "cost": 225,
+          "type": "Skill",
+          "skill_id": 62965
+        },
+        {
+          "cost": 250,
+          "type": "Skill",
+          "skill_id": 62725
         }
       ]
     }

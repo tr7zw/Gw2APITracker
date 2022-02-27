@@ -1,7 +1,7 @@
 {
   "name": "Hawk Wings Glider Combo",
   "description": "This package contains the Hawk Wings Glider and Hawk Wings Backpiece.",
-  "type": "Container",
+  "type": "Consumable",
   "level": 0,
   "rarity": "Masterwork",
   "vendor_value": 0,
@@ -25,6 +25,9 @@
   "chat_link": "[\u0026AgG1WAEA]",
   "icon": "https://render.guildwars2.com/file/4EABD122FBD4296C7869600915EC3DD941C4BBA4/1334916.png",
   "details": {
-    "type": "Immediate"
+    "type": "Transmutation",
+    "skins": [
+      6615
+    ]
   }
 }

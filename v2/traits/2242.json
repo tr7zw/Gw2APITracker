@@ -1,0 +1,27 @@
+{
+  "id": 2242,
+  "tier": 2,
+  "order": 0,
+  "name": "Dragonscale Defense",
+  "description": "Gain boons when entering Dragon Trigger.",
+  "slot": "Minor",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 8
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+      "duration": 3,
+      "status": "Stability",
+      "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
+      "apply_count": 1
+    }
+  ],
+  "specialization": 68,
+  "icon": "https://render.guildwars2.com/file/E4EEF71C9743D206D3F0B9E13A37D426EA0E7CBE/2491553.png"
+}

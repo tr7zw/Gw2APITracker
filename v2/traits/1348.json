@@ -28,6 +28,39 @@
       "value": 3
     }
   ],
+  "traited_facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/32A8CA56381F242642D7193B24284F922D23A2E3/1012796.png",
+      "duration": 15,
+      "status": "Adrenal Health",
+      "description": "Regain health by spending adrenaline.",
+      "apply_count": 1,
+      "requires_trait": 2226
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/32A8CA56381F242642D7193B24284F922D23A2E3/1012796.png",
+      "duration": 15,
+      "status": "Adrenal Health",
+      "description": "Regain health by spending adrenaline.",
+      "apply_count": 2,
+      "requires_trait": 2226
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/32A8CA56381F242642D7193B24284F922D23A2E3/1012796.png",
+      "duration": 15,
+      "status": "Adrenal Health",
+      "description": "Regain health by spending adrenaline.",
+      "apply_count": 3,
+      "requires_trait": 2226,
+      "overrides": 0
+    }
+  ],
   "specialization": 22,
   "icon": "https://render.guildwars2.com/file/32A8CA56381F242642D7193B24284F922D23A2E3/1012796.png"
 }

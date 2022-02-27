@@ -1,0 +1,58 @@
+{
+  "name": "Spring Warmth",
+  "description": "\u003cc\u003d@flavor\u003eA long winter ends.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 10023,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95069,
+  "chat_link": "[\u0026AgFdcwEA]",
+  "icon": "https://render.guildwars2.com/file/0CAA22A8BE5955B4CD51D5C331B97B6709AE65F8/2461189.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 985,
+    "max_power": 1111,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 1162,
+      "buff": {
+        "skill_id": 33399
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 230
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 125
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 230
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 125
+        }
+      ]
+    }
+  }
+}

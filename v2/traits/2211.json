@@ -1,0 +1,24 @@
+{
+  "id": 2211,
+  "tier": 3,
+  "order": 0,
+  "name": "Psychic Riposte",
+  "description": "Blocking or dodging an attack stocks \u003cc\u003d@abilitytype\u003eblades\u003c/c\u003e and causes your next Bladesong to be unblockable.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 3
+    },
+    {
+      "text": "Blades Stocked",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 3
+    }
+  ],
+  "specialization": 66,
+  "icon": "https://render.guildwars2.com/file/E89F2604C2E51F79E760F6DDB83E43E77078C13B/2479332.png"
+}

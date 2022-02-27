@@ -1,0 +1,44 @@
+{
+  "name": "Enchanted Broom",
+  "type": "Weapon",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "default_skin": 3689,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "NotUpgradeable",
+    "SoulbindOnAcquire",
+    "DeleteWarning",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 49935,
+  "chat_link": "[\u0026AgEPwwAA]",
+  "icon": "https://render.guildwars2.com/file/0B041363F2E8D23B9CF828C51A77B81F303626BA/534228.png",
+  "details": {
+    "type": "LargeBundle",
+    "damage_type": "Physical",
+    "min_power": 0,
+    "max_power": 0,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 26.784,
+    "infix_upgrade": {
+      "id": 800,
+      "buff": {
+        "skill_id": 23133
+      },
+      "attributes": []
+    }
+  }
+}

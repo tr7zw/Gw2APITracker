@@ -1,7 +1,7 @@
 {
   "name": "Super Holo-Copter Glider Combo",
   "description": "This package contains the Super Adventure Holo-Copter and Super Adventure Holo-Copter Backpack.",
-  "type": "Container",
+  "type": "Consumable",
   "level": 0,
   "rarity": "Masterwork",
   "vendor_value": 0,
@@ -25,6 +25,9 @@
   "chat_link": "[\u0026AgHiWAEA]",
   "icon": "https://render.guildwars2.com/file/9480C51B2164FE0C5E3C5AAC55015D38D0B061F7/1663888.png",
   "details": {
-    "type": "Immediate"
+    "type": "Transmutation",
+    "skins": [
+      7200
+    ]
   }
 }

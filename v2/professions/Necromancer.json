@@ -10,7 +10,8 @@
     19,
     50,
     34,
-    60
+    60,
+    64
   ],
   "weapons": {
     "Axe": {
@@ -128,6 +129,26 @@
         {
           "id": 10616,
           "slot": "Weapon_5"
+        }
+      ]
+    },
+    "Pistol": {
+      "specialization": 64,
+      "flags": [
+        "Mainhand"
+      ],
+      "skills": [
+        {
+          "id": 62517,
+          "slot": "Weapon_1"
+        },
+        {
+          "id": 62513,
+          "slot": "Weapon_2"
+        },
+        {
+          "id": 62511,
+          "slot": "Weapon_3"
         }
       ]
     },
@@ -527,6 +548,66 @@
     {
       "id": 46473,
       "slot": "Profession_1",
+      "type": "Profession"
+    },
+    {
+      "id": 62567,
+      "slot": "Profession_1",
+      "type": "Profession"
+    },
+    {
+      "id": 62667,
+      "slot": "Heal",
+      "type": "Heal"
+    },
+    {
+      "id": 62655,
+      "slot": "Elite",
+      "type": "Elite"
+    },
+    {
+      "id": 62530,
+      "slot": "Utility",
+      "type": "Utility"
+    },
+    {
+      "id": 62646,
+      "slot": "Utility",
+      "type": "Utility"
+    },
+    {
+      "id": 62514,
+      "slot": "Utility",
+      "type": "Utility"
+    },
+    {
+      "id": 62662,
+      "slot": "Utility",
+      "type": "Utility"
+    },
+    {
+      "id": 62611,
+      "slot": "Downed_1",
+      "type": "Profession"
+    },
+    {
+      "id": 62621,
+      "slot": "Downed_2",
+      "type": "Profession"
+    },
+    {
+      "id": 62672,
+      "slot": "Downed_3",
+      "type": "Profession"
+    },
+    {
+      "id": 62539,
+      "slot": "Downed_4",
+      "type": "Profession"
+    },
+    {
+      "id": 62563,
+      "slot": "Weapon_5",
       "type": "Profession"
     }
   ],
@@ -1232,6 +1313,108 @@
           "cost": 250,
           "type": "Skill",
           "skill_id": 42355
+        }
+      ]
+    },
+    {
+      "id": 465,
+      "category": "EliteSpecializations",
+      "name": "Harbinger",
+      "track": [
+        {
+          "cost": 30,
+          "type": "Trait",
+          "trait_id": 2213
+        },
+        {
+          "cost": 40,
+          "type": "Trait",
+          "trait_id": 2183
+        },
+        {
+          "cost": 50,
+          "type": "Trait",
+          "trait_id": 2219
+        },
+        {
+          "cost": 60,
+          "type": "Trait",
+          "trait_id": 2186
+        },
+        {
+          "cost": 70,
+          "type": "Trait",
+          "trait_id": 2220
+        },
+        {
+          "cost": 80,
+          "type": "Trait",
+          "trait_id": 2217
+        },
+        {
+          "cost": 90,
+          "type": "Trait",
+          "trait_id": 2194
+        },
+        {
+          "cost": 105,
+          "type": "Skill",
+          "skill_id": 62667
+        },
+        {
+          "cost": 120,
+          "type": "Skill",
+          "skill_id": 62530
+        },
+        {
+          "cost": 130,
+          "type": "Trait",
+          "trait_id": 2188
+        },
+        {
+          "cost": 140,
+          "type": "Trait",
+          "trait_id": 2192
+        },
+        {
+          "cost": 150,
+          "type": "Trait",
+          "trait_id": 2218
+        },
+        {
+          "cost": 165,
+          "type": "Skill",
+          "skill_id": 62646
+        },
+        {
+          "cost": 180,
+          "type": "Skill",
+          "skill_id": 62514
+        },
+        {
+          "cost": 190,
+          "type": "Trait",
+          "trait_id": 2185
+        },
+        {
+          "cost": 200,
+          "type": "Trait",
+          "trait_id": 2209
+        },
+        {
+          "cost": 210,
+          "type": "Trait",
+          "trait_id": 2203
+        },
+        {
+          "cost": 225,
+          "type": "Skill",
+          "skill_id": 62662
+        },
+        {
+          "cost": 250,
+          "type": "Skill",
+          "skill_id": 62655
         }
       ]
     }

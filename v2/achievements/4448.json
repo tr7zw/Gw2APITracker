@@ -2,7 +2,7 @@
   "id": 4448,
   "name": "(Annual) Masters of the Labyrinth",
   "description": "",
-  "requirement": "Defeat all 3 champions in the Mad King\u0027s Labyrinth. Achievement can be completed once every year.",
+  "requirement": "Defeat all 5 champions in the Mad King\u0027s Labyrinth. Achievement can be completed once every year.",
   "locked_text": "",
   "type": "Default",
   "flags": [
@@ -20,11 +20,19 @@
     {
       "type": "Text",
       "text": "Labyrinthine Horror"
+    },
+    {
+      "type": "Text",
+      "text": "Harrower Veltan"
+    },
+    {
+      "type": "Text",
+      "text": "Hollowed Gourdbinder"
     }
   ],
   "tiers": [
     {
-      "count": 3,
+      "count": 5,
       "points": 0
     }
   ],

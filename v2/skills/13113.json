@@ -8,6 +8,12 @@
       "value": 900
     },
     {
+      "text": "Unblockable",
+      "type": "Unblockable",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": true
+    },
+    {
       "text": "Damage",
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
@@ -54,6 +60,15 @@
       "value": 5
     },
     {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
+      "duration": 3,
+      "status": "Stealth",
+      "description": "Currently invisible. Ends if you deal damage.",
+      "apply_count": 1
+    },
+    {
       "text": "Combo Field",
       "type": "ComboField",
       "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
@@ -67,7 +82,7 @@
       "finisher_type": "Projectile"
     }
   ],
-  "description": "Fire a black powder shot, blinding your target and nearby foes with smoke.",
+  "description": "Fire a black-powder shot, blinding your target and nearby foes with smoke.",
   "icon": "https://render.guildwars2.com/file/0CE1DF4033D2FA0406E4B8430B270BC99A28D0C2/103236.png",
   "type": "Weapon",
   "weapon_type": "Pistol",
@@ -89,7 +104,7 @@
       "requires_trait": 1299,
       "hit_count": 1,
       "dmg_multiplier": 0.2375,
-      "overrides": 1
+      "overrides": 2
     },
     {
       "text": "Healing",

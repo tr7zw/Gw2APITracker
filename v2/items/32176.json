@@ -1,0 +1,50 @@
+{
+  "name": "Potent Avenger\u0027s Rifle",
+  "type": "Weapon",
+  "level": 72,
+  "rarity": "Masterwork",
+  "vendor_value": 180,
+  "default_skin": 4827,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 32176,
+  "chat_link": "[\u0026AgGwfQAA]",
+  "icon": "https://render.guildwars2.com/file/C3BE6ADB46C523FEF7CE0C7950AF1528AFFEAF36/526365.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 709,
+    "max_power": 866,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 480.216,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 168
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 120
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 120
+        }
+      ]
+    },
+    "suffix_item_id": 24615
+  }
+}

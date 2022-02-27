@@ -1,0 +1,71 @@
+{
+  "name": "Celestial Zephyrite Traveling Boots",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 10107,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95270,
+  "chat_link": "[\u0026AgEmdAEA]",
+  "icon": "https://render.guildwars2.com/file/B6EE49A17F73ECE3A008355D27E8E0B52D95A631/2486039.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 182,
+    "infusion_slots": [],
+    "attribute_adjustment": 128.04,
+    "infix_upgrade": {
+      "id": 559,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 21
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 21
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 21
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 21
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 21
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 21
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 21
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 21
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 21
+        }
+      ]
+    }
+  }
+}

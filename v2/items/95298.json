@@ -1,0 +1,73 @@
+{
+  "name": "Celestial Winged Mantle of the Elementalist",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "default_skin": 167,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95298,
+  "chat_link": "[\u0026AgFCdAEA]",
+  "icon": "https://render.guildwars2.com/file/7A7E32F43D59B4E14C0F99915650BF967B76FCB4/61513.png",
+  "details": {
+    "type": "Shoulders",
+    "weight_class": "Light",
+    "defense": 73,
+    "infusion_slots": [],
+    "attribute_adjustment": 128.04,
+    "infix_upgrade": {
+      "id": 559,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 21
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 21
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 21
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 21
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 21
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 21
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 21
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 21
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 21
+        }
+      ]
+    },
+    "suffix_item_id": 24800
+  }
+}

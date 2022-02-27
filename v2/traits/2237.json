@@ -1,0 +1,33 @@
+{
+  "id": 2237,
+  "tier": 1,
+  "order": 0,
+  "name": "River\u0027s Flow",
+  "description": "Incoming healing increased. Healing yourself increases flow rate.\u003cbr\u003e\u003cc\u003d@reminder\u003eRegeneration effects do not trigger flow rate increase.\u003c/c\u003e",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 5
+    },
+    {
+      "text": "Incoming Healing Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "percent": 10
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/E1E7C4D3A6E62F3D5C9F627CE8175BFB0C614CBE/156652.png",
+      "duration": 5,
+      "status": "Positive Flow",
+      "description": "Gain flow per second.",
+      "apply_count": 1
+    }
+  ],
+  "specialization": 68,
+  "icon": "https://render.guildwars2.com/file/CBAF7BFF0A76F6F9C1C664F6A45FA0CDABCA77C6/2491543.png"
+}

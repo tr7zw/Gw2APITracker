@@ -1,0 +1,29 @@
+{
+  "name": "Deep Wilds Mount Select License",
+  "description": "Gain a mount skin of your choice from the Black Lion Stables. Right-click to preview available mount skins.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 999,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95275,
+  "chat_link": "[\u0026AgErdAEA]",
+  "icon": "https://render.guildwars2.com/file/611F60329B4CF8A8E1D154FD20EA5F477C98407A/2485626.png",
+  "details": {
+    "type": "MountRandomUnlock"
+  }
+}

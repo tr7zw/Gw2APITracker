@@ -1,0 +1,36 @@
+{
+  "id": 2260,
+  "tier": 1,
+  "order": 1,
+  "name": "Swift as the Wind",
+  "description": "Movement skills grant swiftness and increase flow rate.",
+  "slot": "Major",
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 5
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+      "duration": 5,
+      "status": "Swiftness",
+      "description": "Movement speed increased by 33%; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/E1E7C4D3A6E62F3D5C9F627CE8175BFB0C614CBE/156652.png",
+      "duration": 5,
+      "status": "Positive Flow",
+      "description": "Gain flow per second.",
+      "apply_count": 1
+    }
+  ],
+  "specialization": 68,
+  "icon": "https://render.guildwars2.com/file/E90966C0A20291FB1FC0FFC73BAFE756B938A805/2491544.png"
+}

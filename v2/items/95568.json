@@ -1,0 +1,59 @@
+{
+  "name": "Plush Jorms",
+  "description": "\u003cc\u003d@flavor\u003eEveryone\u0027s other favorite stuffed dragon friend! Huggably cool and fluffy. Loves to gossip.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 413,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "NotUpgradeable",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95568,
+  "chat_link": "[\u0026AgFQdQEA]",
+  "icon": "https://render.guildwars2.com/file/C27521576ECA2FB4351F201C01E8F43F0A2B96FA/2571019.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 224.07,
+    "infix_upgrade": {
+      "id": 1436,
+      "buff": {
+        "skill_id": 48940
+      },
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 74
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 74
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 110
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Elemental Fury Backpack",
+  "description": "This will replace the appearance of one back slot item of any weight class and unlock the skin in your account wardrobe.\n\nThis back slot skin has no stats of its own.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95033,
+  "chat_link": "[\u0026AgE5cwEA]",
+  "icon": "https://render.guildwars2.com/file/29D698DEB4E80CF5AF09273992A3CF21B9C9F77D/2453941.png",
+  "details": {
+    "type": "Transmutation",
+    "skins": [
+      10010
+    ]
+  }
+}

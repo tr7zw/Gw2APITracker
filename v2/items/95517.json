@@ -1,0 +1,64 @@
+{
+  "name": "Plush Mordy",
+  "description": "\u003cc\u003d@flavor\u003eEveryone\u0027s other favorite stuffed dragon friend! Huggably plump and durable. Sleeps in on weekdays.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 413,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "NotUpgradeable",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95517,
+  "chat_link": "[\u0026AgEddQEA]",
+  "icon": "https://render.guildwars2.com/file/D34B0701173B110A232401F319074410C6BD58B7/2571015.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 224.07,
+    "infix_upgrade": {
+      "id": 1115,
+      "buff": {
+        "skill_id": 33199,
+        "description": "+25 Toughness\n+25 Condition Damage\n+12 Condition Duration\n+12 Vitality"
+      },
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 92
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 49
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 92
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 49
+        }
+      ]
+    }
+  }
+}

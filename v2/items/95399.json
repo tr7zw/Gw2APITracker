@@ -1,0 +1,73 @@
+{
+  "name": "Celestial Rascal Coat of the Thief",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "default_skin": 179,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95399,
+  "chat_link": "[\u0026AgGndAEA]",
+  "icon": "https://render.guildwars2.com/file/C4B962E00E64027091BB95AC759BC03915422C7E/61455.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Medium",
+    "defense": 338,
+    "infusion_slots": [],
+    "attribute_adjustment": 384.12,
+    "infix_upgrade": {
+      "id": 559,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 63
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 63
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 63
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 63
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 63
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 63
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 63
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 63
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 63
+        }
+      ]
+    },
+    "suffix_item_id": 24818
+  }
+}

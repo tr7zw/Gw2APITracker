@@ -1,0 +1,35 @@
+{
+  "name": "Asuran Scanner",
+  "description": "",
+  "type": "Weapon",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 0,
+  "default_skin": 2661,
+  "game_types": [
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 8042,
+  "chat_link": "[\u0026AgFqHwAA]",
+  "icon": "https://render.guildwars2.com/file/167018D742BBF5120BE4ACE80DE5B049089D20F2/62700.png",
+  "details": {
+    "type": "LargeBundle",
+    "damage_type": "Physical",
+    "min_power": 393,
+    "max_power": 434,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 276.952,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    }
+  }
+}

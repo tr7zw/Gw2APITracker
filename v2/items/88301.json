@@ -1,7 +1,7 @@
 {
   "name": "White Wings Glider Combo",
   "description": "This package contains the White Feather Wings Glider and White Feather Wings Backpiece.",
-  "type": "Container",
+  "type": "Consumable",
   "level": 0,
   "rarity": "Masterwork",
   "vendor_value": 0,
@@ -25,6 +25,9 @@
   "chat_link": "[\u0026AgHtWAEA]",
   "icon": "https://render.guildwars2.com/file/FB9A14C04510096F4E33205AC2DE15BB07ADA0FF/1010543.png",
   "details": {
-    "type": "Immediate"
+    "type": "Transmutation",
+    "skins": [
+      6035
+    ]
   }
 }
