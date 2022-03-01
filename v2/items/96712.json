@@ -1,0 +1,47 @@
+{
+  "name": "Flame Serpent Scepter",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 198,
+  "default_skin": 10056,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 96712,
+  "chat_link": "[\u0026AgHIeQEA]",
+  "icon": "https://render.guildwars2.com/file/492A75617EF3FFBD3159EDEE3378020523D8D0CB/2472240.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 793,
+    "max_power": 894,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 301.824,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 106
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 75
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 75
+        }
+      ]
+    }
+  }
+}

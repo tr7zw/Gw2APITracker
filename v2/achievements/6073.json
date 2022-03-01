@@ -1,0 +1,95 @@
+{
+  "id": 6073,
+  "name": "Dichotomy",
+  "description": "",
+  "requirement": "Collect these  items and skins to receive the vindicator\u0027s greatsword, Dichotomy.",
+  "locked_text": "Begin training the revenant\u0027s vindicator elite specialization.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 10566
+    },
+    {
+      "type": "Skin",
+      "id": 10501
+    },
+    {
+      "type": "Item",
+      "id": 97632
+    },
+    {
+      "type": "Item",
+      "id": 97373
+    },
+    {
+      "type": "Item",
+      "id": 96233
+    },
+    {
+      "type": "Item",
+      "id": 97517
+    },
+    {
+      "type": "Item",
+      "id": 97523
+    },
+    {
+      "type": "Item",
+      "id": 97329
+    },
+    {
+      "type": "Item",
+      "id": 97171
+    },
+    {
+      "type": "Item",
+      "id": 97633
+    },
+    {
+      "type": "Item",
+      "id": 97599
+    },
+    {
+      "type": "Item",
+      "id": 97010
+    },
+    {
+      "type": "Item",
+      "id": 96460
+    },
+    {
+      "type": "Item",
+      "id": 97455
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    },
+    {
+      "count": 14,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    6143
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 97868,
+      "count": 1
+    }
+  ]
+}

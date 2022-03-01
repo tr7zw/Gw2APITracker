@@ -1,0 +1,51 @@
+{
+  "name": "Saltspray Scepter",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 10229,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97561,
+  "chat_link": "[\u0026AgEZfQEA]",
+  "icon": "https://render.guildwars2.com/file/E39DD4A7019DF9EDDBAA727F179064DADBBD58CB/2596589.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 895,
+    "max_power": 1010,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1681,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 102
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 102
+        }
+      ]
+    }
+  }
+}

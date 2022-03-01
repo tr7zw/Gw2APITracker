@@ -1,0 +1,31 @@
+{
+  "id": 6213,
+  "name": "Protector of Kaineng",
+  "description": "",
+  "requirement": "Destroy  malfunctioning jade mechs in New Kaineng City.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 50,
+      "points": 1
+    },
+    {
+      "count": 100,
+      "points": 1
+    },
+    {
+      "count": 200,
+      "points": 0
+    }
+  ],
+  "prerequisites": [
+    6196
+  ],
+  "point_cap": 2
+}

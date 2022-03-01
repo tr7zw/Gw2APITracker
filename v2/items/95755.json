@@ -1,0 +1,49 @@
+{
+  "name": "Ritualist\u0027s Ancient Canthan Light Helm",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 248,
+  "default_skin": 10743,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95755,
+  "chat_link": "[\u0026AgELdgEA]",
+  "icon": "https://render.guildwars2.com/file/A9C270D39B2A03ED04A79924F1DE1B0C513E120B/2602255.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 65,
+    "infusion_slots": [],
+    "attribute_adjustment": 150.912,
+    "infix_upgrade": {
+      "id": 1686,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 45
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 45
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 25
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 25
+        }
+      ]
+    }
+  }
+}

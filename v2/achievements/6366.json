@@ -1,0 +1,39 @@
+{
+  "id": 6366,
+  "name": "Aetherblade Cleanup",
+  "description": "",
+  "requirement": "Defeat each of the Aetherblade lieutenants during the Seitung Province meta-event.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Haunted Aetherblade"
+    },
+    {
+      "type": "Text",
+      "text": "Aetherblade Rampager"
+    },
+    {
+      "type": "Text",
+      "text": "Aetherblade Assassin"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    }
+  ]
+}

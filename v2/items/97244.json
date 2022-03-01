@@ -1,0 +1,51 @@
+{
+  "name": "Saltspray Focus",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 10684,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97244,
+  "chat_link": "[\u0026AgHcewEA]",
+  "icon": "https://render.guildwars2.com/file/2058A3D544242C1D61C69EF19D2924CFFC41DF2E/2596481.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 832,
+    "max_power": 883,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1681,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 102
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 102
+        }
+      ]
+    }
+  }
+}

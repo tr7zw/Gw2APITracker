@@ -1,0 +1,63 @@
+{
+  "id": 6185,
+  "name": "Eternal Aetherblade Shenanigans",
+  "description": "",
+  "requirement": "Successfully complete events involving the Aetherblades in Seitung Province.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Repeatable",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Repel the Aetherblade assault in Daigo Ward."
+    },
+    {
+      "type": "Text",
+      "text": "Defend the monastery."
+    },
+    {
+      "type": "Text",
+      "text": "Escort officer Roz near the monastery."
+    },
+    {
+      "type": "Text",
+      "text": "Defeat the Aetherblade champion near the monastery."
+    },
+    {
+      "type": "Text",
+      "text": "Defeat the Aetherblade leader in Haiju Plains."
+    },
+    {
+      "type": "Text",
+      "text": "Repel the Aetherblade assault in Emerald Park."
+    },
+    {
+      "type": "Text",
+      "text": "Repel the Aetherblade assault in Jaya Bluffs."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 0
+    }
+  ],
+  "prerequisites": [
+    6088
+  ],
+  "point_cap": 2
+}

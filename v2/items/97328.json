@@ -1,0 +1,47 @@
+{
+  "name": "Flame Serpent Rifle",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 297,
+  "default_skin": 10051,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97328,
+  "chat_link": "[\u0026AgEwfAEA]",
+  "icon": "https://render.guildwars2.com/file/2329C20B9F0E072109F151FF2A1F80CBA758CCC8/2472230.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 873,
+    "max_power": 1067,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 603.648,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 211
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 151
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 151
+        }
+      ]
+    }
+  }
+}

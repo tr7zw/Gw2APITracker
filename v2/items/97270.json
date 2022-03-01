@@ -1,0 +1,51 @@
+{
+  "name": "Saltspray Axe",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 10361,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97270,
+  "chat_link": "[\u0026AgH2ewEA]",
+  "icon": "https://render.guildwars2.com/file/7B9ACE4D4D5E297AD7A5F50202C7470DA0C47DA0/2596407.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 857,
+    "max_power": 1048,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1681,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 102
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 102
+        }
+      ]
+    }
+  }
+}

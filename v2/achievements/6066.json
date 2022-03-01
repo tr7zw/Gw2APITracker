@@ -1,0 +1,46 @@
+{
+  "id": 6066,
+  "name": "Turtle Unlock: Getting Stronger",
+  "description": "",
+  "requirement": "Feed your turtle various fish fillets.",
+  "locked_text": "Unlocks once your turtle has outgrown baby food.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 95625
+    },
+    {
+      "type": "Item",
+      "id": 95838
+    },
+    {
+      "type": "Item",
+      "id": 97539
+    },
+    {
+      "type": "Item",
+      "id": 97597
+    },
+    {
+      "type": "Item",
+      "id": 96452
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 5,
+      "points": 5
+    }
+  ]
+}

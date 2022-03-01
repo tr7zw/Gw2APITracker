@@ -1,0 +1,35 @@
+{
+  "id": 6194,
+  "name": "Cultures of Echovald: The Tengu",
+  "description": "",
+  "requirement": "Participate in all the events related to the tengu of Echovald Wilds.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Compete with tengu youngsters in the Mori Village archery contest."
+    },
+    {
+      "type": "Text",
+      "text": "Track down the missing tengu, Tateo."
+    },
+    {
+      "type": "Text",
+      "text": "Rescue Tateo from the corrupted wildlife."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    }
+  ]
+}

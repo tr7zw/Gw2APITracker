@@ -1,0 +1,50 @@
+{
+  "name": "Authority",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 10233,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97581,
+  "chat_link": "[\u0026AgEtfQEA]",
+  "icon": "https://render.guildwars2.com/file/41093E380216FB0DD7A941A0086BF2EDDBD443B1/2595880.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Choking",
+    "min_power": 895,
+    "max_power": 1010,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1681,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 102
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 102
+        }
+      ]
+    }
+  }
+}

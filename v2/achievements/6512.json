@@ -1,0 +1,39 @@
+{
+  "id": 6512,
+  "name": "Honorary Citizen of New Kaineng",
+  "description": "",
+  "requirement": "Complete all of the renown hearts in New Kaineng City.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Help the tengu of Cobble Ward restore their district."
+    },
+    {
+      "type": "Text",
+      "text": "Help the East Precinct protect Grub Lane."
+    },
+    {
+      "type": "Text",
+      "text": "Help Xunlai Jade test and promote jade tech."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 3
+    },
+    {
+      "count": 2,
+      "points": 3
+    },
+    {
+      "count": 3,
+      "points": 3
+    }
+  ]
+}

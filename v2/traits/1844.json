@@ -65,6 +65,34 @@
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
       "duration": 1
+    },
+    {
+      "text": "Life Siphon Healing",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "value": 28,
+      "target": "Healing"
+    },
+    {
+      "text": "Life Siphon Damage",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "value": 32,
+      "target": "Power"
+    },
+    {
+      "text": "Damage while in Shroud",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "value": 48,
+      "target": "Power"
+    },
+    {
+      "text": "Healing while in Shroud",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "value": 42,
+      "target": "Healing"
     }
   ],
   "specialization": 19,

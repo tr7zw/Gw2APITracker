@@ -1,0 +1,34 @@
+{
+  "name": "Sheaf of Recipes: Dragon\u0027s Gaze",
+  "description": "Unlocks all recipes needed to craft the Dragon\u0027s Gaze.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Ascended",
+  "vendor_value": 160,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 96302,
+  "chat_link": "[\u0026AgEueAEA]",
+  "icon": "https://render.guildwars2.com/file/077B91E457CFA9ABE67DAFF923570A4BDB974D47/849320.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 13564,
+    "extra_recipe_ids": [
+      13635,
+      13652,
+      13800
+    ]
+  }
+}

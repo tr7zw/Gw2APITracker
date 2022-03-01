@@ -1,0 +1,84 @@
+{
+  "id": 6356,
+  "name": "Lost Lore",
+  "description": "\"The truth may be hidden, distorted, or lost, but never destroyed. Eventually, it always finds its way back into the light.\"—Zei Ri, former Purist initiate",
+  "requirement": "Locate the lost records of Shing Jea\u0027s history across Tyria.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Meet with Juwon Ral from the Ministry of Archives in New Kaineng City."
+    },
+    {
+      "type": "Text",
+      "text": "Foil the Purist plot in the monastery gardens."
+    },
+    {
+      "type": "Text",
+      "text": "Root out saboteurs in the New Kaineng City archives district."
+    },
+    {
+      "type": "Text",
+      "text": "Drive Purists out of their secret meeting place in the Jaya Bluffs."
+    },
+    {
+      "type": "Text",
+      "text": "Search for lost records at the summit of the Assassin\u0027s Path."
+    },
+    {
+      "type": "Text",
+      "text": "Search for lost records beneath the emperor\u0027s feet."
+    },
+    {
+      "type": "Text",
+      "text": "Search for lost records in a great library across the sea."
+    },
+    {
+      "type": "Text",
+      "text": "Search for lost records in the markets of New Kaineng City."
+    },
+    {
+      "type": "Text",
+      "text": "Search for lost records in the mists of Zen Daijun."
+    },
+    {
+      "type": "Text",
+      "text": "Return to Balam Ri after collecting all the lost records."
+    },
+    {
+      "type": "Text",
+      "text": "Speak with Balam Ri and accept her request."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 2
+    },
+    {
+      "count": 11,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 96257,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Unknown",
+      "id": 622
+    }
+  ]
+}

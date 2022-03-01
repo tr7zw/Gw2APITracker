@@ -18,10 +18,10 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
-      "duration": 5,
+      "duration": 4,
       "status": "Confusion",
       "description": "Damage received on skill activation; stacks intensity.",
-      "apply_count": 2
+      "apply_count": 3
     },
     {
       "text": "Damage",
@@ -47,6 +47,11 @@
       "type": "Distance",
       "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
       "distance": 240
+    },
+    {
+      "text": "Explosion",
+      "type": "NoData",
+      "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png"
     }
   ],
   "description": "Smash your target with a final heavy strike, inflicting additional confusion. You, your mech, and allies near you gain barrier.",

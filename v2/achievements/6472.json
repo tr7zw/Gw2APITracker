@@ -1,0 +1,39 @@
+{
+  "id": 6472,
+  "name": "Cultures of Echovald: The Wardens",
+  "description": "",
+  "requirement": "Participate in all the events related to the Wardens.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Prevent the Speaker defector from dying so that she can foil Igne Mossheart."
+    },
+    {
+      "type": "Text",
+      "text": "Protect the Speaker defector as she removes Igne Mossheart\u0027s wards."
+    },
+    {
+      "type": "Text",
+      "text": "Disrupt Igne Mossheart\u0027s followers before they can complete their vile ritual."
+    },
+    {
+      "type": "Text",
+      "text": "Defeat Igne Mossheart before he can complete his vile ritual."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    }
+  ]
+}

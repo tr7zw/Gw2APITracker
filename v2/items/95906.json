@@ -1,0 +1,30 @@
+{
+  "name": "Research Kit",
+  "description": "Double-click to salvage a crafted item for research notes.",
+  "type": "Tool",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 25,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95906,
+  "chat_link": "[\u0026AgGidgEA]",
+  "icon": "https://render.guildwars2.com/file/75FB93F7EA0D3CFC0E023D1C72BE205457F905F7/66768.png",
+  "details": {
+    "type": "Salvage",
+    "charges": 250
+  }
+}

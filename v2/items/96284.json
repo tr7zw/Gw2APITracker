@@ -1,0 +1,51 @@
+{
+  "name": "Saltspray Sword",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 10671,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 96284,
+  "chat_link": "[\u0026AgEceAEA]",
+  "icon": "https://render.guildwars2.com/file/C1D17F964931159AAEBF1EFE40AF07DB550308BA/2596647.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 905,
+    "max_power": 1000,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1681,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 102
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 102
+        }
+      ]
+    }
+  }
+}

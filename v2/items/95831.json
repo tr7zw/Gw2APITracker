@@ -1,0 +1,34 @@
+{
+  "name": "Sheaf of Recipes: Dragon\u0027s Weight",
+  "description": "Unlocks all recipes needed to craft the Dragon\u0027s Weight.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Ascended",
+  "vendor_value": 160,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95831,
+  "chat_link": "[\u0026AgFXdgEA]",
+  "icon": "https://render.guildwars2.com/file/3520E022E7E669026648DC6A280B3CDD7DBE1302/849327.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 13802,
+    "extra_recipe_ids": [
+      13554,
+      13884,
+      13800
+    ]
+  }
+}

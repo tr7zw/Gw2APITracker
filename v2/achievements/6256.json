@@ -1,0 +1,29 @@
+{
+  "id": 6256,
+  "name": "Not-So-Peaceful Shrine",
+  "description": "No, really, they\u0027ll get it next time!",
+  "requirement": "Defeat each of the enemies that is summoned in the ritual at the shrine to Hanuku.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Hidden",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Unknown",
+      "id": 603
+    }
+  ]
+}

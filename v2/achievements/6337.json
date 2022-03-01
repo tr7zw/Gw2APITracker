@@ -1,0 +1,95 @@
+{
+  "id": 6337,
+  "name": "Crushing Weight",
+  "description": "",
+  "requirement": "Collect these  items and skins to receive the untamed\u0027s hammer, Crushing Weight.",
+  "locked_text": "Begin training the ranger\u0027s untamed elite specialization.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 10424
+    },
+    {
+      "type": "Skin",
+      "id": 10529
+    },
+    {
+      "type": "Item",
+      "id": 96651
+    },
+    {
+      "type": "Item",
+      "id": 97280
+    },
+    {
+      "type": "Item",
+      "id": 97217
+    },
+    {
+      "type": "Item",
+      "id": 96580
+    },
+    {
+      "type": "Item",
+      "id": 96305
+    },
+    {
+      "type": "Item",
+      "id": 97604
+    },
+    {
+      "type": "Item",
+      "id": 97659
+    },
+    {
+      "type": "Item",
+      "id": 96860
+    },
+    {
+      "type": "Item",
+      "id": 96529
+    },
+    {
+      "type": "Item",
+      "id": 97030
+    },
+    {
+      "type": "Item",
+      "id": 95735
+    },
+    {
+      "type": "Item",
+      "id": 96584
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    },
+    {
+      "count": 14,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    6211
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 97083,
+      "count": 1
+    }
+  ]
+}

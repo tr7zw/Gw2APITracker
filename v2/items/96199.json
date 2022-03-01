@@ -1,0 +1,59 @@
+{
+  "name": "Traveling Tankard",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 413,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 96199,
+  "chat_link": "[\u0026AgHHdwEA]",
+  "icon": "https://render.guildwars2.com/file/FA95090208AB6AB1D609AB9F06C8B37DF1EE1825/2594557.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 224.07,
+    "infix_upgrade": {
+      "id": 1697,
+      "buff": {
+        "skill_id": 63926
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 92
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 49
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 49
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 92
+        }
+      ]
+    }
+  }
+}

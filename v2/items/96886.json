@@ -1,0 +1,34 @@
+{
+  "name": "Sheaf of Recipes: Dragon\u0027s Flight",
+  "description": "Unlocks all recipes needed to craft the Dragon\u0027s Flight.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Ascended",
+  "vendor_value": 160,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 96886,
+  "chat_link": "[\u0026AgF2egEA]",
+  "icon": "https://render.guildwars2.com/file/1A060693BEC1773D0F07514442E81F60CF270D07/849330.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 13609,
+    "extra_recipe_ids": [
+      13587,
+      13682,
+      13800
+    ]
+  }
+}

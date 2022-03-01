@@ -1,0 +1,75 @@
+{
+  "id": 6448,
+  "name": "The Fate of House zu Heltzer",
+  "description": "",
+  "requirement": "Work with Valeria to discover the fate of House zu Heltzer of Echovald.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Meet with Valeria and accept her request."
+    },
+    {
+      "type": "Text",
+      "text": "Find a pristine Kurzick relic within the rubble in House zu Heltzer."
+    },
+    {
+      "type": "Text",
+      "text": "Return to Valeria with the pristine Kurzick relic."
+    },
+    {
+      "type": "Text",
+      "text": "Pay respects to Countess Danika zu Heltzer at her gravestone."
+    },
+    {
+      "type": "Text",
+      "text": "Return to Valeria in the House zu Heltzer ruins with Danika\u0027s tapestry piece."
+    },
+    {
+      "type": "Text",
+      "text": "Track down seven of the zu Heltzer tapestry pieces by completing the Tracing the Tapestry achievement."
+    },
+    {
+      "type": "Text",
+      "text": "Meet with Valeria in Mori Village in Echovald Wilds."
+    },
+    {
+      "type": "Text",
+      "text": "Speak with Valeria in Arborstone."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    },
+    {
+      "count": 8,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Unknown",
+      "id": 550
+    }
+  ]
+}

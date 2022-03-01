@@ -1,0 +1,51 @@
+{
+  "name": "Saltspray Shield",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 10722,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 96679,
+  "chat_link": "[\u0026AgGneQEA]",
+  "icon": "https://render.guildwars2.com/file/5A3F99DFBCE4FE971991DF02C4DD11ECF826A40E/2596611.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 806,
+    "max_power": 909,
+    "defense": 61,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1681,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 102
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 102
+        }
+      ]
+    }
+  }
+}

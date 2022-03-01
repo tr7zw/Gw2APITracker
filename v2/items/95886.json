@@ -1,0 +1,29 @@
+{
+  "name": "Fish Egg",
+  "description": "A type of bait that can be used in conjunction with a fishing rod and lures to catch fish.",
+  "type": "Gathering",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "NotUpgradeable",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95886,
+  "chat_link": "[\u0026AgGOdgEA]",
+  "icon": "https://render.guildwars2.com/file/D05006FE08960BB6C76E0D57D7D1D30DFE675DC4/2594404.png",
+  "details": {
+    "type": "Foo"
+  }
+}

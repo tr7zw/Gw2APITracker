@@ -1,0 +1,47 @@
+{
+  "name": "Flame Serpent Staff",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 297,
+  "default_skin": 10050,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97624,
+  "chat_link": "[\u0026AgFYfQEA]",
+  "icon": "https://render.guildwars2.com/file/020CC50853E9D37843BAE806F2D18013A4972D56/2472271.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 872,
+    "max_power": 984,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 603.648,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 211
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 151
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 151
+        }
+      ]
+    }
+  }
+}

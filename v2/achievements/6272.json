@@ -1,0 +1,48 @@
+{
+  "id": 6272,
+  "icon": "https://render.guildwars2.com/file/B9D0CE6626009307023BD779FC43665366B1A4C6/2604526.png",
+  "name": "Cantha Explorer",
+  "description": "You\u0027ve explored all major areas of Cantha.",
+  "requirement": "Explore all areas in Cantha.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Explore all areas in Seitung Province."
+    },
+    {
+      "type": "Text",
+      "text": "Explore all areas in New Kaineng City."
+    },
+    {
+      "type": "Text",
+      "text": "Explore all areas in the Echovald Wilds."
+    },
+    {
+      "type": "Text",
+      "text": "Explore all areas in Dragon\u0027s End."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 2
+    }
+  ]
+}

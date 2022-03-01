@@ -1,0 +1,64 @@
+{
+  "id": 6388,
+  "name": "Purist Shenanigans",
+  "description": "Nothing ruins the ambience of a place quite like unhinged xenophobia. Deal with the Purists to make Shing Jea great and bigot-free again.",
+  "requirement": "Successfully complete events involving the Purists in Seitung Province.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Escort Detective Joi Bak to the Shrine of Zunraa during the day."
+    },
+    {
+      "type": "Text",
+      "text": "Confront the source of disturbances at the Shrine of Zunraa during the day."
+    },
+    {
+      "type": "Text",
+      "text": "Unmask the Purist sympathizers in the monastery."
+    },
+    {
+      "type": "Text",
+      "text": "Subdue the Purist operatives in the monastery."
+    },
+    {
+      "type": "Text",
+      "text": "Escort Detective Joi Bak to the Shrine of Zunraa at night."
+    },
+    {
+      "type": "Text",
+      "text": "Confront the source of disturbances at the Shrine of Zunraa at night."
+    },
+    {
+      "type": "Text",
+      "text": "Escort Gale Hookbeak to the abandoned shrine in Jaya Bluffs."
+    },
+    {
+      "type": "Text",
+      "text": "Defend Gale Hookbeak from Purist assailants in Jaya Bluffs."
+    },
+    {
+      "type": "Text",
+      "text": "Defeat the Purist champion in Jaya Bluffs."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    },
+    {
+      "count": 9,
+      "points": 1
+    }
+  ]
+}

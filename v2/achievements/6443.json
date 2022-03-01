@@ -1,0 +1,30 @@
+{
+  "id": 6443,
+  "name": "Reliving the Tragedy",
+  "description": "",
+  "requirement": "Regain access to the hidden vault in the depths of Old Kaineng.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    6282
+  ],
+  "point_cap": 2,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 96533,
+      "count": 1
+    }
+  ]
+}

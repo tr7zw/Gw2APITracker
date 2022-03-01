@@ -1,0 +1,31 @@
+{
+  "id": 6270,
+  "name": "Winn\u0027s Favorite Patron",
+  "description": "",
+  "requirement": "Tip Winn.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 25,
+      "points": 1
+    },
+    {
+      "count": 50,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 377
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 6236,
+  "name": "Raptor Ride: Chantry of the Crab",
+  "description": "",
+  "requirement": "Ride a raptor from Chantry of the Crab to the top of Kaolai Tower in under 1 minute without dismounting or teleporting.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 97024,
+      "count": 3
+    },
+    {
+      "type": "Mastery",
+      "region": "Unknown",
+      "id": 548
+    }
+  ]
+}

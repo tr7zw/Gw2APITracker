@@ -1,0 +1,95 @@
+{
+  "id": 6467,
+  "name": "Possession",
+  "description": "",
+  "requirement": "Collect these  items and skins to receive the specter\u0027s scepter, Possession.",
+  "locked_text": "Begin training the thief\u0027s specter elite specialization.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 10246
+    },
+    {
+      "type": "Skin",
+      "id": 10321
+    },
+    {
+      "type": "Item",
+      "id": 96880
+    },
+    {
+      "type": "Item",
+      "id": 95619
+    },
+    {
+      "type": "Item",
+      "id": 95887
+    },
+    {
+      "type": "Item",
+      "id": 96377
+    },
+    {
+      "type": "Item",
+      "id": 97617
+    },
+    {
+      "type": "Item",
+      "id": 96344
+    },
+    {
+      "type": "Item",
+      "id": 96322
+    },
+    {
+      "type": "Item",
+      "id": 97477
+    },
+    {
+      "type": "Item",
+      "id": 95598
+    },
+    {
+      "type": "Item",
+      "id": 97286
+    },
+    {
+      "type": "Item",
+      "id": 96622
+    },
+    {
+      "type": "Item",
+      "id": 97381
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    },
+    {
+      "count": 14,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    6205
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 97845,
+      "count": 1
+    }
+  ]
+}

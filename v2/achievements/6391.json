@@ -1,0 +1,47 @@
+{
+  "id": 6391,
+  "name": "Silenced Voices",
+  "description": "They never heard you coming.",
+  "requirement": "Complete Shisokana\u0027s special mission parameters inside the Speakers camp.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Speak to Shisokana to receive further instructions."
+    },
+    {
+      "type": "Text",
+      "text": "Go to the Jade Brotherhood camp."
+    },
+    {
+      "type": "Text",
+      "text": "Steal the tech from the Jade Brotherhood lieutenant\u0027s chest."
+    },
+    {
+      "type": "Text",
+      "text": "Return to the Speakers camp."
+    },
+    {
+      "type": "Text",
+      "text": "Gain access to the Speaker ritualist\u0027s tent."
+    },
+    {
+      "type": "Text",
+      "text": "Plant the stolen tech in the Speaker ritualist\u0027s tent."
+    },
+    {
+      "type": "Text",
+      "text": "Inform the Speakers lieutenant of the ritualist\u0027s \"betrayal.\""
+    }
+  ],
+  "tiers": [
+    {
+      "count": 7,
+      "points": 1
+    }
+  ]
+}

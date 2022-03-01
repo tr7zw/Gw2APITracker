@@ -1,0 +1,29 @@
+{
+  "id": 6257,
+  "name": "Derelict Temple Raptor Ride",
+  "description": "If your raptor isn\u0027t a strong swimmer, try navigating some low, mountainous terrain.",
+  "requirement": "Ride a raptor from the bell of the derelict temple to the northeastern lighthouse in under 5 minutes without dismounting or teleporting.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 97024,
+      "count": 3
+    },
+    {
+      "type": "Mastery",
+      "region": "Unknown",
+      "id": 581
+    }
+  ]
+}

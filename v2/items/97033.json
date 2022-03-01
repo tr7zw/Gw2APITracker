@@ -1,0 +1,57 @@
+{
+  "name": "Ring of Rebirth (Infused)",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 495,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse",
+    "Infused"
+  ],
+  "restrictions": [],
+  "id": 97033,
+  "chat_link": "[\u0026AgEJewEA]",
+  "icon": "https://render.guildwars2.com/file/0A2263F6C5CB73685F741170E9F320B9F6647212/2596746.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      },
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 268.884,
+    "stat_choices": [
+      1694,
+      1697
+    ]
+  },
+  "upgrades_into": [
+    {
+      "upgrade": "Attunement",
+      "item_id": 97237
+    }
+  ],
+  "upgrades_from": [
+    {
+      "upgrade": "Infusion",
+      "item_id": 96167
+    }
+  ]
+}

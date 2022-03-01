@@ -1,0 +1,50 @@
+{
+  "name": "Lamplighter\u0027s Torch",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 10574,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 96990,
+  "chat_link": "[\u0026AgHeegEA]",
+  "icon": "https://render.guildwars2.com/file/4EE6DE0E0A6E012855DBCC1F05D77B04483DA0AB/2595930.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Choking",
+    "min_power": 789,
+    "max_power": 926,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1681,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 102
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 102
+        }
+      ]
+    }
+  }
+}

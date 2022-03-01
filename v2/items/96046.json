@@ -1,0 +1,28 @@
+{
+  "name": "Unusual Coin",
+  "description": "Adds Unusual Coin to your wallet.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "BulkConsume",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 96046,
+  "chat_link": "[\u0026AgEudwEA]",
+  "icon": "https://render.guildwars2.com/file/317D28DB0CE26EAAA767D11207CB01DED845B0BC/2594267.png",
+  "details": {
+    "type": "Immediate"
+  }
+}

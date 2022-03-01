@@ -1,0 +1,47 @@
+{
+  "name": "Wicked Bite",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 130
+    },
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 5
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 0.8
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+      "duration": 5,
+      "status": "Vulnerability",
+      "description": "Damage and condition damage taken are increased; stacks intensity.",
+      "apply_count": 3
+    }
+  ],
+  "description": "Bite your foe, leaving them vulnerable.",
+  "icon": "https://render.guildwars2.com/file/397A05530D261006478011B91A40C8D85606AD15/2604863.png",
+  "type": "Profession",
+  "weapon_type": "None",
+  "professions": [
+    "Ranger"
+  ],
+  "slot": "Profession_1",
+  "flags": [
+    "NoUnderwater"
+  ],
+  "specialization": 55,
+  "id": 64038,
+  "chat_link": "[\u0026Bib6AAA\u003d]"
+}

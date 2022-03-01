@@ -1,0 +1,47 @@
+{
+  "name": "Flame Serpent Mace",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 198,
+  "default_skin": 10049,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97309,
+  "chat_link": "[\u0026AgEdfAEA]",
+  "icon": "https://render.guildwars2.com/file/E0737AD5B3C644EE1705E09C063FB73B11F6712B/2472210.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 793,
+    "max_power": 894,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 301.824,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 106
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 75
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 75
+        }
+      ]
+    }
+  }
+}

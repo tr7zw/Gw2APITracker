@@ -1,0 +1,39 @@
+{
+  "id": 6465,
+  "name": "Winning Hearts and Minds",
+  "description": "You\u0027ll take any job, no matter how big or small.",
+  "requirement": "Complete all renown hearts in the Canthan regions.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Complete all renown hearts in Seitung Province."
+    },
+    {
+      "type": "Text",
+      "text": "Complete all renown hearts in New Kaineng City."
+    },
+    {
+      "type": "Text",
+      "text": "Complete all renown hearts in Echovald Wilds."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    }
+  ]
+}

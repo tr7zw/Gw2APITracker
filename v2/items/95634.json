@@ -1,0 +1,51 @@
+{
+  "name": "Crucible",
+  "description": "Forged with a lost technique.",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 10367,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95634,
+  "chat_link": "[\u0026AgGSdQEA]",
+  "icon": "https://render.guildwars2.com/file/79B2D1E29A22B0367CF52B0508130E60FD5BD829/2595920.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Choking",
+    "min_power": 905,
+    "max_power": 1000,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1681,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 102
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 102
+        }
+      ]
+    }
+  }
+}

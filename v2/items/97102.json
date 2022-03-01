@@ -1,0 +1,75 @@
+{
+  "name": "Chunk of Pure Jade",
+  "description": "Double-click to apply to an item with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 256,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 97102,
+  "chat_link": "[\u0026AgFOewEA]",
+  "icon": "https://render.guildwars2.com/file/C7E13105A754F639BB6C7A439F06CF45C9EB1C18/2595189.png",
+  "details": {
+    "type": "Gem",
+    "flags": [
+      "ShortBow",
+      "HeavyArmor",
+      "LightArmor",
+      "Dagger",
+      "MediumArmor",
+      "Focus",
+      "Greatsword",
+      "Hammer",
+      "Trinket",
+      "Harpoon",
+      "Mace",
+      "Pistol",
+      "Rifle",
+      "Scepter",
+      "Shield",
+      "Speargun",
+      "Axe",
+      "Staff",
+      "Sword",
+      "Torch",
+      "Trident",
+      "Warhorn",
+      "LongBow"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 1684,
+      "buff": {
+        "skill_id": 64844,
+        "description": "+17 Power\n+17 Ferocity\n+9 Vitality\n+9 Precision"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 17
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 9
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 9
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 17
+        }
+      ]
+    },
+    "suffix": ""
+  }
+}

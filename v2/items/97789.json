@@ -1,0 +1,29 @@
+{
+  "name": "Recipe: Shadow Serpent Warhorn",
+  "description": "A recipe to make a Shadow Serpent weapon.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 128,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97789,
+  "chat_link": "[\u0026AgH9fQEA]",
+  "icon": "https://render.guildwars2.com/file/93BB38D0F4094B077C740A9531923397BE65405F/849303.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 13768
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": 6381,
+  "name": "The End of the Celestial Ministry",
+  "description": "\"The Celestial Ministry ruled with an iron fist. Now...now they\u0027ve scattered to the winds.\"—Hui",
+  "requirement": "Assist Hui in gathering a history of the Celestial Ministers.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Meet with Hui and accept his request."
+    },
+    {
+      "type": "Text",
+      "text": "Speak to Xiaobo, the descendant of Minister Jaisan."
+    },
+    {
+      "type": "Text",
+      "text": "Search the archives for Xiaobo\u0027s family history."
+    },
+    {
+      "type": "Text",
+      "text": "Return to Hui with the document about the Ministry of Earth."
+    },
+    {
+      "type": "Text",
+      "text": "Speak to Ju, the descendant of Minister Nai."
+    },
+    {
+      "type": "Text",
+      "text": "Find rare flowers for Ju to get in her good graces."
+    },
+    {
+      "type": "Text",
+      "text": "Return Ju\u0027s family history to Hui."
+    },
+    {
+      "type": "Text",
+      "text": "Speak to Suyin, the descendant of Minister Tao."
+    },
+    {
+      "type": "Text",
+      "text": "Disrupt the Jade Brotherhood in Kaineng City to get in Suyin\u0027s good graces."
+    },
+    {
+      "type": "Text",
+      "text": "Return Suyin\u0027s document to Hui."
+    },
+    {
+      "type": "Text",
+      "text": "Disrupt Purist activity in Kaineng City for Hui."
+    },
+    {
+      "type": "Text",
+      "text": "Return to Hui to discuss your findings."
+    },
+    {
+      "type": "Text",
+      "text": "Speak to Suyin to get her family history."
+    },
+    {
+      "type": "Text",
+      "text": "Speak to Ju to receive her family history."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 8,
+      "points": 1
+    },
+    {
+      "count": 12,
+      "points": 1
+    },
+    {
+      "count": 14,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 96412,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Unknown",
+      "id": 553
+    }
+  ]
+}

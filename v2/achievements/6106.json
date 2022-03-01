@@ -1,0 +1,93 @@
+{
+  "id": 6106,
+  "name": "Desert Isles Fisher",
+  "description": "\u003cc\u003d@flavor\u003eThe charm of fishing is in pursuing something elusive, though attainable. It is a simple yet profound practice of hope.\u003c/c\u003e",
+  "requirement": "Collect  different fish from the isles off the coast of Elona.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 97369
+    },
+    {
+      "type": "Item",
+      "id": 96085
+    },
+    {
+      "type": "Item",
+      "id": 95794
+    },
+    {
+      "type": "Item",
+      "id": 97756
+    },
+    {
+      "type": "Item",
+      "id": 97746
+    },
+    {
+      "type": "Item",
+      "id": 96513
+    },
+    {
+      "type": "Item",
+      "id": 96225
+    },
+    {
+      "type": "Item",
+      "id": 95890
+    },
+    {
+      "type": "Item",
+      "id": 96397
+    },
+    {
+      "type": "Item",
+      "id": 97844
+    },
+    {
+      "type": "Item",
+      "id": 97001
+    },
+    {
+      "type": "Item",
+      "id": 97443
+    },
+    {
+      "type": "Item",
+      "id": 95849
+    },
+    {
+      "type": "Item",
+      "id": 97489
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 2
+    },
+    {
+      "count": 7,
+      "points": 3
+    },
+    {
+      "count": 14,
+      "points": 4
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 96347,
+      "count": 4
+    }
+  ]
+}

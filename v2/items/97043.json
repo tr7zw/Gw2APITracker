@@ -1,0 +1,29 @@
+{
+  "name": "Recipe: Recycler: Dragonite Ore",
+  "description": "A recipe to make a jade bot module that automatically converts junk to dragonite ore.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 128,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97043,
+  "chat_link": "[\u0026AgETewEA]",
+  "icon": "https://render.guildwars2.com/file/023F37F2E500C7BAC1D056B30051F0D1E0451214/1894705.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 13716
+  }
+}

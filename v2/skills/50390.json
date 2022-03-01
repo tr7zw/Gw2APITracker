@@ -117,6 +117,20 @@
         "status": "Legendary Dragon Stance",
         "description": "Currently invoking the power of Glint."
       }
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "PrefixedBuff",
+      "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+      "duration": 0,
+      "status": "Combo Field: Water",
+      "apply_count": 1,
+      "prefix": {
+        "text": "Apply Buff/Condition",
+        "icon": "https://render.guildwars2.com/file/E1910F4C5C74E0B00AB262D2D3DBA3FB51BE90CA/2491626.png",
+        "status": "Legendary Alliance Stance",
+        "description": "Currently invoking the power of Archemorus and Saint Viktor."
+      }
     }
   ],
   "description": "Saturate your target, creating a chilling area around them with a field type based on which legend you are attuned to upon casting. Allies in the affected area gain beneficial effects.",

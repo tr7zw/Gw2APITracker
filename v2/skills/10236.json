@@ -122,19 +122,13 @@
       "apply_count": 1
     },
     {
-      "text": "Number of Targets",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-      "value": 5
-    },
-    {
       "text": "Duration Increase",
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
       "duration": 3
     }
   ],
-  "description": "Signet Passive: Grant swiftness and an additional random boon every ten seconds. \nSignet Active: Extends the duration of all boons on nearby allies.",
+  "description": "Signet Passive: Grant swiftness and an additional random boon every ten seconds.\nSignet Active: Extends the duration of all boons on yourself.",
   "icon": "https://render.guildwars2.com/file/636A59096E48DD9B01D11F74EFECAEDCC4DB300D/103750.png",
   "type": "Utility",
   "weapon_type": "None",
@@ -153,7 +147,7 @@
       "text": "Number of Targets",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-      "value": 10,
+      "value": 5,
       "requires_trait": 752,
       "overrides": 14
     }

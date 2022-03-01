@@ -1,0 +1,53 @@
+{
+  "id": 6265,
+  "name": "Eternal Seitung Harbor Shenanigans",
+  "description": "",
+  "requirement": "Successfully complete events around Seitung Harbor in Seitung Province.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Repeatable",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Help Ho-Sook deliver her goods to the correct recipient."
+    },
+    {
+      "type": "Text",
+      "text": "Help Chin-Hae deliver his goods to the correct recipient."
+    },
+    {
+      "type": "Text",
+      "text": "Find the toys stolen by the mischievous spirits."
+    },
+    {
+      "type": "Text",
+      "text": "Subdue Tae-Sung to protect the spirits of Zen Daijun."
+    },
+    {
+      "type": "Text",
+      "text": "Stop the extremist Speakers from binding the spirits."
+    },
+    {
+      "type": "Text",
+      "text": "Escort the ritualist to the main temple in Zen Daijun."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    6150
+  ],
+  "point_cap": 3
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Ember Sweep",
+  "facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+      "duration": 3,
+      "status": "Burning",
+      "description": "Deals damage every second; stacks intensity.",
+      "apply_count": 2
+    },
+    {
+      "text": "Knockback",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/400B7FD39724FBD700B94AB8AB52B5B9167646F4/2440715.png",
+      "distance": 100
+    }
+  ],
+  "description": "Sweeping attack.",
+  "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+  "flags": [],
+  "id": 65538,
+  "chat_link": "[\u0026BgIAAQA\u003d]"
+}

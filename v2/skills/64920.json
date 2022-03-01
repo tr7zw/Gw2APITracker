@@ -1,0 +1,49 @@
+{
+  "name": "Explosive Uppercut",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 2000
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 0.65
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+      "duration": 5,
+      "status": "Burning",
+      "description": "Deals damage every second; stacks intensity.",
+      "apply_count": 1
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    },
+    {
+      "text": "Explosion",
+      "type": "NoData",
+      "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png"
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 240
+    }
+  ],
+  "description": "The Mech Rider launches toward the target with explosive force, dealing heavy damage and applying extreme vulnerability to enemies hit. Targets with extreme vulnerability take significant damage from this attack.",
+  "icon": "https://render.guildwars2.com/file/E37CC65C73AD743AD86C3372921A6CF8641F3C49/2503702.png",
+  "flags": [],
+  "id": 64920,
+  "chat_link": "[\u0026Bpj9AAA\u003d]"
+}

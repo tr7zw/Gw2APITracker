@@ -1,0 +1,69 @@
+{
+  "id": 6209,
+  "name": "Eternal Purist Shenanigans",
+  "description": "",
+  "requirement": "Successfully complete events involving the Purists in Seitung Province.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Repeatable",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Escort Detective Joi Bak to the Shrine of Zunraa during the day."
+    },
+    {
+      "type": "Text",
+      "text": "Confront the source of disturbances at the Shrine of Zunraa during the day."
+    },
+    {
+      "type": "Text",
+      "text": "Unmask the Purist sympathizers in the monastery."
+    },
+    {
+      "type": "Text",
+      "text": "Subdue the Purist operatives in the monastery."
+    },
+    {
+      "type": "Text",
+      "text": "Escort Detective Joi Bak to the Shrine of Zunraa at night."
+    },
+    {
+      "type": "Text",
+      "text": "Confront the source of disturbances at the Shrine of Zunraa at night."
+    },
+    {
+      "type": "Text",
+      "text": "Escort Gale Hookbeak to the abandoned shrine in Jaya Bluffs."
+    },
+    {
+      "type": "Text",
+      "text": "Defend Gale Hookbeak from Purist assailants in Jaya Bluffs."
+    },
+    {
+      "type": "Text",
+      "text": "Defeat the Purist champion in Jaya Bluffs."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    },
+    {
+      "count": 9,
+      "points": 0
+    }
+  ],
+  "prerequisites": [
+    6388
+  ],
+  "point_cap": 2
+}

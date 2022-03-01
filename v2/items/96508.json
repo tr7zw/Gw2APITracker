@@ -1,0 +1,51 @@
+{
+  "name": "Purifier",
+  "description": "Wielded by the Ministry of Purity\u0027s chief enforcer.",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 10342,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 96508,
+  "chat_link": "[\u0026AgH8eAEA]",
+  "icon": "https://render.guildwars2.com/file/1B27C42B809E7DE813BABA0FAF20B5BF2E93E7FC/2595861.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Choking",
+    "min_power": 895,
+    "max_power": 1010,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1681,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 102
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 102
+        }
+      ]
+    }
+  }
+}

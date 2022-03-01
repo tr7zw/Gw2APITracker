@@ -1,0 +1,39 @@
+{
+  "id": 6271,
+  "name": "Terror on the Jade Sea",
+  "description": "",
+  "requirement": "Participate in all shipwreck events.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Clear debris and look for survivors."
+    },
+    {
+      "type": "Text",
+      "text": "Defend Sister Sangsa while she provides first aid."
+    },
+    {
+      "type": "Text",
+      "text": "Escort Sangsa to the Harvest Temple."
+    },
+    {
+      "type": "Text",
+      "text": "Protect the Harvest Temple."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    }
+  ]
+}

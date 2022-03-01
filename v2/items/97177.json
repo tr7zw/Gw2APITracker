@@ -1,0 +1,34 @@
+{
+  "name": "Sheaf of Recipes: Dragon\u0027s Breath",
+  "description": "Unlocks all recipes needed to craft the Dragon\u0027s Breath.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Ascended",
+  "vendor_value": 160,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97177,
+  "chat_link": "[\u0026AgGZewEA]",
+  "icon": "https://render.guildwars2.com/file/96A924E9F149E20BF5341E6478D00DA3EA49ACEE/849336.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 13560,
+    "extra_recipe_ids": [
+      13594,
+      13797,
+      13800
+    ]
+  }
+}

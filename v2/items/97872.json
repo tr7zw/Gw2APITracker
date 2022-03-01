@@ -1,0 +1,29 @@
+{
+  "name": "Lava Beetle",
+  "description": "A type of bait that can be used in conjunction with a fishing rod and lures to catch fish.",
+  "type": "Gathering",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "NotUpgradeable",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97872,
+  "chat_link": "[\u0026AgFQfgEA]",
+  "icon": "https://render.guildwars2.com/file/FB9DA7C7D29CFCBA54060AC32245BB41FFD701A4/2594420.png",
+  "details": {
+    "type": "Foo"
+  }
+}

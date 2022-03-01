@@ -1,0 +1,28 @@
+{
+  "id": 6359,
+  "name": "Lucky Guess",
+  "description": "",
+  "requirement": "Pick the winning moa racer in Club Canach.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    6268
+  ]
+}

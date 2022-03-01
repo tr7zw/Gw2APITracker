@@ -1,0 +1,46 @@
+{
+  "id": 6408,
+  "name": "Turtle Unlock: Starting Small",
+  "description": "",
+  "requirement": "Collect turtle food to help your little friend grow.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 95857
+    },
+    {
+      "type": "Item",
+      "id": 97047
+    },
+    {
+      "type": "Item",
+      "id": 96459
+    },
+    {
+      "type": "Item",
+      "id": 96039
+    },
+    {
+      "type": "Item",
+      "id": 97510
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 5,
+      "points": 5
+    }
+  ]
+}

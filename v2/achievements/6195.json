@@ -1,0 +1,31 @@
+{
+  "id": 6195,
+  "name": "Repair Crew Royale",
+  "description": "",
+  "requirement": "Complete repair crew escort events in the north and south of New Kaineng.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "North Repair Crew Escort"
+    },
+    {
+      "type": "Text",
+      "text": "South Repair Crew Escort"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 2
+    }
+  ]
+}

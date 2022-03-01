@@ -68,5 +68,29 @@
   "icon": "https://render.guildwars2.com/file/9875EAC10F3A93F8EF4BC40204806C6172E14494/2141735.png",
   "flags": [],
   "id": 62881,
-  "chat_link": "[\u0026BqH1AAA\u003d]"
+  "chat_link": "[\u0026BqH1AAA\u003d]",
+  "traited_facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+      "duration": 2,
+      "status": "Protection",
+      "description": "Incoming strike damage decreased by 33%; stacks duration.",
+      "apply_count": 1,
+      "requires_trait": 2251,
+      "overrides": 4
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+      "duration": 2,
+      "status": "Protection",
+      "description": "Incoming strike damage decreased by 33%; stacks duration.",
+      "apply_count": 1,
+      "requires_trait": 2251,
+      "overrides": 5
+    }
+  ]
 }

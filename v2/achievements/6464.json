@@ -1,0 +1,29 @@
+{
+  "id": 6464,
+  "name": "Jumping Training",
+  "description": "You will jump up to that platform every day so that it becomes second nature. From there, you\u0027ll find even higher places to jump. Do this, and one day, you\u0027ll look down and realize how far you\u0027ve come.",
+  "requirement": "Successfully reach the top of the jumping beams course in the training grounds.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 97024,
+      "count": 5
+    },
+    {
+      "type": "Mastery",
+      "region": "Unknown",
+      "id": 662
+    }
+  ]
+}

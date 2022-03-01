@@ -1,0 +1,44 @@
+{
+  "name": "Unrelenting Assault",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 170
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 0.2
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+      "duration": 5,
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
+      "apply_count": 1
+    },
+    {
+      "text": "Number of Hits",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 5
+    },
+    {
+      "text": "Evade",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/9F19DB1D3E1629390F2360F2D866651BBC0F6155/1938788.png",
+      "duration": 2
+    }
+  ],
+  "description": "Mai Trin unleashes a flurry of attacks with her sword, teleporting before each strike.",
+  "icon": "https://render.guildwars2.com/file/A1E252A0C9F506B73465E09919D119D706702DD8/1013004.png",
+  "flags": [],
+  "id": 65461,
+  "chat_link": "[\u0026BrX/AAA\u003d]"
+}

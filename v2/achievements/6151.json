@@ -1,0 +1,32 @@
+{
+  "id": 6151,
+  "name": "Honorary Plumber",
+  "description": "",
+  "requirement": "Clear  underwater drains in Kaineng City.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    },
+    {
+      "count": 14,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 97024,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 6269,
+  "name": "Cryptseeker",
+  "description": "",
+  "requirement": "Create etchings of three amber keystones around the Echovald Wilds.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Recorded the symbols on the keystone at the Tangled Altar."
+    },
+    {
+      "type": "Text",
+      "text": "Recorded the symbols on the keystone at Lake Lutgardis."
+    },
+    {
+      "type": "Text",
+      "text": "Recorded the symbols on the keystone at Saint Anjeka\u0027s Shrine."
+    },
+    {
+      "type": "Text",
+      "text": "Return to Scholar Jieun."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 4,
+      "points": 3
+    }
+  ]
+}

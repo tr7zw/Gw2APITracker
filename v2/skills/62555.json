@@ -14,6 +14,13 @@
       "value": 30
     },
     {
+      "text": "Initial Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 1
+    },
+    {
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/3AD50BA43AA00EA97C6152D5EC6092FE0F0979D0/2479369.png",
@@ -73,7 +80,7 @@
       "description": "Consecutive attacks grant boons.",
       "apply_count": 1,
       "requires_trait": 2198,
-      "overrides": 2
+      "overrides": 3
     },
     {
       "text": "Courage Increase per Kill",
@@ -88,7 +95,7 @@
       "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
       "duration": 4,
       "requires_trait": 2198,
-      "overrides": 3
+      "overrides": 4
     }
   ]
 }

@@ -1,0 +1,95 @@
+{
+  "id": 6413,
+  "name": "Gravity",
+  "description": "",
+  "requirement": "Collect these  items and skins to receive the catalyst\u0027s hammer, Gravity.",
+  "locked_text": "Begin training the elementalist\u0027s catalyst elite specialization.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 10442
+    },
+    {
+      "type": "Skin",
+      "id": 10362
+    },
+    {
+      "type": "Item",
+      "id": 97577
+    },
+    {
+      "type": "Item",
+      "id": 96251
+    },
+    {
+      "type": "Item",
+      "id": 96891
+    },
+    {
+      "type": "Item",
+      "id": 97331
+    },
+    {
+      "type": "Item",
+      "id": 97442
+    },
+    {
+      "type": "Item",
+      "id": 97794
+    },
+    {
+      "type": "Item",
+      "id": 97475
+    },
+    {
+      "type": "Item",
+      "id": 97478
+    },
+    {
+      "type": "Item",
+      "id": 96021
+    },
+    {
+      "type": "Item",
+      "id": 95750
+    },
+    {
+      "type": "Item",
+      "id": 95694
+    },
+    {
+      "type": "Item",
+      "id": 97718
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    },
+    {
+      "count": 14,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    6197
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 97651,
+      "count": 1
+    }
+  ]
+}

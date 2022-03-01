@@ -1,0 +1,92 @@
+{
+  "id": 6439,
+  "name": "Oceanic Trash Collector",
+  "description": "",
+  "requirement": "Collect these  junk items by fishing throughout Tyria.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 95767
+    },
+    {
+      "type": "Item",
+      "id": 96819
+    },
+    {
+      "type": "Item",
+      "id": 96885
+    },
+    {
+      "type": "Item",
+      "id": 96153
+    },
+    {
+      "type": "Item",
+      "id": 97032
+    },
+    {
+      "type": "Item",
+      "id": 96500
+    },
+    {
+      "type": "Item",
+      "id": 97250
+    },
+    {
+      "type": "Item",
+      "id": 97667
+    },
+    {
+      "type": "Item",
+      "id": 95880
+    },
+    {
+      "type": "Item",
+      "id": 97252
+    },
+    {
+      "type": "Item",
+      "id": 97566
+    },
+    {
+      "type": "Item",
+      "id": 96779
+    },
+    {
+      "type": "Item",
+      "id": 97707
+    },
+    {
+      "type": "Item",
+      "id": 96063
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    },
+    {
+      "count": 14,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 96347,
+      "count": 1
+    }
+  ]
+}

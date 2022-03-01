@@ -1,0 +1,45 @@
+{
+  "name": "Berserker\u0027s Light Antique Hat",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 330,
+  "default_skin": 10610,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97809,
+  "chat_link": "[\u0026AgERfgEA]",
+  "icon": "https://render.guildwars2.com/file/A9A60792D6A52AD2DBB6B1CD6378006911BAA6B6/2602249.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 73,
+    "infusion_slots": [],
+    "attribute_adjustment": 170.72,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 60
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 43
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 43
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 6230,
+  "name": "Canthan Wanderer",
+  "description": "",
+  "requirement": "Complete the Wandering Cantha daily meta-achievement in End of Dragons  time.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 1
+    },
+    {
+      "count": 15,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 97166,
+      "count": 1
+    },
+    {
+      "type": "Title",
+      "id": 378
+    }
+  ]
+}

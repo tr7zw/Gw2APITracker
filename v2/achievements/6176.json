@@ -1,0 +1,62 @@
+{
+  "id": 6176,
+  "name": "Stomping Around",
+  "description": "",
+  "requirement": "Unlock the siege turtle by completing siege turtle collections.",
+  "locked_text": "Unlocks after participating in the Dragon\u0027s End meta-event.",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Received a turtle egg from the Dragon\u0027s End meta-event."
+    },
+    {
+      "type": "Text",
+      "text": "Bring the turtle egg to Rota in Arborstone, and discuss what to do next."
+    },
+    {
+      "type": "Text",
+      "text": "Complete the Turtle Unlock: Starting Small achievement."
+    },
+    {
+      "type": "Text",
+      "text": "Discuss additional feeding options with Rota in Arborstone."
+    },
+    {
+      "type": "Text",
+      "text": "Complete the Turtle Unlock: Getting Stronger achievement."
+    },
+    {
+      "type": "Text",
+      "text": "Discuss saddle construction with Rota in Arborstone."
+    },
+    {
+      "type": "Text",
+      "text": "Complete the Turtle Unlock: Suiting Up achievement."
+    },
+    {
+      "type": "Text",
+      "text": "Talk to Rota to receive your turtle."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 8,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Unknown",
+      "id": 631
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Saltspray Dagger",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 10547,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95710,
+  "chat_link": "[\u0026AgHedQEA]",
+  "icon": "https://render.guildwars2.com/file/07764FB4F3C69D1651095F63E705D769944A9210/2596461.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 924,
+    "max_power": 981,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1681,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 102
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 102
+        }
+      ]
+    }
+  }
+}

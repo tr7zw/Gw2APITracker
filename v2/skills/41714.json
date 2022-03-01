@@ -28,10 +28,19 @@
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/DFB4D1B50AE4D6A275B349E15B179261EE3EB0AF/102854.png",
-      "duration": 2,
-      "status": "Aegis",
-      "description": "Block the next incoming attack; stacks duration.",
+      "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+      "duration": 3,
+      "status": "Protection",
+      "description": "Incoming strike damage decreased by 33%; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
+      "duration": 3,
+      "status": "Resolution",
+      "description": "Incoming condition damage decreased by 33%; stacks duration.",
       "apply_count": 1
     },
     {
@@ -55,7 +64,7 @@
       "duration": 12
     }
   ],
-  "description": "Mantra. Gain health. Grant aegis to you and allies in front of and around you.",
+  "description": "Mantra. Gain health. Grant boons to you and allies in front of and around you.",
   "icon": "https://render.guildwars2.com/file/9E64514AF3280620040C0DBC61A7AABB0F765E54/1770463.png",
   "type": "Heal",
   "weapon_type": "None",
@@ -77,7 +86,7 @@
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "duration": 10,
       "requires_trait": 2063,
-      "overrides": 7
+      "overrides": 8
     }
   ]
 }

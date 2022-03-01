@@ -1,0 +1,47 @@
+{
+  "name": "Saltspray Short Bow",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 10433,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 96504,
+  "chat_link": "[\u0026AgH4eAEA]",
+  "icon": "https://render.guildwars2.com/file/BA929F1A7813DCB23D52FFA0DB1F370280CA7C15/2596445.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 905,
+    "max_power": 1000,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 753,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 171
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 239
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 171
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": 6490,
+  "name": "Mech Behavior Analysis",
+  "description": "",
+  "requirement": "Complete 6 behavior scans in Cantha.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Record combat protocols while helping MinSec capture Usoku\u0027s Watchtower in Seitung Province\u0027s North Peninsula."
+    },
+    {
+      "type": "Text",
+      "text": "Scan the distressed mech outside of the Ministry of Transit in Seitung Province."
+    },
+    {
+      "type": "Text",
+      "text": "Assist a merchant or cleaning mech in recovering from a malfunction in New Kaineng City."
+    },
+    {
+      "type": "Text",
+      "text": "Attend a posh party at Tae-Jin\u0027s estate in New Kaineng City."
+    },
+    {
+      "type": "Text",
+      "text": "Scan the prototype mech at the Nahpui Lab in New Kaineng City."
+    },
+    {
+      "type": "Text",
+      "text": "Scan a scrapped mech at the Xunlai Jade Junkyard in Echovald Wilds."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 6,
+      "points": 3
+    }
+  ]
+}

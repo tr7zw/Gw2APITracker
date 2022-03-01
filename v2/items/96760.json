@@ -1,0 +1,47 @@
+{
+  "name": "Saltspray Hammer",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 10232,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 96760,
+  "chat_link": "[\u0026AgH4eQEA]",
+  "icon": "https://render.guildwars2.com/file/0E70066099274D9AB559BB0D6F96DF1EB923FF22/2596519.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 985,
+    "max_power": 1111,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 753,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 171
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 239
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 171
+        }
+      ]
+    }
+  }
+}

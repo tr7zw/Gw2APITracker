@@ -1,0 +1,50 @@
+{
+  "name": "Harmony",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 10699,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 96146,
+  "chat_link": "[\u0026AgGSdwEA]",
+  "icon": "https://render.guildwars2.com/file/D2342E621B906847DABBA1A3B3C53E2D72DC3707/2595837.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Choking",
+    "min_power": 832,
+    "max_power": 883,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1681,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 102
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 102
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 6187,
+  "name": "Renowned Adventurer: Echovald Wilds",
+  "description": "",
+  "requirement": "Complete all the renown hearts in the Echovald Wilds.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Mori Village"
+    },
+    {
+      "type": "Text",
+      "text": "The Speakers Headquarters"
+    },
+    {
+      "type": "Text",
+      "text": "The Jade Brotherhood Headquarters"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 3
+    },
+    {
+      "count": 2,
+      "points": 3
+    },
+    {
+      "count": 3,
+      "points": 3
+    }
+  ]
+}

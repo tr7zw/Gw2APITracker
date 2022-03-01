@@ -1,0 +1,51 @@
+{
+  "name": "Final Verdict",
+  "description": "Carried by a traveling magister, it is said that this axe weighed more heavily when raised above the guilty.",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 10473,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95997,
+  "chat_link": "[\u0026AgH9dgEA]",
+  "icon": "https://render.guildwars2.com/file/C29E4B2DD7039AF23641DF1064E40F6B0A0DBBE2/2595813.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Choking",
+    "min_power": 857,
+    "max_power": 1048,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1681,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 102
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 102
+        }
+      ]
+    }
+  }
+}

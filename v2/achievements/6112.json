@@ -1,0 +1,37 @@
+{
+  "id": 6112,
+  "name": "Golem Behavior Analysis",
+  "description": "",
+  "requirement": "Complete 4 behavior scans in Tyria.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Scan the C.L.E.A.N. 5000 golem at the Thaumanova Reactor in Metrica Province."
+    },
+    {
+      "type": "Text",
+      "text": "Defeat the Inquest Golem Mark II at Whitland Flats in Mount Maelstrom."
+    },
+    {
+      "type": "Text",
+      "text": "Scan a deactivated DYN 4652 golem at Goldenlight Hallow in Timberline Falls."
+    },
+    {
+      "type": "Text",
+      "text": "Scan a golem memory module at the Inquest Hexfoundry G-14 in Sparkfly Fen."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 4,
+      "points": 3
+    }
+  ]
+}

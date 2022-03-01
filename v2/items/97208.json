@@ -1,0 +1,27 @@
+{
+  "name": "Thruster Plans",
+  "description": "Plans for a propulsion system using jade energy. If it works, it should generate significant lift.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 5000,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97208,
+  "chat_link": "[\u0026AgG4ewEA]",
+  "icon": "https://render.guildwars2.com/file/300BAD0F809D641DC93807EE0FFF90FBE75AF6B6/1999092.png",
+  "details": {
+    "type": "Immediate"
+  }
+}

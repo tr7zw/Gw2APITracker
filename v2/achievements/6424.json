@@ -1,0 +1,38 @@
+{
+  "id": 6424,
+  "name": "Champion Plumber",
+  "description": "",
+  "requirement": "Clear  underwater drains in Kaineng City.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 7,
+      "points": 1
+    },
+    {
+      "count": 14,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    6151
+  ],
+  "point_cap": 2,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 97024,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 6165,
+  "name": "A Blooming Errand",
+  "description": "\"My flowers are like children. They need love...coddling. Like all good things, they take time and attention.\"—Ju",
+  "requirement": "Find 4 rare flowers across Tyria.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Find an alpine lily in Snowden Drifts."
+    },
+    {
+      "type": "Text",
+      "text": "Find a yellow gentian flower in the Fields of Ruin."
+    },
+    {
+      "type": "Text",
+      "text": "Find a pungent gladiolus in the Wayfarer Foothills."
+    },
+    {
+      "type": "Text",
+      "text": "Assist Researcher Yon in Seitung Province to receive crimson sunflowers."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 4,
+      "points": 1
+    }
+  ]
+}

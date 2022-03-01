@@ -1,0 +1,23 @@
+{
+  "name": "Heart of Jade",
+  "description": "Periodically generate a jade power charge for one hour. Persists across map changes. Does not work in story instances.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [],
+  "restrictions": [],
+  "id": 97786,
+  "chat_link": "[\u0026AgH6fQEA]",
+  "icon": "https://render.guildwars2.com/file/30E46503C16C1B2A59AC4A087FA6D0C40DF6BDA5/2594265.png",
+  "details": {
+    "type": "Immediate"
+  }
+}

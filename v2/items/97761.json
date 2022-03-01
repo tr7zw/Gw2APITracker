@@ -1,0 +1,29 @@
+{
+  "name": "Recipe: Shadow Serpent Pistol",
+  "description": "A recipe to make a Shadow Serpent weapon.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 128,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97761,
+  "chat_link": "[\u0026AgHhfQEA]",
+  "icon": "https://render.guildwars2.com/file/0FE244BAD2EF262F95F17948AA23076A2AB407EF/849299.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 13837
+  }
+}

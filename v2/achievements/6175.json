@@ -1,0 +1,97 @@
+{
+  "id": 6175,
+  "name": "Looking Back",
+  "description": "",
+  "requirement": "Accompany Marjory to various locations that had significance to Belinda.",
+  "locked_text": "Complete the End of Dragons story to unlock.",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Check in with Marjory at Arborstone."
+    },
+    {
+      "type": "Text",
+      "text": "Find Marjory in the Kaineng Ruins."
+    },
+    {
+      "type": "Text",
+      "text": "Find Marjory in Cobble Ward."
+    },
+    {
+      "type": "Text",
+      "text": "Find Marjory near the Jade Monument."
+    },
+    {
+      "type": "Text",
+      "text": "Meet Marjory near Haiju Docks."
+    },
+    {
+      "type": "Text",
+      "text": "Find Marjory at the monastery."
+    },
+    {
+      "type": "Text",
+      "text": "Find Marjory near the afflicted memorial."
+    },
+    {
+      "type": "Text",
+      "text": "Find Marjory near the Zen Daijun shrines."
+    },
+    {
+      "type": "Text",
+      "text": "Following the conclusion of The Battle for the Jade Sea, find Marjory around the Outer Terrace."
+    },
+    {
+      "type": "Text",
+      "text": "Following the conclusion of The Battle for the Jade Sea, find Marjory in the Harvest Complex."
+    },
+    {
+      "type": "Text",
+      "text": "Following the conclusion of The Battle for the Jade Sea, find Marjory in Seafarer\u0027s Enclave."
+    },
+    {
+      "type": "Text",
+      "text": "Meet Marjory by the Silent Surf."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 8,
+      "points": 1
+    },
+    {
+      "count": 11,
+      "points": 1
+    },
+    {
+      "count": 12,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    6326
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Unknown",
+      "id": 617
+    },
+    {
+      "type": "Title",
+      "id": 384
+    }
+  ]
+}

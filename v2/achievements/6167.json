@@ -1,0 +1,95 @@
+{
+  "id": 6167,
+  "name": "The Keenest Cut",
+  "description": "",
+  "requirement": "Collect these  items and skins to receive the bladesworn\u0027s pistol, the Keenest Cut.",
+  "locked_text": "Begin training the warrior\u0027s bladesworn elite specialization.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 10245
+    },
+    {
+      "type": "Skin",
+      "id": 10297
+    },
+    {
+      "type": "Item",
+      "id": 96413
+    },
+    {
+      "type": "Item",
+      "id": 96791
+    },
+    {
+      "type": "Item",
+      "id": 97158
+    },
+    {
+      "type": "Item",
+      "id": 97306
+    },
+    {
+      "type": "Item",
+      "id": 95645
+    },
+    {
+      "type": "Item",
+      "id": 97722
+    },
+    {
+      "type": "Item",
+      "id": 96968
+    },
+    {
+      "type": "Item",
+      "id": 95677
+    },
+    {
+      "type": "Item",
+      "id": 96550
+    },
+    {
+      "type": "Item",
+      "id": 96166
+    },
+    {
+      "type": "Item",
+      "id": 97641
+    },
+    {
+      "type": "Item",
+      "id": 95806
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    },
+    {
+      "count": 14,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    6293
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 97355,
+      "count": 1
+    }
+  ]
+}

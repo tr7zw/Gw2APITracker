@@ -1,0 +1,47 @@
+{
+  "id": 6372,
+  "name": "Lutgardis Maestro",
+  "description": "",
+  "requirement": "Play all melodies at the Lutgardis Conservatory.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Melody of Water"
+    },
+    {
+      "type": "Text",
+      "text": "Melody of Wildlife"
+    },
+    {
+      "type": "Text",
+      "text": "Melody of Stone"
+    },
+    {
+      "type": "Text",
+      "text": "Melody of Flora"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 0
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Pile of Chopped Lettuce",
+  "description": "Made from 250 lettuce from Fidget in Arborstone.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 5000,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 96039,
+  "chat_link": "[\u0026AgEndwEA]",
+  "icon": "https://render.guildwars2.com/file/93661A035F55E8395B3EC001DD3855C0F5744A17/63147.png",
+  "details": {
+    "type": "Immediate"
+  }
+}

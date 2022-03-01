@@ -1,0 +1,40 @@
+{
+  "id": 6335,
+  "name": "Master of the Unseen",
+  "description": "",
+  "requirement": "Find and open hidden chests throughout Cantha.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 12,
+      "points": 1
+    },
+    {
+      "count": 24,
+      "points": 1
+    },
+    {
+      "count": 36,
+      "points": 1
+    },
+    {
+      "count": 50,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Unknown",
+      "id": 563
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 6399,
+  "name": "Building a Better Bot",
+  "description": "Sentience is a step closer to understanding mortality.",
+  "requirement": "Retrieve a variety of behavioral data to help build a better bot.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Meet Nozomi and accept her request."
+    },
+    {
+      "type": "Text",
+      "text": "Gather behavior data from golems in Tyria."
+    },
+    {
+      "type": "Text",
+      "text": "Return data to Nozomi."
+    },
+    {
+      "type": "Text",
+      "text": "Gather behavior data from mechs in Cantha."
+    },
+    {
+      "type": "Text",
+      "text": "Return data to Nozomi."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 4
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 96412,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Unknown",
+      "id": 571
+    }
+  ]
+}

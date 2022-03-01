@@ -1,0 +1,95 @@
+{
+  "id": 6295,
+  "name": "Prima Donna",
+  "description": "",
+  "requirement": "Collect these  items and skins to receive the virtuoso\u0027s dagger, Prima Donna.",
+  "locked_text": "Begin training the mesmer\u0027s virtuoso elite specialization.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 10466
+    },
+    {
+      "type": "Skin",
+      "id": 10494
+    },
+    {
+      "type": "Item",
+      "id": 97215
+    },
+    {
+      "type": "Item",
+      "id": 95866
+    },
+    {
+      "type": "Item",
+      "id": 95839
+    },
+    {
+      "type": "Item",
+      "id": 96957
+    },
+    {
+      "type": "Item",
+      "id": 96941
+    },
+    {
+      "type": "Item",
+      "id": 96443
+    },
+    {
+      "type": "Item",
+      "id": 96335
+    },
+    {
+      "type": "Item",
+      "id": 95966
+    },
+    {
+      "type": "Item",
+      "id": 97758
+    },
+    {
+      "type": "Item",
+      "id": 95988
+    },
+    {
+      "type": "Item",
+      "id": 96963
+    },
+    {
+      "type": "Item",
+      "id": 96859
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    },
+    {
+      "count": 14,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    6098
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 97360,
+      "count": 1
+    }
+  ]
+}

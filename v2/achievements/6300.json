@@ -1,0 +1,46 @@
+{
+  "id": 6300,
+  "name": "Fueled by Elder Dragons",
+  "description": "",
+  "requirement": "Charge each Elder Dragon battery at least once.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Zhaitan"
+    },
+    {
+      "type": "Text",
+      "text": "Mordremoth"
+    },
+    {
+      "type": "Text",
+      "text": "Kralkatorrik"
+    },
+    {
+      "type": "Text",
+      "text": "Jormag"
+    },
+    {
+      "type": "Text",
+      "text": "Primordus"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Unknown",
+      "id": 577
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Sheaf of Recipes: Dragon\u0027s Tail",
+  "description": "Unlocks all recipes needed to craft the Dragon\u0027s Tail.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Ascended",
+  "vendor_value": 160,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 96977,
+  "chat_link": "[\u0026AgHRegEA]",
+  "icon": "https://render.guildwars2.com/file/BB7898A431A3B9190EEEF3B408226B9E20CED208/849316.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 13888,
+    "extra_recipe_ids": [
+      13765,
+      13645,
+      13800
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Berserker\u0027s Heavy Antique Helm",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 330,
+  "default_skin": 10418,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97482,
+  "chat_link": "[\u0026AgHKfAEA]",
+  "icon": "https://render.guildwars2.com/file/4413B5B7362FE7B6B2EBD075B436C042AC4C0092/2602220.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 121,
+    "infusion_slots": [],
+    "attribute_adjustment": 170.72,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 60
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 43
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 43
+        }
+      ]
+    }
+  }
+}

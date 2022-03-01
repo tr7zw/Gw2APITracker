@@ -1,0 +1,31 @@
+{
+  "id": 6414,
+  "name": "Fan of the Band",
+  "description": "",
+  "requirement": "Donate to the band\u0027s funds.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 100,
+      "points": 1
+    },
+    {
+      "count": 2500,
+      "points": 1
+    },
+    {
+      "count": 5000,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 383
+    }
+  ]
+}

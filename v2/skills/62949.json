@@ -68,5 +68,29 @@
   "icon": "https://render.guildwars2.com/file/9875EAC10F3A93F8EF4BC40204806C6172E14494/2141735.png",
   "flags": [],
   "id": 62949,
-  "chat_link": "[\u0026BuX1AAA\u003d]"
+  "chat_link": "[\u0026BuX1AAA\u003d]",
+  "traited_facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+      "duration": 12,
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
+      "apply_count": 1,
+      "requires_trait": 2251,
+      "overrides": 5
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+      "duration": 12,
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
+      "apply_count": 1,
+      "requires_trait": 2251,
+      "overrides": 6
+    }
+  ]
 }

@@ -1,0 +1,39 @@
+{
+  "id": 6494,
+  "name": "Renowned Adventurer: Seitung Province",
+  "description": "",
+  "requirement": "Complete all of the renown hearts located in Seitung Province.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Demonstrate your fishing skills to the village fishermen."
+    },
+    {
+      "type": "Text",
+      "text": "Monastery Training"
+    },
+    {
+      "type": "Text",
+      "text": "Assist the temple in its defense."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 3
+    },
+    {
+      "count": 2,
+      "points": 3
+    },
+    {
+      "count": 3,
+      "points": 3
+    }
+  ]
+}

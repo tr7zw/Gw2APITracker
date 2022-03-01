@@ -1,0 +1,29 @@
+{
+  "name": "Recipe: Tier 6 Core",
+  "description": "A recipe to make a jade bot core.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 128,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 96139,
+  "chat_link": "[\u0026AgGLdwEA]",
+  "icon": "https://render.guildwars2.com/file/027D1D382447933D074BE45F405EA1F379471DEB/63127.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 13723
+  }
+}

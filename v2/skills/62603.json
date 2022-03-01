@@ -23,6 +23,13 @@
       "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration."
     },
     {
+      "text": "Initial Self Heal",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "value": 783,
+      "target": "Healing"
+    },
+    {
       "text": "Number of Attacks to Trigger",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
@@ -98,7 +105,7 @@
       "description": "Consecutive attacks grant regenerative effects.",
       "apply_count": 1,
       "requires_trait": 2195,
-      "overrides": 4
+      "overrides": 5
     },
     {
       "text": "Apply Buff/Condition",
@@ -109,7 +116,7 @@
       "description": "Gain health every second; stacks duration.",
       "apply_count": 1,
       "requires_trait": 2195,
-      "overrides": 5
+      "overrides": 6
     },
     {
       "text": "Apply Buff/Condition",

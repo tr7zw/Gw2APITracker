@@ -1,0 +1,47 @@
+{
+  "name": "Flame Serpent Pistol",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 198,
+  "default_skin": 10058,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97394,
+  "chat_link": "[\u0026AgFyfAEA]",
+  "icon": "https://render.guildwars2.com/file/BF3747701B0B0F0ACDEF0A2774DAE8050171B6C8/2472220.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 776,
+    "max_power": 911,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 301.824,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 106
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 75
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 75
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Sheaf of Recipes: Dragon\u0027s Horn",
+  "description": "Unlocks all recipes needed to craft the Dragon\u0027s Horn.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Ascended",
+  "vendor_value": 160,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97021,
+  "chat_link": "[\u0026AgH9egEA]",
+  "icon": "https://render.guildwars2.com/file/98B83AED2BFA9B24D46797DC95E0A0112D6C3D64/849338.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 13653,
+    "extra_recipe_ids": [
+      13532,
+      13520,
+      13800
+    ]
+  }
+}

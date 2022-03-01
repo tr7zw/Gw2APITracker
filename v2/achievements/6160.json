@@ -1,0 +1,54 @@
+{
+  "id": 6160,
+  "name": "Ultimate Dragon Champion",
+  "description": "One champion stands above all.",
+  "requirement": "Defeat the enemy dragon champions summoned by Soo-Won.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Champion Risen"
+    },
+    {
+      "type": "Text",
+      "text": "Champion Mordrem"
+    },
+    {
+      "type": "Text",
+      "text": "Champion Branded"
+    },
+    {
+      "type": "Text",
+      "text": "Champion Destroyer"
+    },
+    {
+      "type": "Text",
+      "text": "Champion Icebrood"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Unknown",
+      "id": 653
+    }
+  ]
+}

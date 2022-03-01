@@ -1,0 +1,95 @@
+{
+  "id": 6495,
+  "name": "Purifier",
+  "description": "",
+  "requirement": "Collect these  items and skins to receive the willbender\u0027s sword, Purifier.",
+  "locked_text": "Begin training the guardian\u0027s willbender elite specialization.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 10634
+    },
+    {
+      "type": "Skin",
+      "id": 10758
+    },
+    {
+      "type": "Item",
+      "id": 97687
+    },
+    {
+      "type": "Item",
+      "id": 95879
+    },
+    {
+      "type": "Item",
+      "id": 96391
+    },
+    {
+      "type": "Item",
+      "id": 95939
+    },
+    {
+      "type": "Item",
+      "id": 96429
+    },
+    {
+      "type": "Item",
+      "id": 97714
+    },
+    {
+      "type": "Item",
+      "id": 96699
+    },
+    {
+      "type": "Item",
+      "id": 97365
+    },
+    {
+      "type": "Item",
+      "id": 97239
+    },
+    {
+      "type": "Item",
+      "id": 96115
+    },
+    {
+      "type": "Item",
+      "id": 96440
+    },
+    {
+      "type": "Item",
+      "id": 97585
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    },
+    {
+      "count": 14,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    6253
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 97649,
+      "count": 1
+    }
+  ]
+}

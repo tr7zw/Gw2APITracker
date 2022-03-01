@@ -1,0 +1,50 @@
+{
+  "name": "Skoll and Hati",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 10665,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95995,
+  "chat_link": "[\u0026AgH7dgEA]",
+  "icon": "https://render.guildwars2.com/file/C4ACA8765B65360EB22297CAE2FFBD060A09DEF6/2595888.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Choking",
+    "min_power": 806,
+    "max_power": 909,
+    "defense": 61,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1681,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 102
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 102
+        }
+      ]
+    }
+  }
+}

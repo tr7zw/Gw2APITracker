@@ -1,0 +1,62 @@
+{
+  "id": 6099,
+  "name": "Turtle Unlock: Suiting Up",
+  "description": "",
+  "requirement": "Collect parts to construct a turtle saddle and turrets.",
+  "locked_text": "Unlocks once your turtle is fully grown.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 95732
+    },
+    {
+      "type": "Item",
+      "id": 96353
+    },
+    {
+      "type": "Item",
+      "id": 97605
+    },
+    {
+      "type": "Item",
+      "id": 96640
+    },
+    {
+      "type": "Item",
+      "id": 97711
+    },
+    {
+      "type": "Item",
+      "id": 96786
+    },
+    {
+      "type": "Item",
+      "id": 97208
+    },
+    {
+      "type": "Item",
+      "id": 97063
+    },
+    {
+      "type": "Item",
+      "id": 97851
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 9,
+      "points": 5
+    }
+  ]
+}

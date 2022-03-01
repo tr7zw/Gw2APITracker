@@ -1,0 +1,51 @@
+{
+  "name": "Saltspray Warhorn",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 10512,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97832,
+  "chat_link": "[\u0026AgEofgEA]",
+  "icon": "https://render.guildwars2.com/file/279D40D0700630F844BCDAAD790BAE72F212C929/2596687.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 814,
+    "max_power": 900,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1681,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 102
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 102
+        }
+      ]
+    }
+  }
+}

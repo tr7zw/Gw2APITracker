@@ -1,0 +1,60 @@
+{
+  "name": "Storyteller\u0027s Lute",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 413,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSalvage",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97322,
+  "chat_link": "[\u0026AgEqfAEA]",
+  "icon": "https://render.guildwars2.com/file/7D04AE7E974BA06ABD20AA27CFD067227AB62C02/2594555.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 224.07,
+    "infix_upgrade": {
+      "id": 1694,
+      "buff": {
+        "skill_id": 64839
+      },
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 92
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 92
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 49
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 49
+        }
+      ]
+    }
+  }
+}

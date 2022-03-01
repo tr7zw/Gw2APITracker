@@ -1,0 +1,67 @@
+{
+  "id": 6415,
+  "name": "Taxi!",
+  "description": "Raptor Taxi: Making boring commutes terrifying and unnecessarily dangerous.",
+  "requirement": "Get a ride from each raptor taxi in Seitung Province.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Shing Jea Monastery"
+    },
+    {
+      "type": "Text",
+      "text": "Seitung Harbor"
+    },
+    {
+      "type": "Text",
+      "text": "Training Grounds"
+    },
+    {
+      "type": "Text",
+      "text": "Zen Daijun"
+    },
+    {
+      "type": "Text",
+      "text": "Eastern Wilds"
+    },
+    {
+      "type": "Text",
+      "text": "North Peninsula"
+    },
+    {
+      "type": "Text",
+      "text": "Daigo Ward"
+    },
+    {
+      "type": "Text",
+      "text": "Jaya Bluffs"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 2,
+      "points": 0
+    },
+    {
+      "count": 4,
+      "points": 0
+    },
+    {
+      "count": 6,
+      "points": 0
+    },
+    {
+      "count": 8,
+      "points": 1
+    }
+  ]
+}

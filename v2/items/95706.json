@@ -1,0 +1,47 @@
+{
+  "name": "Flame Serpent Focus",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 198,
+  "default_skin": 10053,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95706,
+  "chat_link": "[\u0026AgHadQEA]",
+  "icon": "https://render.guildwars2.com/file/122FABABF7C6F3AB9DB904559B0F0A5D915FEDEB/2472165.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 737,
+    "max_power": 782,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 301.824,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 106
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 75
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 75
+        }
+      ]
+    }
+  }
+}

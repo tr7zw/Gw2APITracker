@@ -1,0 +1,95 @@
+{
+  "id": 6093,
+  "name": "Quietus",
+  "description": "",
+  "requirement": "Collect these  items and skins to receive the harbinger\u0027s pistol, Quietus.",
+  "locked_text": "Begin training the necromancer\u0027s harbinger elite specialization.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 10642
+    },
+    {
+      "type": "Skin",
+      "id": 10331
+    },
+    {
+      "type": "Item",
+      "id": 97056
+    },
+    {
+      "type": "Item",
+      "id": 97118
+    },
+    {
+      "type": "Item",
+      "id": 96408
+    },
+    {
+      "type": "Item",
+      "id": 96333
+    },
+    {
+      "type": "Item",
+      "id": 96206
+    },
+    {
+      "type": "Item",
+      "id": 95951
+    },
+    {
+      "type": "Item",
+      "id": 95865
+    },
+    {
+      "type": "Item",
+      "id": 96059
+    },
+    {
+      "type": "Item",
+      "id": 95639
+    },
+    {
+      "type": "Item",
+      "id": 97199
+    },
+    {
+      "type": "Item",
+      "id": 96767
+    },
+    {
+      "type": "Item",
+      "id": 97090
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    },
+    {
+      "count": 14,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    6311
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 96066,
+      "count": 1
+    }
+  ]
+}

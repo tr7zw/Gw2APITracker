@@ -1,0 +1,47 @@
+{
+  "id": 6340,
+  "name": "Jade Shadow",
+  "description": "The Kestrels might have to make room in their ranks.",
+  "requirement": "Complete Kage\u0027s special mission parameters inside the Jade Brotherhood camp.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Speak to Kage to receive further instructions."
+    },
+    {
+      "type": "Text",
+      "text": "Locate the Jade Brotherhood supply cache."
+    },
+    {
+      "type": "Text",
+      "text": "Examine the Jade Brotherhood supply cache."
+    },
+    {
+      "type": "Text",
+      "text": "Go to the Speakers camp."
+    },
+    {
+      "type": "Text",
+      "text": "Locate and steal a source of arcane fire from the Speakers."
+    },
+    {
+      "type": "Text",
+      "text": "Return to the supply cache in the Jade Brotherhood camp."
+    },
+    {
+      "type": "Text",
+      "text": "Destroy the supply cache using the arcane flame to implicate the Speakers."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 7,
+      "points": 1
+    }
+  ]
+}

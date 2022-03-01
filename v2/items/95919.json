@@ -1,0 +1,34 @@
+{
+  "name": "Sheaf of Recipes: Dragon\u0027s Argument",
+  "description": "Unlocks all recipes needed to craft the Dragon\u0027s Argument.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Ascended",
+  "vendor_value": 160,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95919,
+  "chat_link": "[\u0026AgGvdgEA]",
+  "icon": "https://render.guildwars2.com/file/01C770B1294490176DB874720555FCAD9E9A5514/849334.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 13705,
+    "extra_recipe_ids": [
+      13642,
+      13754,
+      13800
+    ]
+  }
+}

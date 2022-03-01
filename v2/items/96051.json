@@ -1,0 +1,51 @@
+{
+  "name": "Saltspray\u0027s Voice",
+  "description": "There is a tale of a ranger who never feared the dragons of the Jade Sea, for the sound of her horn convinced all that she was one of them.",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 10493,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 96051,
+  "chat_link": "[\u0026AgEzdwEA]",
+  "icon": "https://render.guildwars2.com/file/9C18A3AA4A6522D84FBCA84DA84B547F92E102DC/2595942.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Choking",
+    "min_power": 814,
+    "max_power": 900,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1681,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 102
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 102
+        }
+      ]
+    }
+  }
+}

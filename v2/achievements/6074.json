@@ -1,0 +1,61 @@
+{
+  "id": 6074,
+  "name": "Tracing the Tapestry",
+  "description": "\"That was the day the Ministry of Purity attacked. We said our good-byes, and then scattered across Tyria to preserve the bloodline.\"—Countess Danika zu Heltzer",
+  "requirement": "Find the missing pieces of the zu Heltzer tapestry, spread across Tyria.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Someone in Lion\u0027s Arch of Canthan descent may know more."
+    },
+    {
+      "type": "Text",
+      "text": "There could be something hidden in the depths of the Durmand Priory."
+    },
+    {
+      "type": "Text",
+      "text": "There may be tengu outside the Dominion of Winds who could help."
+    },
+    {
+      "type": "Text",
+      "text": "It could be worth pursuing rumors of lost wreckage in the waters surrounding Seitung Province."
+    },
+    {
+      "type": "Text",
+      "text": "An official in New Kaineng City\u0027s Lutgardis Plaza might be able to help you."
+    },
+    {
+      "type": "Text",
+      "text": "The site of an ancient battle in Echovald Wilds might be worth investigating, if you can get in."
+    },
+    {
+      "type": "Text",
+      "text": "Proving yourself at an ancient temple in Dragon\u0027s End could present an opportunity."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    }
+  ]
+}

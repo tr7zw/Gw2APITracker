@@ -1,0 +1,31 @@
+{
+  "id": 6409,
+  "name": "Eternal Seitung Province Meta-Event",
+  "description": "",
+  "requirement": "Defeat the Aetherblade leader in Haiju Plains.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    6468
+  ],
+  "point_cap": 3
+}

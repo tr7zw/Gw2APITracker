@@ -1,0 +1,27 @@
+{
+  "name": "Turret Plans",
+  "description": "Plans for a lightweight turret using jade tech. Once constructed, it should pack a punch.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 5000,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97605,
+  "chat_link": "[\u0026AgFFfQEA]",
+  "icon": "https://render.guildwars2.com/file/516512140F4AABA6A55C4CED666EE13AF91CBD01/1998848.png",
+  "details": {
+    "type": "Immediate"
+  }
+}

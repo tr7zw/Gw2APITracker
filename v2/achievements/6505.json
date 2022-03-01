@@ -1,0 +1,60 @@
+{
+  "id": 6505,
+  "name": "Oceanic Treasure Collector",
+  "description": "",
+  "requirement": "Collect these  valuable junk items by fishing throughout Tyria.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 96234
+    },
+    {
+      "type": "Item",
+      "id": 97015
+    },
+    {
+      "type": "Item",
+      "id": 97747
+    },
+    {
+      "type": "Item",
+      "id": 97007
+    },
+    {
+      "type": "Item",
+      "id": 96016
+    },
+    {
+      "type": "Item",
+      "id": 95816
+    },
+    {
+      "type": "Item",
+      "id": 95885
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 96347,
+      "count": 1
+    }
+  ]
+}

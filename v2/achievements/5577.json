@@ -1,0 +1,54 @@
+{
+  "id": 5577,
+  "name": "Weekly Cantha Strikes",
+  "description": "",
+  "requirement": "Complete  unique Canthan strike within a week.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Weekly"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Strike Mission: Aetherblade Hideout"
+    },
+    {
+      "type": "Text",
+      "text": "Strike Mission: Xunlai Jade Junkyard"
+    },
+    {
+      "type": "Text",
+      "text": "Strike Mission: Kaineng Overlook"
+    },
+    {
+      "type": "Text",
+      "text": "Strike Mission: Harvest Temple"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 2,
+      "points": 0
+    },
+    {
+      "count": 3,
+      "points": 0
+    },
+    {
+      "count": 4,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Coins",
+      "count": 20000
+    }
+  ]
+}
