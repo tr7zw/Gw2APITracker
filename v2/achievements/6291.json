@@ -1,0 +1,31 @@
+{
+  "id": 6291,
+  "name": "Kappa Exterminator",
+  "description": "",
+  "requirement": "Kill  kappa in New Kaineng City.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 50,
+      "points": 1
+    },
+    {
+      "count": 100,
+      "points": 1
+    },
+    {
+      "count": 200,
+      "points": 0
+    }
+  ],
+  "prerequisites": [
+    6432
+  ],
+  "point_cap": 2
+}

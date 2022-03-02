@@ -1,0 +1,51 @@
+{
+  "name": "Shadow Serpent Rifle",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 10278,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95792,
+  "chat_link": "[\u0026AgEwdgEA]",
+  "icon": "https://render.guildwars2.com/file/FD270EE52596E8FA79363B0DB4A2ADB31B5F92D6/2596351.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 986,
+    "max_power": 1205,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 1686,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 205
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 205
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 113
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 113
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Shadow Serpent Hammer",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 10356,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97194,
+  "chat_link": "[\u0026AgGqewEA]",
+  "icon": "https://render.guildwars2.com/file/C5C09C9EF2FD3C503E426D43A9281E39F2C10EE3/2596330.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 985,
+    "max_power": 1111,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 1686,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 205
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 205
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 113
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 113
+        }
+      ]
+    }
+  }
+}

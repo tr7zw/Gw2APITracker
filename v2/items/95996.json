@@ -1,0 +1,60 @@
+{
+  "name": "Luxon Brooch",
+  "description": "A Crab Clan keepsake.",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 660,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95996,
+  "chat_link": "[\u0026AgH8dgEA]",
+  "icon": "https://render.guildwars2.com/file/0A72C39FD19443107915CE48EB4358523528EAB7/2593556.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Enrichment"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "infix_upgrade": {
+      "id": 1697,
+      "buff": {
+        "skill_id": 63926
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 133
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 71
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 71
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 133
+        }
+      ]
+    }
+  }
+}

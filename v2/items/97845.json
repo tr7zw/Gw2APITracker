@@ -1,0 +1,45 @@
+{
+  "name": "Possession",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 0,
+  "default_skin": 10470,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97845,
+  "chat_link": "[\u0026AgE1fgEA]",
+  "icon": "https://render.guildwars2.com/file/09FD1D4453613757B09A724703FD58694E4AB0E8/2596052.png",
+  "details": {
+    "type": "Scepter",
+    "damage_type": "Physical",
+    "min_power": 940,
+    "max_power": 1060,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "stat_choices": [
+      1717,
+      605,
+      153
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 6202,
+  "name": "End of Dragons: Act 4 Mastery",
+  "description": "",
+  "requirement": "Complete all  End of Dragons: Act 4 achievements.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 15,
+      "points": 15
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 95996,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Unknown",
+      "id": 556
+    }
+  ]
+}

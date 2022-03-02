@@ -1,0 +1,45 @@
+{
+  "name": "Percussive Maintenance",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 0,
+  "default_skin": 10680,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 96531,
+  "chat_link": "[\u0026AgETeQEA]",
+  "icon": "https://render.guildwars2.com/file/55EEEBC7B04919E9920B54C56934AEF67C5429B3/2595964.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 940,
+    "max_power": 1060,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "stat_choices": [
+      1681,
+      162,
+      799
+    ]
+  }
+}

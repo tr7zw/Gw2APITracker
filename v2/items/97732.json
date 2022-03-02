@@ -1,0 +1,51 @@
+{
+  "name": "Shadow Serpent Sword",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 10688,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97732,
+  "chat_link": "[\u0026AgHEfQEA]",
+  "icon": "https://render.guildwars2.com/file/B417EA9D76053150A6D53D4C91BF3B63E87DA4FB/2596377.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 905,
+    "max_power": 1000,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1686,
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 102
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 102
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 56
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 56
+        }
+      ]
+    }
+  }
+}

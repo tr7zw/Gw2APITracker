@@ -1,0 +1,90 @@
+{
+  "id": 6402,
+  "name": "Avid Dragon\u0027s End Fisher",
+  "description": "\u003cc\u003d@flavor\u003eThe charm of fishing is in pursuing something elusive, though attainable. It is a simple yet profound practice of hope.\u003c/c\u003e",
+  "requirement": "Collect  different fish from the waterways around Dragon\u0027s End.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Repeatable",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 97240
+    },
+    {
+      "type": "Item",
+      "id": 97814
+    },
+    {
+      "type": "Item",
+      "id": 97853
+    },
+    {
+      "type": "Item",
+      "id": 97183
+    },
+    {
+      "type": "Item",
+      "id": 96443
+    },
+    {
+      "type": "Item",
+      "id": 96181
+    },
+    {
+      "type": "Item",
+      "id": 96817
+    },
+    {
+      "type": "Item",
+      "id": 96913
+    },
+    {
+      "type": "Item",
+      "id": 95729
+    },
+    {
+      "type": "Item",
+      "id": 95670
+    },
+    {
+      "type": "Item",
+      "id": 96076
+    },
+    {
+      "type": "Item",
+      "id": 97794
+    },
+    {
+      "type": "Item",
+      "id": 95699
+    },
+    {
+      "type": "Item",
+      "id": 95632
+    }
+  ],
+  "tiers": [
+    {
+      "count": 14,
+      "points": 0
+    }
+  ],
+  "prerequisites": [
+    6506
+  ],
+  "point_cap": -1,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 97081,
+      "count": 1
+    }
+  ]
+}

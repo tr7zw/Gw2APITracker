@@ -1,0 +1,31 @@
+{
+  "id": 6401,
+  "name": "End of Dragons: Act 3 Mastery",
+  "description": "",
+  "requirement": "Complete all  End of Dragons: Act 3 achievements.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 16,
+      "points": 15
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 95892,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Unknown",
+      "id": 651
+    }
+  ]
+}

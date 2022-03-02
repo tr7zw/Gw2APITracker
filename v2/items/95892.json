@@ -1,0 +1,61 @@
+{
+  "name": "Kurzick Brooch",
+  "description": "\u003cc\u003d@flavor\u003e\"House Durheim remembers.\"\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 660,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSalvage",
+    "NotUpgradeable",
+    "Unique",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95892,
+  "chat_link": "[\u0026AgGUdgEA]",
+  "icon": "https://render.guildwars2.com/file/02D1407D94F3D2517725D8EAC5C9B6DB99179A08/2593555.png",
+  "details": {
+    "type": "Amulet",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Enrichment"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "infix_upgrade": {
+      "id": 1694,
+      "buff": {
+        "skill_id": 64839
+      },
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 133
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 133
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 71
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 71
+        }
+      ]
+    }
+  }
+}

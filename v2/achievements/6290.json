@@ -1,0 +1,37 @@
+{
+  "id": 6290,
+  "name": "Pure Enmity",
+  "description": "\"Zal, he...he wasn\u0027t a good person. It\u0027s about time we figured out what happened to him. What really happened.\"—Hui",
+  "requirement": "Retrieve Purist documents in Old Kaineng.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Search the ruins of Old Kaineng for the first clue."
+    },
+    {
+      "type": "Text",
+      "text": "Search the ruins of Old Kaineng for the second clue."
+    },
+    {
+      "type": "Text",
+      "text": "Search the ruins of Old Kaineng for the third clue."
+    },
+    {
+      "type": "Text",
+      "text": "Search the ruins of Old Kaineng for the fourth clue."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 4,
+      "points": 1
+    }
+  ]
+}

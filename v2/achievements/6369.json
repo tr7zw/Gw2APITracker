@@ -1,0 +1,257 @@
+{
+  "id": 6369,
+  "name": "Lighting Dragon\u0027s End",
+  "description": "Do not light the lanterns because they need to be lit, but because joy is found in bringing light to the world.",
+  "requirement": "Transfer power to  jade lanterns at points of interest in Dragon\u0027s End.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Repeatable",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Jade Quarry Waypoint"
+    },
+    {
+      "type": "Text",
+      "text": "Brotherhood Waypoint"
+    },
+    {
+      "type": "Text",
+      "text": "Speakers Waypoint"
+    },
+    {
+      "type": "Text",
+      "text": "Harvest Complex Waypoint"
+    },
+    {
+      "type": "Text",
+      "text": "Frozen Sea Waypoint"
+    },
+    {
+      "type": "Text",
+      "text": "Branded Rise"
+    },
+    {
+      "type": "Text",
+      "text": "Harvest Bridge"
+    },
+    {
+      "type": "Text",
+      "text": "The Great Melt"
+    },
+    {
+      "type": "Text",
+      "text": "Xunlai Jade Museum"
+    },
+    {
+      "type": "Text",
+      "text": "Kuan Jun Pavilion"
+    },
+    {
+      "type": "Text",
+      "text": "Seaguard\u0027s Crossing"
+    },
+    {
+      "type": "Text",
+      "text": "Argo Crawler"
+    },
+    {
+      "type": "Text",
+      "text": "Miner\u0027s Folly"
+    },
+    {
+      "type": "Text",
+      "text": "Mine Site JS-02"
+    },
+    {
+      "type": "Text",
+      "text": "Tanasen Pier"
+    },
+    {
+      "type": "Text",
+      "text": "Kaolai Tower"
+    },
+    {
+      "type": "Text",
+      "text": "Jade Brotherhood Outpost"
+    },
+    {
+      "type": "Text",
+      "text": "Harvest Temple"
+    },
+    {
+      "type": "Text",
+      "text": "Wasteland of the Destroyer"
+    },
+    {
+      "type": "Text",
+      "text": "Guardian\u0027s Perch"
+    },
+    {
+      "type": "Text",
+      "text": "Temple of the Fallen"
+    },
+    {
+      "type": "Text",
+      "text": "Rhea\u0027s Landing"
+    },
+    {
+      "type": "Text",
+      "text": "The Green Grotto"
+    },
+    {
+      "type": "Text",
+      "text": "Alua Falls"
+    },
+    {
+      "type": "Text",
+      "text": "Shrine of the Serpent"
+    },
+    {
+      "type": "Text",
+      "text": "Brotherhood\u0027s Watch"
+    },
+    {
+      "type": "Text",
+      "text": "Quarry Passage"
+    },
+    {
+      "type": "Text",
+      "text": "Xiko Refugee Camp"
+    },
+    {
+      "type": "Text",
+      "text": "Harvest Temple Observatory"
+    },
+    {
+      "type": "Text",
+      "text": "Saltspray Roost"
+    },
+    {
+      "type": "Text",
+      "text": "Temple of the Turtle"
+    },
+    {
+      "type": "Text",
+      "text": "Logistics District"
+    },
+    {
+      "type": "Text",
+      "text": "Residential District"
+    },
+    {
+      "type": "Text",
+      "text": "Warehouse District"
+    },
+    {
+      "type": "Text",
+      "text": "Elora\u0027s Beach"
+    },
+    {
+      "type": "Text",
+      "text": "Chantry of the Crab"
+    },
+    {
+      "type": "Text",
+      "text": "Juno Hatchery"
+    },
+    {
+      "type": "Text",
+      "text": "Icebrood\u0027s Desolation"
+    },
+    {
+      "type": "Text",
+      "text": "Shrine to Hanuku"
+    },
+    {
+      "type": "Text",
+      "text": "Mine Site JS-36"
+    },
+    {
+      "type": "Text",
+      "text": "Speakers Encampment"
+    },
+    {
+      "type": "Text",
+      "text": "The Great Jade Wall"
+    },
+    {
+      "type": "Text",
+      "text": "Jade Wind\u0027s Respite"
+    },
+    {
+      "type": "Text",
+      "text": "Font of Elders"
+    },
+    {
+      "type": "Text",
+      "text": "Frozen Sea Monastery"
+    },
+    {
+      "type": "Text",
+      "text": "The Jade Expanse"
+    },
+    {
+      "type": "Text",
+      "text": "Sanctuary of Ione"
+    },
+    {
+      "type": "Text",
+      "text": "Speakers Outpost"
+    },
+    {
+      "type": "Text",
+      "text": "Emerald Bluff"
+    },
+    {
+      "type": "Text",
+      "text": "Archemorus\u0027s Solitude"
+    },
+    {
+      "type": "Text",
+      "text": "Mordrem\u0027s Blight"
+    },
+    {
+      "type": "Text",
+      "text": "Risen\u0027s Havoc"
+    },
+    {
+      "type": "Text",
+      "text": "Xinrae\u0027s Wharf"
+    },
+    {
+      "type": "Text",
+      "text": "Quarry Overlook"
+    },
+    {
+      "type": "Text",
+      "text": "Quarry Platform"
+    },
+    {
+      "type": "Text",
+      "text": "Hatchery Play Pond"
+    },
+    {
+      "type": "Text",
+      "text": "Harvest Complex Visitor\u0027s Center"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 57,
+      "points": 2
+    }
+  ],
+  "point_cap": 2,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 95696,
+      "count": 1
+    }
+  ]
+}
