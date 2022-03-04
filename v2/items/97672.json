@@ -1,0 +1,64 @@
+{
+  "name": "Jade Punk Hammer",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 495,
+  "default_skin": 10662,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97672,
+  "chat_link": "[\u0026AgGIfQEA]",
+  "icon": "https://render.guildwars2.com/file/DE62099AB049005DC7ABB4903E79B7764B1A1E06/2596173.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 1034,
+    "max_power": 1166,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      },
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 717.024,
+    "infix_upgrade": {
+      "id": 1681,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 215
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 118
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 118
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 215
+        }
+      ]
+    }
+  }
+}

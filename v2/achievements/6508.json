@@ -1,0 +1,31 @@
+{
+  "id": 6508,
+  "name": "Not in This Neighborhood",
+  "description": "",
+  "requirement": "Kill  Purists in New Kaineng City.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 50,
+      "points": 1
+    },
+    {
+      "count": 100,
+      "points": 1
+    },
+    {
+      "count": 200,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    6487
+  ],
+  "point_cap": 2
+}

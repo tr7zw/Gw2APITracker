@@ -1,0 +1,53 @@
+{
+  "id": 6447,
+  "name": "Eternal Troubles from the Deep",
+  "description": "",
+  "requirement": "Successfully complete events involving the naga and Unchained in Seitung Province.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Repeatable",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Defend the Ministry forces retaking Usoku\u0027s Watchtower."
+    },
+    {
+      "type": "Text",
+      "text": "Gather supplies and defend the tech as they repair the Emerald Park fallen mech."
+    },
+    {
+      "type": "Text",
+      "text": "Disrupt the Unchained ritual in Emerald Park."
+    },
+    {
+      "type": "Text",
+      "text": "Defend and repair the Haiju Cove water purifiers."
+    },
+    {
+      "type": "Text",
+      "text": "Defend the village\u0027s supplies from naga raiders in the Eastern Wilds."
+    },
+    {
+      "type": "Text",
+      "text": "Defeat the naga tide priest in the Eastern Wilds."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    6460
+  ],
+  "point_cap": 3
+}

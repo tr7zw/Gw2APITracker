@@ -1,0 +1,79 @@
+{
+  "name": "Echovald Cathedral Backpiece",
+  "type": "Back",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 330,
+  "default_skin": 10647,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSell",
+    "NotUpgradeable",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 96008,
+  "chat_link": "[\u0026AgEIdwEA]",
+  "icon": "https://render.guildwars2.com/file/034C7E4CD9B4B737ABDA1E5DF95896D7D3071E5B/2593767.png",
+  "details": {
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 89.628,
+    "infix_upgrade": {
+      "id": 588,
+      "buff": {
+        "skill_id": 15750,
+        "description": "+13 Condition Damage\n+13 Precision\n+13 Toughness\n+13 Power\n+13 Vitality\n+13 Healing Power\n+13 Ferocity\n+13 Concentration\n+13 Expertise"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 28
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 28
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 28
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 28
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 28
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 28
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 28
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 28
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 28
+        }
+      ]
+    }
+  }
+}

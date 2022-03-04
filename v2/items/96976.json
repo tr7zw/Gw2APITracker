@@ -1,0 +1,29 @@
+{
+  "name": "Mini Blue Crab",
+  "description": "Double-click to summon this mini to follow you around. Only one mini may be in use at a time.",
+  "type": "MiniPet",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 50,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 96976,
+  "chat_link": "[\u0026AgHQegEA]",
+  "icon": "https://render.guildwars2.com/file/2C2DC9355534ADE8FBDC0524F539DDA21915457E/2595196.png",
+  "details": {
+    "minipet_id": 845
+  }
+}

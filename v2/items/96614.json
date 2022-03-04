@@ -1,0 +1,29 @@
+{
+  "name": "Mini Hermit Crab",
+  "description": "Double-click to summon this mini to follow you around. Only one mini may be in use at a time.",
+  "type": "MiniPet",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 50,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 96614,
+  "chat_link": "[\u0026AgFmeQEA]",
+  "icon": "https://render.guildwars2.com/file/665764180CFE15D77106497380AF1702D2453A4F/2595197.png",
+  "details": {
+    "minipet_id": 859
+  }
+}

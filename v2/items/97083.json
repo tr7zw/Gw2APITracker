@@ -1,0 +1,50 @@
+{
+  "name": "Crushing Weight",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 0,
+  "default_skin": 10372,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97083,
+  "chat_link": "[\u0026AgE7ewEA]",
+  "icon": "https://render.guildwars2.com/file/1AD714ACE980DF69B7E5F1ACE9B10B0C5FB20A97/2596010.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 1034,
+    "max_power": 1166,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      },
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 717.024,
+    "stat_choices": [
+      1687,
+      154,
+      160
+    ]
+  }
+}
