@@ -1,0 +1,36 @@
+{
+  "id": 6289,
+  "name": "Ministry-Approved Untamed",
+  "description": "",
+  "requirement": "Purchase these  trinkets from the strike rewards vendor.",
+  "locked_text": "Complete the Crushing Weight collection.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 96748
+    },
+    {
+      "type": "Item",
+      "id": 95774
+    },
+    {
+      "type": "Item",
+      "id": 97662
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 2
+    }
+  ],
+  "prerequisites": [
+    6337
+  ]
+}

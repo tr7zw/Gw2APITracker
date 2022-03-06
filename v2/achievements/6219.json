@@ -1,0 +1,265 @@
+{
+  "id": 6219,
+  "name": "Lighting the Echovald Wilds",
+  "description": "Do not light the lanterns because they need to be lit, but because joy is found in bringing light into the world.",
+  "requirement": "Transfer power to  jade lantern at points of interest in the Echovald Wilds.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Repeatable",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Waypoint zu Heltzer"
+    },
+    {
+      "type": "Text",
+      "text": "Jade Gate Waypoint"
+    },
+    {
+      "type": "Text",
+      "text": "Junkyard Waypoint"
+    },
+    {
+      "type": "Text",
+      "text": "Kropa Waypoint"
+    },
+    {
+      "type": "Text",
+      "text": "Mori Village Waypoint"
+    },
+    {
+      "type": "Text",
+      "text": "Tangled Altar"
+    },
+    {
+      "type": "Text",
+      "text": "Aspenwood Sublevel B1"
+    },
+    {
+      "type": "Text",
+      "text": "Aspenwood Research Facility"
+    },
+    {
+      "type": "Text",
+      "text": "Aoi\u0027s Perch"
+    },
+    {
+      "type": "Text",
+      "text": "Court of Song"
+    },
+    {
+      "type": "Text",
+      "text": "Temple of the Dredge"
+    },
+    {
+      "type": "Text",
+      "text": "Arianna\u0027s Perch"
+    },
+    {
+      "type": "Text",
+      "text": "Forever Tree"
+    },
+    {
+      "type": "Text",
+      "text": "Mi-Shen\u0027s Lab"
+    },
+    {
+      "type": "Text",
+      "text": "Dreslav\u0027s Garden"
+    },
+    {
+      "type": "Text",
+      "text": "Kage\u0027s Perch"
+    },
+    {
+      "type": "Text",
+      "text": "Ingenuity Square"
+    },
+    {
+      "type": "Text",
+      "text": "Dump Site 1"
+    },
+    {
+      "type": "Text",
+      "text": "Dump Site 2"
+    },
+    {
+      "type": "Text",
+      "text": "Dump Site 3"
+    },
+    {
+      "type": "Text",
+      "text": "Xunlai Jade Junkyard Outpost E-1"
+    },
+    {
+      "type": "Text",
+      "text": "Wrightstone Chantry"
+    },
+    {
+      "type": "Text",
+      "text": "Goa Village"
+    },
+    {
+      "type": "Text",
+      "text": "Hermit\u0027s Dock"
+    },
+    {
+      "type": "Text",
+      "text": "Lutgardis Ruins"
+    },
+    {
+      "type": "Text",
+      "text": "Valdhertz Crypts"
+    },
+    {
+      "type": "Text",
+      "text": "Vasburg Armory"
+    },
+    {
+      "type": "Text",
+      "text": "Secret Cavern"
+    },
+    {
+      "type": "Text",
+      "text": "Ancient Archives"
+    },
+    {
+      "type": "Text",
+      "text": "Karstadt Village"
+    },
+    {
+      "type": "Text",
+      "text": "Teleri Village"
+    },
+    {
+      "type": "Text",
+      "text": "Mori Plaza"
+    },
+    {
+      "type": "Text",
+      "text": "Elder\u0027s Roost"
+    },
+    {
+      "type": "Text",
+      "text": "Qinkaishi Falls"
+    },
+    {
+      "type": "Text",
+      "text": "Qinkai Stream"
+    },
+    {
+      "type": "Text",
+      "text": "Qinkai Village"
+    },
+    {
+      "type": "Text",
+      "text": "Aetherblade Hideout"
+    },
+    {
+      "type": "Text",
+      "text": "Skygazer Cathedral"
+    },
+    {
+      "type": "Text",
+      "text": "Cylow Outpost"
+    },
+    {
+      "type": "Text",
+      "text": "Kropa Village"
+    },
+    {
+      "type": "Text",
+      "text": "Saprophyte\u0027s Pond"
+    },
+    {
+      "type": "Text",
+      "text": "Chamber of the Spirits"
+    },
+    {
+      "type": "Text",
+      "text": "Erys Oasis"
+    },
+    {
+      "type": "Text",
+      "text": "Yarrow\u0027s Perch"
+    },
+    {
+      "type": "Text",
+      "text": "Speaker\u0027s Sanctum"
+    },
+    {
+      "type": "Text",
+      "text": "Saint Anjeka\u0027s Shrine"
+    },
+    {
+      "type": "Text",
+      "text": "Altrumm Mines"
+    },
+    {
+      "type": "Text",
+      "text": "Caretaker\u0027s Camp"
+    },
+    {
+      "type": "Text",
+      "text": "House zu Heltzer"
+    },
+    {
+      "type": "Text",
+      "text": "Memorial zu Heltzer"
+    },
+    {
+      "type": "Text",
+      "text": "Mori Village Renown Heart"
+    },
+    {
+      "type": "Text",
+      "text": "Speakers Headquarters Renown Heart"
+    },
+    {
+      "type": "Text",
+      "text": "Jade Brotherhood Headquarters Renown Heart"
+    },
+    {
+      "type": "Text",
+      "text": "Hero Challenge: Underwater Cathedral"
+    },
+    {
+      "type": "Text",
+      "text": "Hero Challenge: zu Heltzer"
+    },
+    {
+      "type": "Text",
+      "text": "Hero Challenge: Speakers Headquarters"
+    },
+    {
+      "type": "Text",
+      "text": "Hero Challenge: Brauer\u0027s Grave"
+    },
+    {
+      "type": "Text",
+      "text": "Hero Challenge: Mori Village"
+    },
+    {
+      "type": "Text",
+      "text": "Hero Challenge: Junkyard"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 59,
+      "points": 2
+    }
+  ],
+  "point_cap": 2,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 97850,
+      "count": 1
+    }
+  ]
+}

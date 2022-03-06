@@ -1,0 +1,36 @@
+{
+  "id": 6108,
+  "name": "Ministry-Approved Harbinger",
+  "description": "",
+  "requirement": "Purchase these  trinkets from the strike rewards vendor.",
+  "locked_text": "Complete the Quietus collection.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 97176
+    },
+    {
+      "type": "Item",
+      "id": 96648
+    },
+    {
+      "type": "Item",
+      "id": 95990
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 2
+    }
+  ],
+  "prerequisites": [
+    6093
+  ]
+}

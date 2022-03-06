@@ -1,0 +1,36 @@
+{
+  "id": 6233,
+  "name": "Ministry-Approved Vindicator",
+  "description": "",
+  "requirement": "Purchase these  trinkets from the strike rewards vendor.",
+  "locked_text": "Complete the Dichotomy collection.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 96594
+    },
+    {
+      "type": "Item",
+      "id": 96671
+    },
+    {
+      "type": "Item",
+      "id": 96102
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 2
+    }
+  ],
+  "prerequisites": [
+    6073
+  ]
+}

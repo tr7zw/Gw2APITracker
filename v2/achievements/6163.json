@@ -1,0 +1,36 @@
+{
+  "id": 6163,
+  "name": "Ministry-Approved Mechanist",
+  "description": "",
+  "requirement": "Purchase these  trinkets from the strike rewards vendor.",
+  "locked_text": "Complete the Percussive Maintenance collection.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 96252
+    },
+    {
+      "type": "Item",
+      "id": 97115
+    },
+    {
+      "type": "Item",
+      "id": 96566
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 2
+    }
+  ],
+  "prerequisites": [
+    6262
+  ]
+}

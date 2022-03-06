@@ -1,0 +1,90 @@
+{
+  "id": 6250,
+  "name": "Avid Desert Isles Fisher",
+  "description": "\u003cc\u003d@flavor\u003eThe charm of fishing is in pursuing something elusive, though attainable. It is a simple yet profound practice of hope.\u003c/c\u003e",
+  "requirement": "Collect  different fish from the isles off the coast of Elona.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Repeatable",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 97369
+    },
+    {
+      "type": "Item",
+      "id": 96085
+    },
+    {
+      "type": "Item",
+      "id": 95794
+    },
+    {
+      "type": "Item",
+      "id": 97756
+    },
+    {
+      "type": "Item",
+      "id": 97746
+    },
+    {
+      "type": "Item",
+      "id": 96513
+    },
+    {
+      "type": "Item",
+      "id": 96225
+    },
+    {
+      "type": "Item",
+      "id": 95890
+    },
+    {
+      "type": "Item",
+      "id": 96397
+    },
+    {
+      "type": "Item",
+      "id": 97844
+    },
+    {
+      "type": "Item",
+      "id": 97001
+    },
+    {
+      "type": "Item",
+      "id": 97443
+    },
+    {
+      "type": "Item",
+      "id": 95849
+    },
+    {
+      "type": "Item",
+      "id": 97489
+    }
+  ],
+  "tiers": [
+    {
+      "count": 14,
+      "points": 0
+    }
+  ],
+  "prerequisites": [
+    6106
+  ],
+  "point_cap": -1,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 96103,
+      "count": 1
+    }
+  ]
+}

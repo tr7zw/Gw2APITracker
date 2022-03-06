@@ -1,0 +1,36 @@
+{
+  "id": 6168,
+  "name": "Ministry-Approved Specter",
+  "description": "",
+  "requirement": "Purchase these  trinkets from the strike rewards vendor.",
+  "locked_text": "Complete the Possession collection.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 96280
+    },
+    {
+      "type": "Item",
+      "id": 96515
+    },
+    {
+      "type": "Item",
+      "id": 97125
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 2
+    }
+  ],
+  "prerequisites": [
+    6467
+  ]
+}

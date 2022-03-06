@@ -1,0 +1,90 @@
+{
+  "id": 6339,
+  "name": "Avid Ring of Fire Fisher",
+  "description": "\u003cc\u003d@flavor\u003eThe charm of fishing is in pursuing something elusive, though attainable. It is a simple yet profound practice of hope.\u003c/c\u003e",
+  "requirement": "Collect  different fish from the waterways around the Ring of Fire.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Repeatable",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 96547
+    },
+    {
+      "type": "Item",
+      "id": 96720
+    },
+    {
+      "type": "Item",
+      "id": 96589
+    },
+    {
+      "type": "Item",
+      "id": 96283
+    },
+    {
+      "type": "Item",
+      "id": 97471
+    },
+    {
+      "type": "Item",
+      "id": 96530
+    },
+    {
+      "type": "Item",
+      "id": 96595
+    },
+    {
+      "type": "Item",
+      "id": 96491
+    },
+    {
+      "type": "Item",
+      "id": 96597
+    },
+    {
+      "type": "Item",
+      "id": 96889
+    },
+    {
+      "type": "Item",
+      "id": 96555
+    },
+    {
+      "type": "Item",
+      "id": 97100
+    },
+    {
+      "type": "Item",
+      "id": 97498
+    },
+    {
+      "type": "Item",
+      "id": 96361
+    }
+  ],
+  "tiers": [
+    {
+      "count": 14,
+      "points": 0
+    }
+  ],
+  "prerequisites": [
+    6489
+  ],
+  "point_cap": -1,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 95716,
+      "count": 1
+    }
+  ]
+}
