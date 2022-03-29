@@ -1,0 +1,30 @@
+{
+  "id": 6180,
+  "name": "No-Fun Police",
+  "description": "",
+  "requirement": "Erase  Jade Brotherhood graffiti in New Kaineng City.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 15,
+      "points": 0
+    }
+  ],
+  "prerequisites": [
+    6398
+  ],
+  "point_cap": -1,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 97024,
+      "count": 3
+    }
+  ]
+}

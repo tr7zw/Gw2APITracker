@@ -1,12 +1,13 @@
 {
+  "id": 10237,
   "type": "GuildDecoration",
   "output_item_id": 71899,
   "output_item_count": 1,
-  "min_rating": 50,
   "time_to_craft_ms": 1000,
   "disciplines": [
     "Scribe"
   ],
+  "min_rating": 50,
   "flags": [
     "AutoLearned"
   ],
@@ -20,6 +21,8 @@
       "count": 3
     }
   ],
+  "output_upgrade_id": 252,
+  "chat_link": "[\u0026Cf0nAAA\u003d]",
   "guild_ingredients": [
     {
       "upgrade_id": 315,
@@ -29,8 +32,5 @@
       "upgrade_id": 223,
       "count": 1
     }
-  ],
-  "output_upgrade_id": 252,
-  "id": 10237,
-  "chat_link": "[\u0026Cf0nAAA\u003d]"
+  ]
 }

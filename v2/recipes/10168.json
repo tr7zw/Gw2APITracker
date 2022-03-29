@@ -1,12 +1,13 @@
 {
+  "id": 10168,
   "type": "GuildConsumable",
   "output_item_id": 72947,
   "output_item_count": 1,
-  "min_rating": 200,
   "time_to_craft_ms": 1000,
   "disciplines": [
     "Scribe"
   ],
+  "min_rating": 200,
   "flags": [
     "AutoLearned"
   ],
@@ -20,6 +21,8 @@
       "count": 3
     }
   ],
+  "output_upgrade_id": 95,
+  "chat_link": "[\u0026CbgnAAA\u003d]",
   "guild_ingredients": [
     {
       "upgrade_id": 84,
@@ -29,8 +32,5 @@
       "upgrade_id": 73,
       "count": 1
     }
-  ],
-  "output_upgrade_id": 95,
-  "id": 10168,
-  "chat_link": "[\u0026CbgnAAA\u003d]"
+  ]
 }

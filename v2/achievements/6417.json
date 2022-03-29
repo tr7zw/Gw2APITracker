@@ -1,0 +1,36 @@
+{
+  "id": 6417,
+  "name": "Ministry-Approved Catalyst",
+  "description": "",
+  "requirement": "Purchase these  trinkets from the strike rewards vendor.",
+  "locked_text": "Complete the Gravity collection.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 96224
+    },
+    {
+      "type": "Item",
+      "id": 96275
+    },
+    {
+      "type": "Item",
+      "id": 96241
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 2
+    }
+  ],
+  "prerequisites": [
+    6413
+  ]
+}

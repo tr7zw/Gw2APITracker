@@ -1,0 +1,56 @@
+{
+  "name": "Exquisite Jade Jewel",
+  "description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+  "type": "UpgradeComponent",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 95835,
+  "chat_link": "[\u0026AgFbdgEA]",
+  "icon": "https://render.guildwars2.com/file/48D61ED3BBA6AAB11FDB22003EE4244C010DF24C/2595104.png",
+  "details": {
+    "type": "Default",
+    "flags": [
+      "Trinket"
+    ],
+    "infusion_upgrade_flags": [],
+    "attribute_adjustment": 0,
+    "infix_upgrade": {
+      "id": 1703,
+      "buff": {
+        "skill_id": 66950,
+        "description": "+20 Power\n+20 Ferocity\n+10 Vitality\n+10 Precision"
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 20
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 10
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 10
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 20
+        }
+      ]
+    },
+    "suffix": "of Jade"
+  }
+}

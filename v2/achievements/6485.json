@@ -1,0 +1,36 @@
+{
+  "id": 6485,
+  "name": "Ministry-Approved Virtuoso",
+  "description": "",
+  "requirement": "Purchase these  trinkets from the strike rewards vendor.",
+  "locked_text": "Complete the Prima Donna collection.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 96934
+    },
+    {
+      "type": "Item",
+      "id": 97054
+    },
+    {
+      "type": "Item",
+      "id": 96982
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 2
+    }
+  ],
+  "prerequisites": [
+    6295
+  ]
+}

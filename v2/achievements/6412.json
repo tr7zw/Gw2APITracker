@@ -1,0 +1,33 @@
+{
+  "id": 6412,
+  "name": "Delivery Service Champion",
+  "description": "",
+  "requirement": "Help Sakda and Miju complete their deliveries in New Kaineng.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Repeatable",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Complete the North Delivery Event"
+    },
+    {
+      "type": "Text",
+      "text": "Complete the South Delivery Event"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 2,
+      "points": 0
+    }
+  ],
+  "prerequisites": [
+    6396
+  ],
+  "point_cap": -1
+}

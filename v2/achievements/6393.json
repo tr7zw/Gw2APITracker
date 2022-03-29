@@ -1,0 +1,90 @@
+{
+  "id": 6393,
+  "name": "Avid Saltwater Fisher",
+  "description": "\u003cc\u003d@flavor\u003eThe charm of fishing is in pursuing something elusive, though attainable. It is a simple yet profound practice of hope.\u003c/c\u003e",
+  "requirement": "Collect  different fish from the world\u0027s bodies of saltwater.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Repeatable",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 95654
+    },
+    {
+      "type": "Item",
+      "id": 96632
+    },
+    {
+      "type": "Item",
+      "id": 96082
+    },
+    {
+      "type": "Item",
+      "id": 97247
+    },
+    {
+      "type": "Item",
+      "id": 97241
+    },
+    {
+      "type": "Item",
+      "id": 97596
+    },
+    {
+      "type": "Item",
+      "id": 95600
+    },
+    {
+      "type": "Item",
+      "id": 96097
+    },
+    {
+      "type": "Item",
+      "id": 96265
+    },
+    {
+      "type": "Item",
+      "id": 96110
+    },
+    {
+      "type": "Item",
+      "id": 97340
+    },
+    {
+      "type": "Item",
+      "id": 95793
+    },
+    {
+      "type": "Item",
+      "id": 95968
+    },
+    {
+      "type": "Item",
+      "id": 97534
+    }
+  ],
+  "tiers": [
+    {
+      "count": 14,
+      "points": 0
+    }
+  ],
+  "prerequisites": [
+    6471
+  ],
+  "point_cap": -1,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 96904,
+      "count": 1
+    }
+  ]
+}

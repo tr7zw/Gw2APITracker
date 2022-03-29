@@ -1,0 +1,36 @@
+{
+  "id": 6390,
+  "name": "Ministry-Approved Bladesworn",
+  "description": "",
+  "requirement": "Purchase these  trinkets from the strike rewards vendor.",
+  "locked_text": "Complete the Keenest Cut collection.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 95724
+    },
+    {
+      "type": "Item",
+      "id": 96090
+    },
+    {
+      "type": "Item",
+      "id": 95877
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 2
+    }
+  ],
+  "prerequisites": [
+    6167
+  ]
+}
