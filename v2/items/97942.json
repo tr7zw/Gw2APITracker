@@ -1,0 +1,54 @@
+{
+  "name": "Hardlight Sword",
+  "description": "\u003cc\u003d@flavor\u003eWield the cutting edge of interactive simulation.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 10799,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97942,
+  "chat_link": "[\u0026AgGWfgEA]",
+  "icon": "https://render.guildwars2.com/file/7F0D0377109CC302359354F548060207FCB40006/2666979.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 905,
+    "max_power": 1000,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1085,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 102
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 102
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 56
+        }
+      ]
+    }
+  }
+}

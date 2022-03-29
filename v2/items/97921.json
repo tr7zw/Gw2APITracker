@@ -1,0 +1,54 @@
+{
+  "name": "Hardlight Focus",
+  "description": "\u003cc\u003d@flavor\u003eWield the cutting edge of interactive simulation.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 10775,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97921,
+  "chat_link": "[\u0026AgGBfgEA]",
+  "icon": "https://render.guildwars2.com/file/5858445A1AD7042BBC151C0E38C8F1F9516C34CE/2666892.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 832,
+    "max_power": 883,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1085,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 102
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 102
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 56
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Plush Ess",
+  "description": "\u003cc\u003d@flavor\u003eEveryone\u0027s other favorite stuffed dragon friend! Huggably bubbly and deep. Brings extra snacks for the whole squad.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 413,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "NotUpgradeable",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97951,
+  "chat_link": "[\u0026AgGffgEA]",
+  "icon": "https://render.guildwars2.com/file/0CC1B43A5918455D3CCE0429676652EFF438915A/2666706.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 224.07,
+    "infix_upgrade": {
+      "id": 1706,
+      "buff": {
+        "skill_id": 64839
+      },
+      "attributes": [
+        {
+          "attribute": "Vitality",
+          "modifier": 92
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 92
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 49
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 49
+        }
+      ]
+    }
+  }
+}

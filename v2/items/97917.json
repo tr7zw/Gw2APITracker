@@ -1,0 +1,52 @@
+{
+  "name": "Reality Rig Mk1",
+  "description": "\u003cc\u003d@flavor\u003eAdvanced simulation demands advanced equipment.\u003c/c\u003e",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 10797,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97917,
+  "chat_link": "[\u0026AgF9fgEA]",
+  "icon": "https://render.guildwars2.com/file/210F6EC0AEE85999B93B3C4BAC0094157251019A/2667139.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 363,
+    "infusion_slots": [],
+    "attribute_adjustment": 384.12,
+    "infix_upgrade": {
+      "id": 1140,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 115
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 63
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 115
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 63
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Hardlight Pistol",
+  "description": "\u003cc\u003d@flavor\u003eWield the cutting edge of interactive simulation.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 10767,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97937,
+  "chat_link": "[\u0026AgGRfgEA]",
+  "icon": "https://render.guildwars2.com/file/FBF7A15A16AA56E2CF0BE42A3D5E389980259624/2666928.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 876,
+    "max_power": 1029,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1085,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 102
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 102
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 56
+        }
+      ]
+    }
+  }
+}

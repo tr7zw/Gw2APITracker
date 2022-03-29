@@ -1,0 +1,30 @@
+{
+  "name": "Fool\u0027s Dog Treat",
+  "description": "A treat crafted for you by a dog.",
+  "type": "Consumable",
+  "level": 4,
+  "rarity": "Masterwork",
+  "vendor_value": 7,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97977,
+  "chat_link": "[\u0026AgG5fgEA]",
+  "icon": "https://render.guildwars2.com/file/AF4398AB15ED407054E7744B742EF80A206FAD74/2666884.png",
+  "details": {
+    "type": "Utility",
+    "duration_ms": 1800000,
+    "apply_count": 1,
+    "name": "Fool\u0027s Enhancement",
+    "icon": "https://render.guildwars2.com/file/64976F59BF060718C9109D36C27AD0F40F06BB32/436368.png",
+    "description": "+5% Magic Find\n+5% Karma\n+5% Gold from Monsters\n+5% Experience from Kills\nThe taste of April Fools."
+  }
+}

@@ -4,11 +4,21 @@
   "description": "Though they lie shattered and broken, they may yet recover an ounce of their lost glory.",
   "requirement": "Recover a remnant of the Kurzicks and restore it.",
   "locked_text": "",
-  "type": "Default",
+  "type": "ItemSet",
   "flags": [
-    "Hidden",
+    "Pvp",
     "RepairOnLogin",
     "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 10457
+    },
+    {
+      "type": "Skin",
+      "id": 10647
+    }
   ],
   "tiers": [
     {

@@ -1,0 +1,54 @@
+{
+  "name": "Hardlight Mace",
+  "description": "\u003cc\u003d@flavor\u003eWield the cutting edge of interactive simulation.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 10776,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97946,
+  "chat_link": "[\u0026AgGafgEA]",
+  "icon": "https://render.guildwars2.com/file/5AC2EBFC9CC0056F727ADE25E73239B21531B6C4/2666917.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 895,
+    "max_power": 1010,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1085,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 102
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 102
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 56
+        }
+      ]
+    }
+  }
+}

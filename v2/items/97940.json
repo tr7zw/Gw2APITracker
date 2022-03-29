@@ -1,0 +1,54 @@
+{
+  "name": "Hardlight Dagger",
+  "description": "\u003cc\u003d@flavor\u003eWield the cutting edge of interactive simulation.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 10772,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97940,
+  "chat_link": "[\u0026AgGUfgEA]",
+  "icon": "https://render.guildwars2.com/file/DDC4212F04066D676BAAAE222002C5C35F4CD722/2666883.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 924,
+    "max_power": 981,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1085,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 102
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 56
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 102
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 56
+        }
+      ]
+    }
+  }
+}

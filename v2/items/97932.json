@@ -1,0 +1,54 @@
+{
+  "name": "Hardlight Rifle",
+  "description": "\u003cc\u003d@flavor\u003eWield the cutting edge of interactive simulation.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 10771,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97932,
+  "chat_link": "[\u0026AgGMfgEA]",
+  "icon": "https://render.guildwars2.com/file/4F3920F8659C386818B2CB1BFA73F35D6C9C7703/2666936.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 986,
+    "max_power": 1205,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 1085,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 205
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 113
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 205
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 113
+        }
+      ]
+    }
+  }
+}

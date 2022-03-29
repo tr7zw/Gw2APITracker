@@ -33,7 +33,7 @@
       "icon": "https://render.guildwars2.com/file/0C185490CB6D7215360704CA345150D807444968/1770659.png",
       "duration": 1,
       "status": "Disenchantment",
-      "description": "Incoming boons are immediately removed.",
+      "description": "Incoming boon duration is reduced.",
       "apply_count": 1
     },
     {
@@ -78,13 +78,25 @@
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png"
     },
     {
+      "text": "Duration Decreased",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "percent": 100
+    },
+    {
+      "text": "Duration Decreased",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "percent": 33
+    },
+    {
       "text": "Combo Field",
       "type": "ComboField",
       "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
       "field_type": "Lightning"
     }
   ],
-  "description": "Meditation. Create an area of calm where foes cannot receive boons and lose boons every interval. Enemy missiles entering this area are blocked.",
+  "description": "Meditation. Create an area of calm in which foes have reduced incoming boon duration and lose boons every interval. Enemy missiles entering this area are blocked.",
   "icon": "https://render.guildwars2.com/file/0C185490CB6D7215360704CA345150D807444968/1770659.png",
   "type": "Elite",
   "weapon_type": "None",

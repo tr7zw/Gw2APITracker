@@ -42,6 +42,18 @@
       "status": "Swiftness",
       "description": "Movement speed increased by 33%; stacks duration.",
       "apply_count": 1
+    },
+    {
+      "text": "Adrenaline",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/E1E7C4D3A6E62F3D5C9F627CE8175BFB0C614CBE/156652.png",
+      "value": 2
+    },
+    {
+      "text": "Interval",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+      "duration": 3
     }
   ],
   "description": "Signet Passive: Grants adrenaline.\nSignet Active: Gain fury, might, and swiftness.",
@@ -69,6 +81,14 @@
       "apply_count": 1,
       "requires_trait": 2226,
       "overrides": 1
+    },
+    {
+      "text": "Flow",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
+      "value": 2,
+      "requires_trait": 2226,
+      "overrides": 5
     }
   ]
 }
