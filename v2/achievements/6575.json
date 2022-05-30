@@ -1,0 +1,47 @@
+{
+  "id": 6575,
+  "name": "Weekly Jade Vault",
+  "description": "",
+  "requirement": "Find 4 jade statuettes for Myung-Hee, Keeper of the Jade Vault, and return them to her.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 95883
+    },
+    {
+      "type": "Item",
+      "id": 96495
+    },
+    {
+      "type": "Item",
+      "id": 96770
+    },
+    {
+      "type": "Item",
+      "id": 95592
+    }
+  ],
+  "tiers": [
+    {
+      "count": 4,
+      "points": 0
+    }
+  ],
+  "prerequisites": [
+    6436
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 97233,
+      "count": 25
+    }
+  ]
+}

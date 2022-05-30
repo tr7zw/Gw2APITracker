@@ -1,0 +1,28 @@
+{
+  "name": "Raptor Mount Unlock",
+  "description": "Activate this to unlock the base raptor skin.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 98082,
+  "chat_link": "[\u0026AgEifwEA]",
+  "icon": "https://render.guildwars2.com/file/2F4AAA52F573C5425BFCD7525FB70C9E6DCAD791/1766903.png",
+  "details": {
+    "type": "Immediate"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 544,
+  "name": "Hero\u0027s Aid",
+  "description": "You bravely assisted Rox and Braham, two burgeoning heroes of Tyria.",
+  "requirement": "Successfully complete all of the Rox and Braham Living Story instances.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Braham\u0027s meeting with Rytlock Brimstone"
+    },
+    {
+      "type": "Text",
+      "text": "Braham\u0027s meeting with Knut Whitebear"
+    },
+    {
+      "type": "Text",
+      "text": "Braham\u0027s defense of Cragstead"
+    },
+    {
+      "type": "Text",
+      "text": "Rox\u0027s meeting with Rytlock Brimstone"
+    },
+    {
+      "type": "Text",
+      "text": "Rox\u0027s defense of North Nolan Hatchery"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 10
+    }
+  ]
+}

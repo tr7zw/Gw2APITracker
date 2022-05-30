@@ -1,0 +1,25 @@
+{
+  "id": 537,
+  "name": "Secret Contact",
+  "description": "Agent Brandubh is trying to find and translate dead-drop messages from his partner, who is undercover in the dredge-Flame Legion alliance. Get a cryptotranslator from Agent Brandubh. It will help locate the dead drops across Diessa Plateau and Wayfarer Foothills and then decrypt them for you.",
+  "requirement": "Use the Order Cryptotranslator to decrypt  dead drops.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 4
+    },
+    {
+      "count": 12,
+      "points": 10
+    }
+  ]
+}

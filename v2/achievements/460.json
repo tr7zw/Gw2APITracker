@@ -1,0 +1,35 @@
+{
+  "id": 460,
+  "name": "Refugee Volunteer",
+  "description": "Refugees traveling south from Diessa Plateau to the Black Citadel are in need of assistance. Light campfires, fix signposts, battle the Molten Alliance, and aid the refugee migration.",
+  "requirement": "Assist the refugees  times.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 15,
+      "points": 1
+    },
+    {
+      "count": 40,
+      "points": 1
+    },
+    {
+      "count": 75,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 131
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 {
   "name": "Lingering Risen Aether",
+  "description": "Aether from a strong Risen enemy. It must be purified to be usable.",
   "type": "Consumable",
   "level": 80,
   "rarity": "Exotic",
@@ -14,6 +15,8 @@
   "flags": [
     "HideSuffix",
     "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
     "NoSell",
     "DeleteWarning",
     "AccountBindOnUse"
@@ -21,7 +24,7 @@
   "restrictions": [],
   "id": 96609,
   "chat_link": "[\u0026AgFheQEA]",
-  "icon": "https://render.guildwars2.com/file/0C98945EA909F9C3B6BD7EE459C4D6E504EC3156/2595202.png",
+  "icon": "https://render.guildwars2.com/file/450107047D555ECF5627A0230C0CD6BEBEAC0102/2685279.png",
   "details": {
     "type": "Immediate"
   }

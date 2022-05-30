@@ -1,0 +1,43 @@
+{
+  "id": 6561,
+  "name": "Asset Recovery",
+  "description": "",
+  "requirement": "In the story instance The Aetherblade Retreat, plunder all of the Aetherblade chests.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Chest 1"
+    },
+    {
+      "type": "Text",
+      "text": "Chest 2"
+    },
+    {
+      "type": "Text",
+      "text": "Chest 3"
+    },
+    {
+      "type": "Text",
+      "text": "Chest 4"
+    },
+    {
+      "type": "Text",
+      "text": "Chest 5"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 2
+    }
+  ]
+}

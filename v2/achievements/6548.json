@@ -1,0 +1,45 @@
+{
+  "id": 6548,
+  "name": "Molten Memorial",
+  "description": "",
+  "requirement": "Find hidden keepsakes from the fallen in the Molten Furnace and return them to friends and relatives.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 42677
+    },
+    {
+      "type": "Item",
+      "id": 98055
+    },
+    {
+      "type": "Item",
+      "id": 42678
+    },
+    {
+      "type": "Item",
+      "id": 98015
+    },
+    {
+      "type": "Item",
+      "id": 42679
+    },
+    {
+      "type": "Item",
+      "id": 98010
+    }
+  ],
+  "tiers": [
+    {
+      "count": 6,
+      "points": 5
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": 6562,
+  "name": "Aurene\u0027s Facet of Shadows",
+  "description": "",
+  "requirement": "Aid Leivas in discovering a new form for your Aurene-based legendary weapon.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Repeatable",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 98100
+    },
+    {
+      "type": "Item",
+      "id": 98124
+    },
+    {
+      "type": "Item",
+      "id": 98161
+    },
+    {
+      "type": "Item",
+      "id": 96609
+    },
+    {
+      "type": "Item",
+      "id": 98107
+    },
+    {
+      "type": "Item",
+      "id": 98136
+    },
+    {
+      "type": "Item",
+      "id": 98122
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 4
+    }
+  ],
+  "prerequisites": [
+    6573
+  ],
+  "point_cap": 10
+}

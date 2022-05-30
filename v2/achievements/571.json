@@ -1,0 +1,55 @@
+{
+  "id": 571,
+  "name": "Alliance Breaker",
+  "description": "",
+  "requirement": "Complete the following achievements for Flame and Frost: Refugee Volunteer, Lost and Found, the Gathering Storm, Secret Contact, and Avenger of the Dispossessed.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Refugee Volunteer"
+    },
+    {
+      "type": "Text",
+      "text": "The Gathering Storm"
+    },
+    {
+      "type": "Text",
+      "text": "Lost and Found"
+    },
+    {
+      "type": "Text",
+      "text": "Secret Contact"
+    },
+    {
+      "type": "Text",
+      "text": "Avenger of the Dispossessed"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 2,
+      "points": 25
+    },
+    {
+      "count": 4,
+      "points": 25
+    },
+    {
+      "count": 5,
+      "points": 25
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 97995,
+      "count": 1
+    }
+  ]
+}

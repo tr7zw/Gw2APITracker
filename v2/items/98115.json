@@ -1,0 +1,56 @@
+{
+  "name": "Decisive Evidence",
+  "description": "\u003cc\u003d@flavor\u003e\"Detective work\u0027s no court of law—but some of the same arguments work in both.\" —Marjory\u003c/c",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 10843,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 98115,
+  "chat_link": "[\u0026AgFDfwEA]",
+  "icon": "https://render.guildwars2.com/file/7D27C2AA2455FC936E6DC97A011FB4CD33967D7F/2685389.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 876,
+    "max_power": 1029,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1344,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 102
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 56
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 56
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 102
+        }
+      ]
+    }
+  }
+}

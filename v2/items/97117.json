@@ -1,0 +1,29 @@
+{
+  "name": "Recipe: Flight of Sushi",
+  "description": "Recipe Unlock: Double-click to unlock the chef recipe for a Flight of Sushi.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Ascended",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97117,
+  "chat_link": "[\u0026AgFdewEA]",
+  "icon": "https://render.guildwars2.com/file/EE281F7A0EDB1D119A1DAE23E591656AE803FA0D/2594277.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 13706
+  }
+}

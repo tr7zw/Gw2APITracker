@@ -1,0 +1,47 @@
+{
+  "name": "Fused Gear",
+  "description": "\u003cc\u003d@flavor\u003e\"Keep it for luck...and don\u0027t forget, you saved a lot of people down there.\" —Rox\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 330,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 98019,
+  "chat_link": "[\u0026AgHjfgEA]",
+  "icon": "https://render.guildwars2.com/file/54DFED9B2A0E6708C40FD933233D427777560605/2672567.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 213.4,
+    "infix_upgrade": {
+      "id": 686,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 53
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 53
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 75
+        }
+      ]
+    }
+  }
+}

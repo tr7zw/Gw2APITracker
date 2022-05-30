@@ -1,0 +1,78 @@
+{
+  "id": 6571,
+  "name": "Tigris Cub Collection",
+  "description": "",
+  "requirement": "Unlock all tigris cub minis in your wardrobe.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Hidden",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Minipet",
+      "id": 869
+    },
+    {
+      "type": "Minipet",
+      "id": 867
+    },
+    {
+      "type": "Minipet",
+      "id": 865
+    },
+    {
+      "type": "Minipet",
+      "id": 862
+    },
+    {
+      "type": "Minipet",
+      "id": 866
+    },
+    {
+      "type": "Minipet",
+      "id": 861
+    },
+    {
+      "type": "Minipet",
+      "id": 860
+    },
+    {
+      "type": "Minipet",
+      "id": 868
+    },
+    {
+      "type": "Minipet",
+      "id": 863
+    },
+    {
+      "type": "Minipet",
+      "id": 864
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 3
+    },
+    {
+      "count": 10,
+      "points": 6
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 98149,
+      "count": 1
+    }
+  ]
+}
