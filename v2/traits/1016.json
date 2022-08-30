@@ -3,23 +3,29 @@
   "tier": 2,
   "order": 0,
   "name": "Spotter",
-  "description": "You increase the precision of nearby allies.",
+  "description": "While you are in combat, grant fury to yourself and nearby allies each interval.",
   "slot": "Major",
   "facts": [
     {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 10
+    },
+    {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/45B0B5471A93FB94762AF259AD1565F638C37678/1012645.png",
-      "duration": 9,
-      "status": "Spotter",
-      "description": "Increases precision by up to 100 points.",
+      "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+      "duration": 3,
+      "status": "Fury",
+      "description": "Critical chance increased; stacks duration.",
       "apply_count": 1
     },
     {
       "text": "Interval",
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-      "duration": 3
+      "duration": 10
     },
     {
       "text": "Radius",
@@ -31,6 +37,12 @@
       "text": "Combat Only",
       "type": "NoData",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png"
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
     }
   ],
   "specialization": 30,

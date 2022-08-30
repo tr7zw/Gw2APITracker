@@ -1,0 +1,32 @@
+{
+  "name": "Candlewick Sprite Jade Bot Skin",
+  "description": "This will unlock the jade bot skin in your account wardrobe.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 98882,
+  "chat_link": "[\u0026AgFCggEA]",
+  "icon": "https://render.guildwars2.com/file/32DEC132C846DEB70EC398290196F59FE8EA9F1B/2723783.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "JadeBotSkin"
+  }
+}

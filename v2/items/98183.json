@@ -1,0 +1,58 @@
+{
+  "name": "Draketalon Culverin",
+  "description": "\u003cc\u003d@flavor\u003eThe roar that chills the blood.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 10857,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 98183,
+  "chat_link": "[\u0026AgGHfwEA]",
+  "icon": "https://render.guildwars2.com/file/35AE4EFF9044D6B36C050C0B2069111644080898/2694040.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 986,
+    "max_power": 1205,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 1162,
+      "buff": {
+        "skill_id": 33399
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 230
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 125
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 230
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 125
+        }
+      ]
+    }
+  }
+}

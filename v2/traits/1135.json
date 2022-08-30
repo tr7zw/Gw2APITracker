@@ -3,47 +3,20 @@
   "tier": 3,
   "order": 1,
   "name": "Shadow\u0027s Rejuvenation",
-  "description": "Regenerate health and initiative while in stealth.",
+  "description": "Gain initiative when you enter or exit stealth.",
   "slot": "Major",
   "facts": [
     {
-      "text": "Healing",
-      "type": "AttributeAdjust",
-      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-      "value": 293,
-      "target": "Healing"
+      "text": "Initiative on Enter",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 2
     },
     {
-      "text": "Healing",
-      "type": "AttributeAdjust",
-      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-      "value": 219,
-      "target": "Healing"
-    },
-    {
-      "text": "Healing",
-      "type": "AttributeAdjust",
-      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-      "value": 158,
-      "target": "Healing"
-    },
-    {
-      "text": "Healing Interval",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-      "duration": 1
-    },
-    {
-      "text": "Initiative",
+      "text": "Initiative on Exit",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "value": 1
-    },
-    {
-      "text": "Initiative Gain Interval",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-      "duration": 3
     }
   ],
   "specialization": 20,

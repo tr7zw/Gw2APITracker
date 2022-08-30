@@ -2,20 +2,32 @@
   "id": 1823,
   "tier": 1,
   "order": 0,
-  "name": "Vital Blessing",
-  "description": "The healing orbs that you create now grant vigor to allies they affect.",
+  "name": "Invoking Harmony",
+  "description": "Healing done to other allies is increased for a short duration after invoking a legend.",
   "slot": "Major",
   "facts": [
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
-      "duration": 2,
-      "status": "Vigor",
-      "description": "Endurance regeneration increased by 50%; stacks duration.",
+      "icon": "https://render.guildwars2.com/file/4BA0B6F2AD93F72CA3D5C3C40D30B40B14920825/2128015.png",
+      "duration": 10,
+      "status": "Invoking Harmony",
+      "description": "Healing done to other allies is increased for a short duration after invoking a legend.",
       "apply_count": 1
+    },
+    {
+      "text": "Healing Increase to Others",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "percent": 20
+    },
+    {
+      "text": "Healing Increase to Others",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "percent": 10
     }
   ],
   "specialization": 12,
-  "icon": "https://render.guildwars2.com/file/B1585B351A1A77A10FDECC9C07B43BD4083D4DCF/1012702.png"
+  "icon": "https://render.guildwars2.com/file/4BA0B6F2AD93F72CA3D5C3C40D30B40B14920825/2128015.png"
 }

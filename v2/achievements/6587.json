@@ -1,0 +1,29 @@
+{
+  "id": 6587,
+  "icon": "https://render.guildwars2.com/file/F25702AB080ADE05E14F6755C9BF9DB2D40FB6A8/2700770.png",
+  "name": "Completing Renown Hearts V",
+  "description": "",
+  "requirement": "Complete  renown heart in Frostgorge Sound.\n\n\u003cc\u003d@reminder\u003eRenown hearts are marked with a golden heart icon on the map. Every renown heart is different, so check your HUD when nearby to find out how you can assist.\u003c/c\u003e",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 0
+    }
+  ],
+  "prerequisites": [
+    6626
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 98236,
+      "count": 1
+    }
+  ]
+}

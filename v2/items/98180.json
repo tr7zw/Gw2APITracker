@@ -1,0 +1,58 @@
+{
+  "name": "Draketalon Cleaver",
+  "description": "\u003cc\u003d@flavor\u003eThe fang that pierces the armor.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 10870,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 98180,
+  "chat_link": "[\u0026AgGEfwEA]",
+  "icon": "https://render.guildwars2.com/file/55FA77D5E1DC40131B23B7199C7AC75A7F71802E/2694032.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 924,
+    "max_power": 981,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1162,
+      "buff": {
+        "skill_id": 33399
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 127
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 68
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 127
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 68
+        }
+      ]
+    }
+  }
+}

@@ -26,6 +26,15 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/134103AEE929B7F0B4CE9B380A48B7A2DFB863FB/1770568.png",
+      "duration": 6,
+      "status": "Dolyak Stance",
+      "description": "Reduce incoming damage while preventing movement-impeding conditions from being inflicted on you.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/134103AEE929B7F0B4CE9B380A48B7A2DFB863FB/1770568.png",
       "duration": 5,
       "status": "Dolyak Stance",
       "description": "Reduce incoming damage while preventing movement-impeding conditions from being inflicted on you.",
@@ -82,7 +91,7 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/134103AEE929B7F0B4CE9B380A48B7A2DFB863FB/1770568.png",
-      "duration": 9,
+      "duration": 7,
       "status": "Dolyak Stance",
       "description": "Reduce incoming damage while preventing movement-impeding conditions from being inflicted on you.",
       "apply_count": 1,
@@ -93,12 +102,23 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/134103AEE929B7F0B4CE9B380A48B7A2DFB863FB/1770568.png",
+      "duration": 9,
+      "status": "Dolyak Stance",
+      "description": "Reduce incoming damage while preventing movement-impeding conditions from being inflicted on you.",
+      "apply_count": 1,
+      "requires_trait": 2128,
+      "overrides": 4
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/134103AEE929B7F0B4CE9B380A48B7A2DFB863FB/1770568.png",
       "duration": 6,
       "status": "Dolyak Stance",
       "description": "Reduce incoming damage while preventing movement-impeding conditions from being inflicted on you.",
       "apply_count": 1,
       "requires_trait": 2128,
-      "overrides": 3
+      "overrides": 4
     }
   ]
 }

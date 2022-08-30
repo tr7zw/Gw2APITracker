@@ -1,0 +1,51 @@
+{
+  "name": "Mists-Charged Jade Band (Infused)",
+  "description": "Canthan band that exclusively contains End of Dragons attribute combos.\u003cbr\u003e\u003cc\u003d@flavor\u003eJade bands are in such high demand that merchants have trouble keeping them in stock.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 495,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "NotUpgradeable",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 98321,
+  "chat_link": "[\u0026AgERgAEA]",
+  "icon": "https://render.guildwars2.com/file/4310B85B249D02E5F471055776081AC59492FD44/2709069.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      },
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 268.884,
+    "stat_choices": [
+      1694,
+      1697
+    ]
+  },
+  "upgrades_into": [
+    {
+      "upgrade": "Attunement",
+      "item_id": 98303
+    }
+  ]
+}

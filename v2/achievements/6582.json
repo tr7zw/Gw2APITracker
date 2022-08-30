@@ -1,0 +1,28 @@
+{
+  "id": 6582,
+  "icon": "https://render.guildwars2.com/file/F25702AB080ADE05E14F6755C9BF9DB2D40FB6A8/2700770.png",
+  "name": "Using Utility Skills",
+  "description": "",
+  "requirement": "Use your utility skills  time.\n\n\u003cc\u003d@reminder\u003eUtility skills are unlocked from the training menu in the Hero panel after reaching level 11 by spending Hero points, and they are equipped to the three utility slots on the right side of the skill bar. \u003c/c\u003e",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 0
+    }
+  ],
+  "prerequisites": [
+    6637
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 98272,
+      "count": 1
+    }
+  ]
+}

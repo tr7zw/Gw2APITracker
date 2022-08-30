@@ -10,10 +10,10 @@
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/527D04E6562149B046DE7D41F312FE0100BF446E/103995.png",
-      "duration": 6,
-      "status": "Spirit of Frost",
-      "description": "Increases outgoing damage.",
+      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+      "duration": 9,
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
       "apply_count": 1
     },
     {
@@ -26,7 +26,7 @@
       "text": "Number of Targets",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-      "value": 10
+      "value": 5
     },
     {
       "text": "Distance",
@@ -47,7 +47,7 @@
       "percent": 7.5
     }
   ],
-  "description": "Spirit. Summon a frost spirit that increases damage for nearby allies.\nSpirits lose health when granting boons to allies and die if the summoner moves out of range.",
+  "description": "Spirit. Summon a frost spirit that grants might to nearby allies.\nSpirits lose health when granting boons to allies, and they die if the summoner moves out of range.",
   "icon": "https://render.guildwars2.com/file/527D04E6562149B046DE7D41F312FE0100BF446E/103995.png",
   "type": "Utility",
   "weapon_type": "None",
@@ -63,6 +63,17 @@
     "Spirit"
   ],
   "traited_facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+      "duration": 14,
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
+      "apply_count": 1,
+      "requires_trait": 1038,
+      "overrides": 1
+    },
     {
       "text": "Health Loss per Interval",
       "type": "Percent",

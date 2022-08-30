@@ -3,16 +3,22 @@
   "tier": 2,
   "order": 0,
   "name": "Assassin\u0027s Presence",
-  "description": "Increase the ferocity of nearby allies.",
+  "description": "While you are in combat, grant fury to yourself and nearby allies each interval.",
   "slot": "Major",
   "facts": [
     {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 10
+    },
+    {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/54C625037513112F94A93C6F1553447504C5AF60/1029955.png",
-      "duration": 9,
-      "status": "Assassin\u0027s Presence",
-      "description": "Increases ferocity of nearby allies.",
+      "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+      "duration": 3,
+      "status": "Fury",
+      "description": "Critical chance increased; stacks duration.",
       "apply_count": 1
     },
     {
@@ -27,10 +33,10 @@
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png"
     },
     {
-      "type": "AttributeAdjust",
-      "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
-      "value": 150,
-      "target": "CritDamage"
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
     }
   ],
   "specialization": 15,

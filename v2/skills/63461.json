@@ -8,6 +8,12 @@
       "value": 15
     },
     {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 240
+    },
+    {
       "text": "Damage",
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
@@ -52,12 +58,6 @@
       "duration": 1
     },
     {
-      "text": "Radius",
-      "type": "Distance",
-      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-      "distance": 240
-    },
-    {
       "text": "Energy Cost",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
@@ -94,15 +94,12 @@
   "chat_link": "[\u0026BuX3AAA\u003d]",
   "traited_facts": [
     {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
-      "duration": 2,
-      "status": "Resolution",
-      "description": "Incoming condition damage decreased by 33%; stacks duration.",
-      "apply_count": 1,
-      "requires_trait": 2251,
-      "overrides": 3
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 360,
+      "requires_trait": 2234,
+      "overrides": 1
     },
     {
       "text": "Apply Buff/Condition",
@@ -114,6 +111,17 @@
       "apply_count": 1,
       "requires_trait": 2251,
       "overrides": 4
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
+      "duration": 2,
+      "status": "Resolution",
+      "description": "Incoming condition damage decreased by 33%; stacks duration.",
+      "apply_count": 1,
+      "requires_trait": 2251,
+      "overrides": 5
     },
     {
       "text": "Apply Buff/Condition",

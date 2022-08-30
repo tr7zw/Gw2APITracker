@@ -1,0 +1,34 @@
+{
+  "id": 6637,
+  "icon": "https://render.guildwars2.com/file/F25702AB080ADE05E14F6755C9BF9DB2D40FB6A8/2700770.png",
+  "name": "Adventure Guide: Volume One",
+  "description": "",
+  "requirement": "Complete 14 of the 16 Adventure Guide: Volume One achievements.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 14,
+      "points": 0
+    }
+  ],
+  "prerequisites": [
+    6615
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 98925,
+      "count": 1
+    }
+  ]
+}

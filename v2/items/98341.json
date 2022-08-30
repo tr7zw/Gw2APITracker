@@ -1,0 +1,29 @@
+{
+  "name": "Pulley Hook",
+  "description": "Deposit this decoration in the guild\u0027s decoration storage.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 0,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 98341,
+  "chat_link": "[\u0026AgElgAEA]",
+  "icon": "https://render.guildwars2.com/file/A264E42CB9297A3FFDF0D440DA0C3995F5EA204C/2718362.png",
+  "details": {
+    "type": "Generic",
+    "guild_upgrade_id": 1220
+  }
+}

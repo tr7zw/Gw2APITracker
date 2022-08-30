@@ -13,13 +13,6 @@
       "duration": 1
     },
     {
-      "text": "Increased Ferocity",
-      "type": "AttributeAdjust",
-      "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
-      "value": 300,
-      "target": "CritDamage"
-    },
-    {
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
@@ -33,6 +26,12 @@
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
       "duration": 3
+    },
+    {
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
+      "value": 300,
+      "target": "CritDamage"
     }
   ],
   "specialization": 34,

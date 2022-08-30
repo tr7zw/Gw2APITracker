@@ -53,13 +53,19 @@
       "text": "Charge Time",
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "duration": 25
+      "duration": 30
     },
     {
       "text": "Charge Time",
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "duration": 45
+    },
+    {
+      "text": "Charge Time",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "duration": 25
     }
   ],
   "description": "Mantra. Echo remnants of an ancient pamphlet from Vabbi that urged Elonians to freedom. Grant stability and resolution to allies while breaking stun.",
@@ -82,7 +88,7 @@
       "text": "Charge Recovery",
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "duration": 20,
+      "duration": 24,
       "requires_trait": 2063,
       "overrides": 7
     },
@@ -93,6 +99,14 @@
       "duration": 36,
       "requires_trait": 2063,
       "overrides": 8
+    },
+    {
+      "text": "Charge Recovery",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "duration": 20,
+      "requires_trait": 2063,
+      "overrides": 9
     }
   ]
 }

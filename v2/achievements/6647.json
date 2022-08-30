@@ -1,0 +1,28 @@
+{
+  "id": 6647,
+  "icon": "https://render.guildwars2.com/file/F25702AB080ADE05E14F6755C9BF9DB2D40FB6A8/2700770.png",
+  "name": "Scouting the Area",
+  "description": "",
+  "requirement": "Speak with  scouts in Queensdale, Metrica Province, Caledon Forest, Wayfarer Foothills, or the Plains of Ashford to discover more about the local area.\n\n\u003cc\u003d@reminder\u003eScouts appear with a spyglass icon on your map. They can point you toward nearby goals and landmarks when you speak to them.\u003c/c\u003e",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 0
+    }
+  ],
+  "prerequisites": [
+    6615
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 98269,
+      "count": 1
+    }
+  ]
+}

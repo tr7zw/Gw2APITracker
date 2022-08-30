@@ -3,7 +3,7 @@
   "tier": 2,
   "order": 2,
   "name": "Improved Alacrity",
-  "description": "Alacrity applied to you is stronger but has a reduced duration.",
+  "description": "Alacrity applied to you is stronger but has a reduced duration. Gain increased critical-strike damage when you have alacrity.",
   "slot": "Major",
   "facts": [
     {
@@ -17,6 +17,12 @@
       "type": "Percent",
       "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
       "percent": 50
+    },
+    {
+      "text": "Critical Damage Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
+      "percent": 10
     }
   ],
   "specialization": 40,

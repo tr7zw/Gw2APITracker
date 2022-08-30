@@ -3,7 +3,7 @@
   "tier": 3,
   "order": 1,
   "name": "Deathly Haste",
-  "description": "While in Harbinger Shroud, gain an aura that pulses each interval to grant quickness to yourself and nearby allies.",
+  "description": "While in Harbinger Shroud, gain an aura that pulses each interval to grant boons to yourself and nearby allies.",
   "slot": "Major",
   "facts": [
     {
@@ -44,11 +44,11 @@
           "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
           "duration": 3,
           "status": "Fury",
-          "description": "Critical Chance increased by 20%; stacks duration.",
+          "description": "Critical chance increased; stacks duration.",
           "apply_count": 1
         }
       ],
-      "description": "You and your nearby allies gain quickness.",
+      "description": "Grant boons to yourself and nearby allies.",
       "icon": "https://render.guildwars2.com/file/9875EAC10F3A93F8EF4BC40204806C6172E14494/2141735.png",
       "flags": [],
       "id": 62671,

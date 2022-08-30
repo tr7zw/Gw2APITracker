@@ -3,7 +3,7 @@
   "tier": 2,
   "order": 0,
   "name": "Aim-Assisted Rocket",
-  "description": "Critical hits launch a missile at your target. After enough missiles have been fired, an orbital strike is called instead.\u003cbr\u003e\u003cc\u003d@reminder\u003eThis trait has a minimum range.\u003c/c\u003e",
+  "description": "Missile hits launch a rocket at your target. After enough rockets have been fired, an orbital strike is called instead.\u003cbr\u003e\u003cc\u003d@reminder\u003eThis trait has an internal cooldown.\u003c/c\u003e",
   "slot": "Major",
   "facts": [
     {
@@ -13,16 +13,25 @@
       "value": 3
     },
     {
-      "text": "Range Threshold",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "value": 450
-    },
-    {
-      "text": "Missiles Until Orbital Strike",
+      "text": "Rockets Until Orbital Strike",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "value": 4
+    },
+    {
+      "text": "Interval",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+      "duration": 3
+    }
+  ],
+  "traited_facts": [
+    {
+      "text": "Mech Interval",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/73600241FA662501C5D617719A7B4792F30B2846/2503622.png",
+      "duration": 6,
+      "requires_trait": 2279
     }
   ],
   "skills": [

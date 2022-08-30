@@ -8,32 +8,19 @@
       "value": 20
     },
     {
-      "text": "Healing",
-      "type": "AttributeAdjust",
-      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-      "value": 805,
-      "target": "Healing"
-    },
-    {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/FA9E444D3AEA9B06F70B96DBBA459A5AB1165BB5/699530.png",
-      "duration": 6,
-      "status": "Water Spirit",
-      "description": "Heal yourself upon striking a foe.",
+      "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+      "duration": 1,
+      "status": "Regeneration",
+      "description": "Gain health every second; stacks duration.",
       "apply_count": 1
-    },
-    {
-      "text": "Heal Cooldown",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-      "duration": 10
     },
     {
       "text": "Number of Targets",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-      "value": 10
+      "value": 5
     },
     {
       "text": "Radius",
@@ -60,7 +47,7 @@
       "percent": 7.5
     }
   ],
-  "description": "Spirit. Summon a water spirit that causes nearby allies to heal when attacking.\nSpirits lose health when granting boons to allies and die if the summoner moves out of range.",
+  "description": "Spirit. Summon a water spirit that regenerates allies.\nSpirits lose health when granting boons to allies, and they die if the summoner moves out of range.",
   "icon": "https://render.guildwars2.com/file/FA9E444D3AEA9B06F70B96DBBA459A5AB1165BB5/699530.png",
   "type": "Heal",
   "weapon_type": "None",
@@ -77,12 +64,23 @@
   ],
   "traited_facts": [
     {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+      "duration": 2,
+      "status": "Regeneration",
+      "description": "Gain health every second; stacks duration.",
+      "apply_count": 1,
+      "requires_trait": 1038,
+      "overrides": 1
+    },
+    {
       "text": "Health Loss per Interval",
       "type": "Percent",
       "icon": "https://render.guildwars2.com/file/ECAD5F2BBF2CD2D007D876007008D7D0400D080C/1770204.png",
       "percent": 5,
       "requires_trait": 1038,
-      "overrides": 8
+      "overrides": 6
     }
   ]
 }

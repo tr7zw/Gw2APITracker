@@ -6,13 +6,19 @@
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 1,
-      "dmg_multiplier": 1.25
+      "dmg_multiplier": 3
     },
     {
-      "text": "Knockback",
-      "type": "Distance",
-      "icon": "https://render.guildwars2.com/file/400B7FD39724FBD700B94AB8AB52B5B9167646F4/2440715.png",
-      "distance": 300
+      "text": "Stun",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
+      "duration": 2
+    },
+    {
+      "text": "Stun",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
+      "duration": 2
     },
     {
       "text": "Explosion Radius",
@@ -42,7 +48,7 @@
       "text": "Boons Removed",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "value": 1
+      "value": 3
     },
     {
       "text": "Damage",
@@ -55,7 +61,7 @@
       "text": "Boons Removed",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "value": 3
+      "value": 2
     }
   ],
   "description": "Detonate your mine to damage foes and remove a boon from them.",

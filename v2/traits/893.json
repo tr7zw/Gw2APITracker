@@ -3,21 +3,20 @@
   "tier": 3,
   "order": 1,
   "name": "Death Perception",
-  "description": "Gain increased critical-strike chance and ferocity when in a shroud.",
+  "description": "Gain increased critical-strike chance. Gain increased critical-strike damage while in shroud.",
   "slot": "Major",
   "facts": [
     {
       "text": "Critical Chance Increase",
       "type": "Percent",
       "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
-      "percent": 33
+      "percent": 10
     },
     {
-      "text": "Increased Ferocity",
-      "type": "AttributeAdjust",
+      "text": "Critical Damage Increase",
+      "type": "Percent",
       "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
-      "value": 300,
-      "target": "CritDamage"
+      "percent": 15
     }
   ],
   "specialization": 50,

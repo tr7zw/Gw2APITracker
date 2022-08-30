@@ -1,0 +1,28 @@
+{
+  "id": 6594,
+  "icon": "https://render.guildwars2.com/file/F25702AB080ADE05E14F6755C9BF9DB2D40FB6A8/2700770.png",
+  "name": "Swapping Weapons",
+  "description": "",
+  "requirement": "Use the weapon-swap button to switch your active weapon  time.\n\n\u003cc\u003d@reminder\u003eWeapon swap allows you to change between your equipped weapons to access different skills. This mechanic is unlocked at level 10.\u003c/c\u003e",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 0
+    }
+  ],
+  "prerequisites": [
+    6637
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 98272,
+      "count": 1
+    }
+  ]
+}

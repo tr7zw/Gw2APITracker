@@ -3,7 +3,7 @@
   "tier": 3,
   "order": 0,
   "name": "Nature\u0027s Vengeance",
-  "description": "Reduces health loss when \u003cc\u003d@abilitytype\u003espirits\u003c/c\u003e apply boons to allies. \u003cc\u003d@abilitytype\u003eSpirit\u003c/c\u003e-activated skills affect a larger area and apply boons to allies.",
+  "description": "Boons applied by \u003cc\u003d@abilitytype\u003eSpirits\u003c/c\u003e last longer, and the spirit loses less health per interval. \u003cc\u003d@abilitytype\u003eSpirit\u003c/c\u003e-activated skills affect a larger area and apply alacrity to allies.",
   "slot": "Major",
   "facts": [
     {
@@ -19,100 +19,25 @@
       "percent": 50
     },
     {
-      "text": "Apply Buff/Condition",
-      "type": "PrefixedBuff",
-      "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
-      "duration": 5,
-      "status": "Regeneration",
-      "description": "Gain health every second; stacks duration.",
-      "apply_count": 1,
-      "prefix": {
-        "text": "Apply Buff/Condition",
-        "icon": "https://render.guildwars2.com/file/FA9E444D3AEA9B06F70B96DBBA459A5AB1165BB5/699530.png",
-        "status": "Water Spirit",
-        "description": "\u003cc\u003d@abilitytype\u003eSpirit.\u003c/c\u003e Summon a water spirit that causes nearby allies to heal when attacking.\u003cbr\u003e\u003cc\u003d@reminder\u003eSpirits lose health when granting boons to allies and die if the summoner moves out of range.\u003c/c\u003e"
-      }
+      "text": "Duration Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "percent": 50
     },
     {
       "text": "Apply Buff/Condition",
-      "type": "PrefixedBuff",
-      "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
-      "duration": 3,
-      "status": "Vigor",
-      "description": "Endurance regeneration increased by 50%; stacks duration.",
-      "apply_count": 1,
-      "prefix": {
-        "text": "Apply Buff/Condition",
-        "icon": "https://render.guildwars2.com/file/C24EEF13ACFB15A8750BDA070F52A3AB6826A714/103944.png",
-        "status": "Sun Spirit",
-        "description": "\u003cc\u003d@abilitytype\u003eSpirit.\u003c/c\u003e Summon a sun spirit that causes allies to inflict burning when hitting foes.\u003cbr\u003e\u003cc\u003d@reminder\u003eSpirits lose health when enhancing allies and will die if the summoner moves out of range.\u003c/c\u003e"
-      }
-    },
-    {
-      "text": "Apply Buff/Condition",
-      "type": "PrefixedBuff",
-      "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
-      "duration": 5,
-      "status": "Fury",
-      "description": "Critical Chance increased by 20%; stacks duration.",
-      "apply_count": 1,
-      "prefix": {
-        "text": "Apply Buff/Condition",
-        "icon": "https://render.guildwars2.com/file/42B863334A6F66D64BC0DDD798959EEB15650F02/103993.png",
-        "status": "Storm Spirit",
-        "description": "\u003cc\u003d@abilitytype\u003eSpirit.\u003c/c\u003e Summon a storm spirit that causes nearby allies to apply vulnerability when attacking.\u003cbr\u003e\u003cc\u003d@reminder\u003eSpirits lose health when granting boons to allies and die if the summoner moves out of range.\u003c/c\u003e"
-      }
-    },
-    {
-      "text": "Apply Buff/Condition",
-      "type": "PrefixedBuff",
-      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-      "duration": 8,
-      "status": "Might",
-      "description": "Increased outgoing damage; stacks intensity.",
-      "apply_count": 3,
-      "prefix": {
-        "text": "Apply Buff/Condition",
-        "icon": "https://render.guildwars2.com/file/527D04E6562149B046DE7D41F312FE0100BF446E/103995.png",
-        "status": "Frost Spirit",
-        "description": "\u003cc\u003d@abilitytype\u003eSpirit.\u003c/c\u003e Summon a frost spirit that increases damage for nearby allies.\u003cbr\u003e\u003cc\u003d@reminder\u003eSpirits lose health when granting boons to allies and die if the summoner moves out of range.\u003c/c\u003e"
-      }
-    },
-    {
-      "text": "Apply Buff/Condition",
-      "type": "PrefixedBuff",
-      "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
-      "duration": 3,
-      "status": "Protection",
-      "description": "Incoming strike damage decreased by 33%; stacks duration.",
-      "apply_count": 1,
-      "prefix": {
-        "text": "Apply Buff/Condition",
-        "icon": "https://render.guildwars2.com/file/65802D0CA90F904046542B78A79B48EB3745C244/103994.png",
-        "status": "Stone Spirit",
-        "description": "\u003cc\u003d@abilitytype\u003eSpirit.\u003c/c\u003e Summon a stone spirit that causes nearby allies to gain protection on hit.\u003cbr\u003e\u003cc\u003d@reminder\u003eSpirits lose health when granting boons to allies and die if the summoner moves out of range.\u003c/c\u003e"
-      }
-    },
-    {
-      "text": "Apply Buff/Condition",
-      "type": "PrefixedBuff",
-      "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
-      "duration": 3,
-      "status": "Stability",
-      "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
-      "apply_count": 1,
-      "prefix": {
-        "text": "Apply Buff/Condition",
-        "icon": "https://render.guildwars2.com/file/E23D450D539B92FE0D36DEDF1B2D6010A961E612/104011.png",
-        "status": "Spirit of Nature",
-        "description": "\u003cc\u003d@abilitytype\u003eSpirit.\u003c/c\u003e Summon a spirit that heals allies. Command the spirit to revive and cure conditions on nearby allies.\u003cbr\u003e\u003cc\u003d@reminder\u003eSpirits lose health when their passive activates and die if the summoner moves out of range.\u003c/c\u003e"
-      }
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
+      "duration": 4,
+      "status": "Alacrity",
+      "description": "Skills recharge faster.",
+      "apply_count": 1
     },
     {
       "text": "Number of Allied Targets",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-      "value": 10
+      "value": 5
     }
   ],
   "specialization": 25,

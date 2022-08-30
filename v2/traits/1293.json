@@ -3,7 +3,7 @@
   "tier": 1,
   "order": 1,
   "name": "Shadow\u0027s Embrace",
-  "description": "Remove conditions periodically while in stealth.",
+  "description": "Remove conditions when you enter or exit stealth. \u003cc\u003d@reminder\u003eThis effect also applies to stealth you grant to allies.\u003c/c\u003e",
   "slot": "Major",
   "facts": [
     {
@@ -46,12 +46,6 @@
       "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
       "status": "Confusion",
       "description": "Damage received on skill activation; stacks intensity."
-    },
-    {
-      "text": "Interval",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-      "duration": 3
     }
   ],
   "specialization": 20,

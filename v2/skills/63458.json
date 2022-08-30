@@ -8,6 +8,12 @@
       "value": 15
     },
     {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 240
+    },
+    {
       "text": "Number of Targets",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
@@ -44,12 +50,6 @@
       "apply_count": 1
     },
     {
-      "text": "Radius",
-      "type": "Distance",
-      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-      "distance": 240
-    },
-    {
       "text": "Energy Cost",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
@@ -84,6 +84,14 @@
   "chat_link": "[\u0026BuL3AAA\u003d]",
   "traited_facts": [
     {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 360,
+      "requires_trait": 2234,
+      "overrides": 1
+    },
+    {
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
@@ -92,7 +100,7 @@
       "description": "Increased outgoing damage; stacks intensity.",
       "apply_count": 1,
       "requires_trait": 2251,
-      "overrides": 4
+      "overrides": 5
     },
     {
       "text": "Apply Buff/Condition",
@@ -103,7 +111,7 @@
       "description": "Increased outgoing damage; stacks intensity.",
       "apply_count": 1,
       "requires_trait": 2251,
-      "overrides": 5
+      "overrides": 6
     },
     {
       "text": "Apply Buff/Condition",

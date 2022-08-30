@@ -7,6 +7,12 @@
   "slot": "Major",
   "facts": [
     {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 1
+    },
+    {
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
@@ -86,11 +92,6 @@
           "type": "Distance",
           "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
           "distance": 240
-        },
-        {
-          "text": "Explosion",
-          "type": "NoData",
-          "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png"
         }
       ],
       "description": "Mech Command. Order your mech to dash at a target, punching with an explosive strike that weakens enemies near the point of impact.",

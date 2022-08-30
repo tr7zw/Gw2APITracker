@@ -10,26 +10,11 @@
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/42B863334A6F66D64BC0DDD798959EEB15650F02/103993.png",
-      "duration": 6,
-      "status": "Storm Spirit",
-      "description": "Apply vulnerability upon striking a foe.",
+      "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+      "duration": 1,
+      "status": "Fury",
+      "description": "Critical chance increased; stacks duration.",
       "apply_count": 1
-    },
-    {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
-      "duration": 6,
-      "status": "Vulnerability",
-      "description": "Damage and condition damage taken are increased; stacks intensity.",
-      "apply_count": 3
-    },
-    {
-      "text": "Vulnerability Cooldown",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-      "duration": 10
     },
     {
       "text": "Radius",
@@ -41,7 +26,7 @@
       "text": "Number of Targets",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-      "value": 10
+      "value": 5
     },
     {
       "text": "Distance",
@@ -62,7 +47,7 @@
       "percent": 7.5
     }
   ],
-  "description": "Spirit. Summon a storm spirit that causes nearby allies to apply vulnerability when attacking.\nSpirits lose health when granting boons to allies and die if the summoner moves out of range.",
+  "description": "Spirit. Summon a storm spirit that grants fury to nearby allies.\nSpirits lose health when granting boons to allies, and they die if the summoner moves out of range.",
   "icon": "https://render.guildwars2.com/file/42B863334A6F66D64BC0DDD798959EEB15650F02/103993.png",
   "type": "Utility",
   "weapon_type": "None",
@@ -79,12 +64,23 @@
   ],
   "traited_facts": [
     {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+      "duration": 2,
+      "status": "Fury",
+      "description": "Critical chance increased; stacks duration.",
+      "apply_count": 1,
+      "requires_trait": 1038,
+      "overrides": 1
+    },
+    {
       "text": "Health Loss per Interval",
       "type": "Percent",
       "icon": "https://render.guildwars2.com/file/ECAD5F2BBF2CD2D007D876007008D7D0400D080C/1770204.png",
       "percent": 5,
       "requires_trait": 1038,
-      "overrides": 8
+      "overrides": 6
     }
   ]
 }

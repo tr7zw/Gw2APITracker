@@ -3,23 +3,29 @@
   "tier": 2,
   "order": 0,
   "name": "Pinpoint Distribution",
-  "description": "Grant increased condition damage to nearby allies.",
+  "description": "While you are in combat, grant might to yourself and nearby allies each interval.",
   "slot": "Major",
   "facts": [
     {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 10
+    },
+    {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/68380515301D93ABD5E7A4C89748F80CD819EB3F/1012357.png",
-      "duration": 9,
-      "status": "Pinpoint Distribution",
-      "description": "Increases condition damage up to 100 points.",
-      "apply_count": 1
+      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+      "duration": 10,
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
+      "apply_count": 5
     },
     {
       "text": "Interval",
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-      "duration": 3
+      "duration": 10
     },
     {
       "text": "Radius",
@@ -31,6 +37,12 @@
       "text": "Combat Only",
       "type": "NoData",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png"
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
     }
   ],
   "specialization": 38,

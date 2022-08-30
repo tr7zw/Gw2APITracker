@@ -3,20 +3,17 @@
   "tier": 2,
   "order": 0,
   "name": "Meld with Shadows",
-  "description": "Stealth lasts longer when it\u0027s granted by your skills. Gain increased movement speed while stealthed.",
+  "description": "Gain superspeed when you enter or exit stealth.",
   "slot": "Minor",
   "facts": [
     {
-      "text": "Duration Increase",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-      "duration": 1
-    },
-    {
-      "text": "Movement Speed Increase",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "percent": 50
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+      "duration": 2,
+      "status": "Superspeed",
+      "description": "Movement speed is greatly increased. Maximum duration: 10s",
+      "apply_count": 1
     }
   ],
   "specialization": 20,

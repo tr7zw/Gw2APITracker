@@ -3,7 +3,7 @@
   "tier": 2,
   "order": 1,
   "name": "Leeching Venoms",
-  "description": "\u003cc\u003d@abilitytype\u003eVenom\u003c/c\u003e utility skills siphon life from struck foes. Gain stacks of Spider Venom while stealthed.\u003cbr\u003e\u003cc\u003d@reminder\u003eSiphoning can only occur once per strike.\u003c/c\u003e",
+  "description": "\u003cc\u003d@abilitytype\u003eVenom\u003c/c\u003e utility skills siphon life from struck foes. Gain stacks of Spider Venom when you enter or exit stealth.\u003cbr\u003e\u003cc\u003d@reminder\u003eSiphoning can only occur once per strike.\u003c/c\u003e",
   "slot": "Major",
   "facts": [
     {
@@ -28,22 +28,34 @@
       "target": "Healing"
     },
     {
-      "text": "Venom Gain Interval",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-      "duration": 3
-    },
-    {
-      "text": "Maximum Venom Stacks",
+      "text": "Venom Stacks",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "value": 6
+      "value": 3
     },
     {
-      "text": "Maximum Venom Stacks",
+      "text": "Venom Stacks",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "value": 2
+      "value": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/39320C2D4AED963861F4540F59AEBB5E05AD2E1C/103513.png",
+      "duration": 30,
+      "status": "Spider Venom",
+      "description": "Your attacks poison foes.",
+      "apply_count": 3
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/39320C2D4AED963861F4540F59AEBB5E05AD2E1C/103513.png",
+      "duration": 30,
+      "status": "Spider Venom",
+      "description": "Your attacks poison foes.",
+      "apply_count": 1
     }
   ],
   "skills": [
@@ -69,7 +81,7 @@
           "text": "Apply Buff/Condition",
           "type": "Buff",
           "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-          "duration": 4,
+          "duration": 3,
           "status": "Poisoned",
           "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
           "apply_count": 1
@@ -78,7 +90,7 @@
           "text": "Apply Buff/Condition",
           "type": "Buff",
           "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-          "duration": 6,
+          "duration": 3,
           "status": "Poisoned",
           "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
           "apply_count": 1

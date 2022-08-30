@@ -18,14 +18,14 @@
       "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
       "duration": 4,
       "status": "Fury",
-      "description": "Critical Chance increased by 20%; stacks duration.",
+      "description": "Critical chance increased; stacks duration.",
       "apply_count": 1
     },
     {
       "text": "Range Threshold",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "value": 300
+      "value": 450
     },
     {
       "text": "Chance on Critical Hit",
@@ -38,6 +38,18 @@
       "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
       "value": 150,
       "target": "CritDamage"
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    },
+    {
+      "text": "Boon Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 360
     }
   ],
   "specialization": 38,

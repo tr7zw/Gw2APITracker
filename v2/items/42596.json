@@ -1,0 +1,28 @@
+{
+  "name": "Consortium Mobile Mystic Forge",
+  "description": "A special mystic item able to communicate directly with Zommoros.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 0,
+  "game_types": [
+    "Activity",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 42596,
+  "chat_link": "[\u0026AgFkpgAA]",
+  "icon": "https://render.guildwars2.com/file/9FFCE359385444079412F27900565E1C0360FC09/582350.png",
+  "details": {
+    "type": "Generic"
+  }
+}

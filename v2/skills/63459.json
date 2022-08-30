@@ -30,10 +30,10 @@
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+      "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
       "duration": 1,
-      "status": "Quickness",
-      "description": "Skills and actions are faster.",
+      "status": "Fury",
+      "description": "Critical chance increased; stacks duration.",
       "apply_count": 1
     },
     {
@@ -46,6 +46,12 @@
       "apply_count": 1
     },
     {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 240
+    },
+    {
       "text": "Combo Field",
       "type": "ComboField",
       "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
@@ -56,12 +62,6 @@
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
       "duration": 1
-    },
-    {
-      "text": "Radius",
-      "type": "Distance",
-      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-      "distance": 240
     },
     {
       "text": "Energy Cost",
@@ -96,10 +96,10 @@
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+      "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
       "duration": 2,
-      "status": "Quickness",
-      "description": "Skills and actions are faster.",
+      "status": "Fury",
+      "description": "Critical chance increased; stacks duration.",
       "apply_count": 1,
       "requires_trait": 2251,
       "overrides": 4
@@ -118,12 +118,30 @@
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+      "duration": 5,
+      "status": "Quickness",
+      "description": "Skills and actions are faster.",
+      "apply_count": 1,
+      "requires_trait": 2234
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
       "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
       "duration": 5,
       "status": "Fury",
-      "description": "Critical Chance increased by 20%; stacks duration.",
+      "description": "Critical chance increased; stacks duration.",
       "apply_count": 1,
       "requires_trait": 2234
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 360,
+      "requires_trait": 2234,
+      "overrides": 6
     }
   ]
 }

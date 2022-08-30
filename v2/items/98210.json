@@ -1,0 +1,29 @@
+{
+  "name": "Racing Checkpoint Projector",
+  "description": "A decoration schematic that is processed by the guild\u0027s assembly device to make the decoration.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 0,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 98210,
+  "chat_link": "[\u0026AgGifwEA]",
+  "icon": "https://render.guildwars2.com/file/F7A73B925B929FE02741C5071E05F23BC3B36225/2694535.png",
+  "details": {
+    "type": "Generic",
+    "guild_upgrade_id": 1210
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 6664,
+  "icon": "https://render.guildwars2.com/file/F25702AB080ADE05E14F6755C9BF9DB2D40FB6A8/2700770.png",
+  "name": "Rallying",
+  "description": "",
+  "requirement": "Rally from a downed state  time.\n\n\u003cc\u003d@reminder\u003eRallying allows you to recover from a downed state by defeating a foe that grants experience.\u003c/c\u003e",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    }
+  ],
+  "prerequisites": [
+    6637
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 98272,
+      "count": 1
+    }
+  ]
+}

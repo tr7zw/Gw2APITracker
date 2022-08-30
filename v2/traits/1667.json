@@ -3,14 +3,17 @@
   "tier": 3,
   "order": 0,
   "name": "Martial Cadence",
-  "description": "Soldier\u0027s Focus partially recharges all of your equipped weapon skills when activated.\u003cbr\u003e\u003cc\u003d@reminder\u003eDoes not recharge burst skills.\u003c/c\u003e",
+  "description": "Soldier\u0027s Focus grants quickness to affected allies.",
   "slot": "Major",
   "facts": [
     {
-      "text": "Recharge Time Reduced",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-      "duration": 3
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+      "duration": 3,
+      "status": "Quickness",
+      "description": "Skills and actions are faster.",
+      "apply_count": 1
     }
   ],
   "specialization": 11,

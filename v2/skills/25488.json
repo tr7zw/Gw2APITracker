@@ -35,19 +35,23 @@
   "traited_facts": [
     {
       "text": "Apply Buff/Condition",
-      "type": "PrefixedBuff",
+      "type": "Buff",
       "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-      "duration": 20,
+      "duration": 10,
       "status": "Might",
       "description": "Increased outgoing damage; stacks intensity.",
       "apply_count": 1,
-      "requires_trait": 229,
-      "prefix": {
-        "text": "Apply Buff/Condition",
-        "icon": "https://render.guildwars2.com/file/1C91E9C799469ACC6EAF1ACD4B0AD8ACAB0C69A2/103035.png",
-        "status": "Fire Attunement",
-        "description": "Cast fire spells."
-      }
+      "requires_trait": 229
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+      "duration": 6,
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
+      "apply_count": 3,
+      "requires_trait": 229
     }
   ]
 }

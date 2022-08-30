@@ -44,6 +44,15 @@
       "apply_count": 1
     },
     {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/DFB4D1B50AE4D6A275B349E15B179261EE3EB0AF/102854.png",
+      "duration": 2,
+      "status": "Aegis",
+      "description": "Block the next incoming attack; stacks duration.",
+      "apply_count": 1
+    },
+    {
       "text": "Self-Heal",
       "type": "AttributeAdjust",
       "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
@@ -86,7 +95,7 @@
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "duration": 10,
       "requires_trait": 2063,
-      "overrides": 8
+      "overrides": 9
     }
   ]
 }

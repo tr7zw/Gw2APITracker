@@ -1,0 +1,28 @@
+{
+  "id": 6600,
+  "icon": "https://render.guildwars2.com/file/F25702AB080ADE05E14F6755C9BF9DB2D40FB6A8/2700770.png",
+  "name": "Leveling Up I",
+  "description": "",
+  "requirement": "Earn experience to level up this character to level 10.\n\n\u003cc\u003d@reminder\u003eExperience can be earned by defeating enemies, contributing to events and renown hearts, completing story chapters, and crafting items.\u003c/c\u003e",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 10,
+      "points": 0
+    }
+  ],
+  "prerequisites": [
+    6615
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 98907,
+      "count": 1
+    }
+  ]
+}

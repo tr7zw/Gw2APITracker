@@ -25,7 +25,16 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/07944CB363A391A26B21C16F76F52111B32D96CD/1770561.png",
-      "duration": 4,
+      "duration": 5,
+      "status": "Bear Stance",
+      "description": "Conditions are consumed for healing every second.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/07944CB363A391A26B21C16F76F52111B32D96CD/1770561.png",
+      "duration": 5,
       "status": "Bear Stance",
       "description": "Conditions are consumed for healing every second.",
       "apply_count": 1
@@ -83,6 +92,17 @@
       "apply_count": 1,
       "requires_trait": 2128,
       "overrides": 4
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/07944CB363A391A26B21C16F76F52111B32D96CD/1770561.png",
+      "duration": 6,
+      "status": "Bear Stance",
+      "description": "Conditions are consumed for healing every second.",
+      "apply_count": 1,
+      "requires_trait": 2128,
+      "overrides": 5
     }
   ]
 }

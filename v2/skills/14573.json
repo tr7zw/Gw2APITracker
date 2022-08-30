@@ -11,13 +11,46 @@
       "text": "Recharge",
       "type": "Recharge",
       "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 80
+      "value": 30
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+      "duration": 5,
+      "status": "Stability",
+      "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+      "duration": 3,
+      "status": "Superspeed",
+      "description": "Movement speed is greatly increased. Maximum duration: 10s",
+      "apply_count": 1
+    },
+    {
+      "text": "Boon Application Interval",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+      "duration": 3
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+      "duration": 7,
+      "status": "Quickness",
+      "description": "Skills and actions are faster.",
+      "apply_count": 1
     },
     {
       "text": "Combo Field Duration",
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-      "duration": 5
+      "duration": 3
     },
     {
       "text": "Combo Field",
@@ -35,29 +68,23 @@
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/6CA13E99B69F0150BCBD08D179D5464F39CEE84A/103917.png",
-      "duration": 0,
-      "status": "Banner of Tactics",
-      "description": "Improved Healing Power and Boon Duration",
+      "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+      "duration": 2,
+      "status": "Regeneration",
+      "description": "Gain health every second; stacks duration.",
       "apply_count": 1
     },
     {
       "text": "Duration",
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-      "duration": 60
+      "duration": 15
     },
     {
       "text": "Effective Radius",
       "type": "Distance",
       "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-      "distance": 600
-    },
-    {
-      "text": "Recharge Time Reduced",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-      "duration": 60
+      "distance": 360
     },
     {
       "text": "Number of Allied Targets",
@@ -66,7 +93,7 @@
       "value": 5
     }
   ],
-  "description": "Banner. Place a banner that increases healing power and boon duration for you and nearby allies. Picking up the banner reduces the recharge of this skill.",
+  "description": "Banner. Place a banner that grants boons and superspeed on initial placement, then pulses boons to you and nearby allies afterward.",
   "icon": "https://render.guildwars2.com/file/6CA13E99B69F0150BCBD08D179D5464F39CEE84A/103917.png",
   "type": "Utility",
   "weapon_type": "None",
@@ -74,6 +101,7 @@
     "Warrior"
   ],
   "slot": "Utility",
+  "bundle_skills": [],
   "flags": [],
   "id": 14573,
   "chat_link": "[\u0026Bu04AAA\u003d]",
@@ -82,10 +110,24 @@
   ],
   "traited_facts": [
     {
-      "text": "Number of Allied Targets",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-      "value": 10,
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+      "duration": 12,
+      "status": "Quickness",
+      "description": "Skills and actions are faster.",
+      "apply_count": 1,
+      "requires_trait": 1484,
+      "overrides": 5
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+      "duration": 3,
+      "status": "Regeneration",
+      "description": "Gain health every second; stacks duration.",
+      "apply_count": 1,
       "requires_trait": 1484,
       "overrides": 9
     }

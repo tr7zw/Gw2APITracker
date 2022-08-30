@@ -5,7 +5,7 @@
       "text": "Recharge",
       "type": "Recharge",
       "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 90
+      "value": 60
     },
     {
       "text": "Passive Healing",
@@ -26,10 +26,18 @@
       "duration": 3
     },
     {
-      "text": "Active Heal",
-      "type": "Percent",
+      "text": "Active Heal Pulse",
+      "type": "AttributeAdjust",
       "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-      "percent": 100
+      "value": 650,
+      "target": "Healing"
+    },
+    {
+      "text": "Final Heal Pulse",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "value": 3250,
+      "target": "Healing"
     },
     {
       "text": "Number of Targets",
@@ -47,10 +55,43 @@
       "text": "Active Radius",
       "type": "Distance",
       "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-      "distance": 1200
+      "distance": 600
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+      "duration": 1,
+      "status": "Protection",
+      "description": "Incoming strike damage decreased by 33%; stacks duration.",
+      "apply_count": 6
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
+      "duration": 1,
+      "status": "Resolution",
+      "description": "Incoming condition damage decreased by 33%; stacks duration.",
+      "apply_count": 6
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+      "duration": 1,
+      "status": "Stability",
+      "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
+      "apply_count": 6
+    },
+    {
+      "text": "Pulses",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 6
     }
   ],
-  "description": "Signet Passive: Periodically heal allies in an area around you while in combat.\nSignet Active: Fully heal nearby allies.",
+  "description": "Signet Passive: Periodically heal allies in an area around you while in combat.\nSignet Active: Channel healing and boons in a large area around you, concluding with a large heal if this skill is not interrupted.",
   "icon": "https://render.guildwars2.com/file/59C43DD96D4096AF5DF576182506A20765CAEF07/1012875.png",
   "type": "Elite",
   "weapon_type": "None",

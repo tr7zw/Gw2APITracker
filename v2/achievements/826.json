@@ -1,0 +1,40 @@
+{
+  "id": 826,
+  "name": "Emissary Vorpp\u0027s Field Assistant",
+  "description": "Story Chapter: Clockwork Chaos",
+  "requirement": "Complete all of the achievements necessary to re-create one of Scarlet\u0027s portals.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "First Portal Invasion Responder"
+    },
+    {
+      "type": "Text",
+      "text": "Invasion Witness Interviewer"
+    },
+    {
+      "type": "Text",
+      "text": "Portal Component Procurer"
+    },
+    {
+      "type": "Text",
+      "text": "Portal Invasion Closer"
+    },
+    {
+      "type": "Text",
+      "text": "Teleportation Facilitator"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 5
+    }
+  ]
+}

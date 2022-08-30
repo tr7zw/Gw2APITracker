@@ -18,16 +18,22 @@
       "text": "Interval",
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-      "duration": 10
+      "duration": 5
     },
     {
-      "text": "Conditions Removed",
+      "text": "Passive Conditions Removed",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "value": 1
+    },
+    {
+      "text": "Active Conditions Removed",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 2
     }
   ],
-  "description": "Signet Passive: Cures a condition from yourself every few seconds.\nSignet Active: Heal yourself.",
+  "description": "Signet Passive: Remove a condition from yourself every few seconds.\nSignet Active: Heal yourself and remove conditions.",
   "icon": "https://render.guildwars2.com/file/45904C2C787647E168F1A4B607471A32A8CB9609/103666.png",
   "type": "Heal",
   "weapon_type": "None",
@@ -46,7 +52,7 @@
       "text": "Interval",
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-      "duration": 8,
+      "duration": 4,
       "requires_trait": 579,
       "overrides": 2
     }

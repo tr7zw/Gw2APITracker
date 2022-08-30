@@ -1,0 +1,28 @@
+{
+  "id": 6662,
+  "icon": "https://render.guildwars2.com/file/F25702AB080ADE05E14F6755C9BF9DB2D40FB6A8/2700770.png",
+  "name": "Looting Enemies",
+  "description": "",
+  "requirement": "Loot  defeated enemies.\n\n\u003cc\u003d@reminder\u003eSometimes enemies will drop items when defeated, indicated by a golden sparkle around their body. Interact with these enemies to loot these items and add them to your inventory.\u003c/c\u003e",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 10,
+      "points": 0
+    }
+  ],
+  "prerequisites": [
+    6615
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 98907,
+      "count": 1
+    }
+  ]
+}

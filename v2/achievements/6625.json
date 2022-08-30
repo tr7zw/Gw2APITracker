@@ -1,0 +1,28 @@
+{
+  "id": 6625,
+  "icon": "https://render.guildwars2.com/file/F25702AB080ADE05E14F6755C9BF9DB2D40FB6A8/2700770.png",
+  "name": "Salvaging Items",
+  "description": "",
+  "requirement": "Use a salvage kit to salvage  item.\n\n\u003cc\u003d@reminder\u003eSome items you\u0027ll find will be salvageable. Use a salvage kit to break them down into crafting materials.\u003c/c\u003e",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    }
+  ],
+  "prerequisites": [
+    6637
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 98272,
+      "count": 1
+    }
+  ]
+}

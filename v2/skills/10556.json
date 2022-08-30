@@ -14,25 +14,28 @@
       "value": 30
     },
     {
-      "text": "Unblockable",
-      "type": "Unblockable",
-      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "value": true
-    },
-    {
-      "text": "Daze",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-      "duration": 2
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/30307A6E766D74B6EB09EDA12A4A2DE50E4D76F4/102869.png",
+      "duration": 1,
+      "status": "Fear",
+      "description": "Involuntary retreat; unable to act; stacks duration.",
+      "apply_count": 1
     },
     {
       "text": "Number of Targets",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
       "value": 5
+    },
+    {
+      "text": "Bonus Defiance Break",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 100
     }
   ],
-  "description": "Screech a wail of doom in a cone pattern, dazing foes.",
+  "description": "Screech a wail of doom in a cone pattern, inflicting fear on foes. (Does bonus defiance-bar damage to defiant foes.)",
   "icon": "https://render.guildwars2.com/file/41C99E156B3F602C9069E2B838E8BD05D6262EBE/103277.png",
   "type": "Weapon",
   "weapon_type": "Warhorn",
@@ -47,12 +50,23 @@
   "chat_link": "[\u0026BjwpAAA\u003d]",
   "traited_facts": [
     {
-      "text": "Daze",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-      "duration": 3,
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/30307A6E766D74B6EB09EDA12A4A2DE50E4D76F4/102869.png",
+      "duration": 2,
+      "status": "Fear",
+      "description": "Involuntary retreat; unable to act; stacks duration.",
+      "apply_count": 1,
       "requires_trait": 799,
-      "overrides": 3
+      "overrides": 2
+    },
+    {
+      "text": "Bonus Defiance Break",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 150,
+      "requires_trait": 799,
+      "overrides": 4
     }
   ]
 }

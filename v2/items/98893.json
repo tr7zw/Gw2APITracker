@@ -1,0 +1,31 @@
+{
+  "name": "Decade Enhancement Station",
+  "description": "Utility Station: Double-click to set out a Decade Enhancement Station, which allows players in the area to sharpen their weapons. Station stays active for ten minutes.",
+  "type": "Consumable",
+  "level": 80,
+  "rarity": "Rare",
+  "vendor_value": 99,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 98893,
+  "chat_link": "[\u0026AgFNggEA]",
+  "icon": "https://render.guildwars2.com/file/9C0A257380D40A5D6C1D93CA73A317035E06C9C6/2724222.png",
+  "details": {
+    "type": "Generic",
+    "duration_ms": 7200000,
+    "apply_count": 1,
+    "name": "Enhancement",
+    "icon": "https://render.guildwars2.com/file/64976F59BF060718C9109D36C27AD0F40F06BB32/436368.png",
+    "description": "+3% to All Attributes\n+10% Magic Find\n+10% Gold from Monsters\n+10% Karma\n+10% Experience from Kills"
+  }
+}

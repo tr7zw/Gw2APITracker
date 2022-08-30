@@ -3,39 +3,35 @@
   "tier": 3,
   "order": 1,
   "name": "Lingering Light",
-  "description": "When you enter celestial avatar form, your next strike will blind your foe and heal you. While in celestial avatar form, your healing of others is significantly increased.",
+  "description": "Gain astral force each interval while not in celestial avatar form. While in celestial avatar form, your healing of others is significantly increased. A lesser bonus to outgoing healing lingers for a duration after exiting celestial avatar.",
   "slot": "Major",
   "facts": [
     {
       "text": "Healing Increase to Others",
       "type": "Percent",
       "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-      "percent": 50
+      "percent": 20
     },
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/01BBD8CADBC6E9BBED46A2D9026976316CA8EAD9/1128537.png",
-      "duration": 5,
+      "duration": 10,
       "status": "Lingering Light",
-      "description": "Your next attack heals you and inflicts blind on your enemy.",
+      "description": "Outgoing healing is increased.",
       "apply_count": 1
     },
     {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
-      "duration": 4,
-      "status": "Blinded",
-      "description": "Next outgoing attack misses; stacks duration.",
-      "apply_count": 1
+      "text": "Interval",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+      "duration": 3
     },
     {
-      "text": "Healing",
-      "type": "AttributeAdjust",
-      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-      "value": 596,
-      "target": "Healing"
+      "text": "Energy Gain",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 5
     }
   ],
   "specialization": 5,

@@ -1,0 +1,48 @@
+{
+  "name": "Stalwart\u0027s Greaves",
+  "description": "",
+  "type": "Armor",
+  "level": 71,
+  "rarity": "Fine",
+  "vendor_value": 59,
+  "default_skin": 227,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6397,
+  "chat_link": "[\u0026AgH9GAAA]",
+  "icon": "https://render.guildwars2.com/file/CCC20FCEAA5110094309B72ADF090BBF242C0F23/63234.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 116,
+    "infusion_slots": [],
+    "attribute_adjustment": 81.408,
+    "infix_upgrade": {
+      "id": 155,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 20
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 20
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 28
+        }
+      ]
+    }
+  }
+}

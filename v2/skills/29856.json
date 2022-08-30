@@ -1,5 +1,5 @@
 {
-  "name": "Well of Recall",
+  "name": "Well of Senility",
   "facts": [
     {
       "text": "Range",
@@ -41,15 +41,6 @@
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
-      "duration": 5,
-      "status": "Alacrity",
-      "description": "Skills recharge faster.",
-      "apply_count": 1
-    },
-    {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
       "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
       "duration": 1,
       "status": "Chilled",
@@ -63,13 +54,19 @@
       "distance": 240
     },
     {
+      "text": "Boons Removed",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 2
+    },
+    {
       "text": "Combo Field",
       "type": "ComboField",
       "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
       "field_type": "Ethereal"
     }
   ],
-  "description": "Well. Creates a well that steals memories from foes, damaging and chilling them. When it expires it restores memories to allies, speeding their skill recharge.",
+  "description": "Well. Creates a well that steals memories from foes, damaging and chilling them. When it expires, foes still inside the well have boons removed from them.",
   "icon": "https://render.guildwars2.com/file/4FF0FDC3406A5C01B5D2B419A67922AE4E9FF4D6/1012905.png",
   "type": "Utility",
   "weapon_type": "None",

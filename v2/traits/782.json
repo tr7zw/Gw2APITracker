@@ -3,7 +3,7 @@
   "tier": 3,
   "order": 0,
   "name": "Blood Bank",
-  "description": "Gaining health grants a proportionate amount of barrier. Conversion amount increases while at full health.\u003cbr\u003e\u003cc\u003d@reminder\u003eRegeneration effects do not trigger this trait.\u003c/c\u003e",
+  "description": "Gaining health grants a proportionate amount of barrier. Conversion amount increases while at full health.",
   "slot": "Major",
   "facts": [
     {
@@ -16,13 +16,18 @@
       "text": "Healing Conversion Rate",
       "type": "Percent",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "percent": 15
+      "percent": 10
     },
     {
       "text": "Healing Conversion Rate",
       "type": "Percent",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "percent": 10
+      "percent": 5
+    },
+    {
+      "text": "Combat Only",
+      "type": "NoData",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png"
     }
   ],
   "specialization": 19,

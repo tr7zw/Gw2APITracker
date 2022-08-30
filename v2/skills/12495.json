@@ -10,26 +10,11 @@
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/65802D0CA90F904046542B78A79B48EB3745C244/103994.png",
-      "duration": 6,
-      "status": "Stone Spirit",
-      "description": "Apply protection upon striking a foe.",
-      "apply_count": 1
-    },
-    {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
       "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
-      "duration": 3,
+      "duration": 1,
       "status": "Protection",
       "description": "Incoming strike damage decreased by 33%; stacks duration.",
       "apply_count": 1
-    },
-    {
-      "text": "Protection Cooldown",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-      "duration": 10
     },
     {
       "text": "Radius",
@@ -41,7 +26,7 @@
       "text": "Number of Targets",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-      "value": 10
+      "value": 5
     },
     {
       "text": "Distance",
@@ -62,7 +47,7 @@
       "percent": 7.5
     }
   ],
-  "description": "Spirit. Summon a stone spirit that causes nearby allies to gain protection on hit.\nSpirits lose health when granting boons to allies and die if the summoner moves out of range.",
+  "description": "Spirit. Summon a stone spirit that grants protection to nearby allies.\nSpirits lose health when granting boons to allies, and they die if the summoner moves out of range.",
   "icon": "https://render.guildwars2.com/file/65802D0CA90F904046542B78A79B48EB3745C244/103994.png",
   "type": "Utility",
   "weapon_type": "None",
@@ -79,12 +64,23 @@
   ],
   "traited_facts": [
     {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+      "duration": 2,
+      "status": "Protection",
+      "description": "Incoming strike damage decreased by 33%; stacks duration.",
+      "apply_count": 1,
+      "requires_trait": 1038,
+      "overrides": 1
+    },
+    {
       "text": "Health Loss per Interval",
       "type": "Percent",
       "icon": "https://render.guildwars2.com/file/ECAD5F2BBF2CD2D007D876007008D7D0400D080C/1770204.png",
       "percent": 5,
       "requires_trait": 1038,
-      "overrides": 8
+      "overrides": 6
     }
   ]
 }

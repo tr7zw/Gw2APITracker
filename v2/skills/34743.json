@@ -44,12 +44,11 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-      "duration": 20,
+      "duration": 10,
       "status": "Might",
       "description": "Increased outgoing damage; stacks intensity.",
-      "apply_count": 4,
-      "requires_trait": 229,
-      "overrides": 2
+      "apply_count": 1,
+      "requires_trait": 229
     },
     {
       "text": "Apply Buff/Condition",
@@ -58,9 +57,8 @@
       "duration": 6,
       "status": "Might",
       "description": "Increased outgoing damage; stacks intensity.",
-      "apply_count": 6,
-      "requires_trait": 229,
-      "overrides": 3
+      "apply_count": 3,
+      "requires_trait": 229
     }
   ]
 }

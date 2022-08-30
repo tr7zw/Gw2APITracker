@@ -18,7 +18,7 @@
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 1,
-      "dmg_multiplier": 1.32
+      "dmg_multiplier": 2
     },
     {
       "text": "Damage against Foes under 50% Health",
@@ -32,14 +32,14 @@
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 1,
-      "dmg_multiplier": 1.32
+      "dmg_multiplier": 2
     },
     {
       "text": "Damage against Foes under 50% Health",
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 1,
-      "dmg_multiplier": 1.98
+      "dmg_multiplier": 3
     },
     {
       "text": "Apply Buff/Condition",
@@ -47,7 +47,7 @@
       "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
       "duration": 8,
       "status": "Fury",
-      "description": "Critical Chance increased by 20%; stacks duration.",
+      "description": "Critical chance increased; stacks duration.",
       "apply_count": 1
     },
     {
@@ -56,7 +56,7 @@
       "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
       "duration": 12,
       "status": "Fury",
-      "description": "Critical Chance increased by 20%; stacks duration.",
+      "description": "Critical chance increased; stacks duration.",
       "apply_count": 1
     },
     {
@@ -65,7 +65,7 @@
       "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
       "duration": 16,
       "status": "Fury",
-      "description": "Critical Chance increased by 20%; stacks duration.",
+      "description": "Critical chance increased; stacks duration.",
       "apply_count": 1
     },
     {
@@ -116,7 +116,7 @@
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "requires_trait": 1657,
       "hit_count": 1,
-      "dmg_multiplier": 1.4124,
+      "dmg_multiplier": 2.14,
       "overrides": 4
     },
     {
@@ -125,7 +125,7 @@
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "requires_trait": 1657,
       "hit_count": 1,
-      "dmg_multiplier": 2.1186,
+      "dmg_multiplier": 3.21,
       "overrides": 5
     },
     {

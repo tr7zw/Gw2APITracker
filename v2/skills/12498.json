@@ -10,26 +10,11 @@
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/C24EEF13ACFB15A8750BDA070F52A3AB6826A714/103944.png",
-      "duration": 6,
-      "status": "Sun Spirit",
-      "description": "Apply burning upon striking a foe.",
+      "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+      "duration": 1,
+      "status": "Vigor",
+      "description": "Endurance regeneration increased by 50%; stacks duration.",
       "apply_count": 1
-    },
-    {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-      "duration": 3,
-      "status": "Burning",
-      "description": "Deals damage every second; stacks intensity.",
-      "apply_count": 2
-    },
-    {
-      "text": "Burning Cooldown",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-      "duration": 8
     },
     {
       "text": "Radius",
@@ -41,7 +26,7 @@
       "text": "Number of Targets",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-      "value": 10
+      "value": 5
     },
     {
       "text": "Distance",
@@ -62,7 +47,7 @@
       "percent": 7.5
     }
   ],
-  "description": "Spirit. Summon a sun spirit that causes allies to inflict burning when hitting foes.\nSpirits lose health when enhancing allies and will die if the summoner moves out of range.",
+  "description": "Spirit. Summon a sun spirit that grants vigor to allies.\nSpirits lose health when enhancing allies, and they will die if the summoner moves out of range.",
   "icon": "https://render.guildwars2.com/file/C24EEF13ACFB15A8750BDA070F52A3AB6826A714/103944.png",
   "type": "Utility",
   "weapon_type": "None",
@@ -79,12 +64,23 @@
   ],
   "traited_facts": [
     {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+      "duration": 2,
+      "status": "Vigor",
+      "description": "Endurance regeneration increased by 50%; stacks duration.",
+      "apply_count": 1,
+      "requires_trait": 1038,
+      "overrides": 1
+    },
+    {
       "text": "Health Loss per Interval",
       "type": "Percent",
       "icon": "https://render.guildwars2.com/file/ECAD5F2BBF2CD2D007D876007008D7D0400D080C/1770204.png",
       "percent": 5,
       "requires_trait": 1038,
-      "overrides": 8
+      "overrides": 6
     }
   ]
 }

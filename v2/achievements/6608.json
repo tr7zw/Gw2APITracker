@@ -1,0 +1,26 @@
+{
+  "id": 6608,
+  "icon": "https://render.guildwars2.com/file/F25702AB080ADE05E14F6755C9BF9DB2D40FB6A8/2700770.png",
+  "name": "Earning Crafting Levels II",
+  "description": "",
+  "requirement": "Earn 30 crafting levels.\n\n\u003cc\u003d@reminder\u003eCraft items to earn crafting experience for that crafting discipline, allowing you to create more powerful items.\u003c/c\u003e",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 20,
+      "points": 0
+    },
+    {
+      "count": 30,
+      "points": 0
+    }
+  ],
+  "prerequisites": [
+    6612
+  ]
+}

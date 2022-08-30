@@ -2,27 +2,32 @@
   "id": 1822,
   "tier": 1,
   "order": 2,
-  "name": "Tranquil Balance",
-  "description": "While above the health threshold, healing to other allies is increased.",
+  "name": "Eluding Nullification",
+  "description": "The end of your dodge roll removes a condition from nearby allies.",
   "slot": "Major",
   "facts": [
     {
-      "text": "Health Threshold",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-      "percent": 75
+      "text": "Conditions Removed",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 1
     },
     {
-      "text": "Effectiveness Increased",
-      "type": "Percent",
+      "text": "Radius",
+      "type": "Distance",
       "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-      "percent": 20
+      "distance": 240
     },
     {
-      "text": "Effectiveness Increased",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-      "percent": 7
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    },
+    {
+      "text": "Combat Only",
+      "type": "NoData",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png"
     }
   ],
   "specialization": 12,

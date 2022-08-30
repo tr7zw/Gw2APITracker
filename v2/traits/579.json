@@ -3,7 +3,7 @@
   "tier": 3,
   "order": 1,
   "name": "Perfect Inscriptions",
-  "description": "\u003cc\u003d@abilitytype\u003eSignets\u003c/c\u003e gain reduced recharge, improved passive effects, and share their passive effects with nearby allies when activated.",
+  "description": "\u003cc\u003d@abilitytype\u003eSignets\u003c/c\u003e gain reduced recharge, improved passive effects, and continue to grant their passive bonuses while recharging.",
   "slot": "Major",
   "facts": [
     {
@@ -17,24 +17,6 @@
       "type": "Percent",
       "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
       "percent": 20
-    },
-    {
-      "text": "Radius",
-      "type": "Distance",
-      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-      "distance": 600
-    },
-    {
-      "text": "Number of Allied Targets",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-      "value": 5
-    },
-    {
-      "text": "Duration",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-      "duration": 10
     }
   ],
   "specialization": 16,

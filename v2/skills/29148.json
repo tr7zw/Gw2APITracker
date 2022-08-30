@@ -17,6 +17,13 @@
       "text": "Healing",
       "type": "AttributeAdjust",
       "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "value": 363,
+      "target": "Healing"
+    },
+    {
+      "text": "Healing",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
       "value": 325,
       "target": "Healing"
     },
@@ -43,9 +50,18 @@
       "type": "Distance",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "distance": 1500
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/01BC005B3C1F590D7075523EEA27361D31D69803/1012988.png",
+      "duration": 0,
+      "status": "Tranquil",
+      "description": "Your next centaur skill is empowered.",
+      "apply_count": 1
     }
   ],
-  "description": "Project Ventari\u0027s tablet into the world. The tablet will heal allies near it every few seconds.\n(The tablet will disappear if you move outside the tether distance.)",
+  "description": "Project Ventari\u0027s Tablet into the world. The tablet will heal allies near it every few seconds.\n(The tablet will disappear if you move outside the tether distance.)",
   "icon": "https://render.guildwars2.com/file/01BC005B3C1F590D7075523EEA27361D31D69803/1012988.png",
   "type": "Heal",
   "weapon_type": "None",

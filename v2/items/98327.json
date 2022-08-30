@@ -1,0 +1,30 @@
+{
+  "name": "Legendary Insight",
+  "description": "Earned from bosses and events inside raids and challenge mode Strike Missions.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Legendary",
+  "vendor_value": 500,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "BulkConsume",
+    "AccountBindOnUse",
+    "DeleteWarning"
+  ],
+  "restrictions": [],
+  "id": 98327,
+  "chat_link": "[\u0026AgEXgAEA]",
+  "icon": "https://render.guildwars2.com/file/6D33B7387BAF2E2CC9B5D37D1D1B01246AB6FA22/1302744.png",
+  "details": {
+    "type": "Immediate"
+  }
+}
