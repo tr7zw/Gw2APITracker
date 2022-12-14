@@ -1,0 +1,54 @@
+{
+  "name": "Chained Short Bow",
+  "description": "\u003cc\u003d@flavor\u003eSeal away your fear.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 11090,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99096,
+  "chat_link": "[\u0026AgEYgwEA]",
+  "icon": "https://render.guildwars2.com/file/D49A44A83BB7647FBC7D9636F473C66BE555D978/2752682.png",
+  "details": {
+    "type": "ShortBow",
+    "damage_type": "Physical",
+    "min_power": 905,
+    "max_power": 1000,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 1085,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 205
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 113
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 205
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 113
+        }
+      ]
+    }
+  }
+}

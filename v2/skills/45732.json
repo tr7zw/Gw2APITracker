@@ -14,12 +14,6 @@
       "value": 8
     },
     {
-      "text": "\u003cc\u003d@abilitytype\u003eHeat Threshold\u003c/c\u003e",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
-      "value": 50
-    },
-    {
       "text": "Damage",
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
@@ -51,10 +45,22 @@
       "value": 5
     },
     {
-      "text": "\u003cc\u003d@abilitytype\u003eVelocity Increase\u003c/c\u003e",
+      "text": "\u003cc\u003d@abilitytype\u003eVelocity Increase above 50% Heat\u003c/c\u003e",
       "type": "Percent",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "percent": 100
+    },
+    {
+      "text": "\u003cc\u003d@abilitytype\u003eDamage Increase above 50% Heat\u003c/c\u003e",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 10
+    },
+    {
+      "text": "\u003cc\u003d@abilitytype\u003eDamage Increase above 50% Heat\u003c/c\u003e",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 5
     },
     {
       "text": "Combo Finisher",
@@ -64,7 +70,7 @@
       "finisher_type": "Projectile"
     }
   ],
-  "description": "Fire a crippling bolt of light at your target. Allies the bolt passes through are granted swiftness. Projectile velocity increased while above the heat threshold.",
+  "description": "Fire a crippling bolt of light at your target. Allies the bolt passes through are granted swiftness. Projectile velocity and damage increased while above the heat threshold.",
   "icon": "https://render.guildwars2.com/file/1C03EBDDD56EC42F4E42DB5BA9E2CB0AFAA1AFE6/1770396.png",
   "type": "Toolbelt",
   "weapon_type": "None",
@@ -74,5 +80,21 @@
   ],
   "flags": [],
   "id": 45732,
-  "chat_link": "[\u0026BqSyAAA\u003d]"
+  "chat_link": "[\u0026BqSyAAA\u003d]",
+  "traited_facts": [
+    {
+      "text": "\u003cc\u003d@abilitytype\u003eDamage Increase above 100% Heat\u003c/c\u003e",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 20,
+      "requires_trait": 2137
+    },
+    {
+      "text": "\u003cc\u003d@abilitytype\u003eDamage Increase above 100% Heat\u003c/c\u003e",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 10,
+      "requires_trait": 2137
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "name": "Recycler: Jade Slivers",
   "description": "Looted junk items will automatically be turned into jade slivers. The quantity gained will fluctuate with the value of the junk item.",
-  "type": "Quux",
+  "type": "JadeTechModule",
   "level": 80,
   "rarity": "Masterwork",
   "vendor_value": 128,
@@ -12,7 +12,9 @@
     "Dungeon",
     "Pve"
   ],
-  "flags": [],
+  "flags": [
+    "NoSalvage"
+  ],
   "restrictions": [],
   "id": 96992,
   "chat_link": "[\u0026AgHgegEA]",

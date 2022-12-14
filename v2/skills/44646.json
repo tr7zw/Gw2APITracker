@@ -8,19 +8,13 @@
       "value": 45
     },
     {
-      "text": "\u003cc\u003d@abilitytype\u003eHeat Threshold\u003c/c\u003e",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
-      "value": 50
-    },
-    {
       "text": "Radius",
       "type": "Distance",
       "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
       "distance": 240
     },
     {
-      "text": "\u003cc\u003d@abilitytype\u003eRadius Increase\u003c/c\u003e",
+      "text": "\u003cc\u003d@abilitytype\u003eRadius Increase above 50% Heat\u003c/c\u003e",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
       "value": 120
@@ -38,13 +32,13 @@
       "duration": 4
     },
     {
-      "text": "\u003cc\u003d@abilitytype\u003eDuration Increase\u003c/c\u003e",
+      "text": "\u003cc\u003d@abilitytype\u003eDuration Increase above 50% Heat\u003c/c\u003e",
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
       "duration": 4
     },
     {
-      "text": "\u003cc\u003d@abilitytype\u003eDuration Increase\u003c/c\u003e",
+      "text": "\u003cc\u003d@abilitytype\u003eDuration Increase above 50% Heat\u003c/c\u003e",
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
       "duration": 2
@@ -113,5 +107,14 @@
   "flags": [],
   "specialization": 57,
   "id": 44646,
-  "chat_link": "[\u0026BmauAAA\u003d]"
+  "chat_link": "[\u0026BmauAAA\u003d]",
+  "traited_facts": [
+    {
+      "text": "\u003cc\u003d@abilitytype\u003eAlly Boon Duration above 100% Heat\u003c/c\u003e",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "percent": 100,
+      "requires_trait": 2137
+    }
+  ]
 }

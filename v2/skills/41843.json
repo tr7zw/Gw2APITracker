@@ -8,12 +8,6 @@
       "value": 30
     },
     {
-      "text": "\u003cc\u003d@abilitytype\u003eHeat Threshold\u003c/c\u003e",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
-      "value": 50
-    },
-    {
       "text": "Pull Damage",
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
@@ -25,10 +19,17 @@
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 1,
+      "dmg_multiplier": 1.4
+    },
+    {
+      "text": "Explosion Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
       "dmg_multiplier": 0.5
     },
     {
-      "text": "\u003cc\u003d@abilitytype\u003eRadius and Pull Increase\u003c/c\u003e",
+      "text": "\u003cc\u003d@abilitytype\u003eRadius and Pull Increase above 50% Heat\u003c/c\u003e",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
       "value": 120
@@ -73,5 +74,21 @@
   ],
   "flags": [],
   "id": 41843,
-  "chat_link": "[\u0026BnOjAAA\u003d]"
+  "chat_link": "[\u0026BnOjAAA\u003d]",
+  "traited_facts": [
+    {
+      "text": "\u003cc\u003d@abilitytype\u003eExplosion Damage Increase above 100% Heat\u003c/c\u003e",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 25,
+      "requires_trait": 2137
+    },
+    {
+      "text": "\u003cc\u003d@abilitytype\u003eExplosion Damage Increase above 100% Heat\u003c/c\u003e",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 10,
+      "requires_trait": 2137
+    }
+  ]
 }

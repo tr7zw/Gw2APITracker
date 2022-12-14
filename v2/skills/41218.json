@@ -14,12 +14,6 @@
       "value": true
     },
     {
-      "text": "\u003cc\u003d@abilitytype\u003eHeat Threshold\u003c/c\u003e",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
-      "value": 50
-    },
-    {
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/C8BD97D81A9BD3F93A2B2F54907454F1DCC8A823/1770414.png",
@@ -36,19 +30,19 @@
       "apply_count": 1
     },
     {
-      "text": "\u003cc\u003d@abilitytype\u003eRecharge Reduced\u003c/c\u003e",
+      "text": "\u003cc\u003d@abilitytype\u003eRecharge Reduced above 50% Heat\u003c/c\u003e",
       "type": "Percent",
       "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
       "percent": 50
     },
     {
-      "text": "\u003cc\u003d@abilitytype\u003eRecharge Reduced\u003c/c\u003e",
+      "text": "\u003cc\u003d@abilitytype\u003eRecharge Reduced above 50% Heat\u003c/c\u003e",
       "type": "Percent",
       "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
       "percent": 25
     }
   ],
-  "description": "Exceed. Break stun effects and create a holographic shell that reduces incoming damage. This skill recharges faster while above the heat threshold.",
+  "description": "Exceed. Break stun effects and create a holographic shell that reduces incoming damage. This skill recharges faster and lasts longer while above the heat threshold.",
   "icon": "https://render.guildwars2.com/file/C8BD97D81A9BD3F93A2B2F54907454F1DCC8A823/1770414.png",
   "type": "Utility",
   "weapon_type": "None",
@@ -60,5 +54,16 @@
   "flags": [],
   "specialization": 57,
   "id": 41218,
-  "chat_link": "[\u0026BgKhAAA\u003d]"
+  "chat_link": "[\u0026BgKhAAA\u003d]",
+  "traited_facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/C8BD97D81A9BD3F93A2B2F54907454F1DCC8A823/1770414.png",
+      "duration": 5,
+      "status": "Spectrum Shield",
+      "apply_count": 1,
+      "requires_trait": 2137
+    }
+  ]
 }

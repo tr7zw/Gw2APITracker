@@ -14,6 +14,12 @@
       "duration": 5
     },
     {
+      "text": "Duration",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "duration": 2
+    },
+    {
       "text": "Radius",
       "type": "Distance",
       "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
@@ -35,19 +41,16 @@
       "apply_count": 1
     },
     {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
-      "duration": 2,
-      "status": "Stealth",
-      "description": "Currently invisible. Ends if you deal damage.",
-      "apply_count": 1
+      "text": "Pulses",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 6
     },
     {
       "text": "Pulses",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "value": 6
+      "value": 3
     },
     {
       "text": "Combo Field",
@@ -56,7 +59,7 @@
       "field_type": "Smoke"
     }
   ],
-  "description": "Well. Deploy a sneak gyro to provide stealth to nearby allies.",
+  "description": "Well. Deploy a sneak gyro to provide stealth to allies in the area.",
   "icon": "https://render.guildwars2.com/file/45FB5559AC6432169509B427D3091C4F192AEC3B/1128596.png",
   "type": "Elite",
   "weapon_type": "None",
@@ -79,7 +82,7 @@
       "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
       "distance": 360,
       "requires_trait": 1917,
-      "overrides": 2
+      "overrides": 3
     }
   ]
 }

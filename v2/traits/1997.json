@@ -3,24 +3,12 @@
   "tier": 1,
   "order": 1,
   "name": "Reactive Lenses",
-  "description": "Activate Lesser Utility Goggles when blinded or disabled.\u003cbr\u003e\u003cc\u003d@reminder\u003eDisables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.\u003c/c\u003e",
+  "description": "Activate Lesser Utility Goggles after using a healing skill.",
   "slot": "Major",
   "skills": [
     {
       "name": "Lesser Utility Goggles",
       "facts": [
-        {
-          "text": "Recharge",
-          "type": "Recharge",
-          "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-          "value": 40
-        },
-        {
-          "text": "StunBreak",
-          "type": "StunBreak",
-          "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
-          "value": true
-        },
         {
           "text": "Apply Buff/Condition",
           "type": "Buff",
@@ -36,9 +24,15 @@
           "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
           "status": "Blinded",
           "description": "Next outgoing attack misses; stacks duration."
+        },
+        {
+          "text": "Conditions Removed",
+          "type": "Number",
+          "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+          "value": 1
         }
       ],
-      "description": "Gadget. Break out of stun, gaining resistance and clearing blindness.",
+      "description": "Gadget. Gain resistance, clear blindness, and remove damaging conditions.",
       "icon": "https://render.guildwars2.com/file/4ED8F42447B076AF1DD410430974C7BE7A0F7F61/103417.png",
       "flags": [],
       "id": 29812,

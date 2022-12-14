@@ -11,15 +11,7 @@
       "text": "Recharge",
       "type": "Recharge",
       "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 60
-    },
-    {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/E04535E0710904BE9841BAC49922200E39B9B413/1128636.png",
-      "duration": 0,
-      "status": "Incoming conditions are ignored.",
-      "apply_count": 1
+      "value": 48
     },
     {
       "text": "Radius",
@@ -31,7 +23,7 @@
       "text": "Pulses",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "value": 7
+      "value": 6
     },
     {
       "text": "Conditions Removed",
@@ -53,13 +45,22 @@
       "target": "Healing"
     },
     {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+      "duration": 2,
+      "status": "Stability",
+      "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
+      "apply_count": 1
+    },
+    {
       "text": "Combo Field",
       "type": "ComboField",
       "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
       "field_type": "Water"
     }
   ],
-  "description": "Glyph. Heal allies, cleanse conditions, and prevent conditions from being inflicted on allies in the area.",
+  "description": "Glyph. Heal allies, cleanse conditions, and grant stability to allies in the area.",
   "icon": "https://render.guildwars2.com/file/E04535E0710904BE9841BAC49922200E39B9B413/1128636.png",
   "type": "Elite",
   "weapon_type": "None",

@@ -15,12 +15,6 @@
       "dmg_multiplier": 0.93
     },
     {
-      "text": "\u003cc\u003d@abilitytype\u003eDamage Increase above 50% Heat\u003c/c\u003e",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-      "percent": 10
-    },
-    {
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
@@ -34,6 +28,18 @@
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
       "value": 3
+    },
+    {
+      "text": "\u003cc\u003d@abilitytype\u003eDamage Increase above 50% Heat\u003c/c\u003e",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 20
+    },
+    {
+      "text": "\u003cc\u003d@abilitytype\u003eDamage Increase above 50% Heat\u003c/c\u003e",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 10
     }
   ],
   "description": "Strike your foe again and inflict vulnerability. This attack deals more damage based on your heat level.",
@@ -53,6 +59,13 @@
   "id": 45581,
   "chat_link": "[\u0026Bg2yAAA\u003d]",
   "traited_facts": [
+    {
+      "text": "\u003cc\u003d@abilitytype\u003eDamage Increase above 100% Heat\u003c/c\u003e",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 30,
+      "requires_trait": 2137
+    },
     {
       "text": "\u003cc\u003d@abilitytype\u003eDamage Increase above 100% Heat\u003c/c\u003e",
       "type": "Percent",

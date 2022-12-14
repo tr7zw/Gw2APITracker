@@ -1,0 +1,51 @@
+{
+  "name": "Forsaken Gritted Bayonet",
+  "type": "Weapon",
+  "level": 65,
+  "rarity": "Exotic",
+  "vendor_value": 342,
+  "default_skin": 5173,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 51817,
+  "chat_link": "[\u0026AgFpygAA]",
+  "icon": "https://render.guildwars2.com/file/4C6B7C3BCAA49D11F8D0D6A5B1025B2ADB7F3800/67264.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 805,
+    "max_power": 983,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 542.72,
+    "infix_upgrade": {
+      "id": 1011,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 190
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 136
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 136
+        }
+      ]
+    }
+  }
+}

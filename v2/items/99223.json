@@ -1,0 +1,32 @@
+{
+  "name": "Fluttering Fairy Jade Bot Skin",
+  "description": "This will unlock the jade bot skin in your account wardrobe.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99223,
+  "chat_link": "[\u0026AgGXgwEA]",
+  "icon": "https://render.guildwars2.com/file/740860DD74EDB751FC78AB4901C84B78F70DC251/2778750.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "JadeBotSkin"
+  }
+}

@@ -3,16 +3,8 @@
   "tier": 2,
   "order": 2,
   "name": "Final Shielding",
-  "description": "Cast Lesser Arcane Shield when struck while below the health threshold.",
+  "description": "Cast Lesser Arcane Shield when you use an elite skill.",
   "slot": "Major",
-  "facts": [
-    {
-      "text": "Health Threshold",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-      "percent": 50
-    }
-  ],
   "skills": [
     {
       "name": "Lesser Arcane Shield",
@@ -21,13 +13,7 @@
           "text": "Recharge",
           "type": "Recharge",
           "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-          "value": 60
-        },
-        {
-          "text": "StunBreak",
-          "type": "StunBreak",
-          "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
-          "value": true
+          "value": 20
         },
         {
           "text": "Damage",

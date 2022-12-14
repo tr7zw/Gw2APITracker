@@ -24,7 +24,7 @@
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 1,
-      "dmg_multiplier": 3
+      "dmg_multiplier": 4.5
     },
     {
       "text": "Stun",
@@ -51,20 +51,13 @@
       "duration": 2
     },
     {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
-      "status": "Stability",
-      "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted."
-    },
-    {
-      "text": "Damage Increase",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-      "percent": 50
+      "text": "Duration Increase",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "duration": 1
     }
   ],
-  "description": "Rage. Stun your target and stun yourself. Gain adrenaline and extend berserk duration if you hit. This skill removes all stability and deals increased damage if stability was removed.",
+  "description": "Rage. Stun your target and stun yourself. Gain adrenaline and extend berserk duration if you hit.",
   "icon": "https://render.guildwars2.com/file/046F1B0E64AC140CB7C0DE26A8D61CE13E02466A/1058637.png",
   "type": "Elite",
   "weapon_type": "None",

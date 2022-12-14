@@ -1,7 +1,7 @@
 {
   "name": "Scavenger Protocol: Magic Trophies",
   "description": "Your jade bot will scan corpses to look for magic trophies.",
-  "type": "Quux",
+  "type": "JadeTechModule",
   "level": 80,
   "rarity": "Exotic",
   "vendor_value": 256,
@@ -12,7 +12,9 @@
     "Dungeon",
     "Pve"
   ],
-  "flags": [],
+  "flags": [
+    "NoSalvage"
+  ],
   "restrictions": [],
   "id": 97535,
   "chat_link": "[\u0026AgH/fAEA]",

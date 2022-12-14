@@ -1,0 +1,31 @@
+{
+  "id": 1098,
+  "name": "Krait Bane",
+  "description": "Defeat the krait witches in Kessex Hills, Timberline Falls, and Caledon Forest.",
+  "requirement": "Kill  champions of the krait.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Timberline Falls"
+    },
+    {
+      "type": "Text",
+      "text": "Kessex Hills"
+    },
+    {
+      "type": "Text",
+      "text": "Caledon Forest"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 10
+    }
+  ]
+}

@@ -6,16 +6,47 @@
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 1,
-      "dmg_multiplier": 1.25
+      "dmg_multiplier": 2
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 0.625
     },
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
-      "duration": 4,
+      "duration": 2,
       "status": "Chilled",
       "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
       "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+      "duration": 9,
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
+      "apply_count": 5
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+      "duration": 4,
+      "status": "Protection",
+      "description": "Incoming strike damage decreased by 33%; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Boon Duration Increase",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "duration": 1
     },
     {
       "text": "Radius",
@@ -40,43 +71,5 @@
   "icon": "https://render.guildwars2.com/file/955F334FAA12550A15127A6200CB7BDE4D41BD0A/2491538.png",
   "flags": [],
   "id": 62859,
-  "chat_link": "[\u0026Bov1AAA\u003d]",
-  "traited_facts": [
-    {
-      "text": "Damage",
-      "type": "Damage",
-      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-      "requires_trait": 2232,
-      "hit_count": 1,
-      "dmg_multiplier": 2,
-      "overrides": 0
-    },
-    {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-      "duration": 10,
-      "status": "Might",
-      "description": "Increased outgoing damage; stacks intensity.",
-      "apply_count": 10,
-      "requires_trait": 2232
-    },
-    {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
-      "duration": 10,
-      "status": "Protection",
-      "description": "Incoming strike damage decreased by 33%; stacks duration.",
-      "apply_count": 1,
-      "requires_trait": 2232
-    },
-    {
-      "text": "Boon Duration Increase",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-      "duration": 2,
-      "requires_trait": 2232
-    }
-  ]
+  "chat_link": "[\u0026Bov1AAA\u003d]"
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Butler Outfit",
+  "description": "Double-click to wear this outfit.\n\nOutfits are full sets of clothing that hide other armor. This will not change individual armor pieces, and you will still receive your current armor stats.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99043,
+  "chat_link": "[\u0026AgHjggEA]",
+  "icon": "https://render.guildwars2.com/file/70DA340003294680941FCA7F9919094F4FB3FD64/2741475.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "Outfit"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Playful Ghost Jade Bot Skin",
+  "description": "This will unlock the jade bot skin in your account wardrobe.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99005,
+  "chat_link": "[\u0026AgG9ggEA]",
+  "icon": "https://render.guildwars2.com/file/5A01151C7796CDBFE20B1772F70935FA24241ACC/2741479.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "JadeBotSkin"
+  }
+}

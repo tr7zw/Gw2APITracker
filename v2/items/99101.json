@@ -1,0 +1,47 @@
+{
+  "name": "Sinister Clawing Shadow Gloves",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 238,
+  "default_skin": 11053,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99101,
+  "chat_link": "[\u0026AgEdgwEA]",
+  "icon": "https://render.guildwars2.com/file/2312300395E5A54503AAD71F91ACE8B0E8D93B05/2752278.png",
+  "details": {
+    "type": "Gloves",
+    "weight_class": "Medium",
+    "defense": 157,
+    "infusion_slots": [],
+    "attribute_adjustment": 128.04,
+    "infix_upgrade": {
+      "id": 1067,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 32
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 32
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 45
+        }
+      ]
+    }
+  }
+}

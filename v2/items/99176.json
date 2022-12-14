@@ -1,0 +1,51 @@
+{
+  "name": "Breachmaker Drive Loop",
+  "description": "\u003cc\u003d@flavor\u003e\"I wish I could have helped out more. Look, I made this with some stuff Braham looted up there!\" —Taimi\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99176,
+  "chat_link": "[\u0026AgFogwEA]",
+  "icon": "https://render.guildwars2.com/file/AD42AAE2F13CB744475410709173E3E90A269B7A/2759731.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [],
+    "attribute_adjustment": 256.08,
+    "infix_upgrade": {
+      "id": 1131,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 77
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 77
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 42
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 42
+        }
+      ]
+    }
+  }
+}

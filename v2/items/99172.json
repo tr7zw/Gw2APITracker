@@ -1,0 +1,50 @@
+{
+  "name": "Mainsail of the Lion\u0027s Champion",
+  "description": "\u003cc\u003d@flavor\u003eBrave heroes who stood in defense of Lion\u0027s Arch, the Captain\u0027s Council salutes you.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 11104,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99172,
+  "chat_link": "[\u0026AgFkgwEA]",
+  "icon": "https://render.guildwars2.com/file/D522EF1D1407CDE03D67D104FE2A06CE4BC61BC4/2759612.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 920,
+    "max_power": 1080,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 239
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 171
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 171
+        }
+      ]
+    }
+  }
+}

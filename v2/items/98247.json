@@ -1,0 +1,62 @@
+{
+  "name": "Void-Corrupted Orb (Infused)",
+  "type": "Back",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 330,
+  "default_skin": 10898,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NotUpgradeable",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 98247,
+  "chat_link": "[\u0026AgHHfwEA]",
+  "icon": "https://render.guildwars2.com/file/CE32602A159EA938066F0B09174EE908DA3FAB07/2709010.png",
+  "details": {
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      },
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 89.628,
+    "infix_upgrade": {
+      "id": 1697,
+      "buff": {
+        "skill_id": 63926
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 52
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 27
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 27
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 52
+        }
+      ]
+    }
+  }
+}

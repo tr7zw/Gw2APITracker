@@ -1,7 +1,7 @@
 {
   "name": "Treasure Hunter Protocol 2",
   "description": "Your jade bot will scan for treasure chests within 3,000 units.",
-  "type": "Quux",
+  "type": "JadeTechModule",
   "level": 80,
   "rarity": "Rare",
   "vendor_value": 192,
@@ -14,6 +14,7 @@
   ],
   "flags": [
     "AccountBound",
+    "NoSalvage",
     "AccountBindOnUse"
   ],
   "restrictions": [],

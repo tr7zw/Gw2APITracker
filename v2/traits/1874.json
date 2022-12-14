@@ -3,7 +3,7 @@
   "tier": 1,
   "order": 0,
   "name": "Celestial Being",
-  "description": "Gain access to \u003cc\u003d@abilitytype\u003eGlyphs\u003c/c\u003e. Become a celestial avatar once you gain enough astral force. Generate astral force by healing allies and damaging foes. \u003cc\u003d@reminder\u003eYour pet\u0027s attributes are weaker.\u003c/c\u003e",
+  "description": "Gain access to \u003cc\u003d@abilitytype\u003eGlyphs\u003c/c\u003e. Become a celestial avatar once you gain enough astral force. Generate astral force by healing allies and damaging foes.",
   "slot": "Minor",
   "facts": [
     {
@@ -17,12 +17,6 @@
       "type": "Percent",
       "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
       "percent": 0.75
-    },
-    {
-      "text": "Pet Attributes",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-      "percent": -20
     }
   ],
   "skills": [

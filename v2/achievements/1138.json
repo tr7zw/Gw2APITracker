@@ -1,0 +1,27 @@
+{
+  "id": 1138,
+  "name": "Tower Hybrid Master",
+  "description": "",
+  "requirement": "Defeat the toxic hybrid without any party members dying.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    1131
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 48879,
+      "count": 1
+    }
+  ]
+}

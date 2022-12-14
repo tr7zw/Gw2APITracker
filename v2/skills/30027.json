@@ -2,6 +2,12 @@
   "name": "Defense Field",
   "facts": [
     {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 900
+    },
+    {
       "text": "Recharge",
       "type": "Recharge",
       "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -40,15 +46,19 @@
       "value": 5
     }
   ],
-  "description": "Project a defensive dome around yourself and grant stability to nearby allies.",
+  "description": "Project a defensive dome and grant stability to allies in the area.",
   "icon": "https://render.guildwars2.com/file/0D0C05CAE794150306C01DA4C9D09B11260DA79D/1058598.png",
   "type": "Toolbelt",
   "weapon_type": "None",
-  "slot": "Toolbelt",
   "professions": [
     "Engineer"
   ],
-  "flags": [],
+  "slot": "Toolbelt",
+  "flags": [
+    "GroundTargeted",
+    "NoUnderwater"
+  ],
+  "specialization": 43,
   "id": 30027,
   "chat_link": "[\u0026Bkt1AAA\u003d]"
 }

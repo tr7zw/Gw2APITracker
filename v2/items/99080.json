@@ -1,0 +1,33 @@
+{
+  "name": "Guardian Angel Cape",
+  "description": "This will replace the appearance of one back slot item of any weight class and unlock the skin in your account wardrobe.\n\nThis back slot skin has no stats of its own.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 6250,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99080,
+  "chat_link": "[\u0026AgEIgwEA]",
+  "icon": "https://render.guildwars2.com/file/65AE2090DA1DDB7C4743373345C91122F63E3044/2752286.png",
+  "details": {
+    "type": "Transmutation",
+    "skins": [
+      11070
+    ]
+  }
+}

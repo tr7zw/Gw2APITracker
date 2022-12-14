@@ -1,0 +1,52 @@
+{
+  "id": 6541,
+  "name": "Lion\u0027s Memory",
+  "description": "",
+  "requirement": "Gather mementos from each episode of Living Story Season 1 by completing their respective meta-achievements.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 98031
+    },
+    {
+      "type": "Item",
+      "id": 98056
+    },
+    {
+      "type": "Item",
+      "id": 98035
+    },
+    {
+      "type": "Item",
+      "id": 98068
+    },
+    {
+      "type": "Item",
+      "id": 98050
+    },
+    {
+      "type": "Item",
+      "id": 98069
+    }
+  ],
+  "tiers": [
+    {
+      "count": 6,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 98007,
+      "count": 1
+    }
+  ]
+}

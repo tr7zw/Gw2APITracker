@@ -1,0 +1,29 @@
+{
+  "name": "Glacier Overhang",
+  "description": "A decoration schematic that is processed by the guild\u0027s assembly device to make the decoration.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 0,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99290,
+  "chat_link": "[\u0026AgHagwEA]",
+  "icon": "https://render.guildwars2.com/file/D41276C45877E463555455A0020CB0DE92ECB001/2789292.png",
+  "details": {
+    "type": "Generic",
+    "guild_upgrade_id": 1232
+  }
+}

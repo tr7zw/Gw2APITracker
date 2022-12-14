@@ -2,17 +2,18 @@
   "id": 1379,
   "tier": 2,
   "order": 1,
-  "name": "Armored Attack",
-  "description": "Gain power based on your toughness.",
+  "name": "Resilient Roll",
+  "description": "Gain resistance when you dodge.",
   "slot": "Major",
   "facts": [
     {
-      "text": "Attribute Conversion",
-      "type": "BuffConversion",
-      "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
-      "percent": 10,
-      "source": "Toughness",
-      "target": "Power"
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
+      "duration": 3,
+      "status": "Resistance",
+      "description": "Nondamaging conditions currently on you are ineffective; stacks duration.",
+      "apply_count": 1
     }
   ],
   "specialization": 22,

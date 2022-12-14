@@ -1,0 +1,59 @@
+{
+  "name": "Zealot\u0027s Aetherized Indigo Hammer",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 0,
+  "default_skin": 11131,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99134,
+  "chat_link": "[\u0026AgE+gwEA]",
+  "icon": "https://render.guildwars2.com/file/6E32DB431854B04431CC08FAD09753802A6127C4/2759572.png",
+  "details": {
+    "type": "Hammer",
+    "damage_type": "Physical",
+    "min_power": 1034,
+    "max_power": 1166,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      },
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 717.024,
+    "infix_upgrade": {
+      "id": 799,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 251
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 179
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 179
+        }
+      ]
+    }
+  }
+}

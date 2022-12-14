@@ -3,8 +3,24 @@
   "tier": 2,
   "order": 2,
   "name": "Shared Anguish",
-  "description": "Incoming disables are transferred to your pet instead.\u003cbr\u003e\u003cc\u003d@reminder\u003eDisables include: stun, taunt, daze, knockback, pull, knockdown, sink, float, fear, or launch.\u003c/c\u003e",
+  "description": "After you swap pets, you and your pet gain stability.",
   "slot": "Major",
+  "facts": [
+    {
+      "text": "Combat Only",
+      "type": "NoData",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png"
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+      "duration": 3,
+      "status": "Stability",
+      "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
+      "apply_count": 1
+    }
+  ],
   "specialization": 33,
   "icon": "https://render.guildwars2.com/file/C59B052F29BB21A6471F5080CB5A416F3A6CE7A8/1012659.png"
 }

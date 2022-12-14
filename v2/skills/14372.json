@@ -48,15 +48,9 @@
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
       "duration": 25
-    },
-    {
-      "text": "Count Recharge",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-      "duration": 75
     }
   ],
-  "description": "Shout. Cure conditions on yourself and nearby allies. Also breaks stuns.",
+  "description": "Shout. Cure conditions on yourself and nearby allies. Also breaks stuns for affected allies.",
   "icon": "https://render.guildwars2.com/file/E8D20BEE10E680A217A055CE62D938D97EA03B7A/103797.png",
   "type": "Utility",
   "weapon_type": "None",
@@ -78,14 +72,6 @@
       "duration": 20,
       "requires_trait": 1470,
       "overrides": 7
-    },
-    {
-      "text": "Count Recharge",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-      "duration": 60,
-      "requires_trait": 1470,
-      "overrides": 8
     }
   ]
 }

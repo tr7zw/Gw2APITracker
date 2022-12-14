@@ -2,23 +2,36 @@
   "id": 1367,
   "tier": 2,
   "order": 2,
-  "name": "Sundering Mace",
-  "description": "Stuns, dazes, and knock downs applied by mace skills last longer. Mace skills gain reduced recharge.",
+  "name": "Merciless Hammer",
+  "description": "Hammer and mace skills deal increased damage when striking a disabled or defiant foe. Gain adrenaline when you disable a foe.\u003cbr\u003e\u003cc\u003d@reminder\u003eDisables include stun, taunt, daze, knockback, pull, knockdown, sink, float, fear, and launch.\u003c/c\u003e",
   "slot": "Major",
   "facts": [
     {
-      "text": "Recharge Reduced",
+      "text": "Damage Increase",
       "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "percent": 20
     },
     {
-      "text": "Duration Increase",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-      "percent": 20
+      "text": "Adrenaline",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/E1E7C4D3A6E62F3D5C9F627CE8175BFB0C614CBE/156652.png",
+      "value": 7
+    }
+  ],
+  "traited_facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/15AA251708A19EC6E1CBA4B208D7502797C9D111/2604722.png",
+      "duration": 5,
+      "status": "Positive Flow",
+      "description": "Gain flow per second.",
+      "apply_count": 1,
+      "requires_trait": 2226,
+      "overrides": 1
     }
   ],
   "specialization": 22,
-  "icon": "https://render.guildwars2.com/file/0CE13DF2315967C19B000E4FF407351B32BF0E3E/1012792.png"
+  "icon": "https://render.guildwars2.com/file/203E0DEC94900B5305F309A1337D03D70FF9426E/1012804.png"
 }

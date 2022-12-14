@@ -1,0 +1,64 @@
+{
+  "name": "Viper\u0027s Aetherized Arsenite Greatsword",
+  "description": "In the Mystic Forge, combine with 10 Globs of Ectoplasm, 25 Assault Knight Power Cores, and 50 Hydrocatalytic Reagents to change this weapon\u0027s attributes and color.",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 0,
+  "default_skin": 11140,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99157,
+  "chat_link": "[\u0026AgFVgwEA]",
+  "icon": "https://render.guildwars2.com/file/0708FDB03BD3C90FCF0ACE6AC0250B0EA2CEBE7B/2759547.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 1045,
+    "max_power": 1155,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      },
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 717.024,
+    "infix_upgrade": {
+      "id": 1153,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 215
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 118
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 215
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 118
+        }
+      ]
+    }
+  }
+}

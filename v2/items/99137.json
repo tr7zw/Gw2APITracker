@@ -1,0 +1,50 @@
+{
+  "name": "Fang of the Lion\u0027s Champion",
+  "description": "\u003cc\u003d@flavor\u003eBrave heroes who stood in defense of Lion\u0027s Arch, the Captain\u0027s Council salutes you.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 11136,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99137,
+  "chat_link": "[\u0026AgFBgwEA]",
+  "icon": "https://render.guildwars2.com/file/976B91EFCEC1943B51473E15CD080E302A9F35D8/2759713.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 905,
+    "max_power": 1000,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 120
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 85
+        }
+      ]
+    }
+  }
+}

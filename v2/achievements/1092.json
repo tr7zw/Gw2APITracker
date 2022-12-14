@@ -1,0 +1,35 @@
+{
+  "id": 1092,
+  "name": "Toxic Krait Historian",
+  "description": "",
+  "requirement": "Visit  krait obelisk shards around the world.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 2
+    },
+    {
+      "count": 10,
+      "points": 3
+    },
+    {
+      "count": 24,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    6763
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 48906,
+      "count": 1
+    }
+  ]
+}

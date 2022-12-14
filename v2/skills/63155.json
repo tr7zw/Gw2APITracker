@@ -14,12 +14,6 @@
       "value": 8
     },
     {
-      "text": "Total Shadow Shroud Health at Maximum Energy",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-      "percent": 150
-    },
-    {
       "text": "Barrier",
       "type": "AttributeAdjust",
       "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
@@ -49,6 +43,12 @@
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "value": 5
+    },
+    {
+      "text": "Damage Reduced",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 33
     }
   ],
   "description": "Ally Target: Enter shadow shroud and tether a targeted or previously siphoned ally, granting them barrier. If no target is selected, one will be chosen randomly in the indicated radius.",

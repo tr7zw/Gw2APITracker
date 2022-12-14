@@ -2,18 +2,6 @@
   "name": "Tome of Justice",
   "facts": [
     {
-      "text": "Recharge",
-      "type": "Recharge",
-      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 30
-    },
-    {
-      "text": "Pages",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-      "value": 5
-    },
-    {
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
@@ -38,7 +26,7 @@
       "value": 5
     }
   ],
-  "description": "Virtue: Burn foes every few attacks.\nActivate: Pull forth a magical tome on the dangers of the blazing heat in Kourna.\nEach tome skill use consumes a page.",
+  "description": "Virtue: Burn foes every few attacks.\nActivate: Pull forth a magical tome on the dangers of the blazing heat in Kourna.",
   "icon": "https://render.guildwars2.com/file/2710AF269B38A4A365089BC7B3C9389B354DE59D/1770472.png",
   "type": "Profession",
   "weapon_type": "None",
@@ -46,6 +34,7 @@
     "Guardian"
   ],
   "slot": "Profession_1",
+  "flip_skill": 68647,
   "flags": [],
   "specialization": 62,
   "id": 44364,
@@ -55,14 +44,6 @@
   ],
   "traited_facts": [
     {
-      "text": "Pages",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-      "value": 8,
-      "requires_trait": 2086,
-      "overrides": 1
-    },
-    {
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
@@ -71,7 +52,7 @@
       "description": "Deals damage every second; stacks intensity.",
       "apply_count": 1,
       "requires_trait": 1686,
-      "overrides": 2
+      "overrides": 0
     },
     {
       "text": "Apply Buff/Condition",
@@ -82,7 +63,7 @@
       "description": "Deals damage every second; stacks intensity.",
       "apply_count": 1,
       "requires_trait": 1686,
-      "overrides": 3
+      "overrides": 1
     },
     {
       "text": "Attacks to Trigger Passive",
@@ -90,7 +71,7 @@
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "value": 3,
       "requires_trait": 622,
-      "overrides": 4
+      "overrides": 2
     },
     {
       "text": "Apply Buff/Condition",

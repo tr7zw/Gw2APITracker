@@ -1,0 +1,44 @@
+{
+  "id": 1392,
+  "name": "Please Follow Me to the Exit",
+  "description": "Story Instance: Escape from Lion\u0027s Arch",
+  "requirement": "Find and rescue all 6 hidden evacuees.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Wiglaf"
+    },
+    {
+      "type": "Text",
+      "text": "Lawson Marriner"
+    },
+    {
+      "type": "Text",
+      "text": "Subdirector Blingg"
+    },
+    {
+      "type": "Text",
+      "text": "Torina Panney"
+    },
+    {
+      "type": "Text",
+      "text": "Urmaug"
+    },
+    {
+      "type": "Text",
+      "text": "Racing Moa"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 6,
+      "points": 5
+    }
+  ]
+}

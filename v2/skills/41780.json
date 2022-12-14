@@ -2,18 +2,6 @@
   "name": "Tome of Resolve",
   "facts": [
     {
-      "text": "Recharge",
-      "type": "Recharge",
-      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 50
-    },
-    {
-      "text": "Pages",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-      "value": 5
-    },
-    {
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/E206770FD62BB63B71F56209F34BF99392BADF9E/1770478.png",
@@ -23,7 +11,7 @@
       "apply_count": 1
     }
   ],
-  "description": "Virtue: Regenerate health.\nActivate: Draw forth an enchanted tome that recounts the trials undergone by the people of Vabbi.\nEach tome skill use consumes a page.",
+  "description": "Virtue: Regenerate health.\nActivate: Draw forth an enchanted tome that recounts the trials undergone by the people of Vabbi.",
   "icon": "https://render.guildwars2.com/file/E206770FD62BB63B71F56209F34BF99392BADF9E/1770478.png",
   "type": "Profession",
   "weapon_type": "None",
@@ -31,6 +19,7 @@
     "Guardian"
   ],
   "slot": "Profession_2",
+  "flip_skill": 68648,
   "flags": [],
   "specialization": 62,
   "id": 41780,
@@ -39,14 +28,6 @@
     "Virtue"
   ],
   "traited_facts": [
-    {
-      "text": "Pages",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-      "value": 8,
-      "requires_trait": 2086,
-      "overrides": 1
-    },
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",

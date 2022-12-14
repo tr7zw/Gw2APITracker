@@ -8,12 +8,6 @@
       "value": 20
     },
     {
-      "text": "\u003cc\u003d@abilitytype\u003eHeat Threshold\u003c/c\u003e",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
-      "value": 50
-    },
-    {
       "text": "Healing",
       "type": "AttributeAdjust",
       "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
@@ -28,6 +22,12 @@
       "status": "Chilled",
       "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
       "apply_count": 1
+    },
+    {
+      "text": "\u003cc\u003d@abilitytype\u003eHeat Threshold\u003c/c\u003e",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
+      "value": 50
     },
     {
       "text": "Apply Buff/Condition",
@@ -79,5 +79,21 @@
   "flags": [],
   "specialization": 57,
   "id": 40507,
-  "chat_link": "[\u0026BjueAAA\u003d]"
+  "chat_link": "[\u0026BjueAAA\u003d]",
+  "traited_facts": [
+    {
+      "text": "\u003cc\u003d@abilitytype\u003eEffect Duration Increase over 100% Heat\u003c/c\u003e",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "percent": 50,
+      "requires_trait": 2137
+    },
+    {
+      "text": "\u003cc\u003d@abilitytype\u003eEffect Duration Increase over 100% Heat\u003c/c\u003e",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "percent": 25,
+      "requires_trait": 2137
+    }
+  ]
 }

@@ -20,7 +20,7 @@
       "duration": 3
     },
     {
-      "text": "Initiative",
+      "text": "Bonus Initiative Gain",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "value": 1
@@ -30,9 +30,21 @@
       "type": "Percent",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "percent": 50
+    },
+    {
+      "text": "Base Movement Speed",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "percent": -75
+    },
+    {
+      "text": "Maximum Movement Speed",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "percent": -75
     }
   ],
-  "description": "Become immobile and gain access to kneel skills, which have increased projectile velocity. You can still dodge roll while kneeling. Kneel is canceled if you swap weapons or become disabled.",
+  "description": "Your base and maximum movement speed is reduced. Gain access to kneel skills, which have increased projectile velocity. You can still dodge roll while kneeling. Kneeling is canceled if you swap weapons or use Free Action.",
   "icon": "https://render.guildwars2.com/file/B872B96AC8ED04DE1F1FAE0EA93D71270A6B2DF1/1770631.png",
   "type": "Weapon",
   "weapon_type": "Rifle",
@@ -40,7 +52,7 @@
     "Thief"
   ],
   "slot": "Weapon_5",
-  "initiative": 1,
+  "initiative": 2,
   "flags": [
     "NoUnderwater"
   ],

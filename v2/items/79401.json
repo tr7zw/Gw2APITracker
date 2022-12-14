@@ -1,6 +1,6 @@
 {
   "name": "Destroyer Weapon Crate",
-  "description": "Double-click to open. Contains a choice of one account-bound Primordus weapon. Unlocks the Primordus Weapons collection.",
+  "description": "Double-click to open. Contains a choice of one account-bound Destroyer weapon. Unlocks the Destroyer Weapons collection.",
   "type": "Container",
   "level": 0,
   "rarity": "Exotic",
@@ -13,6 +13,7 @@
   ],
   "flags": [
     "AccountBound",
+    "NoSalvage",
     "NoSell",
     "AccountBindOnUse"
   ],

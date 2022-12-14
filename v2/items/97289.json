@@ -1,7 +1,7 @@
 {
   "name": "Recycler: Bloodstone Dust",
   "description": "Looted junk items will automatically be turned into bloodstone dust.",
-  "type": "Quux",
+  "type": "JadeTechModule",
   "level": 80,
   "rarity": "Masterwork",
   "vendor_value": 128,
@@ -12,7 +12,9 @@
     "Dungeon",
     "Pve"
   ],
-  "flags": [],
+  "flags": [
+    "NoSalvage"
+  ],
   "restrictions": [],
   "id": 97289,
   "chat_link": "[\u0026AgEJfAEA]",

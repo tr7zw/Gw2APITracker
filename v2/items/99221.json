@@ -1,0 +1,58 @@
+{
+  "name": "Prototype Assault Knight Helm",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 413,
+  "default_skin": 11152,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99221,
+  "chat_link": "[\u0026AgGVgwEA]",
+  "icon": "https://render.guildwars2.com/file/CD07B54F5978274BFBCBD89C0E06F7642AA0F8F5/2779156.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "defense": 127,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 179.256,
+    "infix_upgrade": {
+      "id": 1111,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 54
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 54
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 30
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 30
+        }
+      ]
+    }
+  }
+}

@@ -20,10 +20,22 @@
       "value": 3
     },
     {
-      "text": "\u003cc\u003d@abilitytype\u003eAdditional Conditions\u003c/c\u003e",
+      "text": "Conditions Removed",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 2
+    },
+    {
+      "text": "\u003cc\u003d@abilitytype\u003eAdditional Conditions above 50% Heat\u003c/c\u003e",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "value": 3
+    },
+    {
+      "text": "\u003cc\u003d@abilitytype\u003eAdditional Conditions above 50% Heat\u003c/c\u003e",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 2
     },
     {
       "text": "Apply Buff/Condition",
@@ -45,5 +57,21 @@
   ],
   "flags": [],
   "id": 43845,
-  "chat_link": "[\u0026BkWrAAA\u003d]"
+  "chat_link": "[\u0026BkWrAAA\u003d]",
+  "traited_facts": [
+    {
+      "text": "\u003cc\u003d@abilitytype\u003eAdditional Conditions above 100% Heat\u003c/c\u003e",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 6,
+      "requires_trait": 2137
+    },
+    {
+      "text": "\u003cc\u003d@abilitytype\u003eAdditional Conditions above 100% Heat\u003c/c\u003e",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 4,
+      "requires_trait": 2137
+    }
+  ]
 }

@@ -3,25 +3,20 @@
   "tier": 2,
   "order": 2,
   "name": "Hard to Catch",
-  "description": "Break stun and refill endurance when you are stunned, dazed, knocked back, pulled, knocked down, sink, floated, launched, or inflicted with fear.",
+  "description": "Gain endurance when you shadowstep.",
   "slot": "Major",
   "facts": [
     {
-      "text": "Recharge",
-      "type": "Recharge",
-      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 30
+      "text": "Endurance Gained",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 8
     },
     {
       "text": "Endurance Gained",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "value": 100
-    },
-    {
-      "text": "Breaks Stun",
-      "type": "NoData",
-      "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png"
+      "value": 5
     }
   ],
   "specialization": 54,

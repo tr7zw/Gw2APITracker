@@ -1,0 +1,51 @@
+{
+  "name": "Silent Forest\u0027s Bell",
+  "description": "\u003cc\u003d@flavor\u003eEmbark, O hunter, and may you bring a great quarry back to these festive halls.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 11190,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99280,
+  "chat_link": "[\u0026AgHQgwEA]",
+  "icon": "https://render.guildwars2.com/file/A5F667C6EA7BFF48716A13C1F5DD14D224431D18/2789300.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 920,
+    "max_power": 1080,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 628,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 239
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 171
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 171
+        }
+      ]
+    }
+  }
+}

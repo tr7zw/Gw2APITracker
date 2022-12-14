@@ -1,0 +1,50 @@
+{
+  "name": "Might of the Lion\u0027s Champion",
+  "description": "\u003cc\u003d@flavor\u003eBrave heroes who stood in defense of Lion\u0027s Arch, the Captain\u0027s Council salutes you.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 11109,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99185,
+  "chat_link": "[\u0026AgFxgwEA]",
+  "icon": "https://render.guildwars2.com/file/2EB138517704040B03412FF27FAF1E009B9C6F60/2759594.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Physical",
+    "min_power": 857,
+    "max_power": 1048,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 120
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 85
+        }
+      ]
+    }
+  }
+}

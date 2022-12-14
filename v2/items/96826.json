@@ -1,7 +1,7 @@
 {
   "name": "Rescue Protocol Recharge 2",
   "description": "Increases the speed at which your jade bot can recharge its Rescue Protocol skill by 30%.",
-  "type": "Quux",
+  "type": "JadeTechModule",
   "level": 80,
   "rarity": "Rare",
   "vendor_value": 192,
@@ -14,6 +14,7 @@
   ],
   "flags": [
     "AccountBound",
+    "NoSalvage",
     "AccountBindOnUse"
   ],
   "restrictions": [],

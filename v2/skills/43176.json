@@ -8,12 +8,6 @@
       "value": 40
     },
     {
-      "text": "\u003cc\u003d@abilitytype\u003eHeat Threshold\u003c/c\u003e",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
-      "value": 50
-    },
-    {
       "text": "Radius",
       "type": "Distance",
       "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
@@ -54,5 +48,17 @@
   ],
   "flags": [],
   "id": 43176,
-  "chat_link": "[\u0026BqioAAA\u003d]"
+  "chat_link": "[\u0026BqioAAA\u003d]",
+  "traited_facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/62405ED2322E80A4A95663BA6C6804DB0962E6B0/867451.png",
+      "duration": 6,
+      "status": "Light Aura",
+      "description": "When struck, you gain resolution. Incoming condition damage is reduced by 10%. \u003cc\u003d@reminder\u003e(Cooldown: 1 Second )\u003c/c\u003e",
+      "apply_count": 1,
+      "requires_trait": 2137
+    }
+  ]
 }

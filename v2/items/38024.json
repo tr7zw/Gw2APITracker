@@ -13,6 +13,7 @@
   ],
   "flags": [
     "AccountBound",
+    "NoSalvage",
     "AccountBindOnUse"
   ],
   "restrictions": [],
@@ -20,22 +21,6 @@
   "chat_link": "[\u0026AgGIlAAA]",
   "icon": "https://render.guildwars2.com/file/7DB2AB514CB9ACC219457DC1AEAB340BD578644F/512007.png",
   "upgrades_into": [
-    {
-      "upgrade": "Infusion",
-      "item_id": 97519
-    },
-    {
-      "upgrade": "Infusion",
-      "item_id": 97237
-    },
-    {
-      "upgrade": "Infusion",
-      "item_id": 86599
-    },
-    {
-      "upgrade": "Infusion",
-      "item_id": 86419
-    },
     {
       "upgrade": "Infusion",
       "item_id": 96126
@@ -71,18 +56,6 @@
     {
       "upgrade": "Infusion",
       "item_id": 96368
-    },
-    {
-      "upgrade": "Infusion",
-      "item_id": 86624
-    },
-    {
-      "upgrade": "Infusion",
-      "item_id": 86478
-    },
-    {
-      "upgrade": "Infusion",
-      "item_id": 95957
     },
     {
       "upgrade": "Infusion",
@@ -302,11 +275,39 @@
     },
     {
       "upgrade": "Infusion",
+      "item_id": 97519
+    },
+    {
+      "upgrade": "Infusion",
+      "item_id": 86599
+    },
+    {
+      "upgrade": "Infusion",
+      "item_id": 86419
+    },
+    {
+      "upgrade": "Infusion",
       "item_id": 89597
     },
     {
       "upgrade": "Infusion",
       "item_id": 87884
+    },
+    {
+      "upgrade": "Infusion",
+      "item_id": 86624
+    },
+    {
+      "upgrade": "Infusion",
+      "item_id": 86478
+    },
+    {
+      "upgrade": "Infusion",
+      "item_id": 95957
+    },
+    {
+      "upgrade": "Infusion",
+      "item_id": 97237
     }
   ]
 }

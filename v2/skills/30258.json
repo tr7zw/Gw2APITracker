@@ -2,6 +2,12 @@
   "name": "Outrage",
   "facts": [
     {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 240
+    },
+    {
       "text": "Recharge",
       "type": "Recharge",
       "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -19,13 +25,43 @@
       "duration": 1
     },
     {
-      "text": "Stun-Break Duration Increase",
+      "text": "Extended Duration Increase",
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-      "duration": 5
+      "duration": 3
+    },
+    {
+      "text": "Extended Duration Increase",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "duration": 2
+    },
+    {
+      "text": "Adrenaline",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/E1E7C4D3A6E62F3D5C9F627CE8175BFB0C614CBE/156652.png",
+      "value": 10
+    },
+    {
+      "text": "Adrenaline",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/E1E7C4D3A6E62F3D5C9F627CE8175BFB0C614CBE/156652.png",
+      "value": 5
+    },
+    {
+      "text": "Bonus Adrenaline",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/E1E7C4D3A6E62F3D5C9F627CE8175BFB0C614CBE/156652.png",
+      "value": 10
+    },
+    {
+      "text": "Bonus Adrenaline",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/E1E7C4D3A6E62F3D5C9F627CE8175BFB0C614CBE/156652.png",
+      "value": 5
     }
   ],
-  "description": "Rage. Break out of stun and extend the duration of berserk mode. The extension of berserk mode increases if a stun was broken.",
+  "description": "Rage. Break out of stun and extend the duration of berserk mode. The extension of berserk mode increases if an enemy is nearby.",
   "icon": "https://render.guildwars2.com/file/DE44372830465728D82500744A04041359ECA9C0/1058652.png",
   "type": "Utility",
   "weapon_type": "None",

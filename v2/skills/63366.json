@@ -18,7 +18,7 @@
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 1,
-      "dmg_multiplier": 1.5
+      "dmg_multiplier": 1
     },
     {
       "text": "Apply Buff/Condition",
@@ -34,9 +34,23 @@
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
       "value": 5
+    },
+    {
+      "text": "First Hit Barrier",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+      "value": 1194,
+      "target": "Healing"
+    },
+    {
+      "text": "Additional Hit Barrier",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+      "value": 198,
+      "target": "Healing"
     }
   ],
-  "description": "Strike nearby enemies, inflicting cripple.",
+  "description": "Strike nearby enemies, inflicting cripple. Gain barrier for each target struck. Barrier is reduced for each target struck beyond the first.",
   "icon": "https://render.guildwars2.com/file/F5ED6F31ABE93ED6E2DD7D13A3111CB192B0F69C/2503716.png",
   "type": "Weapon",
   "weapon_type": "Hammer",

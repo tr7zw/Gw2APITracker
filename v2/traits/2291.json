@@ -3,7 +3,7 @@
   "tier": 1,
   "order": 0,
   "name": "Mechanical Genius",
-  "description": "Through your mechanical genius, you have utilized Canthan jade technology to build a customized battle mech that will fight at your side.\u003cbr\u003eYour mech inherits a percentage of all of your combat attributes except precision, which is added to its own.\u003cbr\u003eYour tool belt skills are replaced with mech commands, customized by your trait choices. \u003cbr\u003eGain access to signet utility skills.",
+  "description": "Through your mechanical genius, you have utilized Canthan jade technology to build a customized battle mech that will fight at your side.\u003cbr\u003eYour mech inherits a percentage of all of your combat attributes except precision, which is added to its own. This bonus is reduced if your mech moves too far away from you. \u003cbr\u003eYour tool belt skills are replaced with Mech Commands, customized by your trait choices. \u003cbr\u003eGain access to signet utility skills. \u003cbr\u003e\u003cc\u003d@reminder\u003eBonuses from Mech Frame traits are also affected by the out-of-range penalty. \u003c/c\u003e",
   "slot": "Minor",
   "facts": [
     {
@@ -17,6 +17,18 @@
       "type": "Percent",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "percent": 30
+    },
+    {
+      "text": "Out-of-Range Penalty",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "percent": -50
+    },
+    {
+      "text": "Distance Threshold",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "distance": 360
     }
   ],
   "specialization": 70,

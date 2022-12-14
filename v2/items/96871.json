@@ -1,7 +1,7 @@
 {
   "name": "Skiff Supercharger 1",
   "description": "Your jade bot enhances your skiff\u0027s engine, increasing the speed by 15%.",
-  "type": "Quux",
+  "type": "JadeTechModule",
   "level": 80,
   "rarity": "Masterwork",
   "vendor_value": 128,
@@ -12,7 +12,9 @@
     "Dungeon",
     "Pve"
   ],
-  "flags": [],
+  "flags": [
+    "NoSalvage"
+  ],
   "restrictions": [],
   "id": 96871,
   "chat_link": "[\u0026AgFnegEA]",

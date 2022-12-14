@@ -3,24 +3,30 @@
   "tier": 1,
   "order": 0,
   "name": "Purity of Word",
-  "description": "Gain knowledge of Elonian lore, igniting a fierce drive to purge corruption and manifesting your \u003cc\u003d@abilitytype\u003eVirtues\u003c/c\u003e as mystic tomes. Gain access to \u003cc\u003d@abilitytype\u003eMantras\u003c/c\u003e.",
+  "description": "Gain knowledge of Elonian lore, igniting a fierce drive to purge corruption and manifesting your \u003cc\u003d@abilitytype\u003eVirtues\u003c/c\u003e as mystic tomes. Gain access to \u003cc\u003d@abilitytype\u003eMantras\u003c/c\u003e.\u003cbr\u003e\u003cc\u003d@reminder\u003eUsing Tome skills consumes pages. You regenerate pages every interval.\u003c/c\u003e",
   "slot": "Minor",
+  "facts": [
+    {
+      "text": "Interval",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+      "duration": 8
+    }
+  ],
+  "traited_facts": [
+    {
+      "text": "Interval",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+      "duration": 6,
+      "requires_trait": 2159,
+      "overrides": 0
+    }
+  ],
   "skills": [
     {
       "name": "Tome of Justice",
       "facts": [
-        {
-          "text": "Recharge",
-          "type": "Recharge",
-          "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-          "value": 30
-        },
-        {
-          "text": "Pages",
-          "type": "Number",
-          "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-          "value": 5
-        },
         {
           "text": "Apply Buff/Condition",
           "type": "Buff",
@@ -46,7 +52,7 @@
           "value": 5
         }
       ],
-      "description": "Virtue: Burn foes every few attacks.\nActivate: Pull forth a magical tome on the dangers of the blazing heat in Kourna.\nEach tome skill use consumes a page.",
+      "description": "Virtue: Burn foes every few attacks.\nActivate: Pull forth a magical tome on the dangers of the blazing heat in Kourna.",
       "icon": "https://render.guildwars2.com/file/2710AF269B38A4A365089BC7B3C9389B354DE59D/1770472.png",
       "flags": [],
       "id": 44364,
@@ -56,14 +62,6 @@
       ],
       "traited_facts": [
         {
-          "text": "Pages",
-          "type": "Number",
-          "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-          "value": 8,
-          "requires_trait": 2086,
-          "overrides": 1
-        },
-        {
           "text": "Apply Buff/Condition",
           "type": "Buff",
           "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
@@ -72,7 +70,7 @@
           "description": "Deals damage every second; stacks intensity.",
           "apply_count": 1,
           "requires_trait": 1686,
-          "overrides": 2
+          "overrides": 0
         },
         {
           "text": "Apply Buff/Condition",
@@ -83,7 +81,7 @@
           "description": "Deals damage every second; stacks intensity.",
           "apply_count": 1,
           "requires_trait": 1686,
-          "overrides": 3
+          "overrides": 1
         },
         {
           "text": "Attacks to Trigger Passive",
@@ -91,7 +89,7 @@
           "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
           "value": 3,
           "requires_trait": 622,
-          "overrides": 4
+          "overrides": 2
         },
         {
           "text": "Apply Buff/Condition",
@@ -126,18 +124,6 @@
       "name": "Tome of Resolve",
       "facts": [
         {
-          "text": "Recharge",
-          "type": "Recharge",
-          "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-          "value": 50
-        },
-        {
-          "text": "Pages",
-          "type": "Number",
-          "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-          "value": 5
-        },
-        {
           "text": "Apply Buff/Condition",
           "type": "Buff",
           "icon": "https://render.guildwars2.com/file/E206770FD62BB63B71F56209F34BF99392BADF9E/1770478.png",
@@ -147,7 +133,7 @@
           "apply_count": 1
         }
       ],
-      "description": "Virtue: Regenerate health.\nActivate: Draw forth an enchanted tome that recounts the trials undergone by the people of Vabbi.\nEach tome skill use consumes a page.",
+      "description": "Virtue: Regenerate health.\nActivate: Draw forth an enchanted tome that recounts the trials undergone by the people of Vabbi.",
       "icon": "https://render.guildwars2.com/file/E206770FD62BB63B71F56209F34BF99392BADF9E/1770478.png",
       "flags": [],
       "id": 41780,
@@ -156,14 +142,6 @@
         "Virtue"
       ],
       "traited_facts": [
-        {
-          "text": "Pages",
-          "type": "Number",
-          "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-          "value": 8,
-          "requires_trait": 2086,
-          "overrides": 1
-        },
         {
           "text": "Apply Buff/Condition",
           "type": "Buff",
@@ -204,18 +182,6 @@
       "name": "Tome of Courage",
       "facts": [
         {
-          "text": "Recharge",
-          "type": "Recharge",
-          "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-          "value": 75
-        },
-        {
-          "text": "Pages",
-          "type": "Number",
-          "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-          "value": 5
-        },
-        {
           "text": "Apply Buff/Condition",
           "type": "Buff",
           "icon": "https://render.guildwars2.com/file/DFB4D1B50AE4D6A275B349E15B179261EE3EB0AF/102854.png",
@@ -231,7 +197,7 @@
           "duration": 40
         }
       ],
-      "description": "Virtue: Gain aegis periodically. \nActivate:Conjure a mystic tome containing stories about the heroes of Istan.\nEach tome skill use consumes a page.",
+      "description": "Virtue: Gain aegis periodically. \nActivate:Conjure a mystic tome containing stories about the heroes of Istan.",
       "icon": "https://render.guildwars2.com/file/49B3D2E829962602205B09619770E1650BF07108/1770466.png",
       "flags": [],
       "id": 42259,
@@ -241,20 +207,12 @@
       ],
       "traited_facts": [
         {
-          "text": "Pages",
-          "type": "Number",
-          "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-          "value": 8,
-          "requires_trait": 2086,
-          "overrides": 1
-        },
-        {
           "text": "Time to Trigger Passive",
           "type": "Time",
           "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
           "duration": 30,
           "requires_trait": 612,
-          "overrides": 3
+          "overrides": 1
         },
         {
           "text": "Apply Buff/Condition",

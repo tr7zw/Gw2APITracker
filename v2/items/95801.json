@@ -1,7 +1,7 @@
 {
   "name": "Scavenger Protocol: Metal",
   "description": "Your jade bot will scan corpses to look for metal.",
-  "type": "Quux",
+  "type": "JadeTechModule",
   "level": 80,
   "rarity": "Rare",
   "vendor_value": 192,
@@ -12,7 +12,9 @@
     "Dungeon",
     "Pve"
   ],
-  "flags": [],
+  "flags": [
+    "NoSalvage"
+  ],
   "restrictions": [],
   "id": 95801,
   "chat_link": "[\u0026AgE5dgEA]",

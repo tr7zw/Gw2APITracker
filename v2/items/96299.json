@@ -1,7 +1,7 @@
 {
   "name": "Jade Bot Core: Tier 8",
   "description": "Increases vitality by 205. Required to equip jade bot sensory arrays and service chips.",
-  "type": "Qux",
+  "type": "PowerCore",
   "level": 80,
   "rarity": "Rare",
   "vendor_value": 192,
@@ -12,7 +12,9 @@
     "Dungeon",
     "Pve"
   ],
-  "flags": [],
+  "flags": [
+    "NoSalvage"
+  ],
   "restrictions": [],
   "id": 96299,
   "chat_link": "[\u0026AgEreAEA]",

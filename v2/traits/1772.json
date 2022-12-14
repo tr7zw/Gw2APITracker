@@ -3,7 +3,7 @@
   "tier": 3,
   "order": 1,
   "name": "Draconic Echo",
-  "description": "You retain your \u003cc\u003d@abilitytype\u003efacet\u003c/c\u003e passives for a duration after using their \u003cc\u003d@abilitytype\u003econsume\u003c/c\u003e skills. Using a \u003cc\u003d@abilitytype\u003econsume\u003c/c\u003e skill grants quickness to allies around you.",
+  "description": "You retain your \u003cc\u003d@abilitytype\u003efacet\u003c/c\u003e passives for a duration after using their \u003cc\u003d@abilitytype\u003econsume\u003c/c\u003e skills. Using a \u003cc\u003d@abilitytype\u003econsume\u003c/c\u003e skill grants boons to allies around you.",
   "slot": "Major",
   "facts": [
     {
@@ -24,10 +24,10 @@
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-      "duration": 1,
-      "status": "Quickness",
-      "description": "Skills and actions are faster.",
+      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+      "duration": 5,
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
       "apply_count": 1
     },
     {

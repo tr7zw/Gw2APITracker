@@ -3,27 +3,17 @@
   "tier": 2,
   "order": 2,
   "name": "Dead or Alive",
-  "description": "Receiving fatal damage while in berserk mode ends berserk and heals you. Incoming healing is increased.",
+  "description": "Gain Blood Reckoning when entering berserk mode.",
   "slot": "Major",
   "facts": [
     {
-      "text": "Recharge",
-      "type": "Recharge",
-      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 30
-    },
-    {
-      "text": "Healing",
-      "type": "AttributeAdjust",
-      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-      "value": 5220,
-      "target": "Healing"
-    },
-    {
-      "text": "Incoming Healing Increase",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-      "percent": 10
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/3E80EA264B52D3A3B3CA2E5DA41F57BF35445AF4/1058642.png",
+      "duration": 3,
+      "status": "Blood Reckoning",
+      "description": "Heal for a percentage of outgoing damage.",
+      "apply_count": 1
     }
   ],
   "specialization": 18,

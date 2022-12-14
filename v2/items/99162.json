@@ -1,0 +1,63 @@
+{
+  "name": "Viper\u0027s Aetherized Arsenite Staff",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 0,
+  "default_skin": 11138,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99162,
+  "chat_link": "[\u0026AgFagwEA]",
+  "icon": "https://render.guildwars2.com/file/DB0012461DEDFFEEE92CBDFE7929EEC7D4BA5C9D/2759591.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 1034,
+    "max_power": 1166,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      },
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 717.024,
+    "infix_upgrade": {
+      "id": 1153,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 215
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 118
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 215
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 118
+        }
+      ]
+    }
+  }
+}

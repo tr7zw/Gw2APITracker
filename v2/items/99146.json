@@ -1,0 +1,50 @@
+{
+  "name": "Keel of the Lion\u0027s Champion",
+  "description": "\u003cc\u003d@flavor\u003eBrave heroes who stood in defense of Lion\u0027s Arch, the Captain\u0027s Council salutes you.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 11128,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99146,
+  "chat_link": "[\u0026AgFKgwEA]",
+  "icon": "https://render.guildwars2.com/file/4FA611F9A1C49D91052EFC35557B42CEC83447C9/2759688.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 806,
+    "max_power": 909,
+    "defense": 61,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 161,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 120
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 85
+        }
+      ]
+    }
+  }
+}

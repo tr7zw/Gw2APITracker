@@ -1,0 +1,33 @@
+{
+  "name": "Assassin Transform Weapon",
+  "type": "Weapon",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 0,
+  "default_skin": 3264,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 4,
+  "chat_link": "[\u0026AgEEAAAA]",
+  "icon": "https://render.guildwars2.com/file/562B6309B40701CE654E9E0C4C56C857B4A4022D/60983.png",
+  "details": {
+    "type": "Axe",
+    "damage_type": "Choking",
+    "min_power": 100,
+    "max_power": 122,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 7.8
+  }
+}

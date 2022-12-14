@@ -3,11 +3,17 @@
   "tier": 2,
   "order": 0,
   "name": "Unsuspecting Foe",
-  "description": "Increased critical-hit chance against disabled foes.\u003cbr\u003e\u003cc\u003d@reminder\u003eDisables include stun, daze, knock back, pull, knock down, sink, float, launch, taunt, and fear.\u003c/c\u003e",
+  "description": "Increased critical-hit chance against disabled or defiant foes.\u003cbr\u003e\u003cc\u003d@reminder\u003eDisables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.\u003c/c\u003e",
   "slot": "Major",
   "facts": [
     {
-      "text": "Critical Chance Increase",
+      "text": "Critical Chance Increase on Defiant Foes",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
+      "percent": 25
+    },
+    {
+      "text": "Critical Chance Increase on Disabled Foes",
       "type": "Percent",
       "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
       "percent": 50

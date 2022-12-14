@@ -17,14 +17,14 @@
       "text": "Damage",
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-      "hit_count": 1,
+      "hit_count": 3,
       "dmg_multiplier": 0.4
     },
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
-      "duration": 10,
+      "duration": 6,
       "status": "Blinded",
       "description": "Next outgoing attack misses; stacks duration.",
       "apply_count": 1
@@ -34,9 +34,24 @@
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
       "value": 5
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+      "duration": 2,
+      "status": "Crippled",
+      "description": "Movement speed decreased by 50%; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 180
     }
   ],
-  "description": "Blind your foes with a blast of sand.",
+  "description": "Create a dust storm that inflicts cripple to bleeding foes. The first strike of the storm blinds foes.",
   "icon": "https://render.guildwars2.com/file/EA6A082902800CC552393F24E03240A7A7D9C511/103080.png",
   "type": "Weapon",
   "weapon_type": "Scepter",
@@ -46,6 +61,7 @@
   ],
   "slot": "Weapon_3",
   "flags": [
+    "GroundTargeted",
     "NoUnderwater"
   ],
   "id": 5696,

@@ -1,0 +1,29 @@
+{
+  "name": "Imperial Wonders Mount Select License",
+  "description": "Gain a mount skin of your choice from the Black Lion Stables. Right-click to preview available mount skins.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 999,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99148,
+  "chat_link": "[\u0026AgFMgwEA]",
+  "icon": "https://render.guildwars2.com/file/64D05FB77131F47C7A2E77E7934A5B719F196F5B/2759501.png",
+  "details": {
+    "type": "MountRandomUnlock"
+  }
+}

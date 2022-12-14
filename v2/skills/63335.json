@@ -18,7 +18,13 @@
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 1,
-      "dmg_multiplier": 1.25
+      "dmg_multiplier": 2.16
+    },
+    {
+      "text": "Damage Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 20
     },
     {
       "text": "Damage Increase",
@@ -33,7 +39,7 @@
       "value": 5
     }
   ],
-  "description": "Strike nearby enemies, inflicting damage. Deals increased damage to disabled enemies.\nDisables include stun, daze, knock back, pull, knock down, sink, float, launch, taunt, and fear.",
+  "description": "Strike nearby enemies, inflicting damage. Deals increased damage to disabled or defiant enemies.\nDisables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.",
   "icon": "https://render.guildwars2.com/file/7369B820749874C1F15A4B02AD2F18B94A6AB84C/2503717.png",
   "type": "Weapon",
   "weapon_type": "Hammer",

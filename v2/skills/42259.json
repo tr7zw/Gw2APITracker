@@ -2,18 +2,6 @@
   "name": "Tome of Courage",
   "facts": [
     {
-      "text": "Recharge",
-      "type": "Recharge",
-      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 75
-    },
-    {
-      "text": "Pages",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-      "value": 5
-    },
-    {
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/DFB4D1B50AE4D6A275B349E15B179261EE3EB0AF/102854.png",
@@ -29,7 +17,7 @@
       "duration": 40
     }
   ],
-  "description": "Virtue: Gain aegis periodically. \nActivate:Conjure a mystic tome containing stories about the heroes of Istan.\nEach tome skill use consumes a page.",
+  "description": "Virtue: Gain aegis periodically. \nActivate:Conjure a mystic tome containing stories about the heroes of Istan.",
   "icon": "https://render.guildwars2.com/file/49B3D2E829962602205B09619770E1650BF07108/1770466.png",
   "type": "Profession",
   "weapon_type": "None",
@@ -37,6 +25,7 @@
     "Guardian"
   ],
   "slot": "Profession_3",
+  "flip_skill": 68650,
   "flags": [],
   "specialization": 62,
   "id": 42259,
@@ -46,20 +35,12 @@
   ],
   "traited_facts": [
     {
-      "text": "Pages",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-      "value": 8,
-      "requires_trait": 2086,
-      "overrides": 1
-    },
-    {
       "text": "Time to Trigger Passive",
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
       "duration": 30,
       "requires_trait": 612,
-      "overrides": 3
+      "overrides": 1
     },
     {
       "text": "Apply Buff/Condition",

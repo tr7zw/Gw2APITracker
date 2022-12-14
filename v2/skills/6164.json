@@ -21,10 +21,13 @@
       "dmg_multiplier": 0.77
     },
     {
-      "text": "Boons Removed",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "value": 1
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+      "duration": 3,
+      "status": "Crippled",
+      "description": "Movement speed decreased by 50%; stacks duration.",
+      "apply_count": 1
     },
     {
       "text": "Explosion Radius",

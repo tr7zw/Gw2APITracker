@@ -240,10 +240,10 @@
     {
       "text": "Apply Buff/Condition",
       "type": "PrefixedBuff",
-      "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
-      "duration": 10,
-      "status": "Regeneration",
-      "description": "Gain health every second; stacks duration.",
+      "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
+      "duration": 3,
+      "status": "Resistance",
+      "description": "Nondamaging conditions currently on you are ineffective; stacks duration.",
       "apply_count": 1,
       "requires_trait": 2216,
       "prefix": {
@@ -251,8 +251,7 @@
         "icon": "https://render.guildwars2.com/file/040192EDDE9D2492D2428027E50DFC12B9044D39/2479384.png",
         "status": "Bladeturn Requiem",
         "description": "\u003cc\u003d@abilitytype\u003eBladesong.\u003c/c\u003e Block incoming attacks and send your blades spinning around you to hit nearby foes. Spinning blade duration scales with number of blades consumed."
-      },
-      "overrides": 4
+      }
     },
     {
       "text": "Apply Buff/Condition",
@@ -268,8 +267,7 @@
         "icon": "https://render.guildwars2.com/file/9E7CE10D0E447973F2D9175CF16A103BD076D04B/1012882.png",
         "status": "Continuum Split",
         "description": "Destroy all your clones and create a rift in the space-time continuum. When it expires, you will revert back to your original point with your previous health, endurance, and skill recharges. Duration increases with each illusion shattered.\u003cbr\u003e\u003cc\u003d@reminder\u003eThis skill\u0027s recharge cannot be reset by other mesmer skills.\u003c/c\u003e"
-      },
-      "overrides": 4
+      }
     }
   ],
   "specialization": 45,

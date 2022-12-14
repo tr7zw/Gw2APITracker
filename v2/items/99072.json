@@ -1,0 +1,29 @@
+{
+  "name": "Mini Fluffy Black Cat",
+  "description": "Double-click to summon this mini to follow you around. Only one mini may be in use at a time.",
+  "type": "MiniPet",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 50,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99072,
+  "chat_link": "[\u0026AgEAgwEA]",
+  "icon": "https://render.guildwars2.com/file/173C23B5DD7E09AE92FD92C220E2F32EAFE8092D/2752879.png",
+  "details": {
+    "minipet_id": 874
+  }
+}

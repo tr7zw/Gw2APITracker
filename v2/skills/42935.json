@@ -35,7 +35,7 @@
       "duration": 8,
       "status": "Torment",
       "description": "Deals damage every second. Deals additional damage to foes that aren\u0027t moving. Stacks intensity.",
-      "apply_count": 1
+      "apply_count": 3
     },
     {
       "text": "Damage",
@@ -61,18 +61,9 @@
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "value": 1
-    },
-    {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-      "duration": 2,
-      "status": "Crippled",
-      "description": "Movement speed decreased by 50%; stacks duration.",
-      "apply_count": 1
     }
   ],
-  "description": "Punishment. Draw vital energy from your foes to gain life force and grant boons to nearby allies. Gain additional life force per target struck. Convert a boon on affected enemies to torment and cripple.",
+  "description": "Punishment. Draw vital energy from your foes to gain life force and grant boons to nearby allies. Gain additional life force per target struck. Convert a boon on affected enemies to torment.",
   "icon": "https://render.guildwars2.com/file/7FAE663D18010ECB183436E00B4532900A941292/1770542.png",
   "type": "Utility",
   "weapon_type": "None",

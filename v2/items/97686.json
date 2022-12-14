@@ -1,7 +1,7 @@
 {
   "name": "Scavenger Protocol: Wood",
   "description": "Your jade bot will scan corpses to look for wood.",
-  "type": "Quux",
+  "type": "JadeTechModule",
   "level": 80,
   "rarity": "Rare",
   "vendor_value": 192,
@@ -12,7 +12,9 @@
     "Dungeon",
     "Pve"
   ],
-  "flags": [],
+  "flags": [
+    "NoSalvage"
+  ],
   "restrictions": [],
   "id": 97686,
   "chat_link": "[\u0026AgGWfQEA]",

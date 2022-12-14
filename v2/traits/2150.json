@@ -343,7 +343,7 @@
           "text": "Apply Buff/Condition",
           "type": "Buff",
           "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
-          "duration": 3,
+          "duration": 1,
           "status": "Alacrity",
           "description": "Skills recharge faster.",
           "apply_count": 1
@@ -355,7 +355,7 @@
           "duration": 15,
           "status": "Might",
           "description": "Increased outgoing damage; stacks intensity.",
-          "apply_count": 8
+          "apply_count": 2
         },
         {
           "text": "Number of Targets",
@@ -364,7 +364,7 @@
           "value": 5
         }
       ],
-      "description": "Ambush. Release a vortex of chaos energy that inflicts damaging conditions on foes. Allies near the caster gain boons.",
+      "description": "Ambush. Release a vortex of chaos energy that inflicts damaging conditions on foes. Allies near you gain boons. \nClones using this attack grant their boons around you instead of themselves. ",
       "icon": "https://render.guildwars2.com/file/0E2D7DB6FB4C0A9F681759099DE5D794A04914BF/1770510.png",
       "flags": [],
       "id": 40184,

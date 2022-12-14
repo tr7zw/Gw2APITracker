@@ -1,7 +1,7 @@
 {
   "name": "Scavenger Protocol: Cloth",
   "description": "Your jade bot will scan corpses to look for cloth.",
-  "type": "Quux",
+  "type": "JadeTechModule",
   "level": 80,
   "rarity": "Rare",
   "vendor_value": 192,
@@ -12,7 +12,9 @@
     "Dungeon",
     "Pve"
   ],
-  "flags": [],
+  "flags": [
+    "NoSalvage"
+  ],
   "restrictions": [],
   "id": 96590,
   "chat_link": "[\u0026AgFOeQEA]",

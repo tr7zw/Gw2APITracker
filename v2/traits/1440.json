@@ -2,48 +2,32 @@
   "id": 1440,
   "tier": 3,
   "order": 2,
-  "name": "Merciless Hammer",
-  "description": "Hammer skills gain reduced recharge and deal increased damage when striking a disabled foe. Gain adrenaline when you disable a foe.\u003cbr\u003e\u003cc\u003d@reminder\u003eDisables include stun, taunt, daze, knockback, pull, knockdown, sink, float, fear, and launch.\u003c/c\u003e",
+  "name": "Aggressive Onslaught",
+  "description": "Gain quickness when you disable an enemy. While you have quickness, your movement speed is increased. \u003cc\u003d@reminder\u003eThis stacks with other movement speed increases.\u003c/c\u003e",
   "slot": "Major",
   "facts": [
     {
-      "text": "Damage Increase",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-      "percent": 20
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 0.25
     },
-    {
-      "text": "Recharge Reduced",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-      "percent": 20
-    },
-    {
-      "text": "Interval",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-      "duration": 3
-    },
-    {
-      "text": "Adrenaline",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/E1E7C4D3A6E62F3D5C9F627CE8175BFB0C614CBE/156652.png",
-      "value": 10
-    }
-  ],
-  "traited_facts": [
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/15AA251708A19EC6E1CBA4B208D7502797C9D111/2604722.png",
-      "duration": 5,
-      "status": "Positive Flow",
-      "description": "Gain flow per second.",
-      "apply_count": 1,
-      "requires_trait": 2226,
-      "overrides": 3
+      "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+      "duration": 3,
+      "status": "Quickness",
+      "description": "Skills and actions are faster.",
+      "apply_count": 1
+    },
+    {
+      "text": "Movement Speed Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "percent": 25
     }
   ],
   "specialization": 4,
-  "icon": "https://render.guildwars2.com/file/203E0DEC94900B5305F309A1337D03D70FF9426E/1012804.png"
+  "icon": "https://render.guildwars2.com/file/0CE13DF2315967C19B000E4FF407351B32BF0E3E/1012792.png"
 }

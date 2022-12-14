@@ -5,7 +5,13 @@
       "text": "Recharge",
       "type": "Recharge",
       "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 8
+      "value": 0.25
+    },
+    {
+      "text": "Count Recharge",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+      "duration": 10
     },
     {
       "text": "Apply Buff/Condition",
@@ -23,6 +29,15 @@
       "duration": 2,
       "status": "Crippled",
       "description": "Movement speed decreased by 50%; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+      "duration": 2,
+      "status": "Immobile",
+      "description": "Unable to move; stacks duration.",
       "apply_count": 1
     },
     {
@@ -50,7 +65,7 @@
       "value": 5
     }
   ],
-  "description": "Release piranhas that bleed and cripple foes.",
+  "description": "Release piranhas that bleed and cripple foes. The first pulse of this skill will immobilize foes who are movement impaired or disabled. Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.",
   "icon": "https://render.guildwars2.com/file/7EB4C60EF77315B00ECDA9ED90A84963B7D01DE0/103469.png",
   "type": "Bundle",
   "weapon_type": "None",
@@ -60,5 +75,23 @@
   "slot": "Weapon_2",
   "flags": [],
   "id": 6175,
-  "chat_link": "[\u0026Bh8YAAA\u003d]"
+  "chat_link": "[\u0026Bh8YAAA\u003d]",
+  "traited_facts": [
+    {
+      "text": "Count Recharge",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+      "duration": 7,
+      "requires_trait": 531,
+      "overrides": 1
+    },
+    {
+      "text": "Count Recharge",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+      "duration": 8,
+      "requires_trait": 531,
+      "overrides": 1
+    }
+  ]
 }

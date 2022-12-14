@@ -11,7 +11,7 @@
       "text": "Recharge",
       "type": "Recharge",
       "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 60
+      "value": 48
     },
     {
       "text": "Apply Buff/Condition",
@@ -24,17 +24,17 @@
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
-      "duration": 6,
-      "status": "Protection",
-      "description": "Incoming strike damage decreased by 33%; stacks duration.",
+      "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+      "duration": 2,
+      "status": "Stability",
+      "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
       "apply_count": 1
     },
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
-      "duration": 12,
+      "duration": 2,
       "status": "Regeneration",
       "description": "Gain health every second; stacks duration.",
       "apply_count": 1
@@ -43,7 +43,7 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
-      "duration": 12,
+      "duration": 2,
       "status": "Vigor",
       "description": "Endurance regeneration increased by 50%; stacks duration.",
       "apply_count": 1
@@ -58,13 +58,7 @@
       "text": "Revive per Pulse",
       "type": "Percent",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "percent": 4
-    },
-    {
-      "text": "Revive Pulses",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "value": 18
+      "percent": 12
     },
     {
       "text": "Number of Allied Targets",
@@ -80,7 +74,7 @@
       "target": "Healing"
     },
     {
-      "text": "Boon and Healing Pulses",
+      "text": "Pulses",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "value": 6

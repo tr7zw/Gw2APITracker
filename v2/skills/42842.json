@@ -8,12 +8,6 @@
       "value": 30
     },
     {
-      "text": "\u003cc\u003d@abilitytype\u003eHeat Threshold\u003c/c\u003e",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
-      "value": 50
-    },
-    {
       "text": "Damage",
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
@@ -39,7 +33,7 @@
       "duration": 6
     },
     {
-      "text": "\u003cc\u003d@abilitytype\u003eDuration Increase\u003c/c\u003e",
+      "text": "\u003cc\u003d@abilitytype\u003eDuration Increase above 50% Heat\u003c/c\u003e",
       "type": "Percent",
       "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
       "percent": 50
@@ -72,5 +66,14 @@
   "flags": [],
   "specialization": 57,
   "id": 42842,
-  "chat_link": "[\u0026BlqnAAA\u003d]"
+  "chat_link": "[\u0026BlqnAAA\u003d]",
+  "traited_facts": [
+    {
+      "text": "\u003cc\u003d@abilitytype\u003eDamage Increase above 100% Heat\u003c/c\u003e",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 10,
+      "requires_trait": 2137
+    }
+  ]
 }

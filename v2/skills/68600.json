@@ -1,0 +1,54 @@
+{
+  "name": "Sniper\u0027s Cover",
+  "facts": [
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 600
+    },
+    {
+      "text": "Duration",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "duration": 5
+    },
+    {
+      "text": "Blocks Missiles",
+      "type": "NoData",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png"
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/F66C0938F052950905AE804BB4C495CBF6AD36AF/2779165.png",
+      "duration": 5,
+      "status": "Death\u0027s Advance",
+      "description": "You can use Death\u0027s Advance.",
+      "apply_count": 1
+    },
+    {
+      "text": "Combo Field",
+      "type": "ComboField",
+      "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+      "field_type": "Smoke"
+    }
+  ],
+  "description": "Kneel. Create a barrier of shadows that blocks incoming missiles. Kneeling while within the barrier allows you to use Death\u0027s Advance.",
+  "icon": "https://render.guildwars2.com/file/21A0A255EA0126D30453CAE6CC40DF0B0B70B2ED/1770632.png",
+  "type": "Weapon",
+  "weapon_type": "Rifle",
+  "professions": [
+    "Thief"
+  ],
+  "slot": "Weapon_4",
+  "flip_skill": 40436,
+  "initiative": 4,
+  "flags": [
+    "GroundTargeted",
+    "NoUnderwater"
+  ],
+  "specialization": 58,
+  "id": 68600,
+  "chat_link": "[\u0026BvgLAQA\u003d]"
+}

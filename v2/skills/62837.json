@@ -125,6 +125,16 @@
       "description": "Nondamaging conditions currently on you are ineffective; stacks duration.",
       "apply_count": 1,
       "requires_trait": 2234
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/DFB4D1B50AE4D6A275B349E15B179261EE3EB0AF/102854.png",
+      "duration": 3,
+      "status": "Aegis",
+      "description": "Block the next incoming attack; stacks duration.",
+      "apply_count": 1,
+      "requires_trait": 2234
     }
   ]
 }

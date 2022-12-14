@@ -1,7 +1,7 @@
 {
   "name": "Mount Energy Booster 3",
   "description": "Boosts mount energy regeneration by 30%.",
-  "type": "Quux",
+  "type": "JadeTechModule",
   "level": 80,
   "rarity": "Exotic",
   "vendor_value": 256,
@@ -14,6 +14,7 @@
   ],
   "flags": [
     "AccountBound",
+    "NoSalvage",
     "AccountBindOnUse"
   ],
   "restrictions": [],

@@ -1,10 +1,10 @@
 {
   "name": "Found Belonging",
-  "description": "Turn in for various goods at the Order camps in Gendarran Fields, Bloodtide Coast, or Lornar\u0027s Pass.",
-  "type": "Trophy",
+  "description": "Can be consumed for karma or exchanged for goods from Heirloom Lost and Found merchants in the Battle for Lion\u0027s Arch or the Durmand Priory in Lornar\u0027s Pass.",
+  "type": "Consumable",
   "level": 0,
   "rarity": "Basic",
-  "vendor_value": 11,
+  "vendor_value": 6,
   "game_types": [
     "Activity",
     "Wvw",
@@ -15,10 +15,14 @@
     "AccountBound",
     "NoSalvage",
     "NoSell",
+    "BulkConsume",
     "AccountBindOnUse"
   ],
   "restrictions": [],
   "id": 50030,
   "chat_link": "[\u0026AgFuwwAA]",
-  "icon": "https://render.guildwars2.com/file/9E730AACF1D51352E4660A2C924306695795104E/740222.png"
+  "icon": "https://render.guildwars2.com/file/9E730AACF1D51352E4660A2C924306695795104E/740222.png",
+  "details": {
+    "type": "Generic"
+  }
 }

@@ -1,0 +1,47 @@
+{
+  "name": "Dried Thorn of Nightmare",
+  "description": "\u003cc\u003d@flavor\u003e\"It\u0027s hard to forget that horrible place. But it\u0027s destroyed now—down to the roots.\" —Kasmeer\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 330,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 98956,
+  "chat_link": "[\u0026AgGMggEA]",
+  "icon": "https://render.guildwars2.com/file/7C0F217BE39BF5A37803AD6D9E24C179B82178A0/2731137.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [],
+    "attribute_adjustment": 213.4,
+    "infix_upgrade": {
+      "id": 605,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 53
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 75
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 53
+        }
+      ]
+    }
+  }
+}
