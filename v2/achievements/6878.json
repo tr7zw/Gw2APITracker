@@ -1,0 +1,78 @@
+{
+  "id": 6878,
+  "name": "Aurene\u0027s Facet of Life",
+  "description": "",
+  "requirement": "Aid Leivas in discovering a new form for your Aurene-based legendary weapon.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Repeatable",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 99496
+    },
+    {
+      "type": "Item",
+      "id": 99475
+    },
+    {
+      "type": "Item",
+      "id": 99521
+    },
+    {
+      "type": "Item",
+      "id": 99511
+    },
+    {
+      "type": "Item",
+      "id": 99489
+    },
+    {
+      "type": "Item",
+      "id": 99418
+    },
+    {
+      "type": "Item",
+      "id": 99390
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 4
+    }
+  ],
+  "prerequisites": [
+    6573
+  ],
+  "point_cap": 10
+}

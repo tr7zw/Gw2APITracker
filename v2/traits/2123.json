@@ -46,17 +46,10 @@
           "distance": 180
         },
         {
-          "text": "Initial Barrier",
+          "text": "Barrier per Pulse",
           "type": "AttributeAdjust",
           "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
-          "value": 2188,
-          "target": "Healing"
-        },
-        {
-          "text": "Barrier on Detonation",
-          "type": "AttributeAdjust",
-          "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
-          "value": 842,
+          "value": 325,
           "target": "Healing"
         },
         {
@@ -102,9 +95,21 @@
           "text": "Life Force Cost",
           "icon": "https://render.guildwars2.com/file/7F20920A42951A471352CE56CBD1F15257C10757/1770200.png",
           "percent": 35
+        },
+        {
+          "text": "Barrier Radius",
+          "type": "Distance",
+          "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+          "distance": 300
+        },
+        {
+          "text": "Number of Allied Targets",
+          "type": "Number",
+          "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+          "value": 5
         }
       ],
-      "description": "Shade. Enter the final shroud, gaining a powerful barrier and priming the shroud for a powerful detonation that damages enemies and bolsters allies.\nTargets can only be affected by this skill once per activation.",
+      "description": "Shade. Enter the final shroud, pulsing barrier to allies around yourself and priming the shroud for a powerful detonation that damages enemies and bolsters allies.\nTargets can only be affected by the detonation once per activation.",
       "icon": "https://render.guildwars2.com/file/67EF1250A2BE9C00B9B3F462C00696BFC1E0BFAD/2110169.png",
       "flags": [],
       "id": 54870,
@@ -141,7 +146,7 @@
           "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
           "value": 5,
           "requires_trait": 2112,
-          "overrides": 10
+          "overrides": 9
         }
       ]
     }

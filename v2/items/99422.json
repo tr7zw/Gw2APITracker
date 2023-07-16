@@ -1,0 +1,33 @@
+{
+  "name": "Cask of Shiverpeak Stout",
+  "description": "Seems like this would be a nice gift to bring to Rama\u0027s party.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 96,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "NotUpgradeable",
+    "SoulbindOnAcquire",
+    "Unique",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Norn"
+  ],
+  "id": 99422,
+  "chat_link": "[\u0026AgFehAEA]",
+  "icon": "https://render.guildwars2.com/file/CDDAD80F43DD91C35B99C513CB47DA07A9D7F4CA/63100.png",
+  "details": {
+    "type": "Booze"
+  }
+}

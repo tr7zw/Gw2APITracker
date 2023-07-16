@@ -34,9 +34,23 @@
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
       "value": 5
+    },
+    {
+      "text": "First Hit Barrier",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+      "value": 1513,
+      "target": "Healing"
+    },
+    {
+      "text": "Additional Hit Barrier",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+      "value": 225,
+      "target": "Healing"
     }
   ],
-  "description": "Send a wave toward your foe that immobilizes foes in a line.",
+  "description": "Send a wave toward your foe that immobilizes foes in a line. Gain barrier for each target struck. Barrier is reduced for each target struck beyond the first.",
   "icon": "https://render.guildwars2.com/file/53752EA071EBA20C3C2D79EB3949ED73C6BBCA40/103683.png",
   "type": "Weapon",
   "weapon_type": "Hammer",

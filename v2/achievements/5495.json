@@ -1,0 +1,51 @@
+{
+  "id": 5495,
+  "name": "Special Ops Basic Course 1",
+  "description": "",
+  "requirement": "Complete the assigned tasks to acquire the Special Ops Boot Locker.",
+  "locked_text": "Learn all you can from Captain Wing Jun in Gyala Delve to unlock.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 99749
+    },
+    {
+      "type": "Item",
+      "id": 99722
+    },
+    {
+      "type": "Item",
+      "id": 99655
+    },
+    {
+      "type": "Item",
+      "id": 99665
+    },
+    {
+      "type": "Item",
+      "id": 97385
+    }
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 2
+    }
+  ],
+  "prerequisites": [
+    6904
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 99522,
+      "count": 1
+    }
+  ]
+}

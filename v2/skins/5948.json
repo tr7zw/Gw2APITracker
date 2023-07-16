@@ -1,0 +1,30 @@
+{
+  "name": "Mistward Headwrap",
+  "type": "Armor",
+  "flags": [
+    "HideIfLocked"
+  ],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 5948,
+  "icon": "https://render.guildwars2.com/file/16FABE443355A72B65EE0AF85552F406467A49A3/960106.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Heavy",
+    "dye_slots": {
+      "default": [
+        null,
+        null,
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        }
+      ],
+      "overrides": {}
+    }
+  }
+}

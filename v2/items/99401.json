@@ -1,0 +1,35 @@
+{
+  "name": "Serpentine Tattoo Chest Skin",
+  "description": "Double-click to apply this appearance to your current chest armor. This will unlock the skin in your wardrobe.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99401,
+  "chat_link": "[\u0026AgFJhAEA]",
+  "icon": "https://render.guildwars2.com/file/9DF1DA06DCF58075C7369F36A3C3664800406D64/3007336.png",
+  "details": {
+    "type": "Transmutation",
+    "skins": [
+      11267,
+      11308,
+      11349
+    ]
+  }
+}

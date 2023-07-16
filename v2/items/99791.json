@@ -1,0 +1,58 @@
+{
+  "name": "Candy-Packed Dragon Mace",
+  "description": "\u003cc\u003d@flavor\u003eMay the monsters you feared mean nothing more than toys to your descendants.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 11481,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99791,
+  "chat_link": "[\u0026AgHPhQEA]",
+  "icon": "https://render.guildwars2.com/file/A2520CA078A74546E7E9A7380A48C2FACDA67C9E/3073078.png",
+  "details": {
+    "type": "Mace",
+    "damage_type": "Physical",
+    "min_power": 895,
+    "max_power": 1010,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1162,
+      "buff": {
+        "skill_id": 33399
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 127
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 68
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 127
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 68
+        }
+      ]
+    }
+  }
+}

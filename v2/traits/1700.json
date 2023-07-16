@@ -2,30 +2,37 @@
   "id": 1700,
   "tier": 2,
   "order": 1,
-  "name": "Strider\u0027s Defense",
-  "description": "Evading an attack grants quickness. Sword skills gain reduced recharge.",
+  "name": "Strider\u0027s Strength",
+  "description": "You and your pet gain power. Gain additional power while wielding a sword. Successfully evading an attack grants might.",
   "slot": "Major",
   "facts": [
     {
       "text": "Recharge",
       "type": "Recharge",
       "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 5
+      "value": 1
     },
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-      "duration": 3,
-      "status": "Quickness",
-      "description": "Skills and actions are faster.",
+      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+      "duration": 8,
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
       "apply_count": 1
     },
     {
-      "text": "Recharge Reduced",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-      "percent": 20
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
+      "value": 120,
+      "target": "Power"
+    },
+    {
+      "text": "Additional Power",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
+      "value": 120,
+      "target": "Power"
     }
   ],
   "specialization": 30,

@@ -3,7 +3,7 @@
   "tier": 3,
   "order": 2,
   "name": "Daring Dragon",
-  "description": "Dragon Slash has a lower maximum charge level but reenters Dragon Trigger if you can pay the flow cost. The cooldown on Dragonscale Defense is reset when reentering Dragon Trigger. Tactical Reload is no longer removed when Dragon Trigger ends.",
+  "description": "((1067840))",
   "slot": "Major",
   "facts": [
     {
@@ -13,10 +13,34 @@
       "value": 5
     },
     {
-      "text": "Flow Cost",
+      "text": "Flow Cost per Charge",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/E1E7C4D3A6E62F3D5C9F627CE8175BFB0C614CBE/156652.png",
       "value": 10
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
+      "duration": 10,
+      "status": "Alacrity",
+      "description": "Skills recharge faster.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
+      "duration": 3,
+      "status": "Alacrity",
+      "description": "Skills recharge faster.",
+      "apply_count": 1
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 600
     }
   ],
   "specialization": 68,

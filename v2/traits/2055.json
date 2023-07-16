@@ -2,46 +2,129 @@
   "id": 2055,
   "tier": 3,
   "order": 2,
-  "name": "Ancient Seeds",
-  "description": "Striking a stunned, dazed, knocked down, launched, or defiant foe summons roots to entangle them.",
+  "name": "Eclipse",
+  "description": "Your \u003cc\u003d@abilitytype\u003eCelestial Avatar\u003c/c\u003e skills are offensively augmented.",
   "slot": "Major",
   "facts": [
     {
-      "text": "Recharge",
-      "type": "Recharge",
-      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 10
-    },
-    {
-      "text": "Damage",
-      "type": "Damage",
-      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-      "hit_count": 4,
-      "dmg_multiplier": 0.2
-    },
-    {
       "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+      "type": "PrefixedBuff",
+      "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
       "duration": 8,
-      "status": "Bleeding",
-      "description": "Deals damage every second; stacks intensity.",
-      "apply_count": 5
+      "status": "Vulnerability",
+      "description": "Damage and condition damage taken are increased; stacks intensity.",
+      "apply_count": 1,
+      "prefix": {
+        "text": "Apply Buff/Condition",
+        "icon": "https://render.guildwars2.com/file/ADD8B8B5B1EA72760ABB7313EAA8B0DAEC135F5E/1128620.png",
+        "status": "Cosmic Ray",
+        "description": "\u003cc\u003d@abilitytype\u003eCelestial Avatar. \u003c/c\u003e Call down energy onto the targeted area to heal allies."
+      }
     },
     {
       "text": "Apply Buff/Condition",
-      "type": "Buff",
+      "type": "PrefixedBuff",
+      "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+      "duration": 8,
+      "status": "Poisoned",
+      "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+      "apply_count": 3,
+      "prefix": {
+        "text": "Apply Buff/Condition",
+        "icon": "https://render.guildwars2.com/file/761706674AF9092C98D059AB03BD747BFC7DF506/1128623.png",
+        "status": "Seed of Life",
+        "description": "\u003cc\u003d@abilitytype\u003eCelestial Avatar.\u003c/c\u003e Summon a seed that heals and cleanses nearby allies of conditions when it blossoms."
+      }
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "PrefixedBuff",
+      "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+      "duration": 4,
+      "status": "Poisoned",
+      "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+      "apply_count": 1,
+      "prefix": {
+        "text": "Apply Buff/Condition",
+        "icon": "https://render.guildwars2.com/file/761706674AF9092C98D059AB03BD747BFC7DF506/1128623.png",
+        "status": "Seed of Life",
+        "description": "\u003cc\u003d@abilitytype\u003eCelestial Avatar.\u003c/c\u003e Summon a seed that heals and cleanses nearby allies of conditions when it blossoms."
+      }
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "PrefixedBuff",
+      "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+      "duration": 3,
+      "status": "Immobile",
+      "description": "Unable to move; stacks duration.",
+      "apply_count": 1,
+      "prefix": {
+        "text": "Apply Buff/Condition",
+        "icon": "https://render.guildwars2.com/file/2708F4B3239D05C7A063FDC37838C9EFF5FCED50/1128625.png",
+        "status": "Lunar Impact",
+        "description": "\u003cc\u003d@abilitytype\u003eCelestial Avatar.\u003c/c\u003e Call down a massive lunar beam to heal allies and daze foes."
+      }
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "PrefixedBuff",
       "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
       "duration": 1,
       "status": "Immobile",
       "description": "Unable to move; stacks duration.",
-      "apply_count": 5
+      "apply_count": 1,
+      "prefix": {
+        "text": "Apply Buff/Condition",
+        "icon": "https://render.guildwars2.com/file/2708F4B3239D05C7A063FDC37838C9EFF5FCED50/1128625.png",
+        "status": "Lunar Impact",
+        "description": "\u003cc\u003d@abilitytype\u003eCelestial Avatar.\u003c/c\u003e Call down a massive lunar beam to heal allies and daze foes."
+      }
     },
     {
-      "text": "Duration",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-      "duration": 5
+      "text": "Apply Buff/Condition",
+      "type": "PrefixedBuff",
+      "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+      "duration": 2,
+      "status": "Chilled",
+      "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
+      "apply_count": 1,
+      "prefix": {
+        "text": "Apply Buff/Condition",
+        "icon": "https://render.guildwars2.com/file/0C909F99672AC81E95167114B132F4BF03296E33/1128626.png",
+        "status": "Rejuvenating Tides",
+        "description": "\u003cc\u003d@abilitytype\u003eCelestial Avatar.\u003c/c\u003e Gather tidal force to rapidly heal nearby allies."
+      }
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "PrefixedBuff",
+      "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+      "duration": 5,
+      "status": "Burning",
+      "description": "Deals damage every second; stacks intensity.",
+      "apply_count": 1,
+      "prefix": {
+        "text": "Apply Buff/Condition",
+        "icon": "https://render.guildwars2.com/file/08A7C5E751190ED5596C9112005D791D20AA3B31/1128629.png",
+        "status": "Natural Convergence",
+        "description": "\u003cc\u003d@abilitytype\u003eCelestial Avatar.\u003c/c\u003e Channel your celestial powers, pulsing cripple and slow. Once the channel ends, any foes still within its radius will be trapped by a black hole, immobilizing them."
+      }
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "PrefixedBuff",
+      "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+      "duration": 1,
+      "status": "Burning",
+      "description": "Deals damage every second; stacks intensity.",
+      "apply_count": 1,
+      "prefix": {
+        "text": "Apply Buff/Condition",
+        "icon": "https://render.guildwars2.com/file/08A7C5E751190ED5596C9112005D791D20AA3B31/1128629.png",
+        "status": "Natural Convergence",
+        "description": "\u003cc\u003d@abilitytype\u003eCelestial Avatar.\u003c/c\u003e Channel your celestial powers, pulsing cripple and slow. Once the channel ends, any foes still within its radius will be trapped by a black hole, immobilizing them."
+      }
     }
   ],
   "specialization": 5,

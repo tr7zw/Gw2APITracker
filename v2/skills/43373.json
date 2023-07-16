@@ -58,9 +58,15 @@
       "status": "Vulnerability",
       "description": "Damage and condition damage taken are increased; stacks intensity.",
       "apply_count": 10
+    },
+    {
+      "text": "Number of Allied Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
     }
   ],
-  "description": "Gain protection and inflict vulnerability on your marked target. Gain stealth if malice is at or above the threshold.",
+  "description": "Grant protection to allies around you and inflict vulnerability on your marked target. Gain stealth if malice is at or above the threshold.",
   "icon": "https://render.guildwars2.com/file/EE36E907052CF7E41C20280FABB4AD57EEBF4F70/1770613.png",
   "type": "Profession",
   "weapon_type": "None",
@@ -71,5 +77,16 @@
   "flags": [],
   "specialization": 58,
   "id": 43373,
-  "chat_link": "[\u0026Bm2pAAA\u003d]"
+  "chat_link": "[\u0026Bm2pAAA\u003d]",
+  "traited_facts": [
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "requires_trait": 2136,
+      "hit_count": 1,
+      "dmg_multiplier": 2,
+      "overrides": 5
+    }
+  ]
 }

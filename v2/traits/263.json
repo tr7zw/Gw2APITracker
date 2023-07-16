@@ -3,7 +3,7 @@
   "tier": 3,
   "order": 1,
   "name": "Elemental Surge",
-  "description": "\u003cc\u003d@abilitytype\u003eArcane\u003c/c\u003e skills gain reduced recharge, grant increased ferocity, and inflict a condition based on your attunement.",
+  "description": "\u003cc\u003d@abilitytype\u003eArcane\u003c/c\u003e skills grant increased ferocity and inflict a condition based on your attunement.",
   "slot": "Major",
   "facts": [
     {
@@ -95,12 +95,6 @@
       "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
       "value": 150,
       "target": "CritDamage"
-    },
-    {
-      "text": "Recharge Reduced",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-      "percent": 20
     }
   ],
   "specialization": 37,

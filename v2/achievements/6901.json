@@ -1,0 +1,39 @@
+{
+  "id": 6901,
+  "icon": "https://render.guildwars2.com/file/EF79D86002F298E03A947956A8EF08F9591B4A79/3037607.png",
+  "name": "What Lies Within",
+  "description": "",
+  "requirement": "Complete achievements within Gyala Delve.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "CategoryDisplay",
+    "MoveToTop",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 2
+    },
+    {
+      "count": 15,
+      "points": 3
+    },
+    {
+      "count": 20,
+      "points": 4
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 99445,
+      "count": 1
+    }
+  ]
+}

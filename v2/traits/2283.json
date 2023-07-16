@@ -3,32 +3,32 @@
   "tier": 3,
   "order": 1,
   "name": "Restorative Strikes",
-  "description": "A percentage of the strike damage you deal heals you. Gain protection when you or your pet unleash.",
+  "description": "When you or your pet unleash, gain protection and convert a percentage of strike damage into healing for a short duration.",
   "slot": "Major",
   "facts": [
     {
-      "text": "Recharge",
-      "type": "Recharge",
-      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 10
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/44B8970EAEBCFC14E11A910C5B5D0FC512FEEBE5/2503639.png",
+      "duration": 4,
+      "status": "Restorative Strikes",
+      "description": "",
+      "apply_count": 1
     },
     {
-      "text": "Percent",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-      "percent": 5
-    },
-    {
-      "text": "Percent",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-      "percent": 10
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/44B8970EAEBCFC14E11A910C5B5D0FC512FEEBE5/2503639.png",
+      "duration": 2,
+      "status": "Restorative Strikes",
+      "description": "",
+      "apply_count": 1
     },
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
-      "duration": 2,
+      "duration": 3,
       "status": "Protection",
       "description": "Incoming strike damage decreased by 33%; stacks duration.",
       "apply_count": 1

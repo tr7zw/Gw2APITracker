@@ -2,18 +2,39 @@
   "id": 1980,
   "tier": 2,
   "order": 2,
-  "name": "Protected Phantasms",
-  "description": "Phantasms spawn with aegis.",
+  "name": "Temporal Enchanter",
+  "description": "\u003cc\u003dabilitytype\u003eGlamour\u003c/c\u003e skills last longer. When you cast a glamour, allies near the glamour gain resistance and superspeed.",
   "slot": "Major",
   "facts": [
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/DFB4D1B50AE4D6A275B349E15B179261EE3EB0AF/102854.png",
-      "duration": 5,
-      "status": "Aegis",
-      "description": "Block the next incoming attack; stacks duration.",
+      "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+      "duration": 2,
+      "status": "Superspeed",
+      "description": "Movement speed is greatly increased. Maximum duration: 10s",
       "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
+      "duration": 2,
+      "status": "Resistance",
+      "description": "Nondamaging conditions currently on you are ineffective; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Duration Increase",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "duration": 1
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
     }
   ],
   "specialization": 23,

@@ -85,6 +85,16 @@
       "duration": 3,
       "requires_trait": 1070,
       "overrides": 7
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+      "duration": 3,
+      "status": "Immobile",
+      "description": "Unable to move; stacks duration.",
+      "apply_count": 1,
+      "requires_trait": 2055
     }
   ]
 }

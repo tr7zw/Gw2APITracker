@@ -5,7 +5,7 @@
       "text": "Recharge",
       "type": "Recharge",
       "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 20
+      "value": 16
     },
     {
       "text": "Apply Buff/Condition",
@@ -48,13 +48,10 @@
   ],
   "traited_facts": [
     {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/15AA251708A19EC6E1CBA4B208D7502797C9D111/2604722.png",
-      "duration": 15,
-      "status": "Positive Flow",
-      "description": "Gain flow per second.",
-      "apply_count": 1,
+      "text": "Flow",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
+      "value": 30,
       "requires_trait": 2226,
       "overrides": 2
     }

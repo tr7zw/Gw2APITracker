@@ -2,8 +2,8 @@
   "id": 1935,
   "tier": 1,
   "order": 2,
-  "name": "Primal Echoes",
-  "description": "Reduces recharge of staff skills. Daze nearby foes when you swap to staff.",
+  "name": "Blood Moon",
+  "description": "Daze enemies when you become a celestial avatar. Inflict bleeding on enemies you immobilize or disable.",
   "slot": "Major",
   "facts": [
     {
@@ -28,21 +28,28 @@
       "distance": 300
     },
     {
-      "text": "Combat Only",
-      "type": "NoData",
-      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png"
-    },
-    {
       "text": "Number of Targets",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
       "value": 5
     },
     {
-      "text": "Recharge Reduced",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-      "percent": 20
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+      "duration": 8,
+      "status": "Bleeding",
+      "description": "Deals damage every second; stacks intensity.",
+      "apply_count": 2
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+      "duration": 8,
+      "status": "Bleeding",
+      "description": "Deals damage every second; stacks intensity.",
+      "apply_count": 1
     }
   ],
   "traited_facts": [

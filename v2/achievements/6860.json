@@ -1,0 +1,65 @@
+{
+  "id": 6860,
+  "name": "Terror Manifest",
+  "description": "",
+  "requirement": "Acquire all items to manifest a terrifying weapon.",
+  "locked_text": "Purchase the associated Historical Weapon Diagram from Requisitions Specialists in Gyala Delve to unlock.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 95747
+    },
+    {
+      "type": "Item",
+      "id": 99535
+    },
+    {
+      "type": "Item",
+      "id": 99383
+    },
+    {
+      "type": "Item",
+      "id": 99503
+    },
+    {
+      "type": "Item",
+      "id": 99432
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 99463,
+      "count": 1
+    }
+  ]
+}

@@ -20,7 +20,14 @@
       "value": 5
     },
     {
-      "text": "Damage",
+      "text": "Outgoing Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 0.5
+    },
+    {
+      "text": "Returning Damage",
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 1,
@@ -50,7 +57,7 @@
       "finisher_type": "Projectile"
     }
   ],
-  "description": "Throw a fan of daggers that return to you. Stock a blade if this attack hits at least one target.",
+  "description": "Throw a fan of daggers that return to you. If your target is in range, the returning daggers will lock on to that target. Stock a blade if this attack hits at least one target.",
   "icon": "https://render.guildwars2.com/file/45B04E5D30ADD8D1B3086A98D40BE506E313B646/2479379.png",
   "type": "Weapon",
   "weapon_type": "Dagger",

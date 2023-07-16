@@ -1,0 +1,28 @@
+{
+  "name": "Spelunking Air Filter, Treasure Hunter",
+  "description": "Provides \u003cc\u003d@abilitytype\u003e30 filter charges\u003c/c\u003e, keeping your filter temporarily clean. Gain 1 filter charge and a chance for an Energized Luxon Weapon Cache when opening a mining cache. Max 40 charges.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99772,
+  "chat_link": "[\u0026AgG8hQEA]",
+  "icon": "https://render.guildwars2.com/file/0361D1BE3E0F0BB4D5427B6C1A98E3F8E10F4209/3036480.png",
+  "details": {
+    "type": "Immediate"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": 6920,
+  "name": "Special Ops Advanced Course 1",
+  "description": "",
+  "requirement": "Complete the assigned tasks to acquire the Special Ops Helmet Locker.",
+  "locked_text": "Complete Special Ops Basic Courses 1, 2, and 3 to unlock.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 99702
+    },
+    {
+      "type": "Item",
+      "id": 99748
+    },
+    {
+      "type": "Item",
+      "id": 99700
+    },
+    {
+      "type": "Item",
+      "id": 99734
+    },
+    {
+      "type": "Item",
+      "id": 99712
+    },
+    {
+      "type": "Item",
+      "id": 97153
+    }
+  ],
+  "tiers": [
+    {
+      "count": 6,
+      "points": 4
+    }
+  ],
+  "prerequisites": [
+    6904
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 99654,
+      "count": 1
+    }
+  ]
+}

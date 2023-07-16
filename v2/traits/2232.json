@@ -3,7 +3,7 @@
   "tier": 3,
   "order": 1,
   "name": "Vassals of the Empire",
-  "description": "Dodging now grants boons to allies and inflicts chill on struck foes when landing. Extend boon duration for allies upon landing.",
+  "description": "Dodging now grants boons to allies and strikes foes when landing. Extend boon duration for allies upon landing.",
   "slot": "Major",
   "facts": [
     {
@@ -30,6 +30,13 @@
           "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
           "hit_count": 1,
           "dmg_multiplier": 0.625
+        },
+        {
+          "text": "Damage",
+          "type": "Damage",
+          "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+          "hit_count": 1,
+          "dmg_multiplier": 0.5
         },
         {
           "text": "Apply Buff/Condition",

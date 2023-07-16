@@ -3,7 +3,7 @@
   "tier": 1,
   "order": 0,
   "name": "Smash Brawler",
-  "description": "Increases berserk mode duration.",
+  "description": "Increases berserk mode duration. Critical-hit chance is increased while berserk.",
   "slot": "Major",
   "facts": [
     {
@@ -11,6 +11,18 @@
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
       "duration": 5
+    },
+    {
+      "text": "Critical Chance Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
+      "percent": 15
+    },
+    {
+      "text": "Critical Chance Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
+      "percent": 5
     }
   ],
   "specialization": 18,

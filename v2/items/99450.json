@@ -1,0 +1,33 @@
+{
+  "name": "Jug of Fernhound Mead",
+  "description": "Seems like this would be a nice gift to bring to Rama\u0027s party.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 96,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "NotUpgradeable",
+    "SoulbindOnAcquire",
+    "Unique",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Sylvari"
+  ],
+  "id": 99450,
+  "chat_link": "[\u0026AgF6hAEA]",
+  "icon": "https://render.guildwars2.com/file/09726B4232AC6A7436A349D323E22430533CB027/223179.png",
+  "details": {
+    "type": "Booze"
+  }
+}

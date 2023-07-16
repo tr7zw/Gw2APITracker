@@ -1,0 +1,57 @@
+{
+  "name": "Wei Qi\u0027s Masque",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of the ancient Canthan armorer, Wei Qi.\u003c/c\u003e",
+  "type": "Armor",
+  "level": 1,
+  "rarity": "Ascended",
+  "vendor_value": 0,
+  "default_skin": 123,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 70126,
+  "chat_link": "[\u0026AgHuEQEA]",
+  "icon": "https://render.guildwars2.com/file/AD7849A39265D6AA1C712ACD476E912E1EC30839/699210.png",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Light",
+    "defense": 77,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 179.256,
+    "infix_upgrade": {
+      "id": 686,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 45
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 45
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 63
+        }
+      ]
+    }
+  }
+}

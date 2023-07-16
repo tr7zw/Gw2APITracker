@@ -1,0 +1,52 @@
+{
+  "name": "Officer\u0027s Remnant Greatsword",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 11506,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99840,
+  "chat_link": "[\u0026AgEAhgEA]",
+  "icon": "https://render.guildwars2.com/file/BC4EC80A5F1A0BCBF2A1BDA6A1C1302F78CDD4FB/3073186.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 995,
+    "max_power": 1100,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 1111,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 205
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 205
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 113
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 113
+        }
+      ]
+    }
+  }
+}

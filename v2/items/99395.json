@@ -1,0 +1,29 @@
+{
+  "name": "Recipe: Turtle Pilot Booster",
+  "description": "A recipe to make a jade bot service chip that reduces siege turtle hover energy cost by 10% and improves upgraded slams to generate 30% of an artillery shot per enemy struck.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 128,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99395,
+  "chat_link": "[\u0026AgFDhAEA]",
+  "icon": "https://render.guildwars2.com/file/023F37F2E500C7BAC1D056B30051F0D1E0451214/1894705.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 13925
+  }
+}

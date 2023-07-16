@@ -38,12 +38,6 @@
       "text": "Conditions Removed",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "value": 1
-    },
-    {
-      "text": "Conditions Removed",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "value": 2
     },
     {
@@ -59,13 +53,20 @@
       "value": 5
     },
     {
+      "text": "Heal per Condition",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "value": 427,
+      "target": "Healing"
+    },
+    {
       "text": "Combo Field",
       "type": "ComboField",
       "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
       "field_type": "Water"
     }
   ],
-  "description": "Call down a healing rain on the target area, granting regeneration to allies and curing conditions once every three seconds.",
+  "description": "Call down a healing rain on the target area, granting regeneration to allies and curing conditions once every three seconds. Allies are healed for each condition removed.",
   "icon": "https://render.guildwars2.com/file/B91D94720FB5979FED339EC7B1E55071076B5E0F/103262.png",
   "type": "Weapon",
   "weapon_type": "Staff",
@@ -79,15 +80,5 @@
   ],
   "specialization": 56,
   "id": 5551,
-  "chat_link": "[\u0026Bq8VAAA\u003d]",
-  "traited_facts": [
-    {
-      "text": "Conditions Removed",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "value": 2,
-      "requires_trait": 362,
-      "overrides": 5
-    }
-  ]
+  "chat_link": "[\u0026Bq8VAAA\u003d]"
 }

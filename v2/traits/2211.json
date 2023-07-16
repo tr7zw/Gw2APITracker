@@ -3,7 +3,7 @@
   "tier": 3,
   "order": 0,
   "name": "Psychic Riposte",
-  "description": "Blocking or dodging an attack stocks \u003cc\u003d@abilitytype\u003eblades\u003c/c\u003e and causes your next Bladesong to be unblockable.",
+  "description": "Blocking or evading an attack stocks \u003cc\u003d@abilitytype\u003eblades\u003c/c\u003e. Dodging stocks a blade and causes your next Bladesong to be unblockable.",
   "slot": "Major",
   "facts": [
     {
@@ -13,10 +13,16 @@
       "value": 3
     },
     {
-      "text": "Blades Stocked",
+      "text": "Blades Stocked on Block or Evade",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "value": 3
+      "value": 2
+    },
+    {
+      "text": "Blades Stocked on Dodge",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 1
     }
   ],
   "specialization": 66,

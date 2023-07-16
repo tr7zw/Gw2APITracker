@@ -27,23 +27,25 @@
       "duration": 2
     },
     {
-      "text": "Distance",
-      "type": "Distance",
-      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "distance": 600
-    },
-    {
       "text": "Number of Targets",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
       "value": 5
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+      "duration": 3,
+      "status": "Superspeed",
+      "description": "Movement speed is greatly increased. Maximum duration: 10s",
+      "apply_count": 1
     }
   ],
-  "description": "Release a burst of air to knock down your enemies and propel yourself backward.",
+  "description": "Release a burst of air to knock down your enemies and gain superspeed.",
   "icon": "https://render.guildwars2.com/file/386F6D7F9E7ECBCBD1C7ED80CCDCCD9BE99690EC/2491584.png",
   "type": "Weapon",
   "weapon_type": "Hammer",
-  "attunement": "Air",
   "professions": [
     "Elementalist"
   ],
@@ -51,7 +53,7 @@
   "flags": [
     "NoUnderwater"
   ],
-  "specialization": 67,
+  "specialization": 56,
   "id": 62947,
   "chat_link": "[\u0026BuP1AAA\u003d]"
 }

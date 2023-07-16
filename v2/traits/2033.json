@@ -3,7 +3,7 @@
   "tier": 3,
   "order": 1,
   "name": "Lucid Singularity",
-  "description": "Upon successfully completing an overload, apply alacrity to nearby allies.",
+  "description": "Apply alacrity to nearby allies while channeling and when successfully completing a channel.",
   "slot": "Major",
   "facts": [
     {
@@ -16,10 +16,34 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
-      "duration": 7,
+      "duration": 1,
       "status": "Alacrity",
       "description": "Skills recharge faster.",
       "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
+      "duration": 5,
+      "status": "Alacrity",
+      "description": "Skills recharge faster.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
+      "duration": 3,
+      "status": "Alacrity",
+      "description": "Skills recharge faster.",
+      "apply_count": 1
+    },
+    {
+      "text": "Pulses",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 4
     },
     {
       "text": "Number of Targets",

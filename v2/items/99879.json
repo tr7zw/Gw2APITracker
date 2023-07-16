@@ -1,0 +1,32 @@
+{
+  "name": "Roundtail Dragon Jade Bot Skin",
+  "description": "This will unlock the jade bot skin in your account wardrobe.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99879,
+  "chat_link": "[\u0026AgEnhgEA]",
+  "icon": "https://render.guildwars2.com/file/1A0040911CC073C4E75558C1A1586060F8072A14/3098411.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "JadeBotSkin"
+  }
+}

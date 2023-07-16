@@ -3,27 +3,47 @@
   "tier": 2,
   "order": 1,
   "name": "Heat the Soul",
-  "description": "Gain condition damage. Gain additional condition damage while wielding a torch. Torch skills gain reduced recharge.",
+  "description": "Grant boons to nearby allies when you use a \u003cc\u003d@abilitytype\u003eBurst\u003c/c\u003e skill.",
   "slot": "Major",
   "facts": [
     {
-      "text": "Recharge Reduced",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-      "percent": 20
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 5
     },
     {
-      "type": "AttributeAdjust",
-      "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
-      "value": 120,
-      "target": "ConditionDamage"
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+      "duration": 4,
+      "status": "Quickness",
+      "description": "Skills and actions are faster.",
+      "apply_count": 1
     },
     {
-      "text": "Condition Damage with Torch",
-      "type": "AttributeAdjust",
-      "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
-      "value": 120,
-      "target": "ConditionDamage"
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+      "duration": 3,
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
+      "apply_count": 8
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+      "duration": 5,
+      "status": "Fury",
+      "description": "Critical chance increased; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 480
     }
   ],
   "specialization": 18,

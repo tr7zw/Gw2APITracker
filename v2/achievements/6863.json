@@ -1,0 +1,65 @@
+{
+  "id": 6863,
+  "name": "Anguish Manifest",
+  "description": "",
+  "requirement": "Acquire all items to manifest an anguished weapon.",
+  "locked_text": "Purchase the associated Historical Weapon Diagram from Requisitions Specialists in Gyala Delve to unlock.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 96873
+    },
+    {
+      "type": "Item",
+      "id": 99471
+    },
+    {
+      "type": "Item",
+      "id": 99382
+    },
+    {
+      "type": "Item",
+      "id": 99437
+    },
+    {
+      "type": "Item",
+      "id": 99481
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 99429,
+      "count": 1
+    }
+  ]
+}

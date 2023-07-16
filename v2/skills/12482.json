@@ -1,5 +1,5 @@
 {
-  "name": "Monarch\u0027s Leap",
+  "name": "Serpent\u0027s Strike",
   "facts": [
     {
       "text": "Range",
@@ -18,7 +18,7 @@
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 1,
-      "dmg_multiplier": 1.8
+      "dmg_multiplier": 3
     },
     {
       "text": "Apply Buff/Condition",
@@ -32,10 +32,19 @@
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/26B3CC91C193FDC30873937B2FB735E1B7C6A83A/103126.png",
-      "duration": 5,
-      "status": "Serpent\u0027s Preparation",
-      "description": "Serpent\u0027s Strike is available to cast.",
+      "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+      "duration": 3,
+      "status": "Immobile",
+      "description": "Unable to move; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+      "duration": 6,
+      "status": "Poisoned",
+      "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
       "apply_count": 1
     },
     {
@@ -46,15 +55,14 @@
       "finisher_type": "Leap"
     }
   ],
-  "description": "Leap to your target and cripple them. Can be followed up with Serpent\u0027s Strike.",
-  "icon": "https://render.guildwars2.com/file/F14CE8E0FBDA9F4CCDDC0290AA1D53BD732824F9/104021.png",
+  "description": "Leap to your target and cripple them. If your target is disabled, defiant, or movement impaired, immobilize them instead.",
+  "icon": "https://render.guildwars2.com/file/26B3CC91C193FDC30873937B2FB735E1B7C6A83A/103126.png",
   "type": "Weapon",
   "weapon_type": "Sword",
   "professions": [
     "Ranger"
   ],
-  "slot": "Weapon_2",
-  "flip_skill": 12622,
+  "slot": "Weapon_3",
   "flags": [
     "NoUnderwater"
   ],

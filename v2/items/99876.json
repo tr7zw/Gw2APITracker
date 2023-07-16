@@ -1,0 +1,29 @@
+{
+  "name": "Mini Kanaxai",
+  "description": "Double-click to summon this mini to follow you around. Only one mini may be in use at a time.",
+  "type": "MiniPet",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 50,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99876,
+  "chat_link": "[\u0026AgEkhgEA]",
+  "icon": "https://render.guildwars2.com/file/05807AF80CB34EC04D46F1F2A9387BE501FE6F40/3098412.png",
+  "details": {
+    "minipet_id": 890
+  }
+}

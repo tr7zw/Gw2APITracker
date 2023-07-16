@@ -17,13 +17,10 @@
       "apply_count": 2
     },
     {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/15AA251708A19EC6E1CBA4B208D7502797C9D111/2604722.png",
-      "duration": 8,
-      "status": "Positive Flow",
-      "description": "Gain flow per second.",
-      "apply_count": 1
+      "text": "Additional Flow",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
+      "value": 15
     },
     {
       "text": "Maximum Count",
@@ -47,7 +44,7 @@
       "apply_count": 1
     }
   ],
-  "description": "Armament. Increase flow rate and gain fury. If you already have fury, gain additional flow rate.",
+  "description": "Armament. Increase flow rate and gain fury. If you already have fury, gain additional flow.",
   "icon": "https://render.guildwars2.com/file/A0CBE13DC629FAD69645FBB9CFDEFC5AC82061E3/2491651.png",
   "type": "Utility",
   "weapon_type": "None",

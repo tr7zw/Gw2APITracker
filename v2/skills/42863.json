@@ -45,7 +45,7 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-      "duration": 3,
+      "duration": 5,
       "status": "Quickness",
       "description": "Skills and actions are faster.",
       "apply_count": 1
@@ -58,9 +58,15 @@
       "status": "Slow",
       "description": "Skills and actions are slower.",
       "apply_count": 1
+    },
+    {
+      "text": "Number of Allied Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
     }
   ],
-  "description": "Gain quickness and slow your marked target. Gain stealth if malice is at or above the threshold.",
+  "description": "Grant quickness to allies around you and slow your marked target. Gain stealth if malice is at or above the threshold.",
   "icon": "https://render.guildwars2.com/file/0779426B11E048DA03E834C74828CCD070222A49/1770618.png",
   "type": "Profession",
   "weapon_type": "None",
@@ -71,5 +77,16 @@
   "flags": [],
   "specialization": 58,
   "id": 42863,
-  "chat_link": "[\u0026Bm+nAAA\u003d]"
+  "chat_link": "[\u0026Bm+nAAA\u003d]",
+  "traited_facts": [
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "requires_trait": 2136,
+      "hit_count": 1,
+      "dmg_multiplier": 2,
+      "overrides": 5
+    }
+  ]
 }

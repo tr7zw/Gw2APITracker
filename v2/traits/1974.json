@@ -3,21 +3,9 @@
   "tier": 1,
   "order": 0,
   "name": "Augury of Death",
-  "description": "\u003cc\u003d@abilitytype\u003eShouts\u003c/c\u003e gain reduced recharge, now siphon health, and gain additional recharge reduction for each foe they hit.",
+  "description": "\u003cc\u003d@abilitytype\u003eShouts\u003c/c\u003e now siphon health. This effect is increased on foes in melee range.",
   "slot": "Major",
   "facts": [
-    {
-      "text": "Recharge Reduced",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-      "percent": 10
-    },
-    {
-      "text": "Recharge Reduction per Foe",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-      "percent": 5
-    },
     {
       "text": "Life Siphon Damage",
       "type": "AttributeAdjust",
@@ -31,6 +19,18 @@
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "value": 125,
       "target": "Healing"
+    },
+    {
+      "text": "Damage Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 100
+    },
+    {
+      "text": "Healing Increase per Target",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "percent": 100
     }
   ],
   "specialization": 34,

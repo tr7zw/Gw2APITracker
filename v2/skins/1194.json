@@ -1,0 +1,62 @@
+{
+  "type": "Armor",
+  "flags": [],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 1194,
+  "icon": "https://render.guildwars2.com/file/99A7E17DEE45A311BF687C2113E94B63FE01BBAB/66607.png",
+  "name": "",
+  "details": {
+    "type": "Helm",
+    "weight_class": "Clothing",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        {
+          "color_id": -1,
+          "material": "metal"
+        },
+        null
+      ],
+      "overrides": {
+        "SylvariFemale": [
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          null,
+          {
+            "color_id": -1,
+            "material": "leather"
+          }
+        ],
+        "SylvariMale": [
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "leather"
+          },
+          null,
+          {
+            "color_id": -1,
+            "material": "leather"
+          }
+        ]
+      }
+    }
+  }
+}

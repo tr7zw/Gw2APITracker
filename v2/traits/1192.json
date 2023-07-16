@@ -10,19 +10,13 @@
       "text": "Recharge",
       "type": "Recharge",
       "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 10
+      "value": 1
     },
     {
-      "text": "Recharge Reduced",
-      "type": "Percent",
+      "text": "Recharge Time Reduced",
+      "type": "Time",
       "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-      "percent": 50
-    },
-    {
-      "text": "Recharge Reduced",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-      "percent": 25
+      "duration": 2
     },
     {
       "type": "AttributeAdjust",

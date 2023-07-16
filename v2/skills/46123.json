@@ -5,14 +5,14 @@
       "text": "Recharge",
       "type": "Recharge",
       "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 0.5
+      "value": 12
     },
     {
       "text": "Damage",
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 1,
-      "dmg_multiplier": 1
+      "dmg_multiplier": 2
     },
     {
       "text": "Apply Buff/Condition",
@@ -33,16 +33,28 @@
       "apply_count": 1
     },
     {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
+      "duration": 3,
+      "status": "Slow",
+      "description": "Skills and actions are slower.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+      "duration": 8,
+      "status": "Poisoned",
+      "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+      "apply_count": 4
+    },
+    {
       "text": "Distance",
       "type": "Distance",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "distance": 400
-    },
-    {
-      "text": "Recharge Time",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-      "duration": 15
     },
     {
       "text": "Combo Finisher",
@@ -65,15 +77,5 @@
   ],
   "specialization": 55,
   "id": 46123,
-  "chat_link": "[\u0026Biu0AAA\u003d]",
-  "traited_facts": [
-    {
-      "text": "Recharge Time",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-      "duration": 12,
-      "requires_trait": 1101,
-      "overrides": 5
-    }
-  ]
+  "chat_link": "[\u0026Biu0AAA\u003d]"
 }

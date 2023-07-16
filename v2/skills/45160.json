@@ -21,13 +21,11 @@
       "dmg_multiplier": 0.5
     },
     {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
-      "duration": 5,
-      "status": "Swiftness",
-      "description": "Movement speed increased by 33%; stacks duration.",
-      "apply_count": 1
+      "text": "Barrier",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+      "value": 289,
+      "target": "Healing"
     },
     {
       "text": "Apply Buff/Condition",
@@ -39,18 +37,27 @@
       "apply_count": 2
     },
     {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    },
+    {
       "text": "Reflects Missiles",
       "type": "NoData",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png"
     },
     {
-      "text": "Number of Targets",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-      "value": 5
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+      "duration": 5,
+      "status": "Swiftness",
+      "description": "Movement speed increased by 33%; stacks duration.",
+      "apply_count": 1
     }
   ],
-  "description": "Unleash a flurry of attacks that damages foes and reflects projectiles coming from the front.",
+  "description": "Unleash a flurry of attacks that damages foes and reflects projectiles coming from the front. Gain barrier when striking a foe.\nBarrier will only be gained once per attack.",
   "icon": "https://render.guildwars2.com/file/1B6242524D58120166CD0103035268A0B8D03353/1770658.png",
   "type": "Weapon",
   "weapon_type": "Dagger",

@@ -1,0 +1,47 @@
+{
+  "name": "Trooper\u0027s Chausses",
+  "type": "Armor",
+  "level": 76,
+  "rarity": "Fine",
+  "vendor_value": 89,
+  "default_skin": 211,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 6351,
+  "chat_link": "[\u0026AgHPGAAA]",
+  "icon": "https://render.guildwars2.com/file/7773801D47E0CAA34B5BBB6C9178235392304DB1/61530.png",
+  "details": {
+    "type": "Leggings",
+    "weight_class": "Heavy",
+    "defense": 170,
+    "infusion_slots": [],
+    "attribute_adjustment": 179.472,
+    "infix_upgrade": {
+      "id": 159,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 45
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 63
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 45
+        }
+      ]
+    }
+  }
+}

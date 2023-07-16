@@ -1,0 +1,31 @@
+{
+  "name": "Mist-Hardened Lockbox Key",
+  "description": "This key will unlock one Mist-Hardened Lockbox containing valuable loot.\n\nMist-Hardened Lockboxes can be found in daily reward chests or dropped by keep lords.",
+  "type": "Gizmo",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 250,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "BulkConsume",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99814,
+  "chat_link": "[\u0026AgHmhQEA]",
+  "icon": "https://render.guildwars2.com/file/1DCD981F974E3A3F134AA90223970105759F0F77/3072497.png",
+  "details": {
+    "type": "Default"
+  }
+}

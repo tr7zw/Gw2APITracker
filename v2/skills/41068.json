@@ -1,6 +1,17 @@
 {
   "name": "Free Action",
-  "description": "Kneel. Stop kneeling and move freely.",
+  "facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+      "duration": 6,
+      "status": "Swiftness",
+      "description": "Movement speed increased by 33%; stacks duration.",
+      "apply_count": 1
+    }
+  ],
+  "description": "Kneel. Stop kneeling and move freely. If you used at least one kneel skill, gain swiftness.",
   "icon": "https://render.guildwars2.com/file/9DB6B099015F000FE8E9B0F52A245D08E73AA266/1770630.png",
   "type": "Weapon",
   "weapon_type": "Rifle",

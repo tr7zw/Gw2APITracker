@@ -11,7 +11,7 @@
       "text": "Recharge",
       "type": "Recharge",
       "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 15
+      "value": 12
     },
     {
       "text": "Damage",
@@ -64,5 +64,17 @@
   "chat_link": "[\u0026BqYVAAA\u003d]",
   "categories": [
     "Signet"
+  ],
+  "traited_facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/2E7050E44690AFE0A396FA0DAD526699392743F3/2261521.png",
+      "duration": 4,
+      "status": "Fire Aura",
+      "description": "Enveloped in a fiery shield that burns foes, grants might each time you are struck (1-second cooldown per attacker).",
+      "apply_count": 1,
+      "requires_trait": 287
+    }
   ]
 }

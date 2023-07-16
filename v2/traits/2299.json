@@ -3,32 +3,32 @@
   "tier": 1,
   "order": 1,
   "name": "Shallow Grave",
-  "description": "If the ally tethered by your \u003cc\u003d@abilitytype\u003eShadow Shroud\u003c/c\u003e takes a lethal blow, consume your shroud to prevent their death and heal them.\u003cbr\u003eIf you would take a lethal blow, enter Shadow Shroud instead if your shroud is above the threshold.",
+  "description": "Transfer conditions to an enemy when targeting them with Siphon. Remove conditions from you and your ally when targeting them with Siphon.",
   "slot": "Major",
   "facts": [
     {
-      "text": "Recharge",
-      "type": "Recharge",
-      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 60
-    },
-    {
-      "text": "Percentage Returned as Healing",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "percent": 100
-    },
-    {
-      "text": "Percentage Returned as Healing",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "percent": 33
-    },
-    {
-      "text": "Energy Threshold",
+      "text": "Conditions Transferred",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "value": 20
+      "value": 3
+    },
+    {
+      "text": "Conditions Transferred",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 1
+    },
+    {
+      "text": "Conditions Removed",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 3
+    },
+    {
+      "text": "Conditions Removed",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 1
     }
   ],
   "specialization": 71,

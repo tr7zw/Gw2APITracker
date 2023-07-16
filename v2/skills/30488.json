@@ -5,7 +5,7 @@
       "text": "Recharge",
       "type": "Recharge",
       "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 20
+      "value": 16
     },
     {
       "text": "Damage",
@@ -28,6 +28,12 @@
       "value": 5
     },
     {
+      "text": "Melee Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 240
+    },
+    {
       "text": "Radius",
       "type": "Distance",
       "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
@@ -44,9 +50,27 @@
       "type": "Percent",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "percent": 5
+    },
+    {
+      "text": "Damage Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 50
+    },
+    {
+      "text": "Damage Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 100
+    },
+    {
+      "text": "Life Force per Melee Hit",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "percent": 3
     }
   ],
-  "description": "Shout. Heal yourself, gain life force, and strike foes around you, absorbing additional life force from each foe struck.",
+  "description": "Shout. Heal yourself, gain life force, and strike foes around you, absorbing additional life force from each foe struck. Deal additional damage and gain bonus life force when striking foes in melee range.",
   "icon": "https://render.guildwars2.com/file/53CF76526440F5987FA3E2CCDC9A2F2799CB26A8/1012929.png",
   "type": "Heal",
   "weapon_type": "None",

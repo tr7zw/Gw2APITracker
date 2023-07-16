@@ -1,0 +1,33 @@
+{
+  "name": "Bottle of Ironbrew",
+  "description": "Seems like this would be a nice gift to bring to Rama\u0027s party.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 96,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "NotUpgradeable",
+    "SoulbindOnAcquire",
+    "Unique",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [
+    "Charr"
+  ],
+  "id": 99460,
+  "chat_link": "[\u0026AgGEhAEA]",
+  "icon": "https://render.guildwars2.com/file/10FCC67CB707410190FD42A1D7066A0678CCBD93/63098.png",
+  "details": {
+    "type": "Booze"
+  }
+}

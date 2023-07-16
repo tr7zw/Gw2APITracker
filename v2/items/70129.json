@@ -1,0 +1,57 @@
+{
+  "name": "Wei Qi\u0027s Greaves",
+  "description": "\u003cc\u003d@flavor\u003eCrafted in the style of the ancient Canthan armorer, Wei Qi.\u003c/c\u003e",
+  "type": "Armor",
+  "level": 1,
+  "rarity": "Ascended",
+  "vendor_value": 0,
+  "default_skin": 114,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 70129,
+  "chat_link": "[\u0026AgHxEQEA]",
+  "icon": "https://render.guildwars2.com/file/DBEE7E93AF2FF0FAEC1CE996F52B949EC872D69C/699219.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Heavy",
+    "defense": 191,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 134.442,
+    "infix_upgrade": {
+      "id": 686,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 34
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 34
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 47
+        }
+      ]
+    }
+  }
+}

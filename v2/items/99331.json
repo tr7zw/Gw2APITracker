@@ -1,0 +1,75 @@
+{
+  "name": "First Night\u0027s Spark",
+  "description": "\u003cc\u003d@flavor\u003eDispel the darkness with bursting light.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 11222,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99331,
+  "chat_link": "[\u0026AgEDhAEA]",
+  "icon": "https://render.guildwars2.com/file/75E9025E759999ED0BC8A3C119BF0798535EFCCE/2875026.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 985,
+    "max_power": 1111,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 559,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 113
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 113
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 113
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 113
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 113
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 113
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 113
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 113
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 113
+        }
+      ]
+    }
+  }
+}

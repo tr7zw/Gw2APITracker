@@ -1,0 +1,65 @@
+{
+  "id": 6865,
+  "name": "Hunger Manifest",
+  "description": "",
+  "requirement": "Acquire all items to manifest a hungry weapon.",
+  "locked_text": "Purchase the associated Historical Weapon Diagram from Requisitions Specialists in Gyala Delve to unlock.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 96958
+    },
+    {
+      "type": "Item",
+      "id": 99485
+    },
+    {
+      "type": "Item",
+      "id": 99392
+    },
+    {
+      "type": "Item",
+      "id": 99492
+    },
+    {
+      "type": "Item",
+      "id": 99434
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 99405,
+      "count": 1
+    }
+  ]
+}

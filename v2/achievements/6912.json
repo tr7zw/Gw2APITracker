@@ -1,0 +1,55 @@
+{
+  "id": 6912,
+  "name": "Special Ops Basic Course 3",
+  "description": "",
+  "requirement": "Complete the assigned tasks to acquire the Special Ops Pauldrons Locker.",
+  "locked_text": "Learn all you can from Captain Wing Jun in Gyala Delve to unlock.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 99744
+    },
+    {
+      "type": "Item",
+      "id": 99720
+    },
+    {
+      "type": "Item",
+      "id": 99683
+    },
+    {
+      "type": "Item",
+      "id": 99731
+    },
+    {
+      "type": "Item",
+      "id": 99713
+    },
+    {
+      "type": "Item",
+      "id": 97464
+    }
+  ],
+  "tiers": [
+    {
+      "count": 6,
+      "points": 2
+    }
+  ],
+  "prerequisites": [
+    6904
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 99756,
+      "count": 1
+    }
+  ]
+}

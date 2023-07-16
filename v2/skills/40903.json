@@ -56,9 +56,15 @@
       "status": "Bleeding",
       "description": "Deals damage every second; stacks intensity.",
       "apply_count": 5
+    },
+    {
+      "text": "Number of Allied Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
     }
   ],
-  "description": "Heal yourself and bleed your marked target. Gain stealth if malice is at or above the threshold.",
+  "description": "Heal allies around you and inflict bleeding on your marked target. Gain stealth if malice is at or above the threshold.",
   "icon": "https://render.guildwars2.com/file/D6A0B179460001074F5606A3B450D07D03523BC1/1770619.png",
   "type": "Profession",
   "weapon_type": "None",
@@ -69,5 +75,16 @@
   "flags": [],
   "specialization": 58,
   "id": 40903,
-  "chat_link": "[\u0026BsefAAA\u003d]"
+  "chat_link": "[\u0026BsefAAA\u003d]",
+  "traited_facts": [
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "requires_trait": 2136,
+      "hit_count": 1,
+      "dmg_multiplier": 2,
+      "overrides": 5
+    }
+  ]
 }

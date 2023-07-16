@@ -1,0 +1,58 @@
+{
+  "name": "Candy-Packed Dragon Pistol",
+  "description": "\u003cc\u003d@flavor\u003eMay the monsters you feared mean nothing more than toys to your descendants.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 11469,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99788,
+  "chat_link": "[\u0026AgHMhQEA]",
+  "icon": "https://render.guildwars2.com/file/76E4A841FEC993AE713430E4C6995D2270DB20E7/3073088.png",
+  "details": {
+    "type": "Pistol",
+    "damage_type": "Physical",
+    "min_power": 876,
+    "max_power": 1029,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1162,
+      "buff": {
+        "skill_id": 33399
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 127
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 68
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 127
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 68
+        }
+      ]
+    }
+  }
+}

@@ -63,5 +63,23 @@
   "chat_link": "[\u0026BgjFAAA\u003d]",
   "categories": [
     "Glamour"
+  ],
+  "traited_facts": [
+    {
+      "text": "Duration",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "duration": 6,
+      "requires_trait": 1980,
+      "overrides": 1
+    },
+    {
+      "text": "Pulses",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 6,
+      "requires_trait": 1980,
+      "overrides": 4
+    }
   ]
 }

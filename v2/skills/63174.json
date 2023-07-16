@@ -1,18 +1,11 @@
 {
-  "name": "Barrier Blast",
+  "name": "Mace Blast",
   "facts": [
     {
       "text": "Range",
       "type": "Range",
       "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
       "value": 130
-    },
-    {
-      "text": "Barrier",
-      "type": "AttributeAdjust",
-      "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
-      "value": 261,
-      "target": "Healing"
     },
     {
       "text": "Apply Buff/Condition",
@@ -37,24 +30,12 @@
       "value": 3
     },
     {
-      "text": "Barrier Targets",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-      "value": 5
-    },
-    {
-      "text": "Barrier Radius",
-      "type": "Distance",
-      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-      "distance": 240
-    },
-    {
       "text": "Explosion",
       "type": "NoData",
       "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png"
     }
   ],
-  "description": "Smash your target with a final heavy strike, inflicting additional confusion. You, your mech, and allies near you gain barrier.",
+  "description": "Smash your target with a final heavy strike, inflicting additional confusion.",
   "icon": "https://render.guildwars2.com/file/FE1439232977E061A7E67A72C058B162ED426057/2503672.png",
   "type": "Weapon",
   "weapon_type": "Mace",

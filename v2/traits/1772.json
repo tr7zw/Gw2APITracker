@@ -3,9 +3,15 @@
   "tier": 3,
   "order": 1,
   "name": "Draconic Echo",
-  "description": "You retain your \u003cc\u003d@abilitytype\u003efacet\u003c/c\u003e passives for a duration after using their \u003cc\u003d@abilitytype\u003econsume\u003c/c\u003e skills. Using a \u003cc\u003d@abilitytype\u003econsume\u003c/c\u003e skill grants boons to allies around you.",
+  "description": "You retain your \u003cc\u003d@abilitytype\u003efacet\u003c/c\u003e passives for a duration after using their \u003cc\u003d@abilitytype\u003econsume\u003c/c\u003e skills. Your \u003cc\u003d@abilitytype\u003efacet\u003c/c\u003e passives grant you additional bonuses.",
   "slot": "Major",
   "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 8
+    },
     {
       "text": "Duration",
       "type": "Time",
@@ -15,32 +21,53 @@
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-      "duration": 2,
-      "status": "Quickness",
-      "description": "Skills and actions are faster.",
+      "icon": "https://render.guildwars2.com/file/1F723B516AC5B614943543EECE6938E13349B90E/1012991.png",
+      "duration": 0,
+      "status": "Facet of Light",
+      "description": "",
       "apply_count": 1
     },
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-      "duration": 5,
-      "status": "Might",
-      "description": "Increased outgoing damage; stacks intensity.",
+      "icon": "https://render.guildwars2.com/file/15A4F87D0E05936FF96B60F8745ADB513C5308E3/1013011.png",
+      "duration": 0,
+      "status": "Facet of Darkness",
       "apply_count": 1
     },
     {
-      "text": "Number of Allied Targets",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-      "value": 5
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/C1EC3E559DFB120A41FD3750DABD616BBA9172F9/1013012.png",
+      "duration": 0,
+      "status": "Facet of Elements",
+      "apply_count": 1
     },
     {
-      "text": "Radius",
-      "type": "Distance",
-      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-      "distance": 360
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/26296CDACD6C4E4A785F305D47523029786B79B9/1013013.png",
+      "duration": 0,
+      "status": "Facet of Strength",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/E5F7EC66C065EAB56631BA0CD1CF6F4D03B89270/1012986.png",
+      "duration": 0,
+      "status": "Facet of Chaos",
+      "description": "",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/590F7657AB11171A35304E5DDA6FDA5B2EC70350/1058606.png",
+      "duration": 0,
+      "status": "Facet of Nature",
+      "description": "",
+      "apply_count": 1
     }
   ],
   "specialization": 52,

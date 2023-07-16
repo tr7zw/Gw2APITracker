@@ -1,0 +1,42 @@
+{
+  "name": "((727517))",
+  "type": "Weapon",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 0,
+  "default_skin": 7487,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "MonsterOnly",
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 84690,
+  "chat_link": "[\u0026AgHSSgEA]",
+  "icon": "https://render.guildwars2.com/file/D42D80F9A81EC3E7ED2C3FD55EBCCA11764C06A0/66909.png",
+  "details": {
+    "type": "LargeBundle",
+    "damage_type": "Physical",
+    "min_power": 150,
+    "max_power": 166,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 20.736,
+    "infix_upgrade": {
+      "id": 115,
+      "buff": {
+        "skill_id": 23,
+        "description": "You have -10 agility, -20 perception, and +100 health."
+      },
+      "attributes": []
+    }
+  }
+}

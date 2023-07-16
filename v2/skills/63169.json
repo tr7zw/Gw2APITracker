@@ -14,6 +14,13 @@
       "value": 6
     },
     {
+      "text": "Barrier",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+      "value": 648,
+      "target": "Healing"
+    },
+    {
       "text": "Damage",
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
@@ -82,7 +89,7 @@
       "finisher_type": "Leap"
     }
   ],
-  "description": "Leap forward and smash the ground, inflicting vulnerability and confusion on foes while granting vigor and regeneration to allies.",
+  "description": "Leap forward and smash the ground, inflicting conditions on foes while granting barrier and boons to allies.",
   "icon": "https://render.guildwars2.com/file/3A0E770BC6328033C6B44F2567287AAA0649FD31/2503673.png",
   "type": "Weapon",
   "weapon_type": "Mace",

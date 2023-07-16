@@ -41,22 +41,34 @@
       "dmg_multiplier": 2.5
     },
     {
-      "text": "Boons Removed",
+      "text": "Level 1 Boons Removed",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "value": 2
     },
     {
-      "text": "Boons Removed",
+      "text": "Level 2 Boons Removed",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "value": 3
+      "value": 4
+    },
+    {
+      "text": "Level 3 Boons Removed",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 6
     },
     {
       "text": "Damage Increase",
       "type": "Percent",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "percent": 50
+    },
+    {
+      "text": "Damage Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 5
     },
     {
       "text": "Combo Finisher",
@@ -66,7 +78,7 @@
       "finisher_type": "Leap"
     }
   ],
-  "description": "Burst. Strike your target and remove boons. Deal more damage if your target has no boons.",
+  "description": "Burst. Strike your target and remove boons. If this hits at least one target, dagger skills gain critical chance and damage for a short duration.",
   "icon": "https://render.guildwars2.com/file/48B836AE01C6EC0D0A0A0680D23834960D556A7E/1770661.png",
   "type": "Profession",
   "weapon_type": "Dagger",
@@ -75,10 +87,10 @@
   ],
   "slot": "Profession_1",
   "cost": 10,
+  "flip_skill": 69433,
   "flags": [
     "NoUnderwater"
   ],
-  "specialization": 61,
   "id": 45252,
   "chat_link": "[\u0026BsSwAAA\u003d]",
   "categories": [
@@ -92,7 +104,7 @@
       "duration": 15,
       "status": "Berserker\u0027s Power",
       "description": "5.5% increased strike damage per stack.",
-      "apply_count": 1,
+      "apply_count": 2,
       "requires_trait": 1437
     },
     {

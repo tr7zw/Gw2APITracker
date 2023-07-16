@@ -25,9 +25,18 @@
       "type": "Distance",
       "icon": "https://render.guildwars2.com/file/B4087CEB5CC006172E0A09DADC5452807A0CA3F7/2440712.png",
       "distance": 750
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/080F4AC49809C32040C80512EAEA769EE7EA4FB7/103109.png",
+      "duration": 5,
+      "status": "Banished",
+      "description": "Recently struck by \u003cc\u003d@abilitytype\u003eBanish\u003c/c\u003e. \u003cc\u003d@abilitytype\u003eMighty Blow\u003c/c\u003e will consume this effect to teleport to the target.",
+      "apply_count": 1
     }
   ],
-  "description": "Launch your foe with a powerful smash.",
+  "description": "Launch your foe with a powerful smash. Striking a foe allows your next Mighty Blow to teleport to that foe.",
   "icon": "https://render.guildwars2.com/file/080F4AC49809C32040C80512EAEA769EE7EA4FB7/103109.png",
   "type": "Weapon",
   "weapon_type": "Hammer",

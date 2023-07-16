@@ -41,6 +41,15 @@
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+      "duration": 15,
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
+      "apply_count": 8
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
       "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
       "duration": 1,
       "status": "Stun",
@@ -102,21 +111,11 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
-      "duration": 5,
+      "duration": 3,
       "status": "Alacrity",
       "description": "Skills recharge faster.",
       "apply_count": 1,
       "requires_trait": 1942
-    },
-    {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-      "duration": 5,
-      "status": "Quickness",
-      "description": "Skills and actions are faster.",
-      "apply_count": 1,
-      "requires_trait": 2022
     }
   ]
 }

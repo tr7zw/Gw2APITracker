@@ -3,7 +3,7 @@
   "tier": 3,
   "order": 1,
   "name": "Monk\u0027s Focus",
-  "description": "\u003cc\u003d@abilitytype\u003eMeditation\u003c/c\u003e skills heal you, grant fury to nearby allies, and gain reduced recharge.",
+  "description": "\u003cc\u003d@abilitytype\u003eMeditation\u003c/c\u003e skills heal you and grant fury to nearby allies.",
   "slot": "Major",
   "facts": [
     {
@@ -17,7 +17,7 @@
       "text": "Healing",
       "type": "AttributeAdjust",
       "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-      "value": 1470,
+      "value": 1720,
       "target": "Healing"
     },
     {
@@ -40,12 +40,6 @@
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
       "value": 5
-    },
-    {
-      "text": "Recharge Reduced",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-      "percent": 20
     }
   ],
   "specialization": 13,

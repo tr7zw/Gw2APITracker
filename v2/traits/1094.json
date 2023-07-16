@@ -3,32 +3,20 @@
   "tier": 3,
   "order": 0,
   "name": "Empathic Bond",
-  "description": "Condition durations are split between you and your pet.\u003cbr\u003e\u003cc\u003d@reminder\u003eConditions are not split while your pet is downed.\u003c/c\u003e",
+  "description": "Using a \u003cc\u003d@abilitytype\u003eBeast\u003c/c\u003e trait removes conditions from you and your pet. \u003cbr\u003e\u003cc\u003d@reminder\u003e Swapping pets recharges this trait.\u003c/c\u003e",
   "slot": "Major",
   "facts": [
     {
-      "text": "Personal Condition Duration",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-      "percent": 50
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 20
     },
     {
-      "text": "Pet Condition Duration",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-      "percent": 50
-    },
-    {
-      "text": "Personal Condition Duration",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-      "percent": 80
-    },
-    {
-      "text": "Pet Condition Duration",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-      "percent": 20
+      "text": "Conditions Removed",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 2
     }
   ],
   "specialization": 33,

@@ -1,0 +1,29 @@
+{
+  "name": "Mini Adventure Boxer",
+  "description": "Double-click to summon this mini to follow you around. Only one mini may be in use at a time.",
+  "type": "MiniPet",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 50,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99597,
+  "chat_link": "[\u0026AgENhQEA]",
+  "icon": "https://render.guildwars2.com/file/1509D0012C6F570D21FE4C37234C7975B3F1D421/3024522.png",
+  "details": {
+    "minipet_id": 886
+  }
+}

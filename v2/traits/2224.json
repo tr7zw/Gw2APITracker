@@ -3,7 +3,7 @@
   "tier": 1,
   "order": 2,
   "name": "Energized Elements",
-  "description": "Gain energy and fury when you switch attunements. \u003cc\u003d@reminder\u003eEnergy can only be gained while in combat. \u003c/c\u003e",
+  "description": "Gain energy and boons when you switch attunements. \u003cc\u003d@reminder\u003eEnergy can only be gained while in combat. \u003c/c\u003e",
   "slot": "Major",
   "facts": [
     {
@@ -25,6 +25,15 @@
       "duration": 2,
       "status": "Fury",
       "description": "Critical chance increased; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+      "duration": 6,
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
       "apply_count": 1
     }
   ],

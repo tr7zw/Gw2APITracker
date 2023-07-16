@@ -50,12 +50,6 @@
       "apply_count": 1
     },
     {
-      "text": "\u003cc\u003d@abilitytype\u003eAdditional Blades over 50% heat\u003c/c\u003e",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "value": 2
-    },
-    {
       "text": "Projectile Range",
       "type": "Distance",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
@@ -84,6 +78,13 @@
   "id": 44110,
   "chat_link": "[\u0026Bk6sAAA\u003d]",
   "traited_facts": [
+    {
+      "text": "\u003cc\u003d@abilitytype\u003eAdditional Blades over 50% heat\u003c/c\u003e",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 2,
+      "requires_trait": 2158
+    },
     {
       "text": "\u003cc\u003d@abilitytype\u003eAdditional Blades over 100% heat\u003c/c\u003e",
       "type": "Number",

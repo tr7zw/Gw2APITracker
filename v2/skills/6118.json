@@ -11,7 +11,13 @@
       "text": "Recharge",
       "type": "Recharge",
       "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 25
+      "value": 20
+    },
+    {
+      "text": "Unblockable",
+      "type": "Unblockable",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": true
     },
     {
       "text": "Apply Buff/Condition",
@@ -75,13 +81,23 @@
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+      "duration": 4,
+      "status": "Superspeed",
+      "description": "Movement speed is greatly increased. Maximum duration: 10s",
+      "apply_count": 1,
+      "requires_trait": 2014
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
       "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
       "duration": 2,
       "status": "Protection",
       "description": "Incoming strike damage decreased by 33%; stacks duration.",
       "apply_count": 1,
       "requires_trait": 473,
-      "overrides": 2
+      "overrides": 3
     },
     {
       "text": "Apply Buff/Condition",
@@ -92,7 +108,7 @@
       "description": "Gain health every second; stacks duration.",
       "apply_count": 1,
       "requires_trait": 473,
-      "overrides": 3
+      "overrides": 4
     },
     {
       "text": "Apply Buff/Condition",
@@ -103,7 +119,7 @@
       "description": "Endurance regeneration increased by 50%; stacks duration.",
       "apply_count": 1,
       "requires_trait": 473,
-      "overrides": 4
+      "overrides": 5
     }
   ]
 }

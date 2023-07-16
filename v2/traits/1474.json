@@ -3,7 +3,7 @@
   "tier": 1,
   "order": 1,
   "name": "Soldier\u0027s Comfort",
-  "description": "Soldier\u0027s Focus heals affected allies.",
+  "description": "Soldier\u0027s Focus heals affected allies and grants them protection.",
   "slot": "Major",
   "facts": [
     {
@@ -12,6 +12,15 @@
       "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
       "value": 970,
       "target": "Healing"
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+      "duration": 3,
+      "status": "Protection",
+      "description": "Incoming strike damage decreased by 33%; stacks duration.",
+      "apply_count": 1
     }
   ],
   "specialization": 11,

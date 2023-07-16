@@ -20,11 +20,18 @@
       "value": 5
     },
     {
-      "text": "Damage",
+      "text": "Storm Damage",
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 1,
-      "dmg_multiplier": 1.8
+      "dmg_multiplier": 0.45
+    },
+    {
+      "text": "Blade Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 0.66
     },
     {
       "text": "Blades Launched",
@@ -41,15 +48,22 @@
       "text": "Interval",
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-      "duration": 2
+      "duration": 1
     },
     {
-      "text": "Pierces",
-      "type": "NoData",
-      "icon": "https://render.guildwars2.com/file/F833590B593E0C2D4948DFFE9951B91655250052/1770207.png"
+      "text": "Duration",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "duration": 4
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 180
     }
   ],
-  "description": "Launch a slow-moving, telekinetic storm of daggers that damages foes it passes through. With each interval, the bladestorm will fire blades at nearby enemies.",
+  "description": "Create a telekinetic storm of daggers that damages foes. With each interval, the bladestorm will fire blades at nearby enemies.",
   "icon": "https://render.guildwars2.com/file/449039B4B74B133D226BEED819B7C408AF2B61BB/2479391.png",
   "type": "Weapon",
   "weapon_type": "Dagger",
@@ -58,6 +72,7 @@
   ],
   "slot": "Weapon_3",
   "flags": [
+    "GroundTargeted",
     "NoUnderwater"
   ],
   "specialization": 66,

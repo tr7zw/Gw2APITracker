@@ -1,0 +1,47 @@
+{
+  "type": "Armor",
+  "flags": [],
+  "restrictions": [],
+  "rarity": "Basic",
+  "id": 1138,
+  "icon": "https://render.guildwars2.com/file/93DD9DA944D7D60B08A79A680170D075A35AC943/66628.png",
+  "name": "",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Clothing",
+    "dye_slots": {
+      "default": [
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "leather"
+        },
+        {
+          "color_id": -1,
+          "material": "cloth"
+        },
+        null
+      ],
+      "overrides": {
+        "SylvariFemale": [
+          null,
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          },
+          {
+            "color_id": -1,
+            "material": "cloth"
+          }
+        ]
+      }
+    }
+  }
+}

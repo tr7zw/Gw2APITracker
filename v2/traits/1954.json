@@ -2,29 +2,45 @@
   "id": 1954,
   "tier": 2,
   "order": 0,
-  "name": "Damage Dampener",
-  "description": "A percentage of all strike damage you take is delivered after a delay.",
+  "name": "Rapid Regeneration",
+  "description": "Regenerate health while affected by swiftness or superspeed.",
   "slot": "Major",
   "facts": [
     {
-      "text": "Damage Reduced",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-      "percent": 33
+      "text": "Apply Buff/Condition",
+      "type": "PrefixedBuff",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "duration": 0,
+      "description": "",
+      "apply_count": 1,
+      "prefix": {
+        "text": "Apply Buff/Condition",
+        "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+        "status": "Swiftness",
+        "description": "Movement speed increased by 33%; stacks duration."
+      }
     },
     {
-      "text": "Damage Reduced",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-      "percent": 20
+      "text": "Apply Buff/Condition",
+      "type": "PrefixedBuff",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "duration": 0,
+      "description": "",
+      "apply_count": 1,
+      "prefix": {
+        "text": "Apply Buff/Condition",
+        "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+        "status": "Superspeed",
+        "description": "Movement speed is greatly increased. Maximum duration: 10s"
+      }
     },
     {
       "text": "Interval",
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-      "duration": 2
+      "duration": 1
     }
   ],
   "specialization": 43,
-  "icon": "https://render.guildwars2.com/file/5A6574F180742568094CD5F4F8D9D9AF96394C00/2175048.png"
+  "icon": "https://render.guildwars2.com/file/45FD994928E2247E2C80E42B3FF3B7F5EB280FC7/2983334.png"
 }

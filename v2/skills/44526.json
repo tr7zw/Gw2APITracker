@@ -58,9 +58,15 @@
       "status": "Immobile",
       "description": "Unable to move; stacks duration.",
       "apply_count": 1
+    },
+    {
+      "text": "Number of Allied Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
     }
   ],
-  "description": "Gain superspeed and immobilize your marked target. Gain stealth if malice is at or above the threshold.",
+  "description": "Grant superspeed to allies around you and immobilize your marked target. Gain stealth if malice is at or above the threshold.",
   "icon": "https://render.guildwars2.com/file/09229668D0C0051A5364F9C8314C42995A087774/1770614.png",
   "type": "Profession",
   "weapon_type": "None",
@@ -71,5 +77,16 @@
   "flags": [],
   "specialization": 58,
   "id": 44526,
-  "chat_link": "[\u0026Bu6tAAA\u003d]"
+  "chat_link": "[\u0026Bu6tAAA\u003d]",
+  "traited_facts": [
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "requires_trait": 2136,
+      "hit_count": 1,
+      "dmg_multiplier": 2,
+      "overrides": 5
+    }
+  ]
 }

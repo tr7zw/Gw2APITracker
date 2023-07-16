@@ -62,24 +62,6 @@
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
-      "duration": 5,
-      "status": "Regeneration",
-      "description": "Gain health every second; stacks duration.",
-      "apply_count": 1
-    },
-    {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
-      "duration": 5,
-      "status": "Swiftness",
-      "description": "Movement speed increased by 33%; stacks duration.",
-      "apply_count": 1
-    },
-    {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
       "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
       "duration": 5,
       "status": "Vigor",
@@ -87,7 +69,7 @@
       "apply_count": 1
     }
   ],
-  "description": "Psionic. Heal yourself and throw two blades at your target. If the first blade hits, you lose conditions. If the second blade hits, you gain aegis and one additional random boon.",
+  "description": "Psionic. Heal yourself, lose conditions, and throw two blades at your target. If the first blade hits, you gain aegis. If the second blade hits, you gain vigor.",
   "icon": "https://render.guildwars2.com/file/1EB2DEF5C20E4E415698251AE8AFAA5D02A513AC/2479390.png",
   "type": "Heal",
   "weapon_type": "None",

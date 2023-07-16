@@ -1,0 +1,54 @@
+{
+  "id": 6886,
+  "name": "Tester of Secrets, Under 3",
+  "description": "",
+  "requirement": "Find all the green baubles in the World 3 Test Zone.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Green Bauble #1"
+    },
+    {
+      "type": "Text",
+      "text": "Green Bauble #2"
+    },
+    {
+      "type": "Text",
+      "text": "Green Bauble #3"
+    },
+    {
+      "type": "Text",
+      "text": "Green Bauble #4"
+    },
+    {
+      "type": "Text",
+      "text": "Green Bauble #5"
+    },
+    {
+      "type": "Text",
+      "text": "Green Bauble #6"
+    },
+    {
+      "type": "Text",
+      "text": "Green Bauble #7"
+    },
+    {
+      "type": "Text",
+      "text": "Green Bauble #8"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 8,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    6885
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 6882,
+  "name": "Documenter of Secrets, Under 3",
+  "description": "",
+  "requirement": "Find all the red baubles in the World 3 Test Zone.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Red Bauble #1"
+    },
+    {
+      "type": "Text",
+      "text": "Red Bauble #2"
+    },
+    {
+      "type": "Text",
+      "text": "Red Bauble #3"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 5
+    }
+  ],
+  "prerequisites": [
+    6885
+  ]
+}

@@ -11,7 +11,7 @@
       "text": "Recharge",
       "type": "Recharge",
       "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 4
+      "value": 5
     },
     {
       "text": "Damage",
@@ -56,13 +56,13 @@
       "text": "Count Recharge",
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-      "duration": 16
+      "duration": 20
     },
     {
       "text": "Count Recharge",
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-      "duration": 24
+      "duration": 30
     }
   ],
   "description": "Gadget. Launch a target foe with a concealed ram head. The ram explodes on contact, burning foes.",
@@ -90,14 +90,6 @@
       "overrides": 3
     },
     {
-      "text": "Count Recharge",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-      "duration": 20,
-      "requires_trait": 1679,
-      "overrides": 5
-    },
-    {
       "text": "Explosion",
       "type": "NoData",
       "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png",
@@ -114,22 +106,6 @@
       "apply_count": 1,
       "requires_trait": 1679,
       "overrides": 7
-    },
-    {
-      "text": "Count Recharge",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-      "duration": 16,
-      "requires_trait": 1679,
-      "overrides": 8
-    },
-    {
-      "text": "Count Recharge",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-      "duration": 24,
-      "requires_trait": 1679,
-      "overrides": 9
     }
   ]
 }

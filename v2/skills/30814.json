@@ -11,14 +11,14 @@
       "text": "Recharge",
       "type": "Recharge",
       "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 25
+      "value": 20
     },
     {
       "text": "Pulse Damage",
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 1,
-      "dmg_multiplier": 0.7
+      "dmg_multiplier": 1.5
     },
     {
       "text": "Number of Targets",
@@ -63,13 +63,31 @@
       "distance": 240
     },
     {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+      "duration": 15,
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
+      "apply_count": 8
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+      "duration": 6,
+      "status": "Fury",
+      "description": "Critical chance increased; stacks duration.",
+      "apply_count": 1
+    },
+    {
       "text": "Combo Field",
       "type": "ComboField",
       "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
       "field_type": "Ethereal"
     }
   ],
-  "description": "Well. Create a well of delayed time, damaging and slowing foes. When the well expires, time snaps back, granting superspeed to allies.",
+  "description": "Well. Create a well of delayed time, damaging and slowing foes. When the well expires, time snaps back, granting boons to allies.",
   "icon": "https://render.guildwars2.com/file/7F48A218D60E55A56DC14C4E660F56F72A472105/1012902.png",
   "type": "Utility",
   "weapon_type": "None",

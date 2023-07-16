@@ -2,64 +2,19 @@
   "name": "Mantra of Potence",
   "facts": [
     {
-      "text": "Range",
-      "type": "Range",
-      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-      "value": 450
-    },
-    {
       "text": "Recharge",
       "type": "Recharge",
       "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 1
+      "value": 20
     },
     {
-      "text": "Radius",
-      "type": "Distance",
-      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-      "distance": 180
-    },
-    {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-      "duration": 3,
-      "status": "Quickness",
-      "description": "Skills and actions are faster.",
-      "apply_count": 1
-    },
-    {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-      "duration": 1,
-      "status": "Quickness",
-      "description": "Skills and actions are faster.",
-      "apply_count": 1
-    },
-    {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-      "duration": 6,
-      "status": "Might",
-      "description": "Increased outgoing damage; stacks intensity.",
-      "apply_count": 5
-    },
-    {
-      "text": "Charge Recovery",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "duration": 12
-    },
-    {
-      "text": "Number of Allied Targets",
+      "text": "Number of Casts",
       "type": "Number",
-      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-      "value": 5
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 3
     }
   ],
-  "description": "Mantra. Recite a hymn from the annals of Turai to quicken yourself and your allies.",
+  "description": "Mantra. Recite a hymn from the annals of Turai to quicken yourself and your allies.\nThe final charge of this skill is more powerful.",
   "icon": "https://render.guildwars2.com/file/B4CB1901D4577CCCBBD315D833FE02C7B748BBC3/1770490.png",
   "type": "Utility",
   "weapon_type": "None",
@@ -67,21 +22,12 @@
     "Guardian"
   ],
   "slot": "Utility",
+  "flip_skill": 42983,
   "flags": [],
   "specialization": 62,
   "id": 40915,
   "chat_link": "[\u0026BtOfAAA\u003d]",
   "categories": [
     "Mantra"
-  ],
-  "traited_facts": [
-    {
-      "text": "Charge Recovery",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "duration": 10,
-      "requires_trait": 2063,
-      "overrides": 6
-    }
   ]
 }

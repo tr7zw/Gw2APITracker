@@ -3,7 +3,7 @@
   "tier": 1,
   "order": 0,
   "name": "Second Opinion",
-  "description": "A portion of condition damage is converted to healing power. Gain healing power, which is increased when wielding a scepter.",
+  "description": "A portion of condition damage is converted to healing power. Gain condition damage, which is increased when wielding a scepter.",
   "slot": "Major",
   "facts": [
     {
@@ -16,16 +16,16 @@
     },
     {
       "type": "AttributeAdjust",
-      "icon": "https://render.guildwars2.com/file/9B986DEADC035E58C364A1423975F5F538FC2202/2229321.png",
-      "value": 60,
-      "target": "Healing"
+      "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
+      "value": 90,
+      "target": "ConditionDamage"
     },
     {
-      "text": "Additional Healing Power",
+      "text": "Additional Condition Damage",
       "type": "AttributeAdjust",
-      "icon": "https://render.guildwars2.com/file/9B986DEADC035E58C364A1423975F5F538FC2202/2229321.png",
-      "value": 60,
-      "target": "Healing"
+      "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
+      "value": 90,
+      "target": "ConditionDamage"
     }
   ],
   "specialization": 71,

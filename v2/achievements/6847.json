@@ -1,0 +1,65 @@
+{
+  "id": 6847,
+  "name": "Bloodthirst Manifest",
+  "description": "",
+  "requirement": "Acquire all items to manifest a bloodthirsty weapon.",
+  "locked_text": "Purchase the associated Historical Weapon Diagram from Requisitions Specialists in Gyala Delve to unlock.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 97634
+    },
+    {
+      "type": "Item",
+      "id": 99384
+    },
+    {
+      "type": "Item",
+      "id": 99424
+    },
+    {
+      "type": "Item",
+      "id": 99462
+    },
+    {
+      "type": "Item",
+      "id": 99435
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 99433,
+      "count": 1
+    }
+  ]
+}

@@ -3,9 +3,27 @@
   "tier": 2,
   "order": 2,
   "name": "Spectacular Sphere",
-  "description": "Your \u003cc\u003d@abilitytype\u003ejade sphere\u003c/c\u003e grants a boon to nearby allies based on your current attunement when activated.",
+  "description": "Your \u003cc\u003d@abilitytype\u003ejade sphere\u003c/c\u003e is larger and grants quickness and an additional boon based on your current attunement to nearby allies when activated.",
   "slot": "Major",
   "facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+      "duration": 2,
+      "status": "Swiftness",
+      "description": "Movement speed increased by 33%; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+      "duration": 2,
+      "status": "Quickness",
+      "description": "Skills and actions are faster.",
+      "apply_count": 1
+    },
     {
       "text": "Apply Buff/Condition",
       "type": "PrefixedBuff",
@@ -64,21 +82,6 @@
         "icon": "https://render.guildwars2.com/file/737E1B9F7855B9F5D3DE1C990CD42118EF3D1C92/102820.png",
         "status": "Water Attunement",
         "description": "Cast water spells."
-      }
-    },
-    {
-      "text": "Apply Buff/Condition",
-      "type": "PrefixedBuff",
-      "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-      "duration": 5,
-      "status": "Quickness",
-      "description": "Skills and actions are faster.",
-      "apply_count": 1,
-      "prefix": {
-        "text": "Apply Buff/Condition",
-        "icon": "https://render.guildwars2.com/file/4857F59020DE3B0950B9C91F3D234A1C1932984A/103048.png",
-        "status": "Air Attunement",
-        "description": "Cast air spells."
       }
     },
     {
@@ -142,6 +145,28 @@
   "traited_facts": [
     {
       "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+      "duration": 3,
+      "status": "Swiftness",
+      "description": "Movement speed increased by 33%; stacks duration.",
+      "apply_count": 1,
+      "requires_trait": 2251,
+      "overrides": 0
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+      "duration": 4,
+      "status": "Quickness",
+      "description": "Skills and actions are faster.",
+      "apply_count": 1,
+      "requires_trait": 2251,
+      "overrides": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
       "type": "PrefixedBuff",
       "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
       "duration": 20,
@@ -155,7 +180,7 @@
         "status": "Fire Attunement",
         "description": "Cast fire spells."
       },
-      "overrides": 0
+      "overrides": 2
     },
     {
       "text": "Apply Buff/Condition",
@@ -172,7 +197,7 @@
         "status": "Fire Attunement",
         "description": "Cast fire spells."
       },
-      "overrides": 1
+      "overrides": 3
     },
     {
       "text": "Apply Buff/Condition",
@@ -189,7 +214,7 @@
         "status": "Water Attunement",
         "description": "Cast water spells."
       },
-      "overrides": 2
+      "overrides": 4
     },
     {
       "text": "Apply Buff/Condition",
@@ -206,15 +231,15 @@
         "status": "Water Attunement",
         "description": "Cast water spells."
       },
-      "overrides": 3
+      "overrides": 5
     },
     {
       "text": "Apply Buff/Condition",
       "type": "PrefixedBuff",
-      "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+      "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
       "duration": 10,
-      "status": "Quickness",
-      "description": "Skills and actions are faster.",
+      "status": "Fury",
+      "description": "Critical chance increased; stacks duration.",
       "apply_count": 1,
       "requires_trait": 2251,
       "prefix": {
@@ -223,7 +248,7 @@
         "status": "Air Attunement",
         "description": "Cast air spells."
       },
-      "overrides": 4
+      "overrides": 6
     },
     {
       "text": "Apply Buff/Condition",
@@ -240,7 +265,7 @@
         "status": "Air Attunement",
         "description": "Cast air spells."
       },
-      "overrides": 5
+      "overrides": 6
     },
     {
       "text": "Apply Buff/Condition",
@@ -257,7 +282,7 @@
         "status": "Earth Attunement",
         "description": "Cast earth spells."
       },
-      "overrides": 6
+      "overrides": 7
     },
     {
       "text": "Apply Buff/Condition",
@@ -274,7 +299,7 @@
         "status": "Earth Attunement",
         "description": "Cast earth spells."
       },
-      "overrides": 7
+      "overrides": 8
     }
   ],
   "specialization": 67,

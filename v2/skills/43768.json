@@ -58,9 +58,15 @@
       "status": "Poisoned",
       "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
       "apply_count": 2
+    },
+    {
+      "text": "Number of Allied Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
     }
   ],
-  "description": "Gain aegis and poison your marked target. Gain stealth if malice is at or above the threshold.",
+  "description": "Grant aegis to allies around you and poison your marked target. Gain stealth if malice is at or above the threshold.",
   "icon": "https://render.guildwars2.com/file/6FAE300063E1F79B92A2664CA67307036C4AB9E6/1770612.png",
   "type": "Profession",
   "weapon_type": "None",
@@ -71,5 +77,16 @@
   "flags": [],
   "specialization": 58,
   "id": 43768,
-  "chat_link": "[\u0026BviqAAA\u003d]"
+  "chat_link": "[\u0026BviqAAA\u003d]",
+  "traited_facts": [
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "requires_trait": 2136,
+      "hit_count": 1,
+      "dmg_multiplier": 2,
+      "overrides": 5
+    }
+  ]
 }

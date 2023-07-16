@@ -10,7 +10,7 @@
       "text": "Revive Percentage",
       "type": "Percent",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "percent": 7
+      "percent": 2
     },
     {
       "text": "Revive Percentage",
@@ -60,6 +60,15 @@
           "type": "Distance",
           "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
           "distance": 240
+        },
+        {
+          "text": "Apply Buff/Condition",
+          "type": "Buff",
+          "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+          "duration": 2,
+          "status": "Regeneration",
+          "description": "Gain health every second; stacks duration.",
+          "apply_count": 6
         },
         {
           "text": "Combo Field",

@@ -3,14 +3,14 @@
   "tier": 2,
   "order": 0,
   "name": "Blood Reaction",
-  "description": "A percentage of precision is given as a bonus to ferocity. This bonus is doubled in berserk mode.",
+  "description": "A percentage of precision is given as a bonus to ferocity and a percentage of power is given as a bonus to condition damage. These bonuses are doubled in berserk mode.",
   "slot": "Major",
   "facts": [
     {
       "text": "Attribute Conversion",
       "type": "BuffConversion",
       "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
-      "percent": 7,
+      "percent": 10,
       "source": "Precision",
       "target": "CritDamage"
     },
@@ -18,9 +18,9 @@
       "text": "Attribute Conversion",
       "type": "BuffConversion",
       "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
-      "percent": 14,
-      "source": "Precision",
-      "target": "CritDamage"
+      "percent": 10,
+      "source": "Power",
+      "target": "ConditionDamage"
     }
   ],
   "specialization": 18,

@@ -3,13 +3,17 @@
   "tier": 2,
   "order": 0,
   "name": "Escape Artist",
-  "description": "Create a clone when you gain stealth.",
+  "description": "When a \u003cc\u003d@abilitytype\u003ephantasm\u003c/c\u003e is created, grant it distortion.",
   "slot": "Major",
   "facts": [
     {
-      "text": "Combat Only",
-      "type": "NoData",
-      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png"
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/D0969802A76808ACD65A56A6D54F2A40E355F7C3/103284.png",
+      "duration": 5,
+      "status": "Distortion",
+      "description": "Immune to conditions and damage.",
+      "apply_count": 1
     }
   ],
   "specialization": 24,

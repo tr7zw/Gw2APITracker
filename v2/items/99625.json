@@ -1,0 +1,31 @@
+{
+  "name": "Herald of Aurene Harvesting Tool",
+  "description": "Used to harvest all plants. Unlimited use.",
+  "type": "Gathering",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 192,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99625,
+  "chat_link": "[\u0026AgEphQEA]",
+  "icon": "https://render.guildwars2.com/file/5FD517F52DCD35ED930BA90B7BEF116C2BBBCC04/3029142.png",
+  "details": {
+    "type": "Foraging"
+  }
+}

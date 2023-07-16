@@ -8,6 +8,18 @@
       "value": 1
     },
     {
+      "text": "Count Recharge",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+      "duration": 15
+    },
+    {
+      "text": "Count Recharge",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+      "duration": 20
+    },
+    {
       "text": "Casts",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
@@ -98,19 +110,12 @@
   ],
   "traited_facts": [
     {
-      "text": "Count Recharge",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-      "duration": 16,
-      "requires_trait": 635
-    },
-    {
       "text": "Casts",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
       "value": 4,
       "requires_trait": 635,
-      "overrides": 1
+      "overrides": 3
     },
     {
       "text": "Casts",
@@ -118,7 +123,7 @@
       "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
       "value": 3,
       "requires_trait": 635,
-      "overrides": 2
+      "overrides": 4
     }
   ]
 }

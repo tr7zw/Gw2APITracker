@@ -3,7 +3,7 @@
   "tier": 3,
   "order": 1,
   "name": "Kinetic Accelerators",
-  "description": "Gain concentration based on your power. When you grant superspeed to a target, also grant boons.\u003cbr\u003e\u003cc\u003d@reminder\u003eThis can affect multiple targets simultaneously.\u003c/c\u003e",
+  "description": "Grant boons to nearby allies when you successfully combo a field with a blast or leap finisher. Your function gyro is now a blast finisher.",
   "slot": "Major",
   "facts": [
     {
@@ -16,18 +16,10 @@
       "apply_count": 1
     },
     {
-      "text": "Attribute Conversion",
-      "type": "BuffConversion",
-      "icon": "https://render.guildwars2.com/file/6574560606F6BA1B32E9CF0F6C9709D1C1F2D9A6/2207782.png",
-      "percent": 10,
-      "source": "Power",
-      "target": "BoonDuration"
-    },
-    {
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
-      "duration": 4,
+      "duration": 6,
       "status": "Fury",
       "description": "Critical chance increased; stacks duration.",
       "apply_count": 1
@@ -39,7 +31,29 @@
       "duration": 8,
       "status": "Might",
       "description": "Increased outgoing damage; stacks intensity.",
-      "apply_count": 2
+      "apply_count": 3
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 360
+    },
+    {
+      "text": "Attribute Conversion",
+      "type": "BuffConversion",
+      "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
+      "percent": 13,
+      "source": "Power",
+      "target": "BoonDuration"
+    },
+    {
+      "text": "Attribute Conversion",
+      "type": "BuffConversion",
+      "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
+      "percent": 10,
+      "source": "Power",
+      "target": "BoonDuration"
     }
   ],
   "specialization": 43,

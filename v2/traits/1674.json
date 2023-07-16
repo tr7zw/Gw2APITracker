@@ -3,7 +3,7 @@
   "tier": 3,
   "order": 2,
   "name": "Stone Heart",
-  "description": "You cannot be critically hit while attuned to earth.",
+  "description": "You cannot be critically hit for a duration of time after entering or exiting earth attunement.\u003cbr\u003e\u003cc\u003d@reminder\u003eRemaining effect duration is lost when exiting.\u003c/c\u003e",
   "slot": "Major",
   "facts": [
     {
@@ -12,8 +12,20 @@
       "icon": "https://render.guildwars2.com/file/22F1BDACFBEBC8FF2BF77B22B3E535D2BA03D140/1012302.png",
       "duration": 0,
       "status": "Stone Heart",
-      "description": "You cannot be critically hit while attuned to earth.",
+      "description": "You cannot be critically hit.",
       "apply_count": 1
+    },
+    {
+      "text": "Duration on Entering",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "duration": 4
+    },
+    {
+      "text": "Duration on Exiting",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "duration": 2
     }
   ],
   "specialization": 26,

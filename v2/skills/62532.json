@@ -63,13 +63,13 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
-      "duration": 1,
+      "duration": 4,
       "status": "Stability",
       "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
-      "apply_count": 1
+      "apply_count": 3
     }
   ],
-  "description": "Virtue. Shadowstep a short distance while gaining boons and emanating Willbender Flames from your location. Gain Courage.\n\nRemoves other active Virtue effects.",
+  "description": "Virtue. Shadowstep a short distance while gaining boons and emanating Willbender Flames from your location. Gain courage.",
   "icon": "https://render.guildwars2.com/file/3AD50BA43AA00EA97C6152D5EC6092FE0F0979D0/2479369.png",
   "type": "Profession",
   "weapon_type": "None",
@@ -123,17 +123,6 @@
       "description": "Nondamaging conditions currently on you are ineffective; stacks duration.",
       "apply_count": 1,
       "requires_trait": 2199
-    },
-    {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
-      "duration": 4,
-      "status": "Stability",
-      "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
-      "apply_count": 4,
-      "requires_trait": 612,
-      "overrides": 7
     },
     {
       "text": "Apply Buff/Condition",

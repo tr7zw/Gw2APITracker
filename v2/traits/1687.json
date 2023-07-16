@@ -54,6 +54,21 @@
     {
       "text": "Apply Buff/Condition",
       "type": "PrefixedBuff",
+      "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+      "duration": 5,
+      "status": "Vigor",
+      "description": "Endurance regeneration increased by 50%; stacks duration.",
+      "apply_count": 1,
+      "prefix": {
+        "text": "Apply Buff/Condition",
+        "icon": "https://render.guildwars2.com/file/B8E57C1F08727AF8C39066160B93D175B6A3B9BA/103731.png",
+        "status": "Cry of Frustration",
+        "description": "\u003cc\u003d@abilitytype\u003eShatter.\u003c/c\u003e Destroy all your clones, confusing nearby foes. The shatter effect also occurs at your location."
+      }
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "PrefixedBuff",
       "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
       "duration": 10,
       "status": "Fury",
@@ -206,6 +221,40 @@
     {
       "text": "Apply Buff/Condition",
       "type": "PrefixedBuff",
+      "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+      "duration": 5,
+      "status": "Vigor",
+      "description": "Endurance regeneration increased by 50%; stacks duration.",
+      "apply_count": 1,
+      "requires_trait": 2216,
+      "prefix": {
+        "text": "Apply Buff/Condition",
+        "icon": "https://render.guildwars2.com/file/EF9223543A66B8B5A8FD1C4BC4E7A218277C15C4/2479383.png",
+        "status": "Bladesong Sorrow",
+        "description": "\u003cc\u003d@abilitytype\u003eBladesong.\u003c/c\u003e Fire all stocked blades, inflicting your target with conditions."
+      },
+      "overrides": 3
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "PrefixedBuff",
+      "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+      "duration": 5,
+      "status": "Vigor",
+      "description": "Endurance regeneration increased by 50%; stacks duration.",
+      "apply_count": 1,
+      "requires_trait": 2030,
+      "prefix": {
+        "text": "Apply Buff/Condition",
+        "icon": "https://render.guildwars2.com/file/F59775A05108441C09AC03C30CAD98CC049CCC28/2175058.png",
+        "status": "Rewinder",
+        "description": "\u003cc\u003d@abilitytype\u003eShatter.\u003c/c\u003e Destroy all your clones, confusing nearby foes and recharging this skill for each clone shattered."
+      },
+      "overrides": 3
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "PrefixedBuff",
       "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
       "duration": 10,
       "status": "Fury",
@@ -218,7 +267,7 @@
         "status": "Bladesong Dissonance",
         "description": "\u003cc\u003d@abilitytype\u003eBladesong.\u003c/c\u003e Combine all your blades into one large blade that dazes targets based on the number of blades consumed."
       },
-      "overrides": 3
+      "overrides": 4
     },
     {
       "text": "Apply Buff/Condition",
@@ -235,7 +284,7 @@
         "status": "Time Sink",
         "description": "\u003cc\u003d@abilitytype\u003eShatter.\u003c/c\u003e Destroy all your clones, dazing and slowing their targets."
       },
-      "overrides": 3
+      "overrides": 4
     },
     {
       "text": "Apply Buff/Condition",
@@ -250,7 +299,7 @@
         "text": "Apply Buff/Condition",
         "icon": "https://render.guildwars2.com/file/040192EDDE9D2492D2428027E50DFC12B9044D39/2479384.png",
         "status": "Bladeturn Requiem",
-        "description": "\u003cc\u003d@abilitytype\u003eBladesong.\u003c/c\u003e Block incoming attacks and send your blades spinning around you to hit nearby foes. Spinning blade duration scales with number of blades consumed."
+        "description": "\u003cc\u003d@abilitytype\u003eBladesong.\u003c/c\u003eSend your blades spinning around you to hit nearby foes. Spinning blade duration scales with number of blades consumed."
       }
     },
     {

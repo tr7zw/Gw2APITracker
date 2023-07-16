@@ -1,0 +1,41 @@
+{
+  "name": "Static Conduit",
+  "type": "Weapon",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 0,
+  "default_skin": 2689,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 86157,
+  "chat_link": "[\u0026AgGNUAEA]",
+  "icon": "https://render.guildwars2.com/file/216B62605406DA976965A880F426F03ED6AFC178/61771.png",
+  "details": {
+    "type": "LargeBundle",
+    "damage_type": "Physical",
+    "min_power": 134,
+    "max_power": 148,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 20.736,
+    "infix_upgrade": {
+      "id": 1419,
+      "buff": {
+        "skill_id": 47748,
+        "description": "You move faster while holding static conduits."
+      },
+      "attributes": []
+    }
+  }
+}

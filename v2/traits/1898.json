@@ -3,15 +3,9 @@
   "tier": 1,
   "order": 0,
   "name": "Piercing Light",
-  "description": "\u003cc\u003d@abilitytype\u003eTraps\u003c/c\u003e gain reduced recharge and slow enemies.",
+  "description": "\u003cc\u003d@abilitytype\u003eTraps\u003c/c\u003e slow enemies.",
   "slot": "Major",
   "facts": [
-    {
-      "text": "Recharge Reduced",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-      "percent": 20
-    },
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",

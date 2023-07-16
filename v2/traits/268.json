@@ -3,7 +3,7 @@
   "tier": 1,
   "order": 0,
   "name": "Arcane Prowess",
-  "description": "Gain might when you switch attunements.",
+  "description": "Gain boons when you switch attunements.",
   "slot": "Minor",
   "facts": [
     {
@@ -18,10 +18,10 @@
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-      "duration": 6,
-      "status": "Might",
-      "description": "Increased outgoing damage; stacks intensity.",
+      "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+      "duration": 2,
+      "status": "Fury",
+      "description": "Critical chance increased; stacks duration.",
       "apply_count": 1
     }
   ],

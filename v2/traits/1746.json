@@ -3,7 +3,7 @@
   "tier": 3,
   "order": 0,
   "name": "Elevated Compassion",
-  "description": "Heal allies when you grant them boons.\u003cbr\u003e\u003cc\u003d@reminder\u003eAn ally can only be affected by this skill once per interval.\u003c/c\u003e",
+  "description": "Heal allies when you grant them boons. Grant boons to allies when your upkeep cost is equal to or higher than the threshold.\u003cbr\u003e\u003cc\u003d@reminder\u003eAn ally can only be affected by this skill once per interval.\u003c/c\u003e",
   "slot": "Major",
   "facts": [
     {
@@ -18,6 +18,42 @@
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
       "duration": 3
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+      "duration": 3,
+      "status": "Quickness",
+      "description": "Skills and actions are faster.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+      "duration": 3,
+      "status": "Vigor",
+      "description": "Endurance regeneration increased by 50%; stacks duration.",
+      "apply_count": 1
+    },
+    {
+      "text": "Upkeep Threshold",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 6
+    },
+    {
+      "text": "Number of Allied Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 600
     }
   ],
   "specialization": 52,

@@ -3,7 +3,7 @@
   "tier": 1,
   "order": 2,
   "name": "One in the Chamber",
-  "description": "When you cast a cantrip, gain a random new stolen skill.\u003cbr\u003e\u003cc\u003d@reminder\u003e(Requires a marked target. Overwrites existing stolen skills.)\u003c/c\u003e",
+  "description": "When you cast a cantrip, gain a random new stolen skill. Stolen skills deal more damage.\u003cbr\u003e\u003cc\u003d@reminder\u003e(Requires a marked target. Overwrites existing stolen skills.)\u003c/c\u003e",
   "slot": "Major",
   "facts": [
     {
@@ -11,6 +11,18 @@
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "value": 1
+    },
+    {
+      "text": "Damage Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 300
+    },
+    {
+      "text": "Damage Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 10
     }
   ],
   "specialization": 58,

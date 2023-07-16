@@ -46,6 +46,15 @@
           "apply_count": 1
         },
         {
+          "text": "Apply Buff/Condition",
+          "type": "Buff",
+          "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+          "duration": 1,
+          "status": "Burning",
+          "description": "Deals damage every second; stacks intensity.",
+          "apply_count": 1
+        },
+        {
           "text": "Attacks to Trigger Passive",
           "type": "Number",
           "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
@@ -84,12 +93,23 @@
           "overrides": 1
         },
         {
+          "text": "Apply Buff/Condition",
+          "type": "Buff",
+          "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+          "duration": 1,
+          "status": "Burning",
+          "description": "Deals damage every second; stacks intensity.",
+          "apply_count": 1,
+          "requires_trait": 1686,
+          "overrides": 2
+        },
+        {
           "text": "Attacks to Trigger Passive",
           "type": "Number",
           "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
           "value": 3,
           "requires_trait": 622,
-          "overrides": 2
+          "overrides": 3
         },
         {
           "text": "Apply Buff/Condition",

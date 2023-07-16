@@ -1,0 +1,64 @@
+{
+  "id": 6874,
+  "icon": "https://render.guildwars2.com/file/B9D0CE6626009307023BD779FC43665366B1A4C6/2604526.png",
+  "name": "New Friends, New Adventures",
+  "description": "Finding and playing with shrine guardian infants is something of a hobby for some adventurous Canthans.",
+  "requirement": "Play with all shrine guardian infants in all End of Dragons maps at least once.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Seitung Province"
+    },
+    {
+      "type": "Text",
+      "text": "New Kaineng City"
+    },
+    {
+      "type": "Text",
+      "text": "The Echovald Wilds"
+    },
+    {
+      "type": "Text",
+      "text": "Dragon\u0027s End"
+    },
+    {
+      "type": "Text",
+      "text": "Gyala Delve"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 99403,
+      "count": 1
+    }
+  ]
+}

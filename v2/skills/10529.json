@@ -33,13 +33,19 @@
       "text": "Boons Converted to Conditions",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "value": 2
+      "value": 3
     },
     {
-      "text": "Boons Converted to Conditions",
+      "text": "Boons Removed",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "value": 1
+      "value": 3
+    },
+    {
+      "text": "Boons Removed",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 2
     },
     {
       "text": "Apply Buff/Condition",
@@ -49,9 +55,24 @@
       "status": "Bleeding",
       "description": "Deals damage every second; stacks intensity.",
       "apply_count": 2
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+      "duration": 10,
+      "status": "Bleeding",
+      "description": "Deals damage every second; stacks intensity.",
+      "apply_count": 2
+    },
+    {
+      "text": "Life Force",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "percent": 5
     }
   ],
-  "description": "Immobilize your foe. Bleed yourself.",
+  "description": "Bleed yourself. Immobilize your foe and remove their boons. Gain life force for each boon removed.",
   "icon": "https://render.guildwars2.com/file/A99518F9D00A760DE474B803522824415141493B/103800.png",
   "type": "Weapon",
   "weapon_type": "Dagger",

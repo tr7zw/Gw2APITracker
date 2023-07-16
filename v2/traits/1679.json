@@ -3,16 +3,8 @@
   "tier": 3,
   "order": 2,
   "name": "Gadgeteer",
-  "description": "\u003cc\u003d@abilitytype\u003eGadget\u003c/c\u003e skills are more powerful and have reduced recharge.",
+  "description": "\u003cc\u003d@abilitytype\u003eGadget\u003c/c\u003e skills are more powerful.",
   "slot": "Major",
-  "facts": [
-    {
-      "text": "Recharge Reduced",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-      "percent": 20
-    }
-  ],
   "skills": [
     {
       "name": "Rocket Boots",
@@ -27,7 +19,7 @@
           "text": "Recharge",
           "type": "Recharge",
           "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-          "value": 1.6
+          "value": 2
         },
         {
           "text": "Damage",
@@ -41,6 +33,27 @@
           "type": "Distance",
           "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
           "distance": 1200
+        },
+        {
+          "text": "Apply Buff/Condition",
+          "type": "Buff",
+          "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+          "status": "Crippled",
+          "description": "Movement speed decreased by 50%; stacks duration."
+        },
+        {
+          "text": "Apply Buff/Condition",
+          "type": "Buff",
+          "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+          "status": "Chilled",
+          "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration."
+        },
+        {
+          "text": "Apply Buff/Condition",
+          "type": "Buff",
+          "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+          "status": "Immobile",
+          "description": "Unable to move; stacks duration."
         },
         {
           "text": "Radius",
@@ -101,14 +114,6 @@
           "overrides": 3
         },
         {
-          "text": "Count Recharge",
-          "type": "Time",
-          "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-          "duration": 16,
-          "requires_trait": 1679,
-          "overrides": 7
-        },
-        {
           "text": "Apply Buff/Condition",
           "type": "Buff",
           "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
@@ -117,7 +122,7 @@
           "description": "Movement speed is greatly increased. Maximum duration: 10s",
           "apply_count": 1,
           "requires_trait": 1679,
-          "overrides": 8
+          "overrides": 11
         }
       ]
     },
@@ -128,7 +133,7 @@
           "text": "Recharge",
           "type": "Recharge",
           "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-          "value": 32
+          "value": 30
         },
         {
           "text": "Knockdown",
@@ -276,7 +281,7 @@
           "value": 3
         }
       ],
-      "description": "Gadget. Throw out a remote-controlled land mine that damages, knocks back, and removes a boon from nearby foes. A second mine is planted at your location.",
+      "description": "Gadget. Throw out a remote-controlled land mine that damages, knocks back, and removes a boon from nearby foes. A second mine is planted at your location after the first lands.",
       "icon": "https://render.guildwars2.com/file/0F0F28210568DB66F8539D684314FC55D8C1022C/103177.png",
       "flags": [],
       "id": 30337,
@@ -338,7 +343,7 @@
           "text": "Conditions Removed",
           "type": "Number",
           "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-          "value": 1
+          "value": 2
         }
       ],
       "description": "Gadget. Break out of stun, gaining resistance, clearing blindness, and removing damaging conditions.",
@@ -387,7 +392,7 @@
           "text": "Recharge",
           "type": "Recharge",
           "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-          "value": 4
+          "value": 5
         },
         {
           "text": "Damage",
@@ -432,13 +437,13 @@
           "text": "Count Recharge",
           "type": "Time",
           "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-          "duration": 16
+          "duration": 20
         },
         {
           "text": "Count Recharge",
           "type": "Time",
           "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-          "duration": 24
+          "duration": 30
         }
       ],
       "description": "Gadget. Launch a target foe with a concealed ram head. The ram explodes on contact, burning foes.",
@@ -459,14 +464,6 @@
           "overrides": 3
         },
         {
-          "text": "Count Recharge",
-          "type": "Time",
-          "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-          "duration": 20,
-          "requires_trait": 1679,
-          "overrides": 5
-        },
-        {
           "text": "Explosion",
           "type": "NoData",
           "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png",
@@ -483,22 +480,6 @@
           "apply_count": 1,
           "requires_trait": 1679,
           "overrides": 7
-        },
-        {
-          "text": "Count Recharge",
-          "type": "Time",
-          "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-          "duration": 16,
-          "requires_trait": 1679,
-          "overrides": 8
-        },
-        {
-          "text": "Count Recharge",
-          "type": "Time",
-          "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-          "duration": 24,
-          "requires_trait": 1679,
-          "overrides": 9
         }
       ]
     },

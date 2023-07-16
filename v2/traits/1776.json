@@ -3,15 +3,17 @@
   "tier": 1,
   "order": 0,
   "name": "Aggressive Agility",
-  "description": "Movement skills remove immobilizing conditions.",
+  "description": "Movement skills grant resistance.",
   "slot": "Major",
   "facts": [
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
-      "status": "Immobile",
-      "description": "Unable to move; stacks duration."
+      "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
+      "duration": 2,
+      "status": "Resistance",
+      "description": "Nondamaging conditions currently on you are ineffective; stacks duration.",
+      "apply_count": 1
     }
   ],
   "specialization": 15,

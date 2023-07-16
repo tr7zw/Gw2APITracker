@@ -1,0 +1,26 @@
+{
+  "name": "Special Ops Requisition: Boots",
+  "description": "Trade the necessary materials to assemble your Special Ops Boots. You only need to purchase this once from the vendor. Immediately consumed on acquisition.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 128,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 97385,
+  "chat_link": "[\u0026AgFpfAEA]",
+  "icon": "https://render.guildwars2.com/file/6763AB9F3079E5B9BF49CB441C90760DCA0AB106/2594272.png",
+  "details": {
+    "type": "Immediate"
+  }
+}

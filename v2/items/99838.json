@@ -1,0 +1,58 @@
+{
+  "name": "Candy-Packed Dragon Sword",
+  "description": "\u003cc\u003d@flavor\u003eMay the monsters you feared mean nothing more than toys to your descendants.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 11497,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99838,
+  "chat_link": "[\u0026AgH+hQEA]",
+  "icon": "https://render.guildwars2.com/file/55E71F66C56CBA04CA764A40CDFCA00D76F4013D/3073106.png",
+  "details": {
+    "type": "Sword",
+    "damage_type": "Physical",
+    "min_power": 905,
+    "max_power": 1000,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1162,
+      "buff": {
+        "skill_id": 33399
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 127
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 68
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 127
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 68
+        }
+      ]
+    }
+  }
+}

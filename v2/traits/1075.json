@@ -3,15 +3,9 @@
   "tier": 1,
   "order": 2,
   "name": "Trapper\u0027s Expertise",
-  "description": "Increase the duration of boons and conditions applied by \u003cc\u003d@abilitytype\u003etraps\u003c/c\u003e. \u003cc\u003d@abilitytype\u003eTraps\u003c/c\u003e gain reduced recharges and offensive ones cause cripple.",
+  "description": "Increase the duration of boons and conditions applied by \u003cc\u003d@abilitytype\u003etraps\u003c/c\u003e. Offensive \u003cc\u003d@abilitytype\u003etraps\u003c/c\u003e inflict cripple.",
   "slot": "Major",
   "facts": [
-    {
-      "text": "Recharge Reduced",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-      "percent": 20
-    },
     {
       "text": "Duration Increase",
       "type": "Percent",

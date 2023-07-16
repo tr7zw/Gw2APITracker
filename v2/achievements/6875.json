@@ -1,0 +1,65 @@
+{
+  "id": 6875,
+  "name": "Fury Manifest",
+  "description": "",
+  "requirement": "Acquire all items to manifest a furious weapon.",
+  "locked_text": "Purchase the associated Historical Weapon Diagram from Requisitions Specialists in Gyala Delve to unlock.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 97600
+    },
+    {
+      "type": "Item",
+      "id": 99426
+    },
+    {
+      "type": "Item",
+      "id": 99551
+    },
+    {
+      "type": "Item",
+      "id": 99408
+    },
+    {
+      "type": "Item",
+      "id": 99539
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 99414,
+      "count": 1
+    }
+  ]
+}

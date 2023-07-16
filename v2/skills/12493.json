@@ -2,67 +2,26 @@
   "name": "Storm Spirit",
   "facts": [
     {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 600
+    },
+    {
       "text": "Recharge",
       "type": "Recharge",
       "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 20
+      "value": 30
     },
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
-      "duration": 1,
-      "status": "Fury",
-      "description": "Critical chance increased; stacks duration.",
-      "apply_count": 1
+      "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+      "duration": 10,
+      "status": "Vulnerability",
+      "description": "Damage and condition damage taken are increased; stacks intensity.",
+      "apply_count": 10
     },
-    {
-      "text": "Radius",
-      "type": "Distance",
-      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-      "distance": 600
-    },
-    {
-      "text": "Number of Targets",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-      "value": 5
-    },
-    {
-      "text": "Distance",
-      "type": "Distance",
-      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "distance": 5000
-    },
-    {
-      "text": "Interval",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-      "duration": 3
-    },
-    {
-      "text": "Health Loss per Interval",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/ECAD5F2BBF2CD2D007D876007008D7D0400D080C/1770204.png",
-      "percent": 7.5
-    }
-  ],
-  "description": "Spirit. Summon a storm spirit that grants fury to nearby allies.\nSpirits lose health when granting boons to allies, and they die if the summoner moves out of range.",
-  "icon": "https://render.guildwars2.com/file/42B863334A6F66D64BC0DDD798959EEB15650F02/103993.png",
-  "type": "Utility",
-  "weapon_type": "None",
-  "professions": [
-    "Ranger"
-  ],
-  "slot": "Utility",
-  "flip_skill": 12594,
-  "flags": [],
-  "id": 12493,
-  "chat_link": "[\u0026Bs0wAAA\u003d]",
-  "categories": [
-    "Spirit"
-  ],
-  "traited_facts": [
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
@@ -70,17 +29,36 @@
       "duration": 2,
       "status": "Fury",
       "description": "Critical chance increased; stacks duration.",
-      "apply_count": 1,
-      "requires_trait": 1038,
-      "overrides": 1
+      "apply_count": 4
     },
     {
-      "text": "Health Loss per Interval",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/ECAD5F2BBF2CD2D007D876007008D7D0400D080C/1770204.png",
-      "percent": 5,
-      "requires_trait": 1038,
-      "overrides": 6
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 360
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
     }
+  ],
+  "description": "Spirit. Summon a storm spirit at a target location and apply vulnerability to nearby enemies. The spirit will slam the ground and then shake, granting boons to nearby allies.",
+  "icon": "https://render.guildwars2.com/file/42B863334A6F66D64BC0DDD798959EEB15650F02/103993.png",
+  "type": "Utility",
+  "weapon_type": "None",
+  "professions": [
+    "Ranger"
+  ],
+  "slot": "Utility",
+  "flip_skill": 12598,
+  "flags": [
+    "GroundTargeted"
+  ],
+  "id": 12493,
+  "chat_link": "[\u0026Bs0wAAA\u003d]",
+  "categories": [
+    "Spirit"
   ]
 }

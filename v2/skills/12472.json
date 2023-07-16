@@ -12,7 +12,7 @@
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 1,
-      "dmg_multiplier": 0.8
+      "dmg_multiplier": 0.9
     },
     {
       "text": "Apply Buff/Condition",
@@ -22,6 +22,12 @@
       "status": "Crippled",
       "description": "Movement speed decreased by 50%; stacks duration.",
       "apply_count": 1
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 3
     }
   ],
   "description": "Chain. Stab your foe, crippling them for a short time.",

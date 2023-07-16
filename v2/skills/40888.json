@@ -58,9 +58,15 @@
       "status": "Blinded",
       "description": "Next outgoing attack misses; stacks duration.",
       "apply_count": 1
+    },
+    {
+      "text": "Number of Allied Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
     }
   ],
-  "description": "Gain fury and blind your marked target. Gain stealth if malice is at or above the threshold.",
+  "description": "Grant fury to allies around you and blind your marked target. Gain stealth if malice is at or above the threshold.",
   "icon": "https://render.guildwars2.com/file/1DFF7D36F880D358AB020FC03CFCCF33C409C7C5/1770615.png",
   "type": "Profession",
   "weapon_type": "None",
@@ -71,5 +77,16 @@
   "flags": [],
   "specialization": 58,
   "id": 40888,
-  "chat_link": "[\u0026BrifAAA\u003d]"
+  "chat_link": "[\u0026BrifAAA\u003d]",
+  "traited_facts": [
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "requires_trait": 2136,
+      "hit_count": 1,
+      "dmg_multiplier": 2,
+      "overrides": 5
+    }
+  ]
 }

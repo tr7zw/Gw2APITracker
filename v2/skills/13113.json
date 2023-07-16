@@ -89,6 +89,14 @@
   "chat_link": "[\u0026BjkzAAA\u003d]",
   "traited_facts": [
     {
+      "text": "Healing",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "value": 907,
+      "requires_trait": 1238,
+      "target": "Healing"
+    },
+    {
       "text": "Damage",
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
@@ -96,14 +104,6 @@
       "hit_count": 1,
       "dmg_multiplier": 0.2375,
       "overrides": 2
-    },
-    {
-      "text": "Healing",
-      "type": "AttributeAdjust",
-      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-      "value": 611,
-      "requires_trait": 1238,
-      "target": "Healing"
     }
   ]
 }

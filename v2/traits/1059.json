@@ -3,9 +3,15 @@
   "tier": 3,
   "order": 0,
   "name": "Lingering Magic",
-  "description": "You and your pet gain increased concentration.",
+  "description": "You and your pet gain increased concentration. Regeneration you apply is more effective.",
   "slot": "Minor",
   "facts": [
+    {
+      "text": "Increased Regenerative Healing",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "percent": 20
+    },
     {
       "type": "AttributeAdjust",
       "icon": "https://render.guildwars2.com/file/6574560606F6BA1B32E9CF0F6C9709D1C1F2D9A6/2207782.png",

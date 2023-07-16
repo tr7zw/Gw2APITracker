@@ -47,13 +47,22 @@
       "value": 5
     },
     {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/719B80E35C276D68EF0AABB79126CF4CD42E3AF6/2261522.png",
+      "duration": 3,
+      "status": "Frost Aura",
+      "description": "Chill foes that strike you (only once per second for each attacker); incoming damage is reduced by 10%.",
+      "apply_count": 1
+    },
+    {
       "text": "Combo Field",
       "type": "ComboField",
       "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
       "field_type": "Ice"
     }
   ],
-  "description": "Coat the target area in ice, chilling foes that enter it.",
+  "description": "Coat the target area in ice, chilling foes that enter it. Grant frost aura to allies in the area.",
   "icon": "https://render.guildwars2.com/file/5EE193655A445A5E9ED31EE7121E01C0B113907E/103217.png",
   "type": "Weapon",
   "weapon_type": "Staff",

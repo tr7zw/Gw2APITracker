@@ -3,7 +3,7 @@
   "tier": 1,
   "order": 1,
   "name": "Conjurer",
-  "description": "Gain fire aura when an ally picks up a conjured weapon. \u003cc\u003d@abilitytype\u003eConjure\u003c/c\u003e weapon abilities have reduced recharge.",
+  "description": "Gain fire aura when an ally picks up a conjured weapon.",
   "slot": "Major",
   "facts": [
     {
@@ -14,12 +14,6 @@
       "status": "Fire Aura",
       "description": "Enveloped in a fiery shield that burns foes, grants might each time you are struck (1-second cooldown per attacker).",
       "apply_count": 1
-    },
-    {
-      "text": "Recharge Reduced",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-      "percent": 20
     }
   ],
   "traited_facts": [

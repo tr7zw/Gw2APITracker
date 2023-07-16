@@ -1,0 +1,37 @@
+{
+  "name": "MONSTER ONLY",
+  "type": "Weapon",
+  "level": 0,
+  "rarity": "Fine",
+  "vendor_value": 0,
+  "default_skin": 7345,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoSalvage",
+    "NoSell",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 84201,
+  "chat_link": "[\u0026AgHpSAEA]",
+  "icon": "https://render.guildwars2.com/file/62385B474214C0946734A200B766450427356EBE/1748123.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 137,
+    "max_power": 160,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 20.736,
+    "infix_upgrade": {
+      "id": 112,
+      "attributes": []
+    }
+  }
+}

@@ -30,15 +30,6 @@
       "apply_count": 1
     },
     {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-      "duration": 4,
-      "status": "Quickness",
-      "description": "Skills and actions are faster.",
-      "apply_count": 1
-    },
-    {
       "text": "Radius",
       "type": "Distance",
       "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
@@ -82,6 +73,27 @@
   "id": 40160,
   "chat_link": "[\u0026BuCcAAA\u003d]",
   "traited_facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+      "duration": 2,
+      "status": "Quickness",
+      "description": "Skills and actions are faster.",
+      "apply_count": 1,
+      "requires_trait": 2158,
+      "overrides": 3
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+      "duration": 4,
+      "status": "Quickness",
+      "description": "Skills and actions are faster.",
+      "apply_count": 1,
+      "requires_trait": 2158
+    },
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",

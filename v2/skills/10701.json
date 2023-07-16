@@ -12,7 +12,7 @@
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 1,
-      "dmg_multiplier": 0.88
+      "dmg_multiplier": 2
     },
     {
       "text": "Apply Buff/Condition",
@@ -30,13 +30,13 @@
       "value": 5
     },
     {
-      "text": "Boons Converted to Conditions",
+      "text": "Boons Removed",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "value": 2
     },
     {
-      "text": "Boons Converted to Conditions",
+      "text": "Boons Removed",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "value": 1
@@ -51,10 +51,10 @@
       "text": "Health Threshold",
       "type": "Percent",
       "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-      "percent": 25
+      "percent": 50
     }
   ],
-  "description": "Cripple nearby foes and convert their boons into conditions. Release an Unholy Burst on foes below the health threshold.",
+  "description": "Cripple nearby foes and remove their boons. Release an Unholy Burst on foes below the health threshold.",
   "icon": "https://render.guildwars2.com/file/2A1707BB93BBF8B1A414D37BBFC5CAC90105D5DF/103567.png",
   "type": "Weapon",
   "weapon_type": "Axe",

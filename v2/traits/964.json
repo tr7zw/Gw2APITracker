@@ -3,14 +3,15 @@
   "tier": 2,
   "order": 2,
   "name": "Windborne Notes",
-  "description": "Warhorn skills gain reduced recharge and grant regeneration around their target. Recover health when you gain regeneration.",
+  "description": "Grant nearby allies regeneration when you use a warhorn skill. Heal allies when you grant them regeneration.",
   "slot": "Major",
   "facts": [
     {
-      "text": "Recharge Reduced",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-      "percent": 20
+      "text": "Healing",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "value": 157,
+      "target": "Healing"
     },
     {
       "text": "Apply Buff/Condition",
@@ -29,13 +30,6 @@
       "status": "Regeneration",
       "description": "Gain health every second; stacks duration.",
       "apply_count": 1
-    },
-    {
-      "text": "Healing",
-      "type": "AttributeAdjust",
-      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-      "value": 157,
-      "target": "Healing"
     },
     {
       "text": "Radius",

@@ -24,7 +24,7 @@
       "text": "Radius",
       "type": "Distance",
       "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-      "distance": 120
+      "distance": 240
     }
   ],
   "description": "Celestial Avatar.  Call down energy onto the targeted area to heal allies.",
@@ -43,5 +43,17 @@
   "chat_link": "[\u0026BjR8AAA\u003d]",
   "categories": [
     "CelestialAvatar"
+  ],
+  "traited_facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+      "duration": 8,
+      "status": "Vulnerability",
+      "description": "Damage and condition damage taken are increased; stacks intensity.",
+      "apply_count": 1,
+      "requires_trait": 2055
+    }
   ]
 }

@@ -59,16 +59,16 @@
       "duration": 10
     },
     {
-      "text": "Count Recharge",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-      "duration": 20
+      "text": "Damage Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 50
     },
     {
       "text": "Damage Increase",
       "type": "Percent",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-      "percent": 50
+      "percent": 33
     }
   ],
   "description": "Cast a water trident that damages foes. Deal more damage to chilled foes and heal for each target struck. Heal for a lesser amount for each target struck beyond the first.",
@@ -93,14 +93,6 @@
       "duration": 8,
       "requires_trait": 1676,
       "overrides": 8
-    },
-    {
-      "text": "Count Recharge",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-      "duration": 16,
-      "requires_trait": 1676,
-      "overrides": 9
     }
   ]
 }

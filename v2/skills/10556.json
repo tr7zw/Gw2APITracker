@@ -11,7 +11,13 @@
       "text": "Recharge",
       "type": "Recharge",
       "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 30
+      "value": 24
+    },
+    {
+      "text": "Unblockable",
+      "type": "Unblockable",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": true
     },
     {
       "text": "Apply Buff/Condition",
@@ -58,7 +64,7 @@
       "description": "Involuntary retreat; unable to act; stacks duration.",
       "apply_count": 1,
       "requires_trait": 799,
-      "overrides": 2
+      "overrides": 3
     },
     {
       "text": "Bonus Defiance Break",
@@ -66,7 +72,7 @@
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "value": 150,
       "requires_trait": 799,
-      "overrides": 4
+      "overrides": 5
     }
   ]
 }

@@ -3,7 +3,7 @@
   "tier": 2,
   "order": 0,
   "name": "Tempestuous Aria",
-  "description": "Using a \u003cc\u003d@abilitytype\u003eshout\u003c/c\u003e grants allies might and inflicts enemies with weakness.",
+  "description": "Using a \u003cc\u003d@abilitytype\u003eshout\u003c/c\u003e grants allies might. Granting an aura to an ally increases your outgoing damage for a period of time.",
   "slot": "Major",
   "facts": [
     {
@@ -18,23 +18,23 @@
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
-      "duration": 3,
-      "status": "Weakness",
-      "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
+      "icon": "https://render.guildwars2.com/file/0C2A72B848A7FBB596DE6096B4C45814D3266EEB/1029946.png",
+      "duration": 5,
+      "status": "Tempestuous Aria",
+      "description": "Your damage is increased.",
       "apply_count": 1
+    },
+    {
+      "text": "Maximum Boon Duration",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "duration": 10
     },
     {
       "text": "Radius",
       "type": "Distance",
       "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
       "distance": 600
-    },
-    {
-      "text": "Number of Targets",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-      "value": 5
     },
     {
       "text": "Number of Targets",

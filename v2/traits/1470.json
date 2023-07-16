@@ -3,7 +3,7 @@
   "tier": 3,
   "order": 1,
   "name": "Vigorous Shouts",
-  "description": "\u003cc\u003d@abilitytype\u003eShout\u003c/c\u003e skills gain reduced recharge and heal allies. Gain healing power based on your power.",
+  "description": "\u003cc\u003d@abilitytype\u003eShout\u003c/c\u003e skills heal allies. Gain healing power based on your power.",
   "slot": "Major",
   "facts": [
     {
@@ -26,12 +26,6 @@
       "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
       "value": 1000,
       "target": "Healing"
-    },
-    {
-      "text": "Recharge Reduced",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-      "percent": 20
     },
     {
       "text": "Radius",

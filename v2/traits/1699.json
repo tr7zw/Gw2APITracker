@@ -3,7 +3,7 @@
   "tier": 3,
   "order": 1,
   "name": "Wilderness Knowledge",
-  "description": "\u003cc\u003d@abilitytype\u003eSurvival\u003c/c\u003e skills gain reduced recharge, grant fury, and remove conditions.",
+  "description": "\u003cc\u003d@abilitytype\u003eSurvival\u003c/c\u003e skills grant fury and remove conditions.",
   "slot": "Major",
   "facts": [
     {
@@ -29,12 +29,6 @@
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "value": 2
-    },
-    {
-      "text": "Recharge Reduced",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-      "percent": 20
     }
   ],
   "specialization": 33,

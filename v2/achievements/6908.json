@@ -1,0 +1,55 @@
+{
+  "id": 6908,
+  "name": "Special Ops Basic Course 2",
+  "description": "",
+  "requirement": "Complete the assigned tasks to acquire the Special Ops Glove Locker.",
+  "locked_text": "Learn all you can from Captain Wing Jun in Gyala Delve to unlock.",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 99664
+    },
+    {
+      "type": "Item",
+      "id": 99658
+    },
+    {
+      "type": "Item",
+      "id": 99703
+    },
+    {
+      "type": "Item",
+      "id": 99754
+    },
+    {
+      "type": "Item",
+      "id": 99686
+    },
+    {
+      "type": "Item",
+      "id": 99557
+    }
+  ],
+  "tiers": [
+    {
+      "count": 6,
+      "points": 2
+    }
+  ],
+  "prerequisites": [
+    6904
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 99747,
+      "count": 1
+    }
+  ]
+}

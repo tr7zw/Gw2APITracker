@@ -3,39 +3,44 @@
   "tier": 3,
   "order": 2,
   "name": "Shadestep",
-  "description": "\u003cc\u003d@abilitytype\u003eSiphon\u003c/c\u003e now grants you barrier when targeting enemies, and it revives allies when targeting them. Shadowstepping breaks your barrier and grants it to nearby allies, proportional to the number of allies affected.",
+  "description": "The beneficial effects of your Shadow Shroud skills now affect allies in an area around your tethered ally. Grant additional boons to yourself and affected allies when you use a shadow shroud skill.",
   "slot": "Major",
   "facts": [
-    {
-      "text": "Revive Percentage",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "percent": 33
-    },
-    {
-      "text": "Revive Percentage",
-      "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "percent": 15
-    },
-    {
-      "text": "Barrier",
-      "type": "AttributeAdjust",
-      "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
-      "value": 1980,
-      "target": "Healing"
-    },
     {
       "text": "Radius",
       "type": "Distance",
       "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-      "distance": 240
+      "distance": 360
     },
     {
       "text": "Number of Allied Targets",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
       "value": 5
+    },
+    {
+      "text": "Additional Allies Affected",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 3
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
+      "duration": 2,
+      "status": "Alacrity",
+      "description": "Skills recharge faster.",
+      "apply_count": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+      "duration": 2,
+      "status": "Protection",
+      "description": "Incoming strike damage decreased by 33%; stacks duration.",
+      "apply_count": 1
     }
   ],
   "specialization": 71,

@@ -3,7 +3,7 @@
   "tier": 3,
   "order": 1,
   "name": "Lingering Light",
-  "description": "While in celestial avatar form, your healing of others is significantly increased. A lesser bonus to outgoing healing lingers for a duration after exiting celestial avatar.",
+  "description": "While in Celestial Avatar form, your healing of others is significantly increased. Healing another player with a Celestial Avatar skill reduces the cooldown of Celestial Avatar. \u003cbr\u003e\u003cc\u003d@reminder\u003eCooldown can only be reduced once per outgoing heal and will occur even if the affected player is at full health.\u003c/c\u003e",
   "slot": "Major",
   "facts": [
     {
@@ -16,10 +16,22 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/01BBD8CADBC6E9BBED46A2D9026976316CA8EAD9/1128537.png",
-      "duration": 10,
+      "duration": 0,
       "status": "Lingering Light",
-      "description": "Outgoing healing is increased.",
+      "description": "Reduces the cooldown of Celestial Avatar when exiting.",
       "apply_count": 1
+    },
+    {
+      "text": "Recharge Time Reduced",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+      "duration": 1
+    },
+    {
+      "text": "Recharge Time Reduced",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+      "duration": 1
     }
   ],
   "specialization": 5,
