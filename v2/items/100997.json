@@ -1,0 +1,30 @@
+{
+  "name": "Fractal Rush Trophy",
+  "description": "This item will automatically transfer to the Consortium\u0027s vaults, granting you Fractal Rush achievement progress and a small amount of karma.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "BulkConsume",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 100997,
+  "chat_link": "[\u0026AgGFigEA]",
+  "icon": "https://render.guildwars2.com/file/31630397E8323ABED8FF9114133FCFC30C497C15/2338699.png",
+  "details": {
+    "type": "Immediate"
+  }
+}

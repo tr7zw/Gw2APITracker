@@ -1,0 +1,54 @@
+{
+  "id": 7210,
+  "icon": "https://render.guildwars2.com/file/3FB1AE472DF109D022146F26B0F420140BFC26FE/1824200.png",
+  "name": "Jotun Skypiercer",
+  "description": "",
+  "requirement": "Learn more about the Bastion of the Celestial and the jotun to acquire a powerful and ancient weapon.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 100279
+    },
+    {
+      "type": "Item",
+      "id": 100922
+    },
+    {
+      "type": "Item",
+      "id": 100155
+    },
+    {
+      "type": "Item",
+      "id": 100423
+    },
+    {
+      "type": "Item",
+      "id": 100735
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 100205,
+      "count": 1
+    }
+  ]
+}

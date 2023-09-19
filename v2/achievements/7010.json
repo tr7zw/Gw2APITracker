@@ -1,0 +1,29 @@
+{
+  "id": 7010,
+  "name": "Tower of Secrets",
+  "description": "Journal: Tower of Secrets",
+  "requirement": "Help the wizards and the Astral Ward take back their tower.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 100357,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Unknown",
+      "id": 697
+    }
+  ]
+}

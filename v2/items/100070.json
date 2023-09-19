@@ -1,0 +1,58 @@
+{
+  "name": "Gluttony\u0027s Platter",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 330,
+  "default_skin": 11706,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 100070,
+  "chat_link": "[\u0026AgHmhgEA]",
+  "icon": "https://render.guildwars2.com/file/7E049F45439B262CD027904302DCFBDC30E501BC/3122784.png",
+  "details": {
+    "type": "Shield",
+    "damage_type": "Physical",
+    "min_power": 846,
+    "max_power": 954,
+    "defense": 64,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "infix_upgrade": {
+      "id": 1111,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 108
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 108
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 59
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 59
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Iron Ring",
+  "description": "",
+  "type": "Trinket",
+  "level": 17,
+  "rarity": "Masterwork",
+  "vendor_value": 63,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "SoulbindOnAcquire",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 64133,
+  "chat_link": "[\u0026AgGF+gAA]",
+  "icon": "https://render.guildwars2.com/file/16B2A4F155EB737271041C79124F2BDC537300D2/63603.png",
+  "details": {
+    "type": "Ring",
+    "infusion_slots": [],
+    "attribute_adjustment": 30.141,
+    "infix_upgrade": {
+      "id": 140,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 11
+        }
+      ]
+    },
+    "suffix_item_id": 24466
+  }
+}

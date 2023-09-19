@@ -1,0 +1,36 @@
+{
+  "id": 6962,
+  "name": "Zojja\u0027s Journal: Skyward Marches",
+  "description": "",
+  "requirement": "Collect all of Zojja\u0027s journal pages in the Skyward Marches fractal.",
+  "locked_text": "Unlock by starting the Zojja\u0027s Journal collection.",
+  "type": "Default",
+  "flags": [
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Restore purpose to the Zaishen of Skyward Marches."
+    },
+    {
+      "type": "Text",
+      "text": "Page Location: Skyward Marches, at the ward\u0027s western camp."
+    },
+    {
+      "type": "Text",
+      "text": "Page Location: Skyward Marches, where a cliff overlooks good and evil."
+    },
+    {
+      "type": "Text",
+      "text": "Page Location: Skyward Marches, atop a village building caressed by the wind."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 4,
+      "points": 1
+    }
+  ]
+}

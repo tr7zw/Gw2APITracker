@@ -1,0 +1,31 @@
+{
+  "id": 7452,
+  "name": "Astral Gofer",
+  "description": "Journal: Astral Gofer",
+  "requirement": "Complete the optional tasks for your allies.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Find astral navigational charts for Zojja."
+    },
+    {
+      "type": "Text",
+      "text": "Help R\u0027tchikk locate dangerous artifacts around the tower."
+    },
+    {
+      "type": "Text",
+      "text": "Help Frode clear the last of the Kryptis from the Wizard\u0027s Tower."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 1
+    }
+  ]
+}

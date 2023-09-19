@@ -1,0 +1,36 @@
+{
+  "id": 7103,
+  "name": "Zojja\u0027s Journal: Droknar\u0027s Light",
+  "description": "",
+  "requirement": "Collect all of Zojja\u0027s journal pages in the Droknar\u0027s Light fractal.",
+  "locked_text": "Unlock by starting the Zojja\u0027s Journal collection.",
+  "type": "Default",
+  "flags": [
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Defend Droknar\u0027s Light from the Kryptis invasion."
+    },
+    {
+      "type": "Text",
+      "text": "Page Location: Droknar\u0027s Light, atop a table worn by winter\u0027s bite."
+    },
+    {
+      "type": "Text",
+      "text": "Page Location: Droknar\u0027s Light, where prophecy was guided by flame."
+    },
+    {
+      "type": "Text",
+      "text": "Page Location: Droknar\u0027s Light, near a forge adorned with weapons of old."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 4,
+      "points": 1
+    }
+  ]
+}

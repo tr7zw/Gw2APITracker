@@ -1,0 +1,26 @@
+{
+  "name": "Dwarven Relic",
+  "description": "This item only has value as part of a collection.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "AccountBindOnUse",
+    "DeleteWarning"
+  ],
+  "restrictions": [],
+  "id": 100277,
+  "chat_link": "[\u0026AgG1hwEA]",
+  "icon": "https://render.guildwars2.com/file/3C2B96DFB1252A04F1DB970ADDE892D8A6EB32DE/3122060.png",
+  "details": {
+    "type": "Immediate"
+  }
+}

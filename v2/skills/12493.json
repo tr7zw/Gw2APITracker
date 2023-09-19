@@ -11,7 +11,7 @@
       "text": "Recharge",
       "type": "Recharge",
       "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 30
+      "value": 20
     },
     {
       "text": "Apply Buff/Condition",
@@ -21,6 +21,15 @@
       "status": "Vulnerability",
       "description": "Damage and condition damage taken are increased; stacks intensity.",
       "apply_count": 10
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+      "duration": 2,
+      "status": "Fury",
+      "description": "Critical chance increased; stacks duration.",
+      "apply_count": 4
     },
     {
       "text": "Apply Buff/Condition",

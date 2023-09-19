@@ -1,0 +1,36 @@
+{
+  "id": 6989,
+  "name": "Zojja\u0027s Journal: Devastated Garenhoff",
+  "description": "",
+  "requirement": "Collect all of Zojja\u0027s journal pages in the Devastated Garenhoff fractal.",
+  "locked_text": "Unlock by starting the Zojja\u0027s Journal collection.",
+  "type": "Default",
+  "flags": [
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Help the villagers in Devastated Garenhoff."
+    },
+    {
+      "type": "Text",
+      "text": "Page Location: Devastated Garenhoff, resting near docks."
+    },
+    {
+      "type": "Text",
+      "text": "Page Location: Devastated Garenhoff, where the Arcane Eye watches all."
+    },
+    {
+      "type": "Text",
+      "text": "Page Location: Devastated Garenhoff, where a proud tree stands vigilant."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 4,
+      "points": 1
+    }
+  ]
+}

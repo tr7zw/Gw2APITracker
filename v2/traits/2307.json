@@ -3,18 +3,9 @@
   "tier": 3,
   "order": 2,
   "name": "Eternal Champion",
-  "description": "Gain toughness while in berserk mode. Gain stability and might when breaking stuns.",
+  "description": "Gain stability and endurance when entering berserk mode. Traits that trigger when entering berserk mode also trigger when exiting berserk mode. You can now exit berserk mode early.",
   "slot": "Major",
   "facts": [
-    {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-      "duration": 8,
-      "status": "Might",
-      "description": "Increased outgoing damage; stacks intensity.",
-      "apply_count": 3
-    },
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
@@ -22,13 +13,13 @@
       "duration": 3,
       "status": "Stability",
       "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
-      "apply_count": 1
+      "apply_count": 2
     },
     {
-      "type": "AttributeAdjust",
-      "icon": "https://render.guildwars2.com/file/432C0F04F740C1377E6D5D56640B57083C031216/2229324.png",
-      "value": 300,
-      "target": "Toughness"
+      "text": "Endurance Gained",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 20
     }
   ],
   "specialization": 18,

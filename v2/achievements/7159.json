@@ -1,0 +1,54 @@
+{
+  "id": 7159,
+  "name": "Protector of Jade Mech Habitation Zone 03",
+  "description": "Elora would be pleased.",
+  "requirement": "Successfully complete events around Jade Mech Habitation Zone 03.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Stop the Naga Raiding Party"
+    },
+    {
+      "type": "Text",
+      "text": "Escort Rescue Party"
+    },
+    {
+      "type": "Text",
+      "text": "Defeat the Minisitry of Transit Boss"
+    },
+    {
+      "type": "Text",
+      "text": "Emergency Broadcast Stations"
+    },
+    {
+      "type": "Text",
+      "text": "Help the Astral Ward Destroy Tainted Artifacts"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Unknown",
+      "id": 709
+    }
+  ]
+}

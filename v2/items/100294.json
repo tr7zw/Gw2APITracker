@@ -1,0 +1,46 @@
+{
+  "name": "Rift Hunter Light Boots",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 11740,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 100294,
+  "chat_link": "[\u0026AgHGhwEA]",
+  "icon": "https://render.guildwars2.com/file/3F75D3DB0A1D211B4A07D9A6CD7FE2F729805DFB/3123837.png",
+  "details": {
+    "type": "Boots",
+    "weight_class": "Light",
+    "defense": 133,
+    "infusion_slots": [],
+    "attribute_adjustment": 128.04,
+    "infix_upgrade": {
+      "id": 157,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 45
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 32
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 32
+        }
+      ]
+    }
+  }
+}

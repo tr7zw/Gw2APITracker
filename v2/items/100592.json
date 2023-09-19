@@ -1,0 +1,46 @@
+{
+  "name": "Rift Hunter Heavy Coat",
+  "type": "Armor",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 11586,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 100592,
+  "chat_link": "[\u0026AgHwiAEA]",
+  "icon": "https://render.guildwars2.com/file/2C69DA07423FADB62FE144515176B7261ACE185E/3123838.png",
+  "details": {
+    "type": "Coat",
+    "weight_class": "Heavy",
+    "defense": 363,
+    "infusion_slots": [],
+    "attribute_adjustment": 384.12,
+    "infix_upgrade": {
+      "id": 157,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 134
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 96
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 96
+        }
+      ]
+    }
+  }
+}

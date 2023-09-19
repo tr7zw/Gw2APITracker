@@ -1,0 +1,81 @@
+{
+  "id": 6965,
+  "name": "Secrets Obscured",
+  "description": "Isgarren doesn\u0027t call on aid lightly. Perhaps you\u0027re getting through to him...?",
+  "requirement": "Retrieve the scattered wizard relics around Tyria.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 100334
+    },
+    {
+      "type": "Item",
+      "id": 100689
+    },
+    {
+      "type": "Item",
+      "id": 100508
+    },
+    {
+      "type": "Item",
+      "id": 100239
+    },
+    {
+      "type": "Item",
+      "id": 100523
+    },
+    {
+      "type": "Item",
+      "id": 100731
+    },
+    {
+      "type": "Item",
+      "id": 100410
+    },
+    {
+      "type": "Item",
+      "id": 100276
+    },
+    {
+      "type": "Item",
+      "id": 100637
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 9,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    7172
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 100939,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Unknown",
+      "id": 721
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "id": 7053,
+  "name": "Illuminating Amnytas",
+  "description": "In the darkest depths of night, unite the stars and bring forth the light.",
+  "requirement": "Transfer power to  lanterns at points of interest in Amnytas. These lanterns will only appear after 100% map exploration.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Repeatable",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Bastion of Balance Waypoint"
+    },
+    {
+      "type": "Text",
+      "text": "Bastion of Knowledge Waypoint"
+    },
+    {
+      "type": "Text",
+      "text": "Bastion of Strength Waypoint"
+    },
+    {
+      "type": "Text",
+      "text": "Bastion of the Celestial Waypoint"
+    },
+    {
+      "type": "Text",
+      "text": "Bastion of the Natural Waypoint"
+    },
+    {
+      "type": "Text",
+      "text": "Bastion of the Obscure Waypoint"
+    },
+    {
+      "type": "Text",
+      "text": "Spire\u0027s Heart"
+    },
+    {
+      "type": "Text",
+      "text": "Celestial Control Ring"
+    },
+    {
+      "type": "Text",
+      "text": "Cosmic Theater Ring"
+    },
+    {
+      "type": "Text",
+      "text": "Astronomic Nexus Ring"
+    },
+    {
+      "type": "Text",
+      "text": "Empyreal Observation Ring"
+    },
+    {
+      "type": "Text",
+      "text": "Cartography Chamber"
+    },
+    {
+      "type": "Text",
+      "text": "Natatorium Obscurus"
+    },
+    {
+      "type": "Text",
+      "text": "The Riftworks"
+    },
+    {
+      "type": "Text",
+      "text": "Contretemps"
+    },
+    {
+      "type": "Text",
+      "text": "Relic Repository"
+    },
+    {
+      "type": "Text",
+      "text": "Spiritual Center"
+    },
+    {
+      "type": "Text",
+      "text": "Akeem\u0027s Tower"
+    },
+    {
+      "type": "Text",
+      "text": "Great Debate Hall"
+    },
+    {
+      "type": "Text",
+      "text": "Equilibrium Glade"
+    },
+    {
+      "type": "Text",
+      "text": "Dubious Islet"
+    },
+    {
+      "type": "Text",
+      "text": "Vass Memorial Medical Plaza"
+    },
+    {
+      "type": "Text",
+      "text": "Thaumaturgy Park"
+    },
+    {
+      "type": "Text",
+      "text": "Lyhr\u0027s Tower"
+    },
+    {
+      "type": "Text",
+      "text": "Crystalpool"
+    },
+    {
+      "type": "Text",
+      "text": "Might\u0027s Brink Thicket"
+    },
+    {
+      "type": "Text",
+      "text": "Defensive Operations Camp"
+    },
+    {
+      "type": "Text",
+      "text": "Kryptis Front Line"
+    },
+    {
+      "type": "Text",
+      "text": "Courtyard of Gathering Strength"
+    },
+    {
+      "type": "Text",
+      "text": "Spellcrafting Workshop"
+    },
+    {
+      "type": "Text",
+      "text": "Circle of Rituals"
+    },
+    {
+      "type": "Text",
+      "text": "Astral Ward Training Grounds"
+    },
+    {
+      "type": "Text",
+      "text": "Mabon\u0027s Tower"
+    },
+    {
+      "type": "Text",
+      "text": "Erudition Arcade"
+    },
+    {
+      "type": "Text",
+      "text": "Grand Library of Amnytas"
+    },
+    {
+      "type": "Text",
+      "text": "Museum of Curiosities: Hall of Giants"
+    },
+    {
+      "type": "Text",
+      "text": "Museum of Curiosities: Main Gallery"
+    },
+    {
+      "type": "Text",
+      "text": "Pool of Reflection"
+    },
+    {
+      "type": "Text",
+      "text": "Cellar of Arcana"
+    },
+    {
+      "type": "Text",
+      "text": "Isgarren\u0027s Tower"
+    },
+    {
+      "type": "Text",
+      "text": "Creature Corral"
+    },
+    {
+      "type": "Text",
+      "text": "The Underways"
+    },
+    {
+      "type": "Text",
+      "text": "Botanical Skygarden"
+    },
+    {
+      "type": "Text",
+      "text": "The Infirmary"
+    },
+    {
+      "type": "Text",
+      "text": "Bastionmere"
+    },
+    {
+      "type": "Text",
+      "text": "Nature\u0027s Shore Meditation Circle"
+    },
+    {
+      "type": "Text",
+      "text": "Overmere Meditation Circle"
+    },
+    {
+      "type": "Text",
+      "text": "The Veranda"
+    },
+    {
+      "type": "Text",
+      "text": "Concocter\u0027s Lab"
+    },
+    {
+      "type": "Text",
+      "text": "Vass\u0027s Tower"
+    },
+    {
+      "type": "Text",
+      "text": "The Sea of Clouds"
+    },
+    {
+      "type": "Text",
+      "text": "Island of Cognizance"
+    },
+    {
+      "type": "Text",
+      "text": "Gloaming Isle"
+    },
+    {
+      "type": "Text",
+      "text": "Lonesome Steeple"
+    },
+    {
+      "type": "Text",
+      "text": "Spireshadow Lagoon"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 55,
+      "points": 2
+    }
+  ],
+  "point_cap": 2,
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 100159,
+      "count": 1
+    }
+  ]
+}

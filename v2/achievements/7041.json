@@ -1,0 +1,52 @@
+{
+  "id": 7041,
+  "name": "Honorary Astral Ward",
+  "description": "",
+  "requirement": "Prove your dedication to the Astral Ward.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 100308
+    },
+    {
+      "type": "Item",
+      "id": 100295
+    },
+    {
+      "type": "Item",
+      "id": 100205
+    },
+    {
+      "type": "Item",
+      "id": 100669
+    },
+    {
+      "type": "Item",
+      "id": 100920
+    },
+    {
+      "type": "Item",
+      "id": 100342
+    }
+  ],
+  "tiers": [
+    {
+      "count": 6,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 100851,
+      "count": 1
+    }
+  ]
+}

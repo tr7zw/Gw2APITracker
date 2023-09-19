@@ -1,0 +1,75 @@
+{
+  "id": 7241,
+  "name": "Eternal Protector of the Beacon of Ages and Garenhoff",
+  "description": "Congratulations! You\u0027re the mayor of Garenhoff now.",
+  "requirement": "Successfully complete events around the Beacon of Ages and Garenhoff.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Repeatable",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Calm Agitated Skyscales at the Beacon of Ages"
+    },
+    {
+      "type": "Text",
+      "text": "Find Garenhoff Villagers"
+    },
+    {
+      "type": "Text",
+      "text": "Defend Garenhoff Villager"
+    },
+    {
+      "type": "Text",
+      "text": "Escort Garenhoff Villager"
+    },
+    {
+      "type": "Text",
+      "text": "Help Garenhoff Villager Kill a Boss"
+    },
+    {
+      "type": "Text",
+      "text": "Escort People with the Bait for the Hunt"
+    },
+    {
+      "type": "Text",
+      "text": "Defeat the Boss for the Hunt"
+    },
+    {
+      "type": "Text",
+      "text": "Make Baits for the Hunt"
+    },
+    {
+      "type": "Text",
+      "text": "Repair Magical Barriers at the Beacon of Ages"
+    },
+    {
+      "type": "Text",
+      "text": "Kill the Champion Elemental"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    7081
+  ],
+  "point_cap": 2
+}

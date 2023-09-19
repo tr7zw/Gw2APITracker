@@ -1,0 +1,60 @@
+{
+  "id": 7083,
+  "name": "Zojja\u0027s Journal",
+  "description": "",
+  "requirement": "Collect all of Zojja\u0027s journal pages in Skywatch Archipelago.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Speak to Zojja at the Wizard\u0027s Tower."
+    },
+    {
+      "type": "Text",
+      "text": "Complete the Zojja\u0027s Journal: Devastated Garenhoff achievement."
+    },
+    {
+      "type": "Text",
+      "text": "Complete the Zojja\u0027s Journal: Skyward Marches achievement."
+    },
+    {
+      "type": "Text",
+      "text": "Complete the Zojja\u0027s Journal: Droknar\u0027s Light achievement."
+    },
+    {
+      "type": "Text",
+      "text": "Complete the Zojja\u0027s Journal: Jade Mech Habitation Zone 03 achievement."
+    },
+    {
+      "type": "Text",
+      "text": "Complete the Zojja\u0027s Journal: Primal Maguuma achievement."
+    },
+    {
+      "type": "Text",
+      "text": "Complete the Zojja\u0027s Journal: Rata Novus Promenade achievement."
+    },
+    {
+      "type": "Text",
+      "text": "Return to Zojja after collecting all of the journal pages."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 8,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 100760,
+      "count": 1
+    }
+  ]
+}

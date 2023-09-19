@@ -1,0 +1,50 @@
+{
+  "name": "Sun-Grown Dagger",
+  "description": "\u003cc\u003d@flavor\u003e\"Warmed by the sky above; nourished by the sea below. Grow strong in its radiance.\"\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 11566,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99915,
+  "chat_link": "[\u0026AgFLhgEA]",
+  "icon": "https://render.guildwars2.com/file/51CD0A0C1233D9620D13603AE34931DB21B8A143/3106145.png",
+  "details": {
+    "type": "Dagger",
+    "damage_type": "Physical",
+    "min_power": 924,
+    "max_power": 981,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 799,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 120
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 85
+        }
+      ]
+    }
+  }
+}

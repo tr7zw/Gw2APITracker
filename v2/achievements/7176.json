@@ -1,0 +1,42 @@
+{
+  "id": 7176,
+  "name": "Cultivate Celestial",
+  "description": "Waiting Sorrow looked to Dagda with sad eyes. Knowing the cosmos, a dream, but with that knowledge comes a certain...despair.",
+  "requirement": "Successfully complete events in the Bastion of the Celestial.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Help Dagda get the celestial pylons operational."
+    },
+    {
+      "type": "Text",
+      "text": "Defend Dagda while she recalibrates mirrors around the Bastion of the Celestial."
+    },
+    {
+      "type": "Text",
+      "text": "Help Dagda restore functionality to the control room."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Unknown",
+      "id": 679
+    }
+  ]
+}

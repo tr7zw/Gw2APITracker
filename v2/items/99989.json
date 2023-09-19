@@ -1,0 +1,28 @@
+{
+  "name": "Permanent Crafting Station Contract",
+  "description": "Double-click to bind this item to your account. Allows summoning of the crafting station of your choice. Requires 4 minutes to recharge.",
+  "type": "Container",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning"
+  ],
+  "restrictions": [],
+  "id": 99989,
+  "chat_link": "[\u0026AgGVhgEA]",
+  "icon": "https://render.guildwars2.com/file/297016ABEE19531ECC5FB30A193606E7DE7AB468/582349.png",
+  "details": {
+    "type": "Default"
+  }
+}

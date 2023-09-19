@@ -1,0 +1,50 @@
+{
+  "name": "Sun-Grown Staff",
+  "description": "\u003cc\u003d@flavor\u003e\"Warmed by the sky above; nourished by the sea below. Grow strong in its radiance.\"\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 11549,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99923,
+  "chat_link": "[\u0026AgFThgEA]",
+  "icon": "https://render.guildwars2.com/file/E6D8011A5409D5402AD6C705DA804FD598039D23/3106272.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 985,
+    "max_power": 1111,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 799,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 239
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 171
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 171
+        }
+      ]
+    }
+  }
+}

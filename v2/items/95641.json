@@ -1,9 +1,10 @@
 {
-  "name": "Lingering Mordrem Aether",
-  "type": "Consumable",
+  "name": "[[1087037]]",
+  "description": "This kit contains an account-bound precursor weapon, a Gift of Might or a Gift of Magic, and a themed legendary gift.",
+  "type": "Container",
   "level": 80,
   "rarity": "Exotic",
-  "vendor_value": 132,
+  "vendor_value": 264,
   "game_types": [
     "PvpLobby",
     "Activity",
@@ -12,18 +13,17 @@
     "Pve"
   ],
   "flags": [
-    "HideSuffix",
     "AccountBound",
+    "NoMysticForge",
     "NoSalvage",
     "NoSell",
-    "DeleteWarning",
     "AccountBindOnUse"
   ],
   "restrictions": [],
   "id": 95641,
   "chat_link": "[\u0026AgGZdQEA]",
-  "icon": "https://render.guildwars2.com/file/0C98945EA909F9C3B6BD7EE459C4D6E504EC3156/2595202.png",
+  "icon": "https://render.guildwars2.com/file/B12D41A5A67EAA554108FC6D20C9BE697EF77E1A/3122159.png",
   "details": {
-    "type": "Immediate"
+    "type": "Default"
   }
 }

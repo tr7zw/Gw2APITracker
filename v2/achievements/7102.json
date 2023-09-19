@@ -1,0 +1,32 @@
+{
+  "id": 7102,
+  "name": "Tentacle Toppler",
+  "description": "I\u0027m not touching that thing.",
+  "requirement": "Successfully participate in Tentacle Rift Closing events.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 1
+    },
+    {
+      "count": 15,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Unknown",
+      "id": 674
+    }
+  ]
+}

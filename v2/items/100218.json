@@ -1,0 +1,54 @@
+{
+  "name": "Rabid Skyscale Warhorn",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 330,
+  "default_skin": 11635,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 100218,
+  "chat_link": "[\u0026AgF6hwEA]",
+  "icon": "https://render.guildwars2.com/file/09EA0943EF370B50EC3293CE2A662F7B50A22316/3123636.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 855,
+    "max_power": 945,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 90
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 90
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 125
+        }
+      ]
+    }
+  }
+}

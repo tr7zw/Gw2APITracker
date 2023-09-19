@@ -1,0 +1,36 @@
+{
+  "id": 7199,
+  "name": "Zojja\u0027s Journal: Rata Novus Promenade",
+  "description": "",
+  "requirement": "Collect all of Zojja\u0027s journal pages in the Rata Novus Promenade fractal.",
+  "locked_text": "Unlock by starting the Zojja\u0027s Journal collection.",
+  "type": "Default",
+  "flags": [
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Help the people of Rata Novus."
+    },
+    {
+      "type": "Text",
+      "text": "Page Location: Rata Novus Promenade, overlooking an insectoid colony."
+    },
+    {
+      "type": "Text",
+      "text": "Page Location: Rata Novus Promenade, in a room surrounded by four pillars of crystal."
+    },
+    {
+      "type": "Text",
+      "text": "Page Location: Rata Novus Promenade, on an alcove overlooking lightning\u0027s wrath."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 4,
+      "points": 1
+    }
+  ]
+}

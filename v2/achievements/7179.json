@@ -1,0 +1,55 @@
+{
+  "id": 7179,
+  "name": "Eternal Protector of Jade Mech Habitation Zone 03",
+  "description": "",
+  "requirement": "Successfully complete events around Jade Mech Habitation Zone 03.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Repeatable",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Stop the Naga Raiding Party"
+    },
+    {
+      "type": "Text",
+      "text": "Escort Rescue Party"
+    },
+    {
+      "type": "Text",
+      "text": "Defeat the Ministry of Transit Boss"
+    },
+    {
+      "type": "Text",
+      "text": "Emergency Broadcast Stations"
+    },
+    {
+      "type": "Text",
+      "text": "Help the Astral Ward Destroy Tainted Artifacts"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    7159
+  ],
+  "point_cap": 2
+}

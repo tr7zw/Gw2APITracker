@@ -1,0 +1,29 @@
+{
+  "name": "Recipe: Rare Kryptis Motivation",
+  "description": "Creates a motivation that allows tracking tier 3 Kryptis rifts and draws more essence on their closure.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 64,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 100969,
+  "chat_link": "[\u0026AgFpigEA]",
+  "icon": "https://render.guildwars2.com/file/F15E956756D80F3A40A2E3CB39035F3077FEBE52/849412.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "CraftingRecipe",
+    "recipe_id": 14018
+  }
+}

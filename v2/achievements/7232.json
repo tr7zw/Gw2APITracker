@@ -1,0 +1,69 @@
+{
+  "id": 7232,
+  "icon": "https://render.guildwars2.com/file/3FB1AE472DF109D022146F26B0F420140BFC26FE/1824200.png",
+  "name": "Strength of the Unseen",
+  "description": "",
+  "requirement": "Learn more about Mabon\u0027s past and his impact on the Astral Ward.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 100226
+    },
+    {
+      "type": "Item",
+      "id": 100811
+    },
+    {
+      "type": "Item",
+      "id": 100748
+    },
+    {
+      "type": "Item",
+      "id": 100750
+    },
+    {
+      "type": "Item",
+      "id": 100093
+    },
+    {
+      "type": "Item",
+      "id": 100774
+    },
+    {
+      "type": "Item",
+      "id": 100017
+    },
+    {
+      "type": "Item",
+      "id": 100168
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 8,
+      "points": 2
+    }
+  ],
+  "prerequisites": [
+    7089
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 100295,
+      "count": 1
+    }
+  ]
+}

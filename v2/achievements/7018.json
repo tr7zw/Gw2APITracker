@@ -1,0 +1,83 @@
+{
+  "id": 7018,
+  "name": "A New Look",
+  "description": "",
+  "requirement": "Help Skyscale Trainer Dyanne investigate what\u0027s happening to your skyscale mount.",
+  "locked_text": "Unlocks one hour after completing A New Friend.",
+  "type": "Default",
+  "flags": [
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Talk to Skyscale Trainer Dyanne at the Beacon of Ages."
+    },
+    {
+      "type": "Text",
+      "text": "Purchase the analytical charm from Lyhr in the Wizard\u0027s Tower."
+    },
+    {
+      "type": "Text",
+      "text": "Complete the Skyscale Target Practice adventure."
+    },
+    {
+      "type": "Text",
+      "text": "Defeat 20 Kryptis turrets with your skyscale\u0027s Fireball."
+    },
+    {
+      "type": "Text",
+      "text": "Spend 30 continuous seconds being carried by a ley line while mounted on your skyscale."
+    },
+    {
+      "type": "Text",
+      "text": "Bring the collected data back to Skyscale Trainer Dyanne at the Beacon of Ages."
+    },
+    {
+      "type": "Text",
+      "text": "Purchase an anodized medicinal cauldron from Lyhr."
+    },
+    {
+      "type": "Text",
+      "text": "Collect a sample of possession from the Cosmic Observatory Strike Mission, or purchase a sample from Lyhr in the Wizard\u0027s Tower."
+    },
+    {
+      "type": "Text",
+      "text": "Collect a sample of corruption from the Temple of Febe Strike Mission, or purchase a sample from Lyhr in the Wizard\u0027s Tower."
+    },
+    {
+      "type": "Text",
+      "text": "Complete Skyscale Medicine Masker."
+    },
+    {
+      "type": "Text",
+      "text": "Bring the collected medical supplies back to Skyscale Trainer Dyanne at the Beacon of Ages."
+    },
+    {
+      "type": "Text",
+      "text": "Administer the medicine to the skyscale and consult Dyanne."
+    },
+    {
+      "type": "Text",
+      "text": "Complete Arcane Osmogrifier."
+    },
+    {
+      "type": "Text",
+      "text": "Use the arcane osmogrifier with the Heart of the Obscure on the sick skyscale near Skyscale Trainer Dyanne."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 14,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 100245,
+      "count": 1
+    }
+  ]
+}

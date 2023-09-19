@@ -1,0 +1,54 @@
+{
+  "id": 6964,
+  "name": "Kryptis Generals",
+  "description": "",
+  "requirement": "Kill champion-level Kryptis avatars.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Kill a champion Avatar of Rage."
+    },
+    {
+      "type": "Text",
+      "text": "Kill a champion Avatar of Gluttony."
+    },
+    {
+      "type": "Text",
+      "text": "Kill a champion Avatar of Regret."
+    },
+    {
+      "type": "Text",
+      "text": "Kill a champion Avatar of Despair."
+    },
+    {
+      "type": "Text",
+      "text": "Kill a champion Avatar of Envy."
+    },
+    {
+      "type": "Text",
+      "text": "Kill a champion Avatar of Malice."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Unknown",
+      "id": 718
+    }
+  ]
+}

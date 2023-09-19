@@ -1,0 +1,96 @@
+{
+  "id": 7037,
+  "name": "The Waylit Lantern",
+  "description": "",
+  "requirement": "Help Lyhr reclaim a lost relic.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Speak to Lyhr in the Wizard\u0027s Tower."
+    },
+    {
+      "type": "Text",
+      "text": "Retrieve Lyhr\u0027s Relic by defeating the Avatars of Rage and Regret in the Bastion of Balance."
+    },
+    {
+      "type": "Text",
+      "text": "Return to Lyhr."
+    },
+    {
+      "type": "Text",
+      "text": "Gain favor with Elrik by defeating the possessed dwarf at Droknar\u0027s Forge."
+    },
+    {
+      "type": "Text",
+      "text": "Speak with Elrik."
+    },
+    {
+      "type": "Text",
+      "text": "Get a history lesson from a dwarf at the Durmand Priory Headquarters."
+    },
+    {
+      "type": "Text",
+      "text": "Find Novice Taeya in Lornar\u0027s Pass near Guutra\u0027s Homestead."
+    },
+    {
+      "type": "Text",
+      "text": "Speak to Timin Blastburl near Dwarves\u0027 Gloaming."
+    },
+    {
+      "type": "Text",
+      "text": "Help collect dwarven artifacts."
+    },
+    {
+      "type": "Text",
+      "text": "Return to Timin."
+    },
+    {
+      "type": "Text",
+      "text": "Speak to Von Delverunner inside King Jalis\u0027s Refuge."
+    },
+    {
+      "type": "Text",
+      "text": "Seek out dwarves investigating the Forsaken Halls in Dredgehaunt Cliffs."
+    },
+    {
+      "type": "Text",
+      "text": "Find Riley Waylit in Nakrojos Pass."
+    },
+    {
+      "type": "Text",
+      "text": "Return to Lyhr."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 2
+    },
+    {
+      "count": 14,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 100763,
+      "count": 1
+    },
+    {
+      "type": "Title",
+      "id": 403
+    }
+  ]
+}

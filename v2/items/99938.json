@@ -1,0 +1,50 @@
+{
+  "name": "Sun-Grown Greatsword",
+  "description": "\u003cc\u003d@flavor\u003e\"Warmed by the sky above; nourished by the sea below. Grow strong in its radiance.\"\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 11548,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99938,
+  "chat_link": "[\u0026AgFihgEA]",
+  "icon": "https://render.guildwars2.com/file/CFD1DE5E1BBFF39302FDD90DAEDC32EB1A302F69/3106172.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 995,
+    "max_power": 1100,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 799,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 239
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 171
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 171
+        }
+      ]
+    }
+  }
+}

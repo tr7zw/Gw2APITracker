@@ -1,0 +1,51 @@
+{
+  "id": 7119,
+  "name": "Eternal Off to See the Wizard\u0027s Tower",
+  "description": "That\u0027s the key to success...among other things.",
+  "requirement": "Successfully complete events during the Unlocking the Wizard\u0027s Tower meta-event.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Repeatable",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Gather Essence of Awe around Droknar\u0027s Light"
+    },
+    {
+      "type": "Text",
+      "text": "Gather Essence of Aggression, Joy, Anxiety, Judgment, or Despair around Skywatch Archipelago"
+    },
+    {
+      "type": "Text",
+      "text": "Protect Lyhr while He Forges a Key to the Wizard\u0027s Tower"
+    },
+    {
+      "type": "Text",
+      "text": "Purge Lyhr of Kryptis Corruption"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 2,
+      "points": 0
+    },
+    {
+      "count": 4,
+      "points": 0
+    }
+  ],
+  "prerequisites": [
+    7038
+  ],
+  "point_cap": -1
+}

@@ -1,0 +1,31 @@
+{
+  "id": 7104,
+  "name": "Secrets of the Obscure: Act 1 Mastery",
+  "description": "",
+  "requirement": "Complete all  Secrets of the Obscure: Act 1 achievements.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "CategoryDisplay",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 8,
+      "points": 8
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 100388,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Unknown",
+      "id": 671
+    }
+  ]
+}

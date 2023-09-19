@@ -1,0 +1,42 @@
+{
+  "id": 7017,
+  "name": "Skywatch Archipelago Mastery",
+  "description": "You\u0027ve proven your dedication as a true member of the Astral Ward.",
+  "requirement": "",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "CategoryDisplay",
+    "MoveToTop",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    },
+    {
+      "count": 11,
+      "points": 3
+    },
+    {
+      "count": 16,
+      "points": 5
+    },
+    {
+      "count": 22,
+      "points": 10
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 99966,
+      "count": 1
+    }
+  ]
+}

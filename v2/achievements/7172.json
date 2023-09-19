@@ -1,0 +1,29 @@
+{
+  "id": 7172,
+  "name": "Treachery",
+  "description": "Journal: Treachery",
+  "requirement": "Take the fight to Cerus in his home domain.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 100357,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Unknown",
+      "id": 720
+    }
+  ]
+}

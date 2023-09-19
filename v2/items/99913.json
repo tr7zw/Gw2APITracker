@@ -1,0 +1,50 @@
+{
+  "name": "Sun-Grown Rifle",
+  "description": "\u003cc\u003d@flavor\u003e\"Warmed by the sky above; nourished by the sea below. Grow strong in its radiance.\"\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 11557,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99913,
+  "chat_link": "[\u0026AgFJhgEA]",
+  "icon": "https://render.guildwars2.com/file/1239E6242B00E74242450579D1EC17F6337AA635/3106222.png",
+  "details": {
+    "type": "Rifle",
+    "damage_type": "Physical",
+    "min_power": 986,
+    "max_power": 1205,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 799,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 239
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 171
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 171
+        }
+      ]
+    }
+  }
+}

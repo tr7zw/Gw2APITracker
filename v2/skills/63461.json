@@ -18,7 +18,7 @@
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 1,
-      "dmg_multiplier": 0.668
+      "dmg_multiplier": 0.4
     },
     {
       "text": "Damage",
@@ -148,6 +148,16 @@
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
       "duration": 5,
+      "status": "Vigor",
+      "description": "Endurance regeneration increased by 50%; stacks duration.",
+      "apply_count": 1,
+      "requires_trait": 2234
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+      "duration": 3,
       "status": "Vigor",
       "description": "Endurance regeneration increased by 50%; stacks duration.",
       "apply_count": 1,

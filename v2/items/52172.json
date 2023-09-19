@@ -1,0 +1,51 @@
+{
+  "name": "Apostate\u0027s Radiance",
+  "type": "Weapon",
+  "level": 71,
+  "rarity": "Exotic",
+  "vendor_value": 366,
+  "default_skin": 5227,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 52172,
+  "chat_link": "[\u0026AgHMywAA]",
+  "icon": "https://render.guildwars2.com/file/00DC9C6326EE2B0AB1A016C060ADBABDC9EE572F/67841.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 892,
+    "max_power": 1006,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 610.4,
+    "infix_upgrade": {
+      "id": 1012,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 153
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 153
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 214
+        }
+      ]
+    }
+  }
+}

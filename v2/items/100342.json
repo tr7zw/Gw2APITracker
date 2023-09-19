@@ -1,0 +1,53 @@
+{
+  "name": "Knowledge of the Elders",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "default_skin": 11815,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 100342,
+  "chat_link": "[\u0026AgH2hwEA]",
+  "icon": "https://render.guildwars2.com/file/023AD5EB01BFD6A5BD3F05AB022672AA5E0D022D/3122595.png",
+  "details": {
+    "type": "Torch",
+    "damage_type": "Choking",
+    "min_power": 789,
+    "max_power": 926,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1140,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 102
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 56
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 102
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 56
+        }
+      ]
+    },
+    "suffix_item_id": 24618
+  }
+}

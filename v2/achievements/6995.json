@@ -1,0 +1,32 @@
+{
+  "id": 6995,
+  "name": "Eternal Skywatch Archipelago: Unlocking the Wizard\u0027s Tower",
+  "description": "Frankly, Lyhr should have forged multiple keys.",
+  "requirement": "Forge a key to the Wizard\u0027s Tower.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    7218
+  ],
+  "point_cap": 2
+}

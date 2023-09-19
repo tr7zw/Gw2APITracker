@@ -1,0 +1,54 @@
+{
+  "name": "Rabid Skyscale Focus",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 330,
+  "default_skin": 11609,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 100762,
+  "chat_link": "[\u0026AgGaiQEA]",
+  "icon": "https://render.guildwars2.com/file/D3CFEB46CEAD5B2A9E435F28D15C421EFFAA0146/3123513.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 873,
+    "max_power": 927,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 358.512,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 90
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 90
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 125
+        }
+      ]
+    }
+  }
+}

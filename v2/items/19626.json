@@ -1,6 +1,6 @@
 {
   "name": "Gift of Fortune",
-  "description": "A gift of fortune used to create legendary weapons.",
+  "description": "A gift of fortune used to create legendary weapons.\n\nMade by combining these items in the Mystic Forge:\n• 77 Mystic Clovers\n• 250 Globs of Ectoplasm\n• 1 Gift of Might\n• 1 Gift of Magic",
   "type": "Trophy",
   "level": 0,
   "rarity": "Legendary",
@@ -13,6 +13,7 @@
   ],
   "flags": [
     "AccountBound",
+    "NoSalvage",
     "AccountBindOnUse",
     "DeleteWarning"
   ],

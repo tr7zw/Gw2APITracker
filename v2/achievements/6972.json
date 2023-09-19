@@ -1,0 +1,47 @@
+{
+  "id": 6972,
+  "name": "Bringing Balance",
+  "description": "Books are stacked on the left, paper and pens to the right... Everything had its place on Lyhr\u0027s desk—even a rusted stein, sitting atop an old journal with the letter \"R\" carved on its leatherbound spine.",
+  "requirement": "Successfully complete events in the Bastion of Balance.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Escort Lyhr to the Great Debate Hall so he can rebalance himself."
+    },
+    {
+      "type": "Text",
+      "text": "Bring order to the Great Debate Hall by defeating Kryptis and smashing the gavel."
+    },
+    {
+      "type": "Text",
+      "text": "Engage the avatars and free the Bastion of Balance."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 100114,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Unknown",
+      "id": 688
+    }
+  ]
+}

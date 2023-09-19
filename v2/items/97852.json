@@ -1,12 +1,11 @@
 {
-  "name": "Historical Weapon Diagram: Staff",
-  "description": "Unlocks the Fury Manifest collection. Prices reset weekly.",
-  "type": "Consumable",
+  "name": "[[1087107]]",
+  "description": "This kit contains an account-bound precursor weapon, a Gift of Might or a Gift of Magic, and a themed legendary gift.",
+  "type": "Container",
   "level": 80,
   "rarity": "Exotic",
-  "vendor_value": 132,
+  "vendor_value": 264,
   "game_types": [
-    "Pvp",
     "PvpLobby",
     "Activity",
     "Wvw",
@@ -15,14 +14,16 @@
   ],
   "flags": [
     "AccountBound",
+    "NoMysticForge",
     "NoSalvage",
+    "NoSell",
     "AccountBindOnUse"
   ],
   "restrictions": [],
   "id": 97852,
   "chat_link": "[\u0026AgE8fgEA]",
-  "icon": "https://render.guildwars2.com/file/6A53D748047AF42577BAFF03A939FD9A14AC9503/222832.png",
+  "icon": "https://render.guildwars2.com/file/B12D41A5A67EAA554108FC6D20C9BE697EF77E1A/3122159.png",
   "details": {
-    "type": "Immediate"
+    "type": "Default"
   }
 }

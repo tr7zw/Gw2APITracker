@@ -1,0 +1,31 @@
+{
+  "id": 7313,
+  "name": "Manifestation Mayhem",
+  "description": "Journal: Manifestation Mayhem",
+  "requirement": "Defeat Isgarren\u0027s manifestations without being downed.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Manifestation of Bitterness"
+    },
+    {
+      "type": "Text",
+      "text": "Manifestation of Ego"
+    },
+    {
+      "type": "Text",
+      "text": "Manifestation of Rigidity"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 1
+    }
+  ]
+}

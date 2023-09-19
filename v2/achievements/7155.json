@@ -1,0 +1,38 @@
+{
+  "id": 7155,
+  "name": "Weekly Secrets of the Obscure Strike Missions",
+  "description": "",
+  "requirement": "Complete  unique Secrets of the Obscure Strike Mission within a week.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "RepairOnLogin",
+    "Weekly"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Strike Mission: Cosmic Observatory"
+    },
+    {
+      "type": "Text",
+      "text": "Strike Mission: Temple of Febe"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 2,
+      "points": 0
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Coins",
+      "count": 10000
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": 6983,
+  "name": "Never-Ending Nurture Knowledge",
+  "description": "The more you know...",
+  "requirement": "Successfully complete events in the Bastion of Knowledge.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Repeatable",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Prepare for the Kryptis assault on the gates."
+    },
+    {
+      "type": "Text",
+      "text": "Aid the Astral Ward in defending or retaking the bastion gates."
+    },
+    {
+      "type": "Text",
+      "text": "Defeat Isgarren\u0027s rampaging elemental."
+    },
+    {
+      "type": "Text",
+      "text": "Root out the evidence that some of the library archivists are possesed."
+    },
+    {
+      "type": "Text",
+      "text": "Defeat the Avatar of Gluttony before it abosrbs the knowledge of Amnytas."
+    },
+    {
+      "type": "Text",
+      "text": "Defeat the rampaging museum exhibits."
+    },
+    {
+      "type": "Text",
+      "text": "Find and destroy Isgarren\u0027s wards."
+    },
+    {
+      "type": "Text",
+      "text": "Defeat the entity."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    },
+    {
+      "count": 8,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    6974
+  ],
+  "point_cap": 3
+}

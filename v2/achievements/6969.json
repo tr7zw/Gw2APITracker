@@ -1,0 +1,36 @@
+{
+  "id": 6969,
+  "name": "Zojja\u0027s Journal: Primal Maguuma",
+  "description": "",
+  "requirement": "Collect all of Zojja\u0027s journal pages in the Primal Maguuma fractal.",
+  "locked_text": "Unlock by starting the Zojja\u0027s Journal collection.",
+  "type": "Default",
+  "flags": [
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Help the Astral Ward in Primal Maguuma."
+    },
+    {
+      "type": "Text",
+      "text": "Page Location: Primal Maguuma, across the vine bridge accompanied by ruins."
+    },
+    {
+      "type": "Text",
+      "text": "Page Location: Primal Maguuma, on a bridge broken by the wind."
+    },
+    {
+      "type": "Text",
+      "text": "Page Location: Primal Maguuma, on a bridge between two sets of pylons."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 4,
+      "points": 1
+    }
+  ]
+}

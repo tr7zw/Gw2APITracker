@@ -1,0 +1,63 @@
+{
+  "id": 7042,
+  "name": "Eternal Protector of the Skyward Marches",
+  "description": "",
+  "requirement": "Successfully complete events around the Skyward Marches.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Repeatable",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Consume Uncontrolled Magic"
+    },
+    {
+      "type": "Text",
+      "text": "Help the Astral Ward Calm Agitated Skyscales"
+    },
+    {
+      "type": "Text",
+      "text": "Help the Astral Ward Drive Back the Forged"
+    },
+    {
+      "type": "Text",
+      "text": "Convince Zaishen Deserters to Not Return to the Forged Stronghold"
+    },
+    {
+      "type": "Text",
+      "text": "Kill the Champion Avatar of Regret"
+    },
+    {
+      "type": "Text",
+      "text": "Kill the Champion Forged Cannonade"
+    },
+    {
+      "type": "Text",
+      "text": "Transport Skyscales to the Western Astral Ward Camp"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    7079
+  ],
+  "point_cap": 2
+}

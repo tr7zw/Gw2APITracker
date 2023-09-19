@@ -1,0 +1,27 @@
+{
+  "id": 7057,
+  "name": "Reader of Notes",
+  "description": "Journal: Reader of Notes.",
+  "requirement": "Find all the readable notes while following Zojja.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Read a letter."
+    },
+    {
+      "type": "Text",
+      "text": "Read field notes."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 2,
+      "points": 1
+    }
+  ]
+}

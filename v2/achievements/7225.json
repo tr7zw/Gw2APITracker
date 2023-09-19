@@ -1,0 +1,57 @@
+{
+  "id": 7225,
+  "name": "A New Friend",
+  "description": "",
+  "requirement": "Raise a skyscale by completing skyscale collections for Skyscale Trainer Dyanne.",
+  "locked_text": "Who Rescues Whom?",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Find an abandoned skyscale egg."
+    },
+    {
+      "type": "Text",
+      "text": "Talk to Skyscale Trainer Dyanne at the Beacon of Ages."
+    },
+    {
+      "type": "Text",
+      "text": "Complete Skyscale Egg Infusions."
+    },
+    {
+      "type": "Text",
+      "text": "Complete Skyscale Growing Comforts."
+    },
+    {
+      "type": "Text",
+      "text": "Complete Skyscale Saddle Materials."
+    },
+    {
+      "type": "Text",
+      "text": "Train Rising Spirits in Flight Training Mastery."
+    },
+    {
+      "type": "Text",
+      "text": "Talk to Skyscale Trainer Dyanne at the Beacon of Ages."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 7,
+      "points": 5
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 100327,
+      "count": 1
+    }
+  ]
+}

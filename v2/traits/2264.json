@@ -3,7 +3,7 @@
   "tier": 3,
   "order": 0,
   "name": "Strength of Shadows",
-  "description": "Gain expertise based on a percentage of your vitality. Incoming damage from enemies is reduced based on the number of conditions they have. Rot Wallow Venom inflicts torment for a longer duration.",
+  "description": "Gain expertise based on a percentage of your vitality. Torment you inflict deals increased damage.",
   "slot": "Major",
   "facts": [
     {
@@ -15,16 +15,10 @@
       "target": "ConditionDuration"
     },
     {
-      "text": "Damage Reduced per Condition",
+      "text": "Damage Increase",
       "type": "Percent",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-      "percent": 2
-    },
-    {
-      "text": "Rot Wallow Venom Torment Increase",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-      "duration": 1
+      "percent": 25
     }
   ],
   "specialization": 71,

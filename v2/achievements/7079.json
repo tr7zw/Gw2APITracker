@@ -1,0 +1,62 @@
+{
+  "id": 7079,
+  "name": "Protector of the Skyward Marches",
+  "description": "A kind gesture on the darkest of their days.",
+  "requirement": "Successfully complete events around the Skyward Marches.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Consume Uncontrolled Magic"
+    },
+    {
+      "type": "Text",
+      "text": "Help the Astral Ward Calm Agitated Skyscales"
+    },
+    {
+      "type": "Text",
+      "text": "Help the Astral Ward Drive Back the Forged"
+    },
+    {
+      "type": "Text",
+      "text": "Convince Zaishen Deserters to Not Return to the Forged Stronghold"
+    },
+    {
+      "type": "Text",
+      "text": "Kill the Champion Avatar of Regret"
+    },
+    {
+      "type": "Text",
+      "text": "Kill the Champion Forged Cannonade"
+    },
+    {
+      "type": "Text",
+      "text": "Transport Skyscales to the Western Astral Ward Camp"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Unknown",
+      "id": 729
+    }
+  ]
+}

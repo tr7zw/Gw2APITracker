@@ -44,7 +44,7 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-      "duration": 8,
+      "duration": 5,
       "status": "Might",
       "description": "Increased outgoing damage; stacks intensity.",
       "apply_count": 1
@@ -60,7 +60,7 @@
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 1,
-      "dmg_multiplier": 0.668
+      "dmg_multiplier": 0.4
     },
     {
       "text": "Damage",
@@ -126,7 +126,7 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-      "duration": 12,
+      "duration": 8,
       "status": "Might",
       "description": "Increased outgoing damage; stacks intensity.",
       "apply_count": 1,
@@ -151,6 +151,16 @@
       "status": "Might",
       "description": "Increased outgoing damage; stacks intensity.",
       "apply_count": 5,
+      "requires_trait": 2234
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+      "duration": 10,
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
+      "apply_count": 1,
       "requires_trait": 2234
     }
   ]

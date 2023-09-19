@@ -1,0 +1,68 @@
+{
+  "id": 7180,
+  "name": "Sin-Eater",
+  "description": "",
+  "requirement": "Unlock all  Sinful weapon skins by completing Strike Missions in Secrets of the Obscure.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 11633
+    },
+    {
+      "type": "Skin",
+      "id": 11785
+    },
+    {
+      "type": "Skin",
+      "id": 11691
+    },
+    {
+      "type": "Skin",
+      "id": 11706
+    },
+    {
+      "type": "Skin",
+      "id": 11575
+    },
+    {
+      "type": "Skin",
+      "id": 11623
+    },
+    {
+      "type": "Skin",
+      "id": 11674
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Title",
+      "id": 402
+    }
+  ]
+}

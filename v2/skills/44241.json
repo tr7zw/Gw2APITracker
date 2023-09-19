@@ -21,6 +21,13 @@
       "dmg_multiplier": 0.45
     },
     {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 3,
+      "dmg_multiplier": 0.45
+    },
+    {
       "text": "Number of Targets",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
@@ -64,5 +71,25 @@
   ],
   "specialization": 59,
   "id": 44241,
-  "chat_link": "[\u0026BtGsAAA\u003d]"
+  "chat_link": "[\u0026BtGsAAA\u003d]",
+  "traited_facts": [
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "requires_trait": 2174,
+      "hit_count": 3,
+      "dmg_multiplier": 0.5625,
+      "overrides": 2
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "requires_trait": 2174,
+      "hit_count": 3,
+      "dmg_multiplier": 0.495,
+      "overrides": 3
+    }
+  ]
 }

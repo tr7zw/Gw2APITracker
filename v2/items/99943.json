@@ -1,0 +1,50 @@
+{
+  "name": "Sun-Grown Warhorn",
+  "description": "\u003cc\u003d@flavor\u003e\"Warmed by the sky above; nourished by the sea below. Grow strong in its radiance.\"\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 11563,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99943,
+  "chat_link": "[\u0026AgFnhgEA]",
+  "icon": "https://render.guildwars2.com/file/632B20DD987699F6E614755872D7A6E853E7AE4A/3106309.png",
+  "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical",
+    "min_power": 814,
+    "max_power": 900,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 799,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 120
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 85
+        }
+      ]
+    }
+  }
+}

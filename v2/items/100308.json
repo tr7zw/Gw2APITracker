@@ -1,0 +1,49 @@
+{
+  "name": "Scales of Dragrimmar",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "default_skin": 11701,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 100308,
+  "chat_link": "[\u0026AgHUhwEA]",
+  "icon": "https://render.guildwars2.com/file/3852D94392EEF6F2A63095DE776D53C70BF5BC56/3122554.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Choking",
+    "min_power": 832,
+    "max_power": 883,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 700,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 120
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 85
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 85
+        }
+      ]
+    },
+    "suffix_item_id": 24571
+  }
+}

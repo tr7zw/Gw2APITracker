@@ -1,0 +1,51 @@
+{
+  "name": "Storm\u0027s Eye Greatsword",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 11599,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 100895,
+  "chat_link": "[\u0026AgEfigEA]",
+  "icon": "https://render.guildwars2.com/file/A9DD49BF06B3C3E8E45ABBBA3F6B97AAD86BF705/3123649.png",
+  "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical",
+    "min_power": 995,
+    "max_power": 1100,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 1556,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 205
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 113
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 113
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 205
+        }
+      ]
+    }
+  }
+}

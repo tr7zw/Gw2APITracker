@@ -1,0 +1,51 @@
+{
+  "name": "Suncatcher\u0027s Trident",
+  "description": "\u003cc\u003d@flavor\u003eReach your hand up and hold the light.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 11554,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 99902,
+  "chat_link": "[\u0026AgE+hgEA]",
+  "icon": "https://render.guildwars2.com/file/0CD7FE03EFEF144DB157B754639BDA4B414AE497/3105297.png",
+  "details": {
+    "type": "Trident",
+    "damage_type": "Physical",
+    "min_power": 905,
+    "max_power": 1000,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 799,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 239
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 171
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 171
+        }
+      ]
+    }
+  }
+}

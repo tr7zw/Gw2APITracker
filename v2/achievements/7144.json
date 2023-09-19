@@ -1,0 +1,58 @@
+{
+  "id": 7144,
+  "icon": "https://render.guildwars2.com/file/3FB1AE472DF109D022146F26B0F420140BFC26FE/1824200.png",
+  "name": "Echoes of the Obscure",
+  "description": "",
+  "requirement": "Learn more about the Bastion of the Obscure and a legendary hero to acquire a powerful and ancient weapon.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 100605
+    },
+    {
+      "type": "Item",
+      "id": 100961
+    },
+    {
+      "type": "Item",
+      "id": 100671
+    },
+    {
+      "type": "Item",
+      "id": 100211
+    },
+    {
+      "type": "Item",
+      "id": 100622
+    },
+    {
+      "type": "Item",
+      "id": 100051
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 100920,
+      "count": 1
+    }
+  ]
+}

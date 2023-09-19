@@ -110,6 +110,36 @@
         "status": "Signet of Earth",
         "description": "\u003cc\u003d@abilitytype\u003eSignet Passive:\u003c/c\u003e Improves toughness.\u003cbr\u003e\u003cc\u003d@abilitytype\u003eSignet Active:\u003c/c\u003e Immobilize and bleed your foe."
       }
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "PrefixedBuff",
+      "icon": "https://render.guildwars2.com/file/719B80E35C276D68EF0AABB79126CF4CD42E3AF6/2261522.png",
+      "duration": 2,
+      "status": "Frost Aura",
+      "description": "Chill foes that strike you (only once per second for each attacker); incoming damage is reduced by 10%.",
+      "apply_count": 1,
+      "prefix": {
+        "text": "Apply Buff/Condition",
+        "icon": "https://render.guildwars2.com/file/3FA4D3DCA80A06036E7F6C77E84D94466D157766/103321.png",
+        "status": "Signet of Restoration",
+        "description": "\u003cc\u003d@abilitytype\u003eSignet Passive:\u003c/c\u003e Grants health every time you cast a spell. \u003cbr\u003e\u003cc\u003d@abilitytype\u003eSignet Active:\u003c/c\u003e Heal yourself."
+      }
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "PrefixedBuff",
+      "icon": "https://render.guildwars2.com/file/719B80E35C276D68EF0AABB79126CF4CD42E3AF6/2261522.png",
+      "duration": 2,
+      "status": "Frost Aura",
+      "description": "Chill foes that strike you (only once per second for each attacker); incoming damage is reduced by 10%.",
+      "apply_count": 1,
+      "prefix": {
+        "text": "Apply Buff/Condition",
+        "icon": "https://render.guildwars2.com/file/950EABEE51A5B7E116609A2C4869B2BDF3760ED1/103351.png",
+        "status": "Signet of Water",
+        "description": "\u003cc\u003d@abilitytype\u003eSignet Passive:\u003c/c\u003e Reduces incoming condition duration.\u003cbr\u003e\u003cc\u003d@abilitytype\u003eSignet Active:\u003c/c\u003e Damage and chill foes while healing and reviving allies in an area."
+      }
     }
   ],
   "specialization": 26,

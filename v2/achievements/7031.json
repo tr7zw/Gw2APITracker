@@ -1,0 +1,51 @@
+{
+  "id": 7031,
+  "name": "Nonstop Nourish Natural",
+  "description": "\"Darling, a pinch too much sand lotus and that concoction will spoil in your hands.\"",
+  "requirement": "Successfully complete events in the Bastion of the Natural.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Repeatable",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Help Zizel prepare concoctions for the fight against the Kryptis."
+    },
+    {
+      "type": "Text",
+      "text": "Escort Zizel to the greenhouse."
+    },
+    {
+      "type": "Text",
+      "text": "Test concoctions."
+    },
+    {
+      "type": "Text",
+      "text": "Help Forro with returning the possessed creatures to the pens."
+    },
+    {
+      "type": "Text",
+      "text": "Help Narcisse exorcise the possessed plants and calm them down."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    7035
+  ],
+  "point_cap": 3
+}

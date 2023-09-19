@@ -1,0 +1,50 @@
+{
+  "id": 7111,
+  "icon": "https://render.guildwars2.com/file/3FB1AE472DF109D022146F26B0F420140BFC26FE/1824200.png",
+  "name": "Spire of the Forgotten",
+  "description": "",
+  "requirement": "Learn more about the Bastion of the Natural and the Forgotten to acquire a powerful and ancient weapon.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Item",
+      "id": 100471
+    },
+    {
+      "type": "Item",
+      "id": 100741
+    },
+    {
+      "type": "Item",
+      "id": 100039
+    },
+    {
+      "type": "Item",
+      "id": 100451
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 2
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 100669,
+      "count": 1
+    }
+  ]
+}

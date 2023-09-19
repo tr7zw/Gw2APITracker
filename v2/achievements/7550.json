@@ -1,0 +1,43 @@
+{
+  "id": 7550,
+  "name": "Emotional Fortitude",
+  "description": "Journal: Emotional Fortitude",
+  "requirement": "Defeat all of the embodiments of the chapter boss.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Embodiment of Envy"
+    },
+    {
+      "type": "Text",
+      "text": "Embodiment of Rage"
+    },
+    {
+      "type": "Text",
+      "text": "Embodiment of Despair"
+    },
+    {
+      "type": "Text",
+      "text": "Embodiment of Gluttony"
+    },
+    {
+      "type": "Text",
+      "text": "Embodiment of Regret"
+    },
+    {
+      "type": "Text",
+      "text": "Embodiment of Malice"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 6,
+      "points": 1
+    }
+  ]
+}

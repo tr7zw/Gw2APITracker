@@ -1,0 +1,24 @@
+{
+  "id": 7244,
+  "name": "Weaponmaster Training",
+  "description": "Weaponmasters are free to wield any weapon they have learned to use, regardless of their current elite specialization.",
+  "requirement": "Speak with Frode during or after Secrets of the Obscure chapter 3, Mother of Stars.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Unknown",
+      "id": 700
+    }
+  ]
+}

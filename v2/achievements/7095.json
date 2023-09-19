@@ -1,0 +1,82 @@
+{
+  "id": 7095,
+  "name": "Protector of the Rata Novus Promenade and Primal Maguuma",
+  "description": "You might get an honorary degree for this.",
+  "requirement": "Successfully complete events around the Rata Novus Promenade and Primal Maguuma.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Partake in the Celebration of Rata Novus Preparations"
+    },
+    {
+      "type": "Text",
+      "text": "Partake in the Celebration of Rata Novus Finale"
+    },
+    {
+      "type": "Text",
+      "text": "Maguuma Exploration Escort"
+    },
+    {
+      "type": "Text",
+      "text": "Maguuma Exploration Kill Boss"
+    },
+    {
+      "type": "Text",
+      "text": "Destroy Egg Nests"
+    },
+    {
+      "type": "Text",
+      "text": "Collect Ley-Line Energy"
+    },
+    {
+      "type": "Text",
+      "text": "Power Defense Sentries"
+    },
+    {
+      "type": "Text",
+      "text": "Defend Injured Astral Ward Members"
+    },
+    {
+      "type": "Text",
+      "text": "Clear Hazards with Your Skyscale"
+    },
+    {
+      "type": "Text",
+      "text": "Kill the Boss after Clearing Hazards with Your Skyscale"
+    },
+    {
+      "type": "Text",
+      "text": "Kill the Champion Dinosaur"
+    },
+    {
+      "type": "Text",
+      "text": "Kill the Champion Wyvern"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    },
+    {
+      "count": 12,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Unknown",
+      "id": 703
+    }
+  ]
+}

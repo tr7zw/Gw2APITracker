@@ -1,0 +1,49 @@
+{
+  "id": 7051,
+  "name": "Astral Footprints",
+  "description": "",
+  "requirement": "Gather the necessary armor skins to unlock acquiring the Arcana of Astral Footprints from the Wizard\u0027s Tower.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 11692
+    },
+    {
+      "type": "Skin",
+      "id": 11789
+    },
+    {
+      "type": "Item",
+      "id": 100314
+    },
+    {
+      "type": "Item",
+      "id": 100027
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    }
+  ]
+}

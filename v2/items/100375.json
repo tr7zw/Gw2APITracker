@@ -1,0 +1,29 @@
+{
+  "name": "Static Charge",
+  "description": "Double-click to add a Static Charge to your wallet.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "BulkConsume",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 100375,
+  "chat_link": "[\u0026AgEXiAEA]",
+  "icon": "https://render.guildwars2.com/file/7DF5364F6D3EA4749A2C777B2C572AC706152695/3123705.png",
+  "details": {
+    "type": "Immediate"
+  }
+}

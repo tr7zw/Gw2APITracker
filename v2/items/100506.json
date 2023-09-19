@@ -1,0 +1,29 @@
+{
+  "name": "Astral Ward Door",
+  "description": "A decoration schematic that is processed by the guild\u0027s assembly device to make the decoration.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 0,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 100506,
+  "chat_link": "[\u0026AgGaiAEA]",
+  "icon": "https://render.guildwars2.com/file/E4369BEE38DF736101CD97E1427EE65BFE5C4356/3122178.png",
+  "details": {
+    "type": "Generic",
+    "guild_upgrade_id": 1247
+  }
+}

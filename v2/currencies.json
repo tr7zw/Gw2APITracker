@@ -338,7 +338,7 @@
   {
     "id": 53,
     "name": "Green Prophet Shard",
-    "description": "Crystalline shards of dragon magic, veined with green.\nCan be exchanged for rewards in Arborstone.",
+    "description": "Crystalline shards of dragon magic, veined with green.\nCan be exchanged for rewards in the Wizard's Tower, the Eye of the North, Arborstone, or Lion's Arch.",
     "order": 352,
     "icon": "https://render.guildwars2.com/file/BFEDF6110C69BE3521010E7F23B5147919B90FA9/2270834.png"
   },
@@ -366,7 +366,7 @@
   {
     "id": 57,
     "name": "Blue Prophet Shard",
-    "description": "Crystalline shards of dragon magic, veined with blue.\nCan be exchanged for rewards in the Eye of the North.",
+    "description": "Crystalline shards of dragon magic, veined with blue.\nCan be exchanged for rewards in the Eye of the North, Arborstone, or Lion's Arch.",
     "order": 350,
     "icon": "https://render.guildwars2.com/file/A0ECC4DEE6E84062649EA464079AE46B61089130/2270833.png"
   },
@@ -401,9 +401,16 @@
   {
     "id": 62,
     "name": "Unusual Coin",
-    "description": "Acquired by opening hidden chests in Cantha. Used at vendors in Cantha.",
+    "description": "Acquired by opening hidden chests in the most recent expansion's content. Can be traded with Unusual Coin Collectors for rewards.",
     "order": 109,
     "icon": "https://render.guildwars2.com/file/662D371A6C145EDDDA2DE6B53BC05F5F08CE386F/2596977.png"
+  },
+  {
+    "id": 63,
+    "name": "Astral Acclaim",
+    "description": "",
+    "order": 113,
+    "icon": "https://render.guildwars2.com/file/1856A01E331452E4C14E4C9CF4F818E3FAEF9B79/3124964.png"
   },
   {
     "id": 64,
@@ -418,6 +425,13 @@
     "description": "Earned when ranking up in World vs World. Spent at any Notary of Heroics in World vs. World to obtain hero points.",
     "order": 207,
     "icon": "https://render.guildwars2.com/file/7BFCF20F62C7DA650DFA69723E0B4F00E4F0ACF8/2597023.png"
+  },
+  {
+    "id": 66,
+    "name": "Ancient Coin",
+    "description": "Acquired by opening hidden chests in content released prior to the current expansion. Can be traded with Ancient Coin Collectors for rewards.",
+    "order": 111,
+    "icon": "https://render.guildwars2.com/file/482B14330E349A01766C03412599B42DA103963D/3123700.png"
   },
   {
     "id": 67,
@@ -453,5 +467,19 @@
     "description": "Used to open mining caches around Gyala Delve.",
     "order": 327,
     "icon": "https://render.guildwars2.com/file/5E741B943ACA14FBAEFD2B75CEEDAF4750BA20DA/3004443.png"
+  },
+  {
+    "id": 72,
+    "name": "Static Charge",
+    "description": "Earned in Skywatch Archipelago",
+    "order": 949,
+    "icon": "https://render.guildwars2.com/file/314EF613F04029E9A8354FB8D79A72EDC36DDF10/3123702.png"
+  },
+  {
+    "id": 73,
+    "name": "Pinch of Stardust",
+    "description": "Earned in Amnytas",
+    "order": 950,
+    "icon": "https://render.guildwars2.com/file/22DE50C72BCD2610345EA67F5E4032057EA2ABE5/3123701.png"
   }
 ]

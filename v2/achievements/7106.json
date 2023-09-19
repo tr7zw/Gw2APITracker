@@ -1,0 +1,24 @@
+{
+  "id": 7106,
+  "name": "Chuck Out the Trash",
+  "description": "The clouds above Amnytas stir awake. Is it rain that hits the brim of my helm, or...drool?",
+  "requirement": "Defeat an intrusion from beyond the Mists.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 3
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 100210,
+      "count": 1
+    }
+  ]
+}

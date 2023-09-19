@@ -1,0 +1,33 @@
+{
+  "id": 7164,
+  "name": "No Rest for the Kryptis",
+  "description": "",
+  "requirement": "Kill  Kryptis in Amnytas.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "Repeatable",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 50,
+      "points": 1
+    },
+    {
+      "count": 100,
+      "points": 1
+    },
+    {
+      "count": 200,
+      "points": 1
+    }
+  ],
+  "prerequisites": [
+    7195
+  ],
+  "point_cap": 3
+}

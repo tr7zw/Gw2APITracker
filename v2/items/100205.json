@@ -1,0 +1,73 @@
+{
+  "name": "Jotun Skypiercer",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "default_skin": 11750,
+  "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 100205,
+  "chat_link": "[\u0026AgFthwEA]",
+  "icon": "https://render.guildwars2.com/file/0BEF760752426A4B5C9912DC1B471F9D409A9EEE/3122524.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Choking",
+    "min_power": 920,
+    "max_power": 1080,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 559,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 113
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 113
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 113
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 113
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 113
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 113
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 113
+        },
+        {
+          "attribute": "BoonDuration",
+          "modifier": 113
+        },
+        {
+          "attribute": "ConditionDuration",
+          "modifier": 113
+        }
+      ]
+    },
+    "suffix_item_id": 86170
+  }
+}

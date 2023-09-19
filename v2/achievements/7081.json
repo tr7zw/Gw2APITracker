@@ -1,0 +1,74 @@
+{
+  "id": 7081,
+  "name": "Protector of the Beacon of Ages and Garenhoff",
+  "description": "One less thing for Mayor Manrin to panic about.",
+  "requirement": "Successfully complete events around the Beacon of Ages and Garenhoff.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Calm Agitated Skyscales at the Beacon of Ages"
+    },
+    {
+      "type": "Text",
+      "text": "Find Garenhoff Villagers"
+    },
+    {
+      "type": "Text",
+      "text": "Defend Garenhoff Villager"
+    },
+    {
+      "type": "Text",
+      "text": "Escort Garenhoff Villager"
+    },
+    {
+      "type": "Text",
+      "text": "Help Garenhoff Villager Kill a Boss"
+    },
+    {
+      "type": "Text",
+      "text": "Escort People with the Bait for the Hunt"
+    },
+    {
+      "type": "Text",
+      "text": "Defeat the Boss for the Hunt"
+    },
+    {
+      "type": "Text",
+      "text": "Make Baits for the Hunt"
+    },
+    {
+      "type": "Text",
+      "text": "Repair Magical Barriers at the Beacon of Ages"
+    },
+    {
+      "type": "Text",
+      "text": "Kill the Champion Elemental"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 5,
+      "points": 1
+    },
+    {
+      "count": 10,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Unknown",
+      "id": 731
+    }
+  ]
+}

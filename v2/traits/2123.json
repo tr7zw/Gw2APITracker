@@ -107,6 +107,33 @@
           "type": "Number",
           "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
           "value": 5
+        },
+        {
+          "text": "Apply Buff/Condition",
+          "type": "Buff",
+          "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+          "duration": 2,
+          "status": "Protection",
+          "description": "Incoming strike damage decreased by 33%; stacks duration.",
+          "apply_count": 3
+        },
+        {
+          "text": "Apply Buff/Condition",
+          "type": "Buff",
+          "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+          "duration": 3,
+          "status": "Protection",
+          "description": "Incoming strike damage decreased by 33%; stacks duration.",
+          "apply_count": 1
+        },
+        {
+          "text": "Apply Buff/Condition",
+          "type": "Buff",
+          "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+          "duration": 2,
+          "status": "Protection",
+          "description": "Incoming strike damage decreased by 33%; stacks duration.",
+          "apply_count": 1
         }
       ],
       "description": "Shade. Enter the final shroud, pulsing barrier to allies around yourself and priming the shroud for a powerful detonation that damages enemies and bolsters allies.\nTargets can only be affected by the detonation once per activation.",

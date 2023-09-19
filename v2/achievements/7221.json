@@ -1,0 +1,29 @@
+{
+  "id": 7221,
+  "name": "The World Spire",
+  "description": "Journal: The World Spire",
+  "requirement": "Undertake a daring and dangerous mission to recover Isgarren before the Kryptis fully corrupt the ancient wizard.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 100357,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Unknown",
+      "id": 676
+    }
+  ]
+}

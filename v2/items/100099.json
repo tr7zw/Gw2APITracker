@@ -1,0 +1,28 @@
+{
+  "name": "\"/bless\" Emote Tome",
+  "description": "Consuming this tome will give you access to a new emote!",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 100099,
+  "chat_link": "[\u0026AgEDhwEA]",
+  "icon": "https://render.guildwars2.com/file/46FD052004900FEB73E602C67179BD98F462D031/3122099.png",
+  "details": {
+    "type": "Generic"
+  }
+}

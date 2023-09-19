@@ -1,0 +1,29 @@
+{
+  "id": 7211,
+  "name": "Into the Obscure",
+  "description": "Journal: Into the Obscure",
+  "requirement": "Explore Amnytas and continue helping the Rift Hunters secure the bastions.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 100357,
+      "count": 1
+    },
+    {
+      "type": "Mastery",
+      "region": "Unknown",
+      "id": 705
+    }
+  ]
+}

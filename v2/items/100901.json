@@ -1,0 +1,27 @@
+{
+  "name": "Saddlebag of Holding",
+  "description": "Skyscale saddle component.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Exotic",
+  "vendor_value": 5000,
+  "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 100901,
+  "chat_link": "[\u0026AgEligEA]",
+  "icon": "https://render.guildwars2.com/file/52FDA61CDB62BAFB120ED87BBFEBB02705EFEC27/3122091.png",
+  "details": {
+    "type": "Immediate"
+  }
+}

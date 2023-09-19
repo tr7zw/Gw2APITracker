@@ -1,0 +1,70 @@
+{
+  "id": 7222,
+  "name": "Oblige Obscure",
+  "description": "A thousand secrets, and half of them are lethal. It\u0027s best not to get lost...",
+  "requirement": "Successfully complete events in the Bastion of the Obscure.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Fight off the Kryptis ambush."
+    },
+    {
+      "type": "Text",
+      "text": "Collect relics for Livia and keep the Kryptis from stealing too many."
+    },
+    {
+      "type": "Text",
+      "text": "Help Livia escort the relics by shooting at Kryptis from the magic platforms."
+    },
+    {
+      "type": "Text",
+      "text": "Defeat the Kryptis boss."
+    },
+    {
+      "type": "Text",
+      "text": "Defend Researcher Lezzi as she gathers info about the kryptis rifts."
+    },
+    {
+      "type": "Text",
+      "text": "Quickly disperse the unstable rift before it explodes."
+    },
+    {
+      "type": "Text",
+      "text": "Escort Researcher Lezzi and her new data about Nayos."
+    },
+    {
+      "type": "Text",
+      "text": "Stop the Kryptis from taking the map room."
+    },
+    {
+      "type": "Text",
+      "text": "Exorcise possessed researchers."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 6,
+      "points": 1
+    },
+    {
+      "count": 9,
+      "points": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "Mastery",
+      "region": "Unknown",
+      "id": 677
+    }
+  ]
+}

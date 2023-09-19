@@ -46,6 +46,18 @@
       "value": 3
     },
     {
+      "text": "Damage Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 50
+    },
+    {
+      "text": "Damage Increase",
+      "type": "Percent",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "percent": 5
+    },
+    {
       "text": "Combo Finisher",
       "type": "ComboFinisher",
       "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
@@ -53,7 +65,7 @@
       "finisher_type": "Leap"
     }
   ],
-  "description": "Burst. Strike your target and remove boons.",
+  "description": "Burst. Strike your target and remove boons. Deal more damage if your target has no boons.",
   "icon": "https://render.guildwars2.com/file/48B836AE01C6EC0D0A0A0680D23834960D556A7E/1770661.png",
   "type": "Profession",
   "weapon_type": "Dagger",

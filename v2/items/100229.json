@@ -1,0 +1,59 @@
+{
+  "name": "Rabid Skyscale Staff",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 495,
+  "default_skin": 11746,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 100229,
+  "chat_link": "[\u0026AgGFhwEA]",
+  "icon": "https://render.guildwars2.com/file/AEDDFECD13B40D397D0FA56C2A2451AA951B0BC6/3123605.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 1034,
+    "max_power": 1166,
+    "defense": 0,
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ]
+      },
+      {
+        "flags": [
+          "Infusion"
+        ]
+      }
+    ],
+    "attribute_adjustment": 717.024,
+    "infix_upgrade": {
+      "id": 154,
+      "attributes": [
+        {
+          "attribute": "Precision",
+          "modifier": 179
+        },
+        {
+          "attribute": "Toughness",
+          "modifier": 179
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 251
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Legendary Weapon Starter Kit",
+  "description": "Double-click to choose from a select list of legendary weapon starter kits. All contents are account bound on acquisition.",
+  "type": "Container",
+  "level": 0,
+  "rarity": "Legendary",
+  "vendor_value": 640,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse",
+    "DeleteWarning"
+  ],
+  "restrictions": [],
+  "id": 96054,
+  "chat_link": "[\u0026AgE2dwEA]",
+  "icon": "https://render.guildwars2.com/file/B12D41A5A67EAA554108FC6D20C9BE697EF77E1A/3122159.png",
+  "details": {
+    "type": "Default"
+  }
+}

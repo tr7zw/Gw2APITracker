@@ -1,0 +1,55 @@
+{
+  "id": 7054,
+  "name": "Amnytas Explorer",
+  "description": "You\u0027ve explored the spacious colleges of Amnytas.",
+  "requirement": "Explore all areas in Amnytas.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Bastion of the Natural"
+    },
+    {
+      "type": "Text",
+      "text": "Bastion of Knowledge"
+    },
+    {
+      "type": "Text",
+      "text": "Bastion of Strength"
+    },
+    {
+      "type": "Text",
+      "text": "Bastion of Balance"
+    },
+    {
+      "type": "Text",
+      "text": "Bastion of the Obscure"
+    },
+    {
+      "type": "Text",
+      "text": "Bastion of the Celestial"
+    },
+    {
+      "type": "Text",
+      "text": "The World Spire"
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    },
+    {
+      "count": 7,
+      "points": 3
+    }
+  ]
+}

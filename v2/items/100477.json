@@ -1,0 +1,29 @@
+{
+  "name": "Ancient Coin",
+  "description": "Double-click to add an Ancient Coin to your wallet.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Basic",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "BulkConsume",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 100477,
+  "chat_link": "[\u0026AgF9iAEA]",
+  "icon": "https://render.guildwars2.com/file/92C767A496CC057FBD66A26E1951EB5A960C49AC/3123699.png",
+  "details": {
+    "type": "Immediate"
+  }
+}

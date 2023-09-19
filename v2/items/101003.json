@@ -1,0 +1,64 @@
+{
+  "name": "Fractal Troubleshooter\u0027s Tags",
+  "description": "\u003cc\u003d@flavor\u003eAwarded by the Consortium to adventurers pioneering the field of recreational Mists stabilization.\u003c/c\u003e",
+  "type": "Trinket",
+  "level": 80,
+  "rarity": "Ascended",
+  "vendor_value": 413,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "NotUpgradeable",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 101003,
+  "chat_link": "[\u0026AgGLigEA]",
+  "icon": "https://render.guildwars2.com/file/974FA438512766984FEF6ED090553BC9E5077EBE/3146027.png",
+  "details": {
+    "type": "Accessory",
+    "infusion_slots": [
+      {
+        "flags": [
+          "Infusion"
+        ],
+        "item_id": 49433
+      }
+    ],
+    "attribute_adjustment": 224.07,
+    "infix_upgrade": {
+      "id": 1145,
+      "buff": {
+        "skill_id": 31930
+      },
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 92
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 92
+        },
+        {
+          "attribute": "Vitality",
+          "modifier": 49
+        },
+        {
+          "attribute": "CritDamage",
+          "modifier": 49
+        }
+      ]
+    }
+  }
+}

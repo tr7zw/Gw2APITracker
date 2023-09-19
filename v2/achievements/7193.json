@@ -1,0 +1,39 @@
+{
+  "id": 7193,
+  "name": "Skyfarer",
+  "description": "You\u0027ve explored all major areas of Secrets of the Obscure.",
+  "requirement": "Explore all areas in Secrets of the Obscure.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "Explore all areas in Skywatch Archipelago."
+    },
+    {
+      "type": "Text",
+      "text": "Explore all areas in Amnytas."
+    },
+    {
+      "type": "Text",
+      "text": "Explore all areas in an as-yet-undiscovered place."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 1
+    },
+    {
+      "count": 2,
+      "points": 2
+    },
+    {
+      "count": 3,
+      "points": 2
+    }
+  ]
+}

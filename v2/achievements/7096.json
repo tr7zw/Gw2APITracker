@@ -1,0 +1,49 @@
+{
+  "id": 7096,
+  "name": "Astral Heartbeat",
+  "description": "",
+  "requirement": "Gather the necessary armor skins to unlock acquiring the Arcana of Astral Heartbeat from the Wizard\u0027s Tower.",
+  "locked_text": "",
+  "type": "ItemSet",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Skin",
+      "id": 11742
+    },
+    {
+      "type": "Skin",
+      "id": 11586
+    },
+    {
+      "type": "Item",
+      "id": 100314
+    },
+    {
+      "type": "Item",
+      "id": 100027
+    }
+  ],
+  "tiers": [
+    {
+      "count": 1,
+      "points": 0
+    },
+    {
+      "count": 2,
+      "points": 1
+    },
+    {
+      "count": 3,
+      "points": 1
+    },
+    {
+      "count": 4,
+      "points": 1
+    }
+  ]
+}
