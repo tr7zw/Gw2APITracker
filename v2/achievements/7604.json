@@ -1,0 +1,29 @@
+{
+  "id": 7604,
+  "icon": "https://render.guildwars2.com/file/2BBA251A24A2C1A0A305D561580449AF5B55F54F/338457.png",
+  "name": "WvW Rush Keep Capturer 2",
+  "description": "Champion points: 60",
+  "requirement": "Capture a keep for your realm in World vs. World.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 0
+    }
+  ],
+  "prerequisites": [
+    7617
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 71581,
+      "count": 5
+    }
+  ]
+}

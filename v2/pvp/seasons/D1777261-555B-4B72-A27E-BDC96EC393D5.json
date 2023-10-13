@@ -174,42 +174,6 @@
     }
   ],
   "leaderboards": {
-    "legendary": {
-      "settings": {
-        "name": "",
-        "duration": null,
-        "scoring": "E6487336-4B5B-4BFA-9CFA-9FF232CAEF85",
-        "tiers": [
-          {
-            "range": [
-              1,
-              0.95
-            ]
-          },
-          {
-            "range": [
-              0.95,
-              0.9
-            ]
-          },
-          {
-            "range": [
-              0.9,
-              0.75
-            ]
-          }
-        ]
-      },
-      "scorings": [
-        {
-          "id": "E6487336-4B5B-4BFA-9CFA-9FF232CAEF85",
-          "type": "Integer",
-          "description": "Current prestige rank. Prestige rank can be gained or lost by winning or losing ranked matches in the legendary division.",
-          "name": "Prestige",
-          "ordering": "MoreIsBetter"
-        }
-      ]
-    },
     "guild": {
       "settings": {
         "name": "",
@@ -284,6 +248,42 @@
           "description": "",
           "name": "Losses",
           "ordering": "LessIsBetter"
+        }
+      ]
+    },
+    "legendary": {
+      "settings": {
+        "name": "",
+        "duration": null,
+        "scoring": "E6487336-4B5B-4BFA-9CFA-9FF232CAEF85",
+        "tiers": [
+          {
+            "range": [
+              1,
+              0.95
+            ]
+          },
+          {
+            "range": [
+              0.95,
+              0.9
+            ]
+          },
+          {
+            "range": [
+              0.9,
+              0.75
+            ]
+          }
+        ]
+      },
+      "scorings": [
+        {
+          "id": "E6487336-4B5B-4BFA-9CFA-9FF232CAEF85",
+          "type": "Integer",
+          "description": "Current prestige rank. Prestige rank can be gained or lost by winning or losing ranked matches in the legendary division.",
+          "name": "Prestige",
+          "ordering": "MoreIsBetter"
         }
       ]
     }

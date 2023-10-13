@@ -1,0 +1,29 @@
+{
+  "name": "Bag of Skirmish Tickets",
+  "description": "Contains 5 skirmish tickets.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Rare",
+  "vendor_value": 0,
+  "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 101052,
+  "chat_link": "[\u0026AgG8igEA]",
+  "icon": "https://render.guildwars2.com/file/EA7D806F457FAEB924E1A3A2056D18404D9CE8F1/819624.png",
+  "details": {
+    "type": "Immediate"
+  }
+}

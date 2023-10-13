@@ -1,0 +1,51 @@
+{
+  "name": "Apostate\u0027s Big Grin",
+  "type": "Weapon",
+  "level": 65,
+  "rarity": "Exotic",
+  "vendor_value": 342,
+  "default_skin": 5155,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "AccountBound",
+    "NoMysticForge",
+    "NoSell",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 52129,
+  "chat_link": "[\u0026AgGhywAA]",
+  "icon": "https://render.guildwars2.com/file/C565D3253F4D6D32E1D89D462CD8B56003B8FABC/67832.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 751,
+    "max_power": 882,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 542.72,
+    "infix_upgrade": {
+      "id": 1012,
+      "attributes": [
+        {
+          "attribute": "Toughness",
+          "modifier": 136
+        },
+        {
+          "attribute": "Healing",
+          "modifier": 136
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 190
+        }
+      ]
+    }
+  }
+}

@@ -186,6 +186,12 @@
           "type": "Percent",
           "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
           "percent": 5
+        },
+        {
+          "text": "Number of Targets",
+          "type": "Number",
+          "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+          "value": 5
         }
       ],
       "description": "Primal Burst. Slice nearby enemies, removing boons and gaining adrenaline per boon removed. Deal more damage if your target has no boons.",
@@ -993,7 +999,7 @@
           "text": "Apply Buff/Condition",
           "type": "Buff",
           "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-          "duration": 5,
+          "duration": 3,
           "status": "Burning",
           "description": "Deals damage every second; stacks intensity.",
           "apply_count": 6

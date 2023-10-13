@@ -1,0 +1,29 @@
+{
+  "id": 7614,
+  "icon": "https://render.guildwars2.com/file/2BBA251A24A2C1A0A305D561580449AF5B55F54F/338457.png",
+  "name": "WvW Rush Land Claimer 2",
+  "description": "Champion points: 10",
+  "requirement": "Claim land for your realm in World versus World.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "Permanent"
+  ],
+  "tiers": [
+    {
+      "count": 10,
+      "points": 0
+    }
+  ],
+  "prerequisites": [
+    7641
+  ],
+  "rewards": [
+    {
+      "type": "Item",
+      "id": 71581,
+      "count": 5
+    }
+  ]
+}
