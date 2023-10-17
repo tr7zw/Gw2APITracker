@@ -1,0 +1,50 @@
+{
+  "name": "Grim Machine Longbow",
+  "description": "\u003cc\u003d@flavor\u003eDo not attempt to open device. Limit exposure to any fumes emitted by device to under one minute. Turn device off when not in use. Do not listen to the device\u0027s warnings.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 11855,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 101097,
+  "chat_link": "[\u0026AgHpigEA]",
+  "icon": "https://render.guildwars2.com/file/38CD072AF39425E7722C583A7137B2489524C9D0/3172011.png",
+  "details": {
+    "type": "LongBow",
+    "damage_type": "Physical",
+    "min_power": 920,
+    "max_power": 1080,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 1067,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 171
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 171
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 239
+        }
+      ]
+    }
+  }
+}

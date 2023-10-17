@@ -1,0 +1,33 @@
+{
+  "id": 7647,
+  "name": "The Night Time Stood Still",
+  "description": "",
+  "requirement": "Investigate a new occurrence in the Mad Realm.",
+  "locked_text": "",
+  "type": "Default",
+  "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+  ],
+  "bits": [
+    {
+      "type": "Text",
+      "text": "1. Check in with Magister Tassi in Lion\u0027s Arch."
+    },
+    {
+      "type": "Text",
+      "text": "2. Attempt to climb the Stopped Clock Tower. It should be safe to give it a solid try, right?"
+    },
+    {
+      "type": "Text",
+      "text": "3. Report back to Magister Tassi in Lion\u0027s Arch."
+    }
+  ],
+  "tiers": [
+    {
+      "count": 3,
+      "points": 1
+    }
+  ]
+}

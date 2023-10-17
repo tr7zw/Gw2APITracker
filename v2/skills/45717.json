@@ -18,13 +18,6 @@
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 1,
-      "dmg_multiplier": 0.63
-    },
-    {
-      "text": "Damage",
-      "type": "Damage",
-      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-      "hit_count": 1,
       "dmg_multiplier": 0.95
     },
     {
@@ -53,12 +46,6 @@
       "status": "One Wolf Pack",
       "description": "Striking a foe will cause them to be attacked again after a short delay.",
       "apply_count": 1
-    },
-    {
-      "text": "Interval",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-      "duration": 0
     },
     {
       "text": "Interval",
@@ -105,7 +92,7 @@
       "description": "Striking a foe will cause them to be attacked again after a short delay.",
       "apply_count": 1,
       "requires_trait": 2128,
-      "overrides": 4
+      "overrides": 3
     },
     {
       "text": "Apply Buff/Condition",
@@ -116,18 +103,18 @@
       "description": "Striking a foe will cause them to be attacked again after a short delay.",
       "apply_count": 1,
       "requires_trait": 2128,
-      "overrides": 5
+      "overrides": 4
     },
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/4E137B09B5CC545211977BFDCEC76119195AC7C9/1770558.png",
-      "duration": 12,
+      "duration": 9,
       "status": "One Wolf Pack",
       "description": "Striking a foe will cause them to be attacked again after a short delay.",
       "apply_count": 1,
       "requires_trait": 2128,
-      "overrides": 6
+      "overrides": 5
     }
   ]
 }

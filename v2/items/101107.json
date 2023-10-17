@@ -1,0 +1,50 @@
+{
+  "name": "Grim Machine Staff",
+  "description": "\u003cc\u003d@flavor\u003eDo not attempt to open device. Limit exposure to any fumes emitted by device to under one minute. Turn device off when not in use. Do not listen to the device\u0027s warnings.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 396,
+  "default_skin": 11847,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 101107,
+  "chat_link": "[\u0026AgHzigEA]",
+  "icon": "https://render.guildwars2.com/file/E07BEC0B55CC90F23F373EDF265EE028A9951DFA/3172140.png",
+  "details": {
+    "type": "Staff",
+    "damage_type": "Physical",
+    "min_power": 985,
+    "max_power": 1111,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 682.88,
+    "infix_upgrade": {
+      "id": 1067,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 171
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 171
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 239
+        }
+      ]
+    }
+  }
+}

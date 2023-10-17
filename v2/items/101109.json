@@ -1,0 +1,50 @@
+{
+  "name": "Grim Machine Focus",
+  "description": "\u003cc\u003d@flavor\u003eDo not attempt to open device. Limit exposure to any fumes emitted by device to under one minute. Turn device off when not in use. Do not listen to the device\u0027s warnings.\u003c/c\u003e",
+  "type": "Weapon",
+  "level": 80,
+  "rarity": "Exotic",
+  "vendor_value": 264,
+  "default_skin": 11854,
+  "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "HideSuffix",
+    "NoSell",
+    "SoulBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 101109,
+  "chat_link": "[\u0026AgH1igEA]",
+  "icon": "https://render.guildwars2.com/file/79B4FC3AFA3BEF73310E1158A0BEF2E4E1099876/3172036.png",
+  "details": {
+    "type": "Focus",
+    "damage_type": "Physical",
+    "min_power": 832,
+    "max_power": 883,
+    "defense": 0,
+    "infusion_slots": [],
+    "attribute_adjustment": 341.44,
+    "infix_upgrade": {
+      "id": 1067,
+      "attributes": [
+        {
+          "attribute": "Power",
+          "modifier": 85
+        },
+        {
+          "attribute": "Precision",
+          "modifier": 85
+        },
+        {
+          "attribute": "ConditionDamage",
+          "modifier": 120
+        }
+      ]
+    }
+  }
+}

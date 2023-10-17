@@ -1,0 +1,32 @@
+{
+  "name": "Personal Gyrocopter Glider",
+  "description": "This will unlock the glider skin in your account wardrobe.",
+  "type": "Consumable",
+  "level": 0,
+  "rarity": "Masterwork",
+  "vendor_value": 0,
+  "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+  ],
+  "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "NoUnderwater",
+    "DeleteWarning",
+    "AccountBindOnUse"
+  ],
+  "restrictions": [],
+  "id": 101077,
+  "chat_link": "[\u0026AgHVigEA]",
+  "icon": "https://render.guildwars2.com/file/A0A51F0668D4FD159507F6F5153AFA5E0DA0CBC8/3171909.png",
+  "details": {
+    "type": "Unlock",
+    "unlock_type": "GliderSkin"
+  }
+}
